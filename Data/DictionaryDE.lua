@@ -13979,8 +13979,8 @@ WordHunterWoW_Dictionary_DE["dürfe"] = { word = "dürfe", translation = "may", 
 WordHunterWoW_Dictionary_DE["dürfen"] = { word = "dürfen", translation = "may", note = "" }
 WordHunterWoW_Dictionary_DE["dürft"] = { word = "dürft", translation = "may", note = "" }
 WordHunterWoW_Dictionary_DE["dürft'n"] = { word = "dürft'n", translation = "you can", note = "" }
-WordHunterWoW_Dictionary_DE["dürfte"] = { word = "dürfte", translation = "should", note = "" }
-WordHunterWoW_Dictionary_DE["dürften"] = { word = "dürften", translation = "should", note = "" }
+WordHunterWoW_Dictionary_DE["dürfte"] = { word = "dürfte", translation = "may; is likely to", note = "subjunctive of dürfen; context-sensitive" }
+WordHunterWoW_Dictionary_DE["dürften"] = { word = "dürften", translation = "may; are likely to", note = "plural subjunctive of dürfen" }
 WordHunterWoW_Dictionary_DE["dürftig"] = { word = "dürftig", translation = "poor", note = "" }
 WordHunterWoW_Dictionary_DE["dürftige"] = { word = "dürftige", translation = "poor", note = "" }
 WordHunterWoW_Dictionary_DE["dürftiger"] = { word = "dürftiger", translation = "poorer", note = "" }
@@ -30845,8 +30845,8 @@ WordHunterWoW_Dictionary_DE["hät"] = { word = "hät", translation = "has", note
 WordHunterWoW_Dictionary_DE["hätt"] = { word = "hätt", translation = "would have", note = "" }
 WordHunterWoW_Dictionary_DE["hätt'n"] = { word = "hätt'n", translation = "would have", note = "" }
 WordHunterWoW_Dictionary_DE["hätt's"] = { word = "hätt's", translation = "it would have", note = "" }
-WordHunterWoW_Dictionary_DE["hätte"] = { word = "hätte", translation = "would have", note = "" }
-WordHunterWoW_Dictionary_DE["hätten"] = { word = "hätten", translation = "would have", note = "" }
+WordHunterWoW_Dictionary_DE["hätte"] = { word = "hätte", translation = "would have; had", note = "subjunctive of haben" }
+WordHunterWoW_Dictionary_DE["hätten"] = { word = "hätten", translation = "would have; had", note = "plural subjunctive of haben" }
 WordHunterWoW_Dictionary_DE["hättet"] = { word = "hättet", translation = "would have", note = "" }
 WordHunterWoW_Dictionary_DE["häufchen"] = { word = "Häufchen", translation = "Pile", note = "" }
 WordHunterWoW_Dictionary_DE["häufen"] = { word = "häufen", translation = "pile up", note = "" }
@@ -36600,8 +36600,8 @@ WordHunterWoW_Dictionary_DE["könnt"] = { word = "könnt", translation = "can", 
 WordHunterWoW_Dictionary_DE["könnt'er"] = { word = "könnt'er", translation = "he could", note = "" }
 WordHunterWoW_Dictionary_DE["könnt'n"] = { word = "könnt'n", translation = "can", note = "" }
 WordHunterWoW_Dictionary_DE["könnt's"] = { word = "könnt's", translation = "you can", note = "" }
-WordHunterWoW_Dictionary_DE["könnte"] = { word = "könnte", translation = "could", note = "" }
-WordHunterWoW_Dictionary_DE["könnten"] = { word = "könnten", translation = "could", note = "" }
+WordHunterWoW_Dictionary_DE["könnte"] = { word = "könnte", translation = "could; might", note = "subjunctive of können" }
+WordHunterWoW_Dictionary_DE["könnten"] = { word = "könnten", translation = "could; might", note = "plural subjunctive of können" }
 WordHunterWoW_Dictionary_DE["könntest"] = { word = "könntest", translation = "could", note = "" }
 WordHunterWoW_Dictionary_DE["könntet"] = { word = "könntet", translation = "could", note = "" }
 WordHunterWoW_Dictionary_DE["köpfchen"] = { word = "Köpfchen", translation = "brains", note = "" }
@@ -41565,6 +41565,12 @@ WordHunterWoW_Dictionary_DE["monate"] = { word = "Monate", translation = "Months
 WordHunterWoW_Dictionary_DE["monatelang"] = { word = "monatelang", translation = "for months", note = "" }
 WordHunterWoW_Dictionary_DE["monatelange"] = { word = "monatelange", translation = "months", note = "" }
 WordHunterWoW_Dictionary_DE["monaten"] = { word = "Monaten", translation = "months", note = "" }
+WordHunterWoW_Dictionary_DE["monatlich"] = { word = "monatlich", translation = "monthly", note = "base adjective/adverb" }
+WordHunterWoW_Dictionary_DE["monatliche"] = { word = "monatliche", translation = "monthly", note = "inflected form of monatlich" }
+WordHunterWoW_Dictionary_DE["monatlichem"] = { word = "monatlichem", translation = "monthly", note = "inflected form of monatlich" }
+WordHunterWoW_Dictionary_DE["monatlichen"] = { word = "monatlichen", translation = "monthly", note = "inflected form of monatlich" }
+WordHunterWoW_Dictionary_DE["monatlicher"] = { word = "monatlicher", translation = "monthly", note = "inflected form of monatlich" }
+WordHunterWoW_Dictionary_DE["monatliches"] = { word = "monatliches", translation = "monthly", note = "inflected form of monatlich" }
 WordHunterWoW_Dictionary_DE["monats"] = { word = "Monats", translation = "month", note = "" }
 WordHunterWoW_Dictionary_DE["mond"] = { word = "Mond", translation = "moon", note = "" }
 WordHunterWoW_Dictionary_DE["mondaufgang"] = { word = "Mondaufgang", translation = "Moonrise", note = "" }
@@ -42369,7 +42375,7 @@ WordHunterWoW_Dictionary_DE["möbel"] = { word = "Möbel", translation = "Furnit
 WordHunterWoW_Dictionary_DE["möbelstück"] = { word = "Möbelstück", translation = "piece of furniture", note = "" }
 WordHunterWoW_Dictionary_DE["möcht"] = { word = "möcht", translation = "would like", note = "" }
 WordHunterWoW_Dictionary_DE["möcht'n"] = { word = "möcht'n", translation = "would like", note = "" }
-WordHunterWoW_Dictionary_DE["möchte"] = { word = "möchte", translation = "want", note = "" }
+WordHunterWoW_Dictionary_DE["möchte"] = { word = "möchte", translation = "would like", note = "polite/subjunctive form of mögen" }
 WordHunterWoW_Dictionary_DE["möchtegern-helden"] = { word = "Möchtegern-Helden", translation = "Would-be heroes", note = "" }
 WordHunterWoW_Dictionary_DE["möchtegern-kapitänin"] = { word = "Möchtegern-Kapitänin", translation = "Would-be captain", note = "" }
 WordHunterWoW_Dictionary_DE["möchtegerndrachen"] = { word = "Möchtegerndrachen", translation = "Wannabe dragons", note = "" }
@@ -42379,7 +42385,7 @@ WordHunterWoW_Dictionary_DE["möchtegernrekruten"] = { word = "Möchtegernrekrut
 WordHunterWoW_Dictionary_DE["möchtegernretter"] = { word = "Möchtegernretter", translation = "Would-be savior", note = "" }
 WordHunterWoW_Dictionary_DE["möchtegerns"] = { word = "Möchtegerns", translation = "Wannabes", note = "" }
 WordHunterWoW_Dictionary_DE["möchtegernseemänner"] = { word = "Möchtegernseemänner", translation = "Wannabe sailors", note = "" }
-WordHunterWoW_Dictionary_DE["möchten"] = { word = "möchten", translation = "want", note = "" }
+WordHunterWoW_Dictionary_DE["möchten"] = { word = "möchten", translation = "would like", note = "plural polite/subjunctive form of mögen" }
 WordHunterWoW_Dictionary_DE["möchtet"] = { word = "möchtet", translation = "would like", note = "" }
 WordHunterWoW_Dictionary_DE["mög'n"] = { word = "mög'n", translation = "may", note = "" }
 WordHunterWoW_Dictionary_DE["möge"] = { word = "Möge", translation = "May", note = "" }
@@ -42493,8 +42499,8 @@ WordHunterWoW_Dictionary_DE["müssige"] = { word = "müßige", translation = "id
 WordHunterWoW_Dictionary_DE["müssn"] = { word = "müssn", translation = "have to", note = "" }
 WordHunterWoW_Dictionary_DE["müsst"] = { word = "müsst", translation = "must", note = "" }
 WordHunterWoW_Dictionary_DE["müsst'n"] = { word = "müsst'n", translation = "you have to", note = "" }
-WordHunterWoW_Dictionary_DE["müsste"] = { word = "müsste", translation = "would have to", note = "" }
-WordHunterWoW_Dictionary_DE["müssten"] = { word = "müssten", translation = "would have to", note = "" }
+WordHunterWoW_Dictionary_DE["müsste"] = { word = "müsste", translation = "would have to; should", note = "subjunctive of müssen" }
+WordHunterWoW_Dictionary_DE["müssten"] = { word = "müssten", translation = "would have to; should", note = "plural subjunctive of müssen" }
 WordHunterWoW_Dictionary_DE["müsstet"] = { word = "müsstet", translation = "would have to", note = "" }
 WordHunterWoW_Dictionary_DE["müszen"] = { word = "müszen", translation = "must", note = "" }
 WordHunterWoW_Dictionary_DE["mütchen"] = { word = "Mütchen", translation = "Mutchen", note = "" }
@@ -55474,8 +55480,8 @@ WordHunterWoW_Dictionary_DE["sollidens"] = { word = "Sollidens", translation = "
 WordHunterWoW_Dictionary_DE["sollst"] = { word = "sollst", translation = "you should", note = "" }
 WordHunterWoW_Dictionary_DE["sollt"] = { word = "sollt", translation = "should", note = "" }
 WordHunterWoW_Dictionary_DE["sollt'n"] = { word = "sollt'n", translation = "should'n", note = "" }
-WordHunterWoW_Dictionary_DE["sollte"] = { word = "sollte", translation = "should", note = "" }
-WordHunterWoW_Dictionary_DE["sollten"] = { word = "sollten", translation = "should", note = "" }
+WordHunterWoW_Dictionary_DE["sollte"] = { word = "sollte", translation = "should; was supposed to", note = "meaning depends on tense and context" }
+WordHunterWoW_Dictionary_DE["sollten"] = { word = "sollten", translation = "should; were supposed to", note = "plural form; context determines tense" }
 WordHunterWoW_Dictionary_DE["solltest"] = { word = "solltest", translation = "should", note = "" }
 WordHunterWoW_Dictionary_DE["solltet"] = { word = "solltet", translation = "should", note = "" }
 WordHunterWoW_Dictionary_DE["solo"] = { word = "Solo", translation = "Solo", note = "" }
@@ -68702,7 +68708,7 @@ WordHunterWoW_Dictionary_DE["werd'nse"] = { word = "werd'nse", translation = "be
 WordHunterWoW_Dictionary_DE["werd's"] = { word = "werd's", translation = "will", note = "" }
 WordHunterWoW_Dictionary_DE["werde"] = { word = "werde", translation = "become", note = "" }
 WordHunterWoW_Dictionary_DE["werdegang"] = { word = "Werdegang", translation = "Career", note = "" }
-WordHunterWoW_Dictionary_DE["werden"] = { word = "werden", translation = "become", note = "" }
+WordHunterWoW_Dictionary_DE["werden"] = { word = "werden", translation = "become; will", note = "also used to form the passive and future" }
 WordHunterWoW_Dictionary_DE["werden'se"] = { word = "werden'se", translation = "will be", note = "" }
 WordHunterWoW_Dictionary_DE["werdenden"] = { word = "werdenden", translation = "becoming", note = "" }
 WordHunterWoW_Dictionary_DE["werdender"] = { word = "werdender", translation = "becoming", note = "" }
@@ -69929,8 +69935,8 @@ WordHunterWoW_Dictionary_DE["wollomant"] = { word = "Wollomant", translation = "
 WordHunterWoW_Dictionary_DE["wollt"] = { word = "wollt", translation = "wanted", note = "" }
 WordHunterWoW_Dictionary_DE["wollt'n"] = { word = "wollt'n", translation = "wanted", note = "" }
 WordHunterWoW_Dictionary_DE["wollt's"] = { word = "wollt's", translation = "wanted it", note = "" }
-WordHunterWoW_Dictionary_DE["wollte"] = { word = "wollte", translation = "wanted", note = "" }
-WordHunterWoW_Dictionary_DE["wollten"] = { word = "wollten", translation = "wanted", note = "" }
+WordHunterWoW_Dictionary_DE["wollte"] = { word = "wollte", translation = "wanted; intended to", note = "past of wollen" }
+WordHunterWoW_Dictionary_DE["wollten"] = { word = "wollten", translation = "wanted; intended to", note = "plural past of wollen" }
 WordHunterWoW_Dictionary_DE["wolltet"] = { word = "wolltet", translation = "wanted", note = "" }
 WordHunterWoW_Dictionary_DE["wollverbände"] = { word = "Wollverbände", translation = "Wool bandages", note = "" }
 WordHunterWoW_Dictionary_DE["wollverbänden"] = { word = "Wollverbänden", translation = "wool bandages", note = "" }
@@ -69955,7 +69961,7 @@ WordHunterWoW_Dictionary_DE["woraus"] = { word = "woraus", translation = "from w
 WordHunterWoW_Dictionary_DE["worcester"] = { word = "Worcester", translation = "Worcester", note = "" }
 WordHunterWoW_Dictionary_DE["word"] = { word = "word", translation = "word", note = "" }
 WordHunterWoW_Dictionary_DE["word'n"] = { word = "word'n", translation = "word'n", note = "" }
-WordHunterWoW_Dictionary_DE["worden"] = { word = "worden", translation = "been", note = "" }
+WordHunterWoW_Dictionary_DE["worden"] = { word = "worden", translation = "been", note = "past participle of werden, often in perfect passive" }
 WordHunterWoW_Dictionary_DE["worg"] = { word = "Worg", translation = "Worg", note = "" }
 WordHunterWoW_Dictionary_DE["worgbälge"] = { word = "Worgbälge", translation = "Worghides", note = "" }
 WordHunterWoW_Dictionary_DE["worgen"] = { word = "Worgen", translation = "Worgen", note = "" }
@@ -70103,8 +70109,8 @@ WordHunterWoW_Dictionary_DE["wuper"] = { word = "wuper", translation = "wuper", 
 WordHunterWoW_Dictionary_DE["wurallie"] = { word = "Wurallie", translation = "Wurallie", note = "" }
 WordHunterWoW_Dictionary_DE["wurd"] = { word = "wurd", translation = "became", note = "" }
 WordHunterWoW_Dictionary_DE["wurd'n"] = { word = "wurd'n", translation = "became", note = "" }
-WordHunterWoW_Dictionary_DE["wurde"] = { word = "wurde", translation = "became", note = "" }
-WordHunterWoW_Dictionary_DE["wurden"] = { word = "wurden", translation = "became", note = "" }
+WordHunterWoW_Dictionary_DE["wurde"] = { word = "wurde", translation = "became; was", note = "past of werden; with a participle: was (passive)" }
+WordHunterWoW_Dictionary_DE["wurden"] = { word = "wurden", translation = "became; were", note = "plural past of werden; also passive auxiliary" }
 WordHunterWoW_Dictionary_DE["wurdest"] = { word = "wurdest", translation = "became", note = "" }
 WordHunterWoW_Dictionary_DE["wurdet"] = { word = "wurdet", translation = "became", note = "" }
 WordHunterWoW_Dictionary_DE["wurf"] = { word = "Wurf", translation = "litter", note = "" }
@@ -70265,8 +70271,8 @@ WordHunterWoW_Dictionary_DE["wänden"] = { word = "Wänden", translation = "wall
 WordHunterWoW_Dictionary_DE["wär"] = { word = "wär", translation = "would be", note = "" }
 WordHunterWoW_Dictionary_DE["wär'n"] = { word = "wär'n", translation = "would be", note = "" }
 WordHunterWoW_Dictionary_DE["wär's"] = { word = "wär's", translation = "that would be it", note = "" }
-WordHunterWoW_Dictionary_DE["wäre"] = { word = "wäre", translation = "were", note = "" }
-WordHunterWoW_Dictionary_DE["wären"] = { word = "wären", translation = "would be", note = "" }
+WordHunterWoW_Dictionary_DE["wäre"] = { word = "wäre", translation = "would be; were", note = "subjunctive of sein" }
+WordHunterWoW_Dictionary_DE["wären"] = { word = "wären", translation = "would be; were", note = "plural subjunctive of sein" }
 WordHunterWoW_Dictionary_DE["wäret"] = { word = "wäret", translation = "would be", note = "" }
 WordHunterWoW_Dictionary_DE["wärme"] = { word = "Wärme", translation = "warmth", note = "" }
 WordHunterWoW_Dictionary_DE["wärmeenergie"] = { word = "Wärmeenergie", translation = "thermal energy", note = "" }
@@ -70321,10 +70327,10 @@ WordHunterWoW_Dictionary_DE["wünscht"] = { word = "wünscht", translation = "wi
 WordHunterWoW_Dictionary_DE["wünschte"] = { word = "wünschte", translation = "wished", note = "" }
 WordHunterWoW_Dictionary_DE["würd"] = { word = "würd", translation = "would", note = "" }
 WordHunterWoW_Dictionary_DE["würd'n"] = { word = "würd'n", translation = "would", note = "" }
-WordHunterWoW_Dictionary_DE["würde"] = { word = "würde", translation = "would", note = "" }
+WordHunterWoW_Dictionary_DE["würde"] = { word = "würde", translation = "would", note = "würde + infinitive forms the conditional" }
 WordHunterWoW_Dictionary_DE["würdelos"] = { word = "würdelos", translation = "undignified", note = "" }
 WordHunterWoW_Dictionary_DE["würdelose"] = { word = "würdelose", translation = "undignified", note = "" }
-WordHunterWoW_Dictionary_DE["würden"] = { word = "würden", translation = "would", note = "" }
+WordHunterWoW_Dictionary_DE["würden"] = { word = "würden", translation = "would", note = "plural würde; forms the conditional" }
 WordHunterWoW_Dictionary_DE["würdenträger"] = { word = "Würdenträger", translation = "dignitaries", note = "" }
 WordHunterWoW_Dictionary_DE["würdest"] = { word = "Würdest", translation = "Would you", note = "" }
 WordHunterWoW_Dictionary_DE["würdet"] = { word = "Würdet", translation = "Would", note = "" }
