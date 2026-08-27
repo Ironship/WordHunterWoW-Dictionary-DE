@@ -4,6 +4,7 @@ import json, pathlib, re
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 WORDLIST = ROOT / "Data/cache/wordlist_deDE.jsonl"
 TRANSLATIONS = ROOT / "Data/cache/translations_de_en.jsonl"
+CURATED = ROOT / "Data/CuratedDE.jsonl"
 LUA = ROOT / "Data/DictionaryDE.lua"
 LUA_KEY = re.compile(r'^WordHunterWoW_Dictionary_DE\["((?:\\.|[^"])*)"\]')
 
@@ -14,11 +15,11 @@ def runtime_key(word: str) -> str:
 
 def main():
     words = [json.loads(line) for line in WORDLIST.read_text(encoding="utf-8").splitlines() if line.strip()]
-    translations = {
-        record["key"]: record
-        for record in (json.loads(line) for line in TRANSLATIONS.read_text(encoding="utf-8").splitlines() if line.strip())
-        if record.get("translation")
-    }
+    translations = {}
+    for source in (TRANSLATIONS, CURATED):
+        for line in source.read_text(encoding="utf-8").splitlines():
+            record = json.loads(line)
+            if record.get("translation"): translations[record["key"]] = record
     lua_keys = set()
     for line in LUA.read_text(encoding="utf-8").splitlines():
         match = LUA_KEY.match(line)
