@@ -27,3 +27,128 @@
 {"key":"möchten","word":"möchten","translation":"would like","note":"plural polite/subjunctive form of mögen"}
 {"key":"wollte","word":"wollte","translation":"wanted; intended to","note":"past of wollen"}
 {"key":"wollten","word":"wollten","translation":"wanted; intended to","note":"plural past of wollen"}
+{"key":"ihr","word":"Ihr","translation":"you (pl./formal); her; their; to her/them","note":"Capital Ihr = you; lower ihr = her/their/to her"}
+{"key":"sie","word":"sie","translation":"she; they; you (formal Sie)","note":"Capital Sie = you (formal); sie = she/they"}
+{"key":"von","word":"von","translation":"of; from; by","note":"often 'of' in X von Y = X of Y"}
+{"key":"eine","word":"eine","translation":"a; one","note":"feminine 'a' (ein); also numeral 'one'"}
+{"key":"sich","word":"sich","translation":"oneself; itself; themselves (reflexive)","note":"reflexive pronoun for all persons; sich freuen etc."}
+{"key":"des","word":"des","translation":"of the; the (gen.)","note":"genitive of der/das: des Waldes = of the forest"}
+{"key":"an","word":"an","translation":"at; on; to","note":"an der Bruecke = at the bridge; not just 'to'"}
+{"key":"dem","word":"dem","translation":"the (dat.); to/for the","note":"dative of der/das: dem Mann = to the man"}
+{"key":"diese","word":"diese","translation":"this; these","note":"diese (fem. sg. 'this'; pl. 'these')"}
+{"key":"wird","word":"wird","translation":"will; becomes; gets (aux.)","note":"future aux (wird ...); passive aux (wird getoetet = is killed)"}
+{"key":"sein","word":"sein","translation":"to be; his; its","note":"infinitive 'to be'; poss. 'his/its' (sein Buch = his book)"}
+{"key":"ihre","word":"ihre","translation":"her; their; hers; theirs","note":"lower ihre = her/their; Capital Ihre = your (formal)"}
+{"key":"meine","word":"meine","translation":"my; mine","note":"attributive 'my' vs predicative 'mine'"}
+{"key":"zum","word":"zum","translation":"to the; for the","note":"contraction of zu + dem"}
+{"key":"damit","word":"damit","translation":"with it; so that","note":"adverb 'with it' vs conjunction 'so that'"}
+{"key":"zur","word":"zur","translation":"to the; for the","note":"contraction of zu + der"}
+{"key":"am","word":"am","translation":"on the; at the","note":"contraction of an + dem"}
+{"key":"man","word":"man","translation":"one; you (generic)","note":"impersonal pronoun, not English 'man'"}
+{"key":"gibt","word":"gibt","translation":"gives; there is/are (es gibt)","note":"es gibt = there is/are"}
+{"key":"weg","word":"Weg","translation":"way; path","note":"noun Weg 'way' ≠ adverb weg 'away'"}
+{"key":"weiss","word":"weiß","translation":"white; knows","note":"adj 'white' vs verb 'knows' (wissen)"}
+{"key":"nun","word":"nun","translation":"now; well","note":""}
+{"key":"ihren","word":"ihren","translation":"their; her","note":"formal 'your' is capital Ihren; lower ihren = their/her"}
+{"key":"wissen","word":"wissen","translation":"to know; knowledge","note":"verb 'to know'; noun Wissen = knowledge"}
+{"key":"ihrer","word":"ihrer","translation":"her; their; hers/theirs","note":"gen./dat. of sie/they; formal Ihre = your"}
+{"key":"meiner","word":"meiner","translation":"my; mine","note":"inflected form of mein: my/mine"}
+{"key":"eurer","word":"Eurer","translation":"your; yours","note":"informal plural; capitalized in WoW as formal Your"}
+{"key":"euren","word":"Euren","translation":"your; yours","note":"informal plural; capitalized in WoW as formal Your"}
+{"key":"unseren","word":"unseren","translation":"our; ours","note":"inflected form of unser: our/ours"}
+{"key":"sucht","word":"Sucht","translation":"to seek/search; search!; addiction","note":"verb suchen vs noun Sucht = addiction/craving"}
+{"key":"leben","word":"Leben","translation":"life; to live","note":"noun Leben 'life' vs verb leben 'to live'"}
+{"key":"euer","word":"Euer","translation":"your; yours","note":"informal plural; capitalized in WoW as formal Your"}
+{"key":"tötet","word":"Tötet","translation":"kills; kill!","note":"3rd singular/2nd plural or imperative of töten"}
+{"key":"vom","word":"vom","translation":"from the; of the","note":"contraction of von + dem"}
+{"key":"scheint","word":"scheint","translation":"to seem/appear; to shine","note":"scheint = seems/appears; also shines"}
+{"key":"gehört","word":"gehört","translation":"heard; belongs to","note":"hoeren 'heard' vs gehoeren 'belongs to'"}
+{"key":"wollt","word":"wollt","translation":"want (you pl.)","note":"2nd pl. present 'you want'; not past 'wanted'"}
+{"key":"grosse","word":"große","translation":"big; large; great","note":"Adj. of groß; noun size is Größe"}
+{"key":"waren","word":"waren","translation":"were; goods; merchandise","note":"verb were (sein) vs noun Waren goods"}
+{"key":"gerade","word":"gerade","translation":"straight; just; currently","note":"Polysemous: straight vs just/now/barely"}
+{"key":"ihrem","word":"ihrem","translation":"her; its; their; your (formal)","note":"dative possessive; capitalization distinguishes formal Your"}
+{"key":"lager","word":"Lager","translation":"camp; warehouse; store","note":"WoW mostly camp; also warehouse/store"}
+{"key":"seite","word":"Seite","translation":"side; page","note":"Common side; also page of a book"}
+{"key":"helft","word":"helft","translation":"help","note":"2nd pl. you help/imperative; helps is hilft"}
+{"key":"treffen","word":"treffen","translation":"meet; hit","note":"Polysemous: meet vs hit/target"}
+{"key":"meinem","word":"meinem","translation":"my","note":"Dative of mein (my): to/for my"}
+{"key":"seinem","word":"seinem","translation":"his; its","note":"Dative masc./neut. of sein (his/its)"}
+{"key":"stellen","word":"stellen","translation":"to place; to put; to face","note":"sich stellen: to face/take on (a task)"}
+{"key":"zwar","word":"zwar","translation":"indeed; admittedly; though","note":"zwar... aber: although... (but)"}
+{"key":"denen","word":"denen","translation":"whom; to whom; those","note":"Dative plural relative/demonstrative pronoun"}
+{"key":"erhalten","word":"erhalten","translation":"to receive; to get; to preserve","note":"Also: to preserve/maintain"}
+{"key":"eurem","word":"Eurem","translation":"your","note":"Dative masc./neut. of euer (your, pl./formal)"}
+{"key":"unserem","word":"unserem","translation":"our","note":"Dative masc./neut. of unser (our)"}
+{"key":"begebt","word":"Begebt","translation":"to go; to proceed","note":"sich begeben: to go/proceed somewhere"}
+{"key":"fliegt","word":"Fliegt","translation":"flies; fly!","note":"3rd singular/2nd plural or imperative of fliegen"}
+{"key":"art","word":"Art","translation":"type; kind; species","note":"False friend: not English 'art' (= Kunst)"}
+{"key":"kämpfen","word":"kämpfen","translation":"to fight; to battle","note":""}
+{"key":"gefallen","word":"Gefallen","translation":"favor; fallen; to like","note":"Gefallen (noun) favor; gefallen: to like/please; gefallen=fallen (pp. of fallen)"}
+{"key":"gekommen","word":"gekommen","translation":"come","note":"past participle of kommen (to come); not preterite kam/came"}
+{"key":"gefangen","word":"gefangen","translation":"captured; imprisoned; trapped","note":"gefangen halten = hold captive / keep trapped"}
+{"key":"gleich","word":"gleich","translation":"same; equal; immediately; right away","note":"here = immediately, not 'even' (= sogar)"}
+{"key":"je","word":"je","translation":"ever; per; the (in je...desto)","note":"je...desto = the...the (comparative); here = the"}
+{"key":"boden","word":"Boden","translation":"ground; floor; soil; bottom","note":"here = ground, not indoor floor"}
+{"key":"heraus","word":"heraus","translation":"out; forth; out of","note":"directional 'out', not 'out of here' (hierher)"}
+{"key":"hierher","word":"hierher","translation":"to here; hither; over here","note":"directional 'to here', vs hier = here (location)"}
+{"key":"schwer","word":"schwer","translation":"heavy; difficult; hard","note":"covers 'heavy' and 'difficult'; here = hard to find"}
+{"key":"menge","word":"Menge","translation":"crowd; amount; quantity; a lot","note":"here = a lot/quantity, not crowd"}
+{"key":"geschickt","word":"geschickt","translation":"skillful; adept; sent","note":"adj. skillful vs p.p. of schicken 'sent'; here = skillful"}
+{"key":"lage","word":"Lage","translation":"situation; position; location","note":"in der Lage sein = to be able to/capable [idiom]"}
+{"key":"aufhalten","word":"aufhalten","translation":"to stop; to detain; sich aufhalten: to stay","note":"reflexive sich aufhalten = to stay/be present; not just stop"}
+{"key":"recht","word":"recht","translation":"quite; rather; right; law","note":"adverb recht = quite/rather (recht stark=quite strong)"}
+{"key":"her","word":"her","translation":"toward speaker; hither; here (particle)","note":"directional her != hier (here-at); e.g. herkommen=come here"}
+{"key":"befinden","word":"befinden","translation":"to be; to be located; sich befinden: to be","note":"verb sich befinden=to be (situated); noun Befinden=condition"}
+{"key":"getan","word":"getan","translation":"done","note":"past participle of tun (to do); not preterite tat/did"}
+{"key":"leicht","word":"leicht","translation":"light (not heavy); easy; easily","note":"adverbial use = easily; also means easy"}
+{"key":"meldet","word":"Meldet","translation":"report; inform; register","note":"verb melden; Meldet Euch = report to / check in"}
+{"key":"alte","word":"alte","translation":"old","note":"inflected form of alt (old)"}
+{"key":"tor","word":"Tor","translation":"gate; gateway; goal (sports)","note":"WoW sense is gate; goal only in sports"}
+{"key":"scheinen","word":"scheinen","translation":"seem; appear; shine","note":"also to shine/glow, not only seem"}
+{"key":"voller","word":"voller","translation":"full of; fuller","note":"can mean full of or the inflected/comparative form of voll"}
+{"key":"mann","word":"Mann","translation":"man; husband","note":"Mann also means husband (mein Mann)"}
+{"key":"mag","word":"mag","translation":"like; may","note":"form of moegen: to like; modal may/perhaps"}
+{"key":"südlich","word":"südlich","translation":"southern; south of; southerly","note":"adj/adv = southern; south of (suedlich von)"}
+{"key":"unseres","word":"unseres","translation":"our; ours","note":"genitive of unser (our)"}
+{"key":"folgen","word":"folgen","translation":"follow; obey","note":"verb to follow; noun Folgen = consequences"}
+{"key":"ruf","word":"Ruf","translation":"call; reputation","note":"WoW: Ruf also means reputation/standing"}
+{"key":"indem","word":"indem","translation":"by ...-ing; while","note":"subordinating conjunction: by doing sth; while"}
+{"key":"teile","word":"Teile","translation":"parts; share","note":"Teile (noun) = parts; teile (verb) = (I) share"}
+{"key":"nahe","word":"nahe","translation":"near; close; nearby","note":"vicinity is noun Nähe; nahe = near/close"}
+{"key":"nördlich","word":"nördlich","translation":"northern; to the north","note":"adjective/adverb, not noun Norden (= north)"}
+{"key":"zieht","word":"zieht","translation":"pull; draw; head out","note":"ziehen = pull/draw; also 'head out' in WoW"}
+{"key":"ne","word":"ne","translation":"a; an","note":"colloquial short for eine, not nein (= no)"}
+{"key":"toten","word":"Toten","translation":"the dead; dead people","note":"noun pl., dat. of die Toten; not verb töten"}
+{"key":"beute","word":"Beute","translation":"loot; prey; booty","note":"WoW most frequent sense is 'loot'; also 'prey'"}
+{"key":"östlich","word":"östlich","translation":"eastern; to the east (of); eastward","note":"adjective/adverb, not noun Osten 'east'"}
+{"key":"grosser","word":"großer","translation":"big; large; great","note":"inflected form of groß"}
+{"key":"stimme","word":"Stimme","translation":"voice; vote","note":"noun; not verb stimmen 'to agree/be correct'"}
+{"key":"liegen","word":"liegen","translation":"lie; be situated","note":"liegen = be lying/situated, not 'lay' (= legen)"}
+{"key":"reich","word":"Reich","translation":"realm; empire; rich","note":"noun Reich 'realm/empire' vs adj reich 'rich'"}
+{"key":"westlich","word":"westlich","translation":"western; to the west (of); westward","note":"adjective/adverb, not noun Westen 'west'"}
+{"key":"verlassenen","word":"Verlassenen","translation":"forsaken; abandoned; the Forsaken","note":"WoW faction die Verlassenen = the Forsaken"}
+{"key":"hof","word":"Hof","translation":"farm; courtyard; yard","note":"farmstead/farm in context; also courtyard/yard"}
+{"key":"ham","word":"ham","translation":"have","note":"dialectal short form of haben, not meat ham"}
+{"key":"essen","word":"Essen","translation":"food; meal; to eat","note":"noun Essen = food/meal; verb essen = to eat"}
+{"key":"sorgt","word":"sorgt","translation":"ensures; provides; cares; worries","note":"für etwas sorgen = provide/ensure; sich sorgen = worry"}
+{"key":"schaffen","word":"schaffen","translation":"to manage; to accomplish; to create","note":"here = to manage/succeed; also = to create"}
+{"key":"elementare","word":"Elementare","translation":"elementals; elemental beings","note":"noun: elemental creatures, not adjective elementary"}
+{"key":"heimat","word":"Heimat","translation":"home; homeland","note":"Heimat = native region/home, not just hometown"}
+{"key":"sorge","word":"Sorge","translation":"worry; concern; care","note":"singular Sorge = worry/concern; plural Sorgen = worries"}
+{"key":"anhänger","word":"Anhänger","translation":"follower; pendant; trailer","note":"WoW most often follower/adherent; trailer is vehicle sense"}
+{"key":"schätze","word":"Schätze","translation":"treasures; guess, estimate; value, cherish","note":"noun Schätze = treasures; verb schätzen = to guess/estimate/value"}
+{"key":"verdient","word":"verdient","translation":"earned; deserved","note":"verdienen = to earn and to deserve"}
+{"key":"drüben","word":"drüben","translation":"over there; on the other side","note":"adverb = over there, across the way"}
+{"key":"ihres","word":"ihres","translation":"hers; theirs; its","note":"genitive of ihr: her/its/their; hers/theirs/its"}
+{"key":"jedem","word":"jedem","translation":"each; every; to each","note":"dative sg of jeder: to/for each"}
+{"key":"schmiede","word":"Schmiede","translation":"forge; smithy; blacksmith","note":"noun: forge/smithy, not wrought (schmieden)"}
+{"key":"frage","word":"Frage","translation":"question","note":"noun: question, not verb ask (fragen)"}
+{"key":"langer","word":"langer","translation":"long","note":"Inflected form of lang; comparative is länger = longer"}
+{"key":"wart","word":"wart","translation":"were","note":"2nd pl. past of sein = you were; not warten = to wait"}
+{"key":"sin","word":"sin","translation":"are","note":"Dialect for sind = are; not English sin"}
+{"key":"guter","word":"guter","translation":"good","note":"Inflected form of gut = good; not Güter = goods"}
+{"key":"pflanzen","word":"Pflanzen","translation":"plants; to plant","note":"Pflanzen (noun) = plants; pflanzen (verb) = to plant"}
+{"key":"steckt","word":"steckt","translation":"sticks; is inside; is stuck","note":"dahinter steckt = is behind it / lies at its root"}
+{"key":"lieber","word":"lieber","translation":"dear; preferably; rather","note":"comparative of gern; lieber ... als = rather ... than"}
+{"key":"taten","word":"Taten","translation":"actions; deeds; did","note":"Taten (noun) = deeds; taten (verb) = did (tun)"}
