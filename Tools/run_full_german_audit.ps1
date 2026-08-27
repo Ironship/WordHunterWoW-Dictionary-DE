@@ -39,7 +39,7 @@ Rules:
 - Do not edit any other file. Do not omit or add keys.
 When complete, report only counts keep/fix.
 "@
-  & $kilo run -m $MuseModel --auto $prompt
+  & $kilo run -m $MuseModel --variant low --auto $prompt
   return $LASTEXITCODE
 }
 
@@ -102,7 +102,7 @@ Rules:
 - Do not edit any other file. Do not omit or add keys.
 When complete, report only counts keep/fix.
 "@
-        & $kilo run -m $muse --auto $prompt 2>&1 | Out-String
+        & $kilo run -m $muse --variant low --auto $prompt 2>&1 | Out-String
         return $LASTEXITCODE
       } -ArgumentList $b,$root,$MuseModel
     }
