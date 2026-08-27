@@ -24,6 +24,7 @@ COMMON_SAME_TRANSLATION_DENY = {
 }
 
 PROPER_PATTERN = re.compile(r"^[A-ZÄÖÜ].*[A-Za-zÄÖÜäöüß'’\-]*$")
+NOISE_ROOTS = {"ah","ahh","ahhh","aaaa","aaaaa","aaaaah","oh","ohh","ohhh","uh","uhh","uhhh","hm","hmm","hmmm","ooh","wow","haha","hehe","ugh","mmm","ooo","aaa","huh"}
 
 def is_proper_candidate(word: str, translation: str) -> bool:
     if len(word) < 3:
@@ -32,16 +33,28 @@ def is_proper_candidate(word: str, translation: str) -> bool:
         return False
     # translation == word (case-insensitive) is strongest signal for invariant WoW names
     if word.casefold() != translation.casefold():
-        # Second signal: WoW fantasy pattern but translation differs (e.g., Sturmwind->Stormwind)
-        # We only auto-mark these if curated already flagged? For now skip to avoid false positives.
-        # Proper names with translated equivalents are handled via curated manual list; here we keep conservative.
         return False
     if not PROPER_PATTERN.match(word):
         return False
-    # Must contain at least one uppercase letter (already) or apostrophe
     if word.islower():
         return False
     return True
+
+def is_noise_candidate(word: str) -> bool:
+    w = word.strip()
+    if len(w) < 3:
+        return False
+    low = w.casefold().replace("’","'").replace("—","").replace("–","")
+    cleaned = re.sub(r"[^a-zäöüß]", "", low)
+    if cleaned in NOISE_ROOTS:
+        return True
+    # 4+ same char in a row, e.g. AAAAAh, Uhhh, Hmmm
+    if re.search(r"(.)\1{3,}", w):
+        return True
+    if re.search(r"(.)\1{3,}", cleaned):
+        return True
+    # stutter like A-a-aber already handled as proper? but also noise - keep conservative
+    return False
 
 def main():
     curated = {}
@@ -62,12 +75,10 @@ def main():
         if entry.get("status") == "ignored":
             skipped_kept += 1
             continue
-        if is_proper_candidate(word, translation):
+        if is_proper_candidate(word, translation) or is_noise_candidate(word):
             entry["status"] = "ignored"
             added += 1
 
-    # Also consider non-curated entries that are proper names and have translation==word
-    # They are not yet in CuratedDE, so we add them with status ignored preserving translation
     for key, rec in trans_map.items():
         if key in curated:
             continue
@@ -75,7 +86,7 @@ def main():
         translation = rec.get("translation") or ""
         if not translation:
             continue
-        if is_proper_candidate(word, translation):
+        if is_proper_candidate(word, translation) or is_noise_candidate(word):
             curated[key] = {"key": key, "word": word, "translation": translation, "note": rec.get("note") or "", "status": "ignored"}
             added += 1
 
