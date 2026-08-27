@@ -28130,7 +28130,7 @@ WordHunterWoW_Dictionary_DE["heissbegehrtes"] = { word = "heißbegehrtes", trans
 WordHunterWoW_Dictionary_DE["heissblütig"] = { word = "heißblütig", translation = "hot-blooded", note = "" }
 WordHunterWoW_Dictionary_DE["heisse"] = { word = "heiße", translation = "hot", note = "" }
 WordHunterWoW_Dictionary_DE["heissem"] = { word = "heißem", translation = "hot", note = "" }
-WordHunterWoW_Dictionary_DE["heissen"] = { word = "heißen", translation = "be called", note = "" }
+WordHunterWoW_Dictionary_DE["heissen"] = { word = "heißen", translation = "call; be called", note = "willkommen heißen = to welcome" }
 WordHunterWoW_Dictionary_DE["heisser"] = { word = "heißer", translation = "hotter", note = "" }
 WordHunterWoW_Dictionary_DE["heisseres"] = { word = "Heißeres", translation = "Hotter", note = "" }
 WordHunterWoW_Dictionary_DE["heisses"] = { word = "Heißes", translation = "Hot", note = "" }
