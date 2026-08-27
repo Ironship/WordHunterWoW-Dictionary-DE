@@ -152,3 +152,500 @@
 {"key":"steckt","word":"steckt","translation":"sticks; is inside; is stuck","note":"dahinter steckt = is behind it / lies at its root"}
 {"key":"lieber","word":"lieber","translation":"dear; preferably; rather","note":"comparative of gern; lieber ... als = rather ... than"}
 {"key":"taten","word":"Taten","translation":"actions; deeds; did","note":"Taten (noun) = deeds; taten (verb) = did (tun)"}
+{"key":"trotzdem","word":"trotzdem","translation":"nevertheless; anyway; despite that","note":"adverb/conjunction, not preposition"}
+{"key":"laut","word":"Laut","translation":"according to; loud; sound","note":"Laut + genitive = according to; not loud here"}
+{"key":"na","word":"Na","translation":"well; so; come on","note":"Discourse particle; not abbreviation for n/a"}
+{"key":"wärt","word":"Wärt","translation":"would be","note":"Konjunktiv II of sein (ihr wärt = you would be), not warten (to wait)"}
+{"key":"ausfindig","word":"ausfindig","translation":"to locate; to track down","note":"only in phrase ausfindig machen = to locate/track down"}
+{"key":"cenarius","word":"Cenarius","translation":"Cenarius","note":"proper name; cf. adjective Cenarion (Cenarion Circle)"}
+{"key":"schätzen","word":"schätzen","translation":"to value, cherish; to estimate, assess","note":"not the noun Schatz (treasure); verb schätzen"}
+{"key":"staub","word":"Staub","translation":"Dust","note":"idiom sich aus dem Staub machen: to slip away, make off"}
+{"key":"versorgen","word":"versorgen","translation":"to provide with, supply; to look after","note":"mit etwas versorgen: to supply s.o. with sth."}
+{"key":"fluss","word":"Fluss","translation":"river; flow","note":"Fluss = river, not only abstract flow"}
+{"key":"antworten","word":"Antworten","translation":"answers; to answer","note":"noun Antworten (pl.) vs verb antworten to answer"}
+{"key":"klauen","word":"Klauen","translation":"claws; talons","note":"noun Klauen = claws; verb klauen = to steal"}
+{"key":"wilde","word":"wilde","translation":"wild","note":"inflected form of wild"}
+{"key":"klingen","word":"Klingen","translation":"blades; swords","note":"noun Klingen = blades; verb klingen = to sound"}
+{"key":"schwächen","word":"schwächen","translation":"weaknesses; to weaken","note":"noun Schwächen = weaknesses; verb schwächen = to weaken"}
+{"key":"magier","word":"Magier","translation":"mage; wizard","note":"fantasy class; not stage magician"}
+{"key":"sage","word":"sage","translation":"say; tell","note":"1st sg. of sagen = I say; not saw"}
+{"key":"gnade","word":"Gnade","translation":"mercy; grace","note":"in context: mercy, not only grace"}
+{"key":"dar","word":"dar","translation":"there; (darstellen: to represent)","note":"particle of separable verb darstellen"}
+{"key":"frau","word":"Frau","translation":"woman; wife","note":"also wife; Mrs. in address"}
+{"key":"heutige","word":"heutige","translation":"today's; current; present","note":"adj. form of heute, not adverb heute (today)"}
+{"key":"ebenen","word":"Ebenen","translation":"plains; levels","note":"geography: plains; also levels/tiers"}
+{"key":"schuld","word":"Schuld","translation":"guilt; fault; debt","note":"also blame; plural Schulden = debts"}
+{"key":"tat","word":"Tat","translation":"deed; act","note":""}
+{"key":"verfügen","word":"verfügen","translation":"have at one's disposal; command","note":"usually verfügen über = have/command"}
+{"key":"nachrichten","word":"Nachrichten","translation":"news; messages","note":"often 'messages/reports' in quests"}
+{"key":"bestehen","word":"bestehen","translation":"hold one's own; pass; consist of","note":"bestehen aus = consist of; ohne aus = pass/hold own"}
+{"key":"läuft","word":"läuft","translation":"runs; is running; goes","note":"finite verb: runs/goes, not participle"}
+{"key":"botschaft","word":"Botschaft","translation":"message; embassy","note":"polysemous: message vs embassy/diplomatic mission"}
+{"key":"freundin","word":"Freundin","translation":"female friend; girlfriend","note":"not only romantic; also platonic female friend"}
+{"key":"magister","word":"Magister","translation":"Magister (mage title); master","note":"proper title, singular; not plural Masters"}
+{"key":"erhaltet","word":"erhaltet","translation":"receive; get","note":"2nd pl. present you receive, not past received"}
+{"key":"spuren","word":"Spuren","translation":"tracks; traces; footprints","note":"plural of Spur, not sense (spüren)"}
+{"key":"acht","word":"Acht","translation":"eight; attention, heed","note":"sich in Acht nehmen = beware, be on guard"}
+{"key":"einzigen","word":"einzigen","translation":"only; single, sole","note":"die Einzigen = the only ones"}
+{"key":"reiter","word":"Reiter","translation":"rider","note":"Reiter = rider; equestrian is adj."}
+{"key":"ladung","word":"Ladung","translation":"cargo, load; charge","note":"also explosive/energy charge"}
+{"key":"schuppen","word":"Schuppen","translation":"scales; shed","note":"pl. Schuppen = scales (sg. Schuppe); also shed"}
+{"key":"dran","word":"dran","translation":"on it; one's turn","note":"nichts Wahres dran = no truth in it"}
+{"key":"auszuschalten","word":"auszuschalten","translation":"to switch off; to eliminate, take out","note":""}
+{"key":"unternehmen","word":"unternehmen","translation":"to undertake, do; company (n.)","note":"verb vs noun Unternehmen = company"}
+{"key":"tore","word":"Tore","translation":"gate; goal","note":"Tore = gates here (Tore von Shattrath); sg. Tor; goal is football sense"}
+{"key":"recken","word":"Recken","translation":"champion; hero","note":"Recke = champion/hero, gen. Recken; not verb recken (to stretch)"}
+{"key":"unsre","word":"unsre","translation":"our","note":"colloquial form of unsere (our); not pronoun ours"}
+{"key":"fürs","word":"fürs","translation":"for the","note":"contraction of für das"}
+{"key":"geraten","word":"geraten","translation":"to get into; to turn out; advised","note":"in Panik geraten = to panic; also past participle of raten"}
+{"key":"verraten","word":"verraten","translation":"to reveal; to betray","note":"here: to reveal; also to betray"}
+{"key":"find'n","word":"find'n","translation":"to find","note":"colloquial for finden; not 'find it'"}
+{"key":"primus","word":"Primus","translation":"Primus","note":"proper name; not English 'Prime'"}
+{"key":"arkanen","word":"arkanen","translation":"arcane","note":"inflected form of arkan; adjective, not noun Arcana"}
+{"key":"daten","word":"Daten","translation":"data; dates","note":"also dates (pl. of Datum); here: dates and times"}
+{"key":"forscherliga","word":"Forscherliga","translation":"Explorers' League","note":"WoW faction; literal Researchers League"}
+{"key":"meistern","word":"meistern","translation":"masters; to master","note":"noun dat. pl. of Meister vs verb to master"}
+{"key":"panzer","word":"Panzer","translation":"shell; armor; tank","note":"here: turtle shell, not military tank"}
+{"key":"selten","word":"selten","translation":"rare; rarely","note":"adj: rare; adv: rarely; here adv."}
+{"key":"stand","word":"stand","translation":"rank; status; stand","note":"noun: rank/status; not past of stehen (stood)"}
+{"key":"ebene","word":"Ebene","translation":"plain; level; layer","note":"here: plain/field; not gaming level"}
+{"key":"prüfungen","word":"Prüfungen","translation":"trials; tests; exams","note":"here: trials, not school exams"}
+{"key":"stecken","word":"stecken","translation":"to be stuck; to put; to stick","note":"intr.: to be stuck; tr.: to put/stick"}
+{"key":"wohin","word":"wohin","translation":"where to","note":"directional 'where to', cf. 'wo' = 'where' (location)"}
+{"key":"anderer","word":"anderer","translation":"other; another","note":"sing. 'other/another'; not pl. 'others' (= andere)"}
+{"key":"schwingen","word":"Schwingen","translation":"to swing; to wield","note":"verb, not noun 'swing'; e.g. Axt schwingen = wield an axe"}
+{"key":"starke","word":"starke","translation":"strong","note":"inflected form of stark (strong)"}
+{"key":"unterhalten","word":"unterhalten","translation":"entertain; maintain; support","note":"Feuer unterhalten = to keep a fire going"}
+{"key":"annehmen","word":"annehmen","translation":"accept; assume; suppose","note":"Auftrag annehmen = to accept/take on a quest"}
+{"key":"nem","word":"nem","translation":"a; one","note":"colloquial contraction of einem (dat. of ein)"}
+{"key":"welpen","word":"Welpen","translation":"whelps; pups","note":"often dragon whelps in WoW, not just puppies"}
+{"key":"interessieren","word":"interessieren","translation":"interest; be interested","note":"sich interessieren = to be interested in"}
+{"key":"tragt","word":"tragt","translation":"carry; wear; bear","note":"form of tragen; Rüstung tragen = to wear armor"}
+{"key":"übel","word":"übel","translation":"evil","note":"noun das Übel = evil; adj übel = bad/sick"}
+{"key":"beherrschen","word":"beherrschen","translation":"master; control; dominate","note":"not 'command' (kommandieren); beherrschen=master/control"}
+{"key":"bloss","word":"bloß","translation":"just; merely; bare","note":"particle bloß=merely/just; adj. bloß=bare, naked"}
+{"key":"gelassen","word":"gelassen","translation":"calm; left; allowed","note":"adj. gelassen=calm; p.p. of lassen=let/leave/allow"}
+{"key":"gelungen","word":"gelungen","translation":"successful; succeeded","note":"adj. gelungen=successful; p.p. of gelingen=succeed"}
+{"key":"leichnam","word":"Leichnam","translation":"corpse; dead body","note":"specifically corpse, not generic body (Körper)"}
+{"key":"morgen","word":"Morgen","translation":"morning","note":"Morgen=morning; adv. morgen=tomorrow"}
+{"key":"orten","word":"Orten","translation":"places; to locate","note":"noun Orten=places; verb orten=to locate/track"}
+{"key":"bande","word":"Bande","translation":"gang; crew; band","note":"Bande=gang/crew; not musical band (Band)"}
+{"key":"rechtzeitig","word":"rechtzeitig","translation":"in time; timely","note":"means in time/timely; 'punctual' is pünktlich"}
+{"key":"ruhig","word":"ruhig","translation":"quiet; calm","note":"also calm/peaceful; adj. ruhig covers both"}
+{"key":"band","word":"Band","translation":"ribbon; band; volume","note":"außer Rand und Band idiom=out of control, chaotic"}
+{"key":"betretet","word":"Betretet","translation":"enter","note":"2nd pl. imperative of betreten; not 3rd sg. enters"}
+{"key":"hort","word":"Hort","translation":"hoard; lair","note":"hoard/lair; not English; cf. Pechschwingenhort=Blackwing Lair"}
+{"key":"mühen","word":"Mühen","translation":"efforts; trouble","note":"pl. of Mühe=effort; verb sich mühen=take pains"}
+{"key":"schmerzen","word":"Schmerzen","translation":"pains; aches","note":"noun, plural of Schmerz; not verb schmerzen"}
+{"key":"weder","word":"weder","translation":"neither","note":"usually weder...noch = neither...nor"}
+{"key":"fehlen","word":"fehlen","translation":"to be missing; to lack; to be absent","note":"not to miss emotionally; e.g. es fehlt = sth is missing"}
+{"key":"roten","word":"roten","translation":"red","note":"inflected form of rot; not röten = to redden"}
+{"key":"arme","word":"arme","translation":"poor; wretched","note":"noun Arme = arms (pl. of Arm); idiom unter die Arme greifen = to help"}
+{"key":"laden","word":"Laden","translation":"shop; store","note":"verb laden = to load; to charge"}
+{"key":"zeitpunkt","word":"Zeitpunkt","translation":"point in time; moment; date","note":""}
+{"key":"leisten","word":"leisten","translation":"afford","note":"sich etw. leisten = afford sth. (reflexive only)"}
+{"key":"stimmt","word":"stimmt","translation":"be correct; be true; be right","note":"verb: es stimmt = it is correct/true, not adj. true"}
+{"key":"splitter","word":"Splitter","translation":"splinter; shard; fragment","note":"Singular form; not only wood splinters, often shard/fragment"}
+{"key":"gen","word":"gen","translation":"toward; to","note":"Short for 'gegen' (direction), not 'gene' (Gen)"}
+{"key":"kul","word":"Kul","translation":"Kul","note":"Proper name Kul Tiras; spelling with K"}
+{"key":"gewalt","word":"Gewalt","translation":"violence; force; power","note":"also authority/power; here Gewalt C'Thuns = power/control, not violence"}
+{"key":"junge","word":"Junge","translation":"boy; young","note":"noun Boy vs inflected adj young; context Junge Liebende = young lovers"}
+{"key":"schild","word":"Schild","translation":"shield; sign; signboard","note":"Neuter = shield; masculine = sign/board"}
+{"key":"bau","word":"Bau","translation":"building; construction; burrow; den","note":"Also animal burrow/den"}
+{"key":"aufbrechen","word":"aufbrechen","translation":"break open; set out; depart","note":"Intransitive = set off/depart; transitive = break open"}
+{"key":"vorstellen","word":"vorstellen","translation":"introduce; imagine","note":"sich vorstellen = introduce oneself / imagine"}
+{"key":"mitten","word":"mitten","translation":"in the middle; amid","note":"Adverb/preposition, not noun 'middle'"}
+{"key":"spitze","word":"Spitze","translation":"tip; peak; top; great!","note":"Noun = tip/peak; coll. interjection = great!"}
+{"key":"überlassen","word":"überlassen","translation":"leave (to sb.); entrust; give up","note":"jmdm. etw. überlassen = to leave sth to sb; not past of lassen"}
+{"key":"posten","word":"Posten","translation":"post; outpost; position","note":"military outpost/position, not mail"}
+{"key":"ansehen","word":"ansehen","translation":"look at; view; watch","note":"separable: sich etw. ansehen = look at sth."}
+{"key":"aufnehmen","word":"aufnehmen","translation":"record; pick up; take in; include","note":"Polysemous; sense depends on context"}
+{"key":"versuche","word":"versuche","translation":"attempt; try","note":"noun Versuche = attempts; verb versuche = (I) try"}
+{"key":"wirkt","word":"wirkt","translation":"appear; seem; work; take effect","note":"here appears/seems, not works"}
+{"key":"neuer","word":"neuer","translation":"new; newer","note":"inflected form of neu; context = new (not comparative)"}
+{"key":"mittel","word":"Mittel","translation":"means; remedy; medium; funds","note":"Neuter noun: means/resources; remedy"}
+{"key":"sowohl","word":"sowohl","translation":"both; as well as","note":"in sowohl ... als auch = both ... and"}
+{"key":"verfolgen","word":"verfolgen","translation":"pursue; follow; track","note":"transitive: jdn verfolgen = pursue s.o.; also track"}
+{"key":"dir","word":"dir","translation":"you (dative)","note":"dative of du: to/for you"}
+{"key":"schafft","word":"schafft","translation":"creates; makes; manages","note":"schaffen: to create and to manage/accomplish"}
+{"key":"vollkommen","word":"vollkommen","translation":"perfect; complete; completely","note":"adj. and adv.; not only 'completely'"}
+{"key":"einsatz","word":"Einsatz","translation":"use; deployment; mission; effort; stake","note":"broader than 'mission'; context-specific sense"}
+{"key":"verschafft","word":"verschafft","translation":"provides; procures; obtains","note":""}
+{"key":"erlegen","word":"erlegen","translation":"to kill; to bag (game)","note":"hunting term; infinitive, not gerund 'killing'"}
+{"key":"leichter","word":"leichter","translation":"lighter; easier","note":"comparative of leicht: light; easy"}
+{"key":"kobolde","word":"Kobolde","translation":"kobold","note":"WoW Kobold ≠ Goblin; Goblin is different creature"}
+{"key":"eben","word":"eben","translation":"just; exactly; flat; even","note":"eben is not even (=sogar); means just/exactly or flat/even"}
+{"key":"lagers","word":"Lagers","translation":"camp; warehouse; store","note":"genitive of Lager; here camp (Expeditionslager)"}
+{"key":"landen","word":"Landen","translation":"lands; countries","note":"plural of Land (noun); verb landen = to land"}
+{"key":"loamm","word":"Loamm","translation":"Loamm","note":"proper name; not loam (soil)"}
+{"key":"endgültig","word":"endgültig","translation":"final; definitive","note":"adjective final, not adverb finally (=endlich)"}
+{"key":"hab'n","word":"hab'n","translation":"have (colloquial for haben)","note":"colloquial contraction of haben; no it"}
+{"key":"werk","word":"Werk","translation":"work; factory; plant","note":"Werk = work/creation; also factory/plant"}
+{"key":"ans","word":"ans","translation":"to the; at the","note":"contraction of an + das"}
+{"key":"donnerfels","word":"Donnerfels","translation":"Thunder Bluff","note":"WoW zone; literally thunder rock"}
+{"key":"korthia","word":"Korthia","translation":"Korthia","note":"correct spelling with K"}
+{"key":"lande","word":"Lande","translation":"lands; countries","note":"plural of Land; Verwüstete Lande = Blasted Lands"}
+{"key":"lehrensucher","word":"Lehrensucher","translation":"lore seeker","note":"WoW title; Lehre = lore, not lesson"}
+{"key":"ausgesetzt","word":"ausgesetzt","translation":"exposed; offered (bounty)","note":"Kopfgeld aussetzen = to put a bounty on"}
+{"key":"brachland","word":"Brachland","translation":"Barrens; fallow land; wasteland","note":"WoW zone: Das Brachland = The Barrens"}
+{"key":"narren","word":"Narren","translation":"fools; jesters","note":"plural of Narr (fool/jester)"}
+{"key":"tals","word":"Tals","translation":"valley","note":"genitive of Tal (valley): of the valley"}
+{"key":"bedroht","word":"bedroht","translation":"threatens; threatened","note":"present verb threatens vs adj threatened"}
+{"key":"toren","word":"Toren","translation":"gate; gates","note":"dative pl. of Tor = gate; not Tor = goal"}
+{"key":"vertrieben","word":"vertrieben","translation":"driven out; expelled","note":"of vertreiben; not distributed (=verteilt)"}
+{"key":"tode","word":"Tode","translation":"death","note":"dative sg. of Tod; not plural deaths"}
+{"key":"vermisst","word":"vermisst","translation":"misses; missing; missed","note":"verb to miss in context; not only adj missing"}
+{"key":"fesseln","word":"Fesseln","translation":"shackles; fetters; bonds","note":"Noun pl. of Fessel; verb fesseln = to bind, to captivate"}
+{"key":"heran","word":"heran","translation":"up; closer; toward (directional particle)","note":"particle with verbs e.g. herankommen = to approach"}
+{"key":"höre","word":"höre","translation":"to hear; to listen","note":"1st sg. ich hoere = I hear; also imperative: listen!"}
+{"key":"zerschlagenen","word":"Zerschlagenen","translation":"Broken; shattered; battered","note":"WoW lore: Zerschlagene = Broken draenei; otherwise battered"}
+{"key":"aufs","word":"aufs","translation":"onto the; on the","note":"contraction of auf + das; not English ons"}
+{"key":"formen","word":"formen","translation":"form; shape; mold","note":"sich formen: to form/take shape; noun Formen: shapes"}
+{"key":"gegenwart","word":"Gegenwart","translation":"presence; present (time)","note":"in Gegenwart: in presence of; also present time"}
+{"key":"innere","word":"Innere","translation":"interior; inside; inner","note":"noun das Innere: interior; adj innere: inner"}
+{"key":"scheibe","word":"Scheibe","translation":"slice; disc; pane","note":"Scheibe Speck: slice of bacon; also disc/pane"}
+{"key":"ausreichen","word":"ausreichen","translation":"suffice; be enough; be sufficient","note":"verb, not adjective sufficient"}
+{"key":"verhalten","word":"Verhalten","translation":"behavior; conduct; to behave","note":"noun Verhalten: behavior; verb sich verhalten: to behave"}
+{"key":"finstere","word":"finstere","translation":"dark; sinister","note":"inflected form of finster"}
+{"key":"geschmack","word":"Geschmack","translation":"taste; flavor","note":""}
+{"key":"schlachten","word":"Schlachten","translation":"battles; to slaughter","note":"noun battles vs verb to slaughter"}
+{"key":"geöffnet","word":"geöffnet","translation":"opened","note":""}
+{"key":"richtet","word":"richtet","translation":"directs; points; relay","note":"ausrichten = to relay, to pass on"}
+{"key":"schloss","word":"Schloss","translation":"castle; palace; lock","note":"polysemy: castle vs lock (here: lock)"}
+{"key":"dorn","word":"Dorn","translation":"thorn; spike","note":"idiom: Dorn im Auge = thorn in side"}
+{"key":"drogbar","word":"Drogbar","translation":"Drogbar","note":"Proper name: Highmountain race"}
+{"key":"rächen","word":"rächen","translation":"to avenge; to take revenge","note":"verb; noun is Rache/ Vergeltung"}
+{"key":"sonnenbrunnen","word":"Sonnenbrunnen","translation":"Sunwell","note":"WoW proper name Sunwell; lit. sun well"}
+{"key":"sporen","word":"Sporen","translation":"spores","note":"plural of Spore; not spurs (Sporn)"}
+{"key":"angeführt","word":"angeführt","translation":"led; listed, quoted","note":"past participle of anführen"}
+{"key":"blaue","word":"blaue","translation":"blue","note":"inflected form of blau (blue)"}
+{"key":"gerissen","word":"gerissen","translation":"cunning, sly; torn, ripped","note":"adj. cunning; pp. of reißen"}
+{"key":"harte","word":"harte","translation":"hard; tough","note":"inflected form of hart"}
+{"key":"aufgeschlagen","word":"aufgeschlagen","translation":"pitched; set up; opened; struck","note":"Lager aufschlagen = to pitch camp (here)"}
+{"key":"befehlen","word":"Befehlen","translation":"to command; to order","note":"noun Befehle (pl.) = orders/commands"}
+{"key":"beweise","word":"Beweise","translation":"evidence; proof","note":"pl. of Beweis; usually uncountable evidence"}
+{"key":"einzunehmen","word":"einzunehmen","translation":"to take; to occupy; to capture","note":"einnehmen: also to ingest; infinitive with zu"}
+{"key":"hals","word":"Hals","translation":"Neck","note":"idiom jdm/etw vom Hals schaffen = get rid of s.o./sth."}
+{"key":"tretet","word":"Tretet","translation":"step; tread; kick","note":"tretet: 2pl of treten; wohin Ihr tretet = where you step"}
+{"key":"ausmachen","word":"ausmachen","translation":"to spot; to make out; to turn off","note":"also: to constitute; to account for"}
+{"key":"befallen","word":"befallen","translation":"to infest; to afflict; to befall","note":"befallen von = infested/afflicted by"}
+{"key":"eindringen","word":"eindringen","translation":"to penetrate; to intrude; to enter","note":"verb; noun das Eindringen = intrusion"}
+{"key":"leichte","word":"leichte","translation":"light; easy; slight","note":"inflected form of leicht; covers weight and difficulty senses"}
+{"key":"nachschub","word":"Nachschub","translation":"supplies; reinforcements; resupply","note":"WoW context is supplies/reinforcements, not formal replenishment"}
+{"key":"uralter","word":"uralter","translation":"ancient; very old","note":"not comparative; more ancient would be älter/uralterer"}
+{"key":"durchsuchen","word":"durchsuchen","translation":"search thoroughly; comb through","note":"not browse; means to search systematically/ransack"}
+{"key":"erhebt","word":"Erhebt","translation":"rise; raise; stand up","note":"Erhebt Euch = Rise! imperative of sich erheben, not elevates"}
+{"key":"gewissen","word":"gewissen","translation":"certain; a certain","note":"adj. gewiss = certain; not noun Gewissen = conscience"}
+{"key":"schweigen","word":"Schweigen","translation":"silence","note":"noun; idiom jdn zum Schweigen bringen = silence s.o."}
+{"key":"bedarf","word":"bedarf","translation":"need; requirement; require","note":"noun Bedarf vs verb bedarf + gen. = require"}
+{"key":"blatt","word":"Blatt","translation":"leaf; sheet (of paper); newspaper","note":"idiom das Blatt wenden = turn the tide"}
+{"key":"jünger","word":"Jünger","translation":"disciple; follower","note":"noun Jünger, not comparative jünger = younger"}
+{"key":"starken","word":"starken","translation":"strong","note":"inflected form of stark = strong"}
+{"key":"elementar","word":"Elementar","translation":"elemental","note":"noun Elementar = elemental being, not elementary = basic"}
+{"key":"ausgehen","word":"ausgehen","translation":"go out; run out (of); assume","note":"auch: etw geht aus = run out; davon ausgehen = assume/suppose"}
+{"key":"erschlagt","word":"erschlagt","translation":"slay; slain (erschlagen)","note":"finite/imperative of erschlagen = to slay; not past participle alone"}
+{"key":"gestossen","word":"gestoßen","translation":"bumped; pushed; joined","note":"zu jdm stoßen = to join; context = joined the Dark Irons"}
+{"key":"lebendig","word":"lebendig","translation":"alive; living; vivid","note":"primary = alive/living; lively not needed as separate sense"}
+{"key":"mittler","word":"Mittler","translation":"mediator; intermediary; broker","note":"not 'middle'; person who mediates/brokers (market intermediary)"}
+{"key":"umgeht","word":"umgeht","translation":"handle; deal with; bypass","note":"mit etw umgehen = handle/deal with; also bypass/get around"}
+{"key":"überbringt","word":"überbringt","translation":"deliver; bring; convey","note":"finite present (he/she delivers), not past 'delivered'"}
+{"key":"betrieb","word":"Betrieb","translation":"business; activity; bustle","note":"viel Betrieb = a lot going on / busy activity, not 'operation' alone"}
+{"key":"ner","word":"ner","translation":"a; an (colloquial for einer)","note":"colloquial clipping of einer after preposition"}
+{"key":"rote","word":"rote","translation":"red","note":"inflected form of rot (red), not Röte = redness"}
+{"key":"rum","word":"rum","translation":"around; about (colloquial for herum)","note":"colloquial short for herum, not the spirit rum"}
+{"key":"abnehmen","word":"abnehmen","translation":"to lose weight; to take off; to remove","note":"common senses beyond weight loss"}
+{"key":"anzutreten","word":"anzutreten","translation":"to start; to begin; to embark on","note":"zu-infinitive of antreten; not to compete here"}
+{"key":"einsetzt","word":"einsetzt","translation":"uses; inserts; deploys","note":"3rd sg. of einsetzen, not just used"}
+{"key":"gabe","word":"Gabe","translation":"gift; talent; endowment","note":"WoW Gift of the Naaru"}
+{"key":"halte","word":"halte","translation":"hold; keep; consider","note":"1st sg. of halten; here consider, deem"}
+{"key":"heilung","word":"Heilung","translation":"healing; cure; recovery","note":""}
+{"key":"höchst","word":"höchst","translation":"highly; extremely; utmost","note":"adverb extremely here, not maximum"}
+{"key":"wen","word":"wen","translation":"whom; who","note":"accusative of wer; whom"}
+{"key":"handwerker","word":"Handwerker","translation":"craftsman; artisan; tradesman","note":"not just handyman"}
+{"key":"tafeln","word":"Tafeln","translation":"tablets; panels; boards","note":"pl of Tafel; sg Panel is misleading"}
+{"key":"angewiesen","word":"angewiesen","translation":"instructed; dependent (auf + Acc)","note":"auf etw angewiesen sein = to depend on"}
+{"key":"frische","word":"frische","translation":"fresh","note":"inflected form of frisch; not noun Frische"}
+{"key":"fürchtet","word":"Fürchtet","translation":"fear","note":"verb form of fürchten; not noun Furcht (fear)"}
+{"key":"geht's","word":"geht's","translation":"goes; how's it going","note":"contraction geht es; Wie geht's = How are you?"}
+{"key":"gestohlene","word":"gestohlene","translation":"stolen","note":"inflected form of gestohlen"}
+{"key":"verlasst","word":"verlasst","translation":"leave; abandon","note":"imperative/2nd pl. present of verlassen (to leave/abandon)"}
+{"key":"anstellen","word":"anstellen","translation":"employ; hire; conduct; carry out","note":"Nachforschungen anstellen = to investigate"}
+{"key":"fusse","word":"Fuße","translation":"foot","note":"dat. sg. of Fuss; pl. Fuesse = feet"}
+{"key":"schläger","word":"Schläger","translation":"thug; henchman; bat","note":"WoW context = thug/henchman, not sports bat"}
+{"key":"ums","word":"ums","translation":"about the; for the; around the","note":"contraction of um das"}
+{"key":"wonach","word":"wonach","translation":"what for; after what; which ... for","note":"pronominal adverb wo+nach: question for preposition nach"}
+{"key":"draenors","word":"Draenors","translation":"of Draenor; Draenor's","note":"genitive of Draenor (WoW planet)"}
+{"key":"sees","word":"Sees","translation":"lake; of the lake","note":"genitive of der See (lake), not die See (sea)"}
+{"key":"traums","word":"Traums","translation":"of the dream; dream's","note":"genitive of der Traum"}
+{"key":"vermisste","word":"vermisste","translation":"missing; lost","note":"adjective: der vermisste = the missing; not verb missed"}
+{"key":"freut","word":"freut","translation":"is glad; rejoices","note":"verb freuen, not adjective happy (= glücklich)"}
+{"key":"fällen","word":"fällen","translation":"to fell; to cut down","note":"not to fall (fallen); fällen = to cut down trees"}
+{"key":"laufe","word":"Laufe","translation":"course; progression","note":"in 'im Laufe' = in the course of"}
+{"key":"schwache","word":"schwache","translation":"weak; faint","note":"adjective, not noun weakness (= Schwäche)"}
+{"key":"abschluss","word":"Abschluss","translation":"completion; conclusion; graduation","note":"Abschluss is completion not diploma (Diplom)"}
+{"key":"gericht","word":"Gericht","translation":"dish; meal; court; tribunal","note":"polysemous: dish/meal vs court; context is dish"}
+{"key":"nötigen","word":"nötigen","translation":"necessary; needed","note":"adjective nötig = necessary; not verb necessitate"}
+{"key":"angezogen","word":"angezogen","translation":"dressed; attracted","note":"anziehen = to dress; angezogen von = attracted by"}
+{"key":"beschwörung","word":"Beschwörung","translation":"summoning; conjuration","note":"WoW: summoning spell/ritual"}
+{"key":"handwerk","word":"Handwerk","translation":"craft; craftsmanship; trade","note":""}
+{"key":"reif","word":"reif","translation":"ripe; mature; ready","note":"figurative: mature/ready person or idea"}
+{"key":"umhang","word":"Umhang","translation":"cloak; cape","note":"WoW item slot: usually cloak"}
+{"key":"verbinden","word":"verbinden","translation":"connect; link; bandage","note":"also: to bandage/dress a wound"}
+{"key":"ausgemacht","word":"ausgemacht","translation":"spotted; identified; agreed upon","note":"ausmachen: spot or agree on"}
+{"key":"gang","word":"Gang","translation":"corridor; passage; gear","note":"vehicle gear is only one sense"}
+{"key":"güte","word":"Güte","translation":"goodness; kindness","note":"meine Güte = my goodness! (exclamation), not quality"}
+{"key":"heulenden","word":"Heulenden","translation":"howling; wailing","note":"inflected adj. of heulend, not noun Howlers"}
+{"key":"heutigen","word":"heutigen","translation":"present-day; today's","note":"inflected form of heutig (adj.), not adverb heute"}
+{"key":"keinem","word":"keinem","translation":"to no; to none","note":"dative of kein, not pronoun no one (= niemand)"}
+{"key":"magischer","word":"magischer","translation":"magical","note":"inflected form of magisch, not comparative more magical"}
+{"key":"schriften","word":"Schriften","translation":"writings; documents; scriptures","note":"not fonts (computer sense); Schriften = written works"}
+{"key":"trollen","word":"Trollen","translation":"trolls","note":"dative plural of Troll (noun), not verb trolling"}
+{"key":"welchem","word":"welchem","translation":"which; to which","note":"dative of welcher, not which one (nominative)"}
+{"key":"berges","word":"Berges","translation":"mountain; hill","note":"genitive singular of Berg, not plural mountains"}
+{"key":"geliebten","word":"geliebten","translation":"beloved; dear","note":"inflected form of geliebt; not noun Geliebte (= loved ones)"}
+{"key":"haken","word":"Haken","translation":"hook; catch (drawback)","note":"idiom: der Haken = the catch/drawback"}
+{"key":"hohe","word":"hohe","translation":"high; tall","note":"adj. form of hoch; not noun Höhe (= height)"}
+{"key":"knappe","word":"Knappe","translation":"scarce; tight; brief","note":"adj. knapp, not noun Knappe (= squire); knappe Zeit = tight deadline"}
+{"key":"umsonst","word":"umsonst","translation":"for free; in vain","note":"both senses common: free of charge and futile"}
+{"key":"verfallen","word":"verfallen","translation":"succumb to; decay; expire","note":"Wahnsinn verfallen = succumb to madness, not expire"}
+{"key":"angebracht","word":"angebracht","translation":"appropriate; fitting; mounted","note":"attached is secondary; here: appropriate/fitting"}
+{"key":"besetzt","word":"besetzt","translation":"occupied; set (with gems); encrusted","note":"mit Smaragden besetzt = set/encrusted with emeralds"}
+{"key":"bring'n","word":"bring'n","translation":"bring","note":"colloquial contraction of bringen"}
+{"key":"chancen","word":"Chancen","translation":"chances; opportunities; odds","note":""}
+{"key":"drängt","word":"drängt","translation":"urges; presses; is urgent","note":"Die Zeit drängt = time is pressing"}
+{"key":"entfernten","word":"entfernten","translation":"distant; remote; removed","note":"here: distant, not removed"}
+{"key":"geschenkt","word":"geschenkt","translation":"given (as a gift); presented","note":"Vertrauen schenken = to place trust"}
+{"key":"grausam","word":"grausam","translation":"cruel; gruesome; terrible","note":""}
+{"key":"kürze","word":"Kürze","translation":"shortness; brevity","note":"in Kürze = shortly; soon"}
+{"key":"mahlzeit","word":"Mahlzeit","translation":"meal; Enjoy your meal! (greeting)","note":"also used as greeting at mealtimes"}
+{"key":"tafel","word":"Tafel","translation":"tablet; board; slab","note":"here: rune-inscribed tablet/slab, not blackboard"}
+{"key":"wächters","word":"Wächters","translation":"guardian's; of the guardian","note":"genitive of Wächter (guardian, keeper)"}
+{"key":"eingefallen","word":"eingefallen","translation":"invaded; occurred to (s.o.)","note":"past participle of einfallen: to invade; to occur to s.o."}
+{"key":"irgendeinem","word":"irgendeinem","translation":"some; any","note":"dative of irgendein; aus irgendeinem Grund = for some reason"}
+{"key":"karten","word":"Karten","translation":"maps; cards","note":"Karte = map or card; here: maps"}
+{"key":"klasse","word":"Klasse","translation":"great!; class","note":"colloquial interjection: great!, awesome!; also class"}
+{"key":"langem","word":"Langem","translation":"long; for a long time (seit langem)","note":"dative of lang; phrase seit langem = for a long time"}
+{"key":"technik","word":"Technik","translation":"technique; technology","note":"Technik = both technique and technology/engineering"}
+{"key":"träumen","word":"Träumen","translation":"to dream","note":"verb träumen, not noun Traum (= dream)"}
+{"key":"verdanken","word":"verdanken","translation":"to owe (to); have to thank for","note":"not just thank; jdm. etw. verdanken = owe sth. to sb."}
+{"key":"wüsste","word":"wüsste","translation":"would know; knew (subjunctive)","note":"Konjunktiv II of wissen; distinguish from wussten = knew"}
+{"key":"bezwingt","word":"Bezwingt","translation":"to defeat; to vanquish","note":"imperative/present, not past tense 'defeated'"}
+{"key":"dimensius","word":"Dimensius","translation":"Dimensius","note":"corrects spelling: Dimensius, not Dimensionius"}
+{"key":"eilen","word":"eilen","translation":"to hurry; to rush","note":""}
+{"key":"unglück","word":"Unglück","translation":"misfortune; accident; bad luck","note":"Zu allem Unglück = unfortunately / to make matters worse"}
+{"key":"winkel","word":"Winkel","translation":"angle; corner; nook","note":"abgelegene Winkel = remote corners/nooks, not geometric angles"}
+{"key":"abgenommen","word":"abgenommen","translation":"taken; removed","note":"jmdm. etw. abnehmen = take sth. from s.o."}
+{"key":"ausbilden","word":"ausbilden","translation":"train; educate; form","note":""}
+{"key":"ausflug","word":"Ausflug","translation":"outing; excursion; trip","note":""}
+{"key":"bezüglich","word":"bezüglich","translation":"regarding; concerning","note":"bezüglich + genitive: regarding / with respect to"}
+{"key":"bronzebart","word":"Bronzebart","translation":"Bronzebeard","note":"proper name: Bronzebeard clan; one word"}
+{"key":"entbehren","word":"entbehren","translation":"to do without; to spare; to go without","note":"kann keine entbehren = cannot spare any"}
+{"key":"ergibt","word":"ergibt","translation":"yields; results in; makes (sense)","note":"Sinn ergeben = to make sense"}
+{"key":"geweiht","word":"geweiht","translation":"consecrated; dedicated; doomed","note":"dem Untergang geweiht = doomed"}
+{"key":"goldene","word":"goldene","translation":"golden","note":"inflected form of golden; not 'golden ones'"}
+{"key":"makelloser","word":"Makelloser","translation":"flawless; immaculate","note":"-er is inflection, not comparative 'more'"}
+{"key":"nenne","word":"nenne","translation":"to name; to call","note":"verb: ich nenne = I name/call"}
+{"key":"recke","word":"Recke","translation":"warrior; champion; hero","note":"archaic: Recke = champion/hero"}
+{"key":"spähern","word":"Spähern","translation":"scouts","note":"dat. pl. of Späher 'scout'; not 'scouting'"}
+{"key":"vermissten","word":"vermissten","translation":"missing; lost","note":"vermisst = missing/lost; not 'missed'"}
+{"key":"verpassen","word":"verpassen","translation":"miss; give/inflict (a beating)","note":"'eine Tracht Prügel verpassen' = to give a beating, not to miss"}
+{"key":"wolle","word":"wolle","translation":"want (Konjunktiv I: he wanted to); wool","note":"verb form of wollen (er wolle) vs noun Wolle = wool"}
+{"key":"ausgeschaltet","word":"ausgeschaltet","translation":"switched off; disabled; eliminated","note":"'ausgeschaltet' = switched off/disabled, not just 'off'"}
+{"key":"basilisken","word":"Basilisken","translation":"basilisks","note":"plural form; gloss should be plural"}
+{"key":"brust","word":"Brust","translation":"chest; breast","note":"'auf die Brust schlagen' = beat one's chest"}
+{"key":"tiefenheim","word":"Tiefenheim","translation":"Deepholm","note":"zone name: German Tiefenheim = Deepholm"}
+{"key":"war'n","word":"war'n","translation":"were","note":"colloquial for waren (they were), not wasn't"}
+{"key":"wurdet","word":"wurdet","translation":"became; were","note":"2nd pl past of werden: you became/were; auxiliary for passive"}
+{"key":"zul","word":"Zul","translation":"Zul","note":"proper name; not Perm"}
+{"key":"worum","word":"worum","translation":"what ... about; what ... for","note":"wo+um: about/for what; not 'how about'"}
+{"key":"wusstet","word":"Wusstet","translation":"you knew","note":"2nd pl. past of wissen; Wusstet ihr = did you know"}
+{"key":"würdigen","word":"würdigen","translation":"to honor; to pay tribute to","note":"not appreciate (=schaetzen); means to honor/celebrate"}
+{"key":"anführers","word":"Anführers","translation":"of the leader; leader's","note":"genitive of Anführer; not nominative leader"}
+{"key":"aufzubrechen","word":"aufzubrechen","translation":"to set out; to break open","note":"aufbrechen = depart/break open; not break up"}
+{"key":"garaus","word":"Garaus","translation":"destruction; finishing blow","note":"idiom: jmdm. den Garaus machen = to finish s.o. off"}
+{"key":"möglichst","word":"möglichst","translation":"as ... as possible; if possible","note":"adverb, not adjective 'possible' alone"}
+{"key":"raten","word":"raten","translation":"guess; advise","note":"raten = guess and advise/counsel; context shows guess"}
+{"key":"smaragdgrüne","word":"Smaragdgrüne","translation":"emerald green; emerald-colored","note":"adjective, not noun 'ones'"}
+{"key":"sonderlich","word":"sonderlich","translation":"particularly; especially","note":"adverb; 'special' is archaic/rare"}
+{"key":"stürzt","word":"stürzt","translation":"fall; plunge, rush into","note":"sich stürzen = rush/plunge, not just fall"}
+{"key":"trauen","word":"trauen","translation":"trust; dare (sich trauen); marry","note":"polysemous: trust/dare/marry; context shows trust"}
+{"key":"aufgemacht","word":"aufgemacht","translation":"opened; set out (sich aufmachen)","note":"reflexive sich aufmachen = set out/head off, not just open"}
+{"key":"bewusst","word":"bewusst","translation":"aware; conscious","note":"sich bewusst sein = be aware of; not adverb consciously here"}
+{"key":"bund","word":"Bund","translation":"alliance; pact; federation","note":""}
+{"key":"gange","word":"Gange","translation":"course; walk; passage","note":"im Gange sein = be underway/in progress"}
+{"key":"lauft","word":"lauft","translation":"run","note":"imperative plural of laufen; colloq. for läuft"}
+{"key":"ma","word":"ma","translation":"just; once","note":"colloq. short for mal, not English ma"}
+{"key":"meisterin","word":"Meisterin","translation":"mistress; (female) master","note":"feminine of Meister; masculine master is Meister"}
+{"key":"regen","word":"Regen","translation":"to stir; to move","note":"verb sich regen = to stir, not noun Regen (rain)"}
+{"key":"rennt","word":"Rennt","translation":"to run; to race","note":"here imperative/infinitive run, not 3rd sg. Runs"}
+{"key":"riesiger","word":"riesiger","translation":"huge; enormous; gigantic","note":""}
+{"key":"schleicht","word":"schleicht","translation":"to sneak; to creep","note":""}
+{"key":"schluss","word":"Schluss","translation":"end; conclusion","note":""}
+{"key":"seltener","word":"seltener","translation":"rare; rarer","note":"here adj. rare (gen. pl. seltener Erden), not comparative rarer"}
+{"key":"sengenden","word":"Sengenden","translation":"scorching; searing","note":"inflected form of sengend"}
+{"key":"stimmung","word":"Stimmung","translation":"mood; atmosphere","note":""}
+{"key":"streckt","word":"streckt","translation":"to stretch; to extend","note":""}
+{"key":"ursache","word":"Ursache","translation":"cause; reason","note":"noun cause, not verb caused"}
+{"key":"weitergeht","word":"weitergeht","translation":"to continue; to go on","note":"weitergehen: to continue"}
+{"key":"übergebt","word":"übergebt","translation":"to hand over; to deliver","note":"imperative hand over, not past handed over"}
+{"key":"anlegen","word":"anlegen","translation":"to pick a fight with; to create; to invest","note":"sich mit jdm. anlegen = to pick a fight/mess with; not invest here"}
+{"key":"auftreiben","word":"auftreiben","translation":"to track down; to procure; to rustle up","note":"not raise; means to find/procure sth. with effort"}
+{"key":"eingestellt","word":"eingestellt","translation":"hired; employed","note":"here Ihr seid eingestellt! = You're hired! also adjusted; set"}
+{"key":"gestalten","word":"Gestalten","translation":"figures; characters; shapes; forms","note":"not Design; Gestalten = figures/creatures in context"}
+{"key":"herrn","word":"Herrn","translation":"lord; master; Mr.","note":"gen./dat. of Herr; unseres Herrn = our lord/master, not just Mr."}
+{"key":"keller","word":"Keller","translation":"Keller (proper name)","note":"Commander Keller is a name, not cellar/basement"}
+{"key":"leerensturm","word":"Leerensturm","translation":"Netherstorm","note":"zone name; official English is Netherstorm, lit. Voidstorm"}
+{"key":"saft","word":"Saft","translation":"juice; sap","note":""}
+{"key":"wahnsinns","word":"Wahnsinns","translation":"madness; insanity","note":"genitive of Wahnsinn; Schlund des Wahnsinns = Maw of Madness"}
+{"key":"angerichtet","word":"angerichtet","translation":"caused; wreaked; inflicted","note":"damage caused, not arranged"}
+{"key":"anschliesst","word":"anschließt","translation":"join; attach oneself to","note":"reflexive sich anschließen = to join"}
+{"key":"dazustehen","word":"dazustehen","translation":"to make a good impression; to look good","note":"idiom gut dazustehen = to look good"}
+{"key":"dämons","word":"Dämons","translation":"demon","note":"genitive singular: of the demon, not plural"}
+{"key":"einzufinden","word":"einzufinden","translation":"to report; to appear; to assemble","note":"reflexive sich einfinden = to present oneself"}
+{"key":"erhabenen","word":"Erhabenen","translation":"exalted; august","note":"title: the Exalted/August (Celestials)"}
+{"key":"harter","word":"harter","translation":"hard; tough","note":"positive hard, not comparative harder (härter)"}
+{"key":"hausen","word":"hausen","translation":"to dwell; to reside; to live","note":"also to wreak havoc (hausen)"}
+{"key":"herbei","word":"herbei","translation":"hither; over here","note":"directional particle toward speaker, not hier = here"}
+{"key":"kults","word":"Kults","translation":"cult; of the cult","note":"genitive sg. of Kult; not plural Cults"}
+{"key":"kurzer","word":"kurzer","translation":"short; brief","note":"inflected form of kurz; not comparative kürzer = shorter"}
+{"key":"leitung","word":"Leitung","translation":"leadership; command; management","note":"here: in charge / command, not line/cable"}
+{"key":"lügen","word":"Lügen","translation":"lies","note":"noun pl. of Lüge; verb lügen: to lie"}
+{"key":"schallenden","word":"Schallenden","translation":"ringing; resounding; echoing","note":"Schallende Tiefen = Ringing Deeps (place name)"}
+{"key":"vertreibt","word":"vertreibt","translation":"drives away; expels; distributes","note":"here: drive away/expel, not distribute"}
+{"key":"wider","word":"wider","translation":"against; counter to","note":"here separable prefix of widerspiegeln: to reflect"}
+{"key":"chromie","word":"Chromie","translation":"Chromie","note":"proper name; not Chromia"}
+{"key":"kreislauf","word":"Kreislauf","translation":"cycle; circulation","note":"often cycle, as in Kreislauf des Lebens; also circulation"}
+{"key":"male","word":"Male","translation":"marks; birthmarks","note":"plural of das Mal (mark), not English male"}
+{"key":"pah","word":"Pah","translation":"pah; bah","note":"dismissive interjection, not relief phew"}
+{"key":"rücke","word":"rücke","translation":"move; put; position","note":"1st sg. of rücken (to move/place), not Rücken (back)"}
+{"key":"scheiben","word":"Scheiben","translation":"discs; panes; slices","note":"Pl. of Scheibe: here discs (Platinscheiben)"}
+{"key":"schemen","word":"Schemen","translation":"phantoms; shades; specters","note":"Pl. of Schemen/shade, not English schemes (plans)"}
+{"key":"schultern","word":"Schultern","translation":"shoulders","note":"plural of Schulter; singular: shoulder"}
+{"key":"sollt'n","word":"sollt'n","translation":"should","note":"colloquial contraction of sollten; dialect spelling with apostrophe"}
+{"key":"streift","word":"streift","translation":"roams; grazes; brushes past","note":"not streak; streifen = to roam, graze, or brush against"}
+{"key":"tol","word":"Tol","translation":"Tol","note":"Proper name Tol Barad; not adj toll (= great)"}
+{"key":"verzeiht","word":"Verzeiht","translation":"forgive; pardon","note":"imperative: forgive/pardon; formal or plural"}
+{"key":"widder","word":"Widder","translation":"ram","note":"animal ram; zodiac sense is Aries"}
+{"key":"ausgegangen","word":"ausgegangen","translation":"run out; gone out","note":"ausgehen: to run out (supplies); to go out"}
+{"key":"ausgesprochen","word":"ausgesprochen","translation":"extremely; very; pronounced","note":"adv extremely, very; as adj/participle pronounced"}
+{"key":"dicke","word":"dicke","translation":"thick","note":"adj thick; noun Dicke = thickness"}
+{"key":"eng","word":"eng","translation":"narrow; close; tight","note":"adj eng: narrow/close; not adverb 'closely'"}
+{"key":"erfahrt","word":"erfahrt","translation":"learn; find out; experience","note":"ihr-form of erfahren; here: learn/find out about future"}
+{"key":"fahrt","word":"Fahrt","translation":"journey; ride; trip","note":"die Fahrt (noun): journey/ride, not verb 'drive'"}
+{"key":"giftige","word":"Giftige","translation":"poisonous; toxic","note":"inflected adj, not noun 'ones'"}
+{"key":"leihen","word":"leihen","translation":"borrow; lend","note":"leihen: borrow or lend by context"}
+{"key":"schale","word":"Schale","translation":"shell; bowl; peel","note":"here: shell of crab leg, not just peel"}
+{"key":"schleimer","word":"Schleimer","translation":"toady; sycophant; bootlicker","note":"sycophant/toady, not Ghostbusters Slimer"}
+{"key":"schlimme","word":"schlimme","translation":"bad; serious; severe","note":"inflected adj, not 'ones'"}
+{"key":"schutze","word":"Schutze","translation":"protection; defense; shelter","note":"Dative of Schutz; zum Schutze = for protection of"}
+{"key":"schöner","word":"schöner","translation":"beautiful; pretty; more beautiful","note":"Inflected/comparative of schön; kein schöner = not a pretty sight"}
+{"key":"sicherung","word":"Sicherung","translation":"securing; safeguard; backup; fuse","note":"Context Sicherung der Linien = securing the lines"}
+{"key":"späherin","word":"Späherin","translation":"female scout","note":"Feminine of Späher (scout)"}
+{"key":"stillen","word":"stillen","translation":"to staunch; to soothe; to breastfeed","note":"Blutung stillen = to staunch bleeding, not nursing"}
+{"key":"wichtel","word":"Wichtel","translation":"imp; gnome; elf; brownie","note":"WoW imp/gnome; not Secret Santa (Wichteln game)"}
+{"key":"wilder","word":"wilder","translation":"wild; wilder","note":"Inflected wild, not English 'wilder'; wilder Protodrache = wild proto-drake"}
+{"key":"willens","word":"Willens","translation":"of the will; will's","note":"Genitive of Wille (will); not 'willing'"}
+{"key":"fängt","word":"fängt","translation":"catches; begins (in anfangen)","note":"fängt an = begins; fangen = to catch"}
+{"key":"klappe","word":"Klappe","translation":"flap; lid; fly swatter","note":"idiom: zwei Fliegen mit einer Klappe = kill two birds"}
+{"key":"losziehen","word":"losziehen","translation":"set out; march off; draw (sword/lots)","note":"Not 'pull off'; WoW quest uses 'depart/march out'"}
+{"key":"rechnen","word":"rechnen","translation":"calculate; expect; count on","note":"'rechnen mit' = expect/count on, not only calculate"}
+{"key":"relativ","word":"relativ","translation":"relatively","note":"Adverb 'relatively', not noun/adjective 'relative'"}
+{"key":"schwachen","word":"Schwachen","translation":"weak; faint","note":"Adjective 'weak', not verb 'weaken' (schwächen)"}
+{"key":"soll'n","word":"soll'n","translation":"should; be supposed to","note":"Dialect spelling of 'sollen'"}
+{"key":"vermag","word":"vermag","translation":"can; be able to; be capable of","note":"Verb 'vermögen', not adjective 'able'"}
+{"key":"vermögen","word":"Vermögen","translation":"fortune; wealth; assets","note":"'ein Vermögen' = a fortune, not only assets"}
+{"key":"vorgang","word":"Vorgang","translation":"process; procedure; operation","note":"Not 'occurrence' (that is Vorkommnis/Ereignis)"}
+{"key":"angesehen","word":"angesehen","translation":"regarded; viewed; respected","note":"als ... angesehen = regarded as; angesehen = respected"}
+{"key":"apotheker","word":"Apotheker","translation":"apothecary; pharmacist","note":"WoW: Forsaken apothecary (alchemist)"}
+{"key":"befestigt","word":"befestigt","translation":"fortified; secured; fastened","note":"befestigt = fortified; also attached/fastened"}
+{"key":"verlangsamen","word":"verlangsamen","translation":"to slow (down)","note":"verb: to slow (down), not adj. slow"}
+{"key":"zugefügt","word":"zugefügt","translation":"added; inflicted","note":"Schaden zufügen = to inflict damage"}
+{"key":"anlage","word":"Anlage","translation":"facility; installation; complex","note":"WoW sense: facility/installation, not email attachment"}
+{"key":"beunruhigt","word":"beunruhigt","translation":"worried; disturbs; to worry","note":"verb '(it) worries/disturbs' vs adj 'worried'"}
+{"key":"blasen","word":"Blasen","translation":"bubbles; blisters","note":"bubbles in blood, not verb 'to blow'"}
+{"key":"fertigwerden","word":"fertigwerden","translation":"to cope with; to deal with; to handle","note":"mit etwas fertigwerden = to cope with sth"}
+{"key":"irren","word":"irren","translation":"to err; to be mistaken","note":"sich irren = to be mistaken/wrong"}
+{"key":"justiziarin","word":"Justiziarin","translation":"justiciar; justicar (title)","note":"WoW title, not legal advisor"}
+{"key":"kleider","word":"Kleider","translation":"clothes; dresses","note":"Kleider = clothes generally, not only dresses"}
+{"key":"leb'n","word":"Leb'n","translation":"to live","note":"colloquial for leben = to live"}
+{"key":"lohn","word":"Lohn","translation":"wage; pay; reward","note":"Lohn = wage/pay, not monthly salary (Gehalt)"}
+{"key":"peitscher","word":"Peitscher","translation":"lasher; whipper","note":"Agent noun from peitschen; not object whip"}
+{"key":"unsren","word":"unsren","translation":"our","note":"Colloquial/dialectal for unseren, not ours"}
+{"key":"verbotene","word":"verbotene","translation":"forbidden","note":"Adjective forbidden; not forbidden ones"}
+{"key":"volks","word":"Volks","translation":"people's; of the people","note":"Genitive of Volk; not nominative folk"}
+{"key":"vorgenommen","word":"vorgenommen","translation":"intend; resolve; plan (sich vornehmen)","note":"sich vorgenommen haben = to have resolved/intended; reflexive use"}
+{"key":"wär's","word":"wär's","translation":"would be; how about","note":"contraction waere es; Wie waer's mit = How about ...?"}
+{"key":"überlasst","word":"überlasst","translation":"leave (to); entrust; leave up to","note":"imperative plural: Ueberlasst = Leave (nothing to chance)"}
+{"key":"abbauen","word":"abbauen","translation":"mine; extract; dismantle","note":"in quest context = to mine/extract crystals"}
+{"key":"bekannte","word":"bekannte","translation":"known; familiar; acquaintance","note":"adj. known/familiar vs noun acquaintance; context: als bekannt"}
+{"key":"beziehen","word":"beziehen","translation":"occupy; obtain; refer to","note":"here: Posten beziehen = to occupy a post"}
+{"key":"braut","word":"braut","translation":"brews; bride","note":"verb brauen: er braut = he brews; noun Braut = bride"}
+{"key":"davongemacht","word":"davongemacht","translation":"made off with; ran off with","note":"sich davonmachen = to make off with; steal away"}
+{"key":"falken","word":"Falken","translation":"falcon","note":"Falke = falcon; hawk is Habicht"}
+{"key":"fraktion","word":"Fraktion","translation":"faction","note":"false friend: not 'fraction' (= Bruch)"}
+{"key":"fremd","word":"fremd","translation":"strange; unfamiliar; foreign","note":"often 'unfamiliar/strange to s.o.'"}
+{"key":"goblinische","word":"goblinische","translation":"goblin","note":"adj.: goblin; goblin-made"}
+{"key":"goldhain","word":"Goldhain","translation":"Goldshire","note":"WoW zone in Elwynn Forest"}
+{"key":"lichten","word":"lichten","translation":"to thin out; to decimate","note":"ranks thin/cull; not 'light up'"}
+{"key":"nagrands","word":"Nagrands","translation":"Nagrand","note":"Genitive of Nagrand; means 'of Nagrand'"}
+{"key":"nahen","word":"nahen","translation":"approach; draw near","note":"Not nähen (to sew); intransitive verb: to approach"}
+{"key":"regel","word":"Regel","translation":"Rule","note":"in der Regel: usually; as a rule"}
+{"key":"sehnen","word":"Sehnen","translation":"Tendons; sinews","note":"verb sich sehnen: to long/yearn for"}
+{"key":"selber","word":"selber","translation":"oneself; -self; even","note":"Emphatic self; not gendered, not just himself"}
+{"key":"trage","word":"trage","translation":"carry; bear; wear","note":"Here: to carry (a letter); tragen = carry or wear"}
+{"key":"unheil","word":"Unheil","translation":"doom; disaster; calamity","note":"Not 'mischief' (mischief = Unfug/Schabernack)"}
+{"key":"urahnin","word":"Urahnin","translation":"female ancestor; ancestress","note":"feminine of Urahn; male ancestor is Urahn"}
+{"key":"verborgene","word":"verborgene","translation":"hidden; concealed","note":"Adjective, not noun; hidden ones would be die Verborgenen"}
+{"key":"verbände","word":"Verbände","translation":"bandage; dressing; association","note":"Medical sense = bandage/dressing; association is other sense of Verband"}
+{"key":"verhelfen","word":"verhelfen","translation":"to help (sb) to sth; to help achieve","note":"Construction: jdm zu etw verhelfen"}
+{"key":"verlassene","word":"Verlassene","translation":"the Forsaken; abandoned ones","note":"WoW race name: the Forsaken; adj. also abandoned"}
+{"key":"versichert","word":"versichert","translation":"to assure; to insure; to make sure","note":"Reflexive sich versichern = to make sure; adj. also insured"}
+{"key":"weichen","word":"weichen","translation":"to yield; to give way; to retreat","note":"Verb weichen, not adj. weich = soft"}
+{"key":"widerfahren","word":"widerfahren","translation":"to befall; to happen to sb","note":"Takes dative: jdm widerfährt etw"}
+{"key":"anstellt","word":"anstellt","translation":"to hire; to employ; to behave","note":"Reflexive sich anstellen = to behave, often: sich dumm anstellen"}
+{"key":"balg","word":"Balg","translation":"pelt; hide; skin","note":"Not bellows (=Blasebalg); context pelt/hide"}
+{"key":"bevorsteht","word":"bevorsteht","translation":"is imminent; lies ahead","note":"3rd sg. of bevorstehen: to be imminent"}
+{"key":"brutal","word":"brutal","translation":"brutal","note":"adjective, not adverb brutally"}
+{"key":"entnehmt","word":"entnehmt","translation":"take out; remove","note":"imperative pl. of entnehmen, not past removed"}
+{"key":"erschafft","word":"erschafft","translation":"creates","note":"3rd sg. present of erschaffen, not past created"}
+{"key":"mensch","word":"Mensch","translation":"human; person","note":""}
+{"key":"mittleren","word":"mittleren","translation":"middle; medium","note":"inflected form of mittel"}
+{"key":"mythisch","word":"Mythisch","translation":"mythic; mythical","note":"WoW difficulty: Mythic"}
+{"key":"runden","word":"Runden","translation":"rounds; round","note":"dative plural of Runde"}
+{"key":"rächt","word":"rächt","translation":"avenges; takes revenge","note":"3rd sg. of rächen"}
+{"key":"räumt","word":"Räumt","translation":"clears; to clear","note":"imperative: Clear!; 3rd sg. clears"}
+{"key":"schneide","word":"Schneide","translation":"blade; cutting edge","note":"noun Schneide, not verb schneiden"}
+{"key":"selbstverständlich","word":"selbstverständlich","translation":"of course; self-evident; taken for granted","note":"als selbstverständlich betrachten: take for granted"}
+{"key":"verhungern","word":"verhungern","translation":"to starve; to starve to death","note":"verb, not noun: starvation is der Hunger/Hungertod"}
+{"key":"verlegt","word":"verlegt","translation":"laid; relocated; misplaced","note":"verlegen: to lay (mines/cable) vs to relocate/misplace"}
+{"key":"versteckte","word":"versteckte","translation":"hidden; hid","note":"adj. hidden vs past of verstecken: hid"}
+{"key":"violette","word":"Violette","translation":"violet; purple","note":"adj. color, not proper name"}
+{"key":"wenn's","word":"wenn's","translation":"if it; when it","note":"contraction of wenn es"}
+{"key":"anfällig","word":"anfällig","translation":"susceptible; prone","note":"spelling fix: subsceptible -> susceptible"}
+{"key":"auskennt","word":"auskennt","translation":"is knowledgeable; knows one's way around","note":"sich auskennen: be versed in"}
+{"key":"bedenken","word":"Bedenken","translation":"concerns; reservations; doubts","note":"noun Bedenken (pl.), not verb bedenken"}
+{"key":"drakonischen","word":"drakonischen","translation":"draconic; dragon","note":"not draconian (harsh); dragon-related"}
+{"key":"eignet","word":"eignet","translation":"is suitable; is suited","note":"sich eignen: be suited for"}
+{"key":"erübrigen","word":"erübrigen","translation":"be unnecessary; become superfluous","note":"sich erübrigen: be unnecessary"}
+{"key":"fänge","word":"Fänge","translation":"fangs; traps; catches","note":"pl. of Fang: fang/trap, not verb"}
+{"key":"hegen","word":"hegen","translation":"to harbour; to cherish; to foster","note":"Groll hegen = to harbour a grudge"}
+{"key":"heimischen","word":"heimischen","translation":"native; local; indigenous","note":"inflected form of heimisch"}
+{"key":"reichs","word":"Reichs","translation":"realm; empire; kingdom","note":"genitive of Reich"}
+{"key":"seenhain","word":"Seenhain","translation":"Lakeshire","note":"WoW proper name: German Seenhain = Lakeshire"}
+{"key":"urtum","word":"Urtum","translation":"Ancient","note":"WoW creature type: Urtum = Ancient (e.g. Ancient of War)"}
+{"key":"vergeben","word":"vergeben","translation":"to forgive; to give away; to award","note":"context here: to give away (mugs), not to forgive"}
+{"key":"abstatten","word":"abstatten","translation":"pay (a visit); render","note":"einen Besuch abstatten = pay a visit (idiom)"}
+{"key":"angebundenen","word":"angebundenen","translation":"tethered; tied up","note":"angebunden = tied/tethered, not just connected"}
+{"key":"blinde","word":"Blinde","translation":"blind","note":"blinder Passagier = stowaway (idiom)"}
+{"key":"cenarische","word":"cenarische","translation":"Cenarion","note":"WoW faction: Cenarion Circle, not cenarian"}
+{"key":"einrichten","word":"einrichten","translation":"to arrange, manage to; to furnish, set up","note":"Idiom: es einrichten koennen = manage to arrange (quest context)"}
+{"key":"feuern","word":"Feuern","translation":"to fire (weapons); firing","note":"Verb feuern = to fire; not noun fire"}
+{"key":"generalin","word":"Generalin","translation":"female general","note":"Feminine of General; female rank title"}
+{"key":"herzkammer","word":"Herzkammer","translation":"ventricle; heart chamber","note":"Anatomical ventricle vs WoW Titan vault Heart Chamber"}
+{"key":"hetzen","word":"hetzen","translation":"to hound, set on; to incite; to rush","note":"auf jdn hetzen = set/incite against s.o.; not just rush"}
+{"key":"irgendeinen","word":"irgendeinen","translation":"any; some","note":"accusative of irgendein (any); not irgendjemand (anyone)"}
+{"key":"is'n","word":"is'n","translation":"is a","note":"colloquial for 'ist ein' (is a), not isn't"}
+{"key":"knochenwüste","word":"Knochenwüste","translation":"Bone Wastes","note":"WoW zone name; lit. bone desert"}
+{"key":"kranichs","word":"Kranichs","translation":"crane","note":"genitive singular of Kranich; not plural cranes"}
+{"key":"nützen","word":"nützen","translation":"be useful; be of use","note":"nützen = be useful; 'to use' is nutzen"}
+{"key":"regt","word":"regt","translation":"stirs; moves","note":"sich regen = to stir/move, not regnen 'to rain'"}
