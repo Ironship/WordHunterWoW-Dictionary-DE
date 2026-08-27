@@ -2,7 +2,7 @@
 ## Title: QuestWordHunter - German Dictionary
 ## Notes: Optional German-English quest dictionary. Requires WordHunterWoW.
 ## Author: Ironship
-## Version: 1.0.3
+## Version: 1.0.4
 ## Dependencies: WordHunterWoW
 
 Data/DictionaryDE.lua
