@@ -176,11 +176,33 @@ When complete, report counts only.
   # Optional checkpoint commit every 5 waves
   if ($waveIndex % 5 -eq 0) {
     $curatedLines = (Get-Content $curated | Measure-Object -Line).Lines
-    Write-Host "Checkpoint wave $waveIndex curated=$curatedLines" -ForegroundColor Green
+    Write-Host "Checkpoint wave ${waveIndex} curated=${curatedLines}" -ForegroundColor Green
     git add $curated "Tools/prepare_polysemy_audit.py" "Tools/build_dictionary_lua.py"
-    git commit -m "Wave $waveIndex offset $offset: curated $curatedLines" --allow-empty | Out-Null
+    git commit -m "Wave ${waveIndex} offset ${offset}: curated ${curatedLines}" --allow-empty | Out-Null
     git push origin feat/german-full-audit | Out-Null
   }
 }
 
-Write-Host "`nALL WAVES COMPLETE" -ForegroundColor Green
+Write-Host "`nMarking proper names as ignored (preserving translations/notes)..." -ForegroundColor Yellow
+python Tools/mark_proper_names.py
+if ($LASTEXITCODE -ne 0) { throw "proper-name marking failed" }
+python Tools/build_dictionary_lua.py
+if ($LASTEXITCODE -ne 0) { throw "build_dictionary failed" }
+python Tools/audit_key_contract.py
+if ($LASTEXITCODE -ne 0) { throw "audit_key_contract failed" }
+$curatedLines = (Get-Content $curated | Measure-Object -Line).Lines
+git add $curated "Data/DictionaryDE.lua"
+git commit -m "Mark proper names as ignored (${curatedLines} curated)." --allow-empty | Out-Null
+git push origin feat/german-full-audit | Out-Null
+# Merge base addon status support to main so ignored defaults are honored
+$baseRoot = Join-Path (Split-Path $root -Parent) "WordHunterWoW"
+if (Test-Path "$baseRoot\.git") {
+  Write-Host "Merging base addon status support to main..." -ForegroundColor Cyan
+  Push-Location $baseRoot
+  git fetch origin | Out-Null
+  git checkout main | Out-Null
+  git merge --no-ff feat/dictionary-status-field -m "Merge proper-name status support" | Out-Null
+  if ($LASTEXITCODE -eq 0) { git push origin main | Out-Null } else { Write-Host "Base merge already merged or conflict - manual check needed" -ForegroundColor Yellow; git merge --abort 2>$null | Out-Null }
+  Pop-Location
+}
+Write-Host "`nALL WAVES COMPLETE - proper names marked, dictionary rebuilt." -ForegroundColor Green
