@@ -11,8 +11,12 @@ teach the reader something worth knowing.
 
 - `key` — lowercase lookup key. **Copy it through byte for byte.** It is already
   casefolded the way the addon looks words up: `ß` is written `ss`, so
-  `übergroßen` has the key `übergrossen`. Do not "restore" the `ß`, do not fix
-  umlauts, do not re-case it. Changing a key breaks the lookup.
+  `übergroßen` has the key `übergrossen`. Umlauts, however, stay as they are:
+  the key is `höchstgeschwindigkeit`, never `hoechstgeschwindigkeit`. Do not
+  "restore" the `ß`, do not ASCII-fold `ä ö ü`, do not re-case, do not fix what
+  looks like a typo. Copy the key and the word exactly as given -- a changed
+  key breaks the lookup, and a changed word breaks the repair path that would
+  otherwise recover it.
 - `word` — the German word as it appears in game. **Copy through verbatim.**
 - `current` — the existing Google Translate output. Often right, sometimes wrong.
 - `count` — how often the word occurs across all quests.
