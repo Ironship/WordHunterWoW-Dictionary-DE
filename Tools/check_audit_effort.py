@@ -8,7 +8,7 @@ wave exposes it. Rerun anything this reports before merging.
 import argparse, json, pathlib, statistics, sys
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
-WORKDIR = ROOT / "Data/cache/claude_audit"
+WORKDIR = ROOT / "Data/cache/audit_work"
 
 
 def load(path):
@@ -44,6 +44,7 @@ def main():
         # rotated and write over the current wave's output. The key sets diverge
         # long before anything else does, so compare them first.
         foreign = {r.get("key") for r in rows} - set(src)
+        foreign = {k for k in foreign if (k or "").casefold() not in src}
         if foreign:
             print(f"  ! {out_path.name}: {len(foreign)} kluczy spoza tego batcha "
                   f"— mozliwe zanieczyszczenie z innej fali")

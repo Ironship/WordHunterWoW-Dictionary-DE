@@ -13,12 +13,12 @@ reply instead. Never edit it.
 
 ## Input
 
-`Data/cache/claude_notes/in/batch_NN.jsonl` — `key`, `word`, `translation`, the
+`Data/cache/notes_work/in/batch_NN.jsonl` — `key`, `word`, `translation`, the
 existing `note`, and a `context` sentence from a quest.
 
 ## Output
 
-`Data/cache/claude_notes/out/batch_NN.jsonl` — same rows, same order, four fields:
+`Data/cache/notes_work/out/batch_NN.jsonl` — same rows, same order, four fields:
 `key`, `word`, `translation`, `note`. Write it with the Write tool. Compact JSON,
 one object per line, UTF-8, no markdown fences.
 

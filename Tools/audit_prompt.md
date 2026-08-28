@@ -7,7 +7,7 @@ teach the reader something worth knowing.
 
 ## Input
 
-`Data/cache/claude_audit/in/batch_NN.jsonl` — one JSON object per line:
+`Data/cache/audit_work/in/batch_NN.jsonl` — one JSON object per line:
 
 - `key` — lowercase lookup key. **Copy it through byte for byte.** It is already
   casefolded the way the addon looks words up: `ß` is written `ss`, so
@@ -24,7 +24,7 @@ teach the reader something worth knowing.
 
 ## Output
 
-`Data/cache/claude_audit/out/batch_NN.jsonl` — one JSON object per input line,
+`Data/cache/audit_work/out/batch_NN.jsonl` — one JSON object per input line,
 **same order, same count, same keys**, with exactly these four fields:
 
 ```json

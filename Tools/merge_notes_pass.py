@@ -7,7 +7,7 @@ row is refused outright -- those were hand-checked and are not up for revision.
 import argparse, json, pathlib, sys
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
-WORKDIR = ROOT / "Data/cache/claude_notes"
+WORKDIR = ROOT / "Data/cache/notes_work"
 CURATED = ROOT / "Data/CuratedDE.jsonl"
 NOTE_MAX = 200
 NEWLINE = chr(10)

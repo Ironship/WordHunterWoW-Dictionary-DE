@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Prepare audit batches for Claude subagents.
+"""Prepare audit batches for audit subagents.
 
 Selects compound (Komposita) candidates -- where machine translation is weakest
 and where an explanatory note carries the most value -- skips anything already
@@ -11,7 +11,7 @@ ROOT = pathlib.Path(__file__).resolve().parents[1]
 CANDIDATES = ROOT / "Data/cache/audit_candidates.jsonl"
 TRANSLATIONS = ROOT / "Data/cache/translations_de_en.jsonl"
 CURATED = ROOT / "Data/CuratedDE.jsonl"
-WORKDIR = ROOT / "Data/cache/claude_audit"
+WORKDIR = ROOT / "Data/cache/audit_work"
 CONTEXT_CHARS = 220
 
 

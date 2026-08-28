@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Validate Claude subagent audit output and merge it into CuratedDE.jsonl.
+"""Validate the model subagent audit output and merge it into CuratedDE.jsonl.
 
 Every output row is checked against the batch that produced it. Anything that
 fails a check is dropped and reported rather than silently written -- a bad
@@ -8,7 +8,7 @@ translation is worse than the Google one it would replace.
 import argparse, difflib, json, pathlib, sys
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
-WORKDIR = ROOT / "Data/cache/claude_audit"
+WORKDIR = ROOT / "Data/cache/audit_work"
 CURATED = ROOT / "Data/CuratedDE.jsonl"
 NOTE_MAX = 200
 
@@ -75,6 +75,14 @@ def main():
             # Agents occasionally "fix" a key back to its umlaut/eszett spelling.
             # The addon casefolds s-sharp to ss, so recover the original key from
             # the word field rather than losing the row.
+            if row.get("key") not in src:
+                # Agents sometimes echo the display word as the key. casefold()
+                # also maps the eszett to ss, which is how the keys are built,
+                # so it recovers both mistakes at once.
+                folded = (row.get("key") or "").casefold()
+                if folded in src:
+                    row["key"] = folded
+                    repaired.append(folded)
             if row.get("key") not in src:
                 cand = by_word.get(row.get("word"), [])
                 if len(cand) == 1:

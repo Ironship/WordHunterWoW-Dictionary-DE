@@ -10,7 +10,7 @@ import argparse, json, pathlib
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 CURATED = ROOT / "Data/CuratedDE.jsonl"
 TRANS = ROOT / "Data/cache/translations_de_en.jsonl"
-WORKDIR = ROOT / "Data/cache/claude_notes"
+WORKDIR = ROOT / "Data/cache/notes_work"
 CONTEXT_CHARS = 220
 
 
