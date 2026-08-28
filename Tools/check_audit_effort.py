@@ -60,14 +60,28 @@ def main():
             continue
         src = {r["key"]: r for r in load(in_path)}
         rows = load(out_path)
+        # Resolve a key the same way merge_audit does, so this check does not
+        # condemn a batch the merge is about to repair. An agent that ASCII-folds
+        # the umlauts in a key usually leaves `word` intact, which is enough.
+        by_word = {}
+        for r in src.values():
+            by_word.setdefault(r["word"], []).append(r["key"])
+
+        def resolve(row):
+            k = row.get("key")
+            if k in src:
+                return k
+            for cand in (demojibake(k), (k or "").casefold()):
+                if cand in src:
+                    return cand
+            hits = by_word.get(row.get("word"), [])
+            return hits[0] if len(hits) == 1 else k
         if not rows:
             stats.append((out_path.name, 0, 0, 0, True)); continue
         # A subagent from an earlier wave can finish after the directory has been
         # rotated and write over the current wave's output. The key sets diverge
         # long before anything else does, so compare them first.
-        foreign = {r.get("key") for r in rows} - set(src)
-        foreign = {k for k in foreign if (k or "").casefold() not in src
-                   and demojibake(k) not in src}
+        foreign = {resolve(r) for r in rows} - set(src)
         if foreign:
             print(f"  ! {out_path.name}: {len(foreign)} kluczy spoza tego batcha "
                   f"— mozliwe zanieczyszczenie z innej fali")
@@ -78,9 +92,7 @@ def main():
             broken.append(f"{len(rows)} wierszy zamiast {len(src)}")
         seen = {}
         for r in rows:
-            k = r.get("key")
-            if k not in src and demojibake(k) in src:
-                k = demojibake(k)
+            k = resolve(r)
             seen[k] = seen.get(k, 0) + 1
         dupes = [k for k, c in seen.items() if c > 1]
         if dupes:
@@ -93,12 +105,9 @@ def main():
         if broken:
             print(f"  ! {out_path.name}: {', '.join(broken)}")
 
-        def key_of(r):
-            k = r.get("key")
-            return k if k in src else demojibake(k)
         changed = sum(1 for r in rows
-                      if key_of(r) in src
-                      and (r.get("translation") or "").strip() != src[key_of(r)]["current"].strip())
+                      if resolve(r) in src
+                      and (r.get("translation") or "").strip() != src[resolve(r)]["current"].strip())
         noted = sum(1 for r in rows if (r.get("note") or "").strip())
         stats.append((out_path.name, len(rows), changed, noted, bool(broken)))
 

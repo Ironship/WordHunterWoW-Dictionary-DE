@@ -34,6 +34,40 @@ teach the reader something worth knowing.
 Write the file with the Write tool. UTF-8, no BOM, no trailing commas, no
 markdown fences, one compact JSON object per line.
 
+## Do both jobs in one pass
+
+The two halves of this task are the translation and the note, and they carry
+equal weight. Agents on this task reliably do one and skip the other: a pass
+told to care about notes stops touching translations, and a pass told to care
+about translations writes four notes in a hundred and fifty rows. Both get
+rejected and rerun.
+
+A healthy pass revises **around a third of the translations** and leaves
+**a note on nearly every row**. Check your own output against that before you
+finish. If either number is far below, you have not done the work yet.
+
+The one honest reason for a low note count is a batch thick with bare proper
+names -- NPC names, surnames -- where an empty note is correct because you must
+not invent lore. That is the only excuse. Every compound, verb, adjective and
+common noun gets a real note.
+
+## Errors to look for before you accept `current`
+
+Google is right often enough that skimming feels safe. These are the mistakes
+it actually makes here:
+
+- a comparative or superlative flattened to the base form, or the reverse
+  (`größer` is "bigger", not "big")
+- a participle handed back as an infinitive (`getraut` is "dared" -- not "to
+  dare", and not "married")
+- a common noun still capitalised in English because German capitalises nouns
+- an official English WoW name missed (`Höllenhorde` is Fel Horde, not
+  "Hellhorde")
+- a false friend taken at face value (`bekommen` is "receive", never "become")
+- the wrong sense of an ambiguous word (`Bug` is a ship's bow here, not an insect)
+- a plural rendered as a singular, or the reverse
+- a contraction misread (`hinter'm` is "behind the", not "behind me")
+
 ## translation
 
 - Give the meaning that fits **WoW quest text**, not a dictionary's first entry.
