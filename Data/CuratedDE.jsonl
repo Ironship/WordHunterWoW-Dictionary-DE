@@ -694,15 +694,15 @@
 {"key": "unterstadt", "word": "Unterstadt", "translation": "Undercity", "note": "undead capital; literally under+city"}
 {"key": "schattenwache", "word": "Schattenwache", "translation": "Shadow Guard", "note": "likely a faction or group name; shadow+guard"}
 {"key": "schattenrat", "word": "Schattenrat", "translation": "Shadow Council", "note": "demonic organization; literally shadow+council"}
-{"key": "schattenlanden", "word": "Schattenlanden", "translation": "Shadowlands", "note": "dative/locative form of Schattenlande (realm of the dead)"}
+{"key": "schattenlanden", "word": "Schattenlanden", "translation": "Shadowlands", "note": "dative/locative form of Schattenlande (realm of the dead)", "status": "ignored"}
 {"key": "schildwachen", "word": "Schildwachen", "translation": "Sentinels", "note": "Night Elf warrior caste; literally shield+guards/watches"}
 {"key": "dämonenjäger", "word": "Dämonenjäger", "translation": "Demon Hunter", "note": "WoW player class; literally demon+hunter"}
-{"key": "blutfratzen", "word": "Blutfratzen", "translation": "Blood Grimaces", "note": "literal translation of troll tribe; blut (blood) + fratzen (grimaces/faces)"}
+{"key": "blutfratzen", "word": "Blutfratzen", "translation": "Blood Grimaces", "note": "literal translation of troll tribe; blut (blood) + fratzen (grimaces/faces)", "status": "ignored"}
 {"key": "grossmeister", "word": "Großmeister", "translation": "Grandmaster", "note": "rank or title; literally grand+master"}
 {"key": "präsentiert", "word": "Präsentiert", "translation": "presented", "note": "past participle of präsentieren"}
 {"key": "belagerung", "word": "Belagerung", "translation": "siege", "note": "from belagern (to besiege); common in WoW quest objectives"}
-{"key": "silberwald", "word": "Silberwald", "translation": "Silverwood", "note": "likely a forest location; literally silver+forest"}
-{"key": "drachenmals", "word": "Drachenmals", "translation": "Dragonmark", "note": "fortress or location name; literally dragon+mark"}
+{"key": "silberwald", "word": "Silberwald", "translation": "Silverwood", "note": "likely a forest location; literally silver+forest", "status": "ignored"}
+{"key": "drachenmals", "word": "Drachenmals", "translation": "Dragonmark", "note": "fortress or location name; literally dragon+mark", "status": "ignored"}
 {"key": "höllenfeuerzitadelle", "word": "Höllenfeuerzitadelle", "translation": "Hellfire Citadel", "note": "WoW raid zone; hölle (hell) + feuer (fire) + zitadelle (citadel)"}
 {"key": "waldläufer", "word": "Waldläufer", "translation": "ranger", "note": "wald (forest) + läufer (runner); class/profession in WoW"}
 {"key": "blutschläger", "word": "Blutschläger", "translation": "Bloodthug", "note": "faction or creature type; literally blood+thug/striker"}
@@ -1376,3 +1376,220 @@
 {"key": "totschlägerhügel", "word": "Totschlägerhügel", "translation": "Blackjack Hill", "note": "Totschläger (club/bludgeon) + Hügel (hill); WoW location"}
 {"key": "auftragsmördern", "word": "Auftragsmördern", "translation": "contract killers", "note": "Auftrag (contract/commission) + Mörder (killer); plural dative form"}
 {"key": "blutrünstigsten", "word": "blutrünstigsten", "translation": "most bloodthirsty", "note": "superlative adjective; most eager for blood/violence"}
+{"key": "binden", "word": "binden", "translation": "bind", "note": ""}
+{"key": "botschafter", "word": "Botschafter", "translation": "ambassador", "note": ""}
+{"key": "damals", "word": "damals", "translation": "at that time", "note": ""}
+{"key": "einzelne", "word": "einzelne", "translation": "individual; single", "note": ""}
+{"key": "erobern", "word": "erobern", "translation": "conquer", "note": ""}
+{"key": "feldern", "word": "Feldern", "translation": "fields", "note": "inflected dat. pl. of Feld"}
+{"key": "fern", "word": "fern", "translation": "far; distant; remote", "note": ""}
+{"key": "freiwillig", "word": "freiwillig", "translation": "voluntarily; voluntary", "note": ""}
+{"key": "gedeihen", "word": "gedeihen", "translation": "thrive", "note": ""}
+{"key": "gefecht", "word": "Gefecht", "translation": "combat; battle", "note": ""}
+{"key": "generationen", "word": "Generationen", "translation": "generations", "note": ""}
+{"key": "genügen", "word": "genügen", "translation": "suffice", "note": ""}
+{"key": "geräte", "word": "Geräte", "translation": "devices; equipment", "note": "pl. of Gerät"}
+{"key": "geseh'n", "word": "geseh'n", "translation": "seen", "note": "colloquial shortened form of gesehen"}
+{"key": "gott", "word": "Gott", "translation": "God", "note": ""}
+{"key": "ignorieren", "word": "ignorieren", "translation": "ignore", "note": ""}
+{"key": "jegliche", "word": "jegliche", "translation": "any", "note": ""}
+{"key": "jenen", "word": "jenen", "translation": "those", "note": "inflected form of jener"}
+{"key": "kobyss", "word": "Kobyss", "translation": "Kobyss", "note": "", "status": "ignored"}
+{"key": "konstrukt", "word": "Konstrukt", "translation": "construct", "note": ""}
+{"key": "kreis", "word": "Kreis", "translation": "circle", "note": ""}
+{"key": "lichtung", "word": "Lichtung", "translation": "clearing", "note": ""}
+{"key": "modan", "word": "Modan", "translation": "Modan", "note": "", "status": "ignored"}
+{"key": "rang", "word": "Rang", "translation": "rank", "note": ""}
+{"key": "reichlich", "word": "reichlich", "translation": "plenty; abundant", "note": ""}
+{"key": "richten", "word": "richten", "translation": "direct", "note": ""}
+{"key": "saurok", "word": "Saurok", "translation": "Saurok", "note": "", "status": "ignored"}
+{"key": "schredder", "word": "Schredder", "translation": "shredder", "note": ""}
+{"key": "spiegel", "word": "Spiegel", "translation": "mirror", "note": ""}
+{"key": "sprecher", "word": "Sprecher", "translation": "speaker", "note": ""}
+{"key": "stromgarde", "word": "Stromgarde", "translation": "Stromgarde", "note": "", "status": "ignored"}
+{"key": "sturmheim", "word": "Sturmheim", "translation": "Sturmheim", "note": "", "status": "ignored"}
+{"key": "ula'tek", "word": "Ula'tek", "translation": "Ula'tek", "note": "", "status": "ignored"}
+{"key": "ungewöhnlich", "word": "ungewöhnlich", "translation": "unusual", "note": ""}
+{"key": "ungewöhnliche", "word": "ungewöhnliche", "translation": "unusual", "note": "inflected form of ungewöhnlich"}
+{"key": "uraltes", "word": "uraltes", "translation": "ancient", "note": "inflected neuter of uralter"}
+{"key": "vernichtung", "word": "Vernichtung", "translation": "destruction", "note": ""}
+{"key": "warcraft", "word": "Warcraft", "translation": "Warcraft", "note": "", "status": "ignored"}
+{"key": "wichtigste", "word": "wichtigste", "translation": "most important", "note": "superlative of wichtig"}
+{"key": "wofür", "word": "wofür", "translation": "for what", "note": ""}
+{"key": "überfall", "word": "Überfall", "translation": "raid", "note": ""}
+{"key": "überwachen", "word": "überwachen", "translation": "monitor", "note": ""}
+{"key": "andorhal", "word": "Andorhal", "translation": "Andorhal", "note": "", "status": "ignored"}
+{"key": "auftauchen", "word": "auftauchen", "translation": "to appear; to surface; to show up", "note": "separable verb"}
+{"key": "auserwählten", "word": "Auserwählten", "translation": "chosen ones", "note": "inflected form of Auserwählte"}
+{"key": "besitzer", "word": "Besitzer", "translation": "owner; proprietor", "note": ""}
+{"key": "einzusammeln", "word": "einzusammeln", "translation": "to collect", "note": "zu-infinitive of einsammeln"}
+{"key": "erinnere", "word": "erinnere", "translation": "remember", "note": "1st person of erinnern; sich erinnern = remember"}
+{"key": "erlangt", "word": "erlangt", "translation": "acquired", "note": ""}
+{"key": "erteilt", "word": "erteilt", "translation": "granted", "note": ""}
+{"key": "gefressen", "word": "gefressen", "translation": "eaten", "note": "of fressen = eat (animals)"}
+{"key": "gelegt", "word": "gelegt", "translation": "placed", "note": ""}
+{"key": "geniesst", "word": "genießt", "translation": "enjoys", "note": "alt spelling of genießt"}
+{"key": "gewinnt", "word": "gewinnt", "translation": "wins", "note": ""}
+{"key": "hinten", "word": "hinten", "translation": "rear; at the back", "note": ""}
+{"key": "hängt", "word": "hängt", "translation": "hangs", "note": ""}
+{"key": "hütte", "word": "Hütte", "translation": "hut", "note": ""}
+{"key": "kapelle", "word": "Kapelle", "translation": "chapel", "note": ""}
+{"key": "katastrophe", "word": "Katastrophe", "translation": "disaster", "note": ""}
+{"key": "kaufen", "word": "kaufen", "translation": "buy", "note": ""}
+{"key": "kraut", "word": "Kraut", "translation": "herb", "note": ""}
+{"key": "kugeln", "word": "Kugeln", "translation": "balls; spheres", "note": ""}
+{"key": "lektionen", "word": "Lektionen", "translation": "lessons", "note": ""}
+{"key": "nötige", "word": "nötige", "translation": "necessary", "note": "inflected form of nötig"}
+{"key": "prinzen", "word": "Prinzen", "translation": "princes", "note": "gen./dat./pl. of Prinz"}
+{"key": "risse", "word": "Risse", "translation": "cracks; rifts", "note": ""}
+{"key": "rostbolzen", "word": "Rostbolzen", "translation": "Rustbolt", "note": "", "status": "ignored"}
+{"key": "schmied", "word": "Schmied", "translation": "blacksmith; smith", "note": ""}
+{"key": "stationiert", "word": "stationiert", "translation": "stationed", "note": ""}
+{"key": "szepter", "word": "Szepter", "translation": "scepter", "note": ""}
+{"key": "talador", "word": "Talador", "translation": "Talador", "note": "", "status": "ignored"}
+{"key": "teich", "word": "Teich", "translation": "pond", "note": ""}
+{"key": "vertraue", "word": "vertraue", "translation": "trust", "note": "1st person of vertrauen"}
+{"key": "wagt", "word": "wagt", "translation": "dares", "note": ""}
+{"key": "weltenseele", "word": "Weltenseele", "translation": "world soul", "note": ""}
+{"key": "wieso", "word": "wieso", "translation": "how come; why", "note": ""}
+{"key": "wünschte", "word": "wünschte", "translation": "wished", "note": ""}
+{"key": "alexstrasza", "word": "Alexstrasza", "translation": "Alexstrasza", "note": "", "status": "ignored"}
+{"key": "angriffs", "word": "Angriffs", "translation": "attack", "note": "genitive of Angriff"}
+{"key": "aufgefallen", "word": "aufgefallen", "translation": "noticed", "note": ""}
+{"key": "beschützer", "word": "Beschützer", "translation": "protector", "note": ""}
+{"key": "bleibe", "word": "bleibe", "translation": "stay", "note": ""}
+{"key": "bäumen", "word": "Bäumen", "translation": "trees", "note": "dat. pl. of Baum"}
+{"key": "erweckt", "word": "erweckt", "translation": "awakened", "note": ""}
+{"key": "fyrakk", "word": "Fyrakk", "translation": "Fyrakk", "note": "", "status": "ignored"}
+{"key": "fäden", "word": "Fäden", "translation": "threads", "note": "pl. of Faden"}
+{"key": "grausame", "word": "grausame", "translation": "cruel", "note": "inflected form of grausam"}
+{"key": "grossem", "word": "großem", "translation": "big; large", "note": "inflected form of groß; alt spelling großem"}
+{"key": "hungrig", "word": "hungrig", "translation": "hungry", "note": ""}
+{"key": "jederzeit", "word": "jederzeit", "translation": "at any time", "note": ""}
+{"key": "lanze", "word": "Lanze", "translation": "lance", "note": ""}
+{"key": "lorenhall", "word": "Lorenhall", "translation": "Lorenhall", "note": "", "status": "ignored"}
+{"key": "marschall", "word": "Marschall", "translation": "marshal", "note": ""}
+{"key": "oberanführer", "word": "Oberanführer", "translation": "supreme leader", "note": ""}
+{"key": "reitet", "word": "Reitet", "translation": "rides", "note": ""}
+{"key": "salbe", "word": "Salbe", "translation": "ointment", "note": ""}
+{"key": "sicht", "word": "Sicht", "translation": "view; sight", "note": ""}
+{"key": "tasche", "word": "Tasche", "translation": "bag; pocket", "note": ""}
+{"key": "verstanden", "word": "verstanden", "translation": "understood", "note": ""}
+{"key": "vorerst", "word": "vorerst", "translation": "for now", "note": ""}
+{"key": "wahrer", "word": "wahrer", "translation": "true; genuine", "note": "inflected form of wahr, not comparative truer"}
+{"key": "wichtigen", "word": "wichtigen", "translation": "important", "note": "inflected form of wichtig"}
+{"key": "wolf", "word": "Wolf", "translation": "wolf", "note": ""}
+{"key": "zurückkehrt", "word": "zurückkehrt", "translation": "returns; comes back", "note": "separable verb zurückkehren"}
+{"key": "abgesehen", "word": "abgesehen", "translation": "apart", "note": "abgesehen von = apart from"}
+{"key": "arbeite", "word": "arbeite", "translation": "work", "note": "1st person of arbeiten"}
+{"key": "aufgeben", "word": "aufgeben", "translation": "give up", "note": ""}
+{"key": "aufstellen", "word": "aufstellen", "translation": "set up", "note": ""}
+{"key": "ausgelöscht", "word": "ausgelöscht", "translation": "wiped out; extinguished", "note": ""}
+{"key": "dezimiert", "word": "dezimiert", "translation": "decimated", "note": ""}
+{"key": "dringende", "word": "dringende", "translation": "urgent", "note": "inflected form of dringend"}
+{"key": "enklave", "word": "Enklave", "translation": "enclave", "note": ""}
+{"key": "erheben", "word": "erheben", "translation": "raise", "note": ""}
+{"key": "flusses", "word": "Flusses", "translation": "river", "note": "genitive of Fluss"}
+{"key": "früchte", "word": "Früchte", "translation": "fruits; fruit", "note": "pl. of Frucht"}
+{"key": "funken", "word": "Funken", "translation": "spark", "note": "pl. of Funke"}
+{"key": "fähig", "word": "fähig", "translation": "capable", "note": ""}
+{"key": "fähigen", "word": "fähigen", "translation": "capable", "note": "inflected form of fähig"}
+{"key": "fühle", "word": "fühle", "translation": "feel", "note": ""}
+{"key": "gesellschaft", "word": "Gesellschaft", "translation": "company; society", "note": ""}
+{"key": "gilneas", "word": "Gilneas", "translation": "Gilneas", "note": "", "status": "ignored"}
+{"key": "hinweg", "word": "hinweg", "translation": "away", "note": "hinweg = away; ... hinweg = throughout"}
+{"key": "honig", "word": "Honig", "translation": "honey", "note": ""}
+{"key": "höchsten", "word": "höchsten", "translation": "highest", "note": "superlative inflected of hoch"}
+{"key": "kalecgos", "word": "Kalecgos", "translation": "Kalecgos", "note": "", "status": "ignored"}
+{"key": "kalimdor", "word": "Kalimdor", "translation": "Kalimdor", "note": "", "status": "ignored"}
+{"key": "karazhan", "word": "Karazhan", "translation": "Karazhan", "note": "", "status": "ignored"}
+{"key": "lebend", "word": "lebend", "translation": "alive; living", "note": ""}
+{"key": "monstrosität", "word": "Monstrosität", "translation": "monstrosity", "note": ""}
+{"key": "mutig", "word": "mutig", "translation": "brave", "note": ""}
+{"key": "mögliche", "word": "mögliche", "translation": "possible", "note": "inflected form of möglich"}
+{"key": "nähern", "word": "nähern", "translation": "approach", "note": "sich nähern = approach"}
+{"key": "palast", "word": "Palast", "translation": "palace", "note": ""}
+{"key": "persönliche", "word": "persönliche", "translation": "personal", "note": "inflected form of persönlich"}
+{"key": "propheten", "word": "Propheten", "translation": "prophets", "note": "pl./gen. of Prophet"}
+{"key": "risiko", "word": "Risiko", "translation": "risk", "note": ""}
+{"key": "rund", "word": "rund", "translation": "around", "note": ""}
+{"key": "schenken", "word": "schenken", "translation": "give; gift", "note": ""}
+{"key": "sicherzustellen", "word": "sicherzustellen", "translation": "ensure", "note": "zu-infinitive of sicherstellen"}
+{"key": "splitterflammen", "word": "Splitterflammen", "translation": "Sundered Flame", "note": "dracthyr faction, not splinter flames", "status": "ignored"}
+{"key": "stich", "word": "Stich", "translation": "sting; stab; stitch", "note": "not engraving here; Stich = sting/stab in context"}
+{"key": "säubern", "word": "säubern", "translation": "clean", "note": ""}
+{"key": "teichen", "word": "Teichen", "translation": "ponds", "note": "dat. pl. of Teich"}
+{"key": "unzählige", "word": "unzählige", "translation": "countless", "note": "inflected form of unzählig"}
+{"key": "val'sharah", "word": "Val'sharah", "translation": "Val'sharah", "note": "", "status": "ignored"}
+{"key": "vaters", "word": "Vaters", "translation": "father", "note": "genitive of Vater"}
+{"key": "vermächtnis", "word": "Vermächtnis", "translation": "legacy", "note": ""}
+{"key": "wem", "word": "wem", "translation": "whom", "note": "dat. of wer"}
+{"key": "überrennen", "word": "überrennen", "translation": "overrun", "note": ""}
+{"key": "akademie", "word": "Akademie", "translation": "academy", "note": ""}
+{"key": "archiv", "word": "Archiv", "translation": "archive", "note": ""}
+{"key": "arkaner", "word": "arkaner", "translation": "arcane", "note": "inflected form of arkan"}
+{"key": "aufenthaltsort", "word": "Aufenthaltsort", "translation": "whereabouts", "note": "location, not dwelling"}
+{"key": "aufgenommen", "word": "aufgenommen", "translation": "recorded; absorbed; admitted", "note": ""}
+{"key": "begann", "word": "begann", "translation": "began", "note": ""}
+{"key": "bestimmten", "word": "bestimmten", "translation": "certain", "note": "inflected form of bestimmt"}
+{"key": "boot", "word": "Boot", "translation": "boat", "note": ""}
+{"key": "dorfes", "word": "Dorfes", "translation": "village", "note": "genitive of Dorf"}
+{"key": "durchhalten", "word": "durchhalten", "translation": "persevere; hold out", "note": ""}
+{"key": "echo", "word": "Echo", "translation": "echo", "note": ""}
+{"key": "entscheidet", "word": "entscheidet", "translation": "decides", "note": ""}
+{"key": "erlösung", "word": "Erlösung", "translation": "salvation; redemption", "note": ""}
+{"key": "essenzen", "word": "Essenzen", "translation": "essences", "note": ""}
+{"key": "etwa", "word": "etwa", "translation": "approximately; about", "note": ""}
+{"key": "geh", "word": "Geh", "translation": "go", "note": "imperative of gehen"}
+{"key": "gibt's", "word": "gibt's", "translation": "there is", "note": "colloquial for gibt es"}
+{"key": "grummel", "word": "Grummel", "translation": "Grummel", "note": "", "status": "ignored"}
+{"key": "gräber", "word": "Gräber", "translation": "graves", "note": ""}
+{"key": "halt", "word": "Halt", "translation": "stop; halt", "note": "noun Halt = stop; also interjection"}
+{"key": "inmitten", "word": "inmitten", "translation": "in the middle; amidst", "note": ""}
+{"key": "kehren", "word": "kehren", "translation": "sweep; turn", "note": "den Rücken kehren = turn one's back"}
+{"key": "kosten", "word": "kosten", "translation": "cost", "note": ""}
+{"key": "lagern", "word": "lagern", "translation": "store; camp", "note": ""}
+{"key": "liess", "word": "ließ", "translation": "let", "note": "old spelling of ließ"}
+{"key": "machenschaften", "word": "Machenschaften", "translation": "machinations", "note": ""}
+{"key": "mortis", "word": "Mortis", "translation": "Mortis", "note": "", "status": "ignored"}
+{"key": "nachgehen", "word": "nachgehen", "translation": "follow up; pursue", "note": ""}
+{"key": "planeten", "word": "Planeten", "translation": "planets", "note": ""}
+{"key": "plänen", "word": "Plänen", "translation": "plans", "note": "dat. pl. of Plan"}
+{"key": "rauch", "word": "Rauch", "translation": "smoke", "note": ""}
+{"key": "reisst", "word": "reißt", "translation": "tears", "note": "variant spelling of reißt"}
+{"key": "restlichen", "word": "restlichen", "translation": "remaining", "note": "inflected form of restlich"}
+{"key": "schweren", "word": "schweren", "translation": "heavy", "note": "inflected form of schwer"}
+{"key": "schöne", "word": "schöne", "translation": "beautiful", "note": "inflected form of schön"}
+{"key": "sicherer", "word": "sicherer", "translation": "safer", "note": "comparative of sicher"}
+{"key": "studien", "word": "Studien", "translation": "studies", "note": ""}
+{"key": "sündensturz", "word": "Sündensturz", "translation": "Sinfall", "note": "proper name Sündensturz = Sinfall", "status": "ignored"}
+{"key": "tyrs", "word": "Tyrs", "translation": "Tyr's", "note": "genitive of Tyr (proper name)", "status": "ignored"}
+{"key": "umgeben", "word": "umgeben", "translation": "surrounded; surround", "note": ""}
+{"key": "verbergen", "word": "verbergen", "translation": "hide", "note": ""}
+{"key": "verbrechen", "word": "Verbrechen", "translation": "crime", "note": ""}
+{"key": "wirft", "word": "wirft", "translation": "throws", "note": ""}
+{"key": "zeremonie", "word": "Zeremonie", "translation": "ceremony", "note": ""}
+{"key": "zereth", "word": "Zereth", "translation": "Zereth", "note": "", "status": "ignored"}
+{"key": "zul'drak", "word": "Zul'Drak", "translation": "Zul'Drak", "note": "", "status": "ignored"}
+{"key": "zurückgezogen", "word": "zurückgezogen", "translation": "withdrawn", "note": ""}
+{"key": "zusehen", "word": "zusehen", "translation": "watch", "note": ""}
+{"key": "auges", "word": "Auges", "translation": "eye", "note": "genitive of Auge"}
+{"key": "auslöschen", "word": "auslöschen", "translation": "erase; extinguish", "note": ""}
+{"key": "baupläne", "word": "Baupläne", "translation": "construction plans; blueprints", "note": ""}
+{"key": "brauch'n", "word": "brauch'n", "translation": "need", "note": "colloquial for brauchen"}
+{"key": "drust", "word": "Drust", "translation": "Drust", "note": "", "status": "ignored"}
+{"key": "dunkler", "word": "dunkler", "translation": "darker; dark", "note": "inflected/comparative of dunkel"}
+{"key": "extrem", "word": "extrem", "translation": "extreme", "note": ""}
+{"key": "fertigen", "word": "fertigen", "translation": "manufacture; produce", "note": ""}
+{"key": "freue", "word": "freue", "translation": "am happy", "note": "sich freuen = be glad"}
+{"key": "fässer", "word": "Fässer", "translation": "barrels", "note": "pl. of Fass"}
+{"key": "gegenseitig", "word": "gegenseitig", "translation": "each other; mutual", "note": ""}
+{"key": "gehofft", "word": "gehofft", "translation": "hoped", "note": ""}
+{"key": "geschaffen", "word": "geschaffen", "translation": "created", "note": ""}
+{"key": "glaub", "word": "glaub", "translation": "believe", "note": "colloquial short for glaube"}
+{"key": "grossartige", "word": "großartige", "translation": "great", "note": "alt spelling großartige; inflected of großartig"}
+{"key": "interessante", "word": "interessante", "translation": "interesting", "note": "inflected form of interessant"}
+{"key": "kriegshymnenklans", "word": "Kriegshymnenklans", "translation": "Warsong Clan", "note": "", "status": "ignored"}
+{"key": "lied", "word": "Lied", "translation": "song", "note": ""}
+{"key": "lüfte", "word": "Lüfte", "translation": "airs; breezes", "note": "pl. of Luft"}
+{"key": "malfurion", "word": "Malfurion", "translation": "Malfurion", "note": "", "status": "ignored"}
