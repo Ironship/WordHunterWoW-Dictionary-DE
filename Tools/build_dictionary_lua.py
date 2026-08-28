@@ -10,6 +10,10 @@ for source in (ROOT / "Data/cache/translations_de_en.jsonl", ROOT / "Data/Curate
         if r.get("translation"): records[r["key"]] = r
 lines = ["WordHunterWoW_Dictionary_DE = WordHunterWoW_Dictionary_DE or {}"]
 for key in sorted(records):
-    r = records[key]; lines.append(f"WordHunterWoW_Dictionary_DE[{q(key)}] = {{ word = {q(r['word'])}, translation = {q(r['translation'])}, note = {q(r.get('note'))} }}")
+    r = records[key]
+    extras = ""
+    if r.get("status") in ("ignored", "known", "learning", "new"):
+        extras = f", status = {q(r['status'])}"
+    lines.append(f"WordHunterWoW_Dictionary_DE[{q(key)}] = {{ word = {q(r['word'])}, translation = {q(r['translation'])}, note = {q(r.get('note'))}{extras} }}")
 (ROOT / "Data/DictionaryDE.lua").write_text("\n".join(lines) + "\n", encoding="utf-8")
 print(f"entries={len(records)}")

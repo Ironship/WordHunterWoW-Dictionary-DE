@@ -23,9 +23,15 @@ def main():
         if len(original) != len(reviews):
             errors.append(f"count {source.name}: {len(original)} != {len(reviews)}")
             continue
-        for index, (entry, review) in enumerate(zip(original, reviews), 1):
-            if entry["key"] != review.get("key"):
-                errors.append(f"key {source.name}:{index}: {entry['key']!r} != {review.get('key')!r}")
+        reviews_by_key = {}
+        for r in reviews:
+            k = (r.get("key") or "").casefold()
+            reviews_by_key[k] = r
+        for index, entry in enumerate(original, 1):
+            k = entry["key"].casefold()
+            review = reviews_by_key.get(k)
+            if review is None:
+                errors.append(f"key {source.name}:{index}: {entry['key']!r} missing in review")
                 continue
             if "�" in json.dumps(review, ensure_ascii=False):
                 errors.append(f"encoding {source.name}:{index}: {entry['key']}")

@@ -10,6 +10,7 @@ OUT = ROOT / "Data/cache/polysemy_batches"
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--limit", type=int, default=960)
+    parser.add_argument("--offset", type=int, default=0)
     parser.add_argument("--batch-size", type=int, default=60)
     args = parser.parse_args()
     curated = {json.loads(line)["key"] for line in CURATED.read_text(encoding="utf-8").splitlines() if line.strip()}
@@ -26,7 +27,7 @@ def main():
             "context": (record.get("context") or "")[:320],
         })
     records.sort(key=lambda record: (-int(record["count"]), record["key"]))
-    records = records[:args.limit]
+    records = records[args.offset:args.offset + args.limit]
     if OUT.exists(): shutil.rmtree(OUT)
     OUT.mkdir(parents=True)
     for offset in range(0, len(records), args.batch_size):
