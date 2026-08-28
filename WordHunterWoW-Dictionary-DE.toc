@@ -3,7 +3,7 @@
 ## Notes: Optional German-English quest dictionary. Requires WordHunterWoW.
 ## IconTexture: Interface\AddOns\WordHunterWoW-Dictionary-DE\icon
 ## Author: Ironship
-## Version: 1.0.4
+## Version: 1.0.5
 ## Dependencies: WordHunterWoW
 
 Data/DictionaryDE.lua
