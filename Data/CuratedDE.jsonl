@@ -1593,3 +1593,723 @@
 {"key": "lied", "word": "Lied", "translation": "song", "note": ""}
 {"key": "lüfte", "word": "Lüfte", "translation": "airs; breezes", "note": "pl. of Luft"}
 {"key": "malfurion", "word": "Malfurion", "translation": "Malfurion", "note": "", "status": "ignored"}
+{"key": "dunkeleisenklan", "word": "Dunkeleisenklan", "translation": "Dark Iron Clan", "note": "dunkel (dark) + eisen (iron) + klan (clan)"}
+{"key": "dämoneninvasion", "word": "Dämoneninvasion", "translation": "Demon invasion", "note": ""}
+{"key": "eisdistelbergen", "word": "Eisdistelbergen", "translation": "Ice thistle mountains", "note": "eisdistel (ice thistle plant) + bergen (mountains)"}
+{"key": "finsterwallturm", "word": "Finsterwallturm", "translation": "Darkwall Tower", "note": "finster (dark) + wall (wall) + turm (tower)"}
+{"key": "irrlichtanwesen", "word": "Irrlichtanwesen", "translation": "Will-o-the-wisp estate", "note": "irrlich is a will-o-the-wisp, a ghostly light in folklore"}
+{"key": "laubschattental", "word": "Laubschattental", "translation": "Leaf Shadow Valley", "note": "laub (foliage) + schatten (shadow) + tal (valley)"}
+{"key": "scherwindklippe", "word": "Scherwindklippe", "translation": "Windshear Cliff", "note": "scherwind (shearing wind) + klippe (cliff)"}
+{"key": "schlüsselsteins", "word": "Schlüsselsteins", "translation": "Keystone", "note": "schlüssel (key) + stein (stone)"}
+{"key": "seelenedelstein", "word": "Seelenedelstein", "translation": "Soul Gem", "note": "seele (soul) + edelstein (gem)"}
+{"key": "steinzahnposten", "word": "Steinzahnposten", "translation": "Stone Tooth Post", "note": "stein (stone) + zahn (tooth) + posten (post)"}
+{"key": "sturmarionkerne", "word": "Sturmarionkerne", "translation": "Stormarion cores", "note": ""}
+{"key": "talentiertesten", "word": "talentiertesten", "translation": "most talented", "note": ""}
+{"key": "teufelswaldtour", "word": "Teufelswaldtour", "translation": "Devil's Forest Tour", "note": "teufel (devil) + wald (forest) + tour"}
+{"key": "thandolübergang", "word": "Thandolübergang", "translation": "Thandol Span", "note": ""}
+{"key": "vorübergehender", "word": "vorübergehender", "translation": "temporary", "note": "vorüber (past) + gehend (going), literally 'passing by'"}
+{"key": "waldläuferinnen", "word": "Waldläuferinnen", "translation": "Rangers", "note": "wald (forest) + läufer (runner) + -innen (female plural)"}
+{"key": "wildhammerklans", "word": "Wildhammerklans", "translation": "Wildhammer Clan", "note": ""}
+{"key": "wildwuchsmangal", "word": "Wildwuchsmangal", "translation": "Wild mangrove", "note": "wildwuchs (wild growth) + mangal (mangrove)"}
+{"key": "bergungsaktion", "word": "Bergungsaktion", "translation": "Salvage operation", "note": "bergung (salvage) + aktion (operation)"}
+{"key": "blutbefleckten", "word": "blutbefleckten", "translation": "bloodstained", "note": ""}
+{"key": "braufestlagers", "word": "Braufestlagers", "translation": "Brewfest camp", "note": "Braufest (WoW autumn festival) + lager (camp)"}
+{"key": "drachenmeister", "word": "Drachenmeister", "translation": "Dragon Master", "note": "drachen (dragon) + meister (master)"}
+{"key": "drachenschuppe", "word": "Drachenschuppe", "translation": "Dragon Scale", "note": "drachen (dragon) + schuppe (scale)"}
+{"key": "fleischbestien", "word": "Fleischbestien", "translation": "Flesh beasts", "note": ""}
+{"key": "gezeitenjägers", "word": "Gezeitenjägers", "translation": "Tidehunters", "note": "gezeiten (tides) + jäger (hunters)"}
+{"key": "himmelsmeister", "word": "Himmelsmeister", "translation": "Celestial Master", "note": "himmel (sky/heaven) + meister (master)"}
+{"key": "hügelpinnenhof", "word": "Hügelpinnenhof", "translation": "Hill-pin farmstead", "note": "hügel (hill) + pinne (pin) + hof (farmstead)"}
+{"key": "kristallrücken", "word": "Kristallrücken", "translation": "Crystal backs", "note": "kristall (crystal) + rücken (back/ridge)"}
+{"key": "matronenmutter", "word": "Matronenmutter", "translation": "Matron Mother", "note": ""}
+{"key": "mondpriesterin", "word": "Mondpriesterin", "translation": "Moon Priestess", "note": "mond (moon) + priesterin (priestess)"}
+{"key": "schwarzdrachen", "word": "Schwarzdrachen", "translation": "Black Dragon", "note": "schwarz (black) + drachen (dragon)"}
+{"key": "schwindelgrins", "word": "Schwindelgrins", "translation": "Giddy grin", "note": "schwindel (dizziness) + grins (grin)"}
+{"key": "seidendistrikt", "word": "Seidendistrikt", "translation": "Silk District", "note": "seide (silk) + distrikt (district)"}
+{"key": "silbermarschen", "word": "Silbermarschen", "translation": "Silver Marches", "note": "silber (silver) + marschen (marches)"}
+{"key": "sklavenmeister", "word": "Sklavenmeister", "translation": "Slave Master", "note": "sklaven (slaves) + meister (master)"}
+{"key": "windläuferdorf", "word": "Windläuferdorf", "translation": "Windrunner Village", "note": "windläufer (wind runner) + dorf (village)"}
+{"key": "wisperwindhain", "word": "Wisperwindhain", "translation": "Whisperwind Grove", "note": "wisperwind + hain (grove)"}
+{"key": "dunkelvorstoss", "word": "Dunkelvorstoß", "translation": "Dark Advance", "note": "dunkel (dark) + vorstoß (advance/thrust)"}
+{"key": "eschentalecke", "word": "Eschentalecke", "translation": "Ash Valley Corner", "note": "eschen (ash trees) + tal (valley) + ecke (corner)"}
+{"key": "gezeitenjäger", "word": "Gezeitenjäger", "translation": "Tidehunter", "note": "gezeiten (tides) + jäger (hunter); title of Neptulon"}
+{"key": "hochbergstamm", "word": "Hochbergstamm", "translation": "Highmountain Tribe", "note": "hochberg (high mountain) + stamm (tribe)"}
+{"key": "klingenmähnen", "word": "Klingenmähnen", "translation": "Razormanes", "note": "klingen (blades) + mähnen (manes)"}
+{"key": "knochenmetall", "word": "Knochenmetall", "translation": "Bone metal", "note": "knochen (bone) + metall (metal)"}
+{"key": "leerenbestien", "word": "Leerenbestien", "translation": "Void beasts", "note": "leeren (void) + bestien (beasts)"}
+{"key": "meisterlicher", "word": "Meisterlicher", "translation": "masterful", "note": ""}
+{"key": "metallschrott", "word": "Metallschrott", "translation": "Scrap metal", "note": "metall (metal) + schrott (scrap)"}
+{"key": "mondklauental", "word": "Mondklauental", "translation": "Moonclaw Valley", "note": "mondklaue (Moonclaw) + tal (valley)"}
+{"key": "nachtgeborene", "word": "Nachtgeborene", "translation": "Nightborn", "note": "nacht (night) + geborene (born); WoW race"}
+{"key": "schlupfhügeln", "word": "Schlupfhügeln", "translation": "Hiding hills", "note": "schlupf (hideout) + hügeln (hills)"}
+{"key": "steingeborene", "word": "Steingeborene", "translation": "Stoneborn", "note": "stein (stone) + geborene (born)"}
+{"key": "steinscheusal", "word": "Steinscheusal", "translation": "Stone monster", "note": "stein (stone) + scheusal (monster)"}
+{"key": "sternenlichts", "word": "Sternenlichts", "translation": "Starlight", "note": ""}
+{"key": "tiefenfestung", "word": "Tiefenfestung", "translation": "Deep Fortress", "note": "tiefen (deep) + festung (fortress)"}
+{"key": "zwielichtigen", "word": "zwielichtigen", "translation": "dubious", "note": "from zwielicht (twilight, ambiguous light)"}
+{"key": "ablagerungen", "word": "Ablagerungen", "translation": "Deposits", "note": ""}
+{"key": "dokumentiert", "word": "dokumentiert", "translation": "documented", "note": ""}
+{"key": "drachentöter", "word": "Drachentöter", "translation": "Dragon Slayer", "note": "drachen (dragon) + töter (slayer)"}
+{"key": "einquartiert", "word": "einquartiert", "translation": "quartered", "note": ""}
+{"key": "erregerstamm", "word": "Erregerstamm", "translation": "Pathogen strain", "note": "erreger (pathogen) + stamm (strain)"}
+{"key": "feuerfürsten", "word": "Feuerfürsten", "translation": "Firelords", "note": "feuer (fire) + fürsten (lords)"}
+{"key": "feuerlöscher", "word": "Feuerlöscher", "translation": "Fire extinguisher", "note": "feuer (fire) + löscher (extinguisher)"}
+{"key": "hochschamane", "word": "Hochschamane", "translation": "High Shaman", "note": ""}
+{"key": "kanonenfeuer", "word": "Kanonenfeuer", "translation": "Cannon fire", "note": ""}
+{"key": "katalysators", "word": "Katalysators", "translation": "Catalyst", "note": ""}
+{"key": "küstenachter", "word": "Küstenachter", "translation": "Coastal Eight", "note": ""}
+{"key": "meisterhafte", "word": "meisterhafte", "translation": "masterly", "note": ""}
+{"key": "meisterjäger", "word": "Meisterjäger", "translation": "Master hunter", "note": ""}
+{"key": "orientierung", "word": "Orientierung", "translation": "orientation", "note": ""}
+{"key": "ostwindküste", "word": "Ostwindküste", "translation": "East Wind Coast", "note": ""}
+{"key": "rüstmeistern", "word": "Rüstmeistern", "translation": "quartermasters", "note": ""}
+{"key": "schwarzbluts", "word": "Schwarzbluts", "translation": "Blackblood", "note": "schwarz (black) + blut (blood); uncountable phenomenon or substance"}
+{"key": "steingardist", "word": "Steingardist", "translation": "Stoneguard", "note": ""}
+{"key": "sturmruferin", "word": "Sturmruferin", "translation": "Stormcaller", "note": ""}
+{"key": "verdeutlicht", "word": "verdeutlicht", "translation": "clarified", "note": ""}
+{"key": "wildreservat", "word": "Wildreservat", "translation": "Game reserve", "note": "wild (wild/game) + reservat (reserve)"}
+{"key": "zentrallager", "word": "Zentrallager", "translation": "Central warehouse", "note": ""}
+{"key": "zeppelinturm", "word": "Zeppelinturm", "translation": "Zeppelin tower", "note": ""}
+{"key": "übergegangen", "word": "übergegangen", "translation": "proceeded to", "note": "über (over) + gehen (go); means to transition to or begin to, not simply pass"}
+{"key": "blutdisteln", "word": "Blutdisteln", "translation": "Blood thistles", "note": ""}
+{"key": "blutskalpen", "word": "Blutskalpen", "translation": "Blood scalps", "note": ""}
+{"key": "distelbären", "word": "Distelbären", "translation": "Thistle bears", "note": "distel (thistle) + bären (bears)"}
+{"key": "dunkeleisen", "word": "Dunkeleisen", "translation": "Dark Iron", "note": ""}
+{"key": "dunkelkämme", "word": "Dunkelkämme", "translation": "Darkcombs", "note": ""}
+{"key": "finsterwald", "word": "Finsterwald", "translation": "Dark Forest", "note": "finster (dark) + wald (forest)"}
+{"key": "höhlenboden", "word": "Höhlenboden", "translation": "Cave floor", "note": "höhle (cave) + boden (floor)"}
+{"key": "lehrmeister", "word": "Lehrmeister", "translation": "teacher", "note": "lehr (teaching) + meister (master); a learned instructor"}
+{"key": "leuchtegold", "word": "Leuchtegold", "translation": "Luminaire gold", "note": ""}
+{"key": "meisterhaft", "word": "meisterhaft", "translation": "masterly", "note": "meister (master) + -haft (adjective suffix)"}
+{"key": "nachthimmel", "word": "Nachthimmel", "translation": "night sky", "note": "nacht (night) + himmel (sky)"}
+{"key": "schildhügel", "word": "Schildhügel", "translation": "Shield Hill", "note": "schild (shield) + hügel (hill)"}
+{"key": "schlichtweg", "word": "schlichtweg", "translation": "simply", "note": "archaic/formal adverb meaning plain and simple"}
+{"key": "sturmgrimms", "word": "Sturmgrimms", "translation": "Stormrage", "note": "sturm (storm) + grimm (grim); Illidan's epithet"}
+{"key": "versteinert", "word": "versteinert", "translation": "petrified", "note": "ver- (prefix) + steinen (turn to stone); turned to stone"}
+{"key": "waldländern", "word": "Waldländern", "translation": "Woodlands", "note": "wald (forest) + ländern (lands/regions)"}
+{"key": "waldläufern", "word": "Waldläufern", "translation": "Rangers", "note": "wald (forest) + läufer (runner); forest ranger"}
+{"key": "webergewebe", "word": "Webergewebe", "translation": "Weaver fabric", "note": "weber (weaver) + gewebe (fabric)"}
+{"key": "zauberstein", "word": "Zauberstein", "translation": "Magic stone", "note": "zauber (magic/spell) + stein (stone)"}
+{"key": "edelsteins", "word": "Edelsteins", "translation": "gemstones", "note": "edel (noble/precious) + stein (stone)"}
+{"key": "eisenfaust", "word": "Eisenfaust", "translation": "Iron Fist", "note": "eisen (iron) + faust (fist)"}
+{"key": "falkenwind", "word": "Falkenwind", "translation": "Hawkwind", "note": "falke (hawk) + wind (wind)"}
+{"key": "grabklinge", "word": "Grabklinge", "translation": "Graveblade", "note": "grab (grave) + klinge (blade)"}
+{"key": "grabsteine", "word": "Grabsteine", "translation": "Tombstones", "note": "grab (grave) + stein (stone); graves"}
+{"key": "hexenlande", "word": "Hexenlande", "translation": "Witchlands", "note": "hexe (witch) + lande (lands)"}
+{"key": "hexenzwirn", "word": "Hexenzwirn", "translation": "Witch's twine", "note": "hexe (witch) + zwirn (twine/yarn)"}
+{"key": "jaspismine", "word": "Jaspismine", "translation": "Jasper mine", "note": "jasper (jasper) + mine (mine)"}
+{"key": "lianendorf", "word": "Lianendorf", "translation": "Liana Village", "note": "liane (liana) + dorf (village)"}
+{"key": "malmhammer", "word": "Malmhammer", "translation": "Malmhammer", "note": "proper noun; uncertain etymology"}
+{"key": "mondsteine", "word": "Mondsteine", "translation": "Moonstones", "note": "mond (moon) + steine (stones)"}
+{"key": "nachtgleve", "word": "Nachtgleve", "translation": "Nightglaive", "note": "nacht (night) + glaive (glaive, a polearm)"}
+{"key": "rabenbären", "word": "Rabenbären", "translation": "Raven bears", "note": "rabe (raven) + bären (bears)"}
+{"key": "salzwasser", "word": "Salzwasser", "translation": "Salt water", "note": "salz (salt) + wasser (water)"}
+{"key": "schnitztal", "word": "Schnitztal", "translation": "Schnitztal", "note": "proper noun"}
+{"key": "stahlrosts", "word": "Stahlrosts", "translation": "Stahlrost", "note": "proper noun (character or location name)"}
+{"key": "waldtrolle", "word": "Waldtrolle", "translation": "Forest trolls", "note": "wald (forest) + trolle (trolls)"}
+{"key": "weisenwall", "word": "Weisenwall", "translation": "Weisenwall", "note": "proper noun"}
+{"key": "wildformer", "word": "Wildformer", "translation": "Wild shaper", "note": "wild (wild) + former (shaper/one who forms)"}
+{"key": "windnatter", "word": "Windnatter", "translation": "Wind snake", "note": "wind (wind) + natter (snake)"}
+{"key": "zeitaltern", "word": "Zeitaltern", "translation": "ages", "note": "zeit (time/age) + altern (ages/aging); ages or eras"}
+{"key": "ausrüstungsgegenstände", "word": "Ausrüstungsgegenstände", "translation": "Equipment items", "note": "ausrüstung (equipment) + gegenstände (items)"}
+{"key": "beschwörungskristall", "word": "Beschwörungskristall", "translation": "Summoning Crystal", "note": "beschwörung (summoning) + kristall (crystal)"}
+{"key": "konstruktionsmeister", "word": "Konstruktionsmeister", "translation": "Construction Master", "note": ""}
+{"key": "schattenfallschlucht", "word": "Schattenfallschlucht", "translation": "Shadowfall Gorge", "note": ""}
+{"key": "sonnenhäscheransturm", "word": "Sonnenhäscheransturm", "translation": "Sunreaver Rush", "note": ""}
+{"key": "steinkrallengebirges", "word": "Steinkrallengebirges", "translation": "Stonetalon Mountains", "note": "stein (stone) + krallen (talons) explains the English name"}
+{"key": "bilgewasserkartells", "word": "Bilgewasserkartells", "translation": "Bilgewater Cartel", "note": ""}
+{"key": "speerspiesserfestung", "word": "Speerspießerfestung", "translation": "Spearfisher Fortress", "note": ""}
+{"key": "fledermausführerin", "word": "Fledermausführerin", "translation": "Bat Leader", "note": "fledermaus (bat) + führerin (female leader)"}
+{"key": "knochenmetallkrise", "word": "Knochenmetallkrise", "translation": "Bone Metal Crisis", "note": ""}
+{"key": "belagerungspanzer", "word": "Belagerungspanzer", "translation": "Siege Tank", "note": ""}
+{"key": "beschwörungsstein", "word": "Beschwörungsstein", "translation": "Summoning Stone", "note": ""}
+{"key": "blutschlägerklamm", "word": "Blutschlägerklamm", "translation": "Bloodmaul Gorge", "note": ""}
+{"key": "glutschieferhöhle", "word": "Glutschieferhöhle", "translation": "Ember Slate Cave", "note": ""}
+{"key": "kriegsbestienkral", "word": "Kriegsbestienkral", "translation": "Warbeast Kraal", "note": ""}
+{"key": "nachtlaublichtung", "word": "Nachtlaublichtung", "translation": "Night Foliage Clearing", "note": ""}
+{"key": "nachtsturzsanktum", "word": "Nachtsturzsanktum", "translation": "Nightfall Sanctum", "note": ""}
+{"key": "nath'raxasfestung", "word": "Nath'raxasfestung", "translation": "Nath'raxas Fortress", "note": ""}
+{"key": "schattenlabyrinth", "word": "Schattenlabyrinth", "translation": "Shadow Maze", "note": ""}
+{"key": "steinbrecherarena", "word": "Steinbrecherarena", "translation": "Stonebreaker Arena", "note": ""}
+{"key": "sturmherrenschelf", "word": "Sturmherrenschelf", "translation": "Stormherrs Shelf", "note": "sturmherren (storm lords) + schelf (shelf)"}
+{"key": "sturmlanzenzwerge", "word": "Sturmlanzenzwerge", "translation": "Stormlance Dwarves", "note": ""}
+{"key": "feuerzweigwinkel", "word": "Feuerzweigwinkel", "translation": "Fire Branch Corner", "note": ""}
+{"key": "krallenpriestern", "word": "Krallenpriestern", "translation": "Talon Priests", "note": ""}
+{"key": "kristallisierten", "word": "kristallisierten", "translation": "crystallized", "note": ""}
+{"key": "kristallisierter", "word": "kristallisierter", "translation": "crystallized", "note": ""}
+{"key": "neu-tüftlerstadt", "word": "Neu-Tüftlerstadt", "translation": "New Tinkerer City", "note": "neu (new) + tüftler (tinkerer) + stadt (city)"}
+{"key": "übergeschnappten", "word": "übergeschnappten", "translation": "snapped", "note": "über- (over-) + geschnappt; colorful way to say 'went crazy'"}
+{"key": "abendlichtinsel", "word": "Abendlichtinsel", "translation": "Evening Light Island", "note": ""}
+{"key": "bergbaulehrerin", "word": "Bergbaulehrerin", "translation": "Mining Instructor", "note": ""}
+{"key": "blutflossendorf", "word": "Blutflossendorf", "translation": "Bloodfin Village", "note": ""}
+{"key": "bruchbudenhügel", "word": "Bruchbudenhügel", "translation": "Shack Hill", "note": ""}
+{"key": "dracheneiswüste", "word": "Dracheneiswüste", "translation": "Dragon Ice Desert", "note": ""}
+{"key": "eiswasserfällen", "word": "Eiswasserfällen", "translation": "Ice Waterfalls", "note": ""}
+{"key": "frostgramhöhlen", "word": "Frostgramhöhlen", "translation": "Frostmourne Caverns", "note": ""}
+{"key": "graunebelhöhlen", "word": "Graunebelhöhlen", "translation": "Gray Mist Caves", "note": ""}
+{"key": "herrschaftsburg", "word": "Herrschaftsburg", "translation": "Dominion Castle", "note": ""}
+{"key": "kristallpylonen", "word": "Kristallpylonen", "translation": "Crystal Pylons", "note": ""}
+{"key": "mykomantenhöhle", "word": "Mykomantenhöhle", "translation": "Mycomancer Cave", "note": ""}
+{"key": "schattenbindung", "word": "Schattenbindung", "translation": "Shadowbind", "note": ""}
+{"key": "schattenjägerin", "word": "Schattenjägerin", "translation": "Shadowhunter", "note": ""}
+{"key": "schreckensleder", "word": "Schreckensleder", "translation": "Dreadleather", "note": "schrecken (dread) + leder (leather); ominous name for a material"}
+{"key": "silberschwingen", "word": "Silberschwingen", "translation": "Silverwings", "note": ""}
+{"key": "spionagemeister", "word": "Spionagemeister", "translation": "Spymaster", "note": ""}
+{"key": "windspielanhöhe", "word": "Windspielanhöhe", "translation": "Wind Chime Height", "note": "spiel (chimes/play) creates an unexpected poetic image"}
+{"key": "bestienmeister", "word": "Bestienmeister", "translation": "Beastmaster", "note": ""}
+{"key": "bestienpferche", "word": "Bestienpferche", "translation": "Beast Pens", "note": ""}
+{"key": "dolchfennstamm", "word": "Dolchfennstamm", "translation": "Daggerfen Tribe", "note": ""}
+{"key": "drachenaspekte", "word": "Drachenaspekte", "translation": "Dragon Aspects", "note": ""}
+{"key": "drachenfresser", "word": "Drachenfresser", "translation": "Dragon Eater", "note": ""}
+{"key": "edelsteinaugen", "word": "Edelsteinaugen", "translation": "Gemstone Eyes", "note": ""}
+{"key": "eisenschmiedes", "word": "Eisenschmiedes", "translation": "Ironforge", "note": "iron (eisen) + forge (schmiede); the dwarven city, not individual smiths"}
+{"key": "eisenwaldhöhle", "word": "Eisenwaldhöhle", "translation": "Ironwood Cave", "note": "eisen (iron) + wald (forest) + höhle (cave)"}
+{"key": "hexenschwingen", "word": "Hexenschwingen", "translation": "Witch's Wings", "note": "hexen (witches) + schwingen (wings); harpies named for their fearsome nature"}
+{"key": "immersangwalds", "word": "Immersangwalds", "translation": "Eversong Forest", "note": "immer (ever) + sang (song) + wald (forest); English name mirrors the German compound"}
+{"key": "kristallisiert", "word": "kristallisiert", "translation": "crystallized", "note": ""}
+{"key": "kristallpulver", "word": "Kristallpulver", "translation": "Crystal Powder", "note": ""}
+{"key": "oreborzuflucht", "word": "Oreborzuflucht", "translation": "Orebor Refuge", "note": ""}
+{"key": "rehabilitieren", "word": "rehabilitieren", "translation": "rehabilitate", "note": ""}
+{"key": "schattenflucht", "word": "Schattenflucht", "translation": "Shadow Escape", "note": ""}
+{"key": "schattenklinge", "word": "Schattenklinge", "translation": "Shadowblade", "note": ""}
+{"key": "schattenmutter", "word": "Schattenmutter", "translation": "Shadow Mother", "note": ""}
+{"key": "schwarmbestien", "word": "Schwarmbestien", "translation": "Swarm beasts", "note": "schwarm (swarm) + bestien (beasts); creatures typically found in insect or organized hives"}
+{"key": "smaragddrachen", "word": "Smaragddrachen", "translation": "Emerald dragons", "note": "one of the five official WoW dragon flights, guardians of nature and the Emerald Dream"}
+{"key": "sturmfresserin", "word": "Sturmfresserin", "translation": "Storm eater", "note": "sturm (storm) + fresserin (eater, feminine); describes a creature that feeds on storm energy"}
+{"key": "vorübergehende", "word": "vorübergehende", "translation": "temporary", "note": "vor (before) + übergehen (to pass) + -ende (suffix forming adjectives); marks a quest as provisional or introductory"}
+{"key": "weihnachtsbaum", "word": "Weihnachtsbaum", "translation": "Christmas tree", "note": "weihnacht (Christmas) + baum (tree); holiday decoration in Ironforge's winter celebration"}
+{"key": "windläuferturm", "word": "Windläuferturm", "translation": "Windrunner Tower", "note": "official seat of Lady Sylvanas Windrunner; windläufer is the German rendering of the Windrunner house name"}
+{"key": "blütenlichter", "word": "Blütenlichter", "translation": "Blossom lights", "note": "blüte (blossom) + lichter (lights); glowing flowers or magical illuminations"}
+{"key": "braumeisterin", "word": "Braumeisterin", "translation": "Brewmaster", "note": "brau (brew) + meisterin (master, feminine); title for expert brewers in WoW guilds"}
+{"key": "demutswächter", "word": "Demutswächter", "translation": "Humility Guardian", "note": "demut (humility) + wächter (guardian); likely a guardian creature or test on a spiritual path"}
+{"key": "drachenessenz", "word": "Drachenessenz", "translation": "Dragon essence", "note": "drachen (dragon) + essenz (essence); concentrated draconic power or life force"}
+{"key": "drachenreiten", "word": "Drachenreiten", "translation": "Dragon riding", "note": "drachen (dragon) + reiten (to ride); WoW gameplay system allowing mounted flight on dragons"}
+{"key": "dunkelspeeren", "word": "Dunkelspeeren", "translation": "Darkspears", "note": "official name of a playable troll tribe; dunkel (dark) + speeren (spears) reflects their warrior culture"}
+{"key": "elementiumaxt", "word": "Elementiumaxt", "translation": "Elementium axe", "note": "elementium is a rare WoW ore with elemental properties; axt (axe) is a weapon"}
+{"key": "empfangsstein", "word": "Empfangsstein", "translation": "reception stone", "note": "empfang (reception) + stein (stone); likely a magical waystone for arrivals or communications"}
+{"key": "fragmentierte", "word": "Fragmentierte", "translation": "fragmented", "note": "from fragment + -ierte (past participle); describes something broken into pieces or a faction in disarray"}
+{"key": "frostwolforcs", "word": "Frostwolforcs", "translation": "Frostwolf orcs", "note": "clan name + race; the Frostwolf Clan is a notable orc group in WoW lore, enemies and later allies"}
+{"key": "gebirgsjägern", "word": "Gebirgsjägern", "translation": "mountain hunters", "note": "gebirgs (mountain) + jägern (hunters); warriors who track and hunt in high terrain"}
+{"key": "grossschwester", "word": "Großschwester", "translation": "big sister", "note": "groß (big) + schwester (sister); title given to a powerful or respected female leader"}
+{"key": "grosswildjäger", "word": "Großwildjäger", "translation": "big game hunter", "note": "groß (big) + wild (game) + jäger (hunter); expert tracker of dangerous creatures"}
+{"key": "hochschamanen", "word": "Hochschamanen", "translation": "high shamans", "note": "hoch (high) + schamanen (shamans); senior shamanistic leaders who commune with elemental spirits"}
+{"key": "hochwipfeltal", "word": "Hochwipfeltal", "translation": "Highpeak Valley", "note": "hochwipfel (high peak) + tal (valley); a mountain valley with prominent peaks"}
+{"key": "hohlsteinmine", "word": "Hohlsteinmine", "translation": "Hollow stone mine", "note": "hohlstein (hollow stone) + mine (mine); excavation site for a particular stone type"}
+{"key": "inkontinental", "word": "Inkontinental", "translation": "Incontinental", "note": "WoW location name playing on 'intercontinental'; a humorous pun in the world"}
+{"key": "klingendreher", "word": "Klingendreher", "translation": "blade twister", "note": "klinge (blade) + dreher (twister); a combat technique or enemy that wields spinning weapon attacks"}
+{"key": "kranichtempel", "word": "Kranichtempel", "translation": "Crane Temple", "note": "kranich (crane) + tempel (temple); Eastern-inspired sanctuary, crane is sacred in Asian cultures"}
+{"key": "kriegsklingen", "word": "Kriegsklingen", "translation": "war blades", "note": "kriegs (war) + klingen (blades); weapons forged for martial combat, not ornamental"}
+{"key": "kristallfluss", "word": "Kristallfluss", "translation": "Crystal River", "note": "kristall (crystal) + fluss (river); a waterway with crystalline properties or appearance"}
+{"key": "kristallriese", "word": "Kristallriese", "translation": "Crystal giant", "note": "kristall (crystal) + riese (giant); elemental or mineral creature of massive size"}
+{"key": "lichtbringers", "word": "Lichtbringers", "translation": "Lightbringer", "note": "most famous as a legendary sword/title in WoW; licht (light) + bringer (bearer)"}
+{"key": "manifestierte", "word": "manifestierte", "translation": "manifested", "note": "from manifestieren (to manifest); describes something brought into physical reality or made visible"}
+{"key": "meisterplaner", "word": "Meisterplaner", "translation": "master planner", "note": "meister (master) + planer (planner); someone skilled at strategy and coordination"}
+{"key": "niuzaotempels", "word": "Niuzaotempels", "translation": "Niuzao Temple", "note": "niuzao is the WoW celestial guardian of earth; the temple is a sacred place in Pandaria"}
+{"key": "rajenbaumturm", "word": "Rajenbaumturm", "translation": "Rajenbaum Tower", "note": "rajenbaum (rajen tree) + turm (tower); tower built from or associated with rajen tree wood"}
+{"key": "respektierten", "word": "respektierten", "translation": "respected", "note": "from respektieren (to respect); describes someone honored and valued by their community"}
+{"key": "schattenfürst", "word": "Schattenfürst", "translation": "Shadowlord", "note": "schatten (shadow) + fürst (lord/prince); a dark ruler or demonic figure of authority"}
+{"key": "schattenhöhle", "word": "Schattenhöhle", "translation": "Shadow Cave", "note": "schatten (shadow) + höhle (cave); cavern shrouded in darkness or magical shadow"}
+{"key": "schattenpunkt", "word": "Schattenpunkt", "translation": "Shadow Point", "note": "schatten (shadow) + punkt (point/location); a specific place cloaked in darkness"}
+{"key": "schwarzhammer", "word": "Schwarzhammer", "translation": "Blackhammer", "note": "schwarz (black) + hammer (hammer); surname of an orc commander, or a blacksmith's powerful tool"}
+{"key": "sonderauftrag", "word": "Sonderauftrag", "translation": "special order", "note": "sonder (special) + auftrag (order/commission); a custom or unique request, often for crafting"}
+{"key": "sonnenwächter", "word": "Sonnenwächter", "translation": "Sun guardian", "note": "sonnen (sun) + wächter (guardian); protector of solar sanctuaries or sun-aligned peoples"}
+{"key": "sprengmeister", "word": "Sprengmeister", "translation": "Blastmaster", "note": "spreng (blast/explosion) + meister (master); expert in demolition or military explosives"}
+{"key": "stadtbewohner", "word": "Stadtbewohner", "translation": "city dwellers", "note": "stadt (city) + bewohner (inhabitants); civilians living in urban centers"}
+{"key": "steinsprecher", "word": "Steinsprecher", "translation": "Stonespeaker", "note": "stein (stone) + sprecher (speaker); earth shaman who communes with rock and stone"}
+{"key": "sumpflichtsee", "word": "Sumpflichtsee", "translation": "Swamp Light Lake", "note": "sumpf (swamp) + licht (light) + see (lake); marshy wetland with glowing or luminous qualities"}
+{"key": "terrorbestien", "word": "Terrorbestien", "translation": "Terror beasts", "note": "terror (terror) + bestien (beasts); creatures bred or corrupted to inspire fear"}
+{"key": "unachtsamkeit", "word": "Unachtsamkeit", "translation": "carelessness", "note": "un- (un-) + achtsamkeit (mindfulness/care); inattention or lack of vigilance"}
+{"key": "verpflichtung", "word": "Verpflichtung", "translation": "obligation", "note": "ver- (intensive prefix) + pflicht (duty); a binding responsibility or sacred commitment"}
+{"key": "versteinerten", "word": "versteinerten", "translation": "petrified", "note": "ver- (intensive) + steinen (to stone); turned to stone, often by magical means"}
+{"key": "wyrmkultisten", "word": "Wyrmkultisten", "translation": "Wyrm cultists", "note": "wyrm is a draconic creature; kultisten (cultists) are devoted followers of a cause"}
+{"key": "zwielichthöhe", "word": "Zwielichthöhe", "translation": "Twilight Height", "note": "zwielicht (twilight) + höhe (height/peak); a mountain or elevated place shrouded in shadow"}
+{"key": "zwielichtufer", "word": "Zwielichtufer", "translation": "Twilight Shores", "note": "zwielicht (twilight) + ufer (shore); coastal area perpetually dim or magically shadowed"}
+{"key": "animabergung", "word": "Animabergung", "translation": "Anima Salvage", "note": "anima is WoW spiritual essence; bergung (salvage) refers to recovery or reclamation efforts"}
+{"key": "blutbrandung", "word": "Blutbrandung", "translation": "Blood Surge", "note": "blut (blood) + brandung (surge/waves); a Naga faction, the name conveys violent magical power"}
+{"key": "dunkelschrei", "word": "Dunkelschrei", "translation": "Darkscream", "note": "dunkel (dark) + schrei (scream); a name evoking fear and shadow, fitting for a warlock trainer"}
+{"key": "dämmerklinge", "word": "Dämmerklinge", "translation": "Duskblade", "note": "dämmer (dusk/twilight) + klinge (blade); a weapon of shadow magic, not purely light"}
+{"key": "dämonenkette", "word": "Dämonenkette", "translation": "Demon chain", "note": "dämon (demon) + kette (chain/necklace); likely cursed jewelry bound by infernal pact"}
+{"key": "eisenknöchel", "word": "Eisenknöchel", "translation": "Iron Knuckles", "note": "eisen (iron) + knöchel (knuckles); reinforced fist weapons or a tough warrior gang"}
+{"key": "festungslord", "word": "Festungslord", "translation": "Fortress Lord", "note": "festung (fortress) + lord (lord); a commander who rules from a fortified stronghold"}
+{"key": "fledermäusen", "word": "Fledermäusen", "translation": "bats", "note": "fledermaus (bat); swift creatures used as flying mounts or in navigation spells"}
+{"key": "flotschhügel", "word": "Flotschhügel", "translation": "Flotschhill", "note": "flotsch is likely creature or place name + hügel (hill); a location known for a particular creature"}
+{"key": "frostjägerin", "word": "Frostjägerin", "translation": "Frost hunter", "note": "female agent title; jäger (hunter) + -in (feminine suffix)"}
+{"key": "geisterjäger", "word": "Geisterjäger", "translation": "ghost hunter", "note": "not Ghostbusters; jäger means hunter, not exterminators"}
+{"key": "grossmeistern", "word": "Großmeistern", "translation": "grandmasters", "note": ""}
+{"key": "holzfällerei", "word": "Holzfällerei", "translation": "lumberjacking", "note": "fällerei derives from fällen (to fell/chop); refers to the profession"}
+{"key": "höllenbestie", "word": "Höllenbestie", "translation": "infernal", "note": "höllen (infernal) + bestie (creature); official WoW term for demonic beings"}
+{"key": "installieren", "word": "installieren", "translation": "install", "note": ""}
+{"key": "kristallinen", "word": "kristallinen", "translation": "crystalline", "note": "adjective describing crystal-like quality"}
+{"key": "leerensturms", "word": "Leerensturms", "translation": "Voidstorm", "note": "leeren (void) + sturm (storm); official WoW term for the storm within the void"}
+{"key": "lehrenhammer", "word": "Lehrenhammer", "translation": "Chalice of Eternity", "note": "lehren relates to teaching/doctrine; artifact from bronze dragonflight lore"}
+{"key": "leuchtfeuers", "word": "Leuchtfeuers", "translation": "beacon", "note": "leuchten (to shine) + feuer (fire); beacon of light"}
+{"key": "leuchtklinge", "word": "Leuchtklinge", "translation": "luminous blade", "note": "leucht- (luminous) + klinge (blade)"}
+{"key": "meistergleve", "word": "Meistergleve", "translation": "Master Glaive", "note": ""}
+{"key": "portalkammer", "word": "Portalkammer", "translation": "portal chamber", "note": ""}
+{"key": "runenmeister", "word": "Runenmeister", "translation": "Runemaster", "note": "rune master; meister (master) + rune"}
+{"key": "schattengrab", "word": "Schattengrab", "translation": "Shadow Tomb", "note": "schatten (shadow) + grab (tomb/grave)"}
+{"key": "schattengram", "word": "Schattengram", "translation": "Shadowmourne", "note": "schatten (shadow) + gram (sorrow); refers to the legendary sword"}
+{"key": "schattenhain", "word": "Schattenhain", "translation": "Shadowgrove", "note": "schatten (shadow) + hain (grove/woodland)"}
+{"key": "schattenwald", "word": "Schattenwald", "translation": "Shadow Forest", "note": "schatten (shadow) + wald (forest)"}
+{"key": "schelmischen", "word": "schelmischen", "translation": "mischievous", "note": "schelm (rogue/prankster) + -isch (adjective suffix)"}
+{"key": "schwindenden", "word": "schwindenden", "translation": "dwindling", "note": "from schwinden (to dwindle/disappear)"}
+{"key": "schädelhöhle", "word": "Schädelhöhle", "translation": "skull cave", "note": "schädel (skull) + höhle (cave); not \"cranial cavity\" in WoW context"}
+{"key": "stahlkiefers", "word": "Stahlkiefers", "translation": "Steeljaw", "note": "stahl (steel) + kiefer (jaw); NPC name"}
+{"key": "steinbehüter", "word": "Steinbehüter", "translation": "Stone Warden", "note": "stein (stone) + behüter (guardian/warden)"}
+{"key": "sturmschuppe", "word": "Sturmschuppe", "translation": "Stormscale", "note": "sturm (storm) + schuppe (scale)"}
+{"key": "sündensteins", "word": "Sündensteins", "translation": "Sin Stone", "note": "sünde (sin) + stein (stone)"}
+{"key": "waldholzwahn", "word": "Waldholzwahn", "translation": "Forest lumber madness", "note": "wild + wald (forest) + holz (wood) + wahn (madness)"}
+{"key": "wasserlöcher", "word": "Wasserlöcher", "translation": "waterholes", "note": "wasser (water) + loch (hole)"}
+{"key": "wasserwerken", "word": "Wasserwerken", "translation": "waterworks", "note": "wasser (water) + werk (works/facility)"}
+{"key": "zugwindlager", "word": "Zugwindlager", "translation": "wind bearing", "note": "zugwind (draft wind) + lager (bearing/camp)"}
+{"key": "aberglauben", "word": "Aberglauben", "translation": "superstition", "note": "aber- (deviant) + glauben (belief)"}
+{"key": "angestammte", "word": "angestammte", "translation": "ancestral", "note": "angestammt means innate or hereditary"}
+{"key": "assistieren", "word": "assistieren", "translation": "assist", "note": ""}
+{"key": "augenhöhlen", "word": "Augenhöhlen", "translation": "eye sockets", "note": "auge (eye) + höhle (cavity/socket)"}
+{"key": "bilgewasser", "word": "Bilgewasser", "translation": "Bilgewater", "note": "bilge (ship waste) + wasser (water); refers to the goblin merchant prince cartel"}
+{"key": "blutrünstig", "word": "blutrünstig", "translation": "bloodthirsty", "note": "blut (blood) + rünstig relates to thirst/craving"}
+{"key": "blutwächter", "word": "Blutwächter", "translation": "Bloodguard", "note": "blut (blood) + wächter (guard)"}
+{"key": "bruderliebe", "word": "Bruderliebe", "translation": "brotherly love", "note": "bruder (brother) + liebe (love)"}
+{"key": "drachenjagd", "word": "Drachenjagd", "translation": "dragon hunting", "note": "drachen (dragon) + jagd (hunt/hunting)"}
+{"key": "drachenlord", "word": "Drachenlord", "translation": "Dragon Lord", "note": "drachen (dragon) + lord"}
+{"key": "dunkelstein", "word": "Dunkelstein", "translation": "Darkstone", "note": "dunkel (dark) + stein (stone)"}
+{"key": "dunkelstrom", "word": "Dunkelstrom", "translation": "Darkstream", "note": "dunkel (dark) + strom (stream); refers to the NPC Veruca"}
+{"key": "eskortieren", "word": "eskortieren", "translation": "escort", "note": ""}
+{"key": "feuerblüten", "word": "Feuerblüten", "translation": "Fire Blossoms", "note": "feuer (fire) + blüte (blossom/flower)"}
+{"key": "feuerfalken", "word": "Feuerfalken", "translation": "Firehawks", "note": "feuer (fire) + falke (hawk)"}
+{"key": "feuerschutz", "word": "Feuerschutz", "translation": "fire protection", "note": "feuer (fire) + schutz (protection)"}
+{"key": "feuerwasser", "word": "Feuerwasser", "translation": "firewater", "note": "feuer (fire) + wasser (water); potent drink or alchemical substance"}
+{"key": "finkelstein", "word": "Finkelstein", "translation": "Finkelstein", "note": "proper name; means spark-stone in German"}
+{"key": "geisselstein", "word": "Geißelstein", "translation": "Scourgestone", "note": "geißel (scourge/whip) + stein (stone)"}
+{"key": "heimatstadt", "word": "Heimatstadt", "translation": "hometown", "note": "heimat (homeland) + stadt (city/town)"}
+{"key": "helllichten", "word": "helllichten", "translation": "brighten", "note": "hell (bright) + lichten (to light/illuminate); verb form"}
+{"key": "hügelpranke", "word": "Hügelpranke", "translation": "Hillpaw", "note": "hügel (hill) + pranke (paw); refers to an NPC or creature"}
+{"key": "kampfmagier", "word": "Kampfmagier", "translation": "Battlemage", "note": "kampf (battle) + magier (mage)"}
+{"key": "kiefernwald", "word": "Kiefernwald", "translation": "Pine Forest", "note": "kiefer (pine) + wald (forest); appears to be an NPC name"}
+{"key": "lichtgipfel", "word": "Lichtgipfel", "translation": "Peak of Light", "note": "licht (light) + gipfel (peak/summit)"}
+{"key": "morgenlicht", "word": "Morgenlicht", "translation": "morning light", "note": "morgen (morning) + licht (light)"}
+{"key": "nachtratten", "word": "Nachtratten", "translation": "night rats", "note": "nacht (night) + ratten (rats)"}
+{"key": "respektiere", "word": "respektiere", "translation": "respect", "note": "imperative form of respektieren (to respect)"}
+{"key": "runenmagier", "word": "Runenmagier", "translation": "Rune mage", "note": "rune + magier (mage); master of rune magic"}
+{"key": "schneesturm", "word": "Schneesturm", "translation": "Blizzard", "note": "schnee (snow) + sturm (storm); Blizzard is the WoW dragon name"}
+{"key": "schwindelig", "word": "schwindelig", "translation": "dizzy", "note": "from schwinden (to fade/dwindle); adjective describing vertigo"}
+{"key": "seelenjäger", "word": "Seelenjäger", "translation": "Soul Hunter", "note": ""}
+{"key": "sonnenjäger", "word": "Sonnenjäger", "translation": "Sunchasers", "note": ""}
+{"key": "spähmission", "word": "Spähmission", "translation": "scout mission", "note": ""}
+{"key": "stadtmauern", "word": "Stadtmauern", "translation": "City walls", "note": ""}
+{"key": "stadtwachen", "word": "Stadtwachen", "translation": "City guards", "note": ""}
+{"key": "steintafeln", "word": "Steintafeln", "translation": "Stone tablets", "note": ""}
+{"key": "sturmriesen", "word": "Sturmriesen", "translation": "Storm giants", "note": ""}
+{"key": "teufelsblut", "word": "Teufelsblut", "translation": "Devil's blood", "note": ""}
+{"key": "tiertreiber", "word": "Tiertreiber", "translation": "Animal driver", "note": ""}
+{"key": "torwächters", "word": "Torwächters", "translation": "Gatekeeper", "note": "tor (gate) + wächter (guardian)"}
+{"key": "verdunkelte", "word": "Verdunkelte", "translation": "Darkened", "note": ""}
+{"key": "vorzuweisen", "word": "vorzuweisen", "translation": "show", "note": ""}
+{"key": "waffenlager", "word": "Waffenlager", "translation": "Weapon storage", "note": ""}
+{"key": "waldläufers", "word": "Waldläufers", "translation": "Ranger", "note": "wald (forest) + läufer (runner); forest-runner"}
+{"key": "wildhämmern", "word": "Wildhämmern", "translation": "Wild hammering", "note": ""}
+{"key": "windsuchers", "word": "Windsuchers", "translation": "Windseekers", "note": ""}
+{"key": "wolfsläufer", "word": "Wolfsläufer", "translation": "Wolf Runner", "note": ""}
+{"key": "übergesetzt", "word": "übergesetzt", "translation": "crossed", "note": "über (over) + gesetzt (placed); to cross a boundary or portal"}
+{"key": "alphatiere", "word": "Alphatiere", "translation": "Alpha animals", "note": ""}
+{"key": "aufrüstung", "word": "Aufrüstung", "translation": "Armament", "note": ""}
+{"key": "blutsporen", "word": "Blutsporen", "translation": "Blood spores", "note": ""}
+{"key": "drachenend", "word": "Drachenend", "translation": "Dragon End", "note": ""}
+{"key": "eisenbands", "word": "Eisenbands", "translation": "Iron bands", "note": ""}
+{"key": "eisenborke", "word": "Eisenborke", "translation": "Ironbark", "note": "eisen (iron) + borke (bark); hardwood with iron-like properties"}
+{"key": "eisenfalle", "word": "Eisenfalle", "translation": "Iron trap", "note": ""}
+{"key": "eisenwerks", "word": "Eisenwerks", "translation": "Ironworks", "note": ""}
+{"key": "feuerhonig", "word": "Feuerhonig", "translation": "Fire honey", "note": ""}
+{"key": "goldstücke", "word": "Goldstücke", "translation": "Gold pieces", "note": ""}
+{"key": "grundstein", "word": "Grundstein", "translation": "Foundation stone", "note": ""}
+{"key": "hexenhügel", "word": "Hexenhügel", "translation": "Witch Hill", "note": ""}
+{"key": "jungtieren", "word": "Jungtieren", "translation": "Young animals", "note": ""}
+{"key": "klingenwut", "word": "Klingenwut", "translation": "Blade rage", "note": ""}
+{"key": "lichtmähne", "word": "Lichtmähne", "translation": "Lightmane", "note": ""}
+{"key": "nebelstein", "word": "Nebelstein", "translation": "Miststone", "note": ""}
+{"key": "schildwall", "word": "Schildwall", "translation": "Shieldwall", "note": "schild (shield) + wall; military formation and faction name"}
+{"key": "sonnenturm", "word": "Sonnenturm", "translation": "Sun Tower", "note": ""}
+{"key": "stahlstrom", "word": "Stahlstrom", "translation": "Steel stream", "note": ""}
+{"key": "stammrolle", "word": "Stammrolle", "translation": "Tribal roster", "note": "stamm (tribe/clan) + rolle (roster); clan registry"}
+{"key": "steinkreis", "word": "Steinkreis", "translation": "Stone circle", "note": ""}
+{"key": "sturmarion", "word": "Sturmarion", "translation": "Stormarion", "note": ""}
+{"key": "sturmheims", "word": "Sturmheims", "translation": "Sturmheims", "note": ""}
+{"key": "verdunkeln", "word": "verdunkeln", "translation": "darken", "note": ""}
+{"key": "waldlandes", "word": "Waldlandes", "translation": "Forestland", "note": ""}
+{"key": "wasserfass", "word": "Wasserfass", "translation": "Water barrel", "note": ""}
+{"key": "weihwasser", "word": "Weihwasser", "translation": "Holy water", "note": ""}
+{"key": "weltquests", "word": "Weltquests", "translation": "World Quests", "note": ""}
+{"key": "wildsamens", "word": "Wildsamens", "translation": "Wild seeds", "note": ""}
+{"key": "windeseile", "word": "Windeseile", "translation": "In no time", "note": "idiom: literally wind-ropes but means very quickly or in a flash"}
+{"key": "zeitalters", "word": "Zeitalters", "translation": "Age; era", "note": ""}
+{"key": "belagerungsfestenbestrebung", "word": "Belagerungsfestenbestrebung", "translation": "Siege fortress effort", "note": ""}
+{"key": "geschwindigkeitsschröpfer", "word": "Geschwindigkeitsschröpfer", "translation": "Speed cupper", "note": ""}
+{"key": "dimensionsübergreifender", "word": "Dimensionsübergreifender", "translation": "Cross-dimensional", "note": ""}
+{"key": "eisenschmiedeerkundung", "word": "Eisenschmiedeerkundung", "translation": "Ironforge Exploration", "note": ""}
+{"key": "obsidiandrachenschrein", "word": "Obsidiandrachenschrein", "translation": "Obsidian Dragon Shrine", "note": ""}
+{"key": "geschwindigkeitsschub", "word": "Geschwindigkeitsschub", "translation": "Speed boost", "note": ""}
+{"key": "schattenhandelsöldner", "word": "Schattenhandelsöldner", "translation": "Shadow Trade Mercenary", "note": ""}
+{"key": "schlüsselsteinscherbe", "word": "Schlüsselsteinscherbe", "translation": "Keystone Shard", "note": ""}
+{"key": "schwarzwassersprudeln", "word": "Schwarzwassersprudeln", "translation": "Black water bubbles", "note": ""}
+{"key": "stadt-der-fäden-sause", "word": "Stadt-der-Fäden-Sause", "translation": "City of Threads Party", "note": ""}
+{"key": "eisenrunenkonstrukte", "word": "Eisenrunenkonstrukte", "translation": "Iron rune constructs", "note": ""}
+{"key": "herumexperimentieren", "word": "herumexperimentieren", "translation": "experiment around", "note": ""}
+{"key": "humboldtfeuersbrunst", "word": "Humboldtfeuersbrunst", "translation": "Humboldt conflagration", "note": ""}
+{"key": "katalysatorstationen", "word": "Katalysatorstationen", "translation": "Catalyst stations", "note": ""}
+{"key": "mechaoberdampfhammer", "word": "Mechaoberdampfhammer", "translation": "Mecha super-steam hammer", "note": ""}
+{"key": "schattenwächterinnen", "word": "Schattenwächterinnen", "translation": "Shadow Guardians", "note": ""}
+{"key": "waldläuferhauptmanns", "word": "Waldläuferhauptmanns", "translation": "Ranger Captain", "note": ""}
+{"key": "abenteuerausrüstung", "word": "Abenteuerausrüstung", "translation": "Adventure gear", "note": ""}
+{"key": "belagerungsmaschine", "word": "Belagerungsmaschine", "translation": "Siege engine", "note": ""}
+{"key": "durchdringungslager", "word": "Durchdringungslager", "translation": "Penetration camp", "note": ""}
+{"key": "dämonenjägerauswahl", "word": "Dämonenjägerauswahl", "translation": "Demon Hunter Selection", "note": ""}
+{"key": "jungdrachenbändiger", "word": "Jungdrachenbändiger", "translation": "Young dragon tamer", "note": ""}
+{"key": "konstruktionslagern", "word": "Konstruktionslagern", "translation": "construction warehouses", "note": ""}
+{"key": "nachtbrunnenenergie", "word": "Nachtbrunnenenergie", "translation": "Nightwell energy", "note": ""}
+{"key": "obsidianschwurstein", "word": "Obsidianschwurstein", "translation": "Obsidian oath stone", "note": ""}
+{"key": "orientierungspunkte", "word": "Orientierungspunkte", "translation": "Landmarks", "note": ""}
+{"key": "runenschlüsselstein", "word": "Runenschlüsselstein", "translation": "Rune Keystone", "note": ""}
+{"key": "splittersteintroggs", "word": "Splittersteintroggs", "translation": "Shardstone Trogs", "note": ""}
+{"key": "teleportationsstein", "word": "Teleportationsstein", "translation": "Teleportation stone", "note": ""}
+{"key": "teufelsfledermäusen", "word": "Teufelsfledermäusen", "translation": "demonic bats", "note": ""}
+{"key": "veteranenausrüstung", "word": "Veteranenausrüstung", "translation": "Veteran equipment", "note": ""}
+{"key": "zeremonienmeisterin", "word": "Zeremonienmeisterin", "translation": "Master of Ceremonies", "note": ""}
+{"key": "zurückteleportieren", "word": "zurückteleportieren", "translation": "teleport back", "note": ""}
+{"key": "aschenwindgiesserei", "word": "Aschenwindgießerei", "translation": "Ashwind Foundry", "note": ""}
+{"key": "belagerungsbrecher", "word": "Belagerungsbrecher", "translation": "Siege breaker", "note": ""}
+{"key": "gefängnisschlüssel", "word": "Gefängnisschlüssel", "translation": "Prison key", "note": ""}
+{"key": "gratwasserzuflucht", "word": "Gratwasserzuflucht", "translation": "Ridgewater Refuge", "note": ""}
+{"key": "kristallsangwaldes", "word": "Kristallsangwaldes", "translation": "Crystalsong Forest", "note": ""}
+{"key": "lichtschanzensturz", "word": "Lichtschanzensturz", "translation": "Light rampart fall", "note": ""}
+{"key": "magierjägertruppen", "word": "Magierjägertruppen", "translation": "Mage Hunter Troops", "note": ""}
+{"key": "missionsrichtlinie", "word": "Missionsrichtlinie", "translation": "Mission Policy", "note": ""}
+{"key": "netherlichttempels", "word": "Netherlichttempels", "translation": "Netherlight Temple", "note": ""}
+{"key": "schattenaderspitze", "word": "Schattenaderspitze", "translation": "Shadow Vein Peak", "note": ""}
+{"key": "schattenmondsprint", "word": "Schattenmondsprint", "translation": "Shadow Moon Sprint", "note": ""}
+{"key": "schmiedeausrüstung", "word": "Schmiedeausrüstung", "translation": "Blacksmith equipment", "note": ""}
+{"key": "silberbundpavillon", "word": "Silberbundpavillon", "translation": "Silver Covenant Pavilion", "note": "Silberbund is the German name for the Silver Covenant faction"}
+{"key": "zwielichtschreiben", "word": "Zwielichtschreiben", "translation": "Twilight writing", "note": ""}
+{"key": "drachenschlächter", "word": "Drachenschlächter", "translation": "Dragon Slayer", "note": ""}
+{"key": "feuerwerkskörpern", "word": "Feuerwerkskörpern", "translation": "fireworks", "note": ""}
+{"key": "fledermausmeister", "word": "Fledermausmeister", "translation": "Bat Master", "note": ""}
+{"key": "froststeingewölbe", "word": "Froststeingewölbe", "translation": "Froststone Vault", "note": ""}
+{"key": "gefängnisausbruch", "word": "Gefängnisausbruch", "translation": "Prison break", "note": ""}
+{"key": "hexenbeeren-julep", "word": "Hexenbeeren-Julep", "translation": "Witchberry Julep", "note": ""}
+{"key": "himmelsweisensees", "word": "Himmelsweisensees", "translation": "Skywise Lake", "note": ""}
+{"key": "kampfveranstalter", "word": "Kampfveranstalter", "translation": "Fight organizer", "note": ""}
+{"key": "kristallformation", "word": "Kristallformation", "translation": "Crystal formation", "note": ""}
+{"key": "kristallsangkrise", "word": "Kristallsangkrise", "translation": "Crystalsong Crisis", "note": ""}
+{"key": "meisterassassinen", "word": "Meisterassassinen", "translation": "Master Assassins", "note": ""}
+{"key": "nachtschimmerturm", "word": "Nachtschimmerturm", "translation": "Nightglow Tower", "note": ""}
+{"key": "ostwindruhestätte", "word": "Ostwindruhestätte", "translation": "Eastwind Sanctuary", "note": ""}
+{"key": "pflichtversäumnis", "word": "Pflichtversäumnis", "translation": "Dereliction of duty", "note": "formal legal/military term meaning failure to fulfill one's duty"}
+{"key": "riesenwildschafen", "word": "Riesenwildschafen", "translation": "Giant wild sheep", "note": ""}
+{"key": "schattenschrecken", "word": "Schattenschrecken", "translation": "Shadow Terror", "note": ""}
+{"key": "schildgeneratoren", "word": "Schildgeneratoren", "translation": "Shield generators", "note": ""}
+{"key": "schildkrötensuppe", "word": "Schildkrötensuppe", "translation": "Turtle soup", "note": "schildkröte literally shield-toad; an ancient German etymology for turtle"}
+{"key": "sturmpostenstudie", "word": "Sturmpostenstudie", "translation": "Storm Outpost Study", "note": ""}
+{"key": "tapferkeitssteine", "word": "Tapferkeitssteine", "translation": "Valor Stones", "note": "official WoW currency; Tapferkeit means valor or courage"}
+{"key": "apothekermeister", "word": "Apothekermeister", "translation": "Master Pharmacist", "note": ""}
+{"key": "beisssteinenklave", "word": "Beißsteinenklave", "translation": "Bitestone Enclave", "note": ""}
+{"key": "bestienlabyrinth", "word": "Bestienlabyrinth", "translation": "Beast labyrinth", "note": ""}
+{"key": "beutejagdauftrag", "word": "Beutejagdauftrag", "translation": "Bounty hunting mission", "note": "beute (prey/bounty) + jagd (hunt) + auftrag (mission)"}
+{"key": "dunkelspeerfeste", "word": "Dunkelspeerfeste", "translation": "Darkspear Hold", "note": "dunkel (dark) + Speer (spear) + Feste (stronghold); stronghold of the Darkspear trolls"}
+{"key": "eisenfluträubern", "word": "Eisenfluträubern", "translation": "Iron Tide Raiders", "note": "Eisenflut (iron tide) + Räubern (raiders); Eisenflut also refers to a destructive flood event"}
+{"key": "eisengnomspielen", "word": "Eisengnomspielen", "translation": "Iron Gnome Games", "note": "Eisengnome = Iron Gnomes; these are sprint races featuring gnome participants"}
+{"key": "kristallschmiede", "word": "Kristallschmiede", "translation": "Crystal Forge", "note": "Kristall (crystal) + Schmiede (forge/smithy); not an actual forge for crafting"}
+{"key": "nachtelfenruinen", "word": "Nachtelfenruinen", "translation": "Night Elf Ruins", "note": ""}
+{"key": "ogerportalsteine", "word": "Ogerportalsteine", "translation": "Ogre Portal Stones", "note": "Oger (ogre) + Portal (portal) + Steine (stones); ancient magical artifacts"}
+{"key": "orientierungslos", "word": "orientierungslos", "translation": "disoriented", "note": "literally ohne Orientierung (without orientation); confused or lost"}
+{"key": "präsentierteller", "word": "Präsentierteller", "translation": "Presentation Plate", "note": "Präsentier- (presentation) + -teller (plate); a formal serving platter"}
+{"key": "riesenbaumhügeln", "word": "Riesenbaumhügeln", "translation": "Giant Tree Hills", "note": "Riese (giant) + Baum (tree) + Hügel (hills); likely a forest zone name"}
+{"key": "schattenpirscher", "word": "Schattenpirscher", "translation": "Shadow Stalker", "note": "Schatten (shadow) + Pirscher (one who stalks); pirschen means to stalk prey"}
+{"key": "schattenschleier", "word": "Schattenschleier", "translation": "Shadow Veil", "note": "Schatten (shadow) + Schleier (veil); a mystical or dark concealment"}
+{"key": "schattenzauberer", "word": "Schattenzauberer", "translation": "Shadow Wizard", "note": "Schatten (shadow) + Zauberer (mage/wizard); wielder of shadow magic"}
+{"key": "schreddermeister", "word": "Schreddermeister", "translation": "Shredder Master", "note": "Schredder (gnome war machine) + Meister (master); schredder is English term adopted into German"}
+{"key": "seidenproduktion", "word": "Seidenproduktion", "translation": "Silk Production", "note": ""}
+{"key": "steinmetzviertel", "word": "Steinmetzviertel", "translation": "Stonework Quarter", "note": "Steinmetz (stonemason) + Viertel (district/quarter); likely a city area"}
+{"key": "stillsteinslalom", "word": "Stillsteinslalom", "translation": "Stillstein Slalom", "note": "proper noun; place name combining Stillstein (Still's Stone) with slalom course"}
+{"key": "wasseroberfläche", "word": "Wasseroberfläche", "translation": "Water Surface", "note": "Wasser (water) + Oberfläche (surface); straightforward compound"}
+{"key": "wasserversorgung", "word": "Wasserversorgung", "translation": "Water Supply", "note": "Wasser (water) + Versorgung (supply); infrastructure for water provision"}
+{"key": "zwielichtdienern", "word": "Zwielichtdienern", "translation": "Twilight Servants", "note": "Zwielicht (twilight) + Dienern (servants); servants of the Twilight Dragonflight"}
+{"key": "zwielichtlexikon", "word": "Zwielichtlexikon", "translation": "Twilight Lexicon", "note": "Zwielicht (twilight) + Lexikon (lexicon); grimoire or tome of knowledge"}
+{"key": "angelausrüstung", "word": "Angelausrüstung", "translation": "Fishing Equipment", "note": "Angel (fishing) + Ausrüstung (equipment); gear for angling"}
+{"key": "antidämonischen", "word": "antidämonischen", "translation": "antidemonic", "note": "anti- (against) + dämonischen (demonic); opposed to or protective against demons"}
+{"key": "biolumineszente", "word": "biolumineszente", "translation": "bioluminescent", "note": ""}
+{"key": "draenethystmine", "word": "Draenethystmine", "translation": "Draenethyst Mine", "note": "Draenethyst = WoW-specific crystal from Draenor; proper noun, place or resource"}
+{"key": "dunkeleisenbier", "word": "Dunkeleisenbier", "translation": "Dark Iron Beer", "note": "Dunkel (dark) + Eisen (iron) + Bier (beer); brewed by the Dark Iron dwarves"}
+{"key": "dämonenanführer", "word": "Dämonenanführer", "translation": "Demon Leader", "note": "Dämonen (demons) + Anführer (leader); commander of demon forces"}
+{"key": "feuerelementars", "word": "Feuerelementars", "translation": "Fire Elemental", "note": "Feuer (fire) + Elemental (elemental); a being of pure fire essence"}
+{"key": "gefängniszellen", "word": "Gefängniszellen", "translation": "Prison Cells", "note": "Gefängnis (prison) + Zellen (cells); plural form for dungeon confinement"}
+{"key": "himmelsschatten", "word": "Himmelsschatten", "translation": "Sky Shadow", "note": "Himmel (sky) + Schatten (shadow); may be NPC name or celestial phenomenon"}
+{"key": "höllenfeuerhatz", "word": "Höllenfeuerhatz", "translation": "Hellfire Chase", "note": "Höllenfeuer (hellfire) + Hatz (hunt/chase); intense pursuit with magical fire"}
+{"key": "kampfausrüstung", "word": "Kampfausrüstung", "translation": "Combat Equipment", "note": "Kampf (combat) + Ausrüstung (equipment); arms and armor for battle"}
+{"key": "klingenmondflor", "word": "Klingenmondflor", "translation": "Blademoonflor", "note": "proper noun; likely an item or character name combining Klinge (blade) and moon elements"}
+{"key": "kriecherdrachen", "word": "Kriecherdrachen", "translation": "Creeping Dragons", "note": "Kriecher (creeper/crawler) + Drachen (dragons); hostile dragon variants"}
+{"key": "kristallisieren", "word": "kristallisieren", "translation": "crystallize", "note": "verb; to form into crystals or become hardened"}
+{"key": "lebenswächterin", "word": "Lebenswächterin", "translation": "Life Warden", "note": "Leben (life) + Wächterin (guardian, female); protector of life essence or nature"}
+{"key": "morgensternturm", "word": "Morgensternturm", "translation": "Morning Star Tower", "note": "Morgenstern (morning star) + Turm (tower); likely named for a celestial or symbolic star"}
+{"key": "schattenenergie", "word": "Schattenenergie", "translation": "Shadow Energy", "note": "Schatten (shadow) + Energie (energy); dark magical force or resource"}
+{"key": "schildgenerator", "word": "Schildgenerator", "translation": "Shield Generator", "note": "Schild (shield) + Generator (generator); mechanical device that creates force field"}
+{"key": "schlüsselsteine", "word": "Schlüsselsteine", "translation": "Keystones", "note": "Schlüssel (key) + Steine (stones); magical artifacts of fundamental importance"}
+{"key": "shal'doreiseide", "word": "Shal'doreiseide", "translation": "Shal'dorei Silk", "note": "Shal'dorei = Nightborne elves; seide (silk) is their renowned textile craft"}
+{"key": "sturmrisskrater", "word": "Sturmrisskrater", "translation": "Storm Rift Crater", "note": "Sturm (storm) + Riss (rift/tear) + Krater (crater); place where storm tore the earth"}
+{"key": "tauchausrüstung", "word": "Tauchausrüstung", "translation": "Diving Equipment", "note": "Tauch (diving) + Ausrüstung (equipment); gear for underwater exploration"}
+{"key": "weltenschamanen", "word": "Weltenschamanen", "translation": "World Shamans", "note": "Welt (world) + Schamanen (shamans); shamans of great cosmic significance"}
+{"key": "windläuferturms", "word": "Windläuferturms", "translation": "Windrunner Tower", "note": "Windläufer (Windrunner) + Turm (tower); belongs to the Windrunner family of Elves"}
+{"key": "zwielichtigsten", "word": "zwielichtigsten", "translation": "shadiest", "note": "zwielichtig = shady/dubious; -sten is superlative; most questionable or disreputable"}
+{"key": "basiliskenblut", "word": "Basiliskenblut", "translation": "Basilisk Blood", "note": "Basilisk (basilisk) + Blut (blood); toxic fluid of the deadly serpent creature"}
+{"key": "blendwassersee", "word": "Blendwassersee", "translation": "Blindwater Lake", "note": "Blend (variant of Blind, murky) + Wasser (water) + See (lake); water body with poor visibility"}
+{"key": "dornnebelhügel", "word": "Dornnebelhügel", "translation": "Thornmist Hill", "note": "Dorn (thorn) + Nebel (mist) + Hügel (hill); atmospheric location name"}
+{"key": "drachenmalorcs", "word": "Drachenmalorcs", "translation": "Dragon Malorcs", "note": "Drachen (dragon) + Malorcs; proper noun, likely place name or creature type"}
+{"key": "drachenproblem", "word": "Drachenproblem", "translation": "Dragon Problem", "note": "Drachen (dragon) + Problem (problem); any crisis involving dragons"}
+{"key": "drachenschlund", "word": "Drachenschlund", "translation": "Dragon Maw", "note": "Drachen (dragon) + Schlund (maw/throat/gullet); interior of a dragon's mouth"}
+{"key": "druidenfreunde", "word": "Druidenfreunde", "translation": "Druid Friends", "note": "Druiden (druids) + Freunde (friends); allies or companions of druids"}
+{"key": "dunkelreiterin", "word": "Dunkelreiterin", "translation": "Dark Rider", "note": "Dunkel (dark) + Reiterin (rider, female form); mysterious mounted warrior"}
+{"key": "dämonenjägerin", "word": "Dämonenjägerin", "translation": "Demon Slayer", "note": "Dämonen (demons) + Jägerin (hunter, female); one who hunts and kills demons"}
+{"key": "dämonenmeister", "word": "Dämonenmeister", "translation": "Demon Master", "note": "Dämonen (demons) + Meister (master); one who controls or commands demons"}
+{"key": "dämonenportale", "word": "Dämonenportale", "translation": "Demon Portals", "note": "Dämonen (demons) + Portale (portals); gateways through which demons enter worlds"}
+{"key": "eisenklauenerz", "word": "Eisenklauenerz", "translation": "Ironclaw Ore", "note": "Eisenklaue (Iron Claw) + Erz (ore); mineral mined from claw-shaped deposits"}
+{"key": "festungsmauern", "word": "Festungsmauern", "translation": "Fortress Walls", "note": "Festung (fortress) + Mauern (walls); defensive structures of strongholds"}
+{"key": "höhlenforscher", "word": "Höhlenforscher", "translation": "Caver", "note": "Höhle (cave) + Forscher (researcher/explorer); one who explores caves"}
+{"key": "kadaverbestien", "word": "Kadaverbestien", "translation": "Cadaver Beasts", "note": "Kadaver (corpse/cadaver) + Bestien (beasts); undead or necromantic creatures"}
+{"key": "klingenschuppe", "word": "Klingenschuppe", "translation": "Bladescale", "note": "creature type found in WoW"}
+{"key": "lederpergament", "word": "Lederpergament", "translation": "leather parchment", "note": "Leder (leather) + Pergament (parchment)"}
+{"key": "legionsportale", "word": "Legionsportale", "translation": "Legion portals", "note": "the Burning Legion's arcane gateways"}
+{"key": "magierleutnant", "word": "Magierleutnant", "translation": "Mage Lieutenant", "note": "military rank: Mage + Lieutenant"}
+{"key": "metallarbeiten", "word": "Metallarbeiten", "translation": "metalworking", "note": "metalwork or metal crafting; Arbeiten (work/labor)"}
+{"key": "nachtgeborener", "word": "Nachtgeborener", "translation": "Nightborn", "note": "the playable race from Suramar (Legion)"}
+{"key": "plattenrüstung", "word": "Plattenrüstung", "translation": "plate armor", "note": "heavy armor made of metal plates"}
+{"key": "revitalisieren", "word": "revitalisieren", "translation": "revitalize", "note": "to restore energy or vitality"}
+{"key": "rüstungsteilen", "word": "Rüstungsteilen", "translation": "armor pieces", "note": "plural of Rüstungsteil"}
+{"key": "schattenanhöhe", "word": "Schattenanhöhe", "translation": "Shadow Hill", "note": "a location; Schatten + Anhöhe (elevation)"}
+{"key": "seuchenbestien", "word": "Seuchenbestien", "translation": "Plague Beasts", "note": "seuche (plague) + bestie (beast)"}
+{"key": "steingardistin", "word": "Steingardistin", "translation": "Stoneguard", "note": "proper name; female form (Gardistin = guardswoman)"}
+{"key": "tierpopulation", "word": "Tierpopulation", "translation": "animal population", "note": "standard compound; Tier + Population"}
+{"key": "transportier'n", "word": "transportier'n", "translation": "transport", "note": "colloquial German: transportieren with dropped -en"}
+{"key": "trollschamanen", "word": "Trollschamanen", "translation": "Troll shamans", "note": "Troll + Schamanen (shamans)"}
+{"key": "vorrübergehend", "word": "vorrübergehend", "translation": "temporary", "note": "passing/fleeting; vor + vorbei + gehend"}
+{"key": "wasserpflanzen", "word": "Wasserpflanzen", "translation": "aquatic plants", "note": "Wasser + Pflanzen"}
+{"key": "wassersprecher", "word": "Wassersprecher", "translation": "Water Speaker", "note": "tribal title; Wasser + Sprecher (speaker)"}
+{"key": "ältestenweisen", "word": "Ältestenweisen", "translation": "Elder Sages", "note": "Ältesten (elders) + Weisen (wise ones)"}
+{"key": "bestienzähmer", "word": "Bestienzähmer", "translation": "Beast Tamer", "note": "Bestie + Zähmer (tamer)"}
+{"key": "blutschlägern", "word": "Blutschlägern", "translation": "Blood Raiders", "note": "Blut (blood) + Schläger (raider); a warband"}
+{"key": "braufestlager", "word": "Braufestlager", "translation": "Brewfest camp", "note": "Brewfest is WoW's annual event; Lager (camp)"}
+{"key": "drachenfreund", "word": "Drachenfreund", "translation": "dragon-friend", "note": "Drachen (dragon) + Freund (friend)"}
+{"key": "drachenreiter", "word": "Drachenreiter", "translation": "Dragon Rider", "note": "Drachen + Reiter (rider)"}
+{"key": "drachenwelpen", "word": "Drachenwelpen", "translation": "dragon pups", "note": "Drachen + Welpen (pups/young)"}
+{"key": "drachenzähmer", "word": "Drachenzähmer", "translation": "dragon tamer", "note": "Drachen + Zähmer"}
+{"key": "falkenmeister", "word": "Falkenmeister", "translation": "Falcon Master", "note": "Falken (falcon) + Meister"}
+{"key": "hafenmeisters", "word": "Hafenmeisters", "translation": "harbor master", "note": "Hafen (harbor) + Meister's"}
+{"key": "herzholzhains", "word": "Herzholzhains", "translation": "Heartwood Grove", "note": "Herzholz (heartwood, the valuable inner wood) + Hain (grove)"}
+{"key": "höhlenausgang", "word": "Höhlenausgang", "translation": "cave exit", "note": "Höhle (cave) + Ausgang (exit/way out)"}
+{"key": "katapultieren", "word": "katapultieren", "translation": "catapult", "note": "to hurl or launch via catapult (siege warfare)"}
+{"key": "knallschatten", "word": "Knallschatten", "translation": "Snaplash", "note": "Knall (snap/crack) + Schatten (shadow); a creature name"}
+{"key": "kopfgeldjäger", "word": "Kopfgeldjäger", "translation": "Bounty Hunter", "note": "Kopf (head) + Geld (money) + Jäger (hunter)"}
+{"key": "kriegsbestien", "word": "Kriegsbestien", "translation": "war beasts", "note": "Krieg (war) + Bestien (beasts)"}
+{"key": "kristallfokus", "word": "Kristallfokus", "translation": "Crystal Focus", "note": "arcane item; Kristall + Fokus"}
+{"key": "meisterangler", "word": "Meisterangler", "translation": "Master Angler", "note": "Meister + Angler (fisher)"}
+{"key": "meisterhaften", "word": "meisterhaften", "translation": "masterful", "note": "adjective from Meister; skillfully executed"}
+{"key": "meisterzähmer", "word": "Meisterzähmer", "translation": "Master Tamer", "note": "Meister + Zähmer"}
+{"key": "metallsphären", "word": "Metallsphären", "translation": "metal spheres", "note": "Metall + Sphären; depleted forges in Zereth Mortis"}
+{"key": "meuchelmörder", "word": "Meuchelmörder", "translation": "assassin", "note": "meucheln (to murder treacherously) + Mörder (murderer)"}
+{"key": "morastbestien", "word": "Morastbestien", "translation": "mire beasts", "note": "Morast (swamp/mire) + Bestien (beasts)"}
+{"key": "muttersprache", "word": "Muttersprache", "translation": "mother tongue", "note": "Mutter (mother) + Sprache (language); literally native language"}
+{"key": "nachtschimmer", "word": "Nachtschimmer", "translation": "Night Glimmer", "note": "proper name; Nacht + Schimmer"}
+{"key": "nachtsüchtige", "word": "Nachtsüchtige", "translation": "night-corrupted", "note": "Nacht + Süchtige (addicted); corrupted Night Elves"}
+{"key": "pervertierter", "word": "pervertierter", "translation": "perverted", "note": "adjective form; twisted or corrupted"}
+{"key": "portalmeister", "word": "Portalmeister", "translation": "Portal Master", "note": "Portal + Meister; arcane specialist"}
+{"key": "rekrutiererin", "word": "Rekrutiererin", "translation": "Recruiter", "note": "feminine form of Rekrutierer; Rekrutieren + -in"}
+{"key": "schattenbruch", "word": "Schattenbruch", "translation": "Shadowbreak", "note": "proper name; Schatten (shadow) + Bruch (fracture)"}
+{"key": "schattenfluch", "word": "Schattenfluch", "translation": "Shadow Curse", "note": "proper name; Schatten + Fluch (curse)"}
+{"key": "schattenjoche", "word": "Schattenjoche", "translation": "shadow yokes", "note": "Schatten + Joche (plural of Joch, yoke); restraints"}
+{"key": "schatzmeister", "word": "Schatzmeister", "translation": "Treasurer", "note": "Schatz (treasure) + Meister; keeper of funds"}
+{"key": "schlundgetier", "word": "Schlundgetier", "translation": "Maw creature", "note": "Schlund (maw/throat) + Getier (creature)"}
+{"key": "schutzschilde", "word": "Schutzschilde", "translation": "protective shields", "note": "Schutz (protection) + Schilde (shields)"}
+{"key": "schwarzwasser", "word": "Schwarzwasser", "translation": "Blackwater", "note": "Schwarz (black) + Wasser (water); a location name"}
+{"key": "seelengestalt", "word": "Seelengestalt", "translation": "soul form", "note": "Seele (soul) + Gestalt (form/shape)"}
+{"key": "seelenwächter", "word": "Seelenwächter", "translation": "Soul Guardian", "note": "Seele + Wächter (guardian/warden)"}
+{"key": "spalthufhöhle", "word": "Spalthufhöhle", "translation": "Clefthoof Cavern", "note": "Spalthuf (cloven-hoof) + Höhle (cave)"}
+{"key": "spähermission", "word": "Spähermission", "translation": "scout mission", "note": "Späher (scout) + Mission"}
+{"key": "stammeswissen", "word": "Stammeswissen", "translation": "tribal knowledge", "note": "Stamm (tribe) + Wissen (knowledge)"}
+{"key": "steinsplitter", "word": "Steinsplitter", "translation": "stone splinters", "note": "Stein (stone) + Splitter (splinter/shard)"}
+{"key": "sturmsangtals", "word": "Sturmsangtals", "translation": "Stormsong Valley", "note": ""}
+{"key": "tang'tharwald", "word": "Tang'tharwald", "translation": "Tang'thar Forest", "note": ""}
+{"key": "totenwindtour", "word": "Totenwindtour", "translation": "Dead Wind Tour", "note": ""}
+{"key": "wasserquellen", "word": "Wasserquellen", "translation": "Water sources", "note": ""}
+{"key": "wildfennstamm", "word": "Wildfennstamm", "translation": "Wild Fen Tribe", "note": ""}
+{"key": "arenameister", "word": "Arenameister", "translation": "Arena Master", "note": ""}
+{"key": "blutschuppen", "word": "Blutschuppen", "translation": "blood scales", "note": ""}
+{"key": "dorfältesten", "word": "Dorfältesten", "translation": "Village elders", "note": ""}
+{"key": "drachenfeuer", "word": "Drachenfeuer", "translation": "Dragon fire", "note": ""}
+{"key": "drachenwüste", "word": "Drachenwüste", "translation": "Dragon Desert", "note": ""}
+{"key": "draeneistadt", "word": "Draeneistadt", "translation": "Draenei City", "note": ""}
+{"key": "dämonenarmee", "word": "Dämonenarmee", "translation": "Demon army", "note": ""}
+{"key": "dämonenstahl", "word": "Dämonenstahl", "translation": "Demon Steel", "note": ""}
+{"key": "dämonenstieg", "word": "Dämonenstieg", "translation": "Demon's Rise", "note": ""}
+{"key": "flunkerhöhle", "word": "Flunkerhöhle", "translation": "Den of fibs", "note": ""}
+{"key": "gezeitenblut", "word": "Gezeitenblut", "translation": "Tideblood", "note": ""}
+{"key": "grossmeisters", "word": "Großmeisters", "translation": "Grandmaster", "note": ""}
+{"key": "hauptfestung", "word": "Hauptfestung", "translation": "main fortress", "note": ""}
+{"key": "himmelsjäger", "word": "Himmelsjäger", "translation": "Sky Hunter", "note": ""}
+{"key": "hinübergehen", "word": "hinübergehen", "translation": "go over", "note": ""}
+{"key": "hügellandhof", "word": "Hügellandhof", "translation": "Hill Country Farm", "note": ""}
+{"key": "klingenblatt", "word": "Klingenblatt", "translation": "blade", "note": ""}
+{"key": "konsultieren", "word": "konsultieren", "translation": "consult", "note": ""}
+{"key": "krabbeltiere", "word": "Krabbeltiere", "translation": "creepy crawlies", "note": ""}
+{"key": "kristallmine", "word": "Kristallmine", "translation": "Crystal Mine", "note": ""}
+{"key": "lichtenergie", "word": "Lichtenergie", "translation": "Light energy", "note": ""}
+{"key": "lichtwütigen", "word": "lichtwütigen", "translation": "light mad", "note": ""}
+{"key": "militärlager", "word": "Militärlager", "translation": "Military camp", "note": ""}
+{"key": "minenschacht", "word": "Minenschacht", "translation": "Mine shaft", "note": ""}
+{"key": "mondschatten", "word": "Mondschatten", "translation": "Moonshadow", "note": ""}
+{"key": "nachtjägerin", "word": "Nachtjägerin", "translation": "Night Hunter", "note": ""}
+{"key": "nethersturms", "word": "Nethersturms", "translation": "Netherstorm", "note": ""}
+{"key": "phasenklinge", "word": "Phasenklinge", "translation": "Phase Blade", "note": ""}
+{"key": "reflektieren", "word": "reflektieren", "translation": "reflect", "note": ""}
+{"key": "respektier'n", "word": "respektier'n", "translation": "respect", "note": ""}
+{"key": "ritualsteine", "word": "Ritualsteine", "translation": "Ritual stones", "note": ""}
+{"key": "schattenfall", "word": "Schattenfall", "translation": "Shadowfall", "note": ""}
+{"key": "schattenlord", "word": "Schattenlord", "translation": "Shadow Lord", "note": ""}
+{"key": "schatzjägern", "word": "Schatzjägern", "translation": "Treasure hunters", "note": ""}
+{"key": "scherwindtal", "word": "Scherwindtal", "translation": "Windshear Valley", "note": ""}
+{"key": "schildbuckel", "word": "Schildbuckel", "translation": "Shield boss", "note": ""}
+{"key": "seelenwinder", "word": "Seelenwinder", "translation": "Soul Winder", "note": ""}
+{"key": "seidenflügel", "word": "Seidenflügel", "translation": "Silk Wings", "note": ""}
+{"key": "seidengewebe", "word": "Seidengewebe", "translation": "Silk fabric", "note": ""}
+{"key": "sklavenjäger", "word": "Sklavenjäger", "translation": "Slave Hunter", "note": ""}
+{"key": "sonderportal", "word": "Sonderportal", "translation": "Special portal", "note": ""}
+{"key": "steinstatuen", "word": "Steinstatuen", "translation": "Stone statues", "note": ""}
+{"key": "steinwächter", "word": "Steinwächter", "translation": "Stone Guardian", "note": ""}
+{"key": "stempelkarte", "word": "Stempelkarte", "translation": "Stamp card", "note": ""}
+{"key": "sternenlicht", "word": "Sternenlicht", "translation": "Starlight", "note": ""}
+{"key": "stillwassers", "word": "Stillwassers", "translation": "Stillwater", "note": ""}
+{"key": "streitlagers", "word": "Streitlagers", "translation": "dispute camp", "note": ""}
+{"key": "sturmbrecher", "word": "Sturmbrecher", "translation": "Stormbreaker", "note": ""}
+{"key": "tüftlerstadt", "word": "Tüftlerstadt", "translation": "Tinkerer's town", "note": ""}
+{"key": "verpflichten", "word": "verpflichten", "translation": "oblige", "note": ""}
+{"key": "verunstalten", "word": "verunstalten", "translation": "deface", "note": ""}
+{"key": "vorratslager", "word": "Vorratslager", "translation": "Supply warehouse", "note": ""}
+{"key": "wassereimern", "word": "Wassereimern", "translation": "water buckets", "note": ""}
+{"key": "wassergärten", "word": "Wassergärten", "translation": "Water gardens", "note": ""}
+{"key": "weisenwisper", "word": "Weisenwisper", "translation": "Sagewhisper", "note": ""}
+{"key": "weitblicktal", "word": "Weitblicktal", "translation": "Wide View Valley", "note": ""}
+{"key": "windrichtung", "word": "Windrichtung", "translation": "wind direction", "note": ""}
+{"key": "windzähmerin", "word": "Windzähmerin", "translation": "Wind Tamer", "note": ""}
+{"key": "wärtersteine", "word": "Wärtersteine", "translation": "Guardian Stones", "note": ""}
+{"key": "zwielichttal", "word": "Zwielichttal", "translation": "Twilight Valley", "note": ""}
+{"key": "aufzuweisen", "word": "aufzuweisen", "translation": "to show", "note": ""}
+{"key": "ausgeblutet", "word": "Ausgeblutet", "translation": "bled out", "note": ""}
+{"key": "beauftragte", "word": "beauftragte", "translation": "commissioned", "note": ""}
+{"key": "blutprinzen", "word": "Blutprinzen", "translation": "Blood Princes", "note": ""}
+{"key": "blutrituale", "word": "Blutrituale", "translation": "blood rituals", "note": ""}
+{"key": "blutstarrer", "word": "Blutstarrer", "translation": "Bloodstarer", "note": ""}
+{"key": "brisenjäger", "word": "Brisenjäger", "translation": "Breeze Chaser", "note": ""}
+{"key": "dockmeister", "word": "Dockmeister", "translation": "Dockmaster", "note": ""}
+{"key": "dornenhügel", "word": "Dornenhügel", "translation": "Thorn Hill", "note": ""}
+{"key": "drachenfels", "word": "Drachenfels", "translation": "Dragon Rock", "note": ""}
+{"key": "drachenfrau", "word": "Drachenfrau", "translation": "dragon woman", "note": ""}
+{"key": "drachenhaut", "word": "Drachenhaut", "translation": "dragon skin", "note": ""}
+{"key": "dunkelklaue", "word": "Dunkelklaue", "translation": "Darkclaw", "note": ""}
+{"key": "dämonenjagd", "word": "Dämonenjagd", "translation": "demon hunting", "note": ""}
+{"key": "dämonensaat", "word": "Dämonensaat", "translation": "Demon Seed", "note": ""}
+{"key": "dämonenwelt", "word": "Dämonenwelt", "translation": "Demon World", "note": ""}
+{"key": "dämonischem", "word": "dämonischem", "translation": "demonic", "note": ""}
+{"key": "dämonisches", "word": "Dämonisches", "translation": "demonic", "note": ""}
+{"key": "eisklammtal", "word": "Eisklammtal", "translation": "Ice Gorge Valley", "note": ""}
+{"key": "eulenbestie", "word": "Eulenbestie", "translation": "Owlbeast", "note": ""}
+{"key": "falkenstein", "word": "Falkenstein", "translation": "Falconstone", "note": ""}
+{"key": "feuerbällen", "word": "Feuerbällen", "translation": "fireballs", "note": ""}
+{"key": "feuerklinge", "word": "Feuerklinge", "translation": "Fireblade", "note": ""}
+{"key": "frostmagier", "word": "Frostmagier", "translation": "Frost Mage", "note": ""}
+{"key": "gefängnisse", "word": "Gefängnisse", "translation": "prisons", "note": ""}
+{"key": "goblinstadt", "word": "Goblinstadt", "translation": "Goblin City", "note": ""}
+{"key": "hexenbeutel", "word": "Hexenbeutel", "translation": "Witch Pouch", "note": ""}
+{"key": "hexenhügels", "word": "Hexenhügels", "translation": "Witch Hill", "note": ""}
+{"key": "hinzuweisen", "word": "hinzuweisen", "translation": "to point out", "note": ""}
+{"key": "huschdunkel", "word": "Huschdunkel", "translation": "Swiftdark", "note": ""}
+{"key": "höllenfeuer", "word": "Höllenfeuer", "translation": "Hellfire", "note": "official WoW zone Hellfire Peninsula"}
+{"key": "hügellandes", "word": "Hügellandes", "translation": "hill country", "note": ""}
+{"key": "jungdrachen", "word": "Jungdrachen", "translation": "young dragons", "note": ""}
+{"key": "kammerjäger", "word": "Kammerjäger", "translation": "exterminator", "note": "idiomatically pest control; literally chamber-hunter"}
+{"key": "klingenherz", "word": "Klingenherz", "translation": "Bladeheart", "note": ""}
+{"key": "kriegerheld", "word": "Kriegerheld", "translation": "Warrior Hero", "note": ""}
+{"key": "krimineller", "word": "Krimineller", "translation": "criminal", "note": ""}
+{"key": "krokullager", "word": "Krokullager", "translation": "Krokul Camp", "note": ""}
+{"key": "lichtkugeln", "word": "Lichtkugeln", "translation": "balls of light", "note": ""}
+{"key": "lichtstrahl", "word": "Lichtstrahl", "translation": "ray of light", "note": ""}
+{"key": "minenarbeit", "word": "Minenarbeit", "translation": "mining work", "note": ""}
+{"key": "nachtflucht", "word": "Nachtflucht", "translation": "night escape", "note": ""}
+{"key": "nachtflügel", "word": "Nachtflügel", "translation": "Nightwing", "note": ""}
+{"key": "nachtheuler", "word": "Nachtheuler", "translation": "Nighthowler", "note": ""}
+{"key": "netherstein", "word": "Netherstein", "translation": "Netherstone", "note": ""}
+{"key": "nexusklinge", "word": "Nexusklinge", "translation": "Nexus Blade", "note": ""}
+{"key": "orientieren", "word": "orientieren", "translation": "orient", "note": ""}
+{"key": "saronitmine", "word": "Saronitmine", "translation": "Saronite mine", "note": ""}
+{"key": "schatzjäger", "word": "Schatzjäger", "translation": "treasure hunter", "note": ""}
+{"key": "sehersteine", "word": "Sehersteine", "translation": "Seer Stones", "note": ""}
+{"key": "skorpidblut", "word": "Skorpidblut", "translation": "Scorpid blood", "note": ""}
+{"key": "sporensturm", "word": "Sporensturm", "translation": "Spore Storm", "note": ""}
+{"key": "stammkunden", "word": "Stammkunden", "translation": "regular customers", "note": ""}
+{"key": "steinlegion", "word": "Steinlegion", "translation": "Stone Legion", "note": ""}
+{"key": "steinstatue", "word": "Steinstatue", "translation": "stone statue", "note": ""}
+{"key": "steinsäulen", "word": "Steinsäulen", "translation": "stone pillars", "note": ""}
+{"key": "steinteichs", "word": "Steinteichs", "translation": "Stone Pond", "note": "proper location name; stein (stone) + teich (pond)"}
+{"key": "talentierte", "word": "talentierte", "translation": "talented", "note": ""}
+{"key": "tierfleisch", "word": "Tierfleisch", "translation": "animal flesh", "note": ""}
+{"key": "tikikrieger", "word": "Tikikrieger", "translation": "tiki warriors", "note": ""}
+{"key": "wassereimer", "word": "Wassereimer", "translation": "water bucket", "note": ""}
+{"key": "wassergeist", "word": "Wassergeist", "translation": "water spirit", "note": ""}
+{"key": "wegelagerer", "word": "Wegelagerer", "translation": "highwayman", "note": "robber who ambushes on roads; weg (way) + lagerer (one who lays in wait)"}
+{"key": "windreitern", "word": "Windreitern", "translation": "wind riders", "note": ""}
+{"key": "windrocjagd", "word": "Windrocjagd", "translation": "wind roc hunt", "note": "jagd is the act of hunting, not gerund form"}
+{"key": "windruferin", "word": "Windruferin", "translation": "Windcaller", "note": ""}
+{"key": "wolfgeistes", "word": "Wolfgeistes", "translation": "wolf spirit", "note": ""}
+{"key": "wolfsmutter", "word": "Wolfsmutter", "translation": "Wolf mother", "note": "proper creature name"}
+{"key": "abstammung", "word": "Abstammung", "translation": "ancestry", "note": ""}
+{"key": "abzureisen", "word": "abzureisen", "translation": "to leave", "note": ""}
+{"key": "baumeister", "word": "Baumeister", "translation": "master builder", "note": "bau (building) + meister (master); architect or chief builder"}
+{"key": "beauftrage", "word": "beauftrage", "translation": "commission", "note": ""}
+{"key": "bergkönigs", "word": "Bergkönigs", "translation": "Mountain King", "note": ""}
+{"key": "beutetiere", "word": "Beutetiere", "translation": "prey animals", "note": ""}
+{"key": "blutdistel", "word": "Blutdistel", "translation": "Blood thistle", "note": ""}
+{"key": "blutkugeln", "word": "Blutkugeln", "translation": "blood spheres", "note": "blut (blood) + kugeln (spheres)"}
+{"key": "blutspuren", "word": "Blutspuren", "translation": "blood trail", "note": "tracks or trail of blood; spur (track/trace)"}
+{"key": "brecheisen", "word": "Brecheisen", "translation": "crowbar", "note": "brechen (to break) + eisen (iron); tool for forcing open"}
+{"key": "burggraben", "word": "Burggraben", "translation": "moat", "note": "burg (castle) + graben (ditch); defensive water channel around fortification"}
+{"key": "bärenleute", "word": "Bärenleute", "translation": "bear-folk", "note": "bär (bear) + leute (people)"}
+{"key": "eisenfeind", "word": "Eisenfeind", "translation": "iron enemy", "note": ""}
+{"key": "eisenstamm", "word": "Eisenstamm", "translation": "Iron Stem", "note": ""}
+{"key": "eisenwolfs", "word": "Eisenwolfs", "translation": "Iron Wolf", "note": ""}
+{"key": "erbärmlich", "word": "erbärmlich", "translation": "pathetic", "note": "means miserable or wretched; stronger than mere disappointment"}
+{"key": "felshügeln", "word": "Felshügeln", "translation": "rocky hills", "note": ""}
+{"key": "feuerbarts", "word": "Feuerbarts", "translation": "Firebeards", "note": "dwarf clan name"}
+{"key": "feuerbälle", "word": "Feuerbälle", "translation": "fireballs", "note": ""}
+{"key": "feuerfalke", "word": "Feuerfalke", "translation": "Firehawk", "note": ""}
+{"key": "feuermagie", "word": "Feuermagie", "translation": "fire magic", "note": ""}
+{"key": "feuerstein", "word": "Feuerstein", "translation": "Flint", "note": "feuer (fire) + stein (stone); fire-stone creates sparks when struck"}
+{"key": "feuerübung", "word": "Feuerübung", "translation": "fire drill", "note": ""}
+{"key": "gestaltung", "word": "Gestaltung", "translation": "design", "note": "gestalt (form/shape) + -ung (abstract noun suffix)"}
+{"key": "goldäugige", "word": "goldäugige", "translation": "golden-eyed", "note": ""}
+{"key": "gramklinge", "word": "Gramklinge", "translation": "Gramblade", "note": ""}
+{"key": "grossvaters", "word": "Großvaters", "translation": "Grandfather's", "note": ""}
+{"key": "hammerbräu", "word": "Hammerbräu", "translation": "Hammerbräu", "note": "proper name; hammer + bräu (brewery); dwarf tavern"}
+{"key": "hauptstein", "word": "Hauptstein", "translation": "main stone", "note": ""}
+{"key": "hellwasser", "word": "Hellwasser", "translation": "Bright Water", "note": "hell (bright) + wasser (water); proper NPC name"}
+{"key": "hexenfluch", "word": "Hexenfluch", "translation": "Witch's curse", "note": "hexen (witch) + fluch (curse)"}
+{"key": "kielwasser", "word": "Kielwasser", "translation": "wake", "note": "nautical term for water disturbed by ship's passage; kiel (keel) + wasser (water)"}
+{"key": "kriminelle", "word": "Kriminelle", "translation": "criminals", "note": "plural noun; non-violent criminals in context"}
+{"key": "magmawyrms", "word": "Magmawyrms", "translation": "Magma Wyrms", "note": ""}
+{"key": "meditierte", "word": "meditierte", "translation": "meditated", "note": ""}
+{"key": "minenfelds", "word": "Minenfelds", "translation": "minefield", "note": ""}
+{"key": "morqutdorf", "word": "Morqutdorf", "translation": "Morqutdorf", "note": "proper location name"}
+{"key": "mutterbaum", "word": "Mutterbaum", "translation": "Mother tree", "note": "mutter (mother) + baum (tree); likely world tree or ancient sacred tree"}
+{"key": "nachtmarkt", "word": "Nachtmarkt", "translation": "night market", "note": ""}
+{"key": "nullhammer", "word": "Nullhammer", "translation": "Void hammer", "note": "null (void/empty) + hammer; weapon associated with void magic"}
+{"key": "raubtieres", "word": "Raubtieres", "translation": "predator", "note": ""}
+{"key": "regenstein", "word": "Regenstein", "translation": "Regenstein", "note": "proper location name"}
+{"key": "reittieres", "word": "Reittieres", "translation": "mount", "note": ""}
+{"key": "runenwalds", "word": "Runenwalds", "translation": "Rune Forest", "note": "proper location name; runen (runes) + wald (forest)"}
+{"key": "rüstlagers", "word": "Rüstlagers", "translation": "armory", "note": "rüstung (armor) + lager (storage/warehouse); place where gear is stored"}
+{"key": "schwindler", "word": "Schwindler", "translation": "swindler", "note": ""}
+{"key": "seherstein", "word": "Seherstein", "translation": "Seer stone", "note": "seher (seer) + stein (stone); stone used for prophecy or divination"}
