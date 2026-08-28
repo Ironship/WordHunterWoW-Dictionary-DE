@@ -40,6 +40,13 @@ def main():
         rows = load(out_path)
         if not rows:
             stats.append((out_path.name, 0, 0, 0)); continue
+        # A subagent from an earlier wave can finish after the directory has been
+        # rotated and write over the current wave's output. The key sets diverge
+        # long before anything else does, so compare them first.
+        foreign = {r.get("key") for r in rows} - set(src)
+        if foreign:
+            print(f"  ! {out_path.name}: {len(foreign)} kluczy spoza tego batcha "
+                  f"— mozliwe zanieczyszczenie z innej fali")
         changed = sum(1 for r in rows
                       if r.get("key") in src
                       and (r.get("translation") or "").strip() != src[r["key"]]["current"].strip())
