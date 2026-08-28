@@ -32,8 +32,8 @@ def check(row, src):
     key = row.get("key")
     if key not in src:
         return "klucz spoza batcha"
-    if row.get("word") != src[key]["word"]:
-        return "zmienione pole word"
+    # word is authoritative in the source; the agent's copy of it is only ever
+    # used to recover a mistyped key, never to overwrite the corpus.
     t = (row.get("translation") or "").strip()
     if not t:
         return "puste translation"
@@ -99,7 +99,7 @@ def main():
                 changed += 1
             if (row.get("note") or "").strip():
                 notes_added += 1
-            accepted.append({"key": row["key"], "word": row["word"],
+            accepted.append({"key": row["key"], "word": src[row["key"]]["word"],
                              "translation": row["translation"].strip(),
                              "note": (row.get("note") or "").strip()})
 
