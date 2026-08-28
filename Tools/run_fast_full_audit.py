@@ -4,7 +4,7 @@
 Muse reviews every entry; Mimo reviews only proposed fixes/status changes.
 No agent tool calls: input is attached, output is parsed from JSON events.
 """
-import argparse, concurrent.futures, glob, json, os, pathlib, shutil, subprocess, sys, time
+import argparse, concurrent.futures, glob, json, os, pathlib, random, shutil, subprocess, sys, time
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 CACHE = ROOT / "Data/cache"
@@ -124,7 +124,7 @@ def run_model(kilo, model, variant, prompt, source_path, output_path, phase, ret
         except Exception as error:
             last = error
             print(f"RETRY {phase} {source_path.name} attempt={attempt}: {error}", flush=True)
-            time.sleep(attempt * 2)
+            time.sleep(attempt * 5 + random.random() * 8)
     raise RuntimeError(f"{phase} failed {source_path.name}: {last}")
 
 
@@ -227,30 +227,52 @@ def main():
     parser.add_argument("--wave-size", type=int, default=3840)
     parser.add_argument("--batch-size", type=int, default=240)
     parser.add_argument("--mimo-batch-size", type=int, default=120)
-    parser.add_argument("--parallel", type=int, default=16)
+    parser.add_argument("--parallel", type=int, default=16, help="Fallback parallelism for both models")
+    parser.add_argument("--muse-parallel", type=int, default=0)
+    parser.add_argument("--mimo-parallel", type=int, default=0)
     parser.add_argument("--reset", action="store_true", help="Audit every entry from scratch")
     parser.add_argument("--max-waves", type=int, default=0, help="Stop after N waves (0 = all)")
+    parser.add_argument("--resume-mimo", action="store_true", help="Reuse current prepared/Muse files and resume at Mimo")
     args = parser.parse_args()
     kilo = find_kilo()
     records = effective_records()
+    muse_parallel = args.muse_parallel or args.parallel
+    mimo_parallel = args.mimo_parallel or args.parallel
     if args.reset and REVIEWED.exists(): REVIEWED.unlink()
     reviewed = set(REVIEWED.read_text(encoding="utf-8").splitlines()) if REVIEWED.exists() else set()
     total = len(records)
     wave = 0
-    print(f"FAST AUDIT total={total} reviewed={len(reviewed)} wave_size={args.wave_size} batch={args.batch_size} parallel={args.parallel}", flush=True)
+    print(f"FAST AUDIT total={total} reviewed={len(reviewed)} wave_size={args.wave_size} batch={args.batch_size} muse_parallel={muse_parallel} mimo_parallel={mimo_parallel}", flush=True)
+
+    if args.resume_mimo:
+        batch_paths = sorted(BATCH_DIR.glob("batch_*.jsonl"))
+        if not batch_paths:
+            raise RuntimeError("--resume-mimo requested but no prepared batches exist")
+        proposals, mimo_paths = collect_mimo_inputs(batch_paths, args.mimo_batch_size)
+        print(f"RESUME MIMO: source_batches={len(batch_paths)} proposals={len(proposals)} mimo_batches={len(mimo_paths)}", flush=True)
+        if MIMO_DIR.exists(): shutil.rmtree(MIMO_DIR)
+        MIMO_DIR.mkdir(parents=True, exist_ok=True)
+        with concurrent.futures.ThreadPoolExecutor(max_workers=mimo_parallel) as pool:
+            futures = [pool.submit(run_model, kilo, "opencode-go/mimo-v2.5", None, MIMO_PROMPT, path, MIMO_DIR / path.name, "mimo") for path in mimo_paths]
+            for future in concurrent.futures.as_completed(futures): future.result()
+        changed = apply_reviews(records, mimo_paths)
+        resumed_rows = [row for path in batch_paths for row in load_jsonl(path)]
+        reviewed.update(row["key"] for row in resumed_rows)
+        REVIEWED.write_text("\n".join(sorted(reviewed)) + "\n", encoding="utf-8")
+        print(f"RESUME MIMO COMPLETE reviewed={len(reviewed)}/{total} changed={changed}", flush=True)
     while len(reviewed) < total:
         wave += 1
         candidates, batch_paths = prepare_wave(records, reviewed, args.wave_size, args.batch_size)
         if not candidates: break
         start = time.time()
         print(f"WAVE {wave}: candidates={len(candidates)} batches={len(batch_paths)} remaining={total-len(reviewed)}", flush=True)
-        with concurrent.futures.ThreadPoolExecutor(max_workers=args.parallel) as pool:
+        with concurrent.futures.ThreadPoolExecutor(max_workers=muse_parallel) as pool:
             futures = [pool.submit(run_model, kilo, "opencode-go/muse-spark-1.2-contributor", "low", MUSE_PROMPT, path, MUSE_DIR / path.name, "muse") for path in batch_paths]
             for future in concurrent.futures.as_completed(futures): future.result()
         proposals, mimo_paths = collect_mimo_inputs(batch_paths, args.mimo_batch_size)
         print(f"WAVE {wave}: Muse done proposals={len(proposals)} mimo_batches={len(mimo_paths)}", flush=True)
         if mimo_paths:
-            with concurrent.futures.ThreadPoolExecutor(max_workers=args.parallel) as pool:
+            with concurrent.futures.ThreadPoolExecutor(max_workers=mimo_parallel) as pool:
                 futures = [pool.submit(run_model, kilo, "opencode-go/mimo-v2.5", None, MIMO_PROMPT, path, MIMO_DIR / path.name, "mimo") for path in mimo_paths]
                 for future in concurrent.futures.as_completed(futures): future.result()
         changed = apply_reviews(records, mimo_paths) if mimo_paths else 0
