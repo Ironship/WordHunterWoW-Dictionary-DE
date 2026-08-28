@@ -1,0 +1,83 @@
+# German dictionary audit — instructions
+
+You are improving a German→English dictionary used by a World of Warcraft addon.
+Players read German quest text and click a word to see its English meaning plus a
+short note. Your job is to fix machine-translation errors and write notes that
+teach the reader something worth knowing.
+
+## Input
+
+`Data/cache/claude_audit/in/batch_NN.jsonl` — one JSON object per line:
+
+- `key` — lowercase lookup key. **Copy it through byte for byte.** It is already
+  casefolded the way the addon looks words up: `ß` is written `ss`, so
+  `übergroßen` has the key `übergrossen`. Do not "restore" the `ß`, do not fix
+  umlauts, do not re-case it. Changing a key breaks the lookup.
+- `word` — the German word as it appears in game. **Copy through verbatim.**
+- `current` — the existing Google Translate output. Often right, sometimes wrong.
+- `count` — how often the word occurs across all quests.
+- `context` — a real quest sentence containing the word.
+
+## Output
+
+`Data/cache/claude_audit/out/batch_NN.jsonl` — one JSON object per input line,
+**same order, same count, same keys**, with exactly these four fields:
+
+```json
+{"key":"eisenschmiede","word":"Eisenschmiede","translation":"Ironforge","note":"literally iron+forge; the dwarven capital, not a smith"}
+```
+
+Write the file with the Write tool. UTF-8, no BOM, no trailing commas, no
+markdown fences, one compact JSON object per line.
+
+## translation
+
+- Give the meaning that fits **WoW quest text**, not a dictionary's first entry.
+- Use the **official English WoW term** when the German is a game proper noun:
+  `Eisenschmiede` → Ironforge (not "Ironsmith"), `Dracheninseln` → Dragon Isles
+  (not "Dragon Islands"), `Sturmwind` → Stormwind.
+- If you are not confident an official English name exists, give a clean literal
+  translation instead. **Do not invent lore, zone names, or NPC names.**
+- Separate genuinely distinct senses with `; ` — at most three, most common first.
+- Keep the grammatical category of the German word (noun → noun, verb → verb).
+  Nouns: no article. Verbs: bare infinitive without "to" unless it disambiguates.
+- Match the source's capitalisation habit: proper nouns capitalised, common nouns
+  lowercase, even though German capitalises every noun.
+- If `current` is already the best answer, repeat it unchanged. That is a normal
+  and expected outcome — do not change things just to look busy.
+
+## note
+
+This is the part the user actually reads for fun. Make it earn its place.
+
+Pick whichever of these applies, best first:
+
+1. **Compound breakdown**, when it illuminates the word:
+   `Dunkelheit` → "dunkel (dark) + -heit, the suffix that turns adjectives into nouns"
+2. **False friend / trap**, when a learner would guess wrong:
+   `bekommen` → "false friend: means to receive, never to become"
+3. **Official name differs from the literal sense**:
+   `Schattenhammer` → "literally shadow-hammer; the English name is Twilight's Hammer"
+4. **Idiom or fixed phrase** the word usually appears in:
+   `heißen` → "willkommen heißen = to welcome"
+5. **Etymology or a genuinely interesting fact** about the word.
+
+Rules:
+
+- English, lowercase start, **no trailing period**, at most ~120 characters.
+- Never merely restate the translation ("means darkness") — that is wasted space.
+- Never write filler like "compound noun" or "common German word" on its own.
+- Prefer concrete over vague. "from Old High German *hari* (army)" beats
+  "has an interesting history".
+- If nothing worth saying comes to mind, use `""`. An empty note is much better
+  than a boring one.
+- No newlines, no quotes-inside-quotes problems — keep it plain.
+
+## Accuracy
+
+Getting a translation wrong is worse than leaving it as it was. When torn between
+a confident literal reading and a half-remembered WoW term, choose the literal
+one. Do not guess at lore.
+
+Return only a one-line summary: how many rows you wrote, and any keys you were
+genuinely unsure about.
