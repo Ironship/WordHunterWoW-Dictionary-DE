@@ -210,6 +210,7 @@ def collect_mimo_inputs(batch_paths, mimo_batch_size):
                     "muse_action": muse["action"], "muse_translation": muse["translation"], "muse_note": muse["note"],
                     "muse_status": muse["status"], "muse_confidence": muse["confidence"],
                 })
+    if MIMO_INPUT_DIR.exists(): shutil.rmtree(MIMO_INPUT_DIR)
     MIMO_INPUT_DIR.mkdir(parents=True, exist_ok=True)
     paths = []
     for offset in range(0, len(proposals), mimo_batch_size):
@@ -228,13 +229,11 @@ def apply_reviews(records, mimo_paths):
             order.append(row["key"])
     changed = 0
     for path in mimo_paths:
-        inputs = {row["key"]: row for row in load_jsonl(path)}
         for review in load_jsonl(MIMO_DIR / path.name):
             if review["confidence"] != "high": continue
-            inp = inputs[review["key"]]
             current = records[review["key"]]
             if review["action"] == "reject":
-                translation, note = inp["current_translation"], inp["current_note"]
+                translation, note = current.get("translation") or "", current.get("note") or ""
             else:
                 translation, note = review["translation"].strip(), review["note"].strip()
             status = "ignored" if review["status"] == "ignored" else current.get("status")
