@@ -5,7 +5,7 @@ Every output row is checked against the batch that produced it. Anything that
 fails a check is dropped and reported rather than silently written -- a bad
 translation is worse than the Google one it would replace.
 """
-import argparse, json, pathlib, sys
+import argparse, difflib, json, pathlib, sys
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 WORKDIR = ROOT / "Data/cache/claude_audit"
@@ -74,7 +74,19 @@ def main():
                 if len(cand) == 1:
                     print(f"  ~ {out_path.name}: klucz {row.get('key')!r} -> {cand[0]!r} (odzyskany po word)")
                     row["key"] = cand[0]
+                    row["word"] = src[cand[0]]["word"]
                     repaired.append(cand[0])
+                else:
+                    # A mistyped key usually corrupts the word the same way, so the
+                    # lookup above misses it. Fall back to the nearest unused key,
+                    # but only for a near-identical string -- never a guess.
+                    free = [k for k in src if k not in seen]
+                    near = difflib.get_close_matches(row.get("key") or "", free, n=1, cutoff=0.9)
+                    if near:
+                        print(f"  ~ {out_path.name}: klucz {row.get('key')!r} -> {near[0]!r} (dopasowany przyblizeniem)")
+                        row["key"] = near[0]
+                        row["word"] = src[near[0]]["word"]
+                        repaired.append(near[0])
             err = check(row, src)
             if err:
                 rejected.append((out_path.name, row.get("key"), err))
