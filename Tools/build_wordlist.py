@@ -2,7 +2,7 @@
 import collections, json, pathlib, re
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
-TOKEN = re.compile(r"[A-Za-zÄÖÜäöüß]+(?:[-'][A-Za-zÄÖÜäöüß]+)*")
+TOKEN = re.compile(r"[^\W\d_]+(?:[-'’][^\W\d_]+)*", re.UNICODE)
 counts, forms, contexts = collections.Counter(), collections.defaultdict(collections.Counter), {}
 for line in (ROOT / "Data/cache/quests_deDE.jsonl").read_text(encoding="utf-8").splitlines():
     q = json.loads(line)
