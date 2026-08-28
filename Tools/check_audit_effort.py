@@ -5,7 +5,7 @@ A subagent that returns its input verbatim looks like a clean run to the merge:
 every key present, every field valid. Only comparison against the rest of the
 wave exposes it. Rerun anything this reports before merging.
 """
-import argparse, json, pathlib, statistics, sys
+import argparse, difflib, json, pathlib, statistics, sys
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 WORKDIR = ROOT / "Data/cache/audit_work"
@@ -75,9 +75,14 @@ def main():
                 if cand in src:
                     return cand
             hits = by_word.get(row.get("word"), [])
-            return hits[0] if len(hits) == 1 else k
+            if len(hits) == 1:
+                return hits[0]
+            # Last resort, as in the merge: a near-identical key, never a guess.
+            # 0.9 is tight enough that a stray key from another wave will not match.
+            near = difflib.get_close_matches(k or "", list(src), n=1, cutoff=0.9)
+            return near[0] if near else k
         if not rows:
-            stats.append((out_path.name, 0, 0, 0, True)); continue
+            stats.append((out_path.name, 0, 0, 0, True, 0)); continue
         # A subagent from an earlier wave can finish after the directory has been
         # rotated and write over the current wave's output. The key sets diverge
         # long before anything else does, so compare them first.
@@ -109,7 +114,24 @@ def main():
                       if resolve(r) in src
                       and (r.get("translation") or "").strip() != src[resolve(r)]["current"].strip())
         noted = sum(1 for r in rows if (r.get("note") or "").strip())
-        stats.append((out_path.name, len(rows), changed, noted, bool(broken)))
+        # Advisory only. German capitalises every noun, and the commonest miss on
+        # this dictionary is an English gloss that kept the capital. A row left
+        # untouched whose gloss is a single capitalised word, and is not simply
+        # the name echoed back, is a candidate. Proper nouns land here too, so
+        # this is a hint to go and look, never grounds to reject on its own.
+        capped = 0
+        for r in rows:
+            key = resolve(r)
+            if key not in src:
+                continue
+            current = src[key]["current"].strip()
+            if (r.get("translation") or "").strip() != current:
+                continue
+            word = src[key]["word"]
+            if (current[:1].isupper() and " " not in current
+                    and current.casefold() != word.casefold()):
+                capped += 1
+        stats.append((out_path.name, len(rows), changed, noted, bool(broken), capped))
 
     if not stats:
         print("brak batchy")
@@ -117,7 +139,7 @@ def main():
     med_ch = statistics.median(s[2] / max(s[1], 1) for s in stats)
     med_nt = statistics.median(s[3] / max(s[1], 1) for s in stats)
     suspect = []
-    for name, n, ch, nt, broken in stats:
+    for name, n, ch, nt, broken, capped in stats:
         rate_ch = ch / max(n, 1)
         rate_nt = nt / max(n, 1)
         share_ch = rate_ch / med_ch if med_ch else 1
@@ -133,7 +155,7 @@ def main():
             why.append(f"notatek {rate_nt:.0%}")
         if why:
             suspect.append(name)
-        print(f"  {name}: {n:>3} wierszy, {ch:>3} zmian, {nt:>3} notatek"
+        print(f"  {name}: {n:>3} wierszy, {ch:>3} zmian, {nt:>3} notatek, {capped:>3} wielkich liter do sprawdzenia"
               + (f"   <-- PODEJRZANY ({', '.join(why)})" if why else ""))
     print(f"\nmediana fali: zmian {med_ch:.0%}, notatek {med_nt:.0%}"
           f" | progi bezwzgledne: zmian {args.min_change_rate:.0%}, notatek {args.min_note_rate:.0%}")
