@@ -27,7 +27,7 @@
 {"key":"möchten","word":"möchten","translation":"would like","note":"plural polite/subjunctive form of mögen"}
 {"key":"wollte","word":"wollte","translation":"wanted; intended to","note":"past of wollen"}
 {"key":"wollten","word":"wollten","translation":"wanted; intended to","note":"plural past of wollen"}
-{"key":"ihr","word":"Ihr","translation":"you (pl./formal); her; their; to her/them","note":"Capital Ihr = you; lower ihr = her/their/to her"}
+{"key":"ihr","word":"Ihr","translation":"you (formal/pl.); her/their; to her/them","note":"Capital Ihr = you (formal); lower ihr = her/their"}
 {"key":"sie","word":"sie","translation":"she; they; you (formal Sie)","note":"Capital Sie = you (formal); sie = she/they"}
 {"key":"von","word":"von","translation":"of; from; by","note":"often 'of' in X von Y = X of Y"}
 {"key":"eine","word":"eine","translation":"a; one","note":"feminine 'a' (ein); also numeral 'one'"}
@@ -649,3 +649,10 @@
 {"key":"kranichs","word":"Kranichs","translation":"crane","note":"genitive singular of Kranich; not plural cranes"}
 {"key":"nützen","word":"nützen","translation":"be useful; be of use","note":"nützen = be useful; 'to use' is nutzen"}
 {"key":"regt","word":"regt","translation":"stirs; moves","note":"sich regen = to stir/move, not regnen 'to rain'"}
+{"key":"die","word":"die","translation":"the","note":"fem. sg. & pl. definite article; also rel. pronoun 'who/which'"}
+{"key":"der","word":"der","translation":"the","note":"masc. nom. definite article; also rel. pronoun 'who/which'"}
+{"key":"zu","word":"zu","translation":"to","note":"infinitive marker; also preposition 'to/at'"}
+{"key":"den","word":"den","translation":"the","note":"acc. sg. masc. & dat. pl. of der/das/die"}
+{"key":"ist","word":"ist","translation":"is","note":"3rd sg. of sein (to be)"}
+{"key":"euch","word":"Euch","translation":"you","note":"acc./dat. of ihr (you pl.); Euch = formal capitalized form"}
+{"key":"ein","word":"ein","translation":"a; an; one","note":"indef. article & numeral 'one'; inflects: eine, einen etc."}
