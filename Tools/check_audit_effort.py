@@ -11,6 +11,22 @@ ROOT = pathlib.Path(__file__).resolve().parents[1]
 WORKDIR = ROOT / "Data/cache/audit_work"
 
 
+def demojibake(text):
+    """Undo a UTF-8 string that was written out as if it were Latin-1.
+
+    An agent occasionally emits `jÃ¤hrlichen` for `jährlichen`. The key set then
+    diverges from the batch, the word is corrupted the same way so the by-word
+    lookup misses too, and the string is far enough from the original that the
+    fuzzy match declines it. The byte round-trip is exact, so try it first.
+    """
+    if "Ã" not in (text or ""):
+        return None
+    try:
+        return text.encode("latin-1").decode("utf-8")
+    except (UnicodeEncodeError, UnicodeDecodeError):
+        return None
+
+
 def load(path):
     out, bad = [], 0
     for line in path.read_text(encoding="utf-8-sig").splitlines():
@@ -50,7 +66,8 @@ def main():
         # rotated and write over the current wave's output. The key sets diverge
         # long before anything else does, so compare them first.
         foreign = {r.get("key") for r in rows} - set(src)
-        foreign = {k for k in foreign if (k or "").casefold() not in src}
+        foreign = {k for k in foreign if (k or "").casefold() not in src
+                   and demojibake(k) not in src}
         if foreign:
             print(f"  ! {out_path.name}: {len(foreign)} kluczy spoza tego batcha "
                   f"— mozliwe zanieczyszczenie z innej fali")
@@ -61,7 +78,10 @@ def main():
             broken.append(f"{len(rows)} wierszy zamiast {len(src)}")
         seen = {}
         for r in rows:
-            seen[r.get("key")] = seen.get(r.get("key"), 0) + 1
+            k = r.get("key")
+            if k not in src and demojibake(k) in src:
+                k = demojibake(k)
+            seen[k] = seen.get(k, 0) + 1
         dupes = [k for k, c in seen.items() if c > 1]
         if dupes:
             broken.append(f"{len(dupes)} zdublowanych kluczy")
@@ -73,9 +93,12 @@ def main():
         if broken:
             print(f"  ! {out_path.name}: {', '.join(broken)}")
 
+        def key_of(r):
+            k = r.get("key")
+            return k if k in src else demojibake(k)
         changed = sum(1 for r in rows
-                      if r.get("key") in src
-                      and (r.get("translation") or "").strip() != src[r["key"]]["current"].strip())
+                      if key_of(r) in src
+                      and (r.get("translation") or "").strip() != src[key_of(r)]["current"].strip())
         noted = sum(1 for r in rows if (r.get("note") or "").strip())
         stats.append((out_path.name, len(rows), changed, noted, bool(broken)))
 

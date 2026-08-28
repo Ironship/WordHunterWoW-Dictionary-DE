@@ -13,6 +13,22 @@ CURATED = ROOT / "Data/CuratedDE.jsonl"
 NOTE_MAX = 200
 
 
+def demojibake(text):
+    """Undo a UTF-8 string that was written out as if it were Latin-1.
+
+    An agent occasionally emits `jÃ¤hrlichen` for `jährlichen`. The key set then
+    diverges from the batch, the word is corrupted the same way so the by-word
+    lookup misses too, and the string is far enough from the original that the
+    fuzzy match declines it. The byte round-trip is exact, so try it first.
+    """
+    if "Ã" not in (text or ""):
+        return None
+    try:
+        return text.encode("latin-1").decode("utf-8")
+    except (UnicodeEncodeError, UnicodeDecodeError):
+        return None
+
+
 def load_jsonl(path):
     if not path.exists():
         return []
@@ -65,13 +81,27 @@ def main():
         if len(rows) != len(src):
             print(f"  ~ {out_path.name}: {len(rows)} wierszy wobec {len(src)} na wejsciu")
         # A duplicated key can quietly displace a real one: the row count still
-        # matches, so only comparing the key sets reveals the loss.
-        dropped = set(src) - {r.get("key") for r in rows}
+        # matches, so only comparing the key sets reveals the loss. Count a
+        # repairable key as present -- the recovery below will restore it.
+        produced = set()
+        for r in rows:
+            k = r.get("key")
+            produced.add(k if k in src else (demojibake(k) or (k or "").casefold()))
+        dropped = set(src) - produced
         if dropped:
             print(f"  ! {out_path.name}: {len(dropped)} hasel wejsciowych bez wiersza wyjsciowego: "
                   + ", ".join(sorted(dropped)[:6]))
         seen = set()
         for row in rows:
+            if row.get("key") not in src:
+                fixed = demojibake(row.get("key"))
+                if fixed in src:
+                    row["key"] = fixed
+                    row["word"] = src[fixed]["word"]
+                    note = demojibake(row.get("note"))
+                    if note is not None:
+                        row["note"] = note
+                    repaired.append(fixed)
             # Agents occasionally "fix" a key back to its umlaut/eszett spelling.
             # The addon casefolds s-sharp to ss, so recover the original key from
             # the word field rather than losing the row.
