@@ -64,6 +64,12 @@ def main():
         rows = load_jsonl(out_path)
         if len(rows) != len(src):
             print(f"  ~ {out_path.name}: {len(rows)} wierszy wobec {len(src)} na wejsciu")
+        # A duplicated key can quietly displace a real one: the row count still
+        # matches, so only comparing the key sets reveals the loss.
+        dropped = set(src) - {r.get("key") for r in rows}
+        if dropped:
+            print(f"  ! {out_path.name}: {len(dropped)} hasel wejsciowych bez wiersza wyjsciowego: "
+                  + ", ".join(sorted(dropped)[:6]))
         seen = set()
         for row in rows:
             # Agents occasionally "fix" a key back to its umlaut/eszett spelling.
