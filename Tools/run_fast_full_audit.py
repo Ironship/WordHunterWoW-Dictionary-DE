@@ -4,7 +4,7 @@
 Muse reviews every entry; Mimo reviews only proposed fixes/status changes.
 No agent tool calls: input is attached, output is parsed from JSON events.
 """
-import argparse, concurrent.futures, glob, json, os, pathlib, random, shutil, subprocess, sys, time
+import argparse, concurrent.futures, glob, json, os, pathlib, random, re, shutil, subprocess, sys, time
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 CACHE = ROOT / "Data/cache"
@@ -245,7 +245,7 @@ def main():
     print(f"FAST AUDIT total={total} reviewed={len(reviewed)} wave_size={args.wave_size} batch={args.batch_size} muse_parallel={muse_parallel} mimo_parallel={mimo_parallel}", flush=True)
 
     if args.resume_mimo:
-        batch_paths = sorted(BATCH_DIR.glob("batch_*.jsonl"))
+        batch_paths = sorted(path for path in BATCH_DIR.glob("batch_*.jsonl") if re.fullmatch(r"batch_\d{3}\.jsonl", path.name))
         if not batch_paths:
             raise RuntimeError("--resume-mimo requested but no prepared batches exist")
         proposals, mimo_paths = collect_mimo_inputs(batch_paths, args.mimo_batch_size)
