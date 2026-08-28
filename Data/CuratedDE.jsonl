@@ -16970,3 +16970,1249 @@
 {"key": "kaja'cola-soll", "word": "Kaja'Cola-Soll", "translation": "Kaja'Cola quota", "note": "Soll = quota or target; used in business contexts for production goals"}
 {"key": "kaja'coladosen", "word": "Kaja'Coladosen", "translation": "Kaja'Cola cans", "note": "plural of Dose; cans or tins of the goblin soft drink"}
 {"key": "kaja'mit-abbau", "word": "Kaja'mit-Abbau", "translation": "Kaja'mit mining", "note": "Abbau = mining or extraction; the mineral from which Kaja'Cola is made"}
+{"key": "handumdrehen", "word": "Handumdrehen", "translation": "in a flash", "note": "hand (hand) + umdrehen (turn around); idiom for something done instantly"}
+{"key": "grüntal", "word": "Grüntal", "translation": "Greenvalley", "note": "proper noun; grün (green) + tal (valley); likely an NPC or location name"}
+{"key": "süderstade", "word": "Süderstade", "translation": "Southtown", "note": "proper noun; süder (south) + stade (town/place); appears to be a location name"}
+{"key": "lohenscheit", "word": "Lohenscheit", "translation": "Flamecrest", "note": "proper noun; lohen (blaze/flame) + scheit (log); appears to be a location name"}
+{"key": "mung-mung", "word": "Mung-Mung", "translation": "Mung-Mung", "note": "creature/NPC name; not translated in game"}
+{"key": "quälheim", "word": "Quälheim", "translation": "Tormentheim", "note": "proper noun; quäl (torment) + heim (home); location name"}
+{"key": "mör'dok", "word": "Mör'dok", "translation": "Mör'dok", "note": "NPC name; not translated in game"}
+{"key": "mühlenbern", "word": "Mühlenbern", "translation": "Milltown", "note": "proper noun; mühlen (mills) + bern (town); location name"}
+{"key": "zuliebe", "word": "zuliebe", "translation": "for the sake of", "note": "archaic/poetic form of 'for sake of'; zuliebe (to gladden) — meist um...zuliebe (for someone's sake)"}
+{"key": "todeshörigen", "word": "Todeshörigen", "translation": "death-thralls", "note": "literallyeath-servant; refers to souls bound to death"}
+{"key": "bräuhall", "word": "Bräuhall", "translation": "Brewkeep", "note": "proper noun; bräu (brew/brewery) + hall (hall); location name"}
+{"key": "bodens", "word": "Bodens", "translation": "ground", "note": "genitive of boden; 'geheiligten Bodens' = sacred ground"}
+{"key": "krötoffeln", "word": "Krötoffeln", "translation": "toadtubers", "note": "kröte (toad) + affeln (potatoes); whimsical creature food"}
+{"key": "kafa'zäge", "word": "Kafa'zäge", "translation": "Kafa'zäge", "note": "invented device name; not translated in game"}
+{"key": "pringisch", "word": "Pringisch", "translation": "Pringisch", "note": "NPC name; not translated in game"}
+{"key": "vordertür", "word": "Vordertür", "translation": "front door", "note": "vorder (front) + tür (door); basic compound"}
+{"key": "pflichtbewusstsein", "word": "Pflichtbewusstsein", "translation": "sense of duty", "note": "pflicht (duty) + bewusstsein (consciousness); abstract quality"}
+{"key": "kauzfusslands", "word": "Kauzfußlands", "translation": "Owlfoot Land", "note": "proper noun; kauz (owl) + fuss (foot); location name"}
+{"key": "lehörnchen", "word": "LeHörnchen", "translation": "LeSquirrel", "note": "NPC name; french 'Le' + hörnchen (squirrel); proper name"}
+{"key": "braunspyss", "word": "Braunspyß", "translation": "Brownspyss", "note": "NPC name; braun (brown) + spyss (unclear); likely a dwarven name"}
+{"key": "gründler", "word": "Gründler", "translation": "bottom-feeder", "note": "gründen (to ground/bottom) + -ler suffix; fish that feeds on the bottom"}
+{"key": "wettzumachen", "word": "wettzumachen", "translation": "to make good", "note": "wett- (makes even/compensates) + zu machen (to make); repair or restore"}
+{"key": "donnerbräus", "word": "Donnerbräus", "translation": "Thunderbrew", "note": "proper noun; donner (thunder) + bräu (brewery); location or establishment name"}
+{"key": "zuvembibräu", "word": "Zuvembibräu", "translation": "Zuvembi Brew", "note": "proper noun; likely a drink or establishment name"}
+{"key": "beikommen", "word": "beikommen", "translation": "to deal with", "note": "false friend: means to handle or cope with, not related to 'coming'"}
+{"key": "szuszlägt", "word": "szuszlägt", "translation": "cuts loose", "note": "seltene schreibweise; strikes out or escapes; appears in goblin dialect text"}
+{"key": "zägenfell", "word": "Zägenfell", "translation": "Kahe hide", "note": "zägen (creature type) + fell (hide/pelt); treasure from defeating Kahes"}
+{"key": "aufatmen", "word": "aufatmen", "translation": "to breathe easy", "note": "auf (up/out) + atmen (breathe); idiom for relief or relaxation"}
+{"key": "grüntals", "word": "Grüntals", "translation": "Greenvalley's", "note": "genitive form of Grüntal; possessive of location name"}
+{"key": "solang's", "word": "solang's", "translation": "as long as there's", "note": "solange (as long as) + 's (contraction); colloquial form"}
+{"key": "torfbräu", "word": "Torfbräu", "translation": "Peatsbrews", "note": "proper noun; torf (peat) + bräu (brewery); likely character name"}
+{"key": "tögrbrrl", "word": "tögrbrrl", "translation": "tögrbrrl", "note": "murloc speech; not translatable"}
+{"key": "blürglg", "word": "blürglg", "translation": "blürglg", "note": "murloc speech; not translatable"}
+{"key": "büttner", "word": "Büttner", "translation": "Büttner", "note": "NPC name; likely a surname; not translated in game"}
+{"key": "zürner", "word": "Zürner", "translation": "Zürner", "note": "NPC name; likely a surname; not translated in game"}
+{"key": "kaja'mit-depot", "word": "Kaja'mit-Depot", "translation": "Kaja'mit Depot", "note": "facility name; combination of location Kaja'mit and depot"}
+{"key": "kajaversetzten", "word": "kajaversetzten", "translation": "kajaversetzten", "note": "unclear; appears to be a transliteration or misspelling in context"}
+{"key": "kaktuspflanzen", "word": "Kaktuspflanzen", "translation": "cactus plants", "note": "kaktus (cactus) + pflanzen (plants); literal compound"}
+{"key": "kalimdorpokals", "word": "Kalimdorpokals", "translation": "Kalimdor Cup", "note": "proper noun; tournament or event name"}
+{"key": "kalirimännchen", "word": "Kalirimännchen", "translation": "Kaliri male", "note": "kaliri (flying mount type) + männchen (male); creature descriptor"}
+{"key": "kaltgewaschene", "word": "Kaltgewaschene", "translation": "cold-washed", "note": "adjective form; kalt (cold) + gewaschene (washed); descriptive for item name"}
+{"key": "kalzifiziertes", "word": "Kalzifiziertes", "translation": "calcified", "note": "verben form of calcify; descriptive prefix for items"}
+{"key": "kampfattrappen", "word": "Kampfattrappen", "translation": "training dummies", "note": "kampf (combat) + attrappen (dummies); practice equipment"}
+{"key": "kampfaufklärer", "word": "Kampfaufklärer", "translation": "combat scout", "note": "kampf (combat) + aufklärer (scout); reconnaissance units"}
+{"key": "kampferfahrene", "word": "kampferfahrene", "translation": "battle-hardened", "note": "kampf (combat) + erfahrene (experienced); veteran quality"}
+{"key": "kampfesfreunde", "word": "Kampfesfreunde", "translation": "battle buddies", "note": "kampfes (combat) + freunde (friends); companions in arms"}
+{"key": "kampfeshungrig", "word": "kampfeshungrig", "translation": "battle-hungry", "note": "kampfes (combat) + hungrig (hungry); eager for combat"}
+{"key": "kampfgarderobe", "word": "Kampfgarderobe", "translation": "battle outfit", "note": "kampf (combat) + garderobe (wardrobe); combat equipment"}
+{"key": "kampfgefährten", "word": "Kampfgefährten", "translation": "battle companions", "note": "kampf (combat) + gefährten (companions); fighting allies"}
+{"key": "kampfmaschinen", "word": "Kampfmaschinen", "translation": "war machines", "note": "kampf (combat) + maschinen (machines); mechanical war vehicles"}
+{"key": "kampfschwimmer", "word": "Kampfschwimmer", "translation": "combat swimmer", "note": "kampf (combat) + schwimmer (swimmer); aquatic warriors"}
+{"key": "kampfstärksten", "word": "kampfstärksten", "translation": "strongest warriors", "note": "kampf (combat) + stärksten (strongest); superlative form"}
+{"key": "kampftauchboot", "word": "Kampftauchboot", "translation": "combat submarine", "note": "kampf (combat) + tauch (dive) + boot (boat); vessel"}
+{"key": "kampftüchtiger", "word": "kampftüchtiger", "translation": "more combat-ready", "note": "kampf (combat) + tüchtiger (capable); comparative form"}
+{"key": "kanalerkundung", "word": "Kanalerkundung", "translation": "canal exploration", "note": "kanal (canal) + erkundung (exploration); mission name"}
+{"key": "kanonengestell", "word": "Kanonengestell", "translation": "cannon mount", "note": "kanonen (cannon) + gestell (frame/stand); gun installation"}
+{"key": "kanonierführer", "word": "Kanonierführer", "translation": "gunner leader", "note": "kanoniers (gunner) + führer (leader); command role"}
+{"key": "karrenladungen", "word": "Karrenladungen", "translation": "cart loads", "note": "karren (cart) + ladungen (loads); plural quantity"}
+{"key": "kartellfamilie", "word": "Kartellfamilie", "translation": "cartel family", "note": "kartell (cartel) + familie (family); crime family"}
+{"key": "kartografieren", "word": "kartografieren", "translation": "to map", "note": "cartography verb; document territory"}
+{"key": "katastrophalen", "word": "katastrophalen", "translation": "catastrophic", "note": "adjective form; disaster-level"}
+{"key": "katastrophaler", "word": "katastrophaler", "translation": "more catastrophic", "note": "comparative form; increasing disaster"}
+{"key": "keinesgleichen", "word": "keinesgleichen", "translation": "peerless", "note": "literally 'of-no-equal'; archaic for unique or unmatched"}
+{"key": "kellerbewohner", "word": "Kellerbewohner", "translation": "cellar dweller", "note": "keller (cellar) + bewohner (dweller); underground inhabitant"}
+{"key": "kennenzulern'n", "word": "kennenzulern'n", "translation": "to get to know", "note": "kennenzulernen in dialect; informal/colloquial greeting"}
+{"key": "kernabkopplung", "word": "Kernabkopplung", "translation": "core decoupling", "note": "kern (core) + abkopplung (disconnection); technical term"}
+{"key": "kernhundwelpen", "word": "Kernhundwelpen", "translation": "core hound pups", "note": "kern (core) + hund (hound) + welpen (puppies); demon creatures"}
+{"key": "kernkomponente", "word": "Kernkomponente", "translation": "core component", "note": "kern (core) + komponente (component); essential part"}
+{"key": "kieferspaltung", "word": "Kieferspaltung", "translation": "jaw splitting", "note": "kiefer (jaw) + spaltung (splitting); literal or ability name"}
+{"key": "kiesfressenden", "word": "kiesfressenden", "translation": "gravel-eating", "note": "kies (gravel) + fressenden (eating); descriptive of creatures/dwarves"}
+{"key": "killerinstinkt", "word": "Killerinstinkt", "translation": "killer instinct", "note": "killer (killer) + instinkt (instinct); aggressive nature"}
+{"key": "kinkerlitzchen", "word": "Kinkerlitzchen", "translation": "trifle", "note": "diminutive; worthless thing; often used dismissively"}
+{"key": "klapperproblem", "word": "Klapperproblem", "translation": "clattering problem", "note": "klapper (rattle) + problem; mechanical noise issue"}
+{"key": "kleidungsstils", "word": "Kleidungsstils", "translation": "fashion sense", "note": "kleidungs (clothing) + stils (style); aesthetic awareness"}
+{"key": "klein-finduins", "word": "Klein-Finduins", "translation": "Little Finduins", "note": "proper noun; klein (little) + Finduins (NPC name)"}
+{"key": "kleinzukriegen", "word": "kleinzukriegen", "translation": "to subdue", "note": "klein (small/submissive) + zukriegen (to get); defeat or discourage"}
+{"key": "klempnerkräfte", "word": "Klempnerkräfte", "translation": "plumbers", "note": "klempner (plumber) + kräfte (workers/forces); labor type"}
+{"key": "klumpendingern", "word": "klumpendingern", "translation": "lumpy things", "note": "klumpen (lump) + dingern (thingies); awkward colloquial term"}
+{"key": "knochenanalyse", "word": "Knochenanalyse", "translation": "bone analysis", "note": "knochen (bone) + analyse (analysis); forensic study"}
+{"key": "knochenfiguren", "word": "Knochenfiguren", "translation": "bone sculptures", "note": "knochen (bone) + figuren (figures); carved artifacts"}
+{"key": "knochengerippe", "word": "Knochengerippe", "translation": "bone skeleton", "note": "knochen (bone) + gerippe (skeleton); remains"}
+{"key": "knochenhäutern", "word": "Knochenhäutern", "translation": "bone flayers", "note": "knochen (bone) + häutern (to skin); creature type"}
+{"key": "knochenkracher", "word": "Knochenkracher", "translation": "Bonecracker", "note": "proper noun; knochen (bone) + kracher (cracker); NPC or creature name"}
+{"key": "knochenmalmern", "word": "Knochenmalmern", "translation": "bone crushers", "note": "knochen (bone) + malmern (grinding); creatures that crush bone"}
+{"key": "knochenmännern", "word": "Knochenmännern", "translation": "bone men", "note": "knochen (bone) + männern (men); undead creatures"}
+{"key": "knochenspalter", "word": "Knochenspalter", "translation": "bone splitter", "note": "knochen (bone) + spalter (splitter); creature or weapon"}
+{"key": "knochentrocken", "word": "knochentrocken", "translation": "bone dry", "note": "knochen (bone) + trocken (dry); idiom for completely empty"}
+{"key": "knollenwurzeln", "word": "Knollenwurzeln", "translation": "tuber roots", "note": "knolle (tuber) + wurzeln (roots); plant type"}
+{"key": "knotdornbüsche", "word": "Knotdornbüsche", "translation": "knothorn bushes", "note": "knot (knot) + dorn (thorn) + büsche (bushes); flora"}
+{"key": "knusperfrösche", "word": "Knusperfrösche", "translation": "crunchy frogs", "note": "knusper (crispy) + frösche (frogs); food item"}
+{"key": "knuspereintopf", "word": "Knuspereintopf", "translation": "crispy stew", "note": "knusper (crispy) + eintopf (stew); dish name"}
+{"key": "kobaltkonvents", "word": "Kobaltkonvents", "translation": "Cobalt Convocation", "note": "proper noun; kobalt (cobalt) + konvent (convocation); organization"}
+{"key": "kochlehrlingen", "word": "Kochlehrlingen", "translation": "cooking apprentices", "note": "koch (cook) + lehrlingen (apprentices); trainees"}
+{"key": "kohleknappheit", "word": "Kohleknappheit", "translation": "coal shortage", "note": "kohle (coal) + knappheit (shortage); resource problem"}
+{"key": "koikoigeistern", "word": "Koikoigeistern", "translation": "Koikoi spirits", "note": "proper noun; spirit type name; not translated"}
+{"key": "kollisionskurs", "word": "Kollisionskurs", "translation": "collision course", "note": "kollisions (collision) + kurs (course); heading toward impact"}
+{"key": "kommunizierten", "word": "kommunizierten", "translation": "communicated", "note": "verb form; past tense of communicate"}
+{"key": "kompromisslose", "word": "Kompromisslose", "translation": "uncompromising", "note": "kompromiss (compromise) + lose (without); adjective"}
+{"key": "konditionieren", "word": "konditionieren", "translation": "to condition", "note": "verb; to train or prepare"}
+{"key": "konfliktreiche", "word": "konfliktreiche", "translation": "conflict-ridden", "note": "konflikt (conflict) + reiche (rich/full); adjective"}
+{"key": "konstrukteurin", "word": "Konstrukteurin", "translation": "designer", "note": "konstrukt (construct) + eurin (female agent); feminine form"}
+{"key": "konstruktteile", "word": "Konstruktteile", "translation": "construct parts", "note": "konstrukt (construct) + teile (parts); components"}
+{"key": "kontaminierung", "word": "Kontaminierung", "translation": "contamination", "note": "from latin contamináre; pollution or corruption"}
+{"key": "kontrollierbar", "word": "kontrollierbar", "translation": "controllable", "note": "kontroll- (control) + -ierbar (able to be); manageable"}
+{"key": "kontrolliertes", "word": "kontrolliertes", "translation": "controlled", "note": "adjective; restrained or regulated"}
+{"key": "kontrollierter", "word": "Kontrollierter", "translation": "controlled demolition", "note": "controlled + demolition; adjective + noun compound"}
+{"key": "kontrollkugeln", "word": "Kontrollkugeln", "translation": "control spheres", "note": "kontroll (control) + kugeln (spheres); magical items"}
+{"key": "kontrollwütige", "word": "kontrollwütige", "translation": "control-obsessed", "note": "kontroll (control) + wütige (manic); power-hungry quality"}
+{"key": "konzentriertem", "word": "konzentriertem", "translation": "concentrated", "note": "adjective form; focused or intense"}
+{"key": "kopfverletzung", "word": "Kopfverletzung", "translation": "head injury", "note": "kopf (head) + verletzung (injury); trauma"}
+{"key": "korthianisches", "word": "korthianisches", "translation": "Korthian", "note": "proper adjective; related to Korthia"}
+{"key": "kostümwechsels", "word": "Kostümwechsels", "translation": "quick change", "note": "kostüm (costume) + wechsels (change); magic trick or title"}
+{"key": "krabb'nfleisch", "word": "Krabb'nfleisch", "translation": "crab meat", "note": "krabb (crab, dialect) + fleisch (meat); food"}
+{"key": "krabbenfischen", "word": "Krabbenfischen", "translation": "crab fishing", "note": "krabben (crabs) + fischen (fishing); activity"}
+{"key": "krabbenfühlung", "word": "Krabbenfühlung", "translation": "crab feelers", "note": "krabben (crabs) + fühlung (feelers/contact); quest name"}
+{"key": "krabbenhüterin", "word": "Krabbenhüterin", "translation": "crab keeper", "note": "krabben (crabs) + hüterin (female keeper); role"}
+{"key": "krabbenproblem", "word": "Krabbenproblem", "translation": "crab problem", "note": "krabben (crabs) + problem; pest or issue"}
+{"key": "kraftraubendes", "word": "kraftraubendes", "translation": "draining", "note": "kraft (strength) + raubendes (robbing); exhausting quality"}
+{"key": "krallenkrawall", "word": "Krallenkrawall", "translation": "claw riot", "note": "krallen (claws) + krawall (riot); combat or chaos"}
+{"key": "krankenstation", "word": "Krankenstation", "translation": "infirmary", "note": "kranken (sick) + station (station); medical facility"}
+{"key": "kriecherisches", "word": "kriecherisches", "translation": "servile", "note": "from kriechen (to crawl); obsequious or subservient"}
+{"key": "kriegsandenken", "word": "Kriegsandenken", "translation": "war souvenirs", "note": "kriegs (war) + andenken (souvenirs); memorabilia"}
+{"key": "kriegsanleihen", "word": "Kriegsanleihen", "translation": "war bonds", "note": "kriegs (war) + anleihen (bonds); financing mechanism"}
+{"key": "kriegsgaleonen", "word": "Kriegsgaleonen", "translation": "war galleons", "note": "kriegs (war) + galeonen (galleons); warships"}
+{"key": "kriegsgeschrei", "word": "Kriegsgeschrei", "translation": "war cry", "note": "kriegs (war) + geschrei (cry); battle shout"}
+{"key": "kriegshandlung", "word": "Kriegshandlung", "translation": "act of war", "note": "kriegs (war) + handlung (action); hostile act"}
+{"key": "kriegsmaterial", "word": "Kriegsmaterial", "translation": "war material", "note": "kriegs (war) + material (material); supplies and weapons"}
+{"key": "kriegsmächtige", "word": "Kriegsmächtige", "translation": "war mighty", "note": "kriegs (war) + mächtige (mighty); powerful in battle"}
+{"key": "kriegsprototyp", "word": "Kriegsprototyp", "translation": "war prototype", "note": "kriegs (war) + prototyp (prototype); experimental weapon"}
+{"key": "kriegsschreien", "word": "Kriegsschreien", "translation": "war cries", "note": "kriegs (war) + schreien (cries); battle shouts"}
+{"key": "kriegsschweine", "word": "Kriegsschweine", "translation": "war pigs", "note": "kriegs (war) + schweine (pigs); beast of burden or weapon"}
+{"key": "kriegstrommler", "word": "Kriegstrommler", "translation": "war drummer", "note": "kriegs (war) + trommler (drummer); signaler"}
+{"key": "kroluskfleisch", "word": "Kroluskfleisch", "translation": "krolusk meat", "note": "proper noun + fleisch (meat); exotic meat"}
+{"key": "kräftespektrum", "word": "Kräftespektrum", "translation": "spectrum of forces", "note": "kräfte (forces) + spektrum (spectrum); range of power"}
+{"key": "krähenfütterin", "word": "Krähenfütterin", "translation": "crow feeder", "note": "krähen (crows) + fütterin (female feeder); eccentric character"}
+{"key": "kräuterkundler", "word": "Kräuterkundler", "translation": "herbalist", "note": "kräuter (herbs) + kundler (expert); specialist"}
+{"key": "kräutersammeln", "word": "Kräutersammeln", "translation": "herb gathering", "note": "kräuter (herbs) + sammeln (gather); activity"}
+{"key": "kultistenfeste", "word": "Kultistenfeste", "translation": "cultist festivals", "note": "kultisten (cultists) + feste (festivals); gatherings"}
+{"key": "kultistenroben", "word": "Kultistenroben", "translation": "cultist robes", "note": "kultisten (cultists) + roben (robes); garments"}
+{"key": "kummergeplagte", "word": "kummergeplagte", "translation": "grief-stricken", "note": "kummer (sorrow) + geplagte (tormented); adjective"}
+{"key": "kunchonggruben", "word": "Kunchonggruben", "translation": "Kunchong Pits", "note": "proper noun; kunchong (mantis creature) + gruben (pits)"}
+{"key": "kursbestimmung", "word": "Kursbestimmung", "translation": "course plotting", "note": "kurs (course) + bestimmung (determination); navigation"}
+{"key": "kurzangebunden", "word": "kurzangebunden", "translation": "curt", "note": "kurz (short) + angebunden (tethered); brusque or blunt"}
+{"key": "kutschenfahrer", "word": "Kutschenfahrer", "translation": "carriage driver", "note": "kutsche (carriage) + fahrer (driver); transport worker"}
+{"key": "kvaldirbrüdern", "word": "Kvaldirbrüdern", "translation": "Kvaldir brothers", "note": "proper noun; kvaldir (creature type) + brüdern (brothers)"}
+{"key": "kyrianerseelen", "word": "Kyrianerseelen", "translation": "Kyrian souls", "note": "proper noun; kyrianer (Kyrian) + seelen (souls)"}
+{"key": "königinnenopal", "word": "Königinnenopal", "translation": "queen opal", "note": "königinne (queen) + opal (opal); gemstone"}
+{"key": "küchenabfällen", "word": "Küchenabfällen", "translation": "kitchen scraps", "note": "küche (kitchen) + abfällen (waste); leftovers"}
+{"key": "künstlerischer", "word": "künstlerischer", "translation": "artistic", "note": "künstler (artist) + -ischer (adjectival); creative quality"}
+{"key": "künstlerfreund", "word": "Künstlerfreund", "translation": "artist friend", "note": "künstler (artist) + freund (friend); companion with artistic bent"}
+{"key": "küstenstreifen", "word": "Küstenstreifen", "translation": "coastal strip", "note": ""}
+{"key": "küstenstreifer", "word": "Küstenstreifer", "translation": "coastal stripers", "note": ""}
+{"key": "lakaiendienste", "word": "Lakaiendienste", "translation": "lackey services", "note": "lakaie = servant/lackey"}
+{"key": "lampenmaterial", "word": "Lampenmaterial", "translation": "Lamp material", "note": ""}
+{"key": "landbeberkodos", "word": "Landbeberkodos", "translation": "Landbeaver Kodoes", "note": "creature name; beeber + kodos"}
+{"key": "landendestrand", "word": "Landendestrand", "translation": "Landing Beach", "note": "proper location"}
+{"key": "landstreichern", "word": "Landstreichern", "translation": "vagrants", "note": "landstreicher = vagrant/hobo"}
+{"key": "landungsbooten", "word": "Landungsbooten", "translation": "landing craft", "note": ""}
+{"key": "landverbindung", "word": "Landverbindung", "translation": "land route", "note": "verbindung = connection/route"}
+{"key": "lariongefieder", "word": "Lariongefieder", "translation": "Larion plumage", "note": "gefieder = plumage"}
+{"key": "larionschwinge", "word": "Larionschwinge", "translation": "Larion wing", "note": "singular form"}
+{"key": "lashhverstecks", "word": "Lashhverstecks", "translation": "Lash's hiding place", "note": "versteck = hideout"}
+{"key": "laufkundschaft", "word": "Laufkundschaft", "translation": "Walk-in customers", "note": ""}
+{"key": "lavafischnetze", "word": "Lavafischnetze", "translation": "Lava fish nets", "note": ""}
+{"key": "lebensberufung", "word": "Lebensberufung", "translation": "life calling", "note": "berufung = calling/vocation"}
+{"key": "lebensessenzen", "word": "Lebensessenzen", "translation": "Life essences", "note": ""}
+{"key": "lebensgewölbes", "word": "Lebensgewölbes", "translation": "vault of life", "note": ""}
+{"key": "lebensqualität", "word": "Lebensqualität", "translation": "Quality of life", "note": ""}
+{"key": "lebensumstände", "word": "Lebensumstände", "translation": "living conditions", "note": ""}
+{"key": "leerenabschaum", "word": "Leerenabschaum", "translation": "void scum", "note": "WoW term: leeren + abschaum"}
+{"key": "leerenbarriere", "word": "Leerenbarriere", "translation": "Void barrier", "note": ""}
+{"key": "leerenschwinge", "word": "Leerenschwinge", "translation": "Voidwing", "note": "capitalized creature name"}
+{"key": "leerensplitter", "word": "Leerensplitter", "translation": "Void Shard", "note": "capitalized item"}
+{"key": "leerzuschürfen", "word": "leerzuschürfen", "translation": "to mine empty", "note": ""}
+{"key": "legionsschiffs", "word": "Legionsschiffs", "translation": "Legion ship", "note": ""}
+{"key": "legionssklaven", "word": "Legionssklaven", "translation": "Legion slaves", "note": ""}
+{"key": "leichensammeln", "word": "Leichensammeln", "translation": "collect corpses", "note": "infinitive, lowercase"}
+{"key": "leichentüchern", "word": "Leichentüchern", "translation": "shrouds", "note": ""}
+{"key": "leichtfertiger", "word": "leichtfertiger", "translation": "reckless", "note": "leichtfertig = reckless"}
+{"key": "leichtgefallen", "word": "leichtgefallen", "translation": "came easily", "note": "leichtfallen = come easily"}
+{"key": "leichtgläubige", "word": "leichtgläubige", "translation": "gullible", "note": ""}
+{"key": "leichtsinnigen", "word": "leichtsinnigen", "translation": "reckless ones", "note": "leichtsinn = recklessness"}
+{"key": "leichtsinniges", "word": "Leichtsinniges", "translation": "reckless thing", "note": "neuter adjective"}
+{"key": "leistungsfähig", "word": "leistungsfähig", "translation": "powerful", "note": ""}
+{"key": "letztendlichen", "word": "letztendlichen", "translation": "final", "note": "letztendlich = ultimately"}
+{"key": "letztendliches", "word": "letztendliches", "translation": "final", "note": "neuter nominative"}
+{"key": "letztgenanntem", "word": "letztgenanntem", "translation": "the latter", "note": "dative masculine"}
+{"key": "leyflammenraub", "word": "Leyflammenraub", "translation": "Leyflame Theft", "note": "quest title; raub = theft"}
+{"key": "lichmarkgräfin", "word": "Lichmarkgräfin", "translation": "Lichmark Countess", "note": ""}
+{"key": "liebenswürdige", "word": "liebenswürdige", "translation": "lovely ones", "note": ""}
+{"key": "lieblingshacke", "word": "Lieblingshacke", "translation": "Favorite hoe", "note": ""}
+{"key": "lieblingskarte", "word": "Lieblingskarte", "translation": "Favorite card", "note": ""}
+{"key": "lieblingsköder", "word": "Lieblingsköder", "translation": "Favorite bait", "note": ""}
+{"key": "lieblingspferd", "word": "Lieblingspferd", "translation": "Favorite horse", "note": ""}
+{"key": "lieblingsplatz", "word": "Lieblingsplatz", "translation": "Favorite place", "note": ""}
+{"key": "lieblingspuppe", "word": "Lieblingspuppe", "translation": "Favorite doll", "note": ""}
+{"key": "lieferzeitplan", "word": "Lieferzeitplan", "translation": "Delivery schedule", "note": ""}
+{"key": "liegengelass'n", "word": "liegengelass'n", "translation": "left to die", "note": "liegenlassen = abandon"}
+{"key": "linguistischen", "word": "linguistischen", "translation": "linguistic", "note": ""}
+{"key": "liquidierungen", "word": "Liquidierungen", "translation": "eliminations", "note": "liquidation = removal"}
+{"key": "loafestschmaus", "word": "Loafestschmaus", "translation": "Loafest Feast", "note": "proper name; schmaus = feast"}
+{"key": "logbucheintrag", "word": "Logbucheintrag", "translation": "Logbook entry", "note": ""}
+{"key": "losmarschieren", "word": "losmarschieren", "translation": "march off", "note": ""}
+{"key": "losmarschier'n", "word": "losmarschier'n", "translation": "march off", "note": "dialect form"}
+{"key": "luftpatrouille", "word": "Luftpatrouille", "translation": "Air patrol", "note": ""}
+{"key": "luftschiffchen", "word": "Luftschiffchen", "translation": "airship", "note": "-chen = diminutive"}
+{"key": "längerfristige", "word": "längerfristige", "translation": "longer term", "note": ""}
+{"key": "machtgeschenke", "word": "Machtgeschenke", "translation": "Gifts of power", "note": ""}
+{"key": "machtgetränkte", "word": "machtgetränkte", "translation": "imbued with power", "note": ""}
+{"key": "machthungrigen", "word": "machthungrigen", "translation": "power hungry", "note": ""}
+{"key": "madenungeheuer", "word": "Madenungeheuer", "translation": "Maggot Monstrosity", "note": "ungeheuer = monstrosity"}
+{"key": "mag'hargeneral", "word": "Mag'hargeneral", "translation": "Mag'har general", "note": "WoW race name"}
+{"key": "magenschmerzen", "word": "Magenschmerzen", "translation": "Stomach pain", "note": ""}
+{"key": "magmamonarchen", "word": "Magmamonarchen", "translation": "Magma Monarchs", "note": ""}
+{"key": "magmazerstörer", "word": "Magmazerstörer", "translation": "Magma Destroyer", "note": ""}
+{"key": "magnaroneinöde", "word": "Magnaroneinöde", "translation": "Magnaron Waste", "note": ""}
+{"key": "maldraxxibaron", "word": "Maldraxxibaron", "translation": "Maldraxxus Baron", "note": "Maldraxxus is WoW realm"}
+{"key": "mammutschulden", "word": "Mammutschulden", "translation": "massive debts", "note": "mammut = huge"}
+{"key": "manaversetzten", "word": "manaversetzten", "translation": "mana-infused", "note": ""}
+{"key": "manipulationen", "word": "Manipulationen", "translation": "Manipulations", "note": ""}
+{"key": "mannigfaltigen", "word": "mannigfaltigen", "translation": "diverse", "note": "mannigfaltig = manifold"}
+{"key": "mantis-schwarm", "word": "Mantis-Schwarm", "translation": "Mantis swarm", "note": ""}
+{"key": "mantismethodik", "word": "Mantismethodik", "translation": "Mantis methodology", "note": ""}
+{"key": "mantismeucheln", "word": "Mantismeucheln", "translation": "Mantid assassination", "note": "meucheln = assassination"}
+{"key": "mantisschwärme", "word": "Mantisschwärme", "translation": "Mantid swarms", "note": ""}
+{"key": "marinekommando", "word": "Marinekommando", "translation": "Naval Command", "note": ""}
+{"key": "marktforschung", "word": "Marktforschung", "translation": "Market research", "note": ""}
+{"key": "marktschreiern", "word": "Marktschreiern", "translation": "barkers", "note": "marktschreier = barker"}
+{"key": "marschenbeeren", "word": "Marschenbeeren", "translation": "Marsh berries", "note": ""}
+{"key": "marschengebiet", "word": "Marschengebiet", "translation": "marsh region", "note": "gebiet = area"}
+{"key": "marschierenden", "word": "marschierenden", "translation": "marching", "note": ""}
+{"key": "materialvorrat", "word": "Materialvorrat", "translation": "material supply", "note": "vorrat = supply"}
+{"key": "mechanischerem", "word": "mechanischerem", "translation": "more mechanical", "note": ""}
+{"key": "mechanisierung", "word": "Mechanisierung", "translation": "mechanization", "note": ""}
+{"key": "mechanopanzern", "word": "Mechanopanzern", "translation": "Mechano-tanks", "note": "panzer = tank"}
+{"key": "medizindöschen", "word": "Medizindöschen", "translation": "Medicine jars", "note": ""}
+{"key": "medizinspender", "word": "Medizinspender", "translation": "Medicine dispenser", "note": ""}
+{"key": "meeresschreins", "word": "Meeresschreins", "translation": "sea shrine", "note": "schrein = shrine"}
+{"key": "meistbesuchten", "word": "meistbesuchten", "translation": "most visited", "note": ""}
+{"key": "merkantilismus", "word": "Merkantilismus", "translation": "mercantilism", "note": ""}
+{"key": "messerdornpfad", "word": "Messerdornpfad", "translation": "Razor Thorn Path", "note": "proper location"}
+{"key": "messerscharfen", "word": "messerscharfen", "translation": "razor-sharp", "note": "messerscharf = knife-sharp"}
+{"key": "messingkompass", "word": "Messingkompass", "translation": "Brass compass", "note": ""}
+{"key": "meuchelschurke", "word": "Meuchelschurke", "translation": "assassin rogue", "note": "meucheln = assassination"}
+{"key": "meutereimacher", "word": "Meutereimacher", "translation": "mutiny-maker", "note": "meuterei = mutiny"}
+{"key": "mikrozahnräder", "word": "Mikrozahnräder", "translation": "Micro gears", "note": ""}
+{"key": "mildenhallmets", "word": "Mildenhallmets", "translation": "Mildenhall Mead", "note": "met = mead"}
+{"key": "militärapparat", "word": "Militärapparat", "translation": "Military apparatus", "note": ""}
+{"key": "militärbefehle", "word": "Militärbefehle", "translation": "Military orders", "note": ""}
+{"key": "militärkomplex", "word": "Militärkomplex", "translation": "Military complex", "note": ""}
+{"key": "militärpräsenz", "word": "Militärpräsenz", "translation": "Military presence", "note": ""}
+{"key": "milizeinheiten", "word": "Milizeinheiten", "translation": "Militia units", "note": ""}
+{"key": "minderwertigen", "word": "minderwertigen", "translation": "inferior", "note": ""}
+{"key": "minderwertigem", "word": "minderwertigem", "translation": "inferior", "note": "dative form"}
+{"key": "minderwertiger", "word": "minderwertiger", "translation": "inferior", "note": ""}
+{"key": "missgebildeten", "word": "missgebildeten", "translation": "malformed", "note": "missgebildet = deformed"}
+{"key": "missverstanden", "word": "missverstanden", "translation": "misunderstood", "note": ""}
+{"key": "mithrilgehäuse", "word": "Mithrilgehäuse", "translation": "Mithril casing", "note": ""}
+{"key": "mittelsmännern", "word": "Mittelsmännern", "translation": "middlemen", "note": ""}
+{"key": "mittlerfreunde", "word": "Mittlerfreunde", "translation": "intermediary allies", "note": "mittler = intermediary"}
+{"key": "modegeschichte", "word": "Modegeschichte", "translation": "Fashion history", "note": ""}
+{"key": "modehistoriker", "word": "Modehistoriker", "translation": "Fashion historian", "note": ""}
+{"key": "mogubeschwörer", "word": "Mogubeschwörer", "translation": "Mogu Summoner", "note": ""}
+{"key": "mogusichtungen", "word": "Mogusichtungen", "translation": "Mogu sightings", "note": ""}
+{"key": "moguverbündete", "word": "Moguverbündete", "translation": "Mogu allies", "note": ""}
+{"key": "mojofläschchen", "word": "Mojofläschchen", "translation": "Mojo bottle", "note": ""}
+{"key": "mondfangwappen", "word": "Mondfangwappen", "translation": "Moonfang Crest", "note": "wappen = crest"}
+{"key": "monstervehikel", "word": "Monstervehikel", "translation": "Monster vehicle", "note": ""}
+{"key": "mooshufhirsche", "word": "Mooshufhirsche", "translation": "Mosshoof Deer", "note": "proper name"}
+{"key": "moosproduktion", "word": "Moosproduktion", "translation": "Moss production", "note": ""}
+{"key": "morastkriecher", "word": "Morastkriecher", "translation": "Swamp Creeper", "note": "morastkriecher = mire creeper"}
+{"key": "morastschnauze", "word": "Morastschnauze", "translation": "Swampsnout", "note": "creature name"}
+{"key": "morgenpirscher", "word": "Morgenpirscher", "translation": "Morning Stalker", "note": "pirscher = stalker"}
+{"key": "moschushirsche", "word": "Moschushirsche", "translation": "Musk deer", "note": ""}
+{"key": "mottenhalterin", "word": "Mottenhalterin", "translation": "Moth keeper", "note": ""}
+{"key": "munitionshütte", "word": "Munitionshütte", "translation": "Ammunition hut", "note": ""}
+{"key": "murlocpartikel", "word": "Murlocpartikel", "translation": "Murloc particles", "note": ""}
+{"key": "murlocwahnsinn", "word": "Murlocwahnsinn", "translation": "Murloc madness", "note": ""}
+{"key": "muschelgründen", "word": "Muschelgründen", "translation": "shellfish grounds", "note": ""}
+{"key": "mushan-fleisch", "word": "Mushan-Fleisch", "translation": "Mushan meat", "note": ""}
+{"key": "muskelbepackte", "word": "muskelbepackte", "translation": "muscle-bound", "note": ""}
+{"key": "musterbeispiel", "word": "Musterbeispiel", "translation": "exemplar", "note": "musterbeispiel = paragon"}
+{"key": "mustergültiger", "word": "mustergültiger", "translation": "more exemplary", "note": ""}
+{"key": "mystikertotems", "word": "Mystikertotems", "translation": "Mystic totems", "note": ""}
+{"key": "mörsermunition", "word": "Mörsermunition", "translation": "Mortar ammunition", "note": ""}
+{"key": "mörsergranaten", "word": "Mörsergranaten", "translation": "Mortar shells", "note": ""}
+{"key": "mörserschützen", "word": "Mörserschützen", "translation": "Mortar gunners", "note": ""}
+{"key": "müllentsorgung", "word": "Müllentsorgung", "translation": "Garbage disposal", "note": ""}
+{"key": "nachhaltigeren", "word": "nachhaltigeren", "translation": "more sustainable", "note": ""}
+{"key": "nachkolorieren", "word": "nachkolorieren", "translation": "recolor", "note": ""}
+{"key": "nachmittagstee", "word": "Nachmittagstee", "translation": "afternoon tea", "note": ""}
+{"key": "nagafachwissen", "word": "Nagafachwissen", "translation": "Naga expertise", "note": "fachwissen = expertise"}
+{"key": "nagapopulation", "word": "Nagapopulation", "translation": "Naga population", "note": ""}
+{"key": "nahkampfwaffen", "word": "Nahkampfwaffen", "translation": "Melee weapons", "note": ""}
+{"key": "nahrhaftigkeit", "word": "Nahrhaftigkeit", "translation": "nutritional value", "note": "nahrhaftigkeit = nutrition"}
+{"key": "nahrungsmangel", "word": "Nahrungsmangel", "translation": "food shortage", "note": "mangel = shortage"}
+{"key": "nahrungsstreit", "word": "Nahrungsstreit", "translation": "food conflict", "note": "streit = conflict"}
+{"key": "nahrungssucher", "word": "Nahrungssucher", "translation": "Forager", "note": ""}
+{"key": "narrensicherer", "word": "narrensicherer", "translation": "foolproof", "note": "narrensicher = foolproof"}
+{"key": "naturalisierte", "word": "naturalisierte", "translation": "naturalized", "note": ""}
+{"key": "nebelkreaturen", "word": "Nebelkreaturen", "translation": "mist creatures", "note": "fog/mist that takes animal form; creatures of the Mist"}
+{"key": "nekropolenklau", "word": "Nekropolenklau", "translation": "Necropolis Claw", "note": "talon or claw from a necropolis; undead creature part"}
+{"key": "nektarflaschen", "word": "Nektarflaschen", "translation": "nectar flasks", "note": "containers of nectar; the sweet fluid of flowers or gods"}
+{"key": "nephritamulett", "word": "Nephritamulett", "translation": "jade amulet", "note": "nephrite is a type of jade; protective charms"}
+{"key": "netherpirscher", "word": "Netherpirscher", "translation": "netherstalker", "note": "nether + stalker; creatures that hunt in the Nether"}
+{"key": "netherwandlers", "word": "Netherwandlers", "translation": "Netherwandler", "note": "one who wanders the Nether, an alternate dimension"}
+{"key": "neuerschaffung", "word": "Neuerschaffung", "translation": "rebirth; re-creation", "note": "neu (new) + erschaffung (creation); making anew"}
+{"key": "neugemeisselten", "word": "neugemeißelten", "translation": "newly chiseled", "note": "freshly carved or cut; recently shaped by tools"}
+{"key": "neugeschmiedet", "word": "Neugeschmiedet", "translation": "reforged", "note": "newly smithed or forged; remade in a forge"}
+{"key": "neuherdweilers", "word": "Neuherdweilers", "translation": "Neuherdweiler's", "note": "proper name or title; possessive form"}
+{"key": "neunundneunzig", "word": "neunundneunzig", "translation": "ninety-nine", "note": "literal number; compound of nine and ninety"}
+{"key": "neuverkabelung", "word": "Neuverkabelung", "translation": "rewiring", "note": "installation of new electrical cables or connections"}
+{"key": "nicht-menschen", "word": "Nicht-Menschen", "translation": "non-humans", "note": "nicht (not) + menschen (humans); other races and species"}
+{"key": "nichtinvasiven", "word": "nichtinvasiven", "translation": "non-invasive", "note": "medical term; without cutting or intrusion"}
+{"key": "niedergelass'n", "word": "niedergelass'n", "translation": "settled down; taken up residence", "note": "colloquial form; niedergelassen means to establish oneself"}
+{"key": "niedergerissen", "word": "niedergerissen", "translation": "torn down; toppled", "note": "destroyed by force; brought low"}
+{"key": "niederprasseln", "word": "niederprasseln", "translation": "rain down on", "note": "prasseln (to patter); to fall like heavy rain"}
+{"key": "niederrangigen", "word": "niederrangigen", "translation": "lower-ranking", "note": "of lesser rank or status; subordinate"}
+{"key": "niederschreibt", "word": "niederschreibt", "translation": "writes down; records", "note": "to document or inscribe in writing"}
+{"key": "niederstreck'n", "word": "niederstreck'n", "translation": "lay low; strike down", "note": "colloquial; to knock someone down or disable"}
+{"key": "niedertrampeln", "word": "niedertrampeln", "translation": "trample down", "note": "to crush underfoot; stomp repeatedly"}
+{"key": "niedertrampelt", "word": "niedertrampelt", "translation": "trampled down; crushed", "note": "past tense of trampling or stomping"}
+{"key": "niederzuwerfen", "word": "niederzuwerfen", "translation": "throw down; defeat", "note": "to topple or overcome by force"}
+{"key": "niffenbanditen", "word": "Niffenbanditen", "translation": "Niffen bandits", "note": "Niffen are a WoW race; thieves from their culture"}
+{"key": "niffensiedlung", "word": "Niffensiedlung", "translation": "Niffen settlement", "note": "niffen + siedlung (settlement); community of Niffen"}
+{"key": "nordendfeldzug", "word": "Nordendfeldzug", "translation": "Northrend campaign", "note": "nord (north) + ende + feldzug (campaign); war in Northrend"}
+{"key": "nordwestkanäle", "word": "Nordwestkanäle", "translation": "northwest channels", "note": "waterways or passages to the northwest"}
+{"key": "nordwestlich'n", "word": "nordwestlich'n", "translation": "northwest", "note": "colloquial form of nordwestlich; directional term"}
+{"key": "notfallflasche", "word": "Notfallflasche", "translation": "emergency flask; emergency vial", "note": "not (emergency) + flasche (bottle); backup container"}
+{"key": "notratssitzung", "word": "Notratssitzung", "translation": "emergency council meeting", "note": "not + rat (council) + sitzung (meeting); crisis assembly"}
+{"key": "näherrückenden", "word": "näherrückenden", "translation": "approaching; drawing near", "note": "rücken (to move); things that come closer"}
+{"key": "obligatorische", "word": "Obligatorische", "translation": "mandatory; required", "note": "from Latin obligare; something one must do"}
+{"key": "offensivkonter", "word": "Offensivkonter", "translation": "offensive counterstrike", "note": "offensiv + konter; attacking rather than defensive"}
+{"key": "offiziersakten", "word": "Offiziersakten", "translation": "officer records; dossiers", "note": "official documents about military officers"}
+{"key": "ogerstützpunkt", "word": "Ogerstützpunkt", "translation": "ogre stronghold", "note": "oger + stützpunkt (base); fortified ogre position"}
+{"key": "ohrenbetäubend", "word": "ohrenbetäubend", "translation": "deafening", "note": "ohren (ears) + betäubend (stunning); shockingly loud"}
+{"key": "oktopusfleisch", "word": "Oktopusfleisch", "translation": "octopus meat", "note": "food made from octopus; eaten in some cultures"}
+{"key": "on'tuq-mammuts", "word": "On'tuq-Mammuts", "translation": "On'tuq mammoths", "note": "On'tuq is a proper name; ancient woolly creatures"}
+{"key": "opferschriften", "word": "Opferschriften", "translation": "sacrificial texts; ritual writings", "note": "opfer (sacrifice) + schriften (writings)"}
+{"key": "opferzeremonie", "word": "Opferzeremonie", "translation": "sacrifice ceremony; ritual", "note": "opfer (sacrifice) + zeremonie (ceremony)"}
+{"key": "ordensanführer", "word": "Ordensanführer", "translation": "order commander; order leader", "note": "orden (order/mission) + anführer (leader)"}
+{"key": "ordnungsgemässe", "word": "Ordnungsgemäße", "translation": "proper; formal introduction", "note": "ordnung (order) + gemäss (according to)"}
+{"key": "ordnungshütern", "word": "Ordnungshütern", "translation": "law enforcers; peace keepers", "note": "ordnung (order) + hüter (guardians)"}
+{"key": "paarungsbereit", "word": "paarungsbereit", "translation": "in heat; ready to breed", "note": "paarung (mating) + bereit (ready); biological state"}
+{"key": "paarungsgebiet", "word": "Paarungsgebiet", "translation": "breeding grounds", "note": "paarung (mating) + gebiet (territory); mating area"}
+{"key": "painitpartikel", "word": "Painitpartikel", "translation": "Painite particles", "note": "Painite is rare red crystal in WoW; mineral dust"}
+{"key": "pandaren-reich", "word": "Pandaren-Reich", "translation": "Pandaren realm", "note": "reich = realm/kingdom; territory of the Pandaren"}
+{"key": "pandarenkaiser", "word": "Pandarenkaiser", "translation": "Pandaren Emperor", "note": "Pandaren + Kaiser (emperor); ancient ruler of Pandaria"}
+{"key": "pandarenmönche", "word": "Pandarenmönche", "translation": "Pandaren monks", "note": "pandaren + mönche (monks); spiritual warriors of Pandaria"}
+{"key": "pandarenrezept", "word": "Pandarenrezept", "translation": "Pandaren recipe", "note": "ancient culinary tradition of the Pandaren people"}
+{"key": "pantherfährten", "word": "Pantherfährten", "translation": "panther tracks", "note": "panther + fährten (tracks); spoor left by big cats"}
+{"key": "panzerfragment", "word": "Panzerfragment", "translation": "armor fragment", "note": "panzer (armor) + fragment; piece of broken plating"}
+{"key": "panzerungsteil", "word": "Panzerungsteil", "translation": "armor plate", "note": "panzerung (armor) + teil (part); protective metal piece"}
+{"key": "paraphernalien", "word": "Paraphernalien", "translation": "paraphernalia", "note": "gear, equipment, or miscellaneous possessions"}
+{"key": "passenderweise", "word": "passenderweise", "translation": "fittingly; appropriately", "note": "passend (fitting) + weise (manner); suitably"}
+{"key": "pazifistischen", "word": "pazifistischen", "translation": "pacifist", "note": "from Latin; one who opposes war and violence"}
+{"key": "peitschenknall", "word": "Peitschenknall", "translation": "Whipcrack", "note": "peitsche (whip) + knall (crack); sharp sound of whip"}
+{"key": "peitschenranke", "word": "Peitschenranke", "translation": "whipvine", "note": "plant with whip-like tendrils; creature type in WoW"}
+{"key": "peitscherwedel", "word": "Peitscherwedel", "translation": "whiptail", "note": "peitsche (whip) + wedel (tail); creature with lashing tail"}
+{"key": "perfektioniere", "word": "perfektioniere", "translation": "perfect; refine", "note": "to make perfect or bring to high quality"}
+{"key": "personenporter", "word": "Personenporter", "translation": "people porter", "note": "person + porter; device to transport individuals"}
+{"key": "persönlicheres", "word": "persönlicheres", "translation": "something more personal", "note": "personal + -eres (comparative); private matter"}
+{"key": "pesthauchprobe", "word": "Pesthauchprobe", "translation": "blight sample", "note": "pest (plague) + hauch (breath) + probe (sample)"}
+{"key": "pfannengericht", "word": "Pfannengericht", "translation": "stir-fry; pan dish", "note": "pfanne (pan) + gericht (dish); cooked in one pan"}
+{"key": "pfauenpigmente", "word": "Pfauenpigmente", "translation": "peacock pigments", "note": "pfau (peacock) + pigmente; colorful substances"}
+{"key": "pfefferschoten", "word": "Pfefferschoten", "translation": "chili peppers", "note": "pfeffer (pepper) + schoten (pods); spicy vegetables"}
+{"key": "pflanzendinger", "word": "Pflanzendinger", "translation": "plant creatures", "note": "pflanze (plant) + dinger (things); beings of nature"}
+{"key": "pflanzenfasern", "word": "Pflanzenfasern", "translation": "plant fibers", "note": "natural fibers derived from plant material"}
+{"key": "pfotenabdrücke", "word": "Pfotenabdrücke", "translation": "paw prints", "note": "pfote (paw) + abdrücke (prints); animal footprints"}
+{"key": "phantasmagorie", "word": "Phantasmagorie", "translation": "phantasmagoria", "note": "shifting sequence of illusions; dreamlike visions"}
+{"key": "phantastischer", "word": "PHANTASTISCHER", "translation": "FANTASTIC", "note": "from Greek phantastikos; remarkable or extraordinary"}
+{"key": "phasenresonanz", "word": "Phasenresonanz", "translation": "phase resonance", "note": "harmonic vibration in alternate dimensions"}
+{"key": "phasenstrahler", "word": "Phasenstrahler", "translation": "phase emitter", "note": "phase + strahler (emitter); projects phase energy"}
+{"key": "phasentauchers", "word": "Phasentauchers", "translation": "phase diver", "note": "one who dives through phases or dimensions"}
+{"key": "pheromonmarker", "word": "Pheromonmarker", "translation": "pheromone markers", "note": "chemical signals used for animal communication"}
+{"key": "pioniereinheit", "word": "Pioniereinheit", "translation": "pioneer unit", "note": "pionier (pioneer) + einheit (unit); exploration force"}
+{"key": "pioniergruppen", "word": "Pioniergruppen", "translation": "pioneer groups", "note": "multiple teams of early settlers or explorers"}
+{"key": "piratenkanonen", "word": "Piratenkanonen", "translation": "pirate cannons", "note": "weapons used by seafaring raiders"}
+{"key": "piratenproblem", "word": "Piratenproblem", "translation": "pirate problem", "note": "issue or trouble caused by pirates"}
+{"key": "piratenschiffs", "word": "Piratenschiffs", "translation": "pirate ship's", "note": "possessive form; belonging to a pirate vessel"}
+{"key": "piratensöldner", "word": "Piratensöldner", "translation": "pirate mercenaries", "note": "hired fighters among pirate crews"}
+{"key": "pirscherklauen", "word": "Pirscherklauen", "translation": "stalker claws", "note": "pirscher (stalker) + klauen (claws); predator parts"}
+{"key": "plündererbande", "word": "Plündererbande", "translation": "band of looters", "note": "plünderer (looter) + bande (gang); organized thieves"}
+{"key": "porträtgalerie", "word": "Porträtgalerie", "translation": "portrait gallery", "note": "display of images or paintings of people"}
+{"key": "porzellankiste", "word": "Porzellankiste", "translation": "porcelain box", "note": "fine ceramic container; used metaphorically"}
+{"key": "prachtexemplar", "word": "Prachtexemplar", "translation": "magnificent specimen", "note": "pracht (splendor) + exemplar; excellent example"}
+{"key": "prachtvollsten", "word": "prachtvollsten", "translation": "most splendid", "note": "superlative of prachtvoll (magnificent; glorious)"}
+{"key": "prankenabdruck", "word": "Prankenabdruck", "translation": "paw print", "note": "pranke (paw) + abdruck (impression); animal mark"}
+{"key": "praxistauglich", "word": "praxistauglich", "translation": "practical", "note": "praxis (practice) + tauglich (suitable); field-tested"}
+{"key": "privatsammlung", "word": "Privatsammlung", "translation": "private collection", "note": "personal assemblage of items; personal possessions"}
+{"key": "probenbehälter", "word": "Probenbehälter", "translation": "sample container", "note": "probe (sample) + behälter (container); storage vessel"}
+{"key": "problemschüler", "word": "Problemschüler", "translation": "problem student", "note": "problem + schüler (student); one who causes trouble"}
+{"key": "proviantpakete", "word": "Proviantpakete", "translation": "supply packages", "note": "proviant (provisions) + pakete (packages); rations"}
+{"key": "provisorisches", "word": "provisorisches", "translation": "temporary", "note": "makeshift or interim arrangement"}
+{"key": "prähistorische", "word": "Prähistorische", "translation": "prehistoric", "note": "prae (before) + historic; from before written history"}
+{"key": "prätorianische", "word": "prätorianische", "translation": "Praetorian", "note": "elite Roman soldiers; personal guards in WoW"}
+{"key": "präzedenzfälle", "word": "Präzedenzfälle", "translation": "precedents", "note": "legal term; examples that set the standard"}
+{"key": "prüfungsbeginn", "word": "Prüfungsbeginn", "translation": "start of exam", "note": "prüfung (exam) + beginn (beginning); test commencement"}
+{"key": "prüfungsstätte", "word": "Prüfungsstätte", "translation": "trial grounds", "note": "place where one is tested or proven"}
+{"key": "pterrordaxeier", "word": "Pterrordaxeier", "translation": "Pterrordax eggs", "note": "Pterrordax is flying mount; their spawn"}
+{"key": "pulverisiertem", "word": "pulverisiertem", "translation": "powdered", "note": "crushed to fine particles or dust"}
+{"key": "pumpenzentrale", "word": "Pumpenzentrale", "translation": "pump station", "note": "pumpe (pump) + zentrale (station); mechanical hub"}
+{"key": "purpurbrandung", "word": "Purpurbrandung", "translation": "purple surf", "note": "purpur (purple) + brandung (surf); colorful waters"}
+{"key": "purpurschwinge", "word": "Purpurschwinge", "translation": "Purplewing", "note": "purpur (purple) + schwinge (wing); proper name"}
+{"key": "qualifizierten", "word": "qualifizierten", "translation": "qualified", "note": "having training or competence for a role"}
+{"key": "qualitätswaren", "word": "Qualitätswaren", "translation": "quality goods", "note": "qualität (quality) + waren (goods); fine merchandise"}
+{"key": "quantifizieren", "word": "quantifizieren", "translation": "quantify", "note": "to express in numerical terms or amounts"}
+{"key": "rabenwehrwache", "word": "Rabenwehrwache", "translation": "Raven Guard", "note": "rabe (raven) + wehwache (guard); named for ravens"}
+{"key": "raketenprojekt", "word": "Raketenprojekt", "translation": "rocket project", "note": "rakete (rocket) + projekt (project); weapons program"}
+{"key": "raketenschiffs", "word": "Raketenschiffs", "translation": "rocket ship's", "note": "possessive; craft powered by rockets"}
+{"key": "raketensprünge", "word": "Raketensprünge", "translation": "rocket jumps", "note": "sudden leaps using rocket propulsion"}
+{"key": "rangarieinheit", "word": "Rangarieinheit", "translation": "Rangari unit", "note": "rangari are a culture; military detachment"}
+{"key": "rangarieskorte", "word": "Rangarieskorte", "translation": "Rangari escort", "note": "escort force of Rangari warriors"}
+{"key": "rapanaschnecke", "word": "Rapanaschnecke", "translation": "Rapana snail", "note": "Rapana is large marine gastropod; sea creature"}
+{"key": "raptorangriffe", "word": "Raptorangriffe", "translation": "raptor attacks", "note": "aggressions by fast-running predators"}
+{"key": "raptorenfänger", "word": "Raptorenfänger", "translation": "Raptor Catcher", "note": "one who captures or hunts raptors"}
+{"key": "raptorenjungen", "word": "Raptorenjungen", "translation": "young raptors", "note": "juvenile dinosaur-like creatures"}
+{"key": "raptorenjunges", "word": "Raptorenjunges", "translation": "raptor hatchling", "note": "a single young predator creature"}
+{"key": "raptorennester", "word": "Raptorennester", "translation": "raptor nests", "note": "breeding grounds or lairs of velociraptors"}
+{"key": "raptorenpirsch", "word": "Raptorenpirsch", "translation": "raptor stalking", "note": "pursuing fast predators stealthily"}
+{"key": "raptorenreiter", "word": "Raptorenreiter", "translation": "raptor rider", "note": "warrior mounted on a raptor dinosaur"}
+{"key": "raptorenrisiko", "word": "Raptorenrisiko", "translation": "raptor threat", "note": "risk or danger posed by raptors"}
+{"key": "raptorenspuren", "word": "Raptorenspuren", "translation": "raptor tracks", "note": "footprints left by dinosaur creatures"}
+{"key": "rassistischste", "word": "rassistischste", "translation": "most racist", "note": "superlative; extremely prejudiced or bigoted"}
+{"key": "rationierungen", "word": "Rationierungen", "translation": "rationing", "note": "controlled distribution of scarce supplies"}
+{"key": "ratsvorstehers", "word": "Ratsvorstehers", "translation": "council leader's", "note": "possessive; the chief administrator"}
+{"key": "rattengeschäft", "word": "Rattengeschäft", "translation": "rat business", "note": "commerce involving rats or rat dealing"}
+{"key": "rattenmenschen", "word": "Rattenmenschen", "translation": "rat-folk", "note": "humanoid creatures with rat characteristics"}
+{"key": "rattsenschwanz", "word": "Rattsenschwanz", "translation": "rat tail", "note": "tail of rat; used idiomatically for chaos"}
+{"key": "rauchschwenker", "word": "Rauchschwenker", "translation": "incense swinger", "note": "device to distribute aromatic smoke"}
+{"key": "raufbeschwören", "word": "raufbeschwören", "translation": "conjure up", "note": "to magically call or summon into being"}
+{"key": "raumzeitgefüge", "word": "Raumzeitgefüge", "translation": "space-time continuum", "note": "raum (space) + zeit (time) + gefüge (fabric)"}
+{"key": "raupenfahrzeug", "word": "Raupenfahrzeug", "translation": "tracked vehicle", "note": "raupe (caterpillar/track) + fahrzeug (vehicle)"}
+{"key": "rausgequetscht", "word": "rausgequetscht", "translation": "squeezed out", "note": "forcibly removed, extracted, or drained"}
+{"key": "rausgeschossen", "word": "rausgeschossen", "translation": "shot out", "note": "ejected forcefully or launched forth"}
+{"key": "ravasaurusdame", "word": "Ravasaurusdame", "translation": "Ravasaur queen", "note": "dame (lady/queen); matriarch of the herd"}
+{"key": "ravasauruseier", "word": "Ravasauruseier", "translation": "Ravasaur eggs", "note": "reproductive vessels of large reptilians"}
+{"key": "reagenziendieb", "word": "Reagenziendieb", "translation": "reagent thief", "note": "one who steals alchemical or magical components"}
+{"key": "rechtfertigung", "word": "Rechtfertigung", "translation": "justification", "note": "reason given to excuse or explain an action"}
+{"key": "redenschreiben", "word": "Redenschreiben", "translation": "speechwriting", "note": "craft of writing formal speeches or orations"}
+{"key": "regelmässigkeit", "word": "Regelmäßigkeit", "translation": "regularity", "note": "orderly pattern or consistent rhythm"}
+{"key": "reingesprungen", "word": "reingesprungen", "translation": "jumped in", "note": "entered hastily without careful thought"}
+{"key": "reinheitsgebot", "word": "Reinheitsgebot", "translation": "purity law", "note": "law governing quality or composition"}
+{"key": "reinmanövriert", "word": "reinmanövriert", "translation": "maneuvered in", "note": "moved skillfully into tactical position"}
+{"key": "reinmarschiert", "word": "reinmarschiert", "translation": "marched in", "note": "entered forcefully or with formal advance"}
+{"key": "reinschleich'n", "word": "reinschleich'n", "translation": "sneak in", "note": "colloquial; enter furtively or secretively"}
+{"key": "reinszenierung", "word": "Reinszenierung", "translation": "reenactment", "note": "rein (again) + szenierung (staging); recreating event"}
+{"key": "reisegefährten", "word": "Reisegefährten", "translation": "travel companions", "note": "people who journey together; fellow travelers"}
+{"key": "reisegefährtin", "word": "Reisegefährtin", "translation": "travel companion", "note": "woman who travels with you; female companion"}
+{"key": "reitersoldaten", "word": "Reitersoldaten", "translation": "mounted soldiers", "note": "warriors fighting on horseback; cavalry"}
+{"key": "rekonfiguriert", "word": "rekonfiguriert", "translation": "reconfigured", "note": ""}
+{"key": "renommierteste", "word": "renommierteste", "translation": "most renowned", "note": "superlative of renommiert (renowned); also: most famous, most celebrated"}
+{"key": "reparaturtrupp", "word": "Reparaturtrupp", "translation": "repair crew", "note": "reparatur (repair) + trupp (squad/crew); specialized team for mechanical repairs"}
+{"key": "repräsentation", "word": "Repräsentation", "translation": "representation", "note": "formal noun meaning representation, display, or formal appearance"}
+{"key": "reservepylonen", "word": "Reservepylonen", "translation": "reserve pylons", "note": "reserve + pylonen; magical structures that serve as backup power sources in Auchindoun"}
+{"key": "reservetruppen", "word": "Reservetruppen", "translation": "reserve troops", "note": "reserv- (reserve) + truppen (troops); military units held in reserve"}
+{"key": "resortdirektor", "word": "Resortdirektor", "translation": "resort director", "note": "resort + direktor; or simply manager of an establishment or outpost"}
+{"key": "resterkrankung", "word": "Resterkrankung", "translation": "residual illness; lingering disease", "note": "rest (remaining/residual) + erkrankung (illness); disease that persists after treatment"}
+{"key": "rettungstruppe", "word": "Rettungstruppe", "translation": "rescue squad", "note": "rettungs- (rescue) + truppe (squad); specialized team for emergency aid"}
+{"key": "rettungswürdig", "word": "rettungswürdig", "translation": "worth saving; deserving rescue", "note": "-würdig suffix means worthy/deserving of; worth saving"}
+{"key": "rhazeverstecks", "word": "Rhazeverstecks", "translation": "Rhaze's hideout", "note": "possessive: Rhaze (creature name) + versteck (hiding place); location in Zul'Drak"}
+{"key": "rhinozerosgott", "word": "Rhinozerosgott", "translation": "rhinoceros god; rhino god", "note": "rhino + gott (god); deity worshipped in Zul'Drak, likely Akali"}
+{"key": "rhythmusgefühl", "word": "Rhythmusgefühl", "translation": "sense of rhythm", "note": "rhythmus + gefühl (feeling/sense); innate musical sensitivity"}
+{"key": "riesenfangzahn", "word": "Riesenfangzahn", "translation": "giant fang; huge tusk", "note": "riesen- (giant) + fangzahn (fang/tusk); oversized predatory tooth"}
+{"key": "riesenviechern", "word": "Riesenviechern", "translation": "giant creatures; huge beasts", "note": "riesen- (giant) + viech (colloquial: critter/beast); Gronn war beasts"}
+{"key": "ringerneuerung", "word": "Ringerneuerung", "translation": "ring renewal", "note": "ring + erneuerung (renewal); restoration or replacement of a ring"}
+{"key": "ritualexpertin", "word": "Ritualexpertin", "translation": "ritual expert; ceremony specialist", "note": "ritual + expertin (female expert); woman skilled in magical rituals"}
+{"key": "ritualisiertes", "word": "Ritualisiertes", "translation": "ritualized", "note": "past participle of ritualisieren; formal ceremonies in arcane study"}
+{"key": "ritualprobleme", "word": "Ritualprobleme", "translation": "ritual problems", "note": "ritual + probleme (problems); issues with ceremonial or magical procedures"}
+{"key": "robo-raubkopie", "word": "Robo-Raubkopie", "translation": "robo-copycat; mechanical plagiarizer", "note": "robo- + raubkopie (pirate copy); mechanical entity that imitates or steals"}
+{"key": "robotersklaven", "word": "Robotersklaven", "translation": "robot slaves", "note": "roboter + sklaven (slaves); mechanical beings enslaved by Mechazod"}
+{"key": "rohrkolbensees", "word": "Rohrkolbensees", "translation": "Cattail Lake", "note": "rohrkolben (cattail plant) + see (lake); literal translation is Cattail Lake, actual location name"}
+{"key": "rohstoffquelle", "word": "Rohstoffquelle", "translation": "raw material source", "note": "rohstoff (raw material) + quelle (source); supply of unprocessed resources"}
+{"key": "ruinenerhebung", "word": "Ruinenerhebung", "translation": "ruin elevation; ruins rise", "note": "ruinen (ruins) + erhebung (elevation/rise); elevated area containing ruins"}
+{"key": "rumble-figuren", "word": "Rumble-Figuren", "translation": "rumble figurines; toy fighters", "note": "rumble (from colloquial Rumble, to fight) + figuren (figures); small fighting toys"}
+{"key": "rumkommandiert", "word": "rumkommandiert", "translation": "bossed around; ordered about", "note": "rum- (around) + kommandiert (commanded); treated as subordinate"}
+{"key": "rumpelschimmer", "word": "Rumpelschimmer", "translation": "Rumpelshimmer", "note": "proper noun (NPC name); keep capitalized; rumple + shimmer play on words"}
+{"key": "rundzuerneuern", "word": "rundzuerneuern", "translation": "completely renew; fully restore", "note": "rund (around/complete) + zu (to) + erneuern (renew); thorough restoration"}
+{"key": "runenbindungen", "word": "Runenbindungen", "translation": "runic bindings; rune bonds", "note": "runen (runes) + bindungen (bindings); magical constraints using runes"}
+{"key": "runengelehrten", "word": "Runengelehrten", "translation": "rune scholars", "note": "runen + gelehrten (scholars/learned ones); experts in runic magic"}
+{"key": "runengelehrter", "word": "Runengelehrter", "translation": "rune scholar", "note": "runen + gelehrter (scholar); person versed in rune lore, like Floki"}
+{"key": "runenmachtkern", "word": "Runenmachtkern", "translation": "runic power core", "note": "runen + macht (power) + kern (core); magical power source inscribed with runes"}
+{"key": "runtergeblickt", "word": "runtergeblickt", "translation": "looked down", "note": "runter (down) + geblickt (looked); glanced downward from a height"}
+{"key": "runtergefahren", "word": "runtergefahren", "translation": "shut down; powered down", "note": "runter (down) + gefahren (drove/powered); deactivated systems"}
+{"key": "runtergefall'n", "word": "runtergefall'n", "translation": "fell down", "note": "runter (down) + gefallen (fallen); colloquial form: took a tumble"}
+{"key": "runterspringen", "word": "Runterspringen", "translation": "jumping down; a leap down", "note": "runter (down) + springen (jump); the act of leaping from height"}
+{"key": "ränkespielchen", "word": "Ränkespielchen", "translation": "scheming; political maneuvering", "note": "ränke (schemes/intrigues) + spiel (play) + diminutive -chen; petty political games"}
+{"key": "räucherfleisch", "word": "Räucherfleisch", "translation": "smoked meat", "note": "räucher- (smoke) + fleisch (meat); preserved meat prepared by smoking"}
+{"key": "räuchergefässen", "word": "Räuchergefäßen", "translation": "incense burners", "note": "räucher- (incense) + gefäßen (vessels); containers for burning incense"}
+{"key": "rücksichtnahme", "word": "Rücksichtnahme", "translation": "consideration; thoughtfulness", "note": "rück- (back/regard) + sicht (sight) + nahme (taking); showing respect and care"}
+{"key": "rüsselsabotage", "word": "Rüsselsabotage", "translation": "trunk sabotage", "note": "rüssel (trunk/snout) + sabotage; deliberate damage to an elephant-like creature's trunk"}
+{"key": "saberongeister", "word": "Saberongeister", "translation": "saberon spirits; saberon wraiths", "note": "saberon (cat-like humanoid race) + geister (spirits); corrupted saberon souls"}
+{"key": "saberonmonster", "word": "Saberonmonster", "translation": "saberon monster", "note": "saberon + monster; hostile saberon creatures encountered in quests"}
+{"key": "saberonproblem", "word": "Saberonproblem", "translation": "saberon problem; saberon infestation", "note": "saberon + problem; overabundance or threat of saberon creatures"}
+{"key": "sabotageaktion", "word": "Sabotageaktion", "translation": "sabotage action; act of sabotage", "note": "sabotage + aktion (action); coordinated destructive operation"}
+{"key": "saftigleckerer", "word": "saftigleckerer", "translation": "juicy and delicious; succulent", "note": "saftig (juicy) + lecker (delicious); descriptive of tasty food"}
+{"key": "sagenumwobenes", "word": "sagenumwobenes", "translation": "legendary; shrouded in legend", "note": "sagen (saga/legend) + umwoben (woven around); mythical, subject of legends"}
+{"key": "salzverkrustet", "word": "salzverkrustet", "translation": "salt-crusted; encrusted with salt", "note": "salz (salt) + verkrustet (crusted); covered in hardened salt deposits"}
+{"key": "samenhändlerin", "word": "Samenhändlerin", "translation": "seed merchant; seed dealer", "note": "samen (seed) + händlerin (female merchant); NPC Morgengrau sells special seeds"}
+{"key": "sammelaktionen", "word": "Sammelaktionen", "translation": "collection campaigns; gathering operations", "note": "sammel- (collection) + aktionen (campaigns); organized efforts to gather resources"}
+{"key": "sammelmethoden", "word": "Sammelmethoden", "translation": "collection methods; gathering techniques", "note": "sammel- (collection) + methoden (methods); ways of harvesting or obtaining materials"}
+{"key": "sandschreitern", "word": "Sandschreitern", "translation": "sandstriders", "note": "sand + schreiter (strider/walker); large creatures used for travel in deserts"}
+{"key": "sanitätskästen", "word": "Sanitätskästen", "translation": "medical kits; first aid kits", "note": "sanitäts- (medical) + kästen (boxes/kits); supplies for emergency medical care"}
+{"key": "sanktumsdiener", "word": "Sanktumsdiener", "translation": "sanctum servant", "note": "sanktuums (sanctum) + diener (servant); someone serving in a sacred place"}
+{"key": "satyrleutnants", "word": "Satyrleutnants", "translation": "satyr lieutenants", "note": "satyr (demonic creature) + leutnants (lieutenants); demonic commanders"}
+{"key": "saurokbanditen", "word": "Saurokbanditen", "translation": "saurok bandits", "note": "saurok (lizard-like humanoid race) + banditen (bandits); hostile saurok outlaws"}
+{"key": "savannenkatzen", "word": "Savannenkatzen", "translation": "savannah cats", "note": "savanne (savanna) + katzen (cats); large predatory felines of grasslands"}
+{"key": "schallsignalen", "word": "Schallsignalen", "translation": "sound signals", "note": "schall (sound) + signalen (signals); communication via acoustic waves"}
+{"key": "scharfschnabel", "word": "Scharfschnabel", "translation": "Sharpbeak", "note": "proper noun (creature/NPC name); scharf (sharp) + schnabel (beak)"}
+{"key": "scharfsinnigen", "word": "scharfsinnigen", "translation": "astute; sharp-minded", "note": "scharf (sharp) + sinnig (minded/sensible); keen intellect or perception"}
+{"key": "scharfzahniger", "word": "scharfzahniger", "translation": "sharp-toothed", "note": "scharf (sharp) + zahniger (toothed); having keen, predatory dentition"}
+{"key": "scharlachrotem", "word": "scharlachrotem", "translation": "scarlet", "note": "scharlach (scarlet/crimson) + rotem (red); bright red color, often used for plants"}
+{"key": "schaufelhauern", "word": "Schaufelhauern", "translation": "shovel tusks", "note": "schaufel (shovel) + hauern (tusks); creatures with large, flat tusks"}
+{"key": "schaufelhauers", "word": "Schaufelhauers", "translation": "shovel tusk; shovel tusker", "note": "genitive/possessive of Schaufelhauerseele; keeps creature form"}
+{"key": "schaumschläger", "word": "Schaumschläger", "translation": "foam bat; foam beast", "note": "schaum (foam) + schläger (striker/beater); creature that generates or hurls foam"}
+{"key": "scheiterhauf'n", "word": "Scheiterhauf'n", "translation": "pyre", "note": "scheiterhaufen (funeral pyre); poetic/colloquial shortening with apostrophe"}
+{"key": "schemengeister", "word": "Schemengeister", "translation": "phantom spirits; wraith ghosts", "note": "schemen (phantom/specter) + geister (spirits); ethereal undead creatures"}
+{"key": "scheusslichkeit", "word": "Scheußlichkeit", "translation": "abomination", "note": "scheußlich (abominable) + -keit suffix; monstrosity from C'Thun"}
+{"key": "schichtwechsel", "word": "Schichtwechsel", "translation": "shift change", "note": "schicht (shift/layer) + wechsel (change); transition between work periods"}
+{"key": "schicklichkeit", "word": "Schicklichkeit", "translation": "propriety; decorum", "note": "schicklich (proper/fitting) + -keit suffix; adherence to social conventions"}
+{"key": "schicksalhafte", "word": "schicksalhafte", "translation": "fateful", "note": "schicksal (fate/destiny) + haft/haft (having quality of); prophetically significant"}
+{"key": "schickschnacks", "word": "Schickschnacks", "translation": "fancy knick-knacks; trinkets", "note": "schick (fancy/stylish) + schnacks (doodads); decorative but worthless items"}
+{"key": "schieferhörner", "word": "Schieferhörner", "translation": "slate horns", "note": "schiefer (slate) + hörner (horns); creatures with slate-colored horns"}
+{"key": "schieferspinne", "word": "Schieferspinne", "translation": "slate spider", "note": "schiefer (slate) + spinne (spider); arachnid that eats stone, now craves jade"}
+{"key": "schiefertafeln", "word": "Schiefertafeln", "translation": "slate tablets; slates", "note": "schiefer (slate) + tafeln (tablets/boards); writing surfaces used by inhabitants"}
+{"key": "schienensystem", "word": "Schienensystem", "translation": "rail system", "note": "schiene (rail) + system (system); tracks for transport or magical conveyance"}
+{"key": "schiesserrücken", "word": "Schießerrücken", "translation": "Shooter's Back", "note": "schießer (shooter) + rücken (back); location name, possible ridge or elevation"}
+{"key": "schiffskanonen", "word": "Schiffskanonen", "translation": "ship's cannons; naval guns", "note": "schiffs- (ship's) + kanonen (cannons); weaponry on vessels"}
+{"key": "schiffsrümpfen", "word": "Schiffsrümpfen", "translation": "ship hulls", "note": "schiffs- (ship's) + rümpfen (hulls); bodies of vessels, often abandoned"}
+{"key": "schiffsunglück", "word": "Schiffsunglück", "translation": "shipwreck; maritime disaster", "note": "schiffs- (ship's) + unglück (misfortune); naval accident or wrecking"}
+{"key": "schimmerschale", "word": "Schimmerschale", "translation": "Shimmer Shell", "note": "shimmer + schale (shell); creature or item name with pearlescent quality"}
+{"key": "schlachtgetöse", "word": "Schlachtgetöse", "translation": "roar of battle; sounds of combat", "note": "schlacht (battle) + getöse (roar/din); cacophony of warfare"}
+{"key": "schlachtrösser", "word": "Schlachtrösser", "translation": "warhorses; destriers", "note": "schlacht- (battle) + rösser (horses); large horses trained for war"}
+{"key": "schlachtstiels", "word": "Schlachtstiels", "translation": "battle stalks; war stems", "note": "schlacht- (battle) + stiels (stalks/stems); unusual creature or plant type"}
+{"key": "schlackegruben", "word": "Schlackegruben", "translation": "slag pits", "note": "schlacke (slag/dross) + gruben (pits); areas where mining waste accumulates"}
+{"key": "schlackenwacht", "word": "Schlackenwacht", "translation": "Cinderwatch", "note": "official WoW location; schlacke (slag) + wacht (watch); fortress overlooking Blackwing Descent"}
+{"key": "schlammkarpfen", "word": "Schlammkarpfen", "translation": "mud carp", "note": "schlamm (mud) + karpfen (carp); freshwater fish living in murky water"}
+{"key": "schlammmonster", "word": "Schlammmonster", "translation": "mud monster; mud elemental", "note": "schlamm (mud) + monster (monster); creature made of or animated by mud"}
+{"key": "schlammtauchen", "word": "Schlammtauchen", "translation": "mud diving", "note": "schlamm (mud) + tauchen (diving); activity or profession involving murky water"}
+{"key": "schlangenabzug", "word": "Schlangenabzug", "translation": "serpent deduction; snake subtraction", "note": "schlangen (serpent) + abzug (deduction/withdrawal); unclear usage"}
+{"key": "schlangenfigur", "word": "Schlangenfigur", "translation": "serpent figure; snake statue", "note": "schlangen (serpent) + figur (figure/statue); sculptural representation of a snake"}
+{"key": "schlangengeist", "word": "Schlangengeist", "translation": "serpent spirit; snake spirit", "note": "schlangen (serpent) + geist (spirit); magical entity embodying serpentine nature"}
+{"key": "schlangengrube", "word": "Schlangengrube", "translation": "snake pit; viper's den", "note": "schlangen (serpent) + grube (pit); place filled with dangerous serpents"}
+{"key": "schlangenjunge", "word": "Schlangenjunge", "translation": "snake youth; snake hatchlings", "note": "schlangen (serpent) + junge (young ones); Shan'ze hybrid creatures"}
+{"key": "schlangenköpfe", "word": "Schlangenköpfe", "translation": "snakeheads", "note": "schlangen (serpent) + köpfe (heads); voracious fish species in Thunder Bluff"}
+{"key": "schlangenleute", "word": "Schlangenleute", "translation": "snake people; serpent folk", "note": "schlangen (serpent) + leute (people); humanoid reptilian creatures"}
+{"key": "schlangenplage", "word": "Schlangenplage", "translation": "plague of serpents; snake infestation", "note": "schlangen (serpent) + plage (plague/infestation); overabundance of snakes"}
+{"key": "schlangenzunge", "word": "Schlangenzunge", "translation": "Serpent Tongue", "note": "official WoW name; schlangen (serpent) + zunge (tongue); demon lord ruling crystal caves"}
+{"key": "schleimartigen", "word": "schleimartigen", "translation": "slimy; mucous", "note": "schleim (slime) + artig (like/of type); having qualities of mucus or slime"}
+{"key": "schleimfamilie", "word": "Schleimfamilie", "translation": "slime family", "note": "schleim (slime) + familie (family); group of slime creatures bonded together"}
+{"key": "schleimkreatur", "word": "Schleimkreatur", "translation": "slime creature", "note": "schleim (slime) + kreatur (creature); entity composed of or embodied by slime"}
+{"key": "schleimtauchen", "word": "Schleimtauchen", "translation": "slime diving", "note": "schleim (slime) + tauchen (diving); sport/activity done by diving in slime"}
+{"key": "schleimtaucher", "word": "Schleimtaucher", "translation": "slime diver", "note": "schleim (slime) + taucher (diver); expert who dives in slime or mucus"}
+{"key": "schleimzüchter", "word": "Schleimzüchter", "translation": "slime breeder", "note": "schleim (slime) + züchter (breeder); one who raises or cultivates slimes"}
+{"key": "schlickanteile", "word": "Schlickanteile", "translation": "silt components; sediment particles", "note": "schlick (silt/mud) + anteile (portions/components); mineral elements in waterways"}
+{"key": "schlickerküste", "word": "Schlickerküste", "translation": "Silt Coast", "note": "schlick (silt/mud) + er + küste (coast); shoreline accumulating sediment deposits"}
+{"key": "schlickpfützen", "word": "Schlickpfützen", "translation": "mud puddles; muddy pools", "note": "schlick (silt/mud) + pfützen (puddles); shallow muddy water accumulations"}
+{"key": "schlingwurzler", "word": "Schlingwurzler", "translation": "creeper; creeping root", "note": "schling (coil/twine) + wurzler (root); plant creature that strangles"}
+{"key": "schlossknacken", "word": "Schlossknacken", "translation": "lock picking", "note": "schloss (lock) + knacken (cracking/picking); skill of opening locks"}
+{"key": "schluchtbrücke", "word": "Schluchtbrücke", "translation": "gorge bridge; chasm bridge", "note": "schlucht (gorge/chasm) + brücke (bridge); crossing over a deep ravine"}
+{"key": "schluchtzwerge", "word": "Schluchtzwerge", "translation": "gorge dwarves; canyon dwarves", "note": "schlucht (gorge) + zwerge (dwarves); dwarf faction or tribe dwelling in gorges"}
+{"key": "schlummerblüte", "word": "Schlummerblüte", "translation": "Slumberblossom", "note": "schlummer (slumber) + blüte (bloom/flower); dreamy plant from Dream realm"}
+{"key": "schlummereulen", "word": "Schlummereulen", "translation": "slumber owls; drowsy owls", "note": "schlummer (slumber) + eulen (owls); dreamy creatures that shed desirable feathers"}
+{"key": "schlundenergie", "word": "Schlundenergie", "translation": "Maw energy", "note": "schlund (maw/gullet, from WoW) + energie (energy); power from The Maw realm"}
+{"key": "schlüsselrolle", "word": "Schlüsselrolle", "translation": "key role; crucial position", "note": "schlüssel (key) + rolle (role/part); vital function or responsibility"}
+{"key": "schmeichelnden", "word": "schmeichelnden", "translation": "flattering; pleasing", "note": "schmeicheln (to flatter) + -den inflection; complimentary or ingratiating"}
+{"key": "schmelztiegeln", "word": "Schmelztiegeln", "translation": "melting pots; crucibles", "note": "schmelz- (melt) + tiegeln (pots/crucibles); containers for smelting ore"}
+{"key": "schmerzstiller", "word": "Schmerzstiller", "translation": "painkiller; pain reliever", "note": "schmerz (pain) + stiller (one who stills/eases); analgesic preparation"}
+{"key": "schmetterlinge", "word": "Schmetterlinge", "translation": "butterflies", "note": "schmetterling (butterfly); winged insects, some are parasitic larvae"}
+{"key": "schmetterlings", "word": "Schmetterlings", "translation": "butterfly", "note": "possessive form; of or belonging to a butterfly"}
+{"key": "schmiedebruten", "word": "Schmiedebruten", "translation": "blacksmith broods", "note": "schmiede (smith/forge) + bruten (broods/brooded ones); offspring or servants of smiths"}
+{"key": "schmiedewissen", "word": "Schmiedewissen", "translation": "blacksmith knowledge; smithing lore", "note": "schmiede (blacksmith) + wissen (knowledge); expertise in metalworking"}
+{"key": "schmuggelwaren", "word": "Schmuggelwaren", "translation": "contraband; smuggled goods", "note": "schmuggel- (smuggle) + waren (goods/merchandise); illegal cargo"}
+{"key": "schmugglerring", "word": "Schmugglerring", "translation": "smuggling ring; smuggler network", "note": "schmuggel- (smuggle) + ring (ring/circle); organized criminal operation"}
+{"key": "schmutzprankes", "word": "SCHMUTZPRANKES", "translation": "DIRTPAWS; MUCKPAWS", "note": "schmutz (dirt/mud) + prankes (paws); likely a creature or NPC name, comical"}
+{"key": "schneegebieten", "word": "Schneegebieten", "translation": "snow areas; snowy regions", "note": "schnee (snow) + gebieten (areas/regions); territories covered in snow"}
+{"key": "schneiderkunst", "word": "Schneiderkunst", "translation": "tailoring", "note": "schneider (tailor) + kunst (craft/art); profession of sewing and garment making"}
+{"key": "schneidertisch", "word": "Schneidertisch", "translation": "tailor's table; sewing bench", "note": "schneider (tailor) + tisch (table); workstation for tailoring crafts"}
+{"key": "schnellschalts", "word": "Schnellschalts", "translation": "Quickshift", "note": "schnell (quick) + schalts (shift); location name, Quickshift Station"}
+{"key": "schnittstellen", "word": "Schnittstellen", "translation": "interfaces; connection points", "note": "schnitt (cut/interface) + stellen (places); points where systems connect"}
+{"key": "schnüffelmäuse", "word": "Schnüffelmäuse", "translation": "sniffing mice; nose rats", "note": "schnüffel (sniff) + mäuse (mice); creatures with keen sense of smell"}
+{"key": "schockschuppen", "word": "Schockschuppen", "translation": "shock scales", "note": "schock (shock) + schuppen (scales); electrified or armored plating"}
+{"key": "schreckensgift", "word": "Schreckensgift", "translation": "dread poison; fright toxin", "note": "schrecken (fright/terror) + gift (poison); venom that induces fear or dread"}
+{"key": "schreiberinnen", "word": "Schreiberinnen", "translation": "scribes; female writers", "note": "schreiber (scribe/writer) + -innen (feminine plural); women skilled in inscription"}
+{"key": "schriftsteller", "word": "Schriftsteller", "translation": "writer; author", "note": "schrift (writing) + steller (one who makes/places); person who composes text"}
+{"key": "schriftsprache", "word": "Schriftsprache", "translation": "written language", "note": "schrift (writing) + sprache (language); formal language as opposed to speech"}
+{"key": "schriftverkehr", "word": "Schriftverkehr", "translation": "correspondence; written communication", "note": "schrift (writing) + verkehr (traffic/exchange); exchange of letters or documents"}
+{"key": "schrotthäscher", "word": "Schrotthäscher", "translation": "Scrap Reaver; junk harvester", "note": "schrott (scrap) + häscher (reaver/catcher); robotic contraption for gathering scrap"}
+{"key": "schrumpfzauber", "word": "Schrumpfzauber", "translation": "shrinking spell", "note": "schrumpf- (shrink) + zauber (spell/magic); enchantment that reduces size"}
+{"key": "schulterzucken", "word": "Schulterzucken", "translation": "shrug", "note": "schulter (shoulder) + zucken (twitch/shrug); nonverbal gesture of indifference"}
+{"key": "schuppenflügel", "word": "Schuppenflügel", "translation": "scale wings", "note": "schuppen (scales) + flügel (wings); wings covered with scales"}
+{"key": "schurkenkumpel", "word": "Schurkenkumpel", "translation": "rogue buddy; scoundrel companion", "note": "schurke (rogue/scoundrel) + kumpel (buddy); disreputable companion or ally"}
+{"key": "schutzmassnahme", "word": "Schutzmaßnahme", "translation": "protective measure; safeguard", "note": "schutz (protection) + maßnahme (measure); action taken for defense or safety"}
+{"key": "schwalbenhüter", "word": "Schwalbenhüter", "translation": "Swallow Keeper", "note": "schwalbe (swallow) + hüter (keeper); NPC Nevroll, possible bird herder"}
+{"key": "schwarmrelikte", "word": "Schwarmrelikte", "translation": "hive relics; swarm artifacts", "note": "schwarm (swarm/hive) + relikte (relics/artifacts); remnants of collective entities"}
+{"key": "schwarmtöterin", "word": "Schwarmtöterin", "translation": "swarm slayer", "note": "schwarm (swarm) + töterin (female slayer); one who kills swarms or hive creatures"}
+{"key": "schwarz-weisser", "word": "schwarz-weißer", "translation": "black and white", "note": "schwarz (black) + weiß (white) + -er inflection; monochromatic coloration"}
+{"key": "schwarzflosses", "word": "Schwarzflosses", "translation": "Blackfin", "note": "possessive of proper noun; schwarz (black) + flosse (fin); NPC or creature name"}
+{"key": "schwarzforstes", "word": "Schwarzforstes", "translation": "Schwarzforest", "note": "proper location name; schwarz (black) + forest; dark, overgrown woodland"}
+{"key": "schwarzherzige", "word": "Schwarzherzige", "translation": "black-hearted ones; villainous", "note": "schwarz (black) + herz (heart) + -ige inflection; evil or malevolent beings"}
+{"key": "schwarzschauer", "word": "Schwarzschauer", "translation": "Blackpurse", "note": "in-game location; compound: schwarz (black) + schauer (a purse or hold)"}
+{"key": "schwarzsichels", "word": "Schwarzsichels", "translation": "Blacksickle", "note": "likely a proper noun (character or faction name); schwarz (black) + sichel (sickle)"}
+{"key": "schwarzwurzeln", "word": "Schwarzwurzeln", "translation": "salsify root", "note": "culinary plant; schwarz (dark) + wurzeln (roots); used in cooking"}
+{"key": "schwefelhaltig", "word": "schwefelhaltig", "translation": "sulfurous", "note": "adjective: containing sulfur; schwefel (sulfur) + -haltig (containing)"}
+{"key": "schweigeminute", "word": "Schweigeminute", "translation": "minute of silence", "note": "compound: schweig- (silence) + minute; formal gesture of respect"}
+{"key": "schweinebäuche", "word": "Schweinebäuche", "translation": "pork belly", "note": "culinary cut; schweine (pork) + bäuche (bellies)"}
+{"key": "schweinekerlen", "word": "Schweinekerlen", "translation": "pigsties", "note": "derogatory term; schweine (pigs) + kerlen (roughly: fellows); context suggests Quilboars or similar creatures"}
+{"key": "schweinsgalopp", "word": "Schweinsgalopp", "translation": "wild gallop", "note": "idiom: reckless speed; literally swine-gallop; schwein (swine) + galopp (gallop)"}
+{"key": "schweisstropfen", "word": "Schweißtropfen", "translation": "bead of sweat", "note": "compound: schweiß (sweat) + tropfen (drop); often used of tense moments"}
+{"key": "schwerstarbeit", "word": "Schwerstarbeit", "translation": "grueling work", "note": "compound: schwer (heavy) + arbeit (work); exertion requiring great effort"}
+{"key": "schwertkämpfer", "word": "Schwertkämpfer", "translation": "swordsman", "note": "professional warrior; schwert (sword) + kämpfer (fighter)"}
+{"key": "schwimmfähiges", "word": "Schwimmfähiges", "translation": "buoyant; seaworthy", "note": "adj: able to float or swim; schwimm- (swim) + -fähig (capable)"}
+{"key": "schwingenblatt", "word": "Schwingenblatt", "translation": "wing scale", "note": "likely a crafting material; schwing- (wing) + blatt (blade or scale)"}
+{"key": "schwurgebunden", "word": "Schwurgebunden", "translation": "oath-bound", "note": "magically or ceremonially bound; schwur (oath) + gebunden (bound)"}
+{"key": "schädelexperte", "word": "Schädelexperte", "translation": "skull expert", "note": "someone who collects or studies skulls; schädel (skull) + experte (expert)"}
+{"key": "schädelsammler", "word": "Schädelsammler", "translation": "skull collector", "note": "compound: schädel (skull) + sammler (collector); a person or creature obsessed with skulls"}
+{"key": "schädelsammeln", "word": "Schädelsammeln", "translation": "skull collection", "note": "the practice of collecting skulls; schädel (skull) + sammeln (to collect)"}
+{"key": "schändlichsten", "word": "schändlichsten", "translation": "most shameful", "note": "superlative of schändlich; refers to vile or disgraceful acts"}
+{"key": "schönzurechnen", "word": "schönzurechnen", "translation": "to make it work; to stretch the numbers", "note": "idiom: to force an outcome; schön (nice) + zurechnen (to calculate or arrange)"}
+{"key": "schürfarbeiten", "word": "Schürfarbeiten", "translation": "mining work; prospecting", "note": "compound: schürf- (mine/prospect) + arbeiten (work); resource gathering"}
+{"key": "sedimentproben", "word": "Sedimentproben", "translation": "sediment samples", "note": "geological samples; sediment + proben (samples)"}
+{"key": "seelenanhänger", "word": "Seelenanhänger", "translation": "soul amulet", "note": "magical item; seelen (soul) + anhänger (pendant or amulet)"}
+{"key": "seelenbarriere", "word": "Seelenbarriere", "translation": "soul barrier", "note": "magical ward; seelen (soul) + barriere (barrier)"}
+{"key": "seelenessenzen", "word": "Seelenessenzen", "translation": "soul essences", "note": "refined spiritual substance; seelen (soul) + essenzen (essences)"}
+{"key": "seelenfragment", "word": "Seelenfragment", "translation": "soul fragment", "note": "shard of a soul; seelen (soul) + fragment"}
+{"key": "seelenfressers", "word": "Seelenfressers", "translation": "soul devourer", "note": "a creature that consumes souls; seelen (soul) + fressen (to devour)"}
+{"key": "seelenfriedens", "word": "Seelenfriedens", "translation": "peace of soul", "note": "inner tranquility; seelen (soul) + frieden (peace)"}
+{"key": "seelengebunden", "word": "Seelengebunden", "translation": "soul-bound", "note": "magically bound to a soul; soulbound items cannot be traded"}
+{"key": "seelengeschäft", "word": "Seelengeschäft", "translation": "soul trade; soul pact", "note": "trafficking in souls; seelen (soul) + geschäft (trade or deal)"}
+{"key": "seelensammlung", "word": "Seelensammlung", "translation": "soul collection", "note": "a gathering of captured souls; seelen (soul) + sammlung (collection)"}
+{"key": "seelenspiegeln", "word": "Seelenspiegeln", "translation": "soul mirrors", "note": "magical reflecting surfaces used in Revendreth; seelen (soul) + spiegeln (mirrors)"}
+{"key": "seelenspiegels", "word": "Seelenspiegels", "translation": "soul mirror", "note": "magical reflective artifact; seelen (soul) + spiegel (mirror)"}
+{"key": "seeohrbestände", "word": "Seeohrbestände", "translation": "abalone stocks", "note": "abalone is a sea mollusc harvested for food; see (sea) + ohr (ear) + bestände (stocks)"}
+{"key": "seestreitkraft", "word": "Seestreitkraft", "translation": "naval force", "note": "military fleet; see (sea) + streit (conflict) + kraft (force)"}
+{"key": "seherartefakte", "word": "Seherartefakte", "translation": "seer artifacts", "note": "magical items used for divination or surveillance; seher (seer) + artefakte (artifacts)"}
+{"key": "sekundärschlag", "word": "Sekundärschlag", "translation": "secondary strike", "note": "follow-up attack; sekundär (secondary) + schlag (strike)"}
+{"key": "selbsternannte", "word": "selbsternannte", "translation": "self-proclaimed", "note": "one who claims a title without formal authority; selbst (self) + ernannt (appointed)"}
+{"key": "selbstgekochte", "word": "selbstgekochte", "translation": "home-cooked", "note": "prepared at home rather than purchased; selbst (self) + gekochte (cooked)"}
+{"key": "selbstgemachte", "word": "Selbstgemachte", "translation": "homemade", "note": "made by hand at home; selbst (self) + gemachte (made)"}
+{"key": "selbstgerechte", "word": "selbstgerechte", "translation": "self-righteous; sanctimonious", "note": "smugly certain of one's virtue; selbst (self) + gerecht (just or righteous)"}
+{"key": "selbstzweifeln", "word": "Selbstzweifeln", "translation": "self-doubt", "note": "lack of confidence in oneself; selbst (self) + zweifeln (to doubt)"}
+{"key": "sensationellen", "word": "sensationellen", "translation": "sensational", "note": "striking or remarkable; from Latin sensatio (feeling or perception)"}
+{"key": "servierplatten", "word": "Servierplatten", "translation": "serving platters", "note": "dishes for presenting food; servieren (to serve) + platten (platters)"}
+{"key": "seuchenerreger", "word": "Seuchenerreger", "translation": "plague pathogen", "note": "disease-causing organism; seuche (plague) + erreger (agent or pathogen)"}
+{"key": "seuchengestank", "word": "Seuchengestank", "translation": "plague stench", "note": "foul smell associated with disease; seuche (plague) + gestank (stink)"}
+{"key": "seuchenkesseln", "word": "Seuchenkesseln", "translation": "plague cauldrons", "note": "vessels used to spread disease; seuche (plague) + kessel (cauldron)"}
+{"key": "seuchenphiolen", "word": "Seuchenphiolen", "translation": "plague vials", "note": "small containers of plague; seuche (plague) + phiolen (vials)"}
+{"key": "seuchenviertel", "word": "Seuchenviertel", "translation": "Plague Quarter", "note": "zone in Naxxramas; seuche (plague) + viertel (quarter or district)"}
+{"key": "sha-verderbter", "word": "Sha-verderbter", "translation": "Sha-corrupted", "note": "infected with Sha essence; verderbter (corrupted) from sha (corrupt entity in WoW lore)"}
+{"key": "shadravorhaben", "word": "Shadravorhaben", "translation": "Shadra project", "note": "Shadra is a named character's initiative; compound of character name + vorhaben (project)"}
+{"key": "shed-ling-flut", "word": "Shed-Ling-Flut", "translation": "Shed-ling swarm", "note": "massive number of shed-lings; flut (flood or deluge) refers to overwhelming numbers"}
+{"key": "shul'ka-mentor", "word": "Shul'ka-Mentor", "translation": "Shul'ka mentor", "note": "shadowy mentor figure in dragonflight lore; shul'ka is a named character"}
+{"key": "sicherstellung", "word": "Sicherstellung", "translation": "securing; confiscation", "note": "making something safe or seizing it; sicher (safe) + stellung (placing or position)"}
+{"key": "sichtungsgerät", "word": "Sichtungsgerät", "translation": "scanning device; analyzer", "note": "technical equipment; sichtung (viewing/examining) + gerät (device)"}
+{"key": "siegelzeichens", "word": "Siegelzeichens", "translation": "seal mark", "note": "heraldic symbol or sigil; siegel (seal) + zeichen (mark or sign)"}
+{"key": "silithideneier", "word": "Silithideneier", "translation": "silithid eggs", "note": "eggs of insectoid creatures; silithide (silithid creature) + eier (eggs)"}
+{"key": "silithprobleme", "word": "Silithprobleme", "translation": "silith problem", "note": "infestation or trouble with silithids; silith + probleme (problems)"}
+{"key": "singularitäten", "word": "Singularitäten", "translation": "singularities", "note": "unique points in space or magic; from science/physics terminology"}
+{"key": "sinnhaftigkeit", "word": "Sinnhaftigkeit", "translation": "meaningfulness; sense of purpose", "note": "quality of having meaning; sinn (meaning) + -haftigkeit (quality or state)"}
+{"key": "sinnstiftender", "word": "sinnstiftender", "translation": "purposeful; meaningful", "note": "giving sense or direction; sinn (meaning) + stiftend (creating or establishing)"}
+{"key": "sirodingsbumse", "word": "Sirodingsbumse", "translation": "Sirodingbumse", "note": "a creature type; appears to be a nonsense word or made-up creature name in WoW"}
+{"key": "skarabäusfürst", "word": "Skarabäusfürst", "translation": "Scarab Lord", "note": "a WoW title of power; skarabäus (scarab beetle) + fürst (prince or lord)"}
+{"key": "skelettartigen", "word": "skelettartigen", "translation": "skeletal; skeleton-like", "note": "resembling bones; skelett (skeleton) + -artig (resembling)"}
+{"key": "skelettkapitän", "word": "Skelettkapitän", "translation": "Skeletal Captain", "note": "an undead leader; skelett (skeleton) + kapitän (captain)"}
+{"key": "skelettmaterie", "word": "Skelettmaterie", "translation": "skeletal matter; bone material", "note": "substance composing skeletons; skelett (skeleton) + materie (matter)"}
+{"key": "skithverstecks", "word": "Skithverstecks", "translation": "Skith hideout", "note": "lair of the Skith; skith (creature or faction) + verstecks (hideout)"}
+{"key": "sklavenenklave", "word": "Sklavenenklave", "translation": "slave enclave", "note": "isolated community of slaves; sklaven (slaves) + enklave (enclave)"}
+{"key": "sklavengeister", "word": "Sklavengeister", "translation": "enslaved spirits; slave ghosts", "note": "spirits bound to servitude; sklaven (slaves) + geister (spirits or ghosts)"}
+{"key": "sklavenrevolte", "word": "Sklavenrevolte", "translation": "slave revolt", "note": "uprising of enslaved people; sklaven (slaves) + revolte (rebellion)"}
+{"key": "skorpidenkönig", "word": "Skorpidenkönig", "translation": "Scorpid King", "note": "alpha creature; skorpiden (scorpid) + könig (king)"}
+{"key": "skrupelloseste", "word": "skrupelloseste", "translation": "most unscrupulous", "note": "utterly without ethics; superlative of skrupellos (unscrupulous)"}
+{"key": "slyvernrettung", "word": "Slyvernrettung", "translation": "Slyvern rescue", "note": "rescue operation for Slyverins; slyvern + rettung (rescue)"}
+{"key": "smaragdkolosse", "word": "Smaragdkolosse", "translation": "Emerald Colossus", "note": "giant living statue; smaragd (emerald) + kolosse (colossi)"}
+{"key": "smaragdkreises", "word": "Smaragdkreises", "translation": "Emerald Circle", "note": "druidic council or faction; smaragd (emerald) + kreis (circle)"}
+{"key": "smaragdkönigin", "word": "Smaragdkönigin", "translation": "Emerald Queen", "note": "ruler of emerald dragons or the dream; smaragd (emerald) + königin (queen)"}
+{"key": "smaragdraserei", "word": "Smaragdraserei", "translation": "Emerald Fury", "note": "life energy attack or berserk state; smaragd (emerald) + raserei (frenzy)"}
+{"key": "soforteisblock", "word": "Soforteisblock", "translation": "instant ice block", "note": "magical effect like mage's ability; sofort (instant) + eisblock (ice block)"}
+{"key": "soldatenfutter", "word": "Soldatenfutter", "translation": "soldier chow; army rations", "note": "basic military food; soldat (soldier) + futter (feed or chow)"}
+{"key": "soldatenfreund", "word": "Soldatenfreund", "translation": "soldier friend; fellow soldier", "note": "comrade in arms; soldat (soldier) + freund (friend)"}
+{"key": "sonnenabschaum", "word": "Sonnenabschaum", "translation": "sun-scum; light trash", "note": "derogatory term for sun-worshippers; sonnen (sun) + abschaum (scum)"}
+{"key": "sonnenberührte", "word": "Sonnenberührte", "translation": "sun-touched", "note": "blessed or marked by the sun; sonnen (sun) + berührte (touched)"}
+{"key": "sonnenbroschen", "word": "Sonnenbroschen", "translation": "sun brooches", "note": "jewelry with solar motif; sonnen (sun) + broschen (brooches)"}
+{"key": "sonnenkriecher", "word": "Sonnenkriecher", "translation": "sun-crawler", "note": "creature attracted to light; sonnen (sun) + kriech- (creep or crawl)"}
+{"key": "sonnenschleier", "word": "Sonnenschleier", "translation": "sun veil; sun shroud", "note": "covering that hides from sunlight; sonnen (sun) + schleier (veil)"}
+{"key": "sonnenwendtest", "word": "Sonnenwendtest", "translation": "solstice trial", "note": "challenge at the turning of seasons; sonnen (sun) + wendtest (turning)"}
+{"key": "sorgenschweren", "word": "sorgenschweren", "translation": "heavy with sorrow; grief-stricken", "note": "deeply troubled; sorgen (worries) + schwer (heavy)"}
+{"key": "sorgfältigster", "word": "sorgfältigster", "translation": "most meticulous; most careful", "note": "superlative of sorgfältig; sorg (care) + fältig (fold/manner)"}
+{"key": "sozialisierung", "word": "Sozialisierung", "translation": "socialization", "note": "process of adapting to society; sozial (social) + -isierung (process)"}
+{"key": "sparringskampf", "word": "Sparringskampf", "translation": "sparring match", "note": "training duel; sparring + kampf (battle or fight)"}
+{"key": "speichelproben", "word": "Speichelproben", "translation": "saliva samples", "note": "biological specimens; speichel (saliva) + proben (samples)"}
+{"key": "speicherbanken", "word": "Speicherbanken", "translation": "memory banks", "note": "information storage; speicher (storage or memory) + banken (banks)"}
+{"key": "spezialdynamit", "word": "Spezialdynamit", "translation": "special dynamite", "note": "customized explosive; spezial (special) + dynamit (dynamite)"}
+{"key": "spezialeinheit", "word": "Spezialeinheit", "translation": "special forces", "note": "elite military unit; spezial (special) + einheit (unit)"}
+{"key": "spezialgetränk", "word": "Spezialgetränk", "translation": "special brew; special potion", "note": "custom-made drink; spezial (special) + getränk (beverage)"}
+{"key": "spezialisieren", "word": "spezialisieren", "translation": "to specialize", "note": "to focus on a particular skill; spezial (special) + -isieren (to make)"}
+{"key": "spiegelbildern", "word": "Spiegelbildern", "translation": "mirror images", "note": "duplicate reflections; spiegel (mirror) + bildern (images)"}
+{"key": "spielerknaller", "word": "Spielerknaller", "translation": "ace player; skilled gamester", "note": "a champion of games; spieler (player) + knaller (something great)"}
+{"key": "spielkameraden", "word": "Spielkameraden", "translation": "playmates; companions", "note": "friends for recreation; spiel (play) + kameraden (comrades)"}
+{"key": "spielzeugluchs", "word": "Spielzeugluchs", "translation": "toy lynx; stuffed lynx", "note": "toy pet; spielzeug (toy) + luchs (lynx)"}
+{"key": "spinatwachteln", "word": "Spinatwachteln", "translation": "spinach quail", "note": "bird species; spinat (spinach) + wachteln (quail)"}
+{"key": "spinnenbiester", "word": "Spinnenbiester", "translation": "spider beasts", "note": "arachnid creatures; spinnen (spider) + biester (beasts)"}
+{"key": "spinnendingern", "word": "Spinnendingern", "translation": "spider things; arachnid creatures", "note": "colloquial creature term; spinnen (spider) + dingern (things)"}
+{"key": "spinnenkönigin", "word": "Spinnenkönigin", "translation": "Spider Queen", "note": "matriarch of spiders; spinnen (spider) + königin (queen)"}
+{"key": "spinnenpanzers", "word": "Spinnenpanzers", "translation": "spider shell; spider carapace", "note": "tough exoskeleton; spinnen (spider) + panzer (shell or armor)"}
+{"key": "spinnenproblem", "word": "Spinnenproblem", "translation": "spider problem; spider infestation", "note": "overabundance of arachnids; spinnen (spider) + problem"}
+{"key": "spinnenschwarm", "word": "Spinnenschwarm", "translation": "spider swarm; mass of spiders", "note": "overwhelming number of arachnids; spinnen (spider) + schwarm (swarm)"}
+{"key": "spionagekopter", "word": "Spionagekopter", "translation": "spy copter; spy helicopter", "note": "reconnaissance aircraft; spionage (spying) + kopter (helicopter)"}
+{"key": "spiritualisten", "word": "Spiritualisten", "translation": "spiritualists; mystics", "note": "those seeking spiritual truth; spirituel (spiritual) + -isten (practitioners)"}
+{"key": "spitzenbrecher", "word": "Spitzenbrecher", "translation": "lace-breaker", "note": "creature that destroys delicate things; spitzen (lace/tips) + brecher (breaker)"}
+{"key": "splitterfellen", "word": "Splitterfellen", "translation": "splinter hides; shattered skins", "note": "damaged or fragmented pelts; splitter (splinter) + fellen (hides)"}
+{"key": "splitterfäuste", "word": "Splitterfäuste", "translation": "Shardfist", "note": "orc clan name; splitter (splinter/shard) + fäuste (fists)"}
+{"key": "splittermaiden", "word": "Splittermaiden", "translation": "Shardmaiden", "note": "faction or creature type; splitter (shard) + maiden"}
+{"key": "splitterproben", "word": "Splitterproben", "translation": "splinter samples; shard samples", "note": "fragments for analysis; splitter (splinter) + proben (samples)"}
+{"key": "splitterwochen", "word": "Splitterwochen", "translation": "Splinter weeks", "note": "time period related to shards or fragments; splitter + wochen (weeks)"}
+{"key": "sporengemetzel", "word": "Sporengemetzel", "translation": "spore massacre; fungal slaughter", "note": "mass death involving fungus; sporen (spores) + gemetzel (carnage)"}
+{"key": "sporengleitern", "word": "Sporengleitern", "translation": "spore gliders", "note": "flying fungal creatures; sporen (spores) + gleitern (gliders)"}
+{"key": "sporengleiters", "word": "Sporengleiters", "translation": "spore glider", "note": "a single fungal flying mount or beast; sporen (spores) + gleiters (glider)"}
+{"key": "sporenstacheln", "word": "Sporenstacheln", "translation": "spore spines; spore thorns", "note": "spiked projections of fungal beings; sporen (spores) + stacheln (spines)"}
+{"key": "sprachbarriere", "word": "Sprachbarriere", "translation": "language barrier", "note": "inability to communicate across tongues; sprach (language) + barriere (barrier)"}
+{"key": "sprungschweife", "word": "Sprungschweife", "translation": "Jump-tails", "note": "creature faction; sprung (jump) + schweife (tails)"}
+{"key": "spukgeschichte", "word": "Spukgeschichte", "translation": "haunted tale; ghost story", "note": "narrative of supernatural events; spuk (haunting) + geschichte (story)"}
+{"key": "späheraufträge", "word": "Späheraufträge", "translation": "scout missions", "note": "reconnaissance assignments; späher (scout) + aufträge (missions)"}
+{"key": "späherforensik", "word": "Späherforensik", "translation": "scout forensics; scouting analysis", "note": "investigation techniques for scouts; späher (scout) + forensik (forensics)"}
+{"key": "stabilisierter", "word": "Stabilisierter", "translation": "stabilized", "note": "made more stable or permanent; stabilisiert (stabilized)"}
+{"key": "stabsfeldwebel", "word": "Stabsfeldwebel", "translation": "Staff Sergeant", "note": "military rank; stabs (staff) + feldwebel (sergeant)"}
+{"key": "stabshauptmann", "word": "Stabshauptmann", "translation": "Staff Captain", "note": "military rank; stabs (staff) + hauptmann (captain)"}
+{"key": "standardgewand", "word": "Standardgewand", "translation": "standard robe; uniform", "note": "official garment; standard + gewand (garment or dress)"}
+{"key": "standardkursen", "word": "Standardkursen", "translation": "standard courses; standard races", "note": "basic training or racing routes; standard + kursen (courses)"}
+{"key": "standhaftesten", "word": "standhaftesten", "translation": "most steadfast; most resolute", "note": "superlative of standhaft; stand (stand) + haft (holding)"}
+{"key": "statuenprojekt", "word": "Statuenprojekt", "translation": "statue project", "note": "construction undertaking; statue + projekt (project)"}
+{"key": "sterilisierung", "word": "Sterilisierung", "translation": "sterilization", "note": "process of making something germ-free; steril (sterile) + -isierung (process)"}
+{"key": "sternensturzes", "word": "Sternensturzes", "translation": "Starfall", "note": "WoW zone name; stern (star) + sturz (fall)"}
+{"key": "stillschweigen", "word": "Stillschweigen", "translation": "silence; discretion", "note": "keeping quiet about something; still (still/silent) + schweigen (silence)"}
+{"key": "stimmungsbombe", "word": "Stimmungsbombe", "translation": "mood bomb; party crasher", "note": "thing that ruins good cheer; stimmung (mood/atmosphere) + bombe (bomb)"}
+{"key": "strahlenkanone", "word": "Strahlenkanone", "translation": "ray gun", "note": "sci-fi weapon; strahlen (rays) + kanone (cannon)"}
+{"key": "strahlungsaura", "word": "Strahlungsaura", "translation": "radiation aura; radioactive field", "note": "glowing energy effect; strahlung (radiation) + aura"}
+{"key": "strandhäuschen", "word": "Strandhäuschen", "translation": "beach cottage", "note": "small house by water; strand (beach) + häuschen (little house)"}
+{"key": "strassenimbisse", "word": "Straßenimbisse", "translation": "street food; street snacks", "note": "quick meals purchased on the go; straße (street) + imbisse (quick meals)"}
+{"key": "strassenverlauf", "word": "Straßenverlauf", "translation": "street course; path of road", "note": "direction or route of a street; straße (street) + verlauf (course or path)"}
+{"key": "streifenmelone", "word": "Streifenmelone", "translation": "striped melon", "note": "food item; streifen (stripes) + melone (melon)"}
+{"key": "strichmännchen", "word": "Strichmännchen", "translation": "stick figure", "note": "simple drawn person; strich (stroke) + männchen (little man)"}
+{"key": "stummelfingern", "word": "Stummelfingern", "translation": "stubby fingers", "note": "short or blunt digits; stummel (stump) + fingern (fingers)"}
+{"key": "stundengläsern", "word": "Stundengläsern", "translation": "temporal hourglasses", "note": "magical time devices; stunden (hours) + gläsern (glass)"}
+{"key": "störfrequenzen", "word": "Störfrequenzen", "translation": "jamming frequencies; interference waves", "note": "signals that block communication; störung (interference) + frequenzen (frequencies)"}
+{"key": "sumpfkreaturen", "word": "Sumpfkreaturen", "translation": "swamp creatures", "note": "beasts of wetlands; sumpf (swamp) + kreaturen (creatures)"}
+{"key": "sumpfleuchtern", "word": "Sumpfleuchtern", "translation": "will-o'-wisps; swamp lights", "note": "bioluminescent flying creatures; sumpf (swamp) + leuchtern (lamps or lights)"}
+{"key": "sumpfmannskost", "word": "Sumpfmannskost", "translation": "swamp grub; hearty marsh fare", "note": "rustic food of wetland peoples; sumpf (swamp) + mannskost (provisions)"}
+{"key": "sumpfschreiter", "word": "Sumpfschreiter", "translation": "Swamp Strider", "note": "giant insect mount or creature; sumpf (swamp) + schreiter (one who strides)"}
+{"key": "syndikatmensch", "word": "Syndikatmensch", "translation": "Syndicate man; syndicate agent", "note": "member of criminal organization; syndikat (syndicate) + mensch (person)"}
+{"key": "szintilasfälle", "word": "Szintilasfälle", "translation": "Scintilla Falls", "note": "location near forests; szintila (shimmering) + fälle (waterfalls)"}
+{"key": "szleichkünszte", "word": "Szleichkünszte", "translation": "stealth", "note": "from Schleichkunst: schleich (sneak) + Kunst (art); sneaking technique"}
+{"key": "söldnerdienste", "word": "Söldnerdienste", "translation": "mercenary services", "note": "söldner + Dienste; hiring armed forces for coin"}
+{"key": "söldnerfreunde", "word": "Söldnerfreunde", "translation": "mercenary allies", "note": "söldner + Freunde; armed groups hired for support"}
+{"key": "söldnerschiffe", "word": "Söldnerschiffe", "translation": "hired ships", "note": "söldner + Schiffe; vessels rented for military use"}
+{"key": "südmeerpiraten", "word": "Südmeerpiraten", "translation": "South Seas pirates", "note": "Südmeer = South Sea faction; also called Zul'Farrak pirates"}
+{"key": "südthaldraszus", "word": "Südthaldraszus", "translation": "South Thaldrasus", "note": "dwarvish settlement; Süd (south) + proper name"}
+{"key": "süssblattbüsche", "word": "Süßblattbüsche", "translation": "sweetleaf bushes", "note": "alchemical herb node; Süßblatt = sweet leaf plant"}
+{"key": "tabellierungen", "word": "Tabellierungen", "translation": "tallies", "note": "tables or records; fits 'errors and tallies'"}
+{"key": "tagesgeschäfte", "word": "Tagesgeschäfte", "translation": "daily operations", "note": "Tages + Geschäfte; routine administrative tasks"}
+{"key": "tapetenwechsel", "word": "Tapetenwechsel", "translation": "change of scenery", "note": "Tapete + Wechsel; German idiom for fresh perspective"}
+{"key": "tarasekspeeren", "word": "Tarasekspeeren", "translation": "Tarasek spears", "note": "creature-specific weapon; spear type from WoW fauna"}
+{"key": "tatkräftigkeit", "word": "Tatkräftigkeit", "translation": "vigor", "note": "Tat (deed) + Kraft (strength); demonstrated competence"}
+{"key": "taunkafriedhof", "word": "Taunkafriedhof", "translation": "Taunkka cemetery", "note": "Taunkka race + Friedhof; burial ground of the Taunkka"}
+{"key": "techno-granate", "word": "Techno-Granate", "translation": "techno-grenade", "note": "gnome or goblin engineering explosive device"}
+{"key": "teergeschöpfen", "word": "Teergeschöpfen", "translation": "tar elementals", "note": "Teer + Geschöpfen; animated tar creatures"}
+{"key": "telaaristation", "word": "Telaaristation", "translation": "Telaar outpost", "note": "Telaar, Draenei settlement; Station is the hub"}
+{"key": "telogrusrisses", "word": "Telogrusrisses", "translation": "Telogrus rift", "note": "Telogrus, void elf zone; Riss = rift or crack"}
+{"key": "temperatizität", "word": "Temperatizität", "translation": "heat criticality", "note": "neologism for thermal system failure or instability"}
+{"key": "temporalknoten", "word": "Temporalknoten", "translation": "temporal anchor", "note": "Temporal + Knoten; magical waypoint in time/space"}
+{"key": "teraptorjungen", "word": "Teraptorjungen", "translation": "young teraktor", "note": "Teraptor + Jungen; juvenile dinosaur-like beasts"}
+{"key": "terrestrisches", "word": "Terrestrisches", "translation": "terrestrial", "note": "earthly or ground-based; refers to burrowing or digging"}
+{"key": "terroristische", "word": "terroristische", "translation": "terrorist", "note": "terroristisch, feminine; fits 'terrorist attacks'"}
+{"key": "terrorschachts", "word": "Terrorschachts", "translation": "Terror Shaft", "note": "Terror + Schacht; mine or shaft feature in a zone"}
+{"key": "terrorschlünde", "word": "Terrorschlünde", "translation": "Maws of Terror", "note": "Schlünde = jaws/maws; creature or location name"}
+{"key": "terrorschlunde", "word": "Terrorschlunde", "translation": "Maws of Terror", "note": "variant of Terrorschlünde; refers to jaws or gullets"}
+{"key": "teufelsanbeter", "word": "Teufelsanbeter", "translation": "demon cultist", "note": "Teufel (demon) + Anbeter; false friend: demon not devil"}
+{"key": "teufelsbrecher", "word": "Teufelsbrecher", "translation": "demon breaker", "note": "things that break demon magic; likely WoW proper term"}
+{"key": "teufelsbresche", "word": "Teufelsbresche", "translation": "Demon's Breach", "note": "Bresche = gap or breach; named location in lore"}
+{"key": "teufelsgeräten", "word": "Teufelsgeräten", "translation": "infernal cannons", "note": "Teufel + Geräte; demonic siege artillery"}
+{"key": "teufelspfützen", "word": "Teufelspfützen", "translation": "demon pools", "note": "Pfützen = puddles; corrupted water or swamp"}
+{"key": "teufelsrelikte", "word": "Teufelsrelikte", "translation": "demon relics", "note": "cursed or infernal artifacts; Relikt = relic"}
+{"key": "teufelstechnik", "word": "Teufelstechnik", "translation": "infernal arts", "note": "demon + Technik; demonic spell-craft or technique"}
+{"key": "teufelstrinker", "word": "Teufelstrinker", "translation": "demon drinker", "note": "creature that feeds on demonic essence"}
+{"key": "theatralischen", "word": "theatralischen", "translation": "theatrical", "note": "from Theatralik; dramatic, stage-like performance"}
+{"key": "thermalenergie", "word": "Thermalenergie", "translation": "thermal energy", "note": "Thermal + Energie; heat-based power or damage"}
+{"key": "tiefenratgeber", "word": "Tiefenratgeber", "translation": "depth guide", "note": "Tiefen + Ratgeber; guide for deep or complex knowledge"}
+{"key": "tiefgreifenden", "word": "tiefgreifenden", "translation": "profound", "note": "Tief (deep) + greifend; truly significant betrayal"}
+{"key": "titanenblitzes", "word": "Titanenblitzes", "translation": "Titanic bolt", "note": "Titanen + Blitz; divine or cosmic lightning"}
+{"key": "titanenenergie", "word": "Titanenenergie", "translation": "titanic energy", "note": "power of the titans; vast ancient magical force"}
+{"key": "titanenfreunds", "word": "Titanenfreunds", "translation": "titan ally", "note": "one aligned with titans; powerful ancient being"}
+{"key": "titanengebilde", "word": "Titanengebilde", "translation": "titan structure", "note": "Gebilde = structure; architecture built by titans"}
+{"key": "titanenhüterin", "word": "Titanenhüterin", "translation": "Titan Guardian", "note": "Hüterin = guardian; likely an NPC title or role"}
+{"key": "titanenschätze", "word": "Titanenschätze", "translation": "titan treasures", "note": "precious artifacts or knowledge from ancient titans"}
+{"key": "titanentruppen", "word": "Titanentruppen", "translation": "titan forces", "note": "Truppen = troops; military units of titanic power"}
+{"key": "titankomplexes", "word": "Titankomplexes", "translation": "titan complex", "note": "major facility or installation; titan + Komplex"}
+{"key": "todesgebieters", "word": "Todesgebieters", "translation": "death lord", "note": "Gebieter = ruler; one commanding death magic"}
+{"key": "todesmaschinen", "word": "Todesmaschinen", "translation": "death machines", "note": "mechanical constructs of destruction; Maschine"}
+{"key": "todesschleiers", "word": "Todesschleiers", "translation": "death veil", "note": "Schleier = shroud; boundary between life and death"}
+{"key": "tollpatschiges", "word": "tollpatschiges", "translation": "clumsy", "note": "tollpatschig = bumbling; awkward or inept behavior"}
+{"key": "tomul-tartiger", "word": "Tomul-tartiger", "translation": "Tomul-tart-like", "note": "resembles a Tomul-tart; creature or food item"}
+{"key": "tortollanische", "word": "tortollanische", "translation": "Tortollan", "note": "of or relating to Tortollans; wise turtle-like race"}
+{"key": "totensprechern", "word": "Totensprechern", "translation": "grave keepers", "note": "Toten + Sprecher; those who tend the dead or speak for them"}
+{"key": "touristenkarte", "word": "Touristenkarte", "translation": "traveler's map", "note": "tourist guide map for journeys or expeditions"}
+{"key": "traditioneller", "word": "traditioneller", "translation": "traditional", "note": "passed down; established practices or customs"}
+{"key": "trainerkollege", "word": "Trainerkollege", "translation": "trainer colleague", "note": "Trainer + Kollege; fellow trainer or coach"}
+{"key": "trainingswoche", "word": "Trainingswoche", "translation": "training week", "note": "period of instruction or practice; Trainings + Woche"}
+{"key": "tranceähnliche", "word": "tranceähnliche", "translation": "trance-like", "note": "ähnlich = similar; resembles a trance state"}
+{"key": "tranksüchtiger", "word": "Tranksüchtiger", "translation": "former addict", "note": "Trank (potion) + Süchtiger; potion-dependent individual"}
+{"key": "transitsystems", "word": "Transitsystems", "translation": "transit system", "note": "network of travel routes or magical portals"}
+{"key": "transmutativen", "word": "transmutativen", "translation": "transmutative", "note": "capable of transformation; alchemical property"}
+{"key": "transportgerät", "word": "Transportgerät", "translation": "transport vehicle", "note": "Gerät = apparatus; conveyance or carrier device"}
+{"key": "transportwagen", "word": "Transportwagen", "translation": "transport wagon", "note": "cart or wagon for moving cargo or prisoners"}
+{"key": "transportwegen", "word": "Transportwegen", "translation": "supply routes", "note": "Weg = way or route; paths for moving goods"}
+{"key": "traumlaubprobe", "word": "Traumlaubprobe", "translation": "dreamfoliage sample", "note": "Traum (dream) + Laub (foliage); magical plant sample"}
+{"key": "treantältesten", "word": "Treantältesten", "translation": "treant elders", "note": "Treant + Ältesten; ancient tree-folk or dryads"}
+{"key": "treibstofftank", "word": "Treibstofftank", "translation": "fuel tank", "note": "container for aircraft or vehicle fuel supply"}
+{"key": "treppenaufgang", "word": "Treppenaufgang", "translation": "staircase", "note": "Treppen + Aufgang; flight of steps or stairs"}
+{"key": "trickserpulver", "word": "Trickserpulver", "translation": "trickster powder", "note": "magical mischief dust; Trickser + Pulver"}
+{"key": "trinkgeschmack", "word": "Trinkgeschmack", "translation": "drinking preference", "note": "Trink + Geschmack; taste in beverages or drinks"}
+{"key": "triumphierende", "word": "triumphierende", "translation": "triumphant", "note": "victorious; exultant or jubilant demeanor"}
+{"key": "trockenperiode", "word": "Trockenperiode", "translation": "drought", "note": "Trocken (dry) + Periode; extended lack of rain"}
+{"key": "trockenzulegen", "word": "trockenzulegen", "translation": "to drain", "note": "trocken + zu-legen; to dry out water or swamps"}
+{"key": "troggartefakte", "word": "Troggartefakte", "translation": "trogg artifacts", "note": "Trogg (cave-dwellers) + Artefakte; relics of primitive race"}
+{"key": "troggplünderer", "word": "Troggplünderer", "translation": "trogg looters", "note": "trogg + Plünderer; scavengers dwelling in depths"}
+{"key": "trollartefakte", "word": "Trollartefakte", "translation": "troll artifacts", "note": "relics of ancient troll civilization; Troll + Artefakte"}
+{"key": "trollbannlinie", "word": "Trollbannlinie", "translation": "troll slayer", "note": "Trollbann (troll-slayer) + Linie; anti-troll warriors"}
+{"key": "trollhandwerks", "word": "Trollhandwerks", "translation": "troll craft", "note": "distinctive troll-made items; Troll + Handwerk"}
+{"key": "trollüberfälle", "word": "Trollüberfälle", "translation": "troll raids", "note": "sudden troll assaults; Troll + Überfälle (attacks)"}
+{"key": "trophäenstapel", "word": "Trophäenstapel", "translation": "trophy pile", "note": "Trophäe + Stapel; war spoils or stacked skulls"}
+{"key": "truppmitglieds", "word": "Truppmitglieds", "translation": "squad member", "note": "Truppe + Mitglied; soldier or comrade in unit"}
+{"key": "tunnelnetzwerk", "word": "Tunnelnetzwerk", "translation": "tunnel network", "note": "interconnected underground passages; Tunnel + Netzwerk"}
+{"key": "turboschreiter", "word": "Turboschreiter", "translation": "turbo strider", "note": "swift riding mount; Turbo + Schreiter (walker)"}
+{"key": "turbulentesten", "word": "turbulentesten", "translation": "most turbulent", "note": "most chaotic or unstable conditions or regions"}
+{"key": "tuskarrfleisch", "word": "Tuskarrfleisch", "translation": "tuskarr meat", "note": "Tuskarr (walrus-like race) + Fleisch; food source"}
+{"key": "tätowiernadeln", "word": "Tätowiernadeln", "translation": "tattoo needles", "note": "ceremonial tools for skin marking; Tätowier + Nadeln"}
+{"key": "tüftlerverband", "word": "Tüftlerverband", "translation": "Tinkers' Syndicate", "note": "Tüftler + Verband; goblin engineering association"}
+{"key": "ultratödlicher", "word": "Ultratödlicher", "translation": "ultra-deadly", "note": "extremely lethal or destructive; Ultra + tödlich"}
+{"key": "umgeschnallter", "word": "umgeschnallter", "translation": "strapped", "note": "umgeschnallt = equipped; outfitted with weapons or gear"}
+{"key": "umgeschriebene", "word": "Umgeschriebene", "translation": "rewritten", "note": "umgeschrieben = altered; new or revised wisdom"}
+{"key": "umhergewandert", "word": "umhergewandert", "translation": "wandered", "note": "umherwandern; traveled or explored extensively"}
+{"key": "umherschleppen", "word": "umherschleppen", "translation": "to haul", "note": "schleppen = drag; carry heavy loads laboriously"}
+{"key": "umherschlurfen", "word": "umherschlurfen", "translation": "to shuffle", "note": "schlurfen = shuffle; move slowly without lifting feet"}
+{"key": "umherwandernde", "word": "umherwandernde", "translation": "wandering", "note": "moving from place to place; umherwandern"}
+{"key": "umherziehenden", "word": "umherziehenden", "translation": "roaming", "note": "traveling across territory; umherziehen"}
+{"key": "umherziehendes", "word": "umherziehendes", "translation": "roving", "note": "itinerant or mobile; moving about territories"}
+{"key": "umschlagsplatz", "word": "Umschlagsplatz", "translation": "trading post", "note": "Umschlag + Platz; hub for commerce and exchange"}
+{"key": "umweltschützer", "word": "Umweltschützer", "translation": "environmentalist", "note": "Umwelt + Schützer; advocate for nature or ecology"}
+{"key": "umwerfendendes", "word": "umwerfendendes", "translation": "stunning", "note": "umwerfend = amazing; breathtaking or extraordinary"}
+{"key": "unaufhaltsamer", "word": "Unaufhaltsamer", "translation": "unstoppable", "note": "unaufhaltsam; impossible to halt or prevent"}
+{"key": "unaufhörlichen", "word": "unaufhörlichen", "translation": "unceasing", "note": "unaufhörlich = ceaseless; continuous or relentless"}
+{"key": "unaufhörlicher", "word": "unaufhörlicher", "translation": "unending", "note": "comparative of unaufhörlich; perpetual procession"}
+{"key": "unausgewogenen", "word": "unausgewogenen", "translation": "imbalanced", "note": "lacking equilibrium or balance; unausgewogen"}
+{"key": "unbarmherzigen", "word": "unbarmherzigen", "translation": "merciless", "note": "unbarmherzig; showing no compassion or leniency"}
+{"key": "unbefriedigten", "word": "unbefriedigten", "translation": "unfulfilled", "note": "unbefriedigt; unmet desires or longings"}
+{"key": "unbegreifliche", "word": "Unbegreifliche", "translation": "incomprehensible", "note": "unbegreiflich; beyond understanding or reason"}
+{"key": "unbeschäftigte", "word": "unbeschäftigte", "translation": "idle", "note": "unbeschäftigt = unoccupied; without work or purpose"}
+{"key": "unbestimmbaren", "word": "unbestimmbaren", "translation": "indeterminate", "note": "unbestimmbar = undeterminable; unknown age or origin"}
+{"key": "unbestimmbarer", "word": "unbestimmbarer", "translation": "inscrutable", "note": "mysterious craftsmanship; indeterminate nature"}
+{"key": "undurchführbar", "word": "undurchführbar", "translation": "impractical", "note": "undurchführbar; seemingly impossible to execute"}
+{"key": "uneinnehmbaren", "word": "uneinnehmbaren", "translation": "impregnable", "note": "uneinnehmar = unconquerable; fortress-like defense"}
+{"key": "unentbehrliche", "word": "unentbehrliche", "translation": "essential", "note": "unentbehrlich; absolutely necessary ingredient"}
+{"key": "unerbittlichem", "word": "unerbittlichem", "translation": "relentless", "note": "unerbittlich = inexorable; fierce or implacable wrath"}
+{"key": "unerlässlichen", "word": "unerlässlichen", "translation": "vital", "note": "unerlässlich = essential; absolutely required for victory"}
+{"key": "unermesslichem", "word": "unermesslichem", "translation": "immense", "note": "unermesslich = immeasurable; vast historical value"}
+{"key": "unermessliches", "word": "unermessliches", "translation": "vast", "note": "immeasurable magical knowledge; boundless archives"}
+{"key": "unerschrockene", "word": "unerschrockene", "translation": "steadfast", "note": "unerschrocken = fearless; unwavering courage"}
+{"key": "unersetzliches", "word": "unersetzliches", "translation": "irreplaceable", "note": "unersetzlich; cannot be replaced or recovered"}
+{"key": "unfreiwilligen", "word": "unfreiwilligen", "translation": "involuntary", "note": "unfreiwillig; forced exposure or unwanted action"}
+{"key": "unfreundlicher", "word": "unfreundlicher", "translation": "unfriendly", "note": "unfreundlich = hostile; show antagonism"}
+{"key": "ungebührlichen", "word": "ungebührlichen", "translation": "improper", "note": "ungebührlich = unseemly; disrespectful conduct"}
+{"key": "ungefährlicher", "word": "ungefährlicher", "translation": "harmless", "note": "ungefährlich = safe; posing no danger or threat"}
+{"key": "ungeheuerliche", "word": "ungeheuerliche", "translation": "outrageous", "note": "ungeheuerlich = monstrous; shocking treaty violation"}
+{"key": "ungeknechteten", "word": "ungeknechteten", "translation": "unchained", "note": "ungeknechtet = unenslave; free warlords or warriors"}
+{"key": "ungeschlüpftes", "word": "ungeschlüpftes", "translation": "unhatched", "note": "ungeschlüpft = not yet hatched; pre-emergence egg"}
+{"key": "ungeschriebene", "word": "ungeschriebene", "translation": "unwritten", "note": "ungeschrieben; prophecy without text or parchment"}
+{"key": "ungewöhnlichem", "word": "ungewöhnlichem", "translation": "unusual", "note": "ungewöhnlich = uncommon; strange patterns or tools"}
+{"key": "unheilpflaster", "word": "Unheilpflaster", "translation": "doom salve", "note": "Unheil (doom) + Pflaster; cursed healing item"}
+{"key": "unheilschwinge", "word": "Unheilschwinge", "translation": "Doomwing", "note": "creature name; Unheil + Schwinge (wing)"}
+{"key": "unheilsflammes", "word": "Unheilsflammes", "translation": "doom flame", "note": "Unheil + Flamme; powerful demonic entity or spell"}
+{"key": "unheimlicherer", "word": "unheimlicherer", "translation": "eerier", "note": "unheimlich + comparative; more sinister or ominous"}
+{"key": "universalzutat", "word": "Universalzutat", "translation": "universal reagent", "note": "Universal + Zutat; multipurpose crafting material"}
+{"key": "unkomfortabler", "word": "unkomfortabler", "translation": "uncomfortable", "note": "lacking ease or comfort; uneasy"}
+{"key": "unkooperativen", "word": "unkooperativen", "translation": "uncooperative", "note": "unkooperativ = stubborn; refusing to work together"}
+{"key": "unkooperativem", "word": "unkooperativem", "translation": "uncooperative", "note": "hostile to cooperation; unwilling to assist"}
+{"key": "unkultivierten", "word": "unkultivierten", "translation": "uncultured", "note": "unkulitiviert = uncivilized; crude or lacking refinement"}
+{"key": "unmenschliches", "word": "Unmenschliches", "translation": "eldritch", "note": "Unmenschlich = inhuman; otherworldly or alien horror"}
+{"key": "unmittelbarste", "word": "unmittelbarste", "translation": "most immediate", "note": "unmittelbar = direct; the most pressing threat or danger"}
+{"key": "unordentlicher", "word": "unordentlicher", "translation": "messier", "note": "unordentlich = disorderly; chaotic handwriting"}
+{"key": "unparteiischen", "word": "unparteiischen", "translation": "discreet", "note": "unparteiisch = impartial; neutral outside observer"}
+{"key": "unrechtmässigen", "word": "unrechtmäßigen", "translation": "unlawful", "note": "unrechtmäßig = illegal; wrongful occupation or rule"}
+{"key": "unsicherheiten", "word": "Unsicherheiten", "translation": "wounds of doubt", "note": "Unsicherheit = uncertainty; lingering mistrust"}
+{"key": "unsympathische", "word": "unsympathische", "translation": "unfriendly faction", "note": "unsympathisch = unlikable; unwelcome or hostile group"}
+{"key": "unterbesetzten", "word": "unterbesetzten", "translation": "understaffed", "note": "unterbesetzt = undermanned; insufficient personnel"}
+{"key": "unterbrochenen", "word": "unterbrochenen", "translation": "interrupted", "note": "unterbrochen = disrupted; halted mid-ceremony"}
+{"key": "unterernährter", "word": "unterernährter", "translation": "malnourished", "note": "unterernährt = underfed; visibly weak and depleted"}
+{"key": "untergaaaaaang", "word": "UNTERGAAAAAANG", "translation": "DOOOOOM", "note": "comedic proper noun; emphatic portent of doom"}
+{"key": "untergattungen", "word": "Untergattungen", "translation": "subspecies", "note": "Unter + Gattungen; lower taxonomic classifications"}
+{"key": "unterhaltsamen", "word": "unterhaltsamen", "translation": "entertaining", "note": "unterhaltsam = amusing; enjoyable stories and company"}
+{"key": "unterhaltsamer", "word": "unterhaltsamer", "translation": "more entertaining", "note": "comparative; more amusing or engaging than before"}
+{"key": "unterhaltsames", "word": "unterhaltsames", "translation": "entertaining spectacle", "note": "amusing show or performance for audience"}
+{"key": "unterhaltungen", "word": "Unterhaltungen", "translation": "talks", "note": "in quest context, not social pleasantries but discussions/gossip"}
+{"key": "unterlassungen", "word": "Unterlassungen", "translation": "omissions", "note": "in IP protection: legal failures to comply (Unterlassungserklärung = cease-and-desist)"}
+{"key": "unternachfrage", "word": "Unternachfrage", "translation": "insufficient demand", "note": "economics term: weak/inadequate demand (opposite of Überangebot)"}
+{"key": "unteroffiziers", "word": "Unteroffiziers", "translation": "non-commissioned officer", "note": "abbreviation NCO; military rank below officer"}
+{"key": "unterscheidung", "word": "Unterscheidung", "translation": "distinction", "note": "false friend: discrimination = unfair bias; Unterscheidung = discrimination between things = distinction"}
+{"key": "unterseeischen", "word": "unterseeischen", "translation": "submarine", "note": "undersea/underwater currents; subsurface phenomena"}
+{"key": "unterstehenden", "word": "unterstehenden", "translation": "subordinate", "note": "those subject to authority; from unterstehen (to be under someone's command)"}
+{"key": "unterstützende", "word": "unterstützende", "translation": "supporting", "note": "adjective describing the hall/organization being supported"}
+{"key": "unterzeichnete", "word": "unterzeichnete", "translation": "signed", "note": "from unterzeichnen: to sign/subscribe; past participle"}
+{"key": "unterzukriegen", "word": "unterzukriegen", "translation": "overcome", "note": "to defeat or get the better of; not just physical 'getting under'"}
+{"key": "unvergessliche", "word": "unvergessliche", "translation": "unforgettable", "note": "memorable or indelible; from vergessen (to forget) + un-"}
+{"key": "unvergleichbar", "word": "unvergleichbar", "translation": "incomparable", "note": "beyond compare; matchless"}
+{"key": "unverkennbaren", "word": "unverkennbaren", "translation": "unmistakable", "note": "immediately recognizable; evident"}
+{"key": "unverkennbares", "word": "unverkennbares", "translation": "unmistakable", "note": "distinctly recognizable appearance or character"}
+{"key": "unverkäufliche", "word": "unverkäufliche", "translation": "unsellable", "note": "not marketable or available for sale"}
+{"key": "unverlässliche", "word": "Unverlässliche", "translation": "unreliable", "note": "not dependable; false friend: not reliable at all"}
+{"key": "unvermittelten", "word": "unvermittelten", "translation": "sudden", "note": "immediate/abrupt; without warning or intermediary"}
+{"key": "unvernünftigen", "word": "unvernünftigen", "translation": "foolish", "note": "lacking reason/sense; irrational rather than just unreasonable"}
+{"key": "unverzichtbare", "word": "Unverzichtbare", "translation": "indispensable", "note": "absolutely necessary; from verzichten (to do without) + un-"}
+{"key": "unveränderlich", "word": "unveränderlich", "translation": "unchangeable", "note": "immutable; constant and eternal"}
+{"key": "unvollkommenen", "word": "Unvollkommenen", "translation": "the Imperfect", "note": "epithet for a character/being; state of imperfection"}
+{"key": "unvollständige", "word": "unvollständige", "translation": "incomplete", "note": "lacking parts; not finished"}
+{"key": "unvorhersehbar", "word": "unvorhersehbar", "translation": "unpredictable", "note": "not foreseeable; random or erratic"}
+{"key": "unwesentlichem", "word": "unwesentlichem", "translation": "immaterial", "note": "not important or relevant to the matter"}
+{"key": "unwillkommener", "word": "Unwillkommener", "translation": "unwelcome", "note": "not wanted; unwished-for guest"}
+{"key": "unwillkommenes", "word": "Unwillkommenes", "translation": "unwelcome", "note": "offensive or intrusive presence"}
+{"key": "unwirtlicheren", "word": "unwirtlicheren", "translation": "more inhospitable", "note": "harsher/less hospitable terrain or climate"}
+{"key": "unzerstörbarem", "word": "Unzerstörbarem", "translation": "indestructible", "note": "cannot be destroyed; imperishable"}
+{"key": "unzerstörbaren", "word": "unzerstörbaren", "translation": "indestructible", "note": "impervious to damage"}
+{"key": "unzerstörbarer", "word": "unzerstörbarer", "translation": "indestructible", "note": "imperishable or undamaged; enduring artifacts"}
+{"key": "ursprungspunkt", "word": "Ursprungspunkt", "translation": "point of origin", "note": "source location; where something began"}
+{"key": "venthyradligen", "word": "Venthyradligen", "translation": "Venthyrad-aligned", "note": "faction or allegiance reference; likely proper noun"}
+{"key": "venture-goblin", "word": "Venture-Goblin", "translation": "venture goblin", "note": "merchant-class goblin; Venture Company reference"}
+{"key": "ver-versprecht", "word": "Ver-Versprecht", "translation": "Promise-Sworn", "note": "poetic/archaic repetition for emphasis; oath-themed name"}
+{"key": "verdienstvolle", "word": "verdienstvolle", "translation": "meritorious", "note": "worthy of honor; having earned recognition"}
+{"key": "verflüchtigten", "word": "verflüchtigten", "translation": "dissipated", "note": "fled or vanished; evaporated in metaphorical sense"}
+{"key": "verführerische", "word": "Verführerische", "translation": "seductive", "note": "tempting or alluring; designed to attract"}
+{"key": "vergleichbares", "word": "Vergleichbares", "translation": "comparable", "note": "similar in nature; able to be compared"}
+{"key": "verlobungsring", "word": "Verlobungsring", "translation": "engagement ring", "note": "symbol of betrothal; marriage promise"}
+{"key": "verlustreicher", "word": "verlustreicher", "translation": "costly", "note": "with heavy casualties; bloodshed-filled rather than 'lossy'"}
+{"key": "verlässlichste", "word": "verlässlichste", "translation": "most reliable", "note": "most dependable; utterly trustworthy"}
+{"key": "vermeintlichen", "word": "vermeintlichen", "translation": "supposed", "note": "alleged or claimed but not proven"}
+{"key": "vermögenswerte", "word": "Vermögenswerte", "translation": "assets", "note": "valuable property or goods; financial term"}
+{"key": "vernichtendste", "word": "vernichtendste", "translation": "most devastating", "note": "completely destructive; overwhelming"}
+{"key": "verrallschlamm", "word": "Verrallschlamm", "translation": "Verrall sludge", "note": "location-specific material; Verrall likely a place or creature name"}
+{"key": "verräterischer", "word": "verräterischer", "translation": "traitorous", "note": "betraying loyalty; verräter = traitor"}
+{"key": "verräterkönigs", "word": "Verräterkönigs", "translation": "Traitor King", "note": "proper noun/epithet for a historical or mythic figure"}
+{"key": "verschachtelte", "word": "Verschachtelte", "translation": "nested", "note": "layered structures; from Schacht (shaft); used in programming/complexity"}
+{"key": "verschiebenden", "word": "verschiebenden", "translation": "shifting", "note": "constantly moving or changing; unstable"}
+{"key": "verschleierten", "word": "verschleierten", "translation": "veiled", "note": "hidden or obscured; covered as if with a veil"}
+{"key": "verschleierter", "word": "verschleierter", "translation": "veiled", "note": "concealed or shrouded; a hidden or mystical path"}
+{"key": "verschlungener", "word": "verschlungener", "translation": "intertwined", "note": "twisted together; braided or tangled (Schlung = coil/twist)"}
+{"key": "verschrumpelte", "word": "verschrumpelte", "translation": "shriveled", "note": "withered and dried up; desiccated"}
+{"key": "verschwundenes", "word": "Verschwundenes", "translation": "missing", "note": "disappeared or lost; the vanished one"}
+{"key": "versehentliche", "word": "Versehentliche", "translation": "accidental", "note": "unintentional (note: quoted in context suggests irony)"}
+{"key": "versprechender", "word": "versprechender", "translation": "promising", "note": "showing good potential; likely to succeed"}
+{"key": "verstandeslose", "word": "verstandeslose", "translation": "mindless", "note": "lacking reason or intelligence; senseless"}
+{"key": "versteckspiels", "word": "Versteckspiels", "translation": "hide-and-seek", "note": "children's game of concealment"}
+{"key": "verstohleneren", "word": "verstohleneren", "translation": "elusive", "note": "hard to catch or understand; slippery or wily (of creatures/prey)"}
+{"key": "verständlichen", "word": "verständlichen", "translation": "understandable", "note": "comprehensible; clearly intelligible"}
+{"key": "verstörendsten", "word": "verstörendsten", "translation": "most disturbing", "note": "deeply upsetting or unsettling"}
+{"key": "versuchsgründe", "word": "Versuchsgründe", "translation": "experiment grounds", "note": "research facility or testing area (location name)"}
+{"key": "versuchsgruppe", "word": "Versuchsgruppe", "translation": "test group", "note": "sample population for experimentation"}
+{"key": "versuchsperson", "word": "Versuchsperson", "translation": "test subject", "note": "individual used in experiments"}
+{"key": "verteidigenden", "word": "verteidigenden", "translation": "defending", "note": "actively protecting or guarding"}
+{"key": "vertrauensfall", "word": "Vertrauensfall", "translation": "trust matter", "note": "issue involving confidence or loyalty"}
+{"key": "verunreinigter", "word": "verunreinigter", "translation": "defiled", "note": "corrupted or desecrated (more precise than 'contaminated')"}
+{"key": "verunreinigtes", "word": "Verunreinigtes", "translation": "contaminated", "note": "polluted or spoiled; corrupted"}
+{"key": "verwundbarkeit", "word": "Verwundbarkeit", "translation": "vulnerability", "note": "state of being exposed to harm or attack"}
+{"key": "verzauberinnen", "word": "Verzauberinnen", "translation": "enchantresses", "note": "female magic users specializing in enchantment"}
+{"key": "veränderliches", "word": "Veränderliches", "translation": "changeable", "note": "mutable or variable; subject to alteration"}
+{"key": "vielgesichtige", "word": "Vielgesichtige", "translation": "many-faced", "note": "having multiple aspects or personas (Viel = many)"}
+{"key": "vielschichtige", "word": "vielschichtige", "translation": "multi-layered", "note": "complex with many levels or dimensions"}
+{"key": "vierundzwanzig", "word": "vierundzwanzig", "translation": "twenty-four", "note": "the number 24"}
+{"key": "vogelbegleiter", "word": "Vogelbegleiter", "translation": "bird companion", "note": "avian familiar or animal ally"}
+{"key": "vollgesabberte", "word": "vollgesabberte", "translation": "slobbered-on", "note": "covered with drool; from sabbern (to drool)"}
+{"key": "volljährigkeit", "word": "Volljährigkeit", "translation": "adulthood", "note": "the age of legal majority; coming of age"}
+{"key": "vollumfänglich", "word": "vollumfänglich", "translation": "completely", "note": "entirely or in full; without limitation"}
+{"key": "vollzuschlagen", "word": "vollzuschlagen", "translation": "to stuff", "note": "to gorge oneself; fill one's belly"}
+{"key": "vonstattengeht", "word": "vonstattengeht", "translation": "takes place", "note": "from von statten gehen: to occur or happen"}
+{"key": "voodoobrauerei", "word": "Voodoobrauerei", "translation": "Voodoo brewery", "note": "proper noun for a goblin brewery"}
+{"key": "vorangeschickt", "word": "vorangeschickt", "translation": "sent ahead", "note": "dispatched in advance; a scout or herald"}
+{"key": "vorausgeflogen", "word": "vorausgeflogen", "translation": "flew ahead", "note": "departed in advance; went before others"}
+{"key": "vorausliegende", "word": "Vorausliegende", "translation": "the future", "note": "what lies ahead; coming events or challenges"}
+{"key": "vorausschauend", "word": "vorausschauend", "translation": "forward-looking", "note": "anticipatory; thinking ahead strategically"}
+{"key": "vorausspringen", "word": "vorausspringen", "translation": "jump ahead", "note": "leap forward in time or sequence"}
+{"key": "vorauszuplanen", "word": "vorauszuplanen", "translation": "to plan ahead", "note": "to prepare in advance"}
+{"key": "vorauszureiten", "word": "vorauszureiten", "translation": "to ride ahead", "note": "to scout or lead the way mounted"}
+{"key": "vorbeifahrende", "word": "vorbeifahrende", "translation": "passing", "note": "ships/vessels going by; temporary visitors"}
+{"key": "vorbeigeflogen", "word": "vorbeigeflogen", "translation": "flew by", "note": "passed quickly without stopping"}
+{"key": "vorbeigelassen", "word": "vorbeigelassen", "translation": "let through", "note": "allowed to pass; granted entry"}
+{"key": "vorbeiziehende", "word": "vorbeiziehende", "translation": "passing", "note": "travelers or wanderers moving through"}
+{"key": "vordringliches", "word": "vordringliches", "translation": "urgent", "note": "pressing or immediate priority"}
+{"key": "voreingestellt", "word": "voreingestellt", "translation": "preset", "note": "configured in advance; default settings"}
+{"key": "vorgefertigten", "word": "vorgefertigten", "translation": "premade", "note": "pre-assembled or prepared beforehand"}
+{"key": "vorgeschlagene", "word": "Vorgeschlagene", "translation": "suggested", "note": "proposed or recommended"}
+{"key": "vorgeschob'nen", "word": "vorgeschob'nen", "translation": "advanced", "note": "pushed forward; forward-positioned (poetic dialect)"}
+{"key": "vorgeschobenes", "word": "vorgeschobenes", "translation": "forward", "note": "advanced position or outpost"}
+{"key": "vorsichtigeren", "word": "vorsichtigeren", "translation": "more careful", "note": "more cautious; less reckless"}
+{"key": "vorstosstruppen", "word": "Vorstoßtruppen", "translation": "assault troops", "note": "forces making an offensive advance or breakthrough"}
+{"key": "vorteilspakete", "word": "Vorteilspakete", "translation": "bonus packages", "note": "collections of benefits or special offers"}
+{"key": "vorzuschreiben", "word": "vorzuschreiben", "translation": "to dictate", "note": "to impose a course of action; to prescribe"}
+{"key": "vrykulchampion", "word": "Vrykulchampion", "translation": "Vrykul champion", "note": "powerful warrior of the Vrykul race"}
+{"key": "vrykulführerin", "word": "Vrykulführerin", "translation": "Vrykul leader", "note": "female commander of a Vrykul warband"}
+{"key": "vrykullegenden", "word": "Vrykullegenden", "translation": "Vrykul legends", "note": "ancient stories and myths of the Vrykul"}
+{"key": "vrykulrezepten", "word": "Vrykulrezepten", "translation": "Vrykul recipes", "note": "ancient formulas of Vrykul alchemy"}
+{"key": "vulperafreunde", "word": "Vulperafreunde", "translation": "Vulpera allies", "note": "Vulpera companions or faction members"}
+{"key": "wachstumsphase", "word": "Wachstumsphase", "translation": "growth phase", "note": "period of development or maturation"}
+{"key": "waffengeschick", "word": "Waffengeschick", "translation": "combat skill", "note": "proficiency or mastery in weaponry (Geschick = dexterity)"}
+{"key": "waffenständern", "word": "Waffenständern", "translation": "weapon racks", "note": "stands or displays for weapons"}
+{"key": "waffenvorräten", "word": "Waffenvorräten", "translation": "weapons stores", "note": "cache or stockpile of arms"}
+{"key": "wahrgewordenen", "word": "wahrgewordenen", "translation": "realized", "note": "nightmare come true; manifested reality"}
+{"key": "wahrgewordener", "word": "wahrgewordener", "translation": "realized", "note": "made manifest or actual; from wahr (true)"}
+{"key": "wahrsagebecken", "word": "Wahrsagebecken", "translation": "divination pool", "note": "mystical water used for fortune-telling or scrying"}
+{"key": "wahrsagermagie", "word": "Wahrsagermagie", "translation": "divination magic", "note": "arcane practices of fortune-telling"}
+{"key": "wahrsagerstaub", "word": "Wahrsagerstaub", "translation": "divination dust", "note": "magical component for fortune-telling"}
+{"key": "warenlieferung", "word": "Warenlieferung", "translation": "goods delivery", "note": "shipment or cargo arrival"}
+{"key": "warpingenieure", "word": "Warpingenieure", "translation": "warp engineers", "note": "technologists of the Manforge (Warp mastery)"}
+{"key": "warpresistente", "word": "warpresistente", "translation": "warp-resistant", "note": "immune to or protected from warp energy"}
+{"key": "was-auch-immer", "word": "was-auch-immer", "translation": "whatever", "note": "anything whatsoever; indifference"}
+{"key": "watzrommeligen", "word": "watzrommeligen", "translation": "watzrommel-like", "note": "creature type; likely goblin slang for a jumbled mess"}
+{"key": "wegzuschleppen", "word": "wegzuschleppen", "translation": "to drag away", "note": "to haul off forcibly"}
+{"key": "wegzuschnappen", "word": "wegzuschnappen", "translation": "to snatch away", "note": "to grab and carry off; to seize"}
+{"key": "wegzuschnapp'n", "word": "wegzuschnapp'n", "translation": "to snatch away", "note": "poetic contraction; same meaning as above"}
+{"key": "weidenschnabel", "word": "Weidenschnabel", "translation": "Willowbill", "note": "proper noun for a creature or character name"}
+{"key": "weidenwahnsinn", "word": "Weidenwahnsinn", "translation": "willow madness", "note": "quest or condition name; madness affliction"}
+{"key": "weiterarbeitet", "word": "weiterarbeitet", "translation": "continues working", "note": "keeps functioning or pursuing an objective"}
+{"key": "weitererzählen", "word": "weitererzählen", "translation": "spread the word", "note": "to tell others; disseminate news or rumors"}
+{"key": "weitererzähl'n", "word": "weitererzähl'n", "translation": "spread the word", "note": "poetic dialect contraction"}
+{"key": "weitergeholfen", "word": "weitergeholfen", "translation": "helped advance", "note": "assisted in progress or promotion"}
+{"key": "weitergekämpft", "word": "weitergekämpft", "translation": "fought on", "note": "continued fighting despite hardship"}
+{"key": "weiterschicken", "word": "weiterschicken", "translation": "send on", "note": "forward or dispatch to another destination"}
+{"key": "weiterschwelen", "word": "weiterschwelen", "translation": "continue to smolder", "note": "keep burning/threatening below the surface"}
+{"key": "weiterzuhelfen", "word": "weiterzuhelfen", "translation": "to help", "note": "to aid or assist further"}
+{"key": "weiterzusuchen", "word": "weiterzusuchen", "translation": "to continue searching", "note": "keep looking; persist in investigation"}
+{"key": "weitreichenden", "word": "weitreichenden", "translation": "far-reaching", "note": "having broad consequences; extensive in scope"}
+{"key": "weitreichendes", "word": "Weitreichendes", "translation": "far-reaching", "note": "extensive or widespread knowledge"}
+{"key": "weitschreiters", "word": "Weitschreiters", "translation": "far-strider", "note": "creature form with name from weit (far) + Schreiter (walker)"}
+{"key": "welpenerlösung", "word": "Welpenerlösung", "translation": "puppy rescue", "note": "quest or situation involving saving young creatures"}
+{"key": "weltbewegendes", "word": "Weltbewegendes", "translation": "earth-shattering", "note": "momentous or cataclysmic (world-moving)"}
+{"key": "weltenbrechern", "word": "Weltenbrechern", "translation": "worldbreakers", "note": "faction name for reality-breaking entities"}
+{"key": "weltenfressern", "word": "Weltenfressern", "translation": "world-eaters", "note": "creatures that consume entire worlds; void entities"}
+{"key": "weltenfressers", "word": "Weltenfressers", "translation": "world-eater", "note": "singular form; void-creature entity"}
+{"key": "werkstattboden", "word": "Werkstattboden", "translation": "workshop floor", "note": "ground level of a crafting facility"}
+{"key": "werkzeugkisten", "word": "Werkzeugkisten", "translation": "toolboxes", "note": "containers of crafting or repair equipment"}
+{"key": "werkzeugkästen", "word": "Werkzeugkästen", "translation": "tool chests", "note": "storage for implements and supplies"}
+{"key": "wertextraktion", "word": "Wertextraktion", "translation": "value extraction", "note": "process of obtaining or harvesting worth"}
+{"key": "wertzuschätzen", "word": "wertzuschätzen", "translation": "to appreciate", "note": "to recognize or esteem the value of"}
+{"key": "westgarnisonen", "word": "Westgarnisonen", "translation": "western outposts", "note": "military positions on the west side"}
+{"key": "wetterphänomen", "word": "Wetterphänomen", "translation": "weather phenomenon", "note": "unusual atmospheric or meteorological event"}
+{"key": "widerrechtlich", "word": "widerrechtlich", "translation": "illegal", "note": "wider (against) + recht (law); unlawful action or trespass"}
+{"key": "wiederaufleb'n", "word": "wiederaufleb'n", "translation": "restore to life", "note": "wieder (again) + aufleben (revive); casual speech form"}
+{"key": "wiederaufnahme", "word": "Wiederaufnahme", "translation": "restoration", "note": "wieder (again) + aufnahme (resumption); renewal of activity"}
+{"key": "wiederaufstieg", "word": "Wiederaufstieg", "translation": "restoration", "note": "wieder (again) + aufstieg (rise); return to power"}
+{"key": "wiederentdeckt", "word": "wiederentdeckt", "translation": "recovered", "note": "wieder + entdeckt; finding something ancient again"}
+{"key": "wiedereröffnen", "word": "wiedereröffnen", "translation": "reestablish", "note": "wieder + eröffnen; open again for business"}
+{"key": "wiedergekommen", "word": "wiedergekommen", "translation": "came back again", "note": "again + come; returned a second time"}
+{"key": "wiedergewinnen", "word": "wiedergewinnen", "translation": "recover", "note": "wieder (again) + gewinnen (win/gain); reclaim what was lost"}
+{"key": "wiederholenden", "word": "wiederholenden", "translation": "recurring", "note": "repetitive or cyclical nature"}
+{"key": "wiederholungen", "word": "Wiederholungen", "translation": "cycles", "note": "wieder (again) + holungen (fetches); repeated instances"}
+{"key": "wiederkehrende", "word": "Wiederkehrende", "translation": "cyclical", "note": "wiederkehr (return) + ende; patterns that repeat"}
+{"key": "wiedervereinen", "word": "wiedervereinen", "translation": "bring back together", "note": "wieder + vereinen; restore unity"}
+{"key": "wiederzukommen", "word": "wiederzukommen", "translation": "return again", "note": ""}
+{"key": "winterpelzklan", "word": "Winterpelzklan", "translation": "Winter Fur Clan", "note": "literal: winter + fur + clan; proper name"}
+{"key": "wirbelströmung", "word": "Wirbelströmung", "translation": "whirlpool current", "note": "wirbel (vortex) + strömung (flow); spinning water"}
+{"key": "wisperschleier", "word": "Wisperschleier", "translation": "Whisper Shroud", "note": "wispern (whisper) + schleier (veil); a family or faction name"}
+{"key": "wissbegieriger", "word": "wissbegieriger", "translation": "knowledge-hungry", "note": "wiss (knowledge) + begierig (eager); those who crave learning"}
+{"key": "wissensdurstes", "word": "Wissensdurstes", "translation": "hunger for knowledge", "note": "wissen (knowledge) + durst (thirst); passionate desire to learn"}
+{"key": "wissenshüterin", "word": "Wissenshüterin", "translation": "knowledge guardian", "note": "wissen (knowledge) + hüterin (guardian); keeper of secrets or lore"}
+{"key": "wissensschätze", "word": "Wissensschätze", "translation": "knowledge cache", "note": "wissen + schätze (treasures); accumulated learning"}
+{"key": "wohlgesitteten", "word": "wohlgesitteten", "translation": "courteous", "note": "wohl (well) + gesittet (mannered)"}
+{"key": "wohlriechenden", "word": "wohlriechenden", "translation": "sweet-smelling", "note": "wohl (good) + riechend (smelling); pleasant odor"}
+{"key": "wohlverdienten", "word": "wohlverdienten", "translation": "richly deserved", "note": "wohl (well) + verdient (earned); fully merited reward"}
+{"key": "wohlverdienter", "word": "Wohlverdienter", "translation": "richly deserved", "note": "triumph that was earned through effort"}
+{"key": "wohlüberlegtes", "word": "wohlüberlegtes", "translation": "carefully designed", "note": "wohl (well) + überlegt (deliberated); intentional craftsmanship"}
+{"key": "wolkenwanderer", "word": "Wolkenwanderer", "translation": "Cloud Wanderer", "note": "wolke (cloud) + wanderer; one who travels the sky"}
+{"key": "wolkenzähmerin", "word": "Wolkenzähmerin", "translation": "Cloud Rider", "note": "wolke (cloud) + zähmerin (tamer); mistress of flying creatures"}
+{"key": "wonnenschwinge", "word": "Wonnenschwinge", "translation": "Blissewing", "note": "wonne (bliss) + schwinge (wing); combining joy and flight"}
+{"key": "worgenfreundin", "word": "Worgenfreundin", "translation": "Worgen ally", "note": "worgen + friend; female companion of the wolf-race"}
+{"key": "worgenspitzeln", "word": "Worgenspitzeln", "translation": "Worgen agents", "note": "wolfish scouts or infiltrators"}
+{"key": "wunderwachstum", "word": "Wunderwachstum", "translation": "miraculous growth", "note": "wunder (marvel) + wachstum (growth); magical plant acceleration"}
+{"key": "wurstfingrigen", "word": "wurstfingrigen", "translation": "stubby-fingered", "note": "wurst (sausage) + finger; crude term for fat fingers"}
+{"key": "wutentbrannten", "word": "Wutentbrannten", "translation": "Fury-kindled", "note": "wut (rage) + entbrannt (ablaze); those set ablaze by anger"}
+{"key": "wyvernhabitate", "word": "Wyvernhabitate", "translation": "wyvern lairs", "note": "habitat where drake-like creatures nest"}
+{"key": "wyvernhabitats", "word": "Wyvernhabitats", "translation": "wyvern lairs", "note": "dwellings of flying reptilian creatures"}
+{"key": "wüstenbewohner", "word": "Wüstenbewohner", "translation": "sand-dwellers", "note": "wüste (desert) + bewohner (inhabitants)"}
+{"key": "wüstendepesche", "word": "Wüstendepesche", "translation": "sand courier", "note": "message runner of desert regions"}
+{"key": "xorothianische", "word": "xorothianische", "translation": "demonic", "note": "adjective form; of or from Xoroth, a demon realm"}
+{"key": "yaungolleichen", "word": "Yaungolleichen", "translation": "giant corpses", "note": "Yaungol are a towering race of shamanic beings"}
+{"key": "yippie-ya-yeah", "word": "Yippie-Ya-Yeah", "translation": "Yee-haw", "note": "cowboy battle cry or celebratory shout"}
+{"key": "zahlungsmittel", "word": "Zahlungsmittel", "translation": "medium of exchange", "note": "zahl (payment) + mittel (means); what the economy uses"}
+{"key": "zandalarischen", "word": "zandalarischen", "translation": "troll", "note": "adjective of Zandalari; refers to the ancient troll civilization"}
+{"key": "zandalaritotem", "word": "Zandalaritotem", "translation": "troll power source", "note": "spiritual focus of Zandalari shamanism"}
+{"key": "zandalaritroll", "word": "Zandalaritroll", "translation": "troll scion", "note": "member of the proud Zandalari empire"}
+{"key": "zauberbinderin", "word": "Zauberbinderin", "translation": "mage-binder", "note": "zauber (magic) + binderin (binder); one who constrains magic"}
+{"key": "zauberbrechers", "word": "Zauberbrechers", "translation": "dispeller", "note": "zauber (spell) + brecher (breaker); breaks enchantments"}
+{"key": "zaubermethoden", "word": "Zaubermethoden", "translation": "spell techniques", "note": "zauber (magic) + methoden (methods)"}
+{"key": "zauberschutzes", "word": "Zauberschutzes", "translation": "spell ward", "note": "zauber (magic) + schutz (protection); magical barrier"}
+{"key": "zaubersprüchen", "word": "Zaubersprüchen", "translation": "incantations", "note": "zauber (magic) + sprüche (utterances); words of power"}
+{"key": "zauberwirkende", "word": "Zauberwirkende", "translation": "warlocks", "note": "zauber (magic) + wirkende (working); casters of spells"}
+{"key": "zaxxisrebellen", "word": "Zaxxisrebellen", "translation": "Zaxxis insurgents", "note": "faction that opposed the main Zaxxis authority"}
+{"key": "zeitenschmiede", "word": "Zeitenschmiede", "translation": "Timeforge", "note": "zeit (time) + schmiede (forge); location where time flows oddly"}
+{"key": "zeitlandschaft", "word": "Zeitlandschaft", "translation": "time-torn realm", "note": "landscape warped by temporal distortion"}
+{"key": "zeitsignaturen", "word": "Zeitsignaturen", "translation": "chronal marks", "note": "zeit (time) + signaturen (signatures); magical time-prints"}
+{"key": "zeitverlorenes", "word": "Zeitverlorenes", "translation": "chrono-lost", "note": "zeit (time) + verloren (lost); displaced through time"}
+{"key": "zeitversetztes", "word": "zeitversetztes", "translation": "temporally displaced", "note": "object or being out of its proper time"}
+{"key": "zeitversetzung", "word": "Zeitversetzung", "translation": "time wound", "note": "zeit (time) + versetzung (displacement); temporal rupture"}
+{"key": "zeitversiegeln", "word": "zeitversiegeln", "translation": "freeze in time", "note": "zeit + versiegeln (seal); preserve from aging"}
+{"key": "zelttuchfetzen", "word": "Zelttuchfetzen", "translation": "canvas shreds", "note": "zelt (tent) + tuch (cloth) + fetzen (tatters)"}
+{"key": "zentaurenklans", "word": "Zentaurenklans", "translation": "horse-tribes", "note": "zentaur + klans; tribal divisions of centaur societies"}
+{"key": "zentralreaktor", "word": "Zentralreaktor", "translation": "core reactor", "note": "zentral (central) + reaktor; power source of a facility"}
+{"key": "zeppelinladung", "word": "Zeppelinladung", "translation": "airship cargo", "note": "zeppelin + ladung (load); freight aboard an airship"}
+{"key": "zerebralkortex", "word": "Zerebralkortex", "translation": "brain cortex", "note": ""}
+{"key": "zeremonienstab", "word": "Zeremonienstab", "translation": "ritual staff", "note": "zeremonie (ceremony) + stab (staff)"}
+{"key": "zeremonienpike", "word": "Zeremonienpike", "translation": "ritual lance", "note": "ceremonial weapon for formal combat"}
+{"key": "zerschlissenen", "word": "zerschlissenen", "translation": "shredded", "note": "zerschlissen means torn or ripped to shreds"}
+{"key": "zerschmetterst", "word": "zerschmetterst", "translation": "pulverize", "note": "reduce to fragments through impact"}
+{"key": "zerstörungszug", "word": "Zerstörungszug", "translation": "wave of ruin", "note": "zerstörung (destruction) + zug (wave/procession)"}
+{"key": "zielgerichtete", "word": "zielgerichtete", "translation": "purposeful", "note": "ziel (goal) + gerichtet (directed); with clear intent"}
+{"key": "zischelsprungs", "word": "Zischelsprungs", "translation": "Hissleap", "note": "likely a name combining serpentine and movement sounds"}
+{"key": "zivilisationen", "word": "Zivilisationen", "translation": "societies", "note": "complex human communities with culture"}
+{"key": "zivilisiertere", "word": "zivilisiertere", "translation": "refined", "note": "having greater cultural sophistication"}
+{"key": "zombifizierter", "word": "zombifizierter", "translation": "reanimated", "note": "raised as an undead servant"}
+{"key": "zornentbrannte", "word": "Zornentbrannte", "translation": "Wrath-kindled", "note": "zorn (wrath) + entbrannt (ablaze); burning with fury"}
+{"key": "zornesschreien", "word": "Zornesschreien", "translation": "roars of wrath", "note": "zorn (anger) + schreien (screams); sounds of combat fury"}
+{"key": "zufallstreffen", "word": "Zufallstreffen", "translation": "serendipitous meeting", "note": "zufall (chance) + treffen (meeting); unplanned encounter"}
+{"key": "zugangsscheibe", "word": "Zugangsscheibe", "translation": "access key", "note": "zugang (access) + scheibe (disc); opens restricted areas"}
+{"key": "zugangsschacht", "word": "Zugangsschacht", "translation": "access tunnel", "note": "entrance passage to a facility"}
+{"key": "zugeständnisse", "word": "Zugeständnisse", "translation": "grants", "note": "zugestandnis (admission); given permissions or rights"}
+{"key": "zukunftslinien", "word": "Zukunftslinien", "translation": "temporal paths", "note": "zukunft (future) + linien (lines); branching possibilities"}
+{"key": "zukunftssorgen", "word": "Zukunftssorgen", "translation": "future dread", "note": "zukunft (future) + sorgen (worries); foreboding about what comes"}
+{"key": "zukunftsvision", "word": "Zukunftsvision", "translation": "precognition", "note": "glimpse of events yet to unfold"}
+{"key": "zuldazarsiegel", "word": "Zuldazarsiegel", "translation": "troll rune", "note": "symbol of Zuldazar, the Zandalari realm"}
+{"key": "zunichtemach'n", "word": "zunichtemach'n", "translation": "obliterate", "note": "casual: zu nichts (reduce to nothing); destroy completely"}
+{"key": "zurechtstutzen", "word": "zurechtstutzen", "translation": "prune", "note": "zu (to) + recht (proper) + stutzen (cut); trim into shape"}
+{"key": "zurückbrachten", "word": "zurückbrachten", "translation": "transported back", "note": "carried or conveyed to original location"}
+{"key": "zurückerwarten", "word": "zurückerwarten", "translation": "expect return", "note": "anticipate someone's arrival back"}
+{"key": "zurückgefund'n", "word": "zurückgefund'n", "translation": "regained strength", "note": "casual speech: recovered or restored"}
+{"key": "zurückgekehrte", "word": "zurückgekehrte", "translation": "homecomers", "note": "those who have gone away and returned"}
+{"key": "zurückgekomm'n", "word": "zurückgekomm'n", "translation": "came back", "note": "casual dialect form; returned from elsewhere"}
+{"key": "zurückgelangen", "word": "zurückgelangen", "translation": "reach again", "note": "arrive back at a place"}
+{"key": "zurückgeleiten", "word": "zurückgeleiten", "translation": "escort back", "note": "guide someone safely to their destination"}
+{"key": "zurückgeleitet", "word": "zurückgeleitet", "translation": "conveyed back", "note": "transported or sent back to origin"}
+{"key": "zurückgestossen", "word": "zurückgestoßen", "translation": "knocked back", "note": "forcefully pushed away by magical or physical force"}
+{"key": "zurückgeworfen", "word": "zurückgeworfen", "translation": "rebounded", "note": "bounced back or echoed away"}
+{"key": "zurückschlugen", "word": "zurückschlugen", "translation": "struck back", "note": "fought back or retaliated in battle"}
+{"key": "zurückzufinden", "word": "zurückzufinden", "translation": "navigate back", "note": "locate the path home"}
+{"key": "zurückzukehr'n", "word": "zurückzukehr'n", "translation": "go home", "note": "casual speech: return to one's dwelling"}
+{"key": "zurückzutragen", "word": "zurückzutragen", "translation": "bring back", "note": "carry or transport to the origin point"}
+{"key": "zurückzuzieh'n", "word": "zurückzuzieh'n", "translation": "fall back", "note": "casual speech: retreat or regroup forces"}
+{"key": "zusamm'nbrau'n", "word": "zusamm'nbrau'n", "translation": "concoct together", "note": "casual speech: mix ingredients into a potion"}
+{"key": "zusamm'zuruf'n", "word": "zusamm'zuruf'n", "translation": "rally together", "note": "casual speech: gather or summon allies"}
+{"key": "zusammenfassen", "word": "zusammenfassen", "translation": "compile", "note": "zusammen (together) + fassen (grasp); gather all parts"}
+{"key": "zusammenfinden", "word": "zusammenfinden", "translation": "reunite", "note": "come together after separation"}
+{"key": "zusammenfindet", "word": "zusammenfindet", "translation": "unites", "note": "becomes one again or forms alliance"}
+{"key": "zusammenflickt", "word": "zusammenflickt", "translation": "mend together", "note": "repair by patching multiple pieces"}
+{"key": "zusammenfliesst", "word": "zusammenfließt", "translation": "converges", "note": "mehrere Bäche fließen zusammen (multiple streams meet)"}
+{"key": "zusammenfügung", "word": "Zusammenfügung", "translation": "joining", "note": "zusammen (together) + fügung (arrangement); fitting pieces"}
+{"key": "zusammenpacken", "word": "zusammenpacken", "translation": "bundle up", "note": "gather and wrap for transport"}
+{"key": "zusammenpassen", "word": "zusammenpassen", "translation": "harmonize", "note": "work or fit well with each other"}
+{"key": "zusammenreimen", "word": "zusammenreimen", "translation": "deduce", "note": "zusammen + reimen; figure out from clues or evidence"}
+{"key": "zusammenreissen", "word": "zusammenreißen", "translation": "regain composure", "note": "pull oneself together mentally"}
+{"key": "zusammenrollen", "word": "zusammenrollen", "translation": "coil up", "note": "form a tight spiral or ball"}
+{"key": "zusammenrotten", "word": "zusammenrotten", "translation": "mob together", "note": "form a angry crowd or horde"}
+{"key": "zusammenrühren", "word": "zusammenrühren", "translation": "blend together", "note": "mix completely into one substance"}
+{"key": "zusammenschlug", "word": "zusammenschlug", "translation": "overwhelmed", "note": "wave of calamity struck suddenly"}
+{"key": "zusammenstehen", "word": "zusammenstehen", "translation": "band together", "note": "unite as one force against adversity"}
+{"key": "zusammenstellt", "word": "zusammenstellt", "translation": "compose", "note": "zusammen + stellt; create by assembling parts"}
+{"key": "zusammenstosses", "word": "Zusammenstoßes", "translation": "clash", "note": "zusammen + stoßen (strike); violent meeting of forces"}
+{"key": "zusammenwirken", "word": "zusammenwirken", "translation": "work in concert", "note": "zusammen + wirken; all act in harmony"}
+{"key": "zusammenzählen", "word": "zusammenzählen", "translation": "tally", "note": "zusammen + zählen (count); sum total of all parts"}
+{"key": "zusatzleistung", "word": "Zusatzleistung", "translation": "enhancement", "note": "zusatz (extra) + leistung (function); added capability"}
+{"key": "zuverlässigere", "word": "zuverlässigere", "translation": "truer", "note": "more worthy of trust and reliance"}
+{"key": "zwangsadoption", "word": "Zwangsadoption", "translation": "coerced adoption", "note": "zwang (force) + adoption; forced into new family"}
+{"key": "zwangsarbeiter", "word": "Zwangsarbeiter", "translation": "slave laborers", "note": "zwang (coercion) + arbeiter (workers); forced servitude"}
+{"key": "zwangsläufigen", "word": "zwangsläufigen", "translation": "inescapable", "note": "zwang (necessity) + läufig (coursing); must follow this path"}
+{"key": "zwecklosigkeit", "word": "Zwecklosigkeit", "translation": "pointlessness", "note": "zweck (purpose) + los (without); lacking all reason or value"}
+{"key": "zweischneidige", "word": "zweischneidige", "translation": "two-edged", "note": "zweite (two) + schneidge (blades); cuts both ways"}
+{"key": "zweitklassigen", "word": "zweitklassigen", "translation": "inferior", "note": "zweit (second) + klassig (rank); lower quality"}
+{"key": "zwergenallianz", "word": "Zwergenallianz", "translation": "Stoneforge Compact", "note": "dwarven political and military alliance"}
+{"key": "zwergencousins", "word": "Zwergencousins", "translation": "mountain kin", "note": "dwarven relatives or affiliated clans"}
+{"key": "zwergenkreatur", "word": "Zwergenkreatur", "translation": "dwarf", "note": "member of the short, sturdy humanoid race"}
+{"key": "zwergenpaladin", "word": "Zwergenpaladin", "translation": "dwarven defender", "note": "holy warrior of the stout folk"}
+{"key": "zwillingsküste", "word": "Zwillingsküste", "translation": "Twin Shores", "note": "zwilling (twin) + küste (coast); paired coastlines"}
+{"key": "zwillingstürme", "word": "Zwillingstürme", "translation": "Twin Peaks", "note": "landmark: two prominent towers or mountains"}
+{"key": "zähneknirschen", "word": "Zähneknirschen", "translation": "grinding rage", "note": "zahn (tooth) + knirschen (grinding); sound of suppressed fury"}
+{"key": "äthertechniker", "word": "Äthertechniker", "translation": "ethereal engineer", "note": "aether (magical substance) + techniker (engineer)"}
+{"key": "ödnisbewohnern", "word": "Ödnisbewohnern", "translation": "wastefolk", "note": "ödnis (wasteland) + bewohner (dweller); desert nomads"}
+{"key": "ölbeschmierten", "word": "ölbeschmierten", "translation": "grease-covered", "note": "oel (grease) + beschmierten (smeared); slick with oil"}
+{"key": "ölverschmierte", "word": "ölverschmierte", "translation": "slick", "note": "oel (oil) + verschmiert (slimed); covered in greasy film"}
+{"key": "übelriechenden", "word": "übelriechenden", "translation": "stinking", "note": "übel (foul) + riechend (smelling); repellent odor"}
+{"key": "überarbeiteter", "word": "überarbeiteter", "translation": "exhausted", "note": "über (over) + arbeitet (worked); worn out from labor"}
+{"key": "überblickenden", "word": "überblickenden", "translation": "commanding", "note": "über (over) + blick (look); position of strategic overview"}
+{"key": "übereinstimmen", "word": "übereinstimmen", "translation": "correspond", "note": "über (over) + einstimmen (agree); thoughts align or match"}
+{"key": "überhandnehmen", "word": "überhandnehmen", "translation": "run rampant", "note": "über (over) + hand (hand); growing out of control"}
+{"key": "überlebenstipp", "word": "Überlebenstipp", "translation": "survival guide", "note": "practical wisdom for staying alive in harsh lands"}
+{"key": "überquellender", "word": "überquellender", "translation": "crackling", "note": "über (over) + quell (surge); energy overflowing with power"}
+{"key": "überquellendes", "word": "Überquellendes", "translation": "bursting", "note": "überquellend; full to bursting with content"}
+{"key": "überraschenden", "word": "überraschenden", "translation": "unexpected", "note": "über (over) + rasch (quick); sudden revelation or event"}
+{"key": "überraschendes", "word": "Überraschendes", "translation": "unexpected thing", "note": "something that catches one off guard"}
+{"key": "überschüssigen", "word": "überschüssigen", "translation": "excess", "note": ""}
+{"key": "überzeugendste", "word": "überzeugendste", "translation": "most convincing", "note": ""}
+{"key": "davonzutrag'n", "word": "davonzutrag'n", "translation": "to sustain; to bear", "note": "in context of battle wounds, not advantages"}
+{"key": "immermornhöhe", "word": "Immermornhöhe", "translation": "Immermornhöhe", "note": "location name; immer (ever) + höhe (height)"}
+{"key": "jadehex'nbräu", "word": "Jadehex'nbräu", "translation": "Jadehex'nbräu", "note": "proper noun; -bräu = brewery"}
+{"key": "leckermäulern", "word": "Leckermäulern", "translation": "those with a sweet tooth", "note": "Leckermäuler = greedy eater, person fond of treats"}
+{"key": "zusammenklang", "word": "Zusammenklang", "translation": "harmony; accord", "note": "from zusammen (together) + klang (sound)"}
+{"key": "todesrituale", "word": "Todesrituale", "translation": "death rites; funeral rites", "note": "from Tod (death) + Rituale (rituals)"}
+{"key": "beizukommen", "word": "beizukommen", "translation": "to overcome; to deal with", "note": "more active than coming to terms, means to defeat or handle"}
+{"key": "federweisser", "word": "Federweißer", "translation": "Federweißer", "note": "proper noun; also historically a type of new wine"}
+{"key": "grossmachers", "word": "Großmachers", "translation": "Großmachers", "note": "genitive of Großmacher (show-off, bigwig); part of tech term here"}
+{"key": "klau-kühnes", "word": "Klau-kühnes", "translation": "Klau-kühnes", "note": "proper noun; likely NPC or group name"}
+{"key": "kraklenheit", "word": "Kraklenheit", "translation": "Kraklenheit", "note": "invented WoW unit of temperature"}
+{"key": "todesreiter", "word": "Todesreiter", "translation": "death riders", "note": "from Tod (death) + Reiter (riders); enemy type"}
+{"key": "voreinander", "word": "voreinander", "translation": "in front of each other", "note": "they have nothing to hide from each other"}
+{"key": "vrykulschen", "word": "vrykulschen", "translation": "vrykulschen", "note": "adjective form of Vrykul (WoW race name)"}
+{"key": "abzufinden", "word": "abzufinden", "translation": "to come to terms with", "note": "from ab (away) + finden (find)"}
+{"key": "grossfiddel", "word": "Großfiddel", "translation": "Großfiddel", "note": "proper noun; likely ancestor or relative name"}
+{"key": "kaiserhöhe", "word": "Kaiserhöhe", "translation": "Kaiserhöhe", "note": "location name; Kaiser (emperor) + höhe (height)"}
+{"key": "knatzkönig", "word": "Knatzkönig", "translation": "Knatzkönig", "note": "proper noun; -könig = king"}
+{"key": "schönalpha", "word": "Schönalpha", "translation": "Schönalpha", "note": "proper noun"}
+{"key": "trubelbräu", "word": "Trubelbräu", "translation": "Trubelbräu", "note": "proper noun; NPC name; -bräu = brewery"}
+{"key": "wanderbräu", "word": "Wanderbräu", "translation": "Wanderbräu", "note": "proper noun; NPC name; -bräu = brewery"}
+{"key": "chrombräu", "word": "Chrombräu", "translation": "Chrombräu", "note": "proper noun; NPC name; -bräu = brewery"}
+{"key": "drehkreuz", "word": "Drehkreuz", "translation": "hub; central point", "note": "from drehen (turn) + Kreuz (cross); crossroads or pivotal location"}
+{"key": "mackreilä", "word": "Mackreilä", "translation": "Mackreilä", "note": "proper noun in Bavarian dialect"}
+{"key": "mühlbachs", "word": "Mühlbachs", "translation": "Mühlbachs", "note": "proper noun; genitive of Mühlbach (mill stream)"}
+{"key": "schnösels", "word": "Schnösels", "translation": "Schnösels", "note": "proper noun; Schnösel = snobby or conceited person"}
+{"key": "glupschä", "word": "Glupschä", "translation": "Glupschä", "note": "dialect word; exact meaning unclear"}
+{"key": "klaukühn", "word": "Klaukühn", "translation": "Klaukühn", "note": "proper noun; NPC name"}
+{"key": "leischen", "word": "Leischen", "translation": "Leischen", "note": "dialect term, possibly corpse-related; exact meaning unclear"}
+{"key": "mühlbach", "word": "Mühlbach", "translation": "Mühlbach", "note": "proper noun; name meaning mill stream"}
+{"key": "rugelfuss", "word": "Rugelfuß", "translation": "Rugelfuß", "note": "proper noun; NPC name"}
+{"key": "rüüüülps", "word": "rüüüülps", "translation": "rüüüülps", "note": "onomatopoeia; burp sound"}
+{"key": "schüchti", "word": "Schüchti", "translation": "Schüchti", "note": "proper noun; character name"}
+{"key": "errlich", "word": "errlich", "translation": "errlich", "note": "proper noun; NPC name"}
+{"key": "finchen", "word": "Finchen", "translation": "Finchen", "note": "proper noun; character name"}
+{"key": "rüüülps", "word": "Rüüülps", "translation": "Rüüülps", "note": "onomatopoeia; capitalized burp sound"}
+{"key": "szätsze", "word": "SZÄTSZE", "translation": "SZÄTSZE", "note": "goblin dialect; intentionally misspelled"}
+{"key": "zürners", "word": "Zürners", "translation": "Zürners", "note": "proper noun; genitive form, NPC name"}
+{"key": "anhöan", "word": "anhöan", "translation": "to sound; to listen", "note": "dialect form of anhören; 'will sound strange'"}
+{"key": "götz'n", "word": "Götz'n", "translation": "Götz'n", "note": "dialect form; exact meaning unclear"}
+{"key": "tagaus", "word": "tagaus", "translation": "day out", "note": "from tag (day) + aus (out); part of phrase 'day in, day out'"}
+{"key": "tagein", "word": "tagein", "translation": "day in", "note": "from tag (day) + ein (in); part of phrase 'day in, day out'"}
+{"key": "wüadet", "word": "wüadet", "translation": "would", "note": "dialect form of würde (conditional)"}
+{"key": "zündel", "word": "Zündel", "translation": "Zündel", "note": "proper noun; NPC name"}

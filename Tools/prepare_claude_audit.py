@@ -22,7 +22,8 @@ def load_jsonl(path):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--reason", default="compound", help="candidate reason to select")
+    ap.add_argument("--reason", default="compound",
+                    help="candidate reason to select, or 'any' for every remaining candidate")
     ap.add_argument("--limit", type=int, default=720, help="how many entries this wave")
     ap.add_argument("--batch-size", type=int, default=60)
     ap.add_argument("--offset", type=int, default=0, help="skip N entries (for later waves)")
@@ -33,7 +34,8 @@ def main():
         done.update(r["key"] for r in load_jsonl(path))
 
     rows = [r for r in load_jsonl(CANDIDATES)
-            if args.reason in r.get("reasons", []) and r["key"] not in done]
+            if (args.reason == "any" or args.reason in r.get("reasons", []))
+            and r["key"] not in done]
     rows.sort(key=lambda r: -r.get("count", 0))
     rows = rows[args.offset:args.offset + args.limit]
 
