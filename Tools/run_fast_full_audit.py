@@ -11,6 +11,7 @@ CACHE = ROOT / "Data/cache"
 TRANSLATIONS = CACHE / "translations_de_en.jsonl"
 CURATED = ROOT / "Data/CuratedDE.jsonl"
 REVIEWED = CACHE / "fast_audit_reviewed.txt"
+FALLBACKS = CACHE / "fast_audit_fallbacks.jsonl"
 BATCH_DIR = CACHE / "fast_audit_batches"
 MUSE_DIR = CACHE / "fast_audit_muse"
 MIMO_INPUT_DIR = CACHE / "fast_audit_mimo_input"
@@ -80,7 +81,19 @@ def parse_response(stdout):
     return rows
 
 
-def validate(rows, source, phase):
+def fallback_row(source, phase):
+    if phase == "muse":
+        return {
+            "key": source["key"], "action": "keep", "translation": source.get("translation") or "",
+            "note": source.get("note") or "", "status": "ignored" if source.get("status") == "ignored" else "keep", "confidence": "low",
+        }
+    return {
+        "key": source["key"], "action": "reject", "translation": source.get("current_translation") or "",
+        "note": source.get("current_note") or "", "status": "ignored" if source.get("current_status") == "ignored" else "keep", "confidence": "low",
+    }
+
+
+def validate(rows, source, phase, fill_missing=False):
     expected = {row["key"].casefold(): row["key"] for row in source}
     normalized = {}
     required = {"key", "action", "translation", "note", "status", "confidence"}
@@ -100,7 +113,11 @@ def validate(rows, source, phase):
         normalized[key_cf] = row
     missing = set(expected) - set(normalized)
     if missing:
-        raise ValueError(f"{phase}: missing {len(missing)} keys")
+        if not fill_missing:
+            raise ValueError(f"{phase}: missing {len(missing)} keys")
+        for item in source:
+            if item["key"].casefold() in missing:
+                normalized[item["key"].casefold()] = fallback_row(item, phase)
     return [normalized[row["key"].casefold()] for row in source]
 
 
@@ -113,19 +130,30 @@ def run_model(kilo, model, variant, prompt, source_path, output_path, phase, ret
         command += ["--variant", variant]
     command += ["-f", str(source_path)]
     last = None
+    last_rows = None
     for attempt in range(1, retries + 1):
         try:
             result = subprocess.run(command, cwd=ROOT, env=env, capture_output=True, text=True, encoding="utf-8", errors="replace", timeout=600)
             if result.returncode:
                 raise RuntimeError(f"exit={result.returncode}: {result.stderr[-500:]}")
-            rows = validate(parse_response(result.stdout), source, phase)
+            parsed = parse_response(result.stdout)
+            last_rows = parsed
+            rows = validate(parsed, source, phase, fill_missing=attempt == retries)
             write_jsonl(output_path, rows)
+            if attempt == retries and any(row.get("confidence") == "low" for row in rows):
+                with FALLBACKS.open("a", encoding="utf-8") as fallback_file:
+                    fallback_file.write(json.dumps({"phase": phase, "batch": source_path.name, "error": str(last), "keys": [row["key"] for row in rows if row.get("confidence") == "low"]}, ensure_ascii=False) + "\n")
             return len(rows)
         except Exception as error:
             last = error
             print(f"RETRY {phase} {source_path.name} attempt={attempt}: {error}", flush=True)
             time.sleep(attempt * 5 + random.random() * 8)
-    raise RuntimeError(f"{phase} failed {source_path.name}: {last}")
+    rows = [fallback_row(item, phase) for item in source]
+    write_jsonl(output_path, rows)
+    with FALLBACKS.open("a", encoding="utf-8") as fallback_file:
+        fallback_file.write(json.dumps({"phase": phase, "batch": source_path.name, "error": str(last), "keys": [row["key"] for row in rows]}, ensure_ascii=False) + "\n")
+    print(f"FALLBACK {phase} {source_path.name}: {last}", flush=True)
+    return len(rows)
 
 
 def effective_records():
