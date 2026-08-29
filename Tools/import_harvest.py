@@ -25,6 +25,7 @@ BLOB = re.compile(r'WordHunterWoWCorpusExport\s*=\s*"((?:[^"\\]|\\.)*)"', re.S)
 # Quest passages the addon can see. "gossip" has no quest to attach to and is
 # kept as its own record.
 QUEST_FIELDS = ("title", "description", "objectives", "progress", "reward")
+# "word" and "gossip" are not quest fields and are handled separately.
 
 
 def read_blob(saved_path):
@@ -76,8 +77,11 @@ def main():
         quests[record["id"]] = record
         order.append(record["id"])
 
-    filled, conflicting, new_quests, gossip = 0, 0, 0, []
+    filled, conflicting, new_quests, gossip, unknown = 0, 0, 0, [], []
     for kind, quest_id, text in entries:
+        if kind == "word":
+            unknown.append(text)
+            continue
         if kind == "gossip":
             gossip.append(text)
             continue
@@ -111,6 +115,22 @@ def main():
         seen_gossip.add(text)
         next_id -= 1
         added_gossip += 1
+
+    # Words the addon could not gloss are not corpus text -- they are a worklist.
+    # Write them where translate_google.py can pick them up rather than folding
+    # them into the quests file.
+    if unknown:
+        seen = set()
+        fresh = [w for w in unknown if not (w.casefold() in seen or seen.add(w.casefold()))]
+        words_path = ROOT / f"Data/cache/unknown_words_{locale}.txt"
+        had = set()
+        if words_path.exists():
+            had = {l.strip() for l in words_path.read_text(encoding="utf-8").splitlines() if l.strip()}
+        added = [w for w in fresh if w not in had]
+        with words_path.open("a", encoding="utf-8") as fh:
+            for w in added:
+                fh.write(w + chr(10))
+        print(f"  words with no dictionary entry: {len(fresh)} collected, {len(added)} new -> {words_path.name}")
 
     print(f"  filled empty fields: {filled}")
     print(f"  disagreed with existing text (kept the corpus): {conflicting}")

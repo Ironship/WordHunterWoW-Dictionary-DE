@@ -13,7 +13,7 @@ def get_token():
     req = urllib.request.Request("https://oauth.battle.net/token", data=b"grant_type=client_credentials", headers={"Authorization": f"Basic {auth}"})
     return json.load(urllib.request.urlopen(req, timeout=30))["access_token"]
 def main():
-    p = argparse.ArgumentParser(); p.add_argument("--csv", default=str(ROOT / "Data/QuestV2.csv")); p.add_argument("--cache", default=str(ROOT / "Data/cache/quests_deDE.jsonl")); p.add_argument("--failed", default=str(ROOT / "Data/cache/failed_deDE.txt")); p.add_argument("--workers", type=int, default=6); p.add_argument("--interval", type=float, default=0.25); p.add_argument("--limit", type=int, default=0); args = p.parse_args()
+    p = argparse.ArgumentParser(); p.add_argument("--csv", default=str(ROOT / "Data/quest_ids.csv")); p.add_argument("--cache", default=str(ROOT / "Data/cache/quests_deDE.jsonl")); p.add_argument("--failed", default=str(ROOT / "Data/cache/failed_deDE.txt")); p.add_argument("--workers", type=int, default=6); p.add_argument("--interval", type=float, default=0.25); p.add_argument("--limit", type=int, default=0); args = p.parse_args()
     cache, failed = pathlib.Path(args.cache), pathlib.Path(args.failed); cache.parent.mkdir(parents=True, exist_ok=True); done = set()
     for path, is_json in ((cache, True), (failed, False)):
         if path.exists():
