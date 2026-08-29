@@ -23,13 +23,14 @@ Learning a different language? There are packs for [French](https://github.com/I
 ## Rebuild (maintainers)
 
 1. `Tools/keys.env` with Blizzard API keys. Never commit it.
-2. A quest id list at `Data/quest_ids.csv` — one `ID` column. Gitignored.
+2. Nothing. `fetch_quests.py` asks the API which quests exist. An optional
+   `Data/quest_ids.csv` with an `ID` column is merged in when present.
 3. `python Tools/fetch_quests.py`
 4. `python Tools/build_wordlist.py`
 5. `python Tools/translate_google.py --workers 4 --interval 0.25`
 6. `python Tools/build_dictionary_lua.py`
 
-Do not commit `Data/cache/` or `quest_ids.csv`. Commit generated `Data/DictionaryDE.lua`.
+Do not commit `Data/cache/`. Commit generated `Data/DictionaryDE.lua`.
 
 ### Filling the gaps the API leaves
 
