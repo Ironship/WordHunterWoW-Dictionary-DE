@@ -128,7 +128,13 @@ def main():
             if (r.get("translation") or "").strip() != current:
                 continue
             word = src[key]["word"]
-            if (current[:1].isupper() and " " not in current
+            # A leading capital on the whole gloss is the signal, whether the
+            # gloss is one word or several: "Ritual books" for Ritualbuecher is
+            # the same miss as "Newt" for Molch. Only the first word is tested,
+            # so "Force of Nature" style names are judged on their first word
+            # like anything else.
+            if (current[:1].isupper()
+                    and current.split()[0].casefold() != word.casefold()
                     and current.casefold() != word.casefold()):
                 capped += 1
         stats.append((out_path.name, len(rows), changed, noted, bool(broken), capped))
