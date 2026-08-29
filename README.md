@@ -6,7 +6,7 @@ It plugs into [QuestWordHunter](https://github.com/Ironship/WordHunterWoW). Word
 
 <img width="1399" height="1156" alt="{E7E7321A-9B7E-4D45-9D50-E94F790638EF}" src="https://github.com/user-attachments/assets/0368d63e-46c6-4f89-89a3-09f5dcca8bd9" />
 
-~74,000 entries. Of those, 60,212 (82%) have been reviewed by hand against the quest sentence they appear in: the translation checked for false friends, wrong senses and missed official WoW names, and a short note added where the word teaches something — a compound broken up, a separable verb, a case a preposition takes. The rest is still raw Google output and is being worked through.
+**All 73,863 entries have been reviewed by hand** against the quest sentence the word actually appears in: the translation checked for false friends, wrong senses of ambiguous words and missed official WoW names, and a short note added where the word teaches something — a compound broken apart, a separable verb, the case a preposition takes. Nothing in this pack is raw machine output any more.
 
 ## What you need
 
