@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <defs><linearGradient id="g"><stop stop-color="#fff0a0"/><stop offset=".35" stop-color="#e3a329"/><stop offset=".72" stop-color="#75400d"/><stop offset="1" stop-color="#f7ca58"/></linearGradient><filter id="s" x="-30%" y="-30%" width="170%" height="180%"><feDropShadow dy="18" stdDeviation="16" flood-color="#02080d" flood-opacity=".85"/></filter><clipPath id="c"><path d="M716 661Q820 616 924 661v143q0 105-104 163-104-58-104-163z"/></clipPath></defs>
+  <rect width="1024" height="1024" fill="#061724"/><image href="../../WordHunterWoW/art/icon_wordhunter.png" width="1024" height="1024"/>
+  <g filter="url(#s)"><path d="M706 653Q820 601 934 653v151q0 116-114 178-114-62-114-178z" fill="#071018" stroke="#071018" stroke-width="28"/><g clip-path="url(#c)"><rect x="710" y="630" width="220" height="115" fill="#171717"/><rect x="710" y="745" width="220" height="110" fill="#bd2432"/><rect x="710" y="855" width="220" height="125" fill="#e7ad31"/></g><path d="M716 661Q820 616 924 661v143q0 105-104 163-104-58-104-163z" fill="none" stroke="url(#g)" stroke-width="14"/></g>
+</svg>
