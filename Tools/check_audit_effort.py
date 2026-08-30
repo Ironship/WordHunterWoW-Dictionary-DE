@@ -8,7 +8,7 @@ wave exposes it. Rerun anything this reports before merging.
 import argparse, difflib, json, pathlib, statistics, sys
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
-WORKDIR = ROOT / "Data/cache/audit_work"
+WORKDIR = ROOT / "Data/cache/audit_work"   # overridden by --workdir
 
 
 def demojibake(text):
@@ -51,7 +51,11 @@ def main():
     # 25-40% of translations revised and a note on 70-100% of rows).
     ap.add_argument("--min-change-rate", type=float, default=0.08)
     ap.add_argument("--min-note-rate", type=float, default=0.40)
+    ap.add_argument("--workdir", help="audit work directory; defaults to the Retail one")
     args = ap.parse_args()
+    global WORKDIR
+    if args.workdir:
+        WORKDIR = pathlib.Path(args.workdir)
 
     stats = []
     for out_path in sorted((WORKDIR / "out").glob("batch_*.jsonl")):

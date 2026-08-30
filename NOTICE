@@ -1,0 +1,36 @@
+WordHunterWoW-Dictionary-DE
+Copyright (C) 2026 Ironship
+
+This program is free software: you can redistribute it and/or modify it under
+the terms of the GNU General Public License as published by the Free Software
+Foundation, either version 3 of the License, or (at your option) any later
+version. See the LICENSE file for the full text.
+
+
+Third-party material
+--------------------
+
+Part of the German vocabulary in this dictionary was gathered from the German
+quest text in the quest database of Questie
+(https://github.com/Questie/Questie), which is distributed under the GNU
+General Public License version 3.
+
+Modifications made by Ironship, 30 August 2026:
+
+  * German quest titles and objective lines for Classic Era were read for the
+    words they contain. Roughly 3,900 words that the dictionary did not
+    already cover were taken from them.
+  * What this addon ships is not that text. It is a list of individual German
+    words, each with an English translation and an explanatory note written
+    for this project. No quest sentence is reproduced.
+  * The remaining ~74,000 entries were built from Blizzard's own Game Data API
+    and are unaffected.
+
+The extraction is performed by Tools/extract_classic_words.py, which is part of
+the corresponding source of this work.
+
+World of Warcraft content and materials are trademarks and copyrights of
+Blizzard Entertainment or its licensors. This addon is not affiliated with or
+endorsed by Blizzard Entertainment, and the GNU General Public License above
+applies to this addon's own code and to the material it received under that
+licence, not to Blizzard's underlying content.

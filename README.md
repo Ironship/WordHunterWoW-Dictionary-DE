@@ -43,3 +43,26 @@ python Tools/build_dictionary_lua.py
 ```
 
 Hand-checked entries live in `Data/CuratedDE.jsonl` and override the machine output. Commit the generated `Data/DictionaryDE.lua`; do not commit `Data/cache/`.
+
+## Classic Era words
+
+Words that only appear in Classic Era quest text are gathered separately, so a
+Classic run can never write into the Retail cache:
+
+```
+python Tools/extract_classic_words.py --quests <quests.jsonl>
+python Tools/translate_google.py --wordlist Data/cache/classic/wordlist_deDE.jsonl --cache Data/cache/classic/translations_de_en.jsonl
+python Tools/prepare_classic_audit.py --limit 4200 --batch-size 150
+# audit the batches, then:
+python Tools/check_audit_effort.py --workdir Data/cache/classic/audit_work
+python Tools/merge_audit.py --workdir Data/cache/classic/audit_work
+python Tools/build_dictionary_lua.py
+```
+
+Everything ends up in the same `CuratedDE.jsonl` and the same
+`DictionaryDE.lua`: the dictionary is keyed by word, so one file is correct for
+both games.
+
+## Licence
+
+GPL v3 — see `LICENSE`, and `NOTICE` for the attribution the licence requires.

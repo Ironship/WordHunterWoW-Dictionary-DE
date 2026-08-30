@@ -8,7 +8,7 @@ translation is worse than the Google one it would replace.
 import argparse, difflib, json, pathlib, sys
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
-WORKDIR = ROOT / "Data/cache/audit_work"
+WORKDIR = ROOT / "Data/cache/audit_work"   # overridden by --workdir
 CURATED = ROOT / "Data/CuratedDE.jsonl"
 NOTE_MAX = 200
 
@@ -68,7 +68,11 @@ def check(row, src):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--dry-run", action="store_true")
+    ap.add_argument("--workdir", help="audit work directory; defaults to the Retail one")
     args = ap.parse_args()
+    global WORKDIR
+    if args.workdir:
+        WORKDIR = pathlib.Path(args.workdir)
 
     accepted, rejected, repaired, changed, notes_added = [], [], [], 0, 0
     for out_path in sorted((WORKDIR / "out").glob("batch_*.jsonl")):

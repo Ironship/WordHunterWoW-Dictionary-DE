@@ -12,3 +12,4 @@ desktop.ini
 # flattened into the filename. Keep that out of the repo.
 *scratchpad*
 *AppData*
+__pycache__/

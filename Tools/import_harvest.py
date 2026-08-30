@@ -37,19 +37,29 @@ def read_blob(saved_path):
                  "file is written.")
     # The value is a Lua string literal; only the escapes Lua itself emits matter.
     raw = match.group(1).replace('\\"', '"').replace("\\\\", "\\").replace("\\n", "\n")
-    if not raw.startswith("WHC1|"):
+    # WHC1 predates Classic and names no game: everything in one is Retail,
+    # because Retail is the only game the addon ran on when it was written.
+    # WHC2 names the game on every row.
+    version, locale, rows = raw.split("|", 2)
+    if version == "WHC1":
+        width, has_flavor = 3, False
+    elif version == "WHC2":
+        width, has_flavor = 4, True
+    else:
         sys.exit(f"unexpected export format: {raw[:32]!r}")
-    _, locale, rows = raw.split("|", 2)
     entries = []
     for row in rows.split(";"):
         if not row:
             continue
         parts = row.split("|")
-        if len(parts) != 3:
+        if len(parts) != width:
             print(f"  ! skipping malformed row: {row[:60]!r}")
             continue
-        kind, quest_id, encoded = parts
-        entries.append((kind, int(quest_id or 0), urllib.parse.unquote(encoded)))
+        if has_flavor:
+            kind, quest_id, flavor, encoded = parts
+        else:
+            (kind, quest_id, encoded), flavor = parts, "retail"
+        entries.append((kind, int(quest_id or 0), flavor, urllib.parse.unquote(encoded)))
     return locale, entries
 
 
@@ -57,15 +67,32 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--saved", required=True, help="path to SavedVariables/WordHunterWoW.lua")
     ap.add_argument("--locale", help="override the locale recorded in the export")
+    ap.add_argument("--flavor", default="retail", choices=("retail", "classic", "sod"),
+                    help="which game's passages to import; passages from the others are left alone")
     ap.add_argument("--dry-run", action="store_true")
     args = ap.parse_args()
 
     locale, entries = read_blob(args.saved)
     if args.locale:
         locale = args.locale
-    print(f"export: locale={locale} passages={len(entries)}")
+    seen = {}
+    for entry in entries:
+        seen[entry[2]] = seen.get(entry[2], 0) + 1
+    entries = [(kind, quest_id, text) for kind, quest_id, flavor, text in entries
+               if flavor == args.flavor]
+    breakdown = ", ".join(f"{name}={count}" for name, count in sorted(seen.items()))
+    print(f"export: locale={locale} flavor={args.flavor} passages={len(entries)} "
+          f"(export holds {breakdown or 'nothing'})")
+    if not entries:
+        sys.exit(f"nothing was harvested on {args.flavor}; use --flavor to pick another game")
 
-    corpus_path = ROOT / f"Data/cache/quests_{locale}.jsonl"
+    # Retail's corpus stays exactly where it has always been. Another game gets
+    # a directory of its own: the same quest id means different text there, and
+    # letting the two share a file would quietly corrupt both.
+    if args.flavor == "retail":
+        corpus_path = ROOT / f"Data/cache/quests_{locale}.jsonl"
+    else:
+        corpus_path = ROOT / f"Data/cache/{args.flavor}/quests_{locale}.jsonl"
     if not corpus_path.exists():
         sys.exit(f"no corpus at {corpus_path}")
     quests = {}
