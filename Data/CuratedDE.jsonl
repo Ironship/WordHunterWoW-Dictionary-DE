@@ -77865,3 +77865,15 @@
 {"key": "wildblumen", "word": "Wildblumen", "translation": "wildflowers", "note": "wild = wild + Blumen = flowers"}
 {"key": "wildekinfedern", "word": "Wildekinfedern", "translation": "Wildekin feathers", "note": "Wildekin are bird-like creatures native to the Hinterlands; Feder = feather"}
 {"key": "wildekins", "word": "Wildekins", "translation": "Wildekins", "note": "plural of Wildekin, the avian creatures of the Hinterlands"}
+{"key": "bieren", "word": "Bieren", "translation": "beers", "note": "dative plural of Bier (beer); appears in nach einigen Bieren, 'after a few beers'"}
+{"key": "coldridge-tal", "word": "Coldridge-Tal", "translation": "Coldridge Valley", "note": "the zone name keeps the English word Coldridge and appends tal, German for valley"}
+{"key": "gemächlichere", "word": "gemächlichere", "translation": "more leisurely", "note": "comparative of gemächlich (leisurely, unhurried); the -e is just adjective agreement, not part of the comparative"}
+{"key": "gnomen-magielehrer", "word": "Gnomen-Magielehrer", "translation": "gnome mage trainer", "note": "magielehrer here means the mage class trainer npc, not literally a 'magic teacher'"}
+{"key": "mach's", "word": "mach's", "translation": "do it", "note": "contraction of mach es; as mach's gut it's the common informal way to say 'take care' when parting"}
+{"key": "nachhilft", "word": "nachhilft", "translation": "help along", "note": "separable verb nachhelfen, literally 'help after' -- to give something an extra nudge, not general helfen (to help)"}
+{"key": "magielehrer", "word": "Magielehrer", "translation": "mage trainer", "note": "magie (magic) + lehrer (teacher), but here it names the class trainer npc, not a literal teacher"}
+{"key": "trogglager", "word": "Trogglager", "translation": "Trogg camp", "note": "false friend: Trogg is the WoW creature race, not Trog (trough); Lager here means camp/encampment, not storage"}
+{"key": "verständnisamulette", "word": "Verständnisamulette", "translation": "amulets of understanding", "note": "verständnis (understanding/comprehension) + amulette (amulets); no confirmed official item name, so kept literal"}
+{"key": "zauberforschung", "word": "Zauberforschung", "translation": "magic research", "note": "zauber (spell, magic) + forschung (research); same zauber- root as zaubernotizen and zauberer (sorcerer)"}
+{"key": "zaubernotizen", "word": "Zaubernotizen", "translation": "spell notes", "note": "zauber (spell) + notizen (notes); no confirmed official item name, kept literal rather than guessed"}
+{"key": "zurückzutreiben", "word": "zurückzutreiben", "translation": "drive back", "note": "zurücktreiben = zurück (back) + treiben (drive/push); zu inserts between prefix and stem for the zu-infinitive"}

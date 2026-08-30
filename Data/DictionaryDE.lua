@@ -9035,6 +9035,7 @@ WordHunterWoW_Dictionary_DE["bierbrauverfahren"] = { word = "Bierbrauverfahren",
 WordHunterWoW_Dictionary_DE["bierchen"] = { word = "Bierchen", translation = "Beer", note = "" }
 WordHunterWoW_Dictionary_DE["bierdürftigen"] = { word = "Bierdürftigen", translation = "beer-starved; beer-thirsty", note = "lacking or in need of beer; probably creature or NPC name" }
 WordHunterWoW_Dictionary_DE["biere"] = { word = "Biere", translation = "beers", note = "plural of Bier; the beverage" }
+WordHunterWoW_Dictionary_DE["bieren"] = { word = "Bieren", translation = "beers", note = "dative plural of Bier (beer); appears in nach einigen Bieren, 'after a few beers'" }
 WordHunterWoW_Dictionary_DE["bieres"] = { word = "Bieres", translation = "beer", note = "genitive singular of Bier" }
 WordHunterWoW_Dictionary_DE["bierfass"] = { word = "Bierfass", translation = "beer barrel; beer cask", note = "fass = barrel/cask; wooden container for storing beer" }
 WordHunterWoW_Dictionary_DE["bierfässer"] = { word = "Bierfässer", translation = "beer barrels", note = "Bier (beer) + Fässer (barrels); containers for brewing or storing beer" }
@@ -11550,6 +11551,7 @@ WordHunterWoW_Dictionary_DE["cohliens"] = { word = "Cohliens", translation = "Co
 WordHunterWoW_Dictionary_DE["coisas"] = { word = "coisas", translation = "coisas", note = "" }
 WordHunterWoW_Dictionary_DE["cola"] = { word = "Cola", translation = "cola", note = "soft drink; 'duty is duty and cola is cola'" }
 WordHunterWoW_Dictionary_DE["colara"] = { word = "Colara", translation = "Colara", note = "proper name; addressed in letter; keep unchanged" }
+WordHunterWoW_Dictionary_DE["coldridge-tal"] = { word = "Coldridge-Tal", translation = "Coldridge Valley", note = "the zone name keeps the English word Coldridge and appends tal, German for valley" }
 WordHunterWoW_Dictionary_DE["coldridgetal"] = { word = "Coldridgetal", translation = "Coldridge Valley", note = "dwarf starting area, untranslated" }
 WordHunterWoW_Dictionary_DE["coldridgetal-geschenkgutschein"] = { word = "Coldridgetal-Geschenkgutschein", translation = "Coldridgetal Gift Voucher", note = "quest item" }
 WordHunterWoW_Dictionary_DE["coldridgetals"] = { word = "Coldridgetals", translation = "Coldridgetals", note = "" }
@@ -24601,6 +24603,7 @@ WordHunterWoW_Dictionary_DE["gemusterte"] = { word = "gemusterte", translation =
 WordHunterWoW_Dictionary_DE["gemächer"] = { word = "Gemächer", translation = "chambers", note = "private rooms (archaic plural)" }
 WordHunterWoW_Dictionary_DE["gemächern"] = { word = "Gemächern", translation = "chambers", note = "chambers (dative plural)" }
 WordHunterWoW_Dictionary_DE["gemächlich"] = { word = "gemächlich", translation = "leisurely", note = "slow and unhurried" }
+WordHunterWoW_Dictionary_DE["gemächlichere"] = { word = "gemächlichere", translation = "more leisurely", note = "comparative of gemächlich (leisurely, unhurried); the -e is just adjective agreement, not part of the comparative" }
 WordHunterWoW_Dictionary_DE["gemäht"] = { word = "gemäht", translation = "mowed", note = "past participle of mähen" }
 WordHunterWoW_Dictionary_DE["gemälde"] = { word = "Gemälde", translation = "painting", note = "malen (paint) + ge-; artwork created with paint or pigment" }
 WordHunterWoW_Dictionary_DE["gemälden"] = { word = "Gemälden", translation = "paintings", note = "plural of Gemälde" }
@@ -26661,6 +26664,7 @@ WordHunterWoW_Dictionary_DE["gnomen-ingenieur"] = { word = "Gnomen-Ingenieur", t
 WordHunterWoW_Dictionary_DE["gnomen-ingenieurskunst"] = { word = "Gnomen-Ingenieurskunst", translation = "gnome engineering", note = "gnom + ingenieurskunst (engineering); one of two engineering specializations" }
 WordHunterWoW_Dictionary_DE["gnomen-kampfhuhn"] = { word = "Gnomen-Kampfhuhn", translation = "gnome fighting chicken", note = "gnomen (gnome) + kampfhuhn (fighting chicken); crafted item" }
 WordHunterWoW_Dictionary_DE["gnomen-kampfhühner"] = { word = "Gnomen-Kampfhühner", translation = "Gnome fighting chickens", note = "" }
+WordHunterWoW_Dictionary_DE["gnomen-magielehrer"] = { word = "Gnomen-Magielehrer", translation = "gnome mage trainer", note = "magielehrer here means the mage class trainer npc, not literally a 'magic teacher'" }
 WordHunterWoW_Dictionary_DE["gnomen-verbesserungen"] = { word = "Gnomen-Verbesserungen", translation = "gnome improvements", note = "gnomen (gnome) + verbesserungen (improvements); quest category" }
 WordHunterWoW_Dictionary_DE["gnomen-werkzeuge"] = { word = "Gnomen-Werkzeuge", translation = "gnome tools", note = "gnomen (gnome) + werkzeuge (tools); quest items" }
 WordHunterWoW_Dictionary_DE["gnomenausbildungen"] = { word = "Gnomenausbildungen", translation = "Gnome training", note = "" }
@@ -41173,6 +41177,7 @@ WordHunterWoW_Dictionary_DE["macgraff"] = { word = "MacGraff", translation = "Ma
 WordHunterWoW_Dictionary_DE["macgranns"] = { word = "MacGranns", translation = "MacGranns", note = "NPC/location name" }
 WordHunterWoW_Dictionary_DE["mach"] = { word = "mach", translation = "do", note = "1st person present singular or imperative; colloquial usage" }
 WordHunterWoW_Dictionary_DE["mach'n"] = { word = "mach'n", translation = "do", note = "colloquial contraction of machen; in WoW dialects expresses casual, imperative tone" }
+WordHunterWoW_Dictionary_DE["mach's"] = { word = "mach's", translation = "do it", note = "contraction of mach es; as mach's gut it's the common informal way to say 'take care' when parting" }
 WordHunterWoW_Dictionary_DE["mach-ich-caddie"] = { word = "Mach-ich-Caddie", translation = "Do-I-Caddy", note = "item/NPC name; gnomish wordplay" }
 WordHunterWoW_Dictionary_DE["machammar"] = { word = "MacHammar", translation = "MacHammar", note = "proper name: NPC (dwarf)" }
 WordHunterWoW_Dictionary_DE["machart"] = { word = "Machart", translation = "style", note = "manner/style of construction" }
@@ -41310,6 +41315,7 @@ WordHunterWoW_Dictionary_DE["magiefäden"] = { word = "Magiefäden", translation
 WordHunterWoW_Dictionary_DE["magiegebrauch"] = { word = "Magiegebrauch", translation = "magic use", note = "gebrauch (use/usage) + magie (magic); application or practice of magical arts" }
 WordHunterWoW_Dictionary_DE["magiegebundenen"] = { word = "magiegebundenen", translation = "magic-bound; magically bound", note = "linked to or constrained by magical forces" }
 WordHunterWoW_Dictionary_DE["magiekonzentration"] = { word = "Magiekonzentration", translation = "Magic concentration", note = "konzentration = concentration" }
+WordHunterWoW_Dictionary_DE["magielehrer"] = { word = "Magielehrer", translation = "mage trainer", note = "magie (magic) + lehrer (teacher), but here it names the class trainer npc, not a literal teacher" }
 WordHunterWoW_Dictionary_DE["magiemahlzeit"] = { word = "Magiemahlzeit", translation = "magical feast", note = "mahlzeit (meal) + magie (magic); enchanted food or food that attracts magic users" }
 WordHunterWoW_Dictionary_DE["magien"] = { word = "Magien", translation = "magics", note = "plural; refers to multiple types or schools of magic" }
 WordHunterWoW_Dictionary_DE["magienutzer"] = { word = "Magienutzer", translation = "magic user", note = "nutzer (user) + magie (magic); one who practices or wields magic" }
@@ -44897,6 +44903,7 @@ WordHunterWoW_Dictionary_DE["nachhauseweg"] = { word = "Nachhauseweg", translati
 WordHunterWoW_Dictionary_DE["nachhelfen"] = { word = "nachhelfen", translation = "assist", note = "verb meaning to help out or lend support" }
 WordHunterWoW_Dictionary_DE["nachher"] = { word = "nachher", translation = "afterward", note = "adverb meaning subsequently or later on" }
 WordHunterWoW_Dictionary_DE["nachhilfe"] = { word = "Nachhilfe", translation = "Tutoring", note = "nach (supplementary) + hilfe (help): extra instruction or coaching" }
+WordHunterWoW_Dictionary_DE["nachhilft"] = { word = "nachhilft", translation = "help along", note = "separable verb nachhelfen, literally 'help after' -- to give something an extra nudge, not general helfen (to help)" }
 WordHunterWoW_Dictionary_DE["nachhinein"] = { word = "Nachhinein", translation = "hindsight", note = "im Nachhinein = in hindsight; rarely stands alone" }
 WordHunterWoW_Dictionary_DE["nachholt"] = { word = "nachholt", translation = "catches up on", note = "present tense of nachholen" }
 WordHunterWoW_Dictionary_DE["nachhut"] = { word = "Nachhut", translation = "rear guard", note = "military term: Nach (after/rear) + Hut (guard)" }
@@ -64699,6 +64706,7 @@ WordHunterWoW_Dictionary_DE["troggbefall"] = { word = "Troggbefall", translation
 WordHunterWoW_Dictionary_DE["troggerschiesserei"] = { word = "Troggerschießerei", translation = "trog shootout", note = "troggs (WoW creatures) + schießerei (shooting/gunfight)" }
 WordHunterWoW_Dictionary_DE["trogghöhlen"] = { word = "Trogghöhlen", translation = "Trogg caves", note = "trogg = a WoW creature race, höhlen = caves" }
 WordHunterWoW_Dictionary_DE["trogginvasion"] = { word = "Trogginvasion", translation = "trog invasion", note = "compound: trog (creature type) + invasion" }
+WordHunterWoW_Dictionary_DE["trogglager"] = { word = "Trogglager", translation = "Trogg camp", note = "false friend: Trogg is the WoW creature race, not Trog (trough); Lager here means camp/encampment, not storage" }
 WordHunterWoW_Dictionary_DE["troggparty"] = { word = "Troggparty", translation = "trogg party", note = "informal: group or gathering of trogg creatures" }
 WordHunterWoW_Dictionary_DE["troggplünderer"] = { word = "Troggplünderer", translation = "trogg looters", note = "trogg + Plünderer; scavengers dwelling in depths" }
 WordHunterWoW_Dictionary_DE["troggs"] = { word = "Troggs", translation = "Troggs", note = "creature race in World of Warcraft" }
@@ -69466,6 +69474,7 @@ WordHunterWoW_Dictionary_DE["verständliche"] = { word = "verständliche", trans
 WordHunterWoW_Dictionary_DE["verständlichen"] = { word = "verständlichen", translation = "understandable", note = "comprehensible; clearly intelligible" }
 WordHunterWoW_Dictionary_DE["verständlicherweise"] = { word = "verständlicherweise", translation = "understandably", note = "" }
 WordHunterWoW_Dictionary_DE["verständnis"] = { word = "Verständnis", translation = "understanding; comprehension", note = "compound: verstehen + -nis suffix; means understanding or grasp of a concept" }
+WordHunterWoW_Dictionary_DE["verständnisamulette"] = { word = "Verständnisamulette", translation = "amulets of understanding", note = "verständnis (understanding/comprehension) + amulette (amulets); no confirmed official item name, so kept literal" }
 WordHunterWoW_Dictionary_DE["verständnisses"] = { word = "Verständnisses", translation = "understanding", note = "" }
 WordHunterWoW_Dictionary_DE["verständnisvoll"] = { word = "verständnisvoll", translation = "understanding; empathetic", note = "verständnis (understanding) + -voll (full of)" }
 WordHunterWoW_Dictionary_DE["verstärke"] = { word = "verstärke", translation = "reinforce", note = "first person singular: I strengthen or support" }
@@ -74793,6 +74802,7 @@ WordHunterWoW_Dictionary_DE["zauberfoliant"] = { word = "Zauberfoliant", transla
 WordHunterWoW_Dictionary_DE["zauberfolianten"] = { word = "Zauberfolianten", translation = "spell tomes; grimoires", note = "zauber (spell/magic) + folianten (folios/books); magical texts" }
 WordHunterWoW_Dictionary_DE["zauberformel"] = { word = "Zauberformel", translation = "Magic formula", note = "magical formula or spell incantation" }
 WordHunterWoW_Dictionary_DE["zauberformeln"] = { word = "Zauberformeln", translation = "magic formulas", note = "plural; formulae for casting spells" }
+WordHunterWoW_Dictionary_DE["zauberforschung"] = { word = "Zauberforschung", translation = "magic research", note = "zauber (spell, magic) + forschung (research); same zauber- root as zaubernotizen and zauberer (sorcerer)" }
 WordHunterWoW_Dictionary_DE["zauberfrost"] = { word = "Zauberfrost", translation = "magic frost", note = "compound: Zauber (magic) + Frost (frost)" }
 WordHunterWoW_Dictionary_DE["zaubergasse"] = { word = "Zaubergasse", translation = "magic alley", note = "zauber = magic, gasse = alley/lane" }
 WordHunterWoW_Dictionary_DE["zaubergötzen"] = { word = "Zaubergötzen", translation = "magic idols", note = "" }
@@ -74815,6 +74825,7 @@ WordHunterWoW_Dictionary_DE["zaubermatrix"] = { word = "Zaubermatrix", translati
 WordHunterWoW_Dictionary_DE["zaubermeister"] = { word = "Zaubermeister", translation = "sorcerer; spellmaster; magic master", note = "Zauber (magic/spell) + Meister (master); one who commands magical forces" }
 WordHunterWoW_Dictionary_DE["zaubermethoden"] = { word = "Zaubermethoden", translation = "spell techniques", note = "zauber (magic) + methoden (methods)" }
 WordHunterWoW_Dictionary_DE["zaubern"] = { word = "Zaubern", translation = "magic", note = "zaubern = magic or to cast spells; from zauber" }
+WordHunterWoW_Dictionary_DE["zaubernotizen"] = { word = "Zaubernotizen", translation = "spell notes", note = "zauber (spell) + notizen (notes); no confirmed official item name, kept literal rather than guessed" }
 WordHunterWoW_Dictionary_DE["zauberpilz"] = { word = "Zauberpilz", translation = "magic mushroom", note = "compound: magical fungus, possibly hallucinogenic" }
 WordHunterWoW_Dictionary_DE["zauberraub"] = { word = "Zauberraub", translation = "magic theft", note = "compound: Zauber + Raub (theft); stealing magic or spells" }
 WordHunterWoW_Dictionary_DE["zauberreagenz"] = { word = "Zauberreagenz", translation = "Magic reagent", note = "spell component material" }
@@ -76335,6 +76346,7 @@ WordHunterWoW_Dictionary_DE["zurückzusetzen"] = { word = "zurückzusetzen", tra
 WordHunterWoW_Dictionary_DE["zurückzustehlen"] = { word = "zurückzustehlen", translation = "steal back", note = "" }
 WordHunterWoW_Dictionary_DE["zurückzuteleportieren"] = { word = "zurückzuteleportieren", translation = "teleport back", note = "verb: zurück (back) + teleportieren (teleport)" }
 WordHunterWoW_Dictionary_DE["zurückzutragen"] = { word = "zurückzutragen", translation = "bring back", note = "carry or transport to the origin point" }
+WordHunterWoW_Dictionary_DE["zurückzutreiben"] = { word = "zurückzutreiben", translation = "drive back", note = "zurücktreiben = zurück (back) + treiben (drive/push); zu inserts between prefix and stem for the zu-infinitive" }
 WordHunterWoW_Dictionary_DE["zurückzuverfolgen"] = { word = "zurückzuverfolgen", translation = "trace back", note = "" }
 WordHunterWoW_Dictionary_DE["zurückzuversetzen"] = { word = "zurückzuversetzen", translation = "to restore", note = "return to original condition" }
 WordHunterWoW_Dictionary_DE["zurückzuweisen"] = { word = "zurückzuweisen", translation = "to reject", note = "" }

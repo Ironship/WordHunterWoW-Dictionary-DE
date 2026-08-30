@@ -149,7 +149,9 @@ def main():
     if unknown:
         seen = set()
         fresh = [w for w in unknown if not (w.casefold() in seen or seen.add(w.casefold()))]
-        words_path = ROOT / f"Data/cache/unknown_words_{locale}.txt"
+        # Beside the corpus it came from, not in Retail's cache: a Classic run
+        # must not overwrite the list a Retail run produced.
+        words_path = corpus_path.parent / f"unknown_words_{locale}.txt"
         had = set()
         if words_path.exists():
             had = {l.strip() for l in words_path.read_text(encoding="utf-8").splitlines() if l.strip()}
