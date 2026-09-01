@@ -77877,3 +77877,49 @@
 {"key": "zauberforschung", "word": "Zauberforschung", "translation": "magic research", "note": "zauber (spell, magic) + forschung (research); same zauber- root as zaubernotizen and zauberer (sorcerer)"}
 {"key": "zaubernotizen", "word": "Zaubernotizen", "translation": "spell notes", "note": "zauber (spell) + notizen (notes); no confirmed official item name, kept literal rather than guessed"}
 {"key": "zurückzutreiben", "word": "zurückzutreiben", "translation": "drive back", "note": "zurücktreiben = zurück (back) + treiben (drive/push); zu inserts between prefix and stem for the zu-infinitive"}
+{"key": "voilà", "word": "voilà", "translation": "voilà; there you go", "note": "French voir là (see there), borrowed into German exactly as into English, for a flourish"}
+{"key": "gelée", "word": "Gelée", "translation": "jelly", "note": "French loan; Gelée Royale is royal jelly, the food that turns a bee larva into a queen"}
+{"key": "crème", "word": "Crème", "translation": "cream", "note": "in German almost only in Crème de la Crème, the very best of the best"}
+{"key": "skorpids", "word": "Skorpids", "translation": "scorpid", "note": "genitive singular here (der Panzer eines Skorpids); the plural is Skorpide, used later in the same text"}
+{"key": "séance", "word": "Séance", "translation": "seance", "note": "French for a sitting, from s'asseoir; a session held to reach the dead"}
+{"key": "trickkiste", "word": "Trickkiste", "translation": "bag of tricks", "note": "Trick + Kiste (crate); in die Trickkiste greifen = to reach into one's bag of tricks"}
+{"key": "bachtatzenjungen", "word": "Bachtatzenjungen", "translation": "brookpaw cubs", "note": "Bach (brook) + Tatze (paw) + Junges (animal young); could not confirm the English mob name"}
+{"key": "bachtatzenluchsen", "word": "Bachtatzenluchsen", "translation": "brookpaw lynxes", "note": "Luchs (lynx), plural Luchse, dative -n after von; the English mob name is unconfirmed"}
+{"key": "behausungsübersicht", "word": "Behausungsübersicht", "translation": "housing overview", "note": "Behausung (dwelling) + Übersicht, literally an over-view, the German word for a summary screen"}
+{"key": "besichtigt", "word": "Besichtigt", "translation": "visit", "note": "imperative on an objective line; besichtigen is to view a place as a sightseer, from Sicht (sight)"}
+{"key": "créole", "word": "Créole", "translation": "Creole", "note": "à la Créole = Creole-style, the French tag for Louisiana cooking"}
+{"key": "feldséance", "word": "Feldséance", "translation": "field seance", "note": "Feld (field) + Séance; a seance held out in the field rather than in a parlour"}
+{"key": "frostfeuergronnlinge", "word": "Frostfeuergronnlinge", "translation": "frostfire gronnlings", "note": "Frost + Feuer + Gronn + -ling, the German diminutive, so a young or lesser gronn"}
+{"key": "gelées", "word": "Gelées", "translation": "jellies", "note": "plural of the French loan Gelée; keeps the accent and the French spelling in German"}
+{"key": "geléespeicher", "word": "Geléespeicher", "translation": "jelly stores", "note": "Gelée + Speicher (storehouse, granary); Speicher is also the German word for computer memory"}
+{"key": "geléevorrat", "word": "Geléevorrat", "translation": "jelly supply", "note": "Vorrat is a stock laid in ahead of need, from vor (before) + Rat in its old sense of provision"}
+{"key": "giftextraktion", "word": "Giftextraktion", "translation": "poison extraction", "note": "false friend: Gift is poison, never a present; related to geben (to give), as in a dose given"}
+{"key": "greifbaren", "word": "greifbaren", "translation": "tangible; palpable", "note": "greifen (to grasp) + -bar (-able), so literally graspable; inflected here for its noun"}
+{"key": "gronngrotten", "word": "Gronngrotten", "translation": "gronn caves", "note": "Grotte (grotto, cave) came into German from Italian, ultimately Latin crypta"}
+{"key": "groog", "word": "Groog", "translation": "Groog", "note": ""}
+{"key": "hundecafé", "word": "Hundecafé", "translation": "dog cafe", "note": "Hund (dog) + Café; the linking -e- comes from the old plural Hunde"}
+{"key": "kaltunks", "word": "Kaltunks", "translation": "Kaltunk's", "note": "genitive -s on a personal name, written without an apostrophe in German"}
+{"key": "kopfe", "word": "Kopfe", "translation": "head", "note": "archaic dative Kopfe, surviving only in zu Kopfe steigen = to go to one's head"}
+{"key": "kunstwerkerhalle", "word": "Kunstwerkerhalle", "translation": "artisans' hall", "note": "Kunst (art) + Werker (worker) + Halle; could not confirm the official English hall name"}
+{"key": "laut'n", "word": "laut'n", "translation": "read; be worded", "note": "clipped spelling of lauten: how a text or an order runs, not how it sounds (that is klingen)"}
+{"key": "luchshalsbänder", "word": "Luchshalsbänder", "translation": "lynx collars", "note": "Luchs (lynx) + Halsband (neck-band, i.e. collar), plural Halsbänder with umlaut"}
+{"key": "meistervermesser", "word": "Meistervermesser", "translation": "master surveyor", "note": "vermessen (to survey, measure out) + -er; a Vermesser is a land surveyor"}
+{"key": "multiversum", "word": "Multiversum", "translation": "multiverse", "note": "built on Universum the same way English builds multiverse on universe"}
+{"key": "rasselnden", "word": "rasselnden", "translation": "rattling", "note": "present participle of rasseln (to rattle); mit dem Säbel rasseln = to sabre-rattle"}
+{"key": "skorpidtoxin", "word": "Skorpidtoxin", "translation": "scorpid toxin", "note": "Toxin is the clinical word; everyday German for poison is Gift"}
+{"key": "straucheln", "word": "Straucheln", "translation": "stumble", "note": "nominalised infinitive; jemanden zum Straucheln bringen = to trip someone up"}
+{"key": "sturmrennstrecken", "word": "Sturmrennstrecken", "translation": "storm race courses", "note": "Sturm + Rennen (race) + Strecke (stretch, course); the English race name is unconfirmed"}
+{"key": "supergelée", "word": "Supergelée", "translation": "super jelly", "note": "Super- prefixes German nouns just as in English, here onto the French loan Gelée"}
+{"key": "szenario", "word": "Szenario", "translation": "scenario", "note": "from Italian scenario; German writes that sc- as Sz-, as in Szene (scene)"}
+{"key": "ta'sul", "word": "Ta'sul", "translation": "Ta'sul", "note": ""}
+{"key": "ta'visage", "word": "Ta'visage", "translation": "Ta'visage", "note": "Visage exists in German too, borrowed from French as a rude word for someone's face"}
+{"key": "teufelspirscher", "word": "Teufelspirscher", "translation": "devil stalker", "note": "Teufel (devil) + pirschen (to stalk game); WoW German usually renders Fel- as Teufels-"}
+{"key": "transmogrifikationsmagie", "word": "Transmogrifikationsmagie", "translation": "transmogrification magic", "note": "German players clip the first half to Transmog exactly as English players do"}
+{"key": "treffendsten", "word": "treffendsten", "translation": "most fitting; most apt", "note": "superlative of treffend, from treffen (to hit) - an apt remark hits the mark"}
+{"key": "unentschlossenheit", "word": "Unentschlossenheit", "translation": "indecision", "note": "un- + entschlossen (resolute, participle of entschliessen) + -heit, which makes nouns of adjectives"}
+{"key": "verkäuflich", "word": "verkäuflich", "translation": "for sale; saleable", "note": "verkaufen (to sell) + -lich; unverkäuflich on a shop display means not for sale"}
+{"key": "vorbaus", "word": "Vorbaus", "translation": "annexe; porch", "note": "vor (in front) + Bau (building), a structure built onto the front; genitive Vorbaus here"}
+{"key": "vorbeischmuggeln", "word": "vorbeischmuggeln", "translation": "smuggle past", "note": "separable prefix vorbei- (past, by) + schmuggeln; an den Wachen vorbei = past the guards"}
+{"key": "vorgaben", "word": "Vorgaben", "translation": "guidelines; specifications", "note": "from vorgeben, to lay down in advance; sich an die Vorgaben halten = to stick to the rules set"}
+{"key": "zerrinnt", "word": "zerrinnt", "translation": "trickles away; melts away", "note": "zer- (apart, to pieces) + rinnen (to trickle); die Zeit zerrinnt = time slips through the fingers"}
+{"key": "ätzphiole", "word": "Ätzphiole", "translation": "caustic vial", "note": "ätzen (to corrode, etch) + Phiole (vial); ätzend doubles as slang for lousy"}

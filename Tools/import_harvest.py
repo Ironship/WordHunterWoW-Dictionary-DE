@@ -19,6 +19,8 @@ This reads that blob and merges it into the corpus.
 Then rebuild as usual: build_wordlist.py -> translate_google.py -> audit.
 """
 import argparse, json, pathlib, re, sys, urllib.parse
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
+from harvest_filters import character_names, looks_german, redact_names
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 BLOB = re.compile(r'WordHunterWoWCorpusExport\s*=\s*"((?:[^"\\]|\\.)*)"', re.S)
@@ -75,6 +77,28 @@ def main():
     locale, entries = read_blob(args.saved)
     if args.locale:
         locale = args.locale
+
+    # Two things a passage can carry that do not belong in the corpus: the
+    # player's own character name, which the game substitutes into gossip, and a
+    # passage that is not in this locale's language at all. Both reached a real
+    # import and became dictionary candidates. See harvest_filters for why each
+    # check is as blunt as it is.
+    names = character_names(args.saved)
+    kept, dropped_lang, redacted = [], 0, 0
+    for kind, quest_id, flavor, text in entries:
+        if kind != "word":
+            if not looks_german(text):
+                dropped_lang += 1
+                continue
+            cleaned = redact_names(text, names)
+            if cleaned != text:
+                redacted += 1
+            text = cleaned
+        kept.append((kind, quest_id, flavor, text))
+    entries = kept
+    if dropped_lang or redacted:
+        print(f"  filtered: {dropped_lang} passages not in this language, "
+              f"{redacted} with a character name removed ({len(names)} names known)")
     seen = {}
     for entry in entries:
         seen[entry[2]] = seen.get(entry[2], 0) + 1
