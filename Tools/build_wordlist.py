@@ -8,7 +8,7 @@ for line in (ROOT / "Data/cache/quests_deDE.jsonl").read_text(encoding="utf-8").
     q = json.loads(line)
     # progress and reward only ever arrive via import_harvest.py -- the quest API
     # publishes neither, and objectives comes back empty from it too.
-    for field in ("title", "description", "objectives", "progress", "reward"):
+    for field in ("title", "description", "objectives", "progress", "completion", "reward"):
         text = q.get(field) or ""
         for word in TOKEN.findall(text):
             if len(word) < 2: continue
