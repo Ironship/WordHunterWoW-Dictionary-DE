@@ -15,11 +15,15 @@ parser.add_argument("--all", action="store_true",
                          "the corpus")
 args = parser.parse_args()
 
-# Only words the corpus still contains are shipped. The translation cache keeps
-# everything ever looked up, including the English words that came from
-# untranslated quest rows before build_wordlist.py learned to skip them, and a
-# German dictionary has no business holding an entry that reads
-# the -> the.
+# An entry is dropped only when it is both absent from the corpus and reads
+# English-to-English -- the -> the, default -> Default. Those came from quest
+# rows that were never translated, which build_wordlist.py now skips, and a
+# German dictionary has no business holding them.
+#
+# Absence from the corpus is not on its own a reason to drop anything. The
+# curated file holds inflections that a fuller corpus once carried --
+# monatlicher, monatliches -- and a player who meets one of those in text this
+# corpus happens not to include should still be able to look it up.
 live = None
 wordlist = ROOT / "Data/cache/wordlist_deDE.jsonl"
 if wordlist.exists() and not args.all:
@@ -27,12 +31,20 @@ if wordlist.exists() and not args.all:
             for line in wordlist.read_text(encoding="utf-8").splitlines()
             if line.strip()}
 
+
+def english_leftover(record):
+    if live is None or record.get("key") in live:
+        return False
+    return (record.get("translation") or "").strip().casefold() == \
+        (record.get("word") or "").strip().casefold()
+
+
 records = {}
 for source in (ROOT / "Data/cache/translations_de_en.jsonl",
                ROOT / "Data/CuratedDE.jsonl"):
     for line in source.read_text(encoding="utf-8").splitlines():
         r = json.loads(line)
-        if live is not None and r.get("key") not in live:
+        if english_leftover(r):
             continue
         if r.get("translation"):
             records[r["key"]] = r
