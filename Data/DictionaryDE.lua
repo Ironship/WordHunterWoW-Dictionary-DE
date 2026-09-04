@@ -43742,7 +43742,6 @@ WordHunterWoW_Dictionary_DE["industriesabotage"] = { word = "Industriesabotage",
 WordHunterWoW_Dictionary_DE["industriespionage"] = { word = "Industriespionage", translation = "Industrial espionage", note = "" }
 WordHunterWoW_Dictionary_DE["industriestärke"] = { word = "Industriestärke", translation = "industrial strength", note = "'industrie' + 'stärke'" }
 WordHunterWoW_Dictionary_DE["industriezweig"] = { word = "Industriezweig", translation = "industry sector; branch", note = "shipbuilding in Gorgrond" }
-WordHunterWoW_Dictionary_DE["ineffizienz"] = { word = "Ineffizienz", translation = "inefficiency", note = "lack of efficiency; biodomе progress hampered by Wasteland denizens" }
 WordHunterWoW_Dictionary_DE["ineinander"] = { word = "ineinander", translation = "into one another", note = "in (in) + einander (each other); mutual/reciprocal action" }
 WordHunterWoW_Dictionary_DE["ineinanderfliessen"] = { word = "ineinanderfließen", translation = "to merge", note = "ineinander = into each other; fließen = flow; converge" }
 WordHunterWoW_Dictionary_DE["infanterie"] = { word = "Infanterie", translation = "infantry", note = "foot soldiers; from Latin infans (unable to ride horses)" }
@@ -71082,7 +71081,6 @@ WordHunterWoW_Dictionary_DE["saatfertigen"] = { word = "saatfertigen", translati
 WordHunterWoW_Dictionary_DE["saatgut"] = { word = "Saatgut", translation = "seeds", note = "compound: saat (seed/sowing) + gut (goods); seed stock or seed material" }
 WordHunterWoW_Dictionary_DE["saatherz"] = { word = "Saatherz", translation = "seed heart", note = "saat (seed) + herz (heart); possibly mystical item" }
 WordHunterWoW_Dictionary_DE["saatträger"] = { word = "Saatträger", translation = "seed carriers", note = "saat (seed) + träger (carrier); those that transport or bear seeds" }
-WordHunterWoW_Dictionary_DE["saatvermächtnis"] = { word = "Saatvermächtnis", translation = "seed legacy", note = "saат (seed) + vermächtnis (legacy/bequest); likely a quest item or magic artifact" }
 WordHunterWoW_Dictionary_DE["saatwärterin"] = { word = "Saatwärterin", translation = "Seedkeeper", note = "saat (seed) + wärterin (keeper/guardian); one who tends seeds and gardens" }
 WordHunterWoW_Dictionary_DE["saatzeit"] = { word = "Saatzeit", translation = "seed time; sowing season", note = "zeit (time/season); the period when seeds are planted" }
 WordHunterWoW_Dictionary_DE["sab'aoth"] = { word = "Sab'aoth", translation = "Sab'aoth", note = "Proper noun; deity or NPC name. No translation needed" }
@@ -104268,33 +104266,4 @@ WordHunterWoW_Dictionary_DE["üppiges"] = { word = "üppiges", translation = "su
 WordHunterWoW_Dictionary_DE["üppigsten"] = { word = "üppigsten", translation = "most lush", note = "" }
 WordHunterWoW_Dictionary_DE["ür"] = { word = "ür", translation = "for", note = "fragment of 'für'; context suggests text corruption" }
 WordHunterWoW_Dictionary_DE["ürd"] = { word = "ürd", translation = "urd", note = "" }
-WordHunterWoW_Dictionary_DE["благодаря"] = { word = "благодаря", translation = "thanks to", note = "Russian word, not German; context: quest objective" }
-WordHunterWoW_Dictionary_DE["блэквизард"] = { word = "Блэквизард", translation = "Blackvisard", note = "Russian transliteration of likely English character/NPC name" }
-WordHunterWoW_Dictionary_DE["вижу"] = { word = "Вижу", translation = "I see", note = "Russian; first-person present of видеть" }
-WordHunterWoW_Dictionary_DE["да"] = { word = "да", translation = "and", note = "Russian conjunction; here used as 'may' or 'and' in blessing formula" }
-WordHunterWoW_Dictionary_DE["добыть"] = { word = "добыть", translation = "obtain", note = "Russian; means to acquire, gain in combat context" }
-WordHunterWoW_Dictionary_DE["дреноре"] = { word = "Дреноре", translation = "Draenor", note = "Russian genitive of Draenor, the WoW planet" }
-WordHunterWoW_Dictionary_DE["здравствуй"] = { word = "Здравствуй", translation = "greetings", note = "Russian greeting; formal 'hello'" }
-WordHunterWoW_Dictionary_DE["на"] = { word = "на", translation = "on", note = "Russian preposition; can mean 'on', 'at', 'in'" }
-WordHunterWoW_Dictionary_DE["награду"] = { word = "награду", translation = "reward", note = "Russian accusative; means gift or prize" }
-WordHunterWoW_Dictionary_DE["недавних"] = { word = "недавних", translation = "recent", note = "Russian plural genitive; refers to recent battles" }
-WordHunterWoW_Dictionary_DE["немного"] = { word = "немного", translation = "a little", note = "Russian adverb; means 'somewhat' or 'a bit'" }
-WordHunterWoW_Dictionary_DE["озарит"] = { word = "озарит", translation = "illuminate", note = "Russian future tense; to light up or enlighten" }
-WordHunterWoW_Dictionary_DE["прими"] = { word = "Прими", translation = "take", note = "Russian imperative of принять; accept/receive" }
-WordHunterWoW_Dictionary_DE["путь"] = { word = "путь", translation = "path", note = "Russian noun; way, road, or journey" }
-WordHunterWoW_Dictionary_DE["самоотверженности"] = { word = "самоотверженности", translation = "devotion", note = "Russian genitive; self-sacrifice or dedication" }
-WordHunterWoW_Dictionary_DE["свет"] = { word = "Свет", translation = "light", note = "Russian noun; also means 'world' or 'people' in some contexts" }
-WordHunterWoW_Dictionary_DE["спокойнее"] = { word = "спокойнее", translation = "calmer", note = "Russian comparative adjective; more peaceful" }
-WordHunterWoW_Dictionary_DE["сражениях"] = { word = "сражениях", translation = "battles", note = "Russian locative plural; in recent fights/battles" }
-WordHunterWoW_Dictionary_DE["стало"] = { word = "стало", translation = "became", note = "Russian past tense; 'has become' in this blessing context" }
-WordHunterWoW_Dictionary_DE["твоей"] = { word = "твоей", translation = "your", note = "Russian genitive/dative feminine; current 'two' is OCR error" }
-WordHunterWoW_Dictionary_DE["твой"] = { word = "твой", translation = "your", note = "Russian nominative masculine; possessive adjective" }
-WordHunterWoW_Dictionary_DE["тебе"] = { word = "тебе", translation = "you", note = "Russian dative; indirect object 'to/for you'" }
-WordHunterWoW_Dictionary_DE["трофей"] = { word = "трофей", translation = "trophy", note = "Russian noun; prize from victory" }
-WordHunterWoW_Dictionary_DE["удалось"] = { word = "удалось", translation = "managed", note = "Russian neuter past; succeeded or managed to do" }
-WordHunterWoW_Dictionary_DE["хоть"] = { word = "хоть", translation = "even", note = "Russian particle; 'even if' or 'at least'" }
-WordHunterWoW_Dictionary_DE["храбрости"] = { word = "храбрости", translation = "bravery", note = "Russian genitive; courage or valor" }
-WordHunterWoW_Dictionary_DE["ценный"] = { word = "ценный", translation = "valuable", note = "Russian adjective; precious or valued" }
-WordHunterWoW_Dictionary_DE["чернокнижница"] = { word = "Чернокнижница", translation = "sorceress", note = "Russian; female practitioner of dark arts; Warlock class in WoW" }
-WordHunterWoW_Dictionary_DE["эту"] = { word = "эту", translation = "this", note = "Russian accusative feminine; direct object 'this reward'" }
 end)()

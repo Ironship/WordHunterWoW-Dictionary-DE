@@ -46,6 +46,9 @@ for source in (ROOT / "Data/cache/translations_de_en.jsonl",
         r = json.loads(line)
         if english_leftover(r):
             continue
+        # Harvest can pick up another client's quest text. Cyrillic is not German.
+        if any(0x0400 <= ord(c) <= 0x04FF for c in r.get("key") or ""):
+            continue
         if r.get("translation"):
             records[r["key"]] = r
 

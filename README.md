@@ -6,9 +6,9 @@ This is a ready-made German→English glossary built from real quest text, so th
 
 <img width="1399" height="1156" alt="German dictionary in the quest panel" src="https://github.com/user-attachments/assets/0368d63e-46c6-4f89-89a3-09f5dcca8bd9" />
 
-## Every entry is checked by hand
+## Hand-checked core
 
-All **73,863 words**. Not machine output — each one was read against the quest sentence it appears in, the meaning corrected where a translator got it wrong, and a short note added where the word teaches you something: a compound pulled apart, a false friend, the case a preposition takes.
+The original **73,863** Retail words were read against the quest sentence they appear in — not machine output. The pack now holds **104,256** entries: Classic-only vocabulary and words collected in game sit on top of that reviewed core.
 
 `Höllenhorde` is Fel Horde, not "Hell Horde". `bekommen` means to receive, never to become. `hinter'm` is "behind the", not "behind me".
 
@@ -29,7 +29,7 @@ There are packs for [French](https://github.com/Ironship/WordHunterWoW-Dictionar
 
 Want English quest text beside the original as well? That is [English Quest Panel](https://github.com/Ironship/WordHunterWoW-ENPanel).
 
-Retail 12.1. All rights reserved.
+Retail 12.1 and Classic Era. GPL v3 — see `LICENSE`.
 
 ## Rebuild (maintainers)
 
