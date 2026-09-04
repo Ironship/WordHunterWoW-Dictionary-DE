@@ -49,13 +49,23 @@ for source in (ROOT / "Data/cache/translations_de_en.jsonl",
         if r.get("translation"):
             records[r["key"]] = r
 
+# WoW's Lua 5.1 stores every string in a per-function constant table capped
+# at 2^18-1 (262143). One assignment is up to four unique strings (key, word,
+# translation, note), so ~100k entries overflow and the client reports
+# "constant table overflow" at line 1. Nested functions each get their own table.
+ENTRIES_PER_FUNCTION = 20000
+
+keys = sorted(records)
 lines = ["WordHunterWoW_Dictionary_DE = WordHunterWoW_Dictionary_DE or {}"]
-for key in sorted(records):
-    r = records[key]
-    extras = ""
-    if r.get("status") in ("ignored", "known", "learning", "new"):
-        extras = f", status = {q(r['status'])}"
-    lines.append(f"WordHunterWoW_Dictionary_DE[{q(key)}] = {{ word = {q(r['word'])}, "
-                 f"translation = {q(r['translation'])}, note = {q(r.get('note'))}{extras} }}")
+for i in range(0, len(keys), ENTRIES_PER_FUNCTION):
+    lines.append(";(function()")
+    for key in keys[i:i + ENTRIES_PER_FUNCTION]:
+        r = records[key]
+        extras = ""
+        if r.get("status") in ("ignored", "known", "learning", "new"):
+            extras = f", status = {q(r['status'])}"
+        lines.append(f"WordHunterWoW_Dictionary_DE[{q(key)}] = {{ word = {q(r['word'])}, "
+                     f"translation = {q(r['translation'])}, note = {q(r.get('note'))}{extras} }}")
+    lines.append("end)()")
 (ROOT / "Data/DictionaryDE.lua").write_text("\n".join(lines) + "\n", encoding="utf-8")
-print(f"entries={len(records)}")
+print(f"entries={len(records)} chunks={(len(keys) + ENTRIES_PER_FUNCTION - 1) // ENTRIES_PER_FUNCTION}")
