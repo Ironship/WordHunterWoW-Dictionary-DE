@@ -8,7 +8,7 @@ This is a ready-made German→English glossary built from real quest text, so th
 
 ## Hand-checked core
 
-The original **73,863** Retail words were read against the quest sentence they appear in — not machine output. The pack now holds **104,256** entries: Classic-only vocabulary and words collected in game sit on top of that reviewed core.
+The original **73,863** Retail words were read against the quest sentence they appear in — not machine output. The pack now holds **104,274** entries: Classic-only vocabulary and words collected in game sit on top of that reviewed core.
 
 `Höllenhorde` is Fel Horde, not "Hell Horde". `bekommen` means to receive, never to become. `hinter'm` is "behind the", not "behind me".
 

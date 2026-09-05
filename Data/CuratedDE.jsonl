@@ -15623,7 +15623,7 @@
 {"key": "rückholversuche", "word": "Rückholversuche", "translation": "retrieval attempts", "note": ""}
 {"key": "rückzugsgefecht", "word": "Rückzugsgefecht", "translation": "fighting retreat; rearguard action", "note": "rückzug (retreat) + gefecht (battle); tactical retreat under pressure"}
 {"key": "s-a-b-o-t-a-g-e", "word": "S-A-B-O-T-A-G-E", "translation": "SABOTAGE", "note": "spelled out letter by letter; the English word is identical"}
-{"key": "saatvermächtnis", "word": "Saatvermächtnis", "translation": "seed legacy", "note": "saат (seed) + vermächtnis (legacy/bequest); likely a quest item or magic artifact"}
+{"key": "saatvermächtnis", "word": "Saatvermächtnis", "translation": "seed legacy", "note": "saat (seed) + vermächtnis (legacy/bequest); likely a quest item or magic artifact"}
 {"key": "salbenlieferung", "word": "Salbenlieferung", "translation": "ointment delivery", "note": ""}
 {"key": "sandwurmfleisch", "word": "Sandwurmfleisch", "translation": "sandworm meat", "note": "sandwurm (sandworm) + fleisch (meat); creature ingredient or food item"}
 {"key": "saurokforschung", "word": "Saurokforschung", "translation": "Saurok research", "note": "Saurok (the actual creature type in English WoW) + forschung (research); saurok are primitive reptilian humanoids"}
@@ -60535,7 +60535,7 @@
 {"key": "indirekte", "word": "indirekte", "translation": "indirect", "note": "not direct or straight; Legion poses indirect threats alongside direct ones"}
 {"key": "individuelle", "word": "Individuelle", "translation": "individual", "note": "separate or distinct; 'Individuelle Bestellung' = individual order/custom order"}
 {"key": "industrie", "word": "Industrie", "translation": "industry", "note": "manufacturing or production sector; gnomes see metalworking industry in small folk"}
-{"key": "ineffizienz", "word": "Ineffizienz", "translation": "inefficiency", "note": "lack of efficiency; biodomе progress hampered by Wasteland denizens"}
+{"key": "ineffizienz", "word": "Ineffizienz", "translation": "inefficiency", "note": "lack of efficiency; biodome progress hampered by Wasteland denizens"}
 {"key": "infanteristen", "word": "Infanteristen", "translation": "infantrymen", "note": "common noun; foot soldiers in military formation"}
 {"key": "infazzar", "word": "Infazzar", "translation": "Infazzar", "note": "proper noun; NPC or location name; keep capitalized"}
 {"key": "infiltrier'n", "word": "infiltrier'n", "translation": "infiltrate", "note": "dialect contraction; to secretly enter an enemy position"}
@@ -109156,3 +109156,19 @@
 {"key": "wildhufsatyrn", "word": "Wildhufsatyrn", "translation": "Wildhoof satyrs", "note": "wildhuf (wildhoof, likely clan name) + satyrn (satyrs); creatures in Darkshore"}
 {"key": "wildleben", "word": "Wildleben", "translation": "wild life", "note": "wild + leben (life); lived carefree without Braumasters' regulations"}
 {"key": "wildlingsgarten", "word": "Wildlingsgarten", "translation": "Wildling Garden", "note": "Wildlings + garten (garden); location where seeds are delivered to Sylvia Whisperbloom"}
+{"key": "alestus", "word": "Alestus", "translation": "Alestus", "note": "WoW NPC name; first aid trainer in Silvermoon; proper noun"}
+{"key": "auktionshäuser", "word": "Auktionshäuser", "translation": "auction houses", "note": "plural of Auktionshaus; Auktion (auction) + Haus (house)"}
+{"key": "auszulaufen", "word": "auszulaufen", "translation": "to set sail; to put out to sea", "note": "zu-infinitive of auslaufen; said of a ship leaving port, not 'to expire'"}
+{"key": "briefkästen", "word": "Briefkästen", "translation": "mailboxes", "note": "plural of Briefkasten; Brief (letter) + Kasten (box)"}
+{"key": "herzengsgute", "word": "herzengsgute", "translation": "kind-hearted", "note": "Blizzard's own typo for herzensgute; both spellings sit in the same sentence"}
+{"key": "herzensgute", "word": "herzensgute", "translation": "kind-hearted", "note": "inflected form of herzensgut; Herzens (of the heart) + gut (good)"}
+{"key": "produktionsberufe", "word": "Produktionsberufe", "translation": "crafting professions", "note": "WoW term; literally production professions, called crafting professions in English WoW"}
+{"key": "produktionsberufes", "word": "Produktionsberufes", "translation": "crafting profession", "note": "genitive singular of Produktionsberuf; a crafting profession in English WoW"}
+{"key": "sammlerberufe", "word": "Sammlerberufe", "translation": "gathering professions", "note": "WoW term; Sammler (collector) + Beruf (profession); gathering professions in English WoW"}
+{"key": "schmutzigeren", "word": "schmutzigeren", "translation": "dirtier", "note": "inflected comparative of schmutzig (dirty)"}
+{"key": "schriftkundigen", "word": "Schriftkundigen", "translation": "scribes; the literate", "note": "Schrift (writing) + kundig (versed in); here paired with Gelehrten (scholars)"}
+{"key": "shalenn", "word": "Shalenn", "translation": "Shalenn", "note": "WoW NPC name; stable master in Silvermoon; proper noun"}
+{"key": "sonnenhof", "word": "Sonnenhof", "translation": "Court of the Sun", "note": "district of Silvermoon City; Sonne (sun) + Hof (court)"}
+{"key": "umsturzes", "word": "Umsturzes", "translation": "upheaval; overthrow", "note": "genitive of Umsturz; um- + Sturz (fall); Zeit des Umsturzes = time of upheaval"}
+{"key": "verbandstechniken", "word": "Verbandstechniken", "translation": "bandaging techniques", "note": "Verband (bandage) + Technik (technique); the First Aid skill"}
+{"key": "westsanktum", "word": "Westsanktum", "translation": "Western Sanctum", "note": "arcane sanctum in Eversong Woods; also written Sanktum des Westens"}

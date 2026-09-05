@@ -155,9 +155,17 @@ def main():
 
     # Gossip belongs to no quest. Give it its own records with negative ids so it
     # can never collide with a real quest id.
-    seen_gossip = {q["description"] for q in quests.values() if q["id"] < 0}
+    #
+    # Only the numbered records take part in that. The Retail corpus also holds
+    # Classic quests keyed as "classic-2", from back when they were folded in
+    # here, and comparing one of those against 0 raises rather than skipping it:
+    # the first real harvest import died on the line below.
+    def negative(value):
+        return isinstance(value, int) and value < 0
+
+    seen_gossip = {q["description"] for q in quests.values() if negative(q["id"])}
     added_gossip = 0
-    next_id = min([q for q in quests if q < 0], default=0) - 1
+    next_id = min([q for q in quests if negative(q)], default=0) - 1
     for text in gossip:
         if text in seen_gossip:
             continue
@@ -180,9 +188,13 @@ def main():
         if words_path.exists():
             had = {l.strip() for l in words_path.read_text(encoding="utf-8").splitlines() if l.strip()}
         added = [w for w in fresh if w not in had]
-        with words_path.open("a", encoding="utf-8") as fh:
-            for w in added:
-                fh.write(w + chr(10))
+        # Behind the dry-run check like everything else. It was not, so a run
+        # asked to change nothing still appended here -- and the real run that
+        # followed then reported nothing new, because the dry one had taken it.
+        if not args.dry_run:
+            with words_path.open("a", encoding="utf-8") as fh:
+                for w in added:
+                    fh.write(w + chr(10))
         print(f"  words with no dictionary entry: {len(fresh)} collected, {len(added)} new -> {words_path.name}")
 
     print(f"  filled empty fields: {filled}")
