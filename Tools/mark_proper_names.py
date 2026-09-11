@@ -2,21 +2,30 @@
 """
 Mark WoW proper names as default ignored while preserving translation/note.
 
-Heuristics (conservative):
-- Candidate if translation casefold == word casefold OR word casefold == key (translation == word)
-  AND original word contains uppercase letter or apostrophe, length >=3
-  AND not in manually curated grammar overrides (we preserve curated notes)
+Conservative batch (issue #1): candidate ONLY if ALL hold:
+- word == translation (exact, case-sensitive, stripped)
+- len(word) >= 3
+- word.casefold() not in COMMON_SAME_TRANSLATION_DENY
+- PROPER_PATTERN matches (starts with uppercase incl. AE/OE/UE)
+- note contains "proper" (case-insensitive) -- curator-confirmed name
 
-Preserves existing status if already set; only adds ignored where missing.
-Uses allowlist to avoid false positives on short common words.
+Translated-name pairs (Sturmwind->Stormwind) are never touched.
+Existing status values are preserved; only missing status gains "ignored".
 
-Run after all audit waves.
+Operates on Data/CuratedDE.jsonl only (no Data/cache dependency -- cache
+is gitignored and absent from clones). Preserves file order and JSON
+formatting (separators ", "/": ", status appended last).
+
+Run: python3 Tools/mark_proper_names.py [--check]
+  --check: dry run, report only, exit 1 if anything would be marked.
 """
-import json, pathlib, re
+import json
+import pathlib
+import re
+import sys
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 CURATED = ROOT / "Data/CuratedDE.jsonl"
-TRANSLATIONS = ROOT / "Data/cache/translations_de_en.jsonl"
 
 # Keep these as common words even if same translation (avoid marking ignored)
 COMMON_SAME_TRANSLATION_DENY = {
@@ -25,76 +34,56 @@ COMMON_SAME_TRANSLATION_DENY = {
 
 PROPER_PATTERN = re.compile(r"^[A-ZÄÖÜ].*[A-Za-zÄÖÜäöüß'’\-]*$")
 
-def is_proper_candidate(word: str, translation: str) -> bool:
+
+def is_proper_candidate(word: str, translation: str, note: str) -> bool:
+    if not word or not translation:
+        return False
+    translation = translation.strip()
+    if word != translation:  # exact match only; casefold variants (Wolf/wolf) stay untouched
+        return False
     if len(word) < 3:
         return False
     if word.casefold() in COMMON_SAME_TRANSLATION_DENY:
         return False
-    # translation == word (case-insensitive) is strongest signal for invariant WoW names
-    if word.casefold() != translation.casefold():
-        # Second signal: WoW fantasy pattern but translation differs (e.g., Sturmwind->Stormwind)
-        # We only auto-mark these if curated already flagged? For now skip to avoid false positives.
-        # Proper names with translated equivalents are handled via curated manual list; here we keep conservative.
-        return False
     if not PROPER_PATTERN.match(word):
         return False
-    # Must contain at least one uppercase letter (already) or apostrophe
-    if word.islower():
+    if "proper" not in (note or "").lower():  # curator confirmation gate
         return False
     return True
 
-def main():
-    curated = {}
-    for line in CURATED.read_text(encoding="utf-8").splitlines():
-        if not line.strip():
-            continue
-        r = json.loads(line)
-        curated[r["key"]] = r
 
-    # Load translations to get word form for entries not in curated
-    trans_map = {json.loads(l)["key"]: json.loads(l) for l in TRANSLATIONS.read_text(encoding="utf-8").splitlines() if l.strip()}
-
+def main() -> int:
+    check_only = "--check" in sys.argv
+    lines = CURATED.read_text(encoding="utf-8").splitlines()
+    out_lines = []
     added = 0
-    skipped_kept = 0
-    for key, entry in curated.items():
-        word = entry.get("word") or trans_map.get(key, {}).get("word") or key
-        translation = entry.get("translation") or ""
-        if entry.get("status") == "ignored":
-            skipped_kept += 1
-            continue
-        if is_proper_candidate(word, translation):
-            entry["status"] = "ignored"
-            added += 1
-
-    # Also consider non-curated entries that are proper names and have translation==word
-    # They are not yet in CuratedDE, so we add them with status ignored preserving translation
-    for key, rec in trans_map.items():
-        if key in curated:
-            continue
-        word = rec.get("word") or key
-        translation = rec.get("translation") or ""
-        if not translation:
-            continue
-        if is_proper_candidate(word, translation):
-            curated[key] = {"key": key, "word": word, "translation": translation, "note": rec.get("note") or "", "status": "ignored"}
-            added += 1
-
-    # Rewrite curated preserving order: existing order first, new proper names appended sorted
-    # Keep original order for existing keys
-    existing_order = []
-    seen = set()
-    for line in CURATED.read_text(encoding="utf-8").splitlines():
+    already_ignored = 0
+    for line in lines:
         if not line.strip():
+            out_lines.append(line)
             continue
         r = json.loads(line)
-        existing_order.append(r["key"])
-        seen.add(r["key"])
-    new_keys = [k for k in curated if k not in seen]
-    # Also keys that were existing but now have status still keep order
-    all_keys = existing_order + sorted(new_keys)
-    CURATED.write_text("\n".join(json.dumps(curated[k], ensure_ascii=False, separators=(",", ":")) for k in all_keys) + "\n", encoding="utf-8")
-    print(f"proper_names_marked={added} already_ignored={skipped_kept} curated_total={len(curated)}")
+        if r.get("status") == "ignored":
+            already_ignored += 1
+            out_lines.append(line)
+            continue
+        if is_proper_candidate(r.get("word") or "", r.get("translation") or "", r.get("note") or ""):
+            added += 1
+            if check_only:
+                out_lines.append(line)
+            else:
+                r["status"] = "ignored"  # appended last, order preserved
+                out_lines.append(json.dumps(r, ensure_ascii=False))
+        else:
+            out_lines.append(line)
+    if check_only:
+        print(f"would_mark={added} already_ignored={already_ignored}")
+        return 1 if added else 0
+    CURATED.write_text("\n".join(out_lines) + "\n", encoding="utf-8")
+    print(f"proper_names_marked={added} already_ignored={already_ignored} "
+          f"curated_total={len(out_lines)}")
+    return 0
+
 
 if __name__ == "__main__":
-    import sys
-    sys.exit(main() or 0)
+    sys.exit(main())
