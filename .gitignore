@@ -13,3 +13,5 @@ desktop.ini
 *scratchpad*
 *AppData*
 __pycache__/
+
+.claude/
