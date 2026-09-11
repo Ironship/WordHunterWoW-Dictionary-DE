@@ -40,15 +40,8 @@ def english_leftover(record):
 
 
 records = {}
-sources = [
-    ROOT / "Data/cache/translations_de_en.jsonl",
-    ROOT / "Data/CuratedDE.jsonl",
-]
-for source in sources:
-    if not source.exists():
-        # Data/cache/ is gitignored and absent from clones; curated alone
-        # is enough to rebuild the shipped file.
-        continue
+for source in (ROOT / "Data/cache/translations_de_en.jsonl",
+               ROOT / "Data/CuratedDE.jsonl"):
     for line in source.read_text(encoding="utf-8").splitlines():
         r = json.loads(line)
         if english_leftover(r):
