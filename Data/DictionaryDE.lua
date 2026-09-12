@@ -11668,7 +11668,7 @@ WordHunterWoW_Dictionary_DE["bibbly"] = { word = "Bibbly", translation = "Bibbly
 WordHunterWoW_Dictionary_DE["bibblys"] = { word = "Bibblys", translation = "Bibblys", note = "" }
 WordHunterWoW_Dictionary_DE["biber"] = { word = "Biber", translation = "beaver", note = "beavers; the animal known for building dams and lodges" }
 WordHunterWoW_Dictionary_DE["biberspuren"] = { word = "Biberspuren", translation = "beaver tracks; beaver trails", note = "tracks or trails left by beavers" }
-WordHunterWoW_Dictionary_DE["bibilfaz"] = { word = "Bibilfaz", translation = "Bibilfaz", note = "" }
+WordHunterWoW_Dictionary_DE["bibilfaz"] = { word = "Bibilfaz", translation = "Bibilfaz", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["bibliothek"] = { word = "Bibliothek", translation = "library", note = "collection of books or building housing them" }
 WordHunterWoW_Dictionary_DE["bibliothekar"] = { word = "Bibliothekar", translation = "librarian", note = "from Bibliothek (library); a library professional" }
 WordHunterWoW_Dictionary_DE["bibliothekare"] = { word = "Bibliothekare", translation = "librarians", note = "plural of Bibliothekar, from Bibliothek, 'library'" }
@@ -11907,7 +11907,7 @@ WordHunterWoW_Dictionary_DE["binjy"] = { word = "Binjy", translation = "Binjy", 
 WordHunterWoW_Dictionary_DE["bink"] = { word = "Bink", translation = "Bink", note = "NPC name; subject of conversation quest" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["binnen"] = { word = "binnen", translation = "within", note = "a formal preposition meaning 'within'; often used for time or area" }
 WordHunterWoW_Dictionary_DE["binsen"] = { word = "Binsen", translation = "rushes; reed plants", note = "binse = a marsh plant (rush); used for weaving or thatching" }
-WordHunterWoW_Dictionary_DE["bintook"] = { word = "Bintook", translation = "Bintook", note = "" }
+WordHunterWoW_Dictionary_DE["bintook"] = { word = "Bintook", translation = "Bintook", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["biokuppel"] = { word = "Biokuppel", translation = "biodome", note = "compound: bio (life) + kuppel (dome)" }
 WordHunterWoW_Dictionary_DE["biokuppelbahn"] = { word = "Biokuppelbahn", translation = "biodome railway", note = "track through biome" }
 WordHunterWoW_Dictionary_DE["biokuppeln"] = { word = "Biokuppeln", translation = "biodomes", note = "from biokuppel: bio-dome/bio-sphere; biosphere habitat" }
@@ -11938,7 +11938,7 @@ WordHunterWoW_Dictionary_DE["bipsi"] = { word = "Bipsi", translation = "Bipsi", 
 WordHunterWoW_Dictionary_DE["birch"] = { word = "Birch", translation = "Birch", note = "" }
 WordHunterWoW_Dictionary_DE["birgt"] = { word = "birgt", translation = "contains; harbors; salvages", note = "3rd person singular of bergen; can mean hold/contain or rescue" }
 WordHunterWoW_Dictionary_DE["birkensporling"] = { word = "Birkensporling", translation = "birch polypore", note = "a fungal growth found on birch trees" }
-WordHunterWoW_Dictionary_DE["birkhain"] = { word = "Birkhain", translation = "Birkhain", note = "" }
+WordHunterWoW_Dictionary_DE["birkhain"] = { word = "Birkhain", translation = "Birkhain", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["birmingham"] = { word = "Birmingham", translation = "Birmingham", note = "" }
 WordHunterWoW_Dictionary_DE["birne"] = { word = "Birne", translation = "pear", note = "Birne = pear fruit" }
 WordHunterWoW_Dictionary_DE["birnen"] = { word = "Birnen", translation = "Pears", note = "plural of Birne, 'pear'" }
@@ -12019,12 +12019,12 @@ WordHunterWoW_Dictionary_DE["bizbys"] = { word = "Bizbys", translation = "Bizbys
 WordHunterWoW_Dictionary_DE["bizeps"] = { word = "Bizeps", translation = "biceps", note = "from Latin biceps (two-headed); the upper arm muscle" }
 WordHunterWoW_Dictionary_DE["bizmo"] = { word = "Bizmo", translation = "Bizmo", note = "" }
 WordHunterWoW_Dictionary_DE["bizmos"] = { word = "Bizmos", translation = "Bizmos", note = "character name" , status = "ignored" }
-WordHunterWoW_Dictionary_DE["bjarngrim"] = { word = "Bjarngrim", translation = "Bjarngrim", note = "" }
+WordHunterWoW_Dictionary_DE["bjarngrim"] = { word = "Bjarngrim", translation = "Bjarngrim", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["bjomolf"] = { word = "Bjomolf", translation = "Bjomolf", note = "" }
 WordHunterWoW_Dictionary_DE["bjornhjarta"] = { word = "Bjornhjarta", translation = "Bjornhjarta", note = "" }
 WordHunterWoW_Dictionary_DE["bjornhjarta-geschenk"] = { word = "Bjornhjarta-Geschenk", translation = "Bjornhjarta gift", note = "Geschenk means 'gift'; the first part is a proper name" }
-WordHunterWoW_Dictionary_DE["bjornrittar"] = { word = "Bjornrittar", translation = "Bjornrittar", note = "" }
-WordHunterWoW_Dictionary_DE["bjornsdottir"] = { word = "Bjornsdottir", translation = "Bjornsdottir", note = "" }
+WordHunterWoW_Dictionary_DE["bjornrittar"] = { word = "Bjornrittar", translation = "Bjornrittar", note = "", status = "ignored" }
+WordHunterWoW_Dictionary_DE["bjornsdottir"] = { word = "Bjornsdottir", translation = "Bjornsdottir", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["björn"] = { word = "Björn", translation = "Bjorn", note = "" }
 WordHunterWoW_Dictionary_DE["björnrittar"] = { word = "Björnrittar", translation = "Björnrittar", note = "" }
 WordHunterWoW_Dictionary_DE["bla"] = { word = "bla", translation = "blah", note = "" }
@@ -13160,7 +13160,7 @@ WordHunterWoW_Dictionary_DE["bokus"] = { word = "Bokus", translation = "Bokus", 
 WordHunterWoW_Dictionary_DE["bolabombardement"] = { word = "Bolabombardement", translation = "bola bombardment", note = "bola (a throwing weapon) + bombardement (bombardment)" }
 WordHunterWoW_Dictionary_DE["bolas"] = { word = "Bolas", translation = "Bolas", note = "quest name" }
 WordHunterWoW_Dictionary_DE["bolawerfer"] = { word = "Bolawerfer", translation = "bola launcher", note = "compound: bola (throwing weapon) + werfer (launcher); weapon for throwing at targets" }
-WordHunterWoW_Dictionary_DE["boldrich"] = { word = "Boldrich", translation = "Boldrich", note = "" }
+WordHunterWoW_Dictionary_DE["boldrich"] = { word = "Boldrich", translation = "Boldrich", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["boletus"] = { word = "Boletus", translation = "Boletus", note = "NPC name" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["bollwerk"] = { word = "Bollwerk", translation = "bulwark; stronghold", note = "from Bolwerk (defense structure)" }
 WordHunterWoW_Dictionary_DE["bollwerke"] = { word = "Bollwerke", translation = "bulwarks", note = "plural of Bollwerk; defensive strongholds or fortifications" }
@@ -13300,24 +13300,24 @@ WordHunterWoW_Dictionary_DE["borgen"] = { word = "borgen", translation = "borrow
 WordHunterWoW_Dictionary_DE["borgende"] = { word = "Borgende", translation = "borrowing", note = "either a dialectal form or archaic usage; possibly refers to borrowing/lending" }
 WordHunterWoW_Dictionary_DE["borger"] = { word = "Borger", translation = "Borger", note = "NPC surname or title" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["borgosh"] = { word = "Borgosh", translation = "Borgosh", note = "character name (weaponsmith quest)" , status = "ignored" }
-WordHunterWoW_Dictionary_DE["borgoth"] = { word = "Borgoth", translation = "Borgoth", note = "" }
-WordHunterWoW_Dictionary_DE["borgrim"] = { word = "Borgrim", translation = "Borgrim", note = "" }
+WordHunterWoW_Dictionary_DE["borgoth"] = { word = "Borgoth", translation = "Borgoth", note = "", status = "ignored" }
+WordHunterWoW_Dictionary_DE["borgrim"] = { word = "Borgrim", translation = "Borgrim", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["borgrims"] = { word = "Borgrims", translation = "Borgrims", note = "" }
 WordHunterWoW_Dictionary_DE["borgt"] = { word = "Borgt", translation = "Borrow", note = "borgen = to borrow or lend" }
-WordHunterWoW_Dictionary_DE["borgulla"] = { word = "Borgulla", translation = "Borgulla", note = "" }
+WordHunterWoW_Dictionary_DE["borgulla"] = { word = "Borgulla", translation = "Borgulla", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["boris"] = { word = "Boris", translation = "Boris", note = "" }
 WordHunterWoW_Dictionary_DE["borke"] = { word = "Borke", translation = "bark", note = "tree bark; the outer protective layer of trees" }
 WordHunterWoW_Dictionary_DE["borklinge"] = { word = "Borklinge", translation = "Bor blades", note = "creature type; likely forest defenders in original lore" }
 WordHunterWoW_Dictionary_DE["borkus"] = { word = "Borkus", translation = "Borkus", note = "enemy name", status = "ignored" }
-WordHunterWoW_Dictionary_DE["borlock"] = { word = "Borlock", translation = "Borlock", note = "" }
+WordHunterWoW_Dictionary_DE["borlock"] = { word = "Borlock", translation = "Borlock", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["born"] = { word = "Born", translation = "Born", note = "" }
-WordHunterWoW_Dictionary_DE["borogahn"] = { word = "Borogahn", translation = "Borogahn", note = "" }
-WordHunterWoW_Dictionary_DE["borohain"] = { word = "Borohain", translation = "Borohain", note = "" }
+WordHunterWoW_Dictionary_DE["borogahn"] = { word = "Borogahn", translation = "Borogahn", note = "", status = "ignored" }
+WordHunterWoW_Dictionary_DE["borohain"] = { word = "Borohain", translation = "Borohain", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["boromod"] = { word = "Boromod", translation = "Boromod", note = "proper name", status = "ignored" }
 WordHunterWoW_Dictionary_DE["boros"] = { word = "Boros", translation = "Boros", note = "proper name", status = "ignored" }
 WordHunterWoW_Dictionary_DE["borr-geth"] = { word = "Borr-Geth", translation = "Borr Geth", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["borrelson"] = { word = "Borrelson", translation = "Borrelson", note = "NPC name; dwarf-like" , status = "ignored" }
-WordHunterWoW_Dictionary_DE["borrhas"] = { word = "Borrhas", translation = "Borrhas", note = "" }
+WordHunterWoW_Dictionary_DE["borrhas"] = { word = "Borrhas", translation = "Borrhas", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["bors"] = { word = "Bors", translation = "Bors", note = "" }
 WordHunterWoW_Dictionary_DE["borsten"] = { word = "Borsten", translation = "bristles", note = "" }
 WordHunterWoW_Dictionary_DE["borstenhorn"] = { word = "Borstenhorn", translation = "Bristle Horn", note = "" }
@@ -13399,7 +13399,7 @@ WordHunterWoW_Dictionary_DE["bottichwerken"] = { word = "Bottichwerken", transla
 WordHunterWoW_Dictionary_DE["bottus"] = { word = "Bottus", translation = "Bottus", note = "" }
 WordHunterWoW_Dictionary_DE["boud"] = { word = "Boud", translation = "Boud", note = "" }
 WordHunterWoW_Dictionary_DE["bouldertoe"] = { word = "Bouldertoe", translation = "Bouldertoe", note = "dwarf NPC in Ironforge" , status = "ignored" }
-WordHunterWoW_Dictionary_DE["boulian"] = { word = "Boulian", translation = "Boulian", note = "" }
+WordHunterWoW_Dictionary_DE["boulian"] = { word = "Boulian", translation = "Boulian", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["bourbon"] = { word = "Bourbon", translation = "bourbon", note = "type of American whiskey aged in oak barrels; produced primarily in Kentucky" }
 WordHunterWoW_Dictionary_DE["bovan"] = { word = "Bovan", translation = "Bovan", note = "NPC name; proper noun", status = "ignored" }
 WordHunterWoW_Dictionary_DE["bovans"] = { word = "Bovans", translation = "Bovans", note = "proper name", status = "ignored" }
@@ -13419,7 +13419,7 @@ WordHunterWoW_Dictionary_DE["boxt"] = { word = "boxt", translation = "box", note
 WordHunterWoW_Dictionary_DE["boxys"] = { word = "Boxys", translation = "Boxy's", note = "" }
 WordHunterWoW_Dictionary_DE["bozzil"] = { word = "Bozzil", translation = "Bozzil", note = "" }
 WordHunterWoW_Dictionary_DE["bra"] = { word = "bra", translation = "need", note = "colloquial/contracted form of brauche (need)" }
-WordHunterWoW_Dictionary_DE["braagor"] = { word = "Braagor", translation = "Braagor", note = "" }
+WordHunterWoW_Dictionary_DE["braagor"] = { word = "Braagor", translation = "Braagor", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["braax"] = { word = "Braax", translation = "Braax", note = "" }
 WordHunterWoW_Dictionary_DE["brabbeln"] = { word = "brabbeln", translation = "babble", note = "to chatter or prattle" }
 WordHunterWoW_Dictionary_DE["brabbelte"] = { word = "brabbelte", translation = "babbled", note = "simple past of brabbeln, to babble or chatter" }

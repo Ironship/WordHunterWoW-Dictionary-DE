@@ -53368,7 +53368,7 @@
 {"key": "bibbert", "word": "bibbert", "translation": "shudders; trembles", "note": "bibbert = shakes or trembles; quivers in fear or cold"}
 {"key": "bibbly", "word": "Bibbly", "translation": "Bibbly", "note": ""}
 {"key": "biber", "word": "Biber", "translation": "beaver", "note": "beavers; the animal known for building dams and lodges"}
-{"key": "bibilfaz", "word": "Bibilfaz", "translation": "Bibilfaz", "note": ""}
+{"key": "bibilfaz", "word": "Bibilfaz", "translation": "Bibilfaz", "note": "", "status": "ignored"}
 {"key": "biberspuren", "word": "Biberspuren", "translation": "beaver tracks; beaver trails", "note": "tracks or trails left by beavers"}
 {"key": "bibliothekars", "word": "Bibliothekars", "translation": "librarian", "note": "one who manages a library or collection of books"}
 {"key": "biegsamem", "word": "biegsamem", "translation": "flexible; pliable; bendable", "note": "biegsam = flexible; capable of bending without breaking"}
@@ -53415,7 +53415,7 @@
 {"key": "bingokarte", "word": "Bingokarte", "translation": "bingo card", "note": "card used in the game of bingo; from English loanword"}
 {"key": "bingospiel", "word": "Bingospiel", "translation": "bingo game", "note": "game of bingo; from English loanword"}
 {"key": "binsen", "word": "Binsen", "translation": "rushes; reed plants", "note": "binse = a marsh plant (rush); used for weaving or thatching"}
-{"key": "bintook", "word": "Bintook", "translation": "Bintook", "note": ""}
+{"key": "bintook", "word": "Bintook", "translation": "Bintook", "note": "", "status": "ignored"}
 {"key": "biologe", "word": "Biologe", "translation": "biologist", "note": "logie = study/science; one who studies living things"}
 {"key": "biologisch", "word": "biologisch", "translation": "biological; of biology", "note": "relating to biology or living organisms"}
 {"key": "biologisches", "word": "Biologisches", "translation": "biological", "note": "neuter form; relating to living things or their study"}
@@ -53425,7 +53425,7 @@
 {"key": "biostabilität", "word": "Biostabilität", "translation": "biostability", "note": "stability of biological systems; resistance to decay"}
 {"key": "bipsi", "word": "Bipsi", "translation": "Bipsi", "note": ""}
 {"key": "birch", "word": "Birch", "translation": "Birch", "note": ""}
-{"key": "birkhain", "word": "Birkhain", "translation": "Birkhain", "note": ""}
+{"key": "birkhain", "word": "Birkhain", "translation": "Birkhain", "note": "", "status": "ignored"}
 {"key": "birst", "word": "birst", "translation": "bursts; teems with", "note": "archaic or poetic form of bersten (to burst); overflows or is full of"}
 {"key": "bisherige", "word": "bisherige", "translation": "previous; prior; former", "note": "bisher = hitherto/so far; what came before now"}
 {"key": "bissch'n", "word": "bissch'n", "translation": "a bit; a little", "note": "dialectal contraction of ein Bisschen (a little bit)"}
@@ -53447,9 +53447,9 @@
 {"key": "bizarrere", "word": "bizarrere", "translation": "stranger; more bizarre", "note": "comparative of bizarre; even more unusual or odd"}
 {"key": "bizby", "word": "Bizby", "translation": "Bizby", "note": ""}
 {"key": "bizarrerweise", "word": "bizarrerweise", "translation": "bizarrely; oddly; strangely", "note": "-weise = manner/way; in a bizarre or unusual manner"}
-{"key": "bjarngrim", "word": "Bjarngrim", "translation": "Bjarngrim", "note": ""}
-{"key": "bjornrittar", "word": "Bjornrittar", "translation": "Bjornrittar", "note": ""}
-{"key": "bjornsdottir", "word": "Bjornsdottir", "translation": "Bjornsdottir", "note": ""}
+{"key": "bjarngrim", "word": "Bjarngrim", "translation": "Bjarngrim", "note": "", "status": "ignored"}
+{"key": "bjornrittar", "word": "Bjornrittar", "translation": "Bjornrittar", "note": "", "status": "ignored"}
+{"key": "bjornsdottir", "word": "Bjornsdottir", "translation": "Bjornsdottir", "note": "", "status": "ignored"}
 {"key": "björn", "word": "Björn", "translation": "Bjorn", "note": ""}
 {"key": "blablabla", "word": "blablabla", "translation": "bla bla bla; et cetera", "note": "onomatopoeia; meaningless chatter or filler words"}
 {"key": "black", "word": "Black", "translation": "Black", "note": ""}
@@ -53630,7 +53630,7 @@
 {"key": "bokk", "word": "Bokk", "translation": "Bokk", "note": ""}
 {"key": "bokus", "word": "Bokus", "translation": "Bokus", "note": ""}
 {"key": "bolawerfer", "word": "Bolawerfer", "translation": "bola launcher", "note": "compound: bola (throwing weapon) + werfer (launcher); weapon for throwing at targets"}
-{"key": "boldrich", "word": "Boldrich", "translation": "Boldrich", "note": ""}
+{"key": "boldrich", "word": "Boldrich", "translation": "Boldrich", "note": "", "status": "ignored"}
 {"key": "bollwerke", "word": "Bollwerke", "translation": "bulwarks", "note": "plural of Bollwerk; defensive strongholds or fortifications"}
 {"key": "bolyun", "word": "Bolyun", "translation": "Bolyun", "note": ""}
 {"key": "bolvars", "word": "Bolvars", "translation": "Bolvars", "note": ""}
@@ -53662,17 +53662,17 @@
 {"key": "boran", "word": "Boran", "translation": "Boran", "note": ""}
 {"key": "bordschützen", "word": "Bordschützen", "translation": "ship's gunners", "note": "compound: bord (ship/side) + schützen (shooters); crew members manning weapons"}
 {"key": "borgende", "word": "Borgende", "translation": "borrowing", "note": "either a dialectal form or archaic usage; possibly refers to borrowing/lending"}
-{"key": "borgoth", "word": "Borgoth", "translation": "Borgoth", "note": ""}
-{"key": "borgrim", "word": "Borgrim", "translation": "Borgrim", "note": ""}
+{"key": "borgoth", "word": "Borgoth", "translation": "Borgoth", "note": "", "status": "ignored"}
+{"key": "borgrim", "word": "Borgrim", "translation": "Borgrim", "note": "", "status": "ignored"}
 {"key": "borgrims", "word": "Borgrims", "translation": "Borgrims", "note": ""}
 {"key": "borke", "word": "Borke", "translation": "bark", "note": "tree bark; the outer protective layer of trees"}
-{"key": "borgulla", "word": "Borgulla", "translation": "Borgulla", "note": ""}
+{"key": "borgulla", "word": "Borgulla", "translation": "Borgulla", "note": "", "status": "ignored"}
 {"key": "borklinge", "word": "Borklinge", "translation": "Bor blades", "note": "creature type; likely forest defenders in original lore"}
-{"key": "borlock", "word": "Borlock", "translation": "Borlock", "note": ""}
+{"key": "borlock", "word": "Borlock", "translation": "Borlock", "note": "", "status": "ignored"}
 {"key": "born", "word": "Born", "translation": "Born", "note": ""}
-{"key": "borogahn", "word": "Borogahn", "translation": "Borogahn", "note": ""}
-{"key": "borohain", "word": "Borohain", "translation": "Borohain", "note": ""}
-{"key": "borrhas", "word": "Borrhas", "translation": "Borrhas", "note": ""}
+{"key": "borogahn", "word": "Borogahn", "translation": "Borogahn", "note": "", "status": "ignored"}
+{"key": "borohain", "word": "Borohain", "translation": "Borohain", "note": "", "status": "ignored"}
+{"key": "borrhas", "word": "Borrhas", "translation": "Borrhas", "note": "", "status": "ignored"}
 {"key": "borrow", "word": "borrow", "translation": "borrow", "note": "English word; to take temporarily with intent to return"}
 {"key": "borstenpelze", "word": "Borstenpelze", "translation": "bristle furs", "note": "compound: borsten (bristles) + pelze (furs); pelts with stiff hair"}
 {"key": "bosh", "word": "Bosh", "translation": "Bosh", "note": ""}
@@ -53687,7 +53687,7 @@
 {"key": "botschafters", "word": "Botschafters", "translation": "ambassador", "note": "genitive form (ambassador's); diplomatic official"}
 {"key": "bottus", "word": "Bottus", "translation": "Bottus", "note": ""}
 {"key": "boud", "word": "Boud", "translation": "Boud", "note": ""}
-{"key": "boulian", "word": "Boulian", "translation": "Boulian", "note": ""}
+{"key": "boulian", "word": "Boulian", "translation": "Boulian", "note": "", "status": "ignored"}
 {"key": "bound", "word": "bound", "translation": "bound", "note": "English word; tied or constrained; also a leap"}
 {"key": "bourbon", "word": "Bourbon", "translation": "bourbon", "note": "type of American whiskey aged in oak barrels; produced primarily in Kentucky"}
 {"key": "bout", "word": "bout", "translation": "bout", "note": "English word; a period or contest"}
@@ -53699,7 +53699,7 @@
 {"key": "boxie", "word": "Boxie", "translation": "Boxie", "note": ""}
 {"key": "boxknochel", "word": "Boxknochel", "translation": "boxing gloves", "note": "compound: box (boxing) + knochel (hand/knuckle); protective hand gear"}
 {"key": "boxt", "word": "boxt", "translation": "box", "note": "third-person singular present; he/she/it boxes"}
-{"key": "braagor", "word": "Braagor", "translation": "Braagor", "note": ""}
+{"key": "braagor", "word": "Braagor", "translation": "Braagor", "note": "", "status": "ignored"}
 {"key": "braax", "word": "Braax", "translation": "Braax", "note": ""}
 {"key": "brachiale", "word": "brachiale", "translation": "brutal", "note": "possibly from Latin brachium (arm); means brute force or brutal strength"}
 {"key": "brachialer", "word": "brachialer", "translation": "more brutal", "note": "comparative form; increasingly forceful or physical"}
