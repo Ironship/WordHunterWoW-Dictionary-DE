@@ -30429,16 +30429,16 @@
 {"key": "ahunae", "word": "Ahunae", "translation": "Ahunae", "note": ""}
 {"key": "akali", "word": "Akali", "translation": "Akali", "note": "proper noun: Drakkari loa or deity", "status": "ignored"}
 {"key": "aktuell", "word": "aktuell", "translation": "current", "note": ""}
-{"key": "aku'mai", "word": "Aku'mai", "translation": "Aku'mai", "note": ""}
+{"key": "aku'mai", "word": "Aku'mai", "translation": "Aku'mai", "note": "", "status": "ignored"}
 {"key": "al'akirs", "word": "Al'Akirs", "translation": "Al'Akirs", "note": ""}
 {"key": "alaria", "word": "Alaria", "translation": "Alaria", "note": ""}
-{"key": "alderyn", "word": "Alderyn", "translation": "Alderyn", "note": ""}
+{"key": "alderyn", "word": "Alderyn", "translation": "Alderyn", "note": "", "status": "ignored"}
 {"key": "alina", "word": "Alina", "translation": "Alina", "note": ""}
 {"key": "alldem", "word": "alldem", "translation": "all of that", "note": ""}
 {"key": "alleingang", "word": "Alleingang", "translation": "solo action", "note": "allein (alone) + Gang (action/going)"}
 {"key": "allergisch", "word": "allergisch", "translation": "allergic", "note": ""}
 {"key": "allerton", "word": "Allerton", "translation": "Allerton", "note": ""}
-{"key": "allistarj", "word": "Allistarj", "translation": "Allistarj", "note": ""}
+{"key": "allistarj", "word": "Allistarj", "translation": "Allistarj", "note": "", "status": "ignored"}
 {"key": "aln'hara", "word": "Aln'hara", "translation": "Aln'hara", "note": ""}
 {"key": "aln'sharan", "word": "Aln'sharan", "translation": "Aln'sharan", "note": ""}
 {"key": "alpha", "word": "Alpha", "translation": "alpha", "note": ""}
@@ -30478,7 +30478,7 @@
 {"key": "araj", "word": "Araj", "translation": "Araj", "note": ""}
 {"key": "arbeitsmoral", "word": "Arbeitsmoral", "translation": "work ethic", "note": "compound: Arbeit (work) + Moral (ethics); lowercase"}
 {"key": "arbeitsplatz", "word": "Arbeitsplatz", "translation": "workplace", "note": ""}
-{"key": "archaedas", "word": "Archaedas", "translation": "Archaedas", "note": ""}
+{"key": "archaedas", "word": "Archaedas", "translation": "Archaedas", "note": "", "status": "ignored"}
 {"key": "architekt", "word": "Architekt", "translation": "architect", "note": ""}
 {"key": "arconiss", "word": "Arconiss", "translation": "Arconiss", "note": ""}
 {"key": "ared", "word": "Ared", "translation": "Ared", "note": ""}
@@ -30492,8 +30492,8 @@
 {"key": "aspekten", "word": "Aspekten", "translation": "aspects", "note": "facets or elements"}
 {"key": "astraler", "word": "Astraler", "translation": "astral", "note": "lowercase: astral entities or creatures"}
 {"key": "astralwappen", "word": "Astralwappen", "translation": "astral crest", "note": "compound: astral + Wappen (crest); WoW crafting item"}
-{"key": "astravar", "word": "Astravar", "translation": "Astravar", "note": ""}
-{"key": "ataanya", "word": "Ataanya", "translation": "Ataanya", "note": ""}
+{"key": "astravar", "word": "Astravar", "translation": "Astravar", "note": "", "status": "ignored"}
+{"key": "ataanya", "word": "Ataanya", "translation": "Ataanya", "note": "", "status": "ignored"}
 {"key": "ateena", "word": "Ateena", "translation": "Ateena", "note": ""}
 {"key": "attackieren", "word": "attackieren", "translation": "attack", "note": ""}
 {"key": "atuik", "word": "Atuik", "translation": "Atuik", "note": ""}
@@ -30539,13 +30539,13 @@
 {"key": "auszuarbeiten", "word": "auszuarbeiten", "translation": "to work out", "note": ""}
 {"key": "auszurichten", "word": "auszurichten", "translation": "to deliver", "note": "to convey, pass along, or deliver (greetings, wishes); can also mean to arrange/set up"}
 {"key": "authentische", "word": "authentische", "translation": "authentic", "note": ""}
-{"key": "azjol-nerub", "word": "Azjol-Nerub", "translation": "Azjol-Nerub", "note": ""}
+{"key": "azjol-nerub", "word": "Azjol-Nerub", "translation": "Azjol-Nerub", "note": "", "status": "ignored"}
 {"key": "bael", "word": "Bael", "translation": "Bael", "note": ""}
 {"key": "baelguns", "word": "Baelguns", "translation": "Baelguns", "note": ""}
 {"key": "baldar", "word": "Baldar", "translation": "Baldar", "note": ""}
-{"key": "bambala", "word": "Bambala", "translation": "Bambala", "note": ""}
+{"key": "bambala", "word": "Bambala", "translation": "Bambala", "note": "", "status": "ignored"}
 {"key": "bannern", "word": "Bannern", "translation": "banners", "note": ""}
-{"key": "banthar", "word": "Banthar", "translation": "Banthar", "note": ""}
+{"key": "banthar", "word": "Banthar", "translation": "Banthar", "note": "", "status": "ignored"}
 {"key": "batterie", "word": "Batterie", "translation": "battery", "note": ""}
 {"key": "bauarbeiten", "word": "Bauarbeiten", "translation": "Construction work", "note": ""}
 {"key": "beabsichtigt", "word": "beabsichtigt", "translation": "intended", "note": ""}
@@ -30566,7 +30566,7 @@
 {"key": "beleidigt", "word": "beleidigt", "translation": "offended", "note": "past participle of beleidigen; to insult or offend"}
 {"key": "beliebige", "word": "beliebige", "translation": "any", "note": ""}
 {"key": "belohne", "word": "belohne", "translation": "reward", "note": ""}
-{"key": "ben'jin", "word": "Ben'jin", "translation": "Ben'jin", "note": ""}
+{"key": "ben'jin", "word": "Ben'jin", "translation": "Ben'jin", "note": "", "status": "ignored"}
 {"key": "benehmt", "word": "benehmt", "translation": "to behave", "note": "to conduct oneself; formal register compared to verhalten"}
 {"key": "benommen", "word": "benommen", "translation": "dazed", "note": ""}
 {"key": "benutzung", "word": "Benutzung", "translation": "use", "note": ""}
@@ -30606,7 +30606,7 @@
 {"key": "blattington", "word": "Blattington", "translation": "Blattington", "note": ""}
 {"key": "blinder", "word": "blinder", "translation": "blind man", "note": "nominalized adjective; a person who is blind"}
 {"key": "blindlings", "word": "blindlings", "translation": "blindly", "note": ""}
-{"key": "blingtron", "word": "Blingtron", "translation": "Blingtron", "note": ""}
+{"key": "blingtron", "word": "Blingtron", "translation": "Blingtron", "note": "", "status": "ignored"}
 {"key": "blitzbogen", "word": "Blitzbogen", "translation": "Lightning arc", "note": ""}
 {"key": "bluttroll", "word": "Bluttroll", "translation": "Blood troll", "note": ""}
 {"key": "bläst", "word": "bläst", "translation": "blows", "note": ""}
@@ -30636,7 +30636,7 @@
 {"key": "bürgerkrieg", "word": "Bürgerkrieg", "translation": "Civil War", "note": ""}
 {"key": "callum", "word": "Callum", "translation": "Callum", "note": ""}
 {"key": "cavina", "word": "Cavina", "translation": "Cavina", "note": ""}
-{"key": "celindra", "word": "Celindra", "translation": "Celindra", "note": ""}
+{"key": "celindra", "word": "Celindra", "translation": "Celindra", "note": "", "status": "ignored"}
 {"key": "cenarisches", "word": "cenarisches", "translation": "cenarian", "note": ""}
 {"key": "chaotische", "word": "chaotische", "translation": "chaotic", "note": ""}
 {"key": "chens", "word": "Chens", "translation": "Chen's", "note": ""}
@@ -30645,8 +30645,8 @@
 {"key": "coup", "word": "Coup", "translation": "coup", "note": ""}
 {"key": "craven", "word": "Craven", "translation": "Craven", "note": ""}
 {"key": "dalar", "word": "Dalar", "translation": "Dalar", "note": ""}
-{"key": "dalgrun", "word": "Dalgrun", "translation": "Dalgrun", "note": ""}
-{"key": "danforth", "word": "Danforth", "translation": "Danforth", "note": ""}
+{"key": "dalgrun", "word": "Dalgrun", "translation": "Dalgrun", "note": "", "status": "ignored"}
+{"key": "danforth", "word": "Danforth", "translation": "Danforth", "note": "", "status": "ignored"}
 {"key": "dar'khans", "word": "Dar'Khans", "translation": "Dar'Khans", "note": ""}
 {"key": "darbietung", "word": "Darbietung", "translation": "performance", "note": ""}
 {"key": "dargebracht", "word": "dargebracht", "translation": "presented", "note": ""}
@@ -30675,7 +30675,7 @@
 {"key": "drastisch", "word": "drastisch", "translation": "drastic", "note": ""}
 {"key": "dreckig", "word": "dreckig", "translation": "dirty", "note": ""}
 {"key": "dreistigkeit", "word": "Dreistigkeit", "translation": "audacity; insolence", "note": "dreist (bold/cheeky) + -heit (noun suffix); the daring to transgress"}
-{"key": "dreyden", "word": "Dreyden", "translation": "Dreyden", "note": ""}
+{"key": "dreyden", "word": "Dreyden", "translation": "Dreyden", "note": "", "status": "ignored"}
 {"key": "droman", "word": "Droman", "translation": "Droman", "note": ""}
 {"key": "druckmittel", "word": "Druckmittel", "translation": "leverage; blackmail material", "note": "druck (pressure) + mittel (means); means of applying pressure"}
 {"key": "dröhnen", "word": "Dröhnen", "translation": "roaring; droning", "note": "verb: to roar or drone; dröhnen is the sound itself"}
@@ -30975,7 +30975,7 @@
 {"key": "grek", "word": "Grek", "translation": "Grek", "note": "name was misspelled as Grec", "status": "ignored"}
 {"key": "grent", "word": "Grent", "translation": "Grent", "note": ""}
 {"key": "grimla", "word": "Grimla", "translation": "Grimla", "note": ""}
-{"key": "grishnath", "word": "Grishnath", "translation": "Grishnath", "note": ""}
+{"key": "grishnath", "word": "Grishnath", "translation": "Grishnath", "note": "", "status": "ignored"}
 {"key": "grol", "word": "Grol", "translation": "Grol", "note": ""}
 {"key": "grom'tor", "word": "Grom'tor", "translation": "Grom'tor", "note": ""}
 {"key": "gromits", "word": "Gromits", "translation": "Gromits", "note": ""}
