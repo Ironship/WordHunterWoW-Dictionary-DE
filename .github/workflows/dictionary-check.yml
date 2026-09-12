@@ -1,0 +1,21 @@
+name: dictionary-check
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  proper-names:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+      - name: No unmarked curator-confirmed proper names
+        # Exits 1 if any word==translation + proper-shape entry with a
+        # curator note (proper/npc/creature/place/faction) still lacks
+        # status=ignored. See Tools/mark_proper_names.py and issue #1.
+        run: python3 Tools/mark_proper_names.py --check
