@@ -61174,7 +61174,7 @@
 {"key": "kauj", "word": "Kauj", "translation": "Kauj", "note": "shaman name"}
 {"key": "kaukau", "word": "Kaukau", "translation": "Kaukau", "note": "mushan (beast) name; beloved animal", "status": "ignored"}
 {"key": "kaukaus", "word": "Kaukaus", "translation": "Kaukau's", "note": "possessive; quest name involving a mushan"}
-{"key": "kaulema", "word": "Kaulema", "translation": "Kaulema", "note": "troll name; powerful ally or enemy"}
+{"key": "kaulema", "word": "Kaulema", "translation": "Kaulema", "note": "troll name; powerful ally or enemy", "status": "ignored"}
 {"key": "kauriqweiler", "word": "Kauriqweiler", "translation": "Kauriqweiler", "note": "tribe or location name", "status": "ignored"}
 {"key": "kausalität", "word": "Kausalität", "translation": "causality", "note": "noun; cause and effect relationships in time"}
 {"key": "kausalitäten", "word": "Kausalitäten", "translation": "causality", "note": "plural; multiple causal relationships"}
@@ -61187,10 +61187,10 @@
 {"key": "kaviar", "word": "Kaviar", "translation": "caviar", "note": "fish roe delicacy; expensive food"}
 {"key": "kawummbräu", "word": "Kawummbräu", "translation": "Kawumbräu", "note": "goblin beer or potion name; special brew"}
 {"key": "kavllarie", "word": "Kavllarie", "translation": "cavalry", "note": "speaker struggling with word Kavallerie; mounted troops"}
-{"key": "kawummso", "word": "Kawummso", "translation": "Kawummso", "note": "goblin name; lieutenant in quest"}
+{"key": "kawummso", "word": "Kawummso", "translation": "Kawummso", "note": "goblin name; lieutenant in quest", "status": "ignored"}
 {"key": "kayann", "word": "Kayann", "translation": "Kayann", "note": "NPC name; friend receiving delivery", "status": "ignored"}
 {"key": "kayanns", "word": "Kayanns", "translation": "Kayann's", "note": "possessive; NPC's expected shipment"}
-{"key": "kaylaan", "word": "Kaylaan", "translation": "Kaylaan", "note": "appears in context of Kael'thas research"}
+{"key": "kaylaan", "word": "Kaylaan", "translation": "Kaylaan", "note": "appears in context of Kael'thas research", "status": "ignored"}
 {"key": "kazzi", "word": "Kazzi", "translation": "Kazzi", "note": "NPC name; helps with brewing", "status": "ignored"}
 {"key": "kbato", "word": "Kbato", "translation": "Kbato", "note": "NPC or guide name; addresses mortal in quest", "status": "ignored"}
 {"key": "kearnens", "word": "Kearnens", "translation": "Kearnen's", "note": "possessive; SI:7 agent name"}
@@ -61198,7 +61198,7 @@
 {"key": "keb'ezil", "word": "Keb'ezil", "translation": "Keb'ezil", "note": "demon name; interrupts spell preparation", "status": "ignored"}
 {"key": "keep", "word": "keep", "translation": "keep", "note": "English word from English quest text"}
 {"key": "keepin", "word": "keepin", "translation": "keepin'", "note": "Scottish dialect: keeping; English text"}
-{"key": "keets", "word": "Keets", "translation": "Keets", "note": "engineer name; part of gnome crew"}
+{"key": "keets", "word": "Keets", "translation": "Keets", "note": "engineer name; part of gnome crew", "status": "ignored"}
 {"key": "kehliger", "word": "kehliger", "translation": "deeper; more guttural", "note": "comparative of kehlig (guttural/throaty); demon voices"}
 {"key": "kehr'n", "word": "kehr'n", "translation": "return; come back", "note": "dialectal contraction of kehren; memories returning"}
 {"key": "kehrseite", "word": "Kehrseite", "translation": "downside", "note": "compound: kehren (turn) + Seite (side); the flip side or drawback"}
@@ -61207,20 +61207,20 @@
 {"key": "keilers", "word": "Keilers", "translation": "Keiler's", "note": "boar (animal) name possessive"}
 {"key": "keimlinge", "word": "Keimlinge", "translation": "seedlings", "note": "young plants; sprouts"}
 {"key": "keimlingen", "word": "Keimlingen", "translation": "seedlings", "note": "dative plural; young plants from other world"}
-{"key": "kejabu", "word": "Kejabu", "translation": "Kejabu", "note": "Zandalari witch doctor name"}
+{"key": "kejabu", "word": "Kejabu", "translation": "Kejabu", "note": "Zandalari witch doctor name", "status": "ignored"}
 {"key": "kek", "word": "KEK", "translation": "KEK", "note": "appears to be acronym or name; possibly translation error"}
 {"key": "kekslieferung", "word": "Kekslieferung", "translation": "cookie delivery", "note": "compound: cookies + delivery; quest item or task"}
 {"key": "kel'gashs", "word": "Kel'gashs", "translation": "Kel'gash's", "note": "NPC possessive; quest target"}
 {"key": "kel'therils", "word": "Kel'therils", "translation": "Kel'theril's", "note": "ancient location or artifact name"}
 {"key": "keldamyr", "word": "Keldamyr", "translation": "Keldamyr", "note": "NPC name; druid character", "status": "ignored"}
-{"key": "keldaz", "word": "Keldaz", "translation": "Keldaz", "note": "militia overseer name"}
-{"key": "kelek", "word": "Kelek", "translation": "Kelek", "note": "shaman name in Winterspring context"}
-{"key": "keleth", "word": "Keleth", "translation": "Keleth", "note": "demigod or ancient one name; gives blessing"}
+{"key": "keldaz", "word": "Keldaz", "translation": "Keldaz", "note": "militia overseer name", "status": "ignored"}
+{"key": "kelek", "word": "Kelek", "translation": "Kelek", "note": "shaman name in Winterspring context", "status": "ignored"}
+{"key": "keleth", "word": "Keleth", "translation": "Keleth", "note": "demigod or ancient one name; gives blessing", "status": "ignored"}
 {"key": "keletress", "word": "Keletress", "translation": "Keletress", "note": "proper name; hand or power of Keletress", "status": "ignored"}
 {"key": "keli'dans", "word": "Keli'dans", "translation": "Keli'dan's", "note": "feathered staff or weapon name"}
 {"key": "kelia", "word": "Kelia", "translation": "Kelia", "note": "void elf NPC name", "status": "ignored"}
 {"key": "kelisendras", "word": "Kelisendras", "translation": "Kelisendra's", "note": "captain's lost sea charts"}
-{"key": "kelisendra", "word": "Kelisendra", "translation": "Kelisendra", "note": "ship captain name"}
+{"key": "kelisendra", "word": "Kelisendra", "translation": "Kelisendra", "note": "ship captain name", "status": "ignored"}
 {"key": "kell", "word": "Kell", "translation": "Kell", "note": "NPC name; can barely speak", "status": "ignored"}
 {"key": "kella", "word": "Kella", "translation": "Kella", "note": "NPC name; secured location", "status": "ignored"}
 {"key": "kelle", "word": "Kelle", "translation": "trowel", "note": "digging tool; shows Vrykul still collect herbs"}
@@ -61233,7 +61233,7 @@
 {"key": "kelseys", "word": "Kelseys", "translation": "Kelsey's", "note": "advisor's records or notes"}
 {"key": "kemora", "word": "Kemora", "translation": "Kemora", "note": "NPC name", "status": "ignored"}
 {"key": "kenata", "word": "Kenata", "translation": "Kenata", "note": "forsaken NPC name; family storyline", "status": "ignored"}
-{"key": "ken-kens", "word": "Ken-Kens", "translation": "Ken-Kens", "note": "mantis commander or title"}
+{"key": "ken-kens", "word": "Ken-Kens", "translation": "Ken-Kens", "note": "mantis commander or title", "status": "ignored"}
 {"key": "kendall", "word": "Kendall", "translation": "Kendall", "note": "NPC name; engineer", "status": "ignored"}
 {"key": "kenn'nzulern", "word": "kenn'nzulern", "translation": "get to know; learn about", "note": "dialectal contraction; to meet and learn"}
 {"key": "kennenlern", "word": "kennenlern", "translation": "learn about; experience", "note": "infinitive verb; get to know or become acquainted with"}
@@ -61629,7 +61629,7 @@
 {"key": "kohlenstaub", "word": "Kohlenstaub", "translation": "coal dust", "note": "compound: kohle (coal) + staub (dust); fine particles from coal"}
 {"key": "kohlenstaubs", "word": "Kohlenstaubs", "translation": "coal dust", "note": "possessive form; refers to something belonging to coal dust or related to it"}
 {"key": "kohlenteer", "word": "Kohlenteer", "translation": "coal tar", "note": "compound: kohlen + teer; dark sticky substance derived from coal"}
-{"key": "kohler", "word": "Kohler", "translation": "Kohler", "note": "NPC name; possibly means coal merchant or coal worker"}
+{"key": "kohler", "word": "Kohler", "translation": "Kohler", "note": "NPC name; possibly means coal merchant or coal worker", "status": "ignored"}
 {"key": "kohlevorrat", "word": "Kohlevorrat", "translation": "coal supply", "note": "compound: kohle + vorrat (supply/stock); available amount of coal"}
 {"key": "kohlprüfung", "word": "Kohlprüfung", "translation": "cabbage testing", "note": "compound: kohl (cabbage) + prüfung (testing); quality assessment of cabbages"}
 {"key": "kohls", "word": "Kohls", "translation": "cabbages", "note": "plural of kohl; fresh vegetables, not a brand name"}
@@ -61660,7 +61660,7 @@
 {"key": "kolta", "word": "Kolta", "translation": "Kolta", "note": "NPC name; someone needing help preparing winter clothing", "status": "ignored"}
 {"key": "koltiras", "word": "Koltiras", "translation": "Koltiras", "note": "NPC name; character seeking revenge", "status": "ignored"}
 {"key": "kombiniere", "word": "kombiniere", "translation": "combine", "note": "verb: to join together or mix; present tense form"}
-{"key": "kombobulator", "word": "Kombobulator", "translation": "Kombobulator", "note": "made-up device name; likely a contraption or magical apparatus"}
+{"key": "kombobulator", "word": "Kombobulator", "translation": "Kombobulator", "note": "made-up device name; likely a contraption or magical apparatus", "status": "ignored"}
 {"key": "komfortable", "word": "komfortable", "translation": "comfortable", "note": "adjective: providing ease or pleasant conditions"}
 {"key": "komischste", "word": "Komischste", "translation": "funniest", "note": "superlative of komisch (funny); the most amusing or strange"}
 {"key": "kommandant'n", "word": "Kommandant'n", "translation": "commander", "note": "colloquial form of kommandanten; military leader or officer"}
@@ -61705,7 +61705,7 @@
 {"key": "konfliktherd", "word": "Konfliktherd", "translation": "source of conflict", "note": "compound: konflikt (conflict) + herd (hearth/center); place of active dispute"}
 {"key": "konfluxes", "word": "Konfluxes", "translation": "Confluxes", "note": "proper noun; likely a location or magical junction point"}
 {"key": "konfus", "word": "konfus", "translation": "confused", "note": "adjective: bewildered or disoriented; informal spelling of verwirrt"}
-{"key": "konk", "word": "Konk", "translation": "Konk", "note": "character name; appears in a colloquial dialogue about friendship and revenge"}
+{"key": "konk", "word": "Konk", "translation": "Konk", "note": "character name; appears in a colloquial dialogue about friendship and revenge", "status": "ignored"}
 {"key": "konkreten", "word": "konkreten", "translation": "concrete", "note": "adjective: specific and real rather than abstract; also the building material"}
 {"key": "kons", "word": "Kons", "translation": "Kons", "note": ""}
 {"key": "konsens", "word": "Konsens", "translation": "consensus", "note": "literally Kon (together) + sens (sense), people gathered in agreement"}
@@ -62165,13 +62165,13 @@
 {"key": "kyparits", "word": "Kyparits", "translation": "kyparit", "note": "organic material found in ringworm creatures; possibly a mineral or exoskeleton"}
 {"key": "kyra", "word": "Kyra", "translation": "Kyra", "note": ""}
 {"key": "kyparitwürmer", "word": "Kyparitwürmer", "translation": "kyparite worms", "note": "highly adaptive creatures that mimic their environment and grow to enormous sizes"}
-{"key": "kyrestia", "word": "Kyrestia", "translation": "Kyrestia", "note": "likely a celestial or divine being"}
+{"key": "kyrestia", "word": "Kyrestia", "translation": "Kyrestia", "note": "likely a celestial or divine being", "status": "ignored"}
 {"key": "kyrestias", "word": "Kyrestias", "translation": "Kyrestia's", "note": "possessive form"}
 {"key": "kyrianersekte", "word": "Kyrianersekte", "translation": "Kyrian sect", "note": "a faction of Kyrians aligned with the Maw; not to be confused with the broader Kyrian faction"}
 {"key": "kyrianischem", "word": "kyrianischem", "translation": "Kyrian", "note": "adjective form; kyrianisches Fleisch = Kyrian flesh"}
 {"key": "kyrianische", "word": "Kyrianische", "translation": "Kyrian", "note": "adjective; modifying crafted equipment blueprint"}
 {"key": "kyrin", "word": "Kyrin", "translation": "Kyrin", "note": ""}
-{"key": "kythekios", "word": "Kythekios", "translation": "Kythekios", "note": "a champion"}
+{"key": "kythekios", "word": "Kythekios", "translation": "Kythekios", "note": "a champion", "status": "ignored"}
 {"key": "kzzz", "word": "Kzzz", "translation": "Kzzz", "note": "creature or entity that speaks in clicks and hisses", "status": "ignored"}
 {"key": "käferfarm", "word": "Käferfarm", "translation": "beetle farm", "note": "abandoned structure where beetles were bred or contained"}
 {"key": "käferfänger", "word": "Käferfänger", "translation": "beetle catcher", "note": "one who captures beetles"}
@@ -62293,7 +62293,7 @@
 {"key": "lacher", "word": "Lacher", "translation": "laugh", "note": "one who laughs; or the object of laughter"}
 {"key": "lachsmenü", "word": "Lachsmenü", "translation": "salmon menu", "note": "menu featuring salmon as the main dish"}
 {"key": "lachten", "word": "lachten", "translation": "laughed", "note": "past tense of lachen; they laughed and left her"}
-{"key": "lachzwinge", "word": "Lachzwinge", "translation": "Lachzwinge", "note": "gnome runner's name; participates in Gnomeregan games"}
+{"key": "lachzwinge", "word": "Lachzwinge", "translation": "Lachzwinge", "note": "gnome runner's name; participates in Gnomeregan games", "status": "ignored"}
 {"key": "lack", "word": "Lack", "translation": "varnish", "note": "protective or decorative finish applied to surfaces"}
 {"key": "ladebucht", "word": "Ladebucht", "translation": "loading bay", "note": "area for receiving or dispatching cargo; docking area"}
 {"key": "ladeblaster", "word": "Ladeblaster", "translation": "charge blaster", "note": "device for propelling or launching charged energy"}
