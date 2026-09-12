@@ -1446,7 +1446,7 @@ WordHunterWoW_Dictionary_DE["aether"] = { word = "aether", translation = "ether"
 WordHunterWoW_Dictionary_DE["aetherion"] = { word = "Aetherion", translation = "Aetherion", note = "" }
 WordHunterWoW_Dictionary_DE["aetherions"] = { word = "Aetherions", translation = "Aetherions", note = "" }
 WordHunterWoW_Dictionary_DE["aethremkristall"] = { word = "Aethremkristall", translation = "Aethrem Crystal", note = "proper noun; WoW item or location name" }
-WordHunterWoW_Dictionary_DE["aethril"] = { word = "Aethril", translation = "Aethril", note = "WoW herb/material; arcane-related" }
+WordHunterWoW_Dictionary_DE["aethril"] = { word = "Aethril", translation = "Aethril", note = "WoW herb/material; arcane-related", status = "ignored" }
 WordHunterWoW_Dictionary_DE["aethrilblume"] = { word = "Aethrilblume", translation = "Aethril flower", note = "Aethril is the plant name; Blume means flower" }
 WordHunterWoW_Dictionary_DE["aethrilbüschel"] = { word = "Aethrilbüschel", translation = "Aethril tufts", note = "Aethril + Büschel (tuft or small bunch)" }
 WordHunterWoW_Dictionary_DE["aethrilhalme"] = { word = "Aethrilhalme", translation = "Aethril stalks", note = "Halme is the plural of Halm, a plant stalk" }
@@ -5508,7 +5508,7 @@ WordHunterWoW_Dictionary_DE["athissa"] = { word = "Athissa", translation = "Athi
 WordHunterWoW_Dictionary_DE["athramanis"] = { word = "Athramanis", translation = "Athramanis", note = "" }
 WordHunterWoW_Dictionary_DE["athridas"] = { word = "Athridas", translation = "Athridas", note = "" }
 WordHunterWoW_Dictionary_DE["athrikus"] = { word = "Athrikus", translation = "Athrikus", note = "" }
-WordHunterWoW_Dictionary_DE["atiesh"] = { word = "Atiesh", translation = "Atiesh", note = "WoW artifact; legendary staff name" }
+WordHunterWoW_Dictionary_DE["atiesh"] = { word = "Atiesh", translation = "Atiesh", note = "WoW artifact; legendary staff name", status = "ignored" }
 WordHunterWoW_Dictionary_DE["atikka"] = { word = "Atikka", translation = "Atikka", note = "" }
 WordHunterWoW_Dictionary_DE["atkanok"] = { word = "Atkanok", translation = "Atkanok", note = "" }
 WordHunterWoW_Dictionary_DE["atleos"] = { word = "Atleos", translation = "Atleos", note = "" }
@@ -38922,7 +38922,7 @@ WordHunterWoW_Dictionary_DE["healtouch"] = { word = "Healtouch", translation = "
 WordHunterWoW_Dictionary_DE["hear"] = { word = "hear", translation = "hear", note = "hear is irregular: hear, heard, heard" }
 WordHunterWoW_Dictionary_DE["hearthglen"] = { word = "Hearthglen", translation = "Hearthglen", note = "location; Scarlet Monastery stronghold" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["hearthkindle"] = { word = "Hearthkindle", translation = "Hearthkindle", note = "NPC name; night elf at Feathermoon" , status = "ignored" }
-WordHunterWoW_Dictionary_DE["hearthstone"] = { word = "Hearthstone", translation = "Hearthstone", note = "game/item" }
+WordHunterWoW_Dictionary_DE["hearthstone"] = { word = "Hearthstone", translation = "Hearthstone", note = "game/item", status = "ignored" }
 WordHunterWoW_Dictionary_DE["hearthstone-jubiläum"] = { word = "Hearthstone-Jubiläum", translation = "Hearthstone Anniversary", note = "game event" }
 WordHunterWoW_Dictionary_DE["hearthstone-karten"] = { word = "Hearthstone-Karten", translation = "Hearthstone cards", note = "Hearthstone is the in-universe card game" }
 WordHunterWoW_Dictionary_DE["hearthstone-spiel"] = { word = "Hearthstone-Spiel", translation = "Hearthstone game", note = "proper noun (Hearthstone) + spiel (game); card game name" }

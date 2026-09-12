@@ -26382,7 +26382,7 @@
 {"key": "harris", "word": "Harris", "translation": "Harris", "note": "proper name", "status": "ignored"}
 {"key": "haupt", "word": "Haupt", "translation": "head", "note": "haupt = head"}
 {"key": "hauptgebäude", "word": "Hauptgebäude", "translation": "main building", "note": ""}
-{"key": "hearthstone", "word": "Hearthstone", "translation": "Hearthstone", "note": "game/item"}
+{"key": "hearthstone", "word": "Hearthstone", "translation": "Hearthstone", "note": "game/item", "status": "ignored"}
 {"key": "hege", "word": "hege", "translation": "cherish", "note": ""}
 {"key": "heikle", "word": "heikle", "translation": "tricky", "note": "heikle; tricky accurate"}
 {"key": "heldentum", "word": "Heldentum", "translation": "heroism", "note": "held (hero) + tum"}
@@ -27409,7 +27409,7 @@
 {"key": "acride", "word": "Acride", "translation": "Acride", "note": "WoW NPC name; dwarf character", "status": "ignored"}
 {"key": "adamanthia", "word": "Adamanthia", "translation": "Adamanthia", "note": "WoW name; prison or containment", "status": "ignored"}
 {"key": "adelgonn", "word": "Adelgonn", "translation": "Adelgonn", "note": "WoW NPC name; human noble", "status": "ignored"}
-{"key": "aethril", "word": "Aethril", "translation": "Aethril", "note": "WoW herb/material; arcane-related"}
+{"key": "aethril", "word": "Aethril", "translation": "Aethril", "note": "WoW herb/material; arcane-related", "status": "ignored"}
 {"key": "aha", "word": "Aha", "translation": "Aha", "note": "exclamation of realization or discovery"}
 {"key": "ahune", "word": "Ahune", "translation": "Ahune", "note": "WoW NPC name; elemental boss", "status": "ignored"}
 {"key": "aksem", "word": "Aksem", "translation": "Aksem", "note": "WoW NPC name; troll elder", "status": "ignored"}
@@ -27440,7 +27440,7 @@
 {"key": "archäologe", "word": "Archäologe", "translation": "archaeologist", "note": "archäo (ancient) + loge (scholar)"}
 {"key": "armreif", "word": "Armreif", "translation": "Bangle", "note": "arm (arm) + reif (ring); bracelet"}
 {"key": "astre", "word": "Astre", "translation": "Astre", "note": "WoW NPC name; demon or void entity", "status": "ignored"}
-{"key": "atiesh", "word": "Atiesh", "translation": "Atiesh", "note": "WoW artifact; legendary staff name"}
+{"key": "atiesh", "word": "Atiesh", "translation": "Atiesh", "note": "WoW artifact; legendary staff name", "status": "ignored"}
 {"key": "atolia", "word": "Atolia", "translation": "Atolia", "note": "WoW NPC name; quartermaster", "status": "ignored"}
 {"key": "attackiert", "word": "attackiert", "translation": "attacked", "note": "attacked; past participle assault"}
 {"key": "aufgeführt", "word": "aufgeführt", "translation": "listed", "note": "performed + listed; enumerated"}
