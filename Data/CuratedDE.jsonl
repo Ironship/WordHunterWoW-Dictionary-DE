@@ -24467,7 +24467,7 @@
 {"key": "versehentlich", "word": "versehentlich", "translation": "inadvertently", "note": ""}
 {"key": "versklavten", "word": "versklavten", "translation": "enslaved", "note": ""}
 {"key": "verteidigern", "word": "Verteidigern", "translation": "defenders", "note": ""}
-{"key": "vol'jins", "word": "Vol'jins", "translation": "Vol'jins", "note": ""}
+{"key": "vol'jins", "word": "Vol'jins", "translation": "Vol'jins", "note": "", "status": "ignored"}
 {"key": "vollständigen", "word": "vollständigen", "translation": "complete", "note": ""}
 {"key": "vorbild", "word": "Vorbild", "translation": "Example", "note": ""}
 {"key": "vorgefallen", "word": "vorgefallen", "translation": "occurred", "note": ""}
@@ -24999,7 +24999,7 @@
 {"key": "gewalttätig", "word": "gewalttätig", "translation": "violent", "note": ""}
 {"key": "gewandt", "word": "gewandt", "translation": "skillful", "note": "gewandt = adroit/skillful (adj.); related past tense 'wenden' = turned to; both valid"}
 {"key": "gewähre", "word": "gewähre", "translation": "grant", "note": ""}
-{"key": "gilblins", "word": "Gilblins", "translation": "Gilblins", "note": ""}
+{"key": "gilblins", "word": "Gilblins", "translation": "Gilblins", "note": "", "status": "ignored"}
 {"key": "glaubte", "word": "glaubte", "translation": "believed", "note": ""}
 {"key": "gleve", "word": "Gleve", "translation": "Glaive", "note": "Gleve/Glaive = medieval polearm (halberd-like weapon); WoW loot item"}
 {"key": "glied", "word": "Glied", "translation": "member", "note": "Glied = member/limb/link; context determines; can be body part or organizational"}
@@ -25111,7 +25111,7 @@
 {"key": "pestwald", "word": "Pestwald", "translation": "Plague Forest", "note": "compound: Pest (plague) + Wald (forest); location name in Azeroth"}
 {"key": "pfades", "word": "Pfades", "translation": "path", "note": ""}
 {"key": "pferds", "word": "Pferds", "translation": "horse", "note": ""}
-{"key": "phalynx", "word": "Phalynx", "translation": "Phalynx", "note": ""}
+{"key": "phalynx", "word": "Phalynx", "translation": "Phalynx", "note": "", "status": "ignored"}
 {"key": "platzes", "word": "Platzes", "translation": "place", "note": ""}
 {"key": "praktischen", "word": "praktischen", "translation": "practical", "note": ""}
 {"key": "prächtige", "word": "prächtige", "translation": "magnificent", "note": ""}
@@ -25121,7 +25121,7 @@
 {"key": "regiment", "word": "Regiment", "translation": "regiment", "note": ""}
 {"key": "reichtümer", "word": "Reichtümer", "translation": "riches", "note": ""}
 {"key": "reserven", "word": "Reserven", "translation": "reserves", "note": ""}
-{"key": "reshiiband", "word": "Reshiiband", "translation": "Reshiiband", "note": ""}
+{"key": "reshiiband", "word": "Reshiiband", "translation": "Reshiiband", "note": "", "status": "ignored"}
 {"key": "retter", "word": "Retter", "translation": "savior", "note": ""}
 {"key": "revilgaz", "word": "Revilgaz", "translation": "Revilgaz", "note": "WoW NPC name", "status": "ignored"}
 {"key": "rezepte", "word": "Rezepte", "translation": "recipes", "note": ""}
@@ -25881,7 +25881,7 @@
 {"key": "grosschampion", "word": "Großchampion", "translation": "Grand Champion", "note": "official WoW tournament rank; grand + champion"}
 {"key": "gruul", "word": "Gruul", "translation": "Gruul", "note": ""}
 {"key": "grösserem", "word": "Größerem", "translation": "bigger", "note": "comparative adjective from groß (big)"}
-{"key": "gurgthock", "word": "Gurgthock", "translation": "Gurgthock", "note": ""}
+{"key": "gurgthock", "word": "Gurgthock", "translation": "Gurgthock", "note": "", "status": "ignored"}
 {"key": "gutkind", "word": "Gutkind", "translation": "Good kid", "note": ""}
 {"key": "hacke", "word": "Hacke", "translation": "hoe", "note": ""}
 {"key": "handwerks", "word": "Handwerks", "translation": "craftsmanship", "note": "genitive form; handwerk = craftsmanship/craft work"}
@@ -25936,7 +25936,7 @@
 {"key": "kürbiskuchen", "word": "Kürbiskuchen", "translation": "Pumpkin pie", "note": "kürbis (pumpkin) + kuchen (cake/pie)"}
 {"key": "küsst", "word": "küsst", "translation": "kisses", "note": ""}
 {"key": "lagerhaus", "word": "Lagerhaus", "translation": "warehouse", "note": "lager (storage) + haus (house); storage building"}
-{"key": "larions", "word": "Larions", "translation": "Larions", "note": ""}
+{"key": "larions", "word": "Larions", "translation": "Larions", "note": "", "status": "ignored"}
 {"key": "lastet", "word": "lastet", "translation": "burdens", "note": "from lasten (to weigh upon/burden); third person singular"}
 {"key": "leckere", "word": "leckere", "translation": "delicious", "note": ""}
 {"key": "leckeren", "word": "leckeren", "translation": "delicious", "note": ""}
@@ -25963,7 +25963,7 @@
 {"key": "mitgefühl", "word": "Mitgefühl", "translation": "compassion", "note": "mit (with) + gefühl (feeling); fellow-feeling/compassion"}
 {"key": "mo'arg", "word": "Mo'arg", "translation": "Mo'arg", "note": "", "status": "ignored"}
 {"key": "mojambo", "word": "Mojambo", "translation": "Mojambo", "note": "", "status": "ignored"}
-{"key": "mok'gol", "word": "Mok'gol", "translation": "Mok'gol", "note": ""}
+{"key": "mok'gol", "word": "Mok'gol", "translation": "Mok'gol", "note": "", "status": "ignored"}
 {"key": "monströse", "word": "monströse", "translation": "monstrous", "note": ""}
 {"key": "monument", "word": "Monument", "translation": "monument", "note": ""}
 {"key": "mottenstaub", "word": "Mottenstaub", "translation": "moth dust", "note": "motte (moth) + staub (dust); powder from moth creatures"}
@@ -25991,13 +25991,13 @@
 {"key": "privileg", "word": "Privileg", "translation": "privilege", "note": "English loanword; from Latin"}
 {"key": "provosten", "word": "Provosten", "translation": "provosts", "note": "plural of provost; official or overseer"}
 {"key": "prügel", "word": "Prügel", "translation": "beating", "note": "means beating or thrashing, not just spanking"}
-{"key": "pterrordax", "word": "Pterrordax", "translation": "Pterrordax", "note": ""}
+{"key": "pterrordax", "word": "Pterrordax", "translation": "Pterrordax", "note": "", "status": "ignored"}
 {"key": "pygmäen", "word": "Pygmäen", "translation": "pygmies", "note": "plural of pygmy; small humanoid creatures"}
 {"key": "pyramide", "word": "Pyramide", "translation": "pyramid", "note": ""}
 {"key": "raal", "word": "Raal", "translation": "Raal", "note": ""}
 {"key": "ragt", "word": "ragt", "translation": "protrudes", "note": "from ragen (to tower/stick out); extends upward"}
 {"key": "raumgänger", "word": "Raumgänger", "translation": "spacewalker", "note": "raum (space) + gänger (walker); space explorer"}
-{"key": "razelikh", "word": "Razelikh", "translation": "Razelikh", "note": ""}
+{"key": "razelikh", "word": "Razelikh", "translation": "Razelikh", "note": "", "status": "ignored"}
 {"key": "reaktivieren", "word": "reaktivieren", "translation": "reactivate", "note": ""}
 {"key": "reduzieren", "word": "reduzieren", "translation": "reduce", "note": ""}
 {"key": "reicht's", "word": "reicht's", "translation": "that's enough", "note": ""}
@@ -26033,8 +26033,8 @@
 {"key": "seh", "word": "seh", "translation": "see", "note": ""}
 {"key": "sehers", "word": "Sehers", "translation": "seers", "note": ""}
 {"key": "sengende", "word": "Sengende", "translation": "Scorching", "note": ""}
-{"key": "shek'zeer", "word": "Shek'zeer", "translation": "Shek'zeer", "note": ""}
-{"key": "shul'ka", "word": "Shul'ka", "translation": "Shul'ka", "note": ""}
+{"key": "shek'zeer", "word": "Shek'zeer", "translation": "Shek'zeer", "note": "", "status": "ignored"}
+{"key": "shul'ka", "word": "Shul'ka", "translation": "Shul'ka", "note": "", "status": "ignored"}
 {"key": "sichelklaue", "word": "Sichelklaue", "translation": "Sickleclaw", "note": ""}
 {"key": "sieh", "word": "Sieh", "translation": "look", "note": "imperative form; sieh einer an = would you look at that"}
 {"key": "sir", "word": "Sir", "translation": "Sir", "note": ""}
@@ -26052,8 +26052,8 @@
 {"key": "streich", "word": "Streich", "translation": "Prank", "note": ""}
 {"key": "stutzen", "word": "stutzen", "translation": "trim", "note": "stutzen die Krallen = trim/dock the claws"}
 {"key": "stygia", "word": "Stygia", "translation": "Stygia", "note": ""}
-{"key": "sur'jan", "word": "Sur'jan", "translation": "Sur'jan", "note": ""}
-{"key": "sylvanaar", "word": "Sylvanaar", "translation": "Sylvanaar", "note": ""}
+{"key": "sur'jan", "word": "Sur'jan", "translation": "Sur'jan", "note": "", "status": "ignored"}
+{"key": "sylvanaar", "word": "Sylvanaar", "translation": "Sylvanaar", "note": "", "status": "ignored"}
 {"key": "symptome", "word": "Symptome", "translation": "Symptoms", "note": ""}
 {"key": "syndikat", "word": "Syndikat", "translation": "syndicate", "note": ""}
 {"key": "säure", "word": "Säure", "translation": "acid", "note": ""}
@@ -26067,7 +26067,7 @@
 {"key": "temporalen", "word": "temporalen", "translation": "temporal", "note": ""}
 {"key": "tethys", "word": "Tethys", "translation": "Tethys", "note": ""}
 {"key": "texte", "word": "Texte", "translation": "Texts", "note": ""}
-{"key": "thaurissan", "word": "Thaurissan", "translation": "Thaurissan", "note": ""}
+{"key": "thaurissan", "word": "Thaurissan", "translation": "Thaurissan", "note": "", "status": "ignored"}
 {"key": "thermadraht", "word": "Thermadraht", "translation": "thermal wire", "note": ""}
 {"key": "tiefschwarze", "word": "Tiefschwarze", "translation": "Deep black", "note": ""}
 {"key": "tiefschwarzen", "word": "Tiefschwarzen", "translation": "Deep blacks", "note": ""}
@@ -26121,7 +26121,7 @@
 {"key": "verteidigers", "word": "Verteidigers", "translation": "defender", "note": "genitive form; Verteidigers Ruh = Defender's Rest"}
 {"key": "vollends", "word": "vollends", "translation": "completely", "note": ""}
 {"key": "vorbeikommen", "word": "vorbeikommen", "translation": "come over", "note": ""}
-{"key": "vordrassil", "word": "Vordrassil", "translation": "Vordrassil", "note": ""}
+{"key": "vordrassil", "word": "Vordrassil", "translation": "Vordrassil", "note": "", "status": "ignored"}
 {"key": "vorgesetzten", "word": "Vorgesetzten", "translation": "superiors", "note": ""}
 {"key": "vorstösse", "word": "Vorstöße", "translation": "advances", "note": ""}
 {"key": "vyraz", "word": "Vyraz", "translation": "Vyraz", "note": ""}
@@ -26147,7 +26147,7 @@
 {"key": "wunderschönen", "word": "wunderschönen", "translation": "beautiful", "note": ""}
 {"key": "wyrmskol", "word": "Wyrmskol", "translation": "Wyrmskol", "note": "wyrm (dragon) + skol (hall/dwelling)", "status": "ignored"}
 {"key": "xi", "word": "Xi", "translation": "Xi", "note": ""}
-{"key": "xi'lun", "word": "Xi'lun", "translation": "Xi'lun", "note": ""}
+{"key": "xi'lun", "word": "Xi'lun", "translation": "Xi'lun", "note": "", "status": "ignored"}
 {"key": "zaela", "word": "Zaela", "translation": "Zaela", "note": ""}
 {"key": "zahlreicher", "word": "zahlreicher", "translation": "more numerous", "note": ""}
 {"key": "zanchul", "word": "Zanchul", "translation": "Zanchul", "note": ""}
