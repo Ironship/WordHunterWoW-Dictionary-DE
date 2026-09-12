@@ -46983,7 +46983,7 @@
 {"key": "o'mally", "word": "O'Mally", "translation": "O'Mally", "note": ""}
 {"key": "o'riley", "word": "O'Riley", "translation": "O'Riley", "note": ""}
 {"key": "o'ros", "word": "O'ros", "translation": "O'ros", "note": ""}
-{"key": "oacha'noa", "word": "Oacha'noa", "translation": "Oacha'noa", "note": "sea goddess"}
+{"key": "oacha'noa", "word": "Oacha'noa", "translation": "Oacha'noa", "note": "sea goddess", "status": "ignored"}
 {"key": "oakin", "word": "Oakin", "translation": "Oakin", "note": ""}
 {"key": "ob's", "word": "ob's", "translation": "whether it's", "note": "contraction of ob es"}
 {"key": "obadei", "word": "Obadei", "translation": "Obadei", "note": ""}
@@ -47269,7 +47269,7 @@
 {"key": "poltern", "word": "Poltern", "translation": "rumbling", "note": "noun/verb: Poltern = tumultuous noise, rattling, rumbling sound"}
 {"key": "ponoliak", "word": "Ponoliak", "translation": "Ponoliak", "note": "name (possibly tauren elder); location-specific title"}
 {"key": "ponshu", "word": "Ponshu", "translation": "Ponshu", "note": "title or name; 'Eisenkörper Ponshu' (Iron-body Ponshu)"}
-{"key": "pontus", "word": "Pontus", "translation": "Pontus", "note": "name found in architect's message; possibly references ancient Pontus"}
+{"key": "pontus", "word": "Pontus", "translation": "Pontus", "note": "name found in architect's message; possibly references ancient Pontus", "status": "ignored"}
 {"key": "poolpony", "word": "Poolpony", "translation": "pool pony", "note": "compound: Pool (pool) + Pony (pony); aquatic mount or pet"}
 {"key": "poolponys", "word": "Poolponys", "translation": "pool ponies", "note": "plural of pool pony; multiple aquatic mounts"}
 {"key": "portwein", "word": "Portwein", "translation": "port wine", "note": "compound: Port (Porto) + Wein (wine); fortified wine from Portugal"}
@@ -63322,7 +63322,7 @@
 {"key": "margenes", "word": "Margenes", "translation": "Margenes", "note": "bulldozer name; proper noun", "status": "ignored"}
 {"key": "margie", "word": "Margie", "translation": "Margie", "note": "person name"}
 {"key": "margol", "word": "Margol", "translation": "Margol", "note": "creature name; ancient drake", "status": "ignored"}
-{"key": "mariella", "word": "Mariella", "translation": "Mariella", "note": "person name; Champion"}
+{"key": "mariella", "word": "Mariella", "translation": "Mariella", "note": "person name; Champion", "status": "ignored"}
 {"key": "marileths", "word": "Marileths", "translation": "Marileth's", "note": "possessive form; belongings of Marileth"}
 {"key": "marinelabor", "word": "Marinelabor", "translation": "marine laboratory", "note": "research facility for sea-related studies"}
 {"key": "marinieren", "word": "marinieren", "translation": "marinate", "note": "to soak food in liquid; from French mariner"}
@@ -65840,7 +65840,7 @@
 {"key": "qariin", "word": "Qariin", "translation": "Qariin", "note": "NPC or proper name; no translation needed", "status": "ignored"}
 {"key": "qel'delars", "word": "Qel'Delars", "translation": "Qel'Delars", "note": "variant spelling of Quel'Delar sword name"}
 {"key": "qiaga", "word": "Qiaga", "translation": "Qiaga", "note": "NPC priestess name", "status": "ignored"}
-{"key": "qiang", "word": "Qiang", "translation": "Qiang", "note": "mogu emperor/warlord name"}
+{"key": "qiang", "word": "Qiang", "translation": "Qiang", "note": "mogu emperor/warlord name", "status": "ignored"}
 {"key": "quaddeln", "word": "Quaddeln", "translation": "hives", "note": "welts or blisters on skin from allergic reaction or irritation"}
 {"key": "quadrat", "word": "Quadrat", "translation": "square", "note": "geometric shape with four equal sides; also the number squared"}
 {"key": "quader", "word": "Quader", "translation": "cuboid", "note": "rectangular three-dimensional shape; building block"}
@@ -83059,7 +83059,7 @@
 {"key": "bienionen", "word": "bienionen", "translation": "bee-llions", "note": "a pun combining Bienen (bees) with Billionen (trillions)"}
 {"key": "bierfässchen", "word": "Bierfässchen", "translation": "beer keg", "note": "-chen is a diminutive, so this is a small beer keg"}
 {"key": "bietern", "word": "Bietern", "translation": "bidders", "note": "Bieter comes from bieten, to bid or offer"}
-{"key": "bifrost", "word": "Bifrost", "translation": "Bifrost", "note": "the Norse mythological name for the rainbow bridge, retained in English"}
+{"key": "bifrost", "word": "Bifrost", "translation": "Bifrost", "note": "the Norse mythological name for the rainbow bridge, retained in English", "status": "ignored"}
 {"key": "bilaal", "word": "Bilaal", "translation": "Bilaal", "note": ""}
 {"key": "bil'tong", "word": "Bil'Tong", "translation": "Bil'Tong", "note": ""}
 {"key": "bildersturm", "word": "Bildersturm", "translation": "Iconoclasm", "note": "literally image storm; iconoclasm is the destruction of sacred images"}
@@ -83264,7 +83264,7 @@
 {"key": "chimney", "word": "chimney", "translation": "chimney", "note": "the vertical flue or stack that carries smoke from a building"}
 {"key": "cho'wars", "word": "Cho'wars", "translation": "Cho'war's", "note": "genitive or possessive form; the objective asks for Cho'war's head"}
 {"key": "choices", "word": "CHOICES", "translation": "CHOICES", "note": "debug text; the uppercase is intentional"}
-{"key": "christi", "word": "Christi", "translation": "Christi", "note": "personal name; not the English noun Christ"}
+{"key": "christi", "word": "Christi", "translation": "Christi", "note": "personal name; not the English noun Christ", "status": "ignored"}
 {"key": "chow", "word": "Chow", "translation": "Chow", "note": ""}
 {"key": "christopher", "word": "Christopher", "translation": "Christopher", "note": ""}
 {"key": "chronosignal", "word": "Chronosignal", "translation": "Chrono signal", "note": "Chrono (time) + Signal (signal); a signal used during a time rift"}
@@ -83367,7 +83367,7 @@
 {"key": "dawnblade", "word": "Dawnblade", "translation": "Dawnblade", "note": ""}
 {"key": "daze", "word": "Daze", "translation": "Daze", "note": "a dazed target is briefly impaired or unable to act normally"}
 {"key": "dazusitzen", "word": "dazusitzen", "translation": "sit there", "note": "da (there) + sitzen (sit); zu marks the infinitive"}
-{"key": "deadmines", "word": "Deadmines", "translation": "Deadmines", "note": "official dungeon name; the full English name is The Deadmines"}
+{"key": "deadmines", "word": "Deadmines", "translation": "Deadmines", "note": "official dungeon name; the full English name is The Deadmines", "status": "ignored"}
 {"key": "deathguard", "word": "Deathguard", "translation": "Deathguard", "note": "a Forsaken military title used in an NPC name", "status": "ignored"}
 {"key": "decide", "word": "decide", "translation": "decide", "note": "decide commonly takes an infinitive with to, as in decide to walk"}
 {"key": "deceiver", "word": "Deceiver", "translation": "Deceiver", "note": "an agent noun from deceive; here it is a title"}
@@ -83648,7 +83648,7 @@
 {"key": "ekrati", "word": "Ekrati", "translation": "Ekrati", "note": ""}
 {"key": "elderhorn", "word": "Elderhorn", "translation": "Elderhorn", "note": ""}
 {"key": "eldretharr", "word": "Eldretharr", "translation": "Eldretharr", "note": ""}
-{"key": "elekkhorn", "word": "Elekkhorn", "translation": "Elekkhorn", "note": "elekk + Horn (horn); an Elekk horn item"}
+{"key": "elekkhorn", "word": "Elekkhorn", "translation": "Elekkhorn", "note": "elekk + Horn (horn); an Elekk horn item", "status": "ignored"}
 {"key": "elekklasso", "word": "Elekklasso", "translation": "Elekk lasso", "note": "elekk + Lasso (lasso); a taming tool"}
 {"key": "elektrisches", "word": "elektrisches", "translation": "electrical", "note": "adjective form of elektrisch (electrical)"}
 {"key": "elektrisierte", "word": "elektrisierte", "translation": "electrified", "note": "past participle of elektrisieren, to electrify"}
@@ -83791,7 +83791,7 @@
 {"key": "etiketten", "word": "Etiketten", "translation": "labels", "note": "plural of Etikett, a loanword from French étiquette"}
 {"key": "ettinsteuerungskugel", "word": "Ettinsteuerungskugel", "translation": "Ettin control ball", "note": "Ettin + Steuerung (control) + Kugel (ball)"}
 {"key": "etymidians", "word": "Etymidians", "translation": "Etymidians", "note": ""}
-{"key": "eu-heuch", "word": "Eu-heuch", "translation": "Eu-heuch", "note": "a character name or sound-play; no separate English rendering is confirmed"}
+{"key": "eu-heuch", "word": "Eu-heuch", "translation": "Eu-heuch", "note": "a character name or sound-play; no separate English rendering is confirmed", "status": "ignored"}
 {"key": "eulenvater", "word": "Eulenvater", "translation": "owl father", "note": "Eule (owl) + Vater (father); likely a creature or title"}
 {"key": "eulkinpopulation", "word": "Eulkinpopulation", "translation": "Eulkin population", "note": "Eulkin + Population (population); the game creature name is retained"}
 {"key": "evergreen", "word": "Evergreen", "translation": "Evergreen", "note": ""}
@@ -84078,7 +84078,7 @@
 {"key": "gabelblitz", "word": "Gabelblitz", "translation": "Forked Lightning", "note": "gabel (fork) + Blitz (lightning), describing branching bolts"}
 {"key": "gackernd", "word": "gackernd", "translation": "cackling", "note": ""}
 {"key": "gadra", "word": "Gadra", "translation": "Gadra", "note": ""}
-{"key": "gaffelsegel", "word": "Gaffelsegel", "translation": "Gaffelsegel", "note": "name compound: Gaffel (gaff) + Segel (sail)"}
+{"key": "gaffelsegel", "word": "Gaffelsegel", "translation": "Gaffelsegel", "note": "name compound: Gaffel (gaff) + Segel (sail)", "status": "ignored"}
 {"key": "gahju", "word": "Gahju", "translation": "Gahju", "note": ""}
 {"key": "gahz'rankas", "word": "Gahz'rankas", "translation": "Gahz'rankas", "note": ""}
 {"key": "gail", "word": "Gail", "translation": "Gail", "note": ""}
@@ -85244,13 +85244,13 @@
 {"key": "limited", "word": "limited", "translation": "limited", "note": ""}
 {"key": "limone", "word": "Limone", "translation": "lime", "note": "limone can mean lime or lemon; the citrus context does not settle which"}
 {"key": "lindel", "word": "Lindel", "translation": "Lindel", "note": ""}
-{"key": "linksdatsch", "word": "Linksdatsch", "translation": "Linksdatsch", "note": "nickname; the German name is retained because no English equivalent is confirmed"}
+{"key": "linksdatsch", "word": "Linksdatsch", "translation": "Linksdatsch", "note": "nickname; the German name is retained because no English equivalent is confirmed", "status": "ignored"}
 {"key": "linkstatsch", "word": "Linkstatsch", "translation": "Linkstatsch", "note": "proper name of a gnome mage; it is not 'left tatsch'", "status": "ignored"}
 {"key": "lion's", "word": "Lion's", "translation": "Lion's", "note": ""}
 {"key": "lira", "word": "Lira", "translation": "Lira", "note": "proper name; capitalization distinguishes it from the currency lira", "status": "ignored"}
 {"key": "lisaile", "word": "Lisaile", "translation": "Lisaile", "note": ""}
 {"key": "llore", "word": "Llore", "translation": "Llore", "note": ""}
-{"key": "llrmmrgl", "word": "Llrmmrgl", "translation": "Llrmmrgl", "note": "murloc gibberish; no reliable English translation"}
+{"key": "llrmmrgl", "word": "Llrmmrgl", "translation": "Llrmmrgl", "note": "murloc gibberish; no reliable English translation", "status": "ignored"}
 {"key": "lo'shall", "word": "Lo'shall", "translation": "Lo'shall", "note": ""}
 {"key": "loabeseelte", "word": "loabeseelte", "translation": "loa-souled", "note": "loa is a troll spirit or deity; beseelt means ensouled"}
 {"key": "lobet", "word": "Lobet", "translation": "praise", "note": "imperative plural of loben: praise"}
@@ -85271,7 +85271,7 @@
 {"key": "loszureiten", "word": "loszureiten", "translation": "ride off", "note": "losreiten means set off on horseback; zu marks the infinitive"}
 {"key": "lotusblätter", "word": "Lotusblätter", "translation": "lotus leaves", "note": "lotus (lotus) + Blätter (leaves)"}
 {"key": "lots", "word": "Lots", "translation": "lots", "note": ""}
-{"key": "lrgktrr", "word": "Lrgktrr", "translation": "Lrgktrr", "note": "murloc gibberish; no reliable English translation"}
+{"key": "lrgktrr", "word": "Lrgktrr", "translation": "Lrgktrr", "note": "murloc gibberish; no reliable English translation", "status": "ignored"}
 {"key": "luangas", "word": "Luangas", "translation": "Luanga's", "note": "possessive -s marks Luanga as the owner; Befehle means orders"}
 {"key": "luchsrettung", "word": "Luchsrettung", "translation": "lynx rescue", "note": "compound: Luchs (lynx) + Rettung (rescue)"}
 {"key": "lucy", "word": "Lucy", "translation": "Lucy", "note": ""}
@@ -85765,7 +85765,7 @@
 {"key": "optimismus", "word": "Optimismus", "translation": "optimism", "note": "suffix -ismus forms abstract nouns"}
 {"key": "oranomonos", "word": "Oranomonos", "translation": "Oranomonos", "note": ""}
 {"key": "oratorin", "word": "Oratorin", "translation": "female orator", "note": "feminine suffix -in marks a female orator"}
-{"key": "oratorium", "word": "Oratorium", "translation": "Oratorium", "note": "official WoW name here, not the musical noun"}
+{"key": "oratorium", "word": "Oratorium", "translation": "Oratorium", "note": "official WoW name here, not the musical noun", "status": "ignored"}
 {"key": "orcahnen", "word": "Orcahnen", "translation": "orc ancestors", "note": "ahnen means ancestors, not Orcs"}
 {"key": "orcangriffe", "word": "Orcangriffe", "translation": "Orc attacks", "note": "compound: Orc + Angriffe"}
 {"key": "orcdame", "word": "Orcdame", "translation": "Orc lady", "note": "compound: Orc + Dame"}
@@ -88276,7 +88276,7 @@
 {"key": "algaz-tor", "word": "Algaz-Tor", "translation": "Algaz Gate", "note": "tor means gate; Algaz is the place name"}
 {"key": "alhainr", "word": "Alhainr", "translation": "Alhainr", "note": ""}
 {"key": "algernons", "word": "Algernons", "translation": "Algernon's", "note": "the final -s marks Algernon's possessive form"}
-{"key": "ali'kh", "word": "Ali'kh", "translation": "Ali'kh", "note": "in context, Shera Ali'kh is explained as Zandalari for Death's Hand"}
+{"key": "ali'kh", "word": "Ali'kh", "translation": "Ali'kh", "note": "in context, Shera Ali'kh is explained as Zandalari for Death's Hand", "status": "ignored"}
 {"key": "alhainrs", "word": "Alhainrs", "translation": "Alhainr's", "note": "the final -s marks the possessive form"}
 {"key": "alistarj", "word": "Alistarj", "translation": "Alistarj", "note": ""}
 {"key": "alistra", "word": "Alistra", "translation": "Alistra", "note": ""}
@@ -107862,7 +107862,7 @@
 {"key": "uzkos", "word": "Uzkos", "translation": "Uzkos", "note": ""}
 {"key": "v'dammt", "word": "V'dammt", "translation": "damn", "note": "contraction of 'verdammt' (damn); V' prefix for demon-speak"}
 {"key": "v'thaal", "word": "V'thaal", "translation": "V'thaal", "note": ""}
-{"key": "v-a-r-k", "word": "V-A-R-K", "translation": "V-A-R-K", "note": "Zandalari for 'justice'; spell syllables"}
+{"key": "v-a-r-k", "word": "V-A-R-K", "translation": "V-A-R-K", "note": "Zandalari for 'justice'; spell syllables", "status": "ignored"}
 {"key": "vaandaam", "word": "Vaandaam", "translation": "Vaandaam", "note": ""}
 {"key": "vaelastrasz", "word": "Vaelastrasz", "translation": "Vaelastrasz", "note": ""}
 {"key": "vaeldrins", "word": "Vaeldrins", "translation": "Vaeldrin's", "note": ""}
