@@ -32815,9 +32815,9 @@
 {"key": "jenes", "word": "jenes", "translation": "that", "note": "demonstrative pronoun; means that one, that"}
 {"key": "jin'do", "word": "Jin'do", "translation": "Jin'do", "note": "troll warlord name"}
 {"key": "jo'chunga", "word": "Jo'chunga", "translation": "Jo'chunga", "note": "creature name from quest text", "status": "ignored"}
-{"key": "joe", "word": "Joe", "translation": "Joe", "note": "personal name; Tommy Joe Steinfeld"}
+{"key": "joe", "word": "Joe", "translation": "Joe", "note": "personal name; Tommy Joe Steinfeld", "status": "ignored"}
 {"key": "jokkum", "word": "Jokkum", "translation": "Jokkum", "note": "NPC or proper name", "status": "ignored"}
-{"key": "jordan", "word": "Jordan", "translation": "Jordan", "note": "personal name; Commander Jordan"}
+{"key": "jordan", "word": "Jordan", "translation": "Jordan", "note": "personal name; Commander Jordan", "status": "ignored"}
 {"key": "jorunmine", "word": "Jorunmine", "translation": "Jorunmine", "note": "location name; Jorun + Mine"}
 {"key": "jubeka", "word": "Jubeka", "translation": "Jubeka", "note": "NPC name; Jubeka Shadowbreak", "status": "ignored"}
 {"key": "juwelier", "word": "Juwelier", "translation": "jeweler", "note": ""}
@@ -43255,7 +43255,7 @@
 {"key": "drinsteht", "word": "drinsteht", "translation": "is inside", "note": "located within"}
 {"key": "drinsteckte", "word": "drinsteckte", "translation": "was inside", "note": "was contained within"}
 {"key": "drittens", "word": "Drittens", "translation": "third", "note": "in third place"}
-{"key": "droffers", "word": "Droffers", "translation": "Droffers", "note": "surname or name"}
+{"key": "droffers", "word": "Droffers", "translation": "Droffers", "note": "surname or name", "status": "ignored"}
 {"key": "drogbars", "word": "Drogbars", "translation": "Drug bars", "note": "bars containing drugs"}
 {"key": "drogen", "word": "Drogen", "translation": "drugs", "note": "medicinal or mind-altering substances"}
 {"key": "drohender", "word": "Drohender", "translation": "threatening", "note": "appearing dangerous"}
@@ -43980,7 +43980,7 @@
 {"key": "fingerspitzen", "word": "Fingerspitzen", "translation": "fingertips", "note": "plural"}
 {"key": "finibus", "word": "finibus", "translation": "finibus", "note": "Lorem ipsum text"}
 {"key": "finley", "word": "Finley", "translation": "Finley", "note": "NPC name", "status": "ignored"}
-{"key": "finnsson", "word": "Finnsson", "translation": "Finnsson", "note": "surname; 'Freifrau Alys Finnsson'"}
+{"key": "finnsson", "word": "Finnsson", "translation": "Finnsson", "note": "surname; 'Freifrau Alys Finnsson'", "status": "ignored"}
 {"key": "finsterblick", "word": "Finsterblick", "translation": "Scowl", "note": "finstern=dark/gloomy, blick=gaze; dark glare or scowl"}
 {"key": "finsterspitze", "word": "Finsterspitze", "translation": "Darkspire", "note": "finstern=dark, spitze=peak/spire; location name"}
 {"key": "finsterwall", "word": "Finsterwall", "translation": "Darkwall", "note": "finstern=dark, wall=wall; location/structure name"}
@@ -45628,7 +45628,7 @@
 {"key": "karette", "word": "Karette", "translation": "Carette", "note": "proper name"}
 {"key": "karja", "word": "Karja", "translation": "Karja", "note": "NPC name", "status": "ignored"}
 {"key": "karkidan", "word": "Karkidan", "translation": "Karkidan", "note": ""}
-{"key": "karl-jan", "word": "Karl-Jan", "translation": "Karl-Jan", "note": "name with hyphen; German personal name"}
+{"key": "karl-jan", "word": "Karl-Jan", "translation": "Karl-Jan", "note": "name with hyphen; German personal name", "status": "ignored"}
 {"key": "karlain", "word": "Karlain", "translation": "Karlain", "note": "wizard name"}
 {"key": "karlov", "word": "Karlov", "translation": "Karlov", "note": "undead researcher name"}
 {"key": "karn", "word": "Karn", "translation": "Karn", "note": "dragon name"}
@@ -46295,7 +46295,7 @@
 {"key": "lulubell", "word": "Lulubell", "translation": "Lulubell", "note": ""}
 {"key": "luma", "word": "Luma", "translation": "Luma", "note": ""}
 {"key": "lumbo", "word": "Lumbo", "translation": "Lumbo", "note": ""}
-{"key": "lun", "word": "Lun", "translation": "Lun", "note": "personal name; not Luna"}
+{"key": "lun", "word": "Lun", "translation": "Lun", "note": "personal name; not Luna", "status": "ignored"}
 {"key": "lunastres", "word": "Lunastres", "translation": "Lunastres", "note": ""}
 {"key": "lunge", "word": "Lunge", "translation": "lung", "note": "singular"}
 {"key": "lunzul", "word": "Lunzul", "translation": "Lunzul", "note": ""}
@@ -50531,7 +50531,7 @@
 {"key": "aalfisch", "word": "Aalfisch", "translation": "eel; eel fish", "note": "fish with elongated body; creature or food item"}
 {"key": "aalsaft", "word": "Aalsaft", "translation": "eel juice", "note": "liquid from or derived from eels; possibly a beverage or potion"}
 {"key": "aargoss", "word": "Aargoss", "translation": "Aargoss", "note": "demon name; proper noun in quest context", "status": "ignored"}
-{"key": "aaron", "word": "Aaron", "translation": "Aaron", "note": "personal name; biblical name used in various cultures"}
+{"key": "aaron", "word": "Aaron", "translation": "Aaron", "note": "personal name; biblical name used in various cultures", "status": "ignored"}
 {"key": "aarux", "word": "Aarux", "translation": "Aarux", "note": "corrupted spider name; proper noun", "status": "ignored"}
 {"key": "aases", "word": "Aases", "translation": "carcass; carrion", "note": "dead animal or corpse; Aas is a common noun"}
 {"key": "aasessenz", "word": "Aasessenz", "translation": "carrion essence", "note": "Aas + Essenz; essence or quintessence of decay or death"}
@@ -59130,7 +59130,7 @@
 {"key": "hackschwänze", "word": "Hackschwänze", "translation": "hacktails", "note": "hack (to chop) + schwänze (tails); a type of creature"}
 {"key": "hackten", "word": "hackten", "translation": "hacked", "note": "past tense; hacken = to hack or chop"}
 {"key": "hackvisage", "word": "Hackvisage", "translation": "Hackvisage", "note": "mysterious object or artifact name"}
-{"key": "hadari", "word": "Hadari", "translation": "Hadari", "note": "orc personal name"}
+{"key": "hadari", "word": "Hadari", "translation": "Hadari", "note": "orc personal name", "status": "ignored"}
 {"key": "hadan", "word": "Hadan", "translation": "Hadan", "note": "location or title (Hadan Khan perhaps)"}
 {"key": "hadere", "word": "hadere", "translation": "quarrel", "note": "haderer = quarreler; hadere may be a specific form"}
 {"key": "hadley", "word": "Hadley", "translation": "Hadley", "note": "NPC name, biologist", "status": "ignored"}
@@ -66575,7 +66575,7 @@
 {"key": "ro", "word": "Ro", "translation": "Ro", "note": ""}
 {"key": "rmgrmlg", "word": "rmgrmlg", "translation": "rmgrmlg", "note": "murloc speech sounds"}
 {"key": "robert", "word": "Robert", "translation": "Robert", "note": "NPC given name", "status": "ignored"}
-{"key": "roberts", "word": "Roberts", "translation": "Roberts", "note": "surname"}
+{"key": "roberts", "word": "Roberts", "translation": "Roberts", "note": "surname", "status": "ignored"}
 {"key": "robodings", "word": "Robodings", "translation": "robot gadgets", "note": "robo (robot) + -dings (things); gnomish term"}
 {"key": "roboleckerlis", "word": "Roboleckerlis", "translation": "robo treats", "note": "robo (robot) + leckerlis (treats/snacks)"}
 {"key": "roboschreiter", "word": "Roboschreiter", "translation": "robot rider", "note": "robo (robot) + schreiter (strider); mechanical mount"}
@@ -71617,7 +71617,7 @@
 {"key": "vilemus", "word": "Vilemus", "translation": "Vilemus", "note": "proper name", "status": "ignored"}
 {"key": "vilhelms", "word": "Vilhelms", "translation": "Vilhelms", "note": "proper name", "status": "ignored"}
 {"key": "vim'gols", "word": "Vim'gols", "translation": "Vim'gols", "note": "proper name", "status": "ignored"}
-{"key": "vincent", "word": "Vincent", "translation": "Vincent", "note": "personal name"}
+{"key": "vincent", "word": "Vincent", "translation": "Vincent", "note": "personal name", "status": "ignored"}
 {"key": "vindicaar", "word": "Vindicaar", "translation": "Vindicaar", "note": "ship or location name", "status": "ignored"}
 {"key": "vinh", "word": "Vinh", "translation": "Vinh", "note": "proper name", "status": "ignored"}
 {"key": "vino", "word": "vino", "translation": "vino", "note": "Latin phrase"}
@@ -76544,7 +76544,7 @@
 {"key": "serratus", "word": "Serratus", "translation": "Serratus", "note": "goblin doctor in Orgrimmar"}
 {"key": "sethir", "word": "Sethir", "translation": "Sethir", "note": "ancient giant creature; Winterspring denizen", "status": "ignored"}
 {"key": "sethman", "word": "Sethman", "translation": "Sethman", "note": "human corporal; military rank"}
-{"key": "sha'ni", "word": "Sha'ni", "translation": "Sha'ni", "note": "tauren warrior; personal name"}
+{"key": "sha'ni", "word": "Sha'ni", "translation": "Sha'ni", "note": "tauren warrior; personal name", "status": "ignored"}
 {"key": "sevrens", "word": "Sevrens", "translation": "Sevren's", "note": "officer with orders; military documents"}
 {"key": "sha'nis", "word": "Sha'nis", "translation": "Sha'ni's", "note": "tauren name possessive; jewelry owner"}
 {"key": "shadowfang", "word": "Shadowfang", "translation": "Shadowfang", "note": "dungeon location; fang-like shadows", "status": "ignored"}
@@ -76692,7 +76692,7 @@
 {"key": "sharpmane", "word": "Sharpmane", "translation": "Sharpmane", "note": "creature with sharp mane; likely animal", "status": "ignored"}
 {"key": "shatterskull", "word": "Shatterskull", "translation": "Shatterskull", "note": "NPC name; orc captain", "status": "ignored"}
 {"key": "skelettfragmente", "word": "Skelettfragmente", "translation": "skeletal fragments", "note": "plural; bone shards from undead creatures"}
-{"key": "sprocketspring", "word": "Sprocketspring", "translation": "Sprocketspring", "note": "gnome surname; engineering-related"}
+{"key": "sprocketspring", "word": "Sprocketspring", "translation": "Sprocketspring", "note": "gnome surname; engineering-related", "status": "ignored"}
 {"key": "starfall", "word": "Starfall", "translation": "Starfall", "note": "zone name or location", "status": "ignored"}
 {"key": "stonard", "word": "Stonard", "translation": "Stonard", "note": "zone name; orc settlement", "status": "ignored"}
 {"key": "stonespire", "word": "Stonespire", "translation": "Stonespire", "note": "NPC name; human quest NPC", "status": "ignored"}
@@ -79104,7 +79104,7 @@
 {"key": "jp", "word": "JP", "translation": "JP", "note": ""}
 {"key": "kampfbot", "word": "Kampfbot", "translation": "Combat bot", "note": "compound device name; Kampf means combat and Bot means bot"}
 {"key": "kampfnacht", "word": "Kampfnacht", "translation": "Fight night", "note": "event-title wording; Nacht means night"}
-{"key": "keltus", "word": "Keltus", "translation": "Keltus", "note": "personal name; the current Celtic reading is a false translation"}
+{"key": "keltus", "word": "Keltus", "translation": "Keltus", "note": "personal name; the current Celtic reading is a false translation", "status": "ignored"}
 {"key": "keritose", "word": "Keritose", "translation": "Keritose", "note": "personal name; it is not the medical noun keratosis in this NPC name", "status": "ignored"}
 {"key": "killohertz", "word": "Killohertz", "translation": "Killohertz", "note": ""}
 {"key": "klarstellen", "word": "klarstellen", "translation": "clarify", "note": "eine Sache klarstellen = make one thing clear"}
@@ -79638,7 +79638,7 @@
 {"key": "finlay", "word": "Finlay", "translation": "Finlay", "note": ""}
 {"key": "fit", "word": "fit", "translation": "fit", "note": "fit can mean suitable, healthy, or consider appropriate; here it appears in sees fit"}
 {"key": "fitzel", "word": "Fitzel", "translation": "Fitzel", "note": ""}
-{"key": "fixtand", "word": "Fixtand", "translation": "Fixtand", "note": "surname; the current translation is a false wordplay on the name"}
+{"key": "fixtand", "word": "Fixtand", "translation": "Fixtand", "note": "surname; the current translation is a false wordplay on the name", "status": "ignored"}
 {"key": "flames", "word": "flames", "translation": "flames", "note": "plural of flame"}
 {"key": "flammenkern", "word": "Flammenkern", "translation": "Flame Core", "note": "flammen (flames) + Kern (core)"}
 {"key": "flay", "word": "Flay", "translation": "Flay", "note": ""}
@@ -80813,7 +80813,7 @@
 {"key": "zikk", "word": "Zikk", "translation": "Zikk", "note": ""}
 {"key": "zinnzischelix", "word": "Zinnzischelix", "translation": "Zinnzischelix", "note": "proper name; no confirmed English rendering", "status": "ignored"}
 {"key": "zinnzischelixs", "word": "Zinnzischelixs", "translation": "Zinnzischelix's", "note": "German genitive; English marks possession with 's"}
-{"key": "zischelfunken", "word": "Zischelfunken", "translation": "Zischelfunken", "note": "surname; no confirmed English rendering"}
+{"key": "zischelfunken", "word": "Zischelfunken", "translation": "Zischelfunken", "note": "surname; no confirmed English rendering", "status": "ignored"}
 {"key": "zischenden", "word": "zischenden", "translation": "hissing", "note": "present participle of zischen, to hiss"}
 {"key": "zolo", "word": "Zolo", "translation": "Zolo", "note": ""}
 {"key": "zufriedenstellt", "word": "zufriedenstellt", "translation": "satisfies", "note": "third-person form of zufriedenstellen, to satisfy"}
@@ -81476,7 +81476,7 @@
 {"key": "herzufliegen", "word": "herzufliegen", "translation": "to fly here", "note": "her (here or toward us) + fliegen (fly); zu marks the infinitive"}
 {"key": "hetaeras", "word": "Hetaeras", "translation": "Hetaera's", "note": "german possessive of Hetaera takes plain -s; English adds an apostrophe"}
 {"key": "hierdurch", "word": "hierdurch", "translation": "thereby", "note": "formal connector meaning by this means or as a result of this"}
-{"key": "hieronymus", "word": "Hieronymus", "translation": "Hieronymus", "note": "personal name; the German form is Hieronymus, not the English Jerome"}
+{"key": "hieronymus", "word": "Hieronymus", "translation": "Hieronymus", "note": "personal name; the German form is Hieronymus, not the English Jerome", "status": "ignored"}
 {"key": "highlord", "word": "Highlord", "translation": "Highlord", "note": "title formed from high and lord; keep the capitalized game title"}
 {"key": "hilfst", "word": "hilfst", "translation": "help", "note": "second-person singular of helfen; the subject is du (you)"}
 {"key": "himmelsstein", "word": "Himmelsstein", "translation": "Skystone", "note": "himmel (sky or heaven) + Stein (stone); Skystone is the established game term"}
@@ -83846,7 +83846,7 @@
 {"key": "faulbauch", "word": "Faulbauch", "translation": "rotten belly", "note": "literal name; the context does not confirm an official English rendering"}
 {"key": "fauldarms", "word": "Fauldarms", "translation": "Festergut''s", "note": "possessive form; the official English boss name for Fauldarm is Festergut"}
 {"key": "faulenzende", "word": "faulenzende", "translation": "idle", "note": "from faulenzen, to loaf around; here the workers are idle"}
-{"key": "faulmut", "word": "Faulmut", "translation": "Faulmut", "note": "surname; the context does not confirm an official English rendering"}
+{"key": "faulmut", "word": "Faulmut", "translation": "Faulmut", "note": "surname; the context does not confirm an official English rendering", "status": "ignored"}
 {"key": "fears", "word": "fears", "translation": "fears", "note": "third-person singular of fear; the subject is the Old God"}
 {"key": "fed", "word": "Fed", "translation": "Fed", "note": ""}
 {"key": "federkiels", "word": "Federkiels", "translation": "quill pen", "note": "genitive form of Federkiel; -s marks possession"}
@@ -84705,7 +84705,7 @@
 {"key": "ikan", "word": "Ikan", "translation": "Ikan", "note": ""}
 {"key": "ilastar", "word": "Ilastar", "translation": "Ilastar", "note": ""}
 {"key": "illidarifürst", "word": "Illidarifürst", "translation": "Illidari lord", "note": "compound title; Fürst is lord, not the English word fused to Illidari"}
-{"key": "illyrie", "word": "Illyrie", "translation": "Illyrie", "note": "personal name; the source text does not establish a different English spelling"}
+{"key": "illyrie", "word": "Illyrie", "translation": "Illyrie", "note": "personal name; the source text does not establish a different English spelling", "status": "ignored"}
 {"key": "ilskahorn", "word": "Ilskahorn", "translation": "Ilskahorn", "note": "proper item name; no confirmed separate English localization", "status": "ignored"}
 {"key": "imbiss", "word": "Imbiss", "translation": "snack", "note": "can also mean a small takeaway meal; here it is something to be eaten"}
 {"key": "immerdar", "word": "immerdar", "translation": "forever", "note": "jetzt und immerdar = now and forever"}
@@ -84776,7 +84776,7 @@
 {"key": "issara", "word": "Issara", "translation": "Issara", "note": ""}
 {"key": "ithanas", "word": "Ithanas", "translation": "Ithanas", "note": ""}
 {"key": "itself", "word": "itself", "translation": "itself", "note": "english source entry; German is selbst in this construction"}
-{"key": "iwen", "word": "Iwen", "translation": "Iwen", "note": "personal name; Ivan is not supported by the German text"}
+{"key": "iwen", "word": "Iwen", "translation": "Iwen", "note": "personal name; Ivan is not supported by the German text", "status": "ignored"}
 {"key": "jaaaaa", "word": "jaaaaa", "translation": "yes", "note": "drawn-out spelling of ja, meaning yes"}
 {"key": "jabberjaw", "word": "Jabberjaw", "translation": "Jabberjaw", "note": ""}
 {"key": "jacke", "word": "Jacke", "translation": "jacket", "note": "German borrowed from French; English uses the same everyday meaning"}
@@ -84805,7 +84805,7 @@
 {"key": "jedesmal", "word": "Jedesmal", "translation": "every time", "note": "fixed phrase; jedes Mal is normally written as two words"}
 {"key": "jesanas", "word": "Jesanas", "translation": "Jesana's", "note": "genitive form; Jesanas Feendrachenlockruf means Jesana's faerie-dragon call"}
 {"key": "jhaeqon", "word": "Jhaeqon", "translation": "Jhaeqon", "note": ""}
-{"key": "jir'see", "word": "Jir'see", "translation": "Jir'see", "note": "personal name; the German text uses a straight apostrophe"}
+{"key": "jir'see", "word": "Jir'see", "translation": "Jir'see", "note": "personal name; the German text uses a straight apostrophe", "status": "ignored"}
 {"key": "jmc", "word": "JMC", "translation": "JMC", "note": ""}
 {"key": "joke", "word": "joke", "translation": "joke", "note": "english source entry; German is Witz"}
 {"key": "jorell", "word": "Jorell", "translation": "Jorell", "note": ""}
@@ -84815,8 +84815,8 @@
 {"key": "ju'pa", "word": "Ju'pa", "translation": "Ju'pa", "note": ""}
 {"key": "judgement", "word": "judgement", "translation": "judgement", "note": "english spelling variant; judgment is the US form"}
 {"key": "judgment", "word": "judgment", "translation": "judgment", "note": "english spelling variant; judgement is the UK form"}
-{"key": "jugnug", "word": "Jugnug", "translation": "Jugnug", "note": "personal name; Youth is an unrelated translation"}
-{"key": "julan", "word": "Julan", "translation": "Julan", "note": "personal name; Julian is not supported by the German text"}
+{"key": "jugnug", "word": "Jugnug", "translation": "Jugnug", "note": "personal name; Youth is an unrelated translation", "status": "ignored"}
+{"key": "julan", "word": "Julan", "translation": "Julan", "note": "personal name; Julian is not supported by the German text", "status": "ignored"}
 {"key": "jungfrauen", "word": "Jungfrauen", "translation": "maidens", "note": "in Eiserne Jungfrauen, the official English name is Iron Maidens"}
 {"key": "jungwurzel", "word": "Jungwurzel", "translation": "young root", "note": "compound; Jung means young and Wurzel means root"}
 {"key": "jungwurzeln", "word": "Jungwurzeln", "translation": "young roots", "note": "plural compound; Jungwurzeln is the plural"}
@@ -85922,7 +85922,7 @@
 {"key": "pouch", "word": "Pouch", "translation": "Pouch", "note": "a small bag; Adventurer's Pouch is a treasure label here"}
 {"key": "prachtmeerwachen", "word": "Prachtmeerwachen", "translation": "Proudmoore Guards", "note": "Prachtmeer is the German form of Proudmoore; Wachen means guards"}
 {"key": "praktischere", "word": "praktischere", "translation": "more practical", "note": "the -ere ending marks the comparative: more practical"}
-{"key": "prasseltrop", "word": "Prasseltrop", "translation": "Prasseltrop", "note": "surname; a literal translation would be misleading because the context uses it as a name"}
+{"key": "prasseltrop", "word": "Prasseltrop", "translation": "Prasseltrop", "note": "surname; a literal translation would be misleading because the context uses it as a name", "status": "ignored"}
 {"key": "prayer", "word": "Prayer", "translation": "Prayer", "note": ""}
 {"key": "precious", "word": "precious", "translation": "precious", "note": "can mean dearly valued, not only expensive; here it describes Ezra's goods"}
 {"key": "prefer", "word": "prefer", "translation": "prefer", "note": "prefer A to B means like A better than B"}
@@ -86003,8 +86003,8 @@
 {"key": "rabxach", "word": "Rabxach", "translation": "Rabxach", "note": ""}
 {"key": "rachedurstiger", "word": "rachedurstiger", "translation": "vengeful", "note": "Rache (revenge) + durstig (thirsty); figuratively thirsty for revenge"}
 {"key": "rachevollstrecker", "word": "Rachevollstrecker", "translation": "Vengeance Enforcer", "note": "Rache (vengeance) + Vollstrecker (enforcer or executor); singular enemy name"}
-{"key": "rachtotems", "word": "Rachtotems", "translation": "Rachtotems", "note": "surname in Ruga Rachtotems; the context uses it as a name, not a generic totem"}
-{"key": "radflutsch", "word": "Radflutsch", "translation": "Radflutsch", "note": "surname in Grizzle Radflutsch; do not read it as the phrase wheel slip"}
+{"key": "rachtotems", "word": "Rachtotems", "translation": "Rachtotems", "note": "surname in Ruga Rachtotems; the context uses it as a name, not a generic totem", "status": "ignored"}
+{"key": "radflutsch", "word": "Radflutsch", "translation": "Radflutsch", "note": "surname in Grizzle Radflutsch; do not read it as the phrase wheel slip", "status": "ignored"}
 {"key": "raenie", "word": "Raenie", "translation": "Raenie", "note": ""}
 {"key": "rag'sla", "word": "Rag'sla", "translation": "Rag'sla", "note": ""}
 {"key": "raised", "word": "raised", "translation": "raised", "note": "past participle of raise; here the armies were created through necromancy"}
@@ -88198,7 +88198,7 @@
 {"key": "ahunaes", "word": "Ahunaes", "translation": "Ahunae's", "note": "German genitive: the knife belonging to Ahunae"}
 {"key": "ahuurns", "word": "Ahuurns", "translation": "Ahuurn's", "note": "German genitive: the elixir belonging to Ahuurn"}
 {"key": "aiding", "word": "aiding", "translation": "aiding", "note": "after interested in, the -ing form acts as a noun"}
-{"key": "ailen", "word": "Ailen", "translation": "Ailen", "note": "personal name; the context gives no separate translation"}
+{"key": "ailen", "word": "Ailen", "translation": "Ailen", "note": "personal name; the context gives no separate translation", "status": "ignored"}
 {"key": "aitokks", "word": "Aitokks", "translation": "Aitokk's", "note": "German genitive: the axe belonging to Aitokk"}
 {"key": "aiyu", "word": "Aiyu", "translation": "Aiyu", "note": ""}
 {"key": "aizir", "word": "Aizir", "translation": "Aizir", "note": ""}
@@ -88209,7 +88209,7 @@
 {"key": "akademischen", "word": "akademischen", "translation": "academic", "note": "inflected adjective form of Akademie, academy"}
 {"key": "akaani", "word": "Akaani", "translation": "Akaani", "note": ""}
 {"key": "akana", "word": "Akana", "translation": "Akana", "note": ""}
-{"key": "akanja", "word": "Akanja", "translation": "Akanja", "note": "personal name; the current Akanya spelling is not supported by the context"}
+{"key": "akanja", "word": "Akanja", "translation": "Akanja", "note": "personal name; the current Akanya spelling is not supported by the context", "status": "ignored"}
 {"key": "akasha", "word": "Akasha", "translation": "Akasha", "note": "personal name; Akashic is an adjective and does not fit this context"}
 {"key": "akara", "word": "Akara", "translation": "Akara", "note": ""}
 {"key": "akato", "word": "Akato", "translation": "Akato", "note": ""}
@@ -88218,7 +88218,7 @@
 {"key": "akinos", "word": "Akinos", "translation": "Akinos", "note": ""}
 {"key": "akklimatisierung", "word": "Akklimatisierung", "translation": "acclimatization", "note": "from Klima (climate), with -ierung forming an action noun"}
 {"key": "akkarais", "word": "Akkarais", "translation": "Akkarai's", "note": "German genitive: Akkarai's is the English possessive form"}
-{"key": "akkolon", "word": "Akkolon", "translation": "Akkolon", "note": "personal name; the context does not support changing its spelling to Accolon"}
+{"key": "akkolon", "word": "Akkolon", "translation": "Akkolon", "note": "personal name; the context does not support changing its spelling to Accolon", "status": "ignored"}
 {"key": "akkordarbeitern", "word": "Akkordarbeitern", "translation": "pieceworkers", "note": "Akkordarbeit is piece-rate work; -ern marks the dative plural"}
 {"key": "aklanas", "word": "Aklanas", "translation": "Aklana's", "note": "German genitive: the rescue belonging to Aklana"}
 {"key": "akrath", "word": "Akrath", "translation": "Akrath", "note": ""}
@@ -90423,7 +90423,7 @@
 {"key": "brendols", "word": "Brendols", "translation": "Brendols", "note": ""}
 {"key": "brendormi", "word": "Brendormi", "translation": "Brendormi", "note": ""}
 {"key": "brennofen", "word": "Brennofen", "translation": "kiln", "note": "brenn (fire) + Ofen (oven); a furnace for firing or heating"}
-{"key": "brennfeder", "word": "Brennfeder", "translation": "Brennfeder", "note": "surname; the literal parts suggest burning feather, but names stay untranslated"}
+{"key": "brennfeder", "word": "Brennfeder", "translation": "Brennfeder", "note": "surname; the literal parts suggest burning feather, but names stay untranslated", "status": "ignored"}
 {"key": "brennoks", "word": "Brennoks", "translation": "Brennok's", "note": "possessive form of the name Brennok"}
 {"key": "brenzliger", "word": "brenzliger", "translation": "more dicey", "note": "comparative of brenzlig, meaning precarious or dicey"}
 {"key": "brent", "word": "Brent", "translation": "Brent", "note": ""}
@@ -90459,7 +90459,7 @@
 {"key": "brol", "word": "Brol", "translation": "Brol", "note": ""}
 {"key": "brombart", "word": "Brombart", "translation": "Brombart", "note": ""}
 {"key": "brondo", "word": "Brondo", "translation": "Brondo", "note": ""}
-{"key": "bronschmelz", "word": "Bronschmelz", "translation": "Bronschmelz", "note": "surname; names stay untranslated"}
+{"key": "bronschmelz", "word": "Bronschmelz", "translation": "Bronschmelz", "note": "surname; names stay untranslated", "status": "ignored"}
 {"key": "bronze-flunker", "word": "Bronze-Flunker", "translation": "Bronze fib", "note": "flunker means a fib; a playful name for the bronze whelp"}
 {"key": "bronzedrachenei", "word": "Bronzedrachenei", "translation": "bronze dragon egg", "note": "bronze (bronze) + Drache (dragon) + Ei (egg); singular"}
 {"key": "bronzedrachenschreins", "word": "Bronzedrachenschreins", "translation": "Bronze Dragon Shrine", "note": "genitive form; a shrine associated with the Bronze Dragonflight"}
@@ -92181,7 +92181,7 @@
 {"key": "enzyklopädie", "word": "Enzyklopädie", "translation": "encyclopedia", "note": "from Greek enkyklios paideia, meaning general education"}
 {"key": "envoy", "word": "Envoy", "translation": "Envoy", "note": "an envoy is a diplomatic messenger or representative"}
 {"key": "eon's", "word": "Eon's", "translation": "Eon's", "note": "part of the place name Eon's Fringe"}
-{"key": "eonys", "word": "Eonys", "translation": "Eonys", "note": "personal name; no lore is confirmed by this context"}
+{"key": "eonys", "word": "Eonys", "translation": "Eonys", "note": "personal name; no lore is confirmed by this context", "status": "ignored"}
 {"key": "epaulets", "word": "Epaulets", "translation": "Epaulets", "note": "a garment's shoulder ornaments, traditionally showing rank"}
 {"key": "epidermis", "word": "Epidermis", "translation": "epidermis", "note": "outer skin layer; epi- means upon"}
 {"key": "ephrams", "word": "Ephrams", "translation": "Ephrams", "note": "personal name in the possessive; no lore is confirmed"}
@@ -92192,10 +92192,10 @@
 {"key": "epochenstein", "word": "Epochenstein", "translation": "epoch stone", "note": "Epochen (epoch) + Stein (stone)"}
 {"key": "erachtete", "word": "erachtete", "translation": "considered", "note": "erachten is a formal verb meaning to deem or consider"}
 {"key": "erachtens", "word": "Erachtens", "translation": "in my opinion", "note": "meines Erachtens is the fixed phrase in my opinion"}
-{"key": "erak", "word": "Erak", "translation": "Erak", "note": "personal name; no lore is confirmed"}
+{"key": "erak", "word": "Erak", "translation": "Erak", "note": "personal name; no lore is confirmed", "status": "ignored"}
 {"key": "eradicate", "word": "ERADICATE", "translation": "ERADICATE", "note": "English all-caps command, retained from the source"}
 {"key": "erbarmt", "word": "erbarmt", "translation": "took pity", "note": "sich erbarmen means to take pity; this is its past form"}
-{"key": "erallier", "word": "Erallier", "translation": "Erallier", "note": "personal name; no lore is confirmed"}
+{"key": "erallier", "word": "Erallier", "translation": "Erallier", "note": "personal name; no lore is confirmed", "status": "ignored"}
 {"key": "erbarmens", "word": "Erbarmens", "translation": "mercy", "note": "Erbarmen means mercy; -s marks the genitive here"}
 {"key": "erbaulich", "word": "erbaulich", "translation": "edifying", "note": "erbauen literally means build up, hence uplifting or edifying"}
 {"key": "erbaulicher", "word": "erbaulicher", "translation": "more edifying", "note": "comparative form: more edifying or uplifting"}
@@ -92231,9 +92231,9 @@
 {"key": "erdwerk", "word": "Erdwerk", "translation": "earthwork", "note": "Erd (earth) + Werk (work); Werk can also mean earthworks"}
 {"key": "erdwüter", "word": "Erdwüter", "translation": "Earthfury", "note": "wüten means rage violently; the literal sense is earth-rager"}
 {"key": "eredarlords", "word": "Eredarlords", "translation": "Eredar Lord's", "note": "-s marks the genitive singular in des Eredarlords; Eredar is the group name"}
-{"key": "ere'noru", "word": "Ere'Noru", "translation": "Ere'Noru", "note": "personal name; no lore is confirmed"}
+{"key": "ere'noru", "word": "Ere'Noru", "translation": "Ere'Noru", "note": "personal name; no lore is confirmed", "status": "ignored"}
 {"key": "ereignisfolgen", "word": "Ereignisfolgen", "translation": "event sequences", "note": "Ereignis (event) + Folgen (sequences or consequences)"}
-{"key": "erenyi", "word": "Erenyi", "translation": "Erenyi", "note": "personal name; no lore is confirmed"}
+{"key": "erenyi", "word": "Erenyi", "translation": "Erenyi", "note": "personal name; no lore is confirmed", "status": "ignored"}
 {"key": "erfahrungsbonus", "word": "Erfahrungsbonus", "translation": "experience bonus", "note": "Erfahrung (experience) + Bonus (bonus)"}
 {"key": "erfahrungsgemäss", "word": "erfahrungsgemäß", "translation": "based on experience", "note": "gemäß means according to; erfahrungsgemäß means according to experience"}
 {"key": "erfahrenheit", "word": "Erfahrenheit", "translation": "experience", "note": "from erfahren, experienced; denotes seasoned knowledge"}
@@ -92261,7 +92261,7 @@
 {"key": "erik", "word": "Erik", "translation": "Erik", "note": "personal name; keep Erik rather than anglicizing it to Eric", "status": "ignored"}
 {"key": "erhellender", "word": "erhellender", "translation": "enlightening", "note": "-er is an adjective ending here, not necessarily a comparative marker"}
 {"key": "erhitzung", "word": "Erhitzung", "translation": "heating", "note": "erhitzen means heat; -ung forms the process noun"}
-{"key": "erilar", "word": "Erilar", "translation": "Erilar", "note": "personal name; no lore is confirmed"}
+{"key": "erilar", "word": "Erilar", "translation": "Erilar", "note": "personal name; no lore is confirmed", "status": "ignored"}
 {"key": "erinnerungsfragmente", "word": "Erinnerungsfragmente", "translation": "fragments of memory", "note": "Erinnerung (memory) + Fragmente (fragments)"}
 {"key": "erinnerungskern", "word": "Erinnerungskern", "translation": "memory core", "note": "Erinnerung (memory) + Kern (core)"}
 {"key": "erinnerungsscheibe", "word": "Erinnerungsscheibe", "translation": "memory disc", "note": "Erinnerung (memory) + Scheibe (disc)"}
@@ -92269,13 +92269,13 @@
 {"key": "erinnerungsstütze", "word": "Erinnerungsstütze", "translation": "memory aid", "note": "Erinnerung (memory) + Stütze (support or aid)"}
 {"key": "erkannten", "word": "erkannten", "translation": "recognized", "note": "past tense plural of erkennen, to recognize"}
 {"key": "erkenn", "word": "erkenn", "translation": "recognize", "note": "colloquial clipped form of erkennen, to recognize"}
-{"key": "erixtol", "word": "Erixtol", "translation": "Erixtol", "note": "personal name; no lore is confirmed"}
+{"key": "erixtol", "word": "Erixtol", "translation": "Erixtol", "note": "personal name; no lore is confirmed", "status": "ignored"}
 {"key": "erkenntnisfähigkeit", "word": "Erkenntnisfähigkeit", "translation": "cognitive ability", "note": "erkennen (insight) + Fähigkeit (ability)"}
 {"key": "erklettert", "word": "Erklettert", "translation": "climb", "note": "imperative plural; erklettern means climb up or scale"}
 {"key": "erkund-o-meter", "word": "Erkund-o-meter", "translation": "Explore-o-meter", "note": "punny compound: Erkundung (exploration) + meter"}
 {"key": "erkundungsgängen", "word": "Erkundungsgängen", "translation": "exploration trips", "note": "-Gängen is dative plural of Gang, a trip or walk; Erkundung means exploration"}
 {"key": "erkundungsmissionen", "word": "Erkundungsmissionen", "translation": "exploration missions", "note": "Erkundung (exploration) + Missionen (missions)"}
-{"key": "erlan", "word": "Erlan", "translation": "Erlan", "note": "personal name; no lore is confirmed"}
+{"key": "erlan", "word": "Erlan", "translation": "Erlan", "note": "personal name; no lore is confirmed", "status": "ignored"}
 {"key": "erkämpfter", "word": "erkämpfter", "translation": "hard-won", "note": "erkämpfen means win by fighting; hart erkämpft is hard-won"}
 {"key": "erlange", "word": "erlange", "translation": "regain", "note": "erlangen means attain; wieder erlangen means regain"}
 {"key": "erlang'n", "word": "erlang'n", "translation": "earn", "note": "erlang'n is a colloquial contraction; Vertrauen erlangen means earn trust"}
@@ -92285,7 +92285,7 @@
 {"key": "erlesenen", "word": "erlesenen", "translation": "exquisite", "note": "erlesen means carefully selected; it implies refined or choice quality"}
 {"key": "erlernten", "word": "erlernten", "translation": "learned", "note": "erlernen means learn or acquire; this is its inflected past form"}
 {"key": "erleuchtungsritual", "word": "Erleuchtungsritual", "translation": "enlightenment ritual", "note": "Erleuchtung (enlightenment) + Ritual (ritual)"}
-{"key": "erlgadins", "word": "Erlgadins", "translation": "Erlgadins", "note": "personal name; no lore is confirmed"}
+{"key": "erlgadins", "word": "Erlgadins", "translation": "Erlgadins", "note": "personal name; no lore is confirmed", "status": "ignored"}
 {"key": "erlösungsanhöhe", "word": "Erlösungsanhöhe", "translation": "Salvation Hill", "note": "Erlösung (salvation) + Anhöhe (hill); English uses Salvation Hill"}
 {"key": "erlittenes", "word": "erlittenes", "translation": "suffered", "note": "past participle of erleiden, to suffer or undergo"}
 {"key": "ermattet", "word": "ermattet", "translation": "exhausted", "note": "from matt, weak or dull, with er- indicating a resulting state"}
@@ -92297,11 +92297,11 @@
 {"key": "ermächtigungsszepter", "word": "Ermächtigungsszepter", "translation": "Empowerment Scepter", "note": "Ermächtigung (empowerment) + Szepter (scepter)"}
 {"key": "ernennung", "word": "Ernennung", "translation": "appointment", "note": "from ernennen, to appoint; -ung makes the action noun"}
 {"key": "ernennungen", "word": "Ernennungen", "translation": "appointments", "note": "plural of Ernennung; the exact in-game referent is unclear"}
-{"key": "ernest", "word": "Ernest", "translation": "Ernest", "note": "personal name; no lore is confirmed"}
+{"key": "ernest", "word": "Ernest", "translation": "Ernest", "note": "personal name; no lore is confirmed", "status": "ignored"}
 {"key": "erneuerbar", "word": "erneuerbar", "translation": "renewable", "note": "er- + neu means make new again; renewable means replenishable"}
 {"key": "erniedrigend", "word": "erniedrigend", "translation": "humiliating", "note": "niedrig means low; erniedrigen is literally lower someone, then humiliate"}
 {"key": "ernstere", "word": "ernstere", "translation": "more serious", "note": "comparative form: more serious"}
-{"key": "ernstenbok", "word": "Ernstenbok", "translation": "Ernstenbok", "note": "personal name; no lore is confirmed"}
+{"key": "ernstenbok", "word": "Ernstenbok", "translation": "Ernstenbok", "note": "personal name; no lore is confirmed", "status": "ignored"}
 {"key": "erntegut", "word": "Erntegut", "translation": "crop", "note": "Ernte (harvest) + Gut (goods or material); harvested produce"}
 {"key": "erntemaschine", "word": "Erntemaschine", "translation": "harvester", "note": "Ernte (harvest) + Maschine (machine)"}
 {"key": "erntehüter", "word": "Erntehüter", "translation": "Harvest Keeper", "note": "Ernte (harvest) + Hüter (keeper); a title rather than a generic farmer"}
@@ -98559,7 +98559,7 @@
 {"key": "kernbrecher", "word": "Kernbrecher", "translation": "Core breaker", "note": "Kern (core) + Brecher (breaker); creature epithet"}
 {"key": "kernflüssigkeit", "word": "Kernflüssigkeit", "translation": "core fluid", "note": "Kern (core) + Flüssigkeit (fluid); technical contamination term"}
 {"key": "kernforschers", "word": "Kernforschers", "translation": "nuclear researcher's", "note": "possessive of Kernforscher; compound: Kern (nuclear) + Forscher (researcher)"}
-{"key": "kernig", "word": "Kernig", "translation": "Kernig", "note": "surname in context"}
+{"key": "kernig", "word": "Kernig", "translation": "Kernig", "note": "surname in context", "status": "ignored"}
 {"key": "kernstück", "word": "Kernstück", "translation": "core piece; linchpin", "note": "Kern (core) + Stück (piece); central element of ritual"}
 {"key": "kernmechanik", "word": "Kernmechanik", "translation": "core mechanics", "note": "game system term; Kern (core) + Mechanik (mechanics)"}
 {"key": "kerntemperatur", "word": "Kerntemperatur", "translation": "core temperature", "note": "Kern + Temperatur; system stability measurement"}
