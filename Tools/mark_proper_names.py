@@ -85,6 +85,9 @@ COMMON_SAME_TRANSLATION_DENY = {
     "aldrachi", "infernals",
     # Batch-8 audit FPs (issue #1): common noun / creature type, not names.
     "king", "val'kyr",
+    # Manual curator passes 20: fragments/generics kept learnable.
+    "god", "titan", "run", "song", "broken", "highlands",
+    "foothills", "glades", "booty", "harbor", "gorge", "grotto",
 }
 
 PROPER_PATTERN = re.compile(r"^[A-ZÄÖÜ].*[A-Za-zÄÖÜäöüß'’\-]*$")

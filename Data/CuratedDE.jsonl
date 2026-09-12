@@ -64438,7 +64438,7 @@
 {"key": "navrin", "word": "Navrin", "translation": "Navrin", "note": "NPC or character name", "status": "ignored"}
 {"key": "navtest", "word": "NavTest", "translation": "nav test", "note": "abbreviation; navigation testing code"}
 {"key": "navuud", "word": "Navuud", "translation": "Navuud", "note": "NPC or character name", "status": "ignored"}
-{"key": "nazan", "word": "Nazan", "translation": "Nazan", "note": "dragon name in WoW"}
+{"key": "nazan", "word": "Nazan", "translation": "Nazan", "note": "dragon name in WoW", "status": "ignored"}
 {"key": "nazans", "word": "Nazans", "translation": "Nazan's", "note": "possessive form of dragon name"}
 {"key": "nazeshi", "word": "Nazeshi", "translation": "Nazeshi", "note": "character or NPC name", "status": "ignored"}
 {"key": "nazferitisee", "word": "Nazferitisee", "translation": "Lake Nazferiti", "note": "proper location name; German geography"}
@@ -73875,7 +73875,7 @@
 {"key": "arathibeckens", "word": "Arathibeckens", "translation": "Arathi Basin", "note": "the official WoW zone name for Arathi; genitive/possessive form"}
 {"key": "southshore", "word": "Southshore", "translation": "Southshore", "note": "human settlement in Hillsbrad, untranslated", "status": "ignored"}
 {"key": "deliana", "word": "Deliana", "translation": "Deliana", "note": ""}
-{"key": "blackrock", "word": "Blackrock", "translation": "Blackrock", "note": "volcanic mountain range; part of several location names"}
+{"key": "blackrock", "word": "Blackrock", "translation": "Blackrock", "note": "volcanic mountain range; part of several location names", "status": "ignored"}
 {"key": "mokvar", "word": "Mokvar", "translation": "Mokvar", "note": ""}
 {"key": "feathermoon", "word": "Feathermoon", "translation": "Feathermoon", "note": "night elf stronghold, untranslated", "status": "ignored"}
 {"key": "moonglade", "word": "Moonglade", "translation": "Moonglade", "note": "druid sanctuary, untranslated zone name", "status": "ignored"}
@@ -74094,7 +74094,7 @@
 {"key": "mok'thardins", "word": "Mok'Thardins", "translation": "Mok'Thardins", "note": "NPC possessive; enchantment of Mok'Thardins", "status": "ignored"}
 {"key": "morgenkornforschung", "word": "Morgenkornforschung", "translation": "morning grain research", "note": "morgen (morning) + korn (grain) + forschung (research); questline topic"}
 {"key": "mosh'aru", "word": "Mosh'aru", "translation": "Mosh'aru", "note": "ancient prophecy name; untranslated lore proper noun", "status": "ignored"}
-{"key": "muigin", "word": "Muigin", "translation": "Muigin", "note": "NPC name; part of 'Muigin and Larion' quest pair"}
+{"key": "muigin", "word": "Muigin", "translation": "Muigin", "note": "NPC name; part of 'Muigin and Larion' quest pair", "status": "ignored"}
 {"key": "nachtdrache", "word": "Nachtdrache", "translation": "night dragon", "note": "nacht (night) + drache (dragon); creature type, often corrupted or black"}
 {"key": "nafien", "word": "Nafien", "translation": "Nafien", "note": "NPC name; tasks completed in Felwood", "status": "ignored"}
 {"key": "nessa", "word": "Nessa", "translation": "Nessa", "note": "NPC name; return destination quest", "status": "ignored"}
@@ -74333,7 +74333,7 @@
 {"key": "ramaladnis", "word": "Ramaladnis", "translation": "Ramaladnis", "note": "proper name; possible lore term", "status": "ignored"}
 {"key": "rane", "word": "Rane", "translation": "Rane", "note": "NPC name", "status": "ignored"}
 {"key": "ranshalla", "word": "Ranshalla", "translation": "Ranshalla", "note": "place or NPC name", "status": "ignored"}
-{"key": "ravenholdt", "word": "Ravenholdt", "translation": "Ravenholdt", "note": "hold (manor) + raven; location name"}
+{"key": "ravenholdt", "word": "Ravenholdt", "translation": "Ravenholdt", "note": "hold (manor) + raven; location name", "status": "ignored"}
 {"key": "rechtsklicken", "word": "rechtsklicken", "translation": "right click", "note": "rechts (right) + klicken (click); UI infinitive verb"}
 {"key": "remtravel", "word": "Remtravel", "translation": "Remtravel", "note": "NPC name", "status": "ignored"}
 {"key": "rethiel", "word": "Rethiel", "translation": "Rethiel", "note": "NPC name; likely fantastical origin", "status": "ignored"}
@@ -76514,7 +76514,7 @@
 {"key": "schwarmbrutstätten", "word": "Schwarmbrutstätten", "translation": "hive breeding grounds", "note": "insect swarm nesting sites"}
 {"key": "schwarzfellfurbolgs", "word": "Schwarzfellfurbolgs", "translation": "Blackfur furbolgs", "note": "bear-like humanoids; dark-furred variant"}
 {"key": "schwarzdrachenherz", "word": "Schwarzdrachenherz", "translation": "Black Dragon Heart", "note": "loot from dark dragon; quest item"}
-{"key": "schwindel", "word": "Schwindel", "translation": "Schwindel", "note": "NPC name meaning dizziness/fraud; dwarf trainer"}
+{"key": "schwindel", "word": "Schwindel", "translation": "Schwindel", "note": "NPC name meaning dizziness/fraud; dwarf trainer", "status": "ignored"}
 {"key": "schweinebauchpastete", "word": "Schweinebauchpastete", "translation": "pork belly pie", "note": "food item; cooked meat dish"}
 {"key": "schwärendes", "word": "Schwärendes", "translation": "festering; suppurating", "note": "from schwären (to fester); infected/diseased"}
 {"key": "schwärzlichen", "word": "schwärzlichen", "translation": "blackish; darkened", "note": "adjective; somewhat black in color"}
@@ -76608,7 +76608,7 @@
 {"key": "witherbark", "word": "Witherbark", "translation": "Witherbark", "note": ""}
 {"key": "eldarath", "word": "Eldarath", "translation": "Eldarath", "note": "NPC name", "status": "ignored"}
 {"key": "fireblade", "word": "Fireblade", "translation": "Fireblade", "note": "fire weapon or warrior type"}
-{"key": "fizzlebub", "word": "Fizzlebub", "translation": "Fizzlebub", "note": "gnome quest giver"}
+{"key": "fizzlebub", "word": "Fizzlebub", "translation": "Fizzlebub", "note": "gnome quest giver", "status": "ignored"}
 {"key": "hawkwind", "word": "Hawkwind", "translation": "Hawkwind", "note": "creature or NPC surname", "status": "ignored"}
 {"key": "hinderweir", "word": "Hinderweir", "translation": "Hinderweir", "note": "location or area name", "status": "ignored"}
 {"key": "ironband", "word": "Ironband", "translation": "Ironband", "note": "dwarf clan or family name", "status": "ignored"}
@@ -76719,7 +76719,7 @@
 {"key": "yeh'kinya", "word": "Yeh'kinya", "translation": "Yeh'kinya", "note": ""}
 {"key": "zamah", "word": "Zamah", "translation": "Zamah", "note": ""}
 {"key": "ziz", "word": "Ziz", "translation": "Ziz", "note": ""}
-{"key": "aerie", "word": "Aerie", "translation": "Aerie", "note": "in WoW: Aerie Peak, the harpy settlement in the Hinterlands; archaic/poetic term for eagle's nest"}
+{"key": "aerie", "word": "Aerie", "translation": "Aerie", "note": "in WoW: Aerie Peak, the harpy settlement in the Hinterlands; archaic/poetic term for eagle's nest", "status": "ignored"}
 {"key": "allister", "word": "Allister", "translation": "Allister", "note": ""}
 {"key": "barthalomew", "word": "Barthalomew", "translation": "Barthalomew", "note": ""}
 {"key": "belgrom", "word": "Belgrom", "translation": "Belgrom", "note": ""}
@@ -77960,7 +77960,7 @@
 {"key": "you've", "word": "you've", "translation": "you've", "note": "you've = you have; it can introduce a completed action"}
 {"key": "research", "word": "Research", "translation": "research", "note": "research is usually uncountable in English"}
 {"key": "event", "word": "Event", "translation": "event", "note": "event is countable: one event, several events"}
-{"key": "stormheim", "word": "Stormheim", "translation": "Stormheim", "note": "Stormheim is a WoW zone name; Heim means home in Germanic languages"}
+{"key": "stormheim", "word": "Stormheim", "translation": "Stormheim", "note": "Stormheim is a WoW zone name; Heim means home in Germanic languages", "status": "ignored"}
 {"key": "unlock", "word": "Unlock", "translation": "unlock", "note": "unlock means open something secured by a key or condition"}
 {"key": "max-level", "word": "Max-level", "translation": "max-level", "note": "max-level means at the highest available character level"}
 {"key": "verfolgungsereignis", "word": "Verfolgungsereignis", "translation": "pursuit event", "note": "Verfolgung = pursuit and Ereignis = event"}
@@ -78199,7 +78199,7 @@
 {"key": "prepared", "word": "prepared", "translation": "prepared", "note": "prepared means ready for use; it is the past participle of prepare"}
 {"key": "proving", "word": "Proving", "translation": "proving", "note": "proving is the -ing form of prove; proving too much means showing itself excessive"}
 {"key": "rise", "word": "rise", "translation": "rise", "note": "rise can mean ascent or emergence; in a title it signals an unfolding threat"}
-{"key": "sapta", "word": "Sapta", "translation": "Sapta", "note": "a Sapta is a ritual drink that lets the drinker perceive the elements"}
+{"key": "sapta", "word": "Sapta", "translation": "Sapta", "note": "a Sapta is a ritual drink that lets the drinker perceive the elements", "status": "ignored"}
 {"key": "sea", "word": "sea", "translation": "sea", "note": "sea is a large body of salt water; Sea Lion is a fixed quest name"}
 {"key": "snip", "word": "Snip", "translation": "Snip", "note": ""}
 {"key": "stage", "word": "Stage", "translation": "stage", "note": "stage marks a step or phase in a sequence"}
@@ -78291,7 +78291,7 @@
 {"key": "leysteinvorkommen", "word": "Leysteinvorkommen", "translation": "Leystone deposit", "note": "vorkommen means a deposit; this phrase is singular despite the old plural output"}
 {"key": "miniatur", "word": "Miniatur", "translation": "miniature", "note": "a miniatur is a small representation; here it is a collectible appearance"}
 {"key": "nachtruhe", "word": "Nachtruhe", "translation": "Night's rest", "note": "nachtruhe combines nacht (night) and ruhe (rest); it means rest for the night"}
-{"key": "obliterum", "word": "Obliterum", "translation": "Obliterum", "note": "an official material name; despite the Latin look, it is not the ordinary word obliteration"}
+{"key": "obliterum", "word": "Obliterum", "translation": "Obliterum", "note": "an official material name; despite the Latin look, it is not the ordinary word obliteration", "status": "ignored"}
 {"key": "professions", "word": "Professions", "translation": "Professions", "note": "official UI term for crafting and gathering skills"}
 {"key": "purify", "word": "purify", "translation": "purify", "note": "purify means cleanse; here the salve removes Felwood corruption"}
 {"key": "raw", "word": "raw", "translation": "raw", "note": "raw metal is unprocessed metal, before refining or working"}
@@ -78419,7 +78419,7 @@
 {"key": "put", "word": "put", "translation": "put", "note": "in put my foot into it, the idiom means make a blunder"}
 {"key": "retrieve", "word": "Retrieve", "translation": "Retrieve", "note": "imperative of retrieve; quest text uses it for recovering an item"}
 {"key": "ritterkommandant", "word": "Ritterkommandant", "translation": "Knight Commander", "note": "ritter (knight) + kommandant (commander); a title before a name"}
-{"key": "rustbolt", "word": "Rustbolt", "translation": "Rustbolt", "note": "official name of the mechagnome hub in Mechagon"}
+{"key": "rustbolt", "word": "Rustbolt", "translation": "Rustbolt", "note": "official name of the mechagnome hub in Mechagon", "status": "ignored"}
 {"key": "second", "word": "second", "translation": "second", "note": "can mean an additional unit of time or a supporting vote; context decides"}
 {"key": "spirit", "word": "Spirit", "translation": "carry away secretly", "note": "as a verb, spirit away means carry off secretly; not the ghost-related noun"}
 {"key": "starkarm", "word": "Starkarm", "translation": "Stoutarm", "note": "germanized NPC surname; the English name is Stoutarm"}
@@ -78441,7 +78441,7 @@
 {"key": "among", "word": "among", "translation": "among", "note": "the neutral modern form for within a group"}
 {"key": "artefaktforscher", "word": "Artefaktforscher", "translation": "Artifact Researcher", "note": "artefakt (artifact) + forscher (researcher)"}
 {"key": "arthorn", "word": "Arthorn", "translation": "Arthorn", "note": ""}
-{"key": "ashbringer", "word": "Ashbringer", "translation": "Ashbringer", "note": "official English name of the legendary sword; it is not translated"}
+{"key": "ashbringer", "word": "Ashbringer", "translation": "Ashbringer", "note": "official English name of the legendary sword; it is not translated", "status": "ignored"}
 {"key": "asked", "word": "asked", "translation": "asked", "note": "past tense and participle of ask; was asked to means was requested to"}
 {"key": "azeritermächtigung", "word": "Azeritermächtigung", "translation": "Azerite Empowerment", "note": "artefakt (artifact) + ermächtigung (empowerment); a game term"}
 {"key": "battles", "word": "battles", "translation": "battles", "note": "plural of battle; a war contains many separate battles"}
@@ -78841,7 +78841,7 @@
 {"key": "deiroms", "word": "Deiroms", "translation": "Deiroms", "note": ""}
 {"key": "delath", "word": "Delath", "translation": "Delath", "note": ""}
 {"key": "demeanor", "word": "demeanor", "translation": "demeanor", "note": "demeanor describes someone's outward manner or behavior"}
-{"key": "demonsteel", "word": "Demonsteel", "translation": "Demonsteel", "note": "demonsteel is the game material name, not a generic phrase"}
+{"key": "demonsteel", "word": "Demonsteel", "translation": "Demonsteel", "note": "demonsteel is the game material name, not a generic phrase", "status": "ignored"}
 {"key": "desert", "word": "desert", "translation": "desert", "note": "desert as dry land differs from desert as a verb meaning abandon"}
 {"key": "deshi", "word": "Deshi", "translation": "Deshi", "note": ""}
 {"key": "desire", "word": "desire", "translation": "desire", "note": "in what you desire to do, desire is the verb meaning want"}
@@ -78940,7 +78940,7 @@
 {"key": "obtain", "word": "Obtain", "translation": "Obtain", "note": "quest-instruction verb meaning acquire or get"}
 {"key": "ordinary", "word": "ordinary", "translation": "ordinary", "note": "ordinary means usual or unremarkable; the opposite is extraordinary"}
 {"key": "outpost", "word": "outpost", "translation": "outpost", "note": "an outpost is a remote base or settlement"}
-{"key": "outland", "word": "Outland", "translation": "Outland", "note": "official realm name; it is not simply any area outside"}
+{"key": "outland", "word": "Outland", "translation": "Outland", "note": "official realm name; it is not simply any area outside", "status": "ignored"}
 {"key": "outside", "word": "outside", "translation": "outside", "note": "outside can indicate location or direction; here it contrasts with inside"}
 {"key": "phalanxverteidigung", "word": "Phalanxverteidigung", "translation": "Phalanx defense", "note": "phalanx + Verteidigung (defense); a phalanx is a tight formation"}
 {"key": "poisonous", "word": "poisonous", "translation": "poisonous", "note": "poisonous usually means harmful when eaten or touched; venomous is typically injected"}
@@ -79917,7 +79917,7 @@
 {"key": "zeitverzerrten", "word": "zeitverzerrten", "translation": "time-distorted", "note": "inflected form of zeitverzerrt, distorted or warped by time"}
 {"key": "zeitverzerrter", "word": "Zeitverzerrter", "translation": "Timewarped", "note": "zeitverzerrt means altered or warped by time"}
 {"key": "ziegenschere", "word": "Ziegenschere", "translation": "goat shears", "note": "Ziege means goat; English uses shears for this cutting tool"}
-{"key": "zinkenwechsel", "word": "Zinkenwechsel", "translation": "Zinkenwechsel", "note": "appears to be part of an NPC name; the official English form is not confirmed"}
+{"key": "zinkenwechsel", "word": "Zinkenwechsel", "translation": "Zinkenwechsel", "note": "appears to be part of an NPC name; the official English form is not confirmed", "status": "ignored"}
 {"key": "zo'kitafrucht", "word": "Zo'kitafrucht", "translation": "Zo'kita fruit", "note": "Zo'kita is the name; Frucht means fruit"}
 {"key": "zooti", "word": "Zooti", "translation": "Zooti", "note": ""}
 {"key": "zugriffsgebühr", "word": "Zugriffsgebühr", "translation": "Access fee", "note": "Zugriff means access and Gebühr means fee or charge"}
@@ -92389,7 +92389,7 @@
 {"key": "earthservant", "word": "Earthservant", "translation": "Earthservant", "note": "English creature name", "status": "ignored"}
 {"key": "earthshaker", "word": "Earthshaker", "translation": "Earthshaker", "note": "English creature type; boss encounter", "status": "ignored"}
 {"key": "ease", "word": "ease", "translation": "ease", "note": "English word in English quest text"}
-{"key": "eastwall", "word": "Eastwall", "translation": "Eastwall", "note": "English location name; tower in Eastern Plaguelands"}
+{"key": "eastwall", "word": "Eastwall", "translation": "Eastwall", "note": "English location name; tower in Eastern Plaguelands", "status": "ignored"}
 {"key": "eater", "word": "Eater", "translation": "Eater", "note": "English word; creature epithet"}
 {"key": "ebbt", "word": "ebbt", "translation": "ebbs", "note": "ebben (to ebb/diminish) present tense; 'wrath ebbs away'"}
 {"key": "eb'n", "word": "eb'n", "translation": "just", "note": "dialect shortening of 'eben' (just/plain); casual speech form"}
