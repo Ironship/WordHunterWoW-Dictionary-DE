@@ -49763,7 +49763,7 @@
 {"key": "vrykulweiber", "word": "Vrykulweiber", "translation": "Vrykul women", "note": "vrykul (race) + weiber (women); female members of the Vrykul race"}
 {"key": "vul'gaths", "word": "Vul'gaths", "translation": "Vul'gaths", "note": ""}
 {"key": "vulca", "word": "Vulca", "translation": "Vulca", "note": ""}
-{"key": "vun'zarah", "word": "Vun'zarah", "translation": "Vun'zarah", "note": ""}
+{"key": "vun'zarah", "word": "Vun'zarah", "translation": "Vun'zarah", "note": "", "status": "ignored"}
 {"key": "vynna", "word": "Vynna", "translation": "Vynna", "note": ""}
 {"key": "vyral", "word": "Vyral", "translation": "Vyral", "note": ""}
 {"key": "vyrins", "word": "Vyrins", "translation": "Vyrins", "note": ""}
@@ -49806,7 +49806,7 @@
 {"key": "waldgeist", "word": "Waldgeist", "translation": "forest spirit", "note": "wald (forest) + geist (spirit); supernatural being of the woods"}
 {"key": "waldrands", "word": "Waldrands", "translation": "forest edge", "note": "wald (forest) + rand (edge); the boundary or border of a forest"}
 {"key": "walhai", "word": "Walhai", "translation": "whale shark", "note": "wal (whale) + hai (shark); a large marine animal"}
-{"key": "walpole", "word": "Walpole", "translation": "Walpole", "note": ""}
+{"key": "walpole", "word": "Walpole", "translation": "Walpole", "note": "", "status": "ignored"}
 {"key": "wanderers", "word": "Wanderers", "translation": "Wanderers", "note": ""}
 {"key": "wanderschmied", "word": "Wanderschmied", "translation": "traveling blacksmith", "note": "wander- (wandering) + schmied (blacksmith); itinerant metalworker"}
 {"key": "wandleuchten", "word": "Wandleuchten", "translation": "wall lights", "note": "wand (wall) + leuchten (lights); fixtures for lighting mounted on walls"}
@@ -49828,7 +49828,7 @@
 {"key": "wascht", "word": "wascht", "translation": "washes", "note": "present tense of waschen (to wash); cleans with water"}
 {"key": "wasserweg", "word": "Wasserweg", "translation": "waterway", "note": "wasser (water) + weg (way); a route traveled by water"}
 {"key": "waten", "word": "waten", "translation": "wade", "note": "from waten or watt; walk through water or shallow liquid"}
-{"key": "watoosun", "word": "Watoosun", "translation": "Watoosun", "note": ""}
+{"key": "watoosun", "word": "Watoosun", "translation": "Watoosun", "note": "", "status": "ignored"}
 {"key": "wauwauleuten", "word": "Wauwauleuten", "translation": "Wauwauleuten", "note": ""}
 {"key": "way", "word": "way", "translation": "way", "note": "English word; unchanged in German text"}
 {"key": "wayne", "word": "Wayne", "translation": "Wayne", "note": ""}
@@ -50168,8 +50168,8 @@
 {"key": "zaunpfahl", "word": "Zaunpfahl", "translation": "fence post", "note": "fence post support"}
 {"key": "zaxxis", "word": "Zaxxis", "translation": "Zaxxis", "note": ""}
 {"key": "zawadi", "word": "Zawadi", "translation": "Zawadi", "note": ""}
-{"key": "zeb'halak", "word": "Zeb'Halak", "translation": "Zeb'Halak", "note": ""}
-{"key": "zeb'watha", "word": "Zeb'Watha", "translation": "Zeb'Watha", "note": ""}
+{"key": "zeb'halak", "word": "Zeb'Halak", "translation": "Zeb'Halak", "note": "", "status": "ignored"}
+{"key": "zeb'watha", "word": "Zeb'Watha", "translation": "Zeb'Watha", "note": "", "status": "ignored"}
 {"key": "zeche", "word": "Zeche", "translation": "mine", "note": "coal mine site"}
 {"key": "zecken", "word": "Zecken", "translation": "parasites", "note": "parasitic bloodsuckers"}
 {"key": "zeh", "word": "Zeh", "translation": "toe", "note": "foot digit or toe"}
@@ -50178,7 +50178,7 @@
 {"key": "zehnfache", "word": "Zehnfache", "translation": "Tenfold", "note": "times ten noun"}
 {"key": "zehnmal", "word": "zehnmal", "translation": "ten times", "note": "ten times"}
 {"key": "zehnfachen", "word": "zehnfachen", "translation": "tenfold", "note": "tenfold form"}
-{"key": "zei'ka", "word": "Zei'ka", "translation": "Zei'ka", "note": ""}
+{"key": "zei'ka", "word": "Zei'ka", "translation": "Zei'ka", "note": "", "status": "ignored"}
 {"key": "zeigefinger", "word": "Zeigefinger", "translation": "Index finger", "note": "pointer finger"}
 {"key": "zeitenfluss", "word": "Zeitenfluss", "translation": "timeflow", "note": "flow of time"}
 {"key": "zeitenschmied", "word": "Zeitenschmied", "translation": "Timesmith", "note": "time smith worker"}
@@ -50259,11 +50259,11 @@
 {"key": "zieren", "word": "zieren", "translation": "adorn", "note": "to adorn"}
 {"key": "zigartigen", "word": "zigartigen", "translation": "peculiar", "note": ""}
 {"key": "zignibbel", "word": "Zignibbel", "translation": "Zignibble", "note": ""}
-{"key": "zim'bo", "word": "Zim'bo", "translation": "Zim'bo", "note": ""}
-{"key": "zim'torga", "word": "Zim'Torga", "translation": "Zim'Torga", "note": ""}
+{"key": "zim'bo", "word": "Zim'bo", "translation": "Zim'bo", "note": "", "status": "ignored"}
+{"key": "zim'torga", "word": "Zim'Torga", "translation": "Zim'Torga", "note": "", "status": "ignored"}
 {"key": "zimto", "word": "Zimto", "translation": "Cinnamon", "note": ""}
 {"key": "zin'anthiden", "word": "Zin'anthiden", "translation": "Zin'anthids", "note": ""}
-{"key": "zin'jatar", "word": "Zin'jatar", "translation": "Zin'jatar", "note": ""}
+{"key": "zin'jatar", "word": "Zin'jatar", "translation": "Zin'jatar", "note": "", "status": "ignored"}
 {"key": "zinke", "word": "Zinke", "translation": "prong", "note": ""}
 {"key": "zinkens", "word": "Zinkens", "translation": "Zinkens", "note": ""}
 {"key": "zipfel", "word": "Zipfel", "translation": "tip", "note": ""}
@@ -50279,19 +50279,19 @@
 {"key": "zitternder", "word": "zitternder", "translation": "trembling", "note": "shaking fear"}
 {"key": "zivilen", "word": "zivilen", "translation": "civilian", "note": "civilian matters"}
 {"key": "zivilist'n", "word": "Zivilist'n", "translation": "Civilians", "note": "common people"}
-{"key": "zo'rau", "word": "Zo'rau", "translation": "Zo'rau", "note": ""}
+{"key": "zo'rau", "word": "Zo'rau", "translation": "Zo'rau", "note": "", "status": "ignored"}
 {"key": "zobelhörner", "word": "Zobelhörner", "translation": "Sable horns", "note": "dark horns"}
 {"key": "zobelmähnes", "word": "Zobelmähnes", "translation": "Sable Mane", "note": "dark maned"}
-{"key": "zol'heb", "word": "Zol'Heb", "translation": "Zol'Heb", "note": ""}
-{"key": "zoltrik", "word": "Zoltrik", "translation": "Zoltrik", "note": ""}
+{"key": "zol'heb", "word": "Zol'Heb", "translation": "Zol'Heb", "note": "", "status": "ignored"}
+{"key": "zoltrik", "word": "Zoltrik", "translation": "Zoltrik", "note": "", "status": "ignored"}
 {"key": "zooey", "word": "Zooey", "translation": "Zooey", "note": ""}
 {"key": "zorak", "word": "Zorak", "translation": "Zorak", "note": ""}
-{"key": "zoralek", "word": "Zoralek", "translation": "Zoralek", "note": ""}
+{"key": "zoralek", "word": "Zoralek", "translation": "Zoralek", "note": "", "status": "ignored"}
 {"key": "zorammarsch", "word": "Zorammarsch", "translation": "Zoram March", "note": ""}
 {"key": "zoramstrandes", "word": "Zoramstrandes", "translation": "Zoramstrandes", "note": ""}
 {"key": "zorniges", "word": "Zorniges", "translation": "Angry", "note": ""}
 {"key": "zornwirker", "word": "Zornwirker", "translation": "Wrathcaster", "note": ""}
-{"key": "zouchin", "word": "Zouchin", "translation": "Zouchin", "note": ""}
+{"key": "zouchin", "word": "Zouchin", "translation": "Zouchin", "note": "", "status": "ignored"}
 {"key": "zsch", "word": "zsch", "translation": "zsh", "note": ""}
 {"key": "zubeisst", "word": "zubeißt", "translation": "bites", "note": "bites teeth"}
 {"key": "zubereitete", "word": "zubereitete", "translation": "prepared", "note": "prepared ahead"}
@@ -50308,7 +50308,7 @@
 {"key": "zugänge", "word": "Zugänge", "translation": "approaches", "note": ""}
 {"key": "zugüberfall", "word": "Zugüberfall", "translation": "robbery", "note": "train heist"}
 {"key": "zuhauses", "word": "Zuhauses", "translation": "home", "note": "at home"}
-{"key": "zul'nazman", "word": "Zul'Nazman", "translation": "Zul'Nazman", "note": ""}
+{"key": "zul'nazman", "word": "Zul'Nazman", "translation": "Zul'Nazman", "note": "", "status": "ignored"}
 {"key": "zul'mashars", "word": "Zul'Mashars", "translation": "Zul'Mashars", "note": ""}
 {"key": "zulauf", "word": "Zulauf", "translation": "influx", "note": "surge influx"}
 {"key": "zulaufen", "word": "zulaufen", "translation": "run up to; approach", "note": "verb: to rush toward or approach, not merely directional"}
@@ -50911,7 +50911,7 @@
 {"key": "adelshauses", "word": "Adelshauses", "translation": "noble house's; house of nobles", "note": "genitive; possessive form showing belonging to a noble family"}
 {"key": "adelshäuser", "word": "Adelshäuser", "translation": "noble houses; aristocratic families", "note": "plural; multiple families of noble rank"}
 {"key": "adelsviertel", "word": "Adelsviertel", "translation": "noble district; aristocratic quarter", "note": "compound: adels (noble) + viertel (district/quarter)"}
-{"key": "adenedal", "word": "Adenedal", "translation": "Adenedal", "note": ""}
+{"key": "adenedal", "word": "Adenedal", "translation": "Adenedal", "note": "", "status": "ignored"}
 {"key": "adept", "word": "Adept", "translation": "adept", "note": "a rank or level of skill, especially in magical training"}
 {"key": "adeptenrings", "word": "Adeptenrings", "translation": "adept rings", "note": "adept (apprentice/student) + ring; plural or possessive compound"}
 {"key": "aderan", "word": "Aderan", "translation": "Aderan", "note": ""}

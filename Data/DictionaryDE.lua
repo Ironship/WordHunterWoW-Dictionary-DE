@@ -1318,7 +1318,7 @@ WordHunterWoW_Dictionary_DE["adelshauses"] = { word = "Adelshauses", translation
 WordHunterWoW_Dictionary_DE["adelshäuser"] = { word = "Adelshäuser", translation = "noble houses; aristocratic families", note = "plural; multiple families of noble rank" }
 WordHunterWoW_Dictionary_DE["adelsviertel"] = { word = "Adelsviertel", translation = "noble district; aristocratic quarter", note = "compound: adels (noble) + viertel (district/quarter)" }
 WordHunterWoW_Dictionary_DE["aden"] = { word = "Aden", translation = "Aden", note = "" }
-WordHunterWoW_Dictionary_DE["adenedal"] = { word = "Adenedal", translation = "Adenedal", note = "" }
+WordHunterWoW_Dictionary_DE["adenedal"] = { word = "Adenedal", translation = "Adenedal", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["adept"] = { word = "Adept", translation = "adept", note = "a rank or level of skill, especially in magical training" }
 WordHunterWoW_Dictionary_DE["adepten"] = { word = "Adepten", translation = "adepts", note = "" }
 WordHunterWoW_Dictionary_DE["adeptenrings"] = { word = "Adeptenrings", translation = "adept rings", note = "adept (apprentice/student) + ring; plural or possessive compound" }
@@ -95290,7 +95290,7 @@ WordHunterWoW_Dictionary_DE["vulpin"] = { word = "Vulpin", translation = "vulpin
 WordHunterWoW_Dictionary_DE["vulpinfell"] = { word = "Vulpinfell", translation = "vulpine fur", note = "vulpin is foxlike; Fell means fur" }
 WordHunterWoW_Dictionary_DE["vulpinjunge"] = { word = "Vulpinjunge", translation = "vulpine boy", note = "compound: vulpin (vulpine) + junge (boy)" }
 WordHunterWoW_Dictionary_DE["vulpinjunges"] = { word = "Vulpinjunges", translation = "vulpine kit", note = "kit = young animal; dialectal or WoW-specific for young vulpine" }
-WordHunterWoW_Dictionary_DE["vun'zarah"] = { word = "Vun'zarah", translation = "Vun'zarah", note = "" }
+WordHunterWoW_Dictionary_DE["vun'zarah"] = { word = "Vun'zarah", translation = "Vun'zarah", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["vunvun"] = { word = "VunVun", translation = "VunVun", note = "proper name", status = "ignored" }
 WordHunterWoW_Dictionary_DE["vureem"] = { word = "Vureem", translation = "Vureem", note = "proper noun: npc name", status = "ignored" }
 WordHunterWoW_Dictionary_DE["vurenn"] = { word = "Vurenn", translation = "Vurenn", note = "proper name", status = "ignored" }
@@ -95823,7 +95823,7 @@ WordHunterWoW_Dictionary_DE["wallung"] = { word = "Wallung", translation = "surg
 WordHunterWoW_Dictionary_DE["wallungen"] = { word = "Wallungen", translation = "surges", note = "wallung (surge/swelling) + -en plural; emotional or magical surges" }
 WordHunterWoW_Dictionary_DE["walnuss"] = { word = "Walnuss", translation = "walnut", note = "wal (foreign/walnut tree) + nuss (nut); the tree nut" }
 WordHunterWoW_Dictionary_DE["walplauze"] = { word = "Walplauze", translation = "Walplauze", note = "" }
-WordHunterWoW_Dictionary_DE["walpole"] = { word = "Walpole", translation = "Walpole", note = "" }
+WordHunterWoW_Dictionary_DE["walpole"] = { word = "Walpole", translation = "Walpole", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["walrossmuffin"] = { word = "Walrossmuffin", translation = "walrus muffin", note = "walrus + muffin; a food item, likely absurdist WoW flavor text" }
 WordHunterWoW_Dictionary_DE["walrossstadt"] = { word = "Walrossstadt", translation = "Walrus City", note = "walross (walrus) + stadt (city); location name" }
 WordHunterWoW_Dictionary_DE["walrus-leute"] = { word = "Walrus-Leute", translation = "walrus people", note = "walrus (walrus) + leute (people); humanoid walrus creatures" }
@@ -96254,7 +96254,7 @@ WordHunterWoW_Dictionary_DE["water"] = { word = "Water", translation = "water", 
 WordHunterWoW_Dictionary_DE["waterseer"] = { word = "Waterseer", translation = "Waterseer", note = "NPC name; seer of water/weather" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["watet"] = { word = "Watet", translation = "wade", note = "imperative of waten (to wade); walk through shallow water" }
 WordHunterWoW_Dictionary_DE["watete"] = { word = "watete", translation = "waded", note = "past tense of waten (to wade); walked through water or mud" }
-WordHunterWoW_Dictionary_DE["watoosun"] = { word = "Watoosun", translation = "Watoosun", note = "" }
+WordHunterWoW_Dictionary_DE["watoosun"] = { word = "Watoosun", translation = "Watoosun", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["watoosuns"] = { word = "Watoosuns", translation = "Watoosun", note = "" }
 WordHunterWoW_Dictionary_DE["watschel"] = { word = "Watschel", translation = "Waddle", note = "" }
 WordHunterWoW_Dictionary_DE["watscheln"] = { word = "watscheln", translation = "waddle", note = "to move with short steps side to side, like a duck; from Watsche (slap)" }
@@ -100363,12 +100363,12 @@ WordHunterWoW_Dictionary_DE["zazzo"] = { word = "Zazzo", translation = "Zazzo", 
 WordHunterWoW_Dictionary_DE["ze'erik"] = { word = "Ze'erik", translation = "Ze'erik", note = "" }
 WordHunterWoW_Dictionary_DE["zeb'ahari"] = { word = "Zeb'ahari", translation = "Zeb'ahari", note = "Zandalari troll settlement in Zandalar" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["zeb'aharis"] = { word = "Zeb'aharis", translation = "Zeb'aharis", note = "" }
-WordHunterWoW_Dictionary_DE["zeb'halak"] = { word = "Zeb'Halak", translation = "Zeb'Halak", note = "" }
+WordHunterWoW_Dictionary_DE["zeb'halak"] = { word = "Zeb'Halak", translation = "Zeb'Halak", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["zeb'nowa"] = { word = "Zeb'Nowa", translation = "Zeb'nova", note = "" }
 WordHunterWoW_Dictionary_DE["zeb'sora"] = { word = "Zeb'Sora", translation = "Zeb'Sora", note = "proper noun: location or faction name", status = "ignored" }
 WordHunterWoW_Dictionary_DE["zeb'tela"] = { word = "Zeb'Tela", translation = "Zeb'Tela", note = "forest shadow troll village" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["zeb'tula"] = { word = "Zeb'tula", translation = "Zeb'tula", note = "" }
-WordHunterWoW_Dictionary_DE["zeb'watha"] = { word = "Zeb'Watha", translation = "Zeb'Watha", note = "" }
+WordHunterWoW_Dictionary_DE["zeb'watha"] = { word = "Zeb'Watha", translation = "Zeb'Watha", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["zeche"] = { word = "Zeche", translation = "mine", note = "coal mine site" }
 WordHunterWoW_Dictionary_DE["zechen"] = { word = "zechen", translation = "carouse", note = "means to drink, party, or make merry; often with excess or abandon" }
 WordHunterWoW_Dictionary_DE["zecken"] = { word = "Zecken", translation = "parasites", note = "parasitic bloodsuckers" }
@@ -100408,7 +100408,7 @@ WordHunterWoW_Dictionary_DE["zehntherrn"] = { word = "Zehntherrn", translation =
 WordHunterWoW_Dictionary_DE["zehntherrns"] = { word = "Zehntherrns", translation = "tithe lords", note = "compound: Zehn (tenth/tithe) + Herrn (lords); those who collect tithes" }
 WordHunterWoW_Dictionary_DE["zehren"] = { word = "zehren", translation = "drain", note = "to consume or waste away; gnaw at gradually" }
 WordHunterWoW_Dictionary_DE["zehrt"] = { word = "zehrt", translation = "drains", note = "" }
-WordHunterWoW_Dictionary_DE["zei'ka"] = { word = "Zei'ka", translation = "Zei'ka", note = "" }
+WordHunterWoW_Dictionary_DE["zei'ka"] = { word = "Zei'ka", translation = "Zei'ka", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["zeich'n"] = { word = "Zeich'n", translation = "incite", note = "contraction of zeichen (sign); to provoke or instigate" }
 WordHunterWoW_Dictionary_DE["zeichen"] = { word = "Zeichen", translation = "sign; symbol", note = "can mean sign, signal, mark, or symbol" }
 WordHunterWoW_Dictionary_DE["zeichenbrett"] = { word = "Zeichenbrett", translation = "drawing board", note = "idiom: 'back to the drawing board' means to restart or reconsider an approach" }
@@ -101283,11 +101283,11 @@ WordHunterWoW_Dictionary_DE["zillie"] = { word = "Zillie", translation = "Zillie
 WordHunterWoW_Dictionary_DE["zilzibin"] = { word = "Zilzibin", translation = "Zilzibin", note = "" }
 WordHunterWoW_Dictionary_DE["zim'abwa"] = { word = "Zim'Abwa", translation = "Zim'Abwa", note = "Zandalari blessing or ritual name", status = "ignored" }
 WordHunterWoW_Dictionary_DE["zim'abwas"] = { word = "Zim'Abwas", translation = "Zim'Abwas", note = "" }
-WordHunterWoW_Dictionary_DE["zim'bo"] = { word = "Zim'bo", translation = "Zim'bo", note = "" }
+WordHunterWoW_Dictionary_DE["zim'bo"] = { word = "Zim'bo", translation = "Zim'bo", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["zim'bos"] = { word = "Zim'bos", translation = "Zim'bos", note = "" }
 WordHunterWoW_Dictionary_DE["zim'rhuk"] = { word = "Zim'Rhuk", translation = "Zim'Rhuk", note = "proper noun: location or blessing name", status = "ignored" }
 WordHunterWoW_Dictionary_DE["zim'rhuks"] = { word = "Zim'Rhuks", translation = "Zim'Rhuks", note = "" }
-WordHunterWoW_Dictionary_DE["zim'torga"] = { word = "Zim'Torga", translation = "Zim'Torga", note = "" }
+WordHunterWoW_Dictionary_DE["zim'torga"] = { word = "Zim'Torga", translation = "Zim'Torga", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["zim'torgas"] = { word = "Zim'Torgas", translation = "Zim'Torgas", note = "" }
 WordHunterWoW_Dictionary_DE["zimmer"] = { word = "Zimmer", translation = "room", note = "lowercase common noun" }
 WordHunterWoW_Dictionary_DE["zimmergenossen"] = { word = "Zimmergenossen", translation = "roommates; bunkmates", note = "zimmer (room) + genossen (companions); plural; people sharing lodging" }
@@ -101300,7 +101300,7 @@ WordHunterWoW_Dictionary_DE["zimperliche"] = { word = "zimperliche", translation
 WordHunterWoW_Dictionary_DE["zimto"] = { word = "Zimto", translation = "Cinnamon", note = "" }
 WordHunterWoW_Dictionary_DE["zin'anthide"] = { word = "Zin'anthide", translation = "Zin'anthide", note = "" }
 WordHunterWoW_Dictionary_DE["zin'anthiden"] = { word = "Zin'anthiden", translation = "Zin'anthids", note = "" }
-WordHunterWoW_Dictionary_DE["zin'jatar"] = { word = "Zin'jatar", translation = "Zin'jatar", note = "" }
+WordHunterWoW_Dictionary_DE["zin'jatar"] = { word = "Zin'jatar", translation = "Zin'jatar", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["zin'jun"] = { word = "Zin'Jun", translation = "Zin'Jun", note = "proper noun: location name with apostrophe", status = "ignored" }
 WordHunterWoW_Dictionary_DE["zin'juns"] = { word = "Zin'Juns", translation = "Zin'Juns", note = "" }
 WordHunterWoW_Dictionary_DE["zin'malor"] = { word = "Zin'malor", translation = "Zin'malor", note = "" }
@@ -101436,7 +101436,7 @@ WordHunterWoW_Dictionary_DE["zo'kitafrucht"] = { word = "Zo'kitafrucht", transla
 WordHunterWoW_Dictionary_DE["zo'kitafrüchte"] = { word = "Zo'kitafrüchte", translation = "Zo'kita fruits", note = "Zo'kita + Früchte (fruits); the compound is plural" }
 WordHunterWoW_Dictionary_DE["zo'kitafrüchten"] = { word = "Zo'kitafrüchten", translation = "Zo'kita fruit", note = "highly toxic substance" }
 WordHunterWoW_Dictionary_DE["zo'rak"] = { word = "Zo'rak", translation = "Zo'rak", note = "" }
-WordHunterWoW_Dictionary_DE["zo'rau"] = { word = "Zo'rau", translation = "Zo'rau", note = "" }
+WordHunterWoW_Dictionary_DE["zo'rau"] = { word = "Zo'rau", translation = "Zo'rau", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["zo'ropo"] = { word = "Zo'ropo", translation = "Zo'ropo", note = "" }
 WordHunterWoW_Dictionary_DE["zo'shuulwarte"] = { word = "Zo'Shuulwarte", translation = "Zo'Shuulwarte", note = "location name; warte means watchtower", status = "ignored" }
 WordHunterWoW_Dictionary_DE["zo'sorg"] = { word = "Zo'Sorg", translation = "Zo'Sorg", note = "proper name; realm or entity name in shadowlands", status = "ignored" }
@@ -101457,7 +101457,7 @@ WordHunterWoW_Dictionary_DE["zogen"] = { word = "zogen", translation = "moved", 
 WordHunterWoW_Dictionary_DE["zogga-truppe"] = { word = "ZOGGA-Truppe", translation = "ZOGGA troupe; ZOGGA unit", note = "acronym: Zasterorientierte Organisation (Zaster-oriented organization); military group" }
 WordHunterWoW_Dictionary_DE["zoketh"] = { word = "Zoketh", translation = "Zoketh", note = "" }
 WordHunterWoW_Dictionary_DE["zoko"] = { word = "Zoko", translation = "Zoko", note = "" }
-WordHunterWoW_Dictionary_DE["zol'heb"] = { word = "Zol'Heb", translation = "Zol'Heb", note = "" }
+WordHunterWoW_Dictionary_DE["zol'heb"] = { word = "Zol'Heb", translation = "Zol'Heb", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["zol'maz"] = { word = "Zol'Maz", translation = "Zol'Maz", note = "fortress location (Zol'Maz)" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["zolani"] = { word = "Zolani", translation = "Zolani", note = "" }
 WordHunterWoW_Dictionary_DE["zolanis"] = { word = "Zolanis", translation = "Zolanis", note = "" }
@@ -101468,7 +101468,7 @@ WordHunterWoW_Dictionary_DE["zollen"] = { word = "zollen", translation = "pay tr
 WordHunterWoW_Dictionary_DE["zollt"] = { word = "zollt", translation = "pays tribute", note = "pays tribute or shows respect" }
 WordHunterWoW_Dictionary_DE["zolo"] = { word = "Zolo", translation = "Zolo", note = "" }
 WordHunterWoW_Dictionary_DE["zoltan"] = { word = "Zoltan", translation = "Zoltan", note = "" }
-WordHunterWoW_Dictionary_DE["zoltrik"] = { word = "Zoltrik", translation = "Zoltrik", note = "" }
+WordHunterWoW_Dictionary_DE["zoltrik"] = { word = "Zoltrik", translation = "Zoltrik", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["zombie"] = { word = "Zombie", translation = "zombie", note = "undead creature; common in gaming and WoW" }
 WordHunterWoW_Dictionary_DE["zombieexemplare"] = { word = "Zombieexemplare", translation = "zombie specimens", note = "zombie + exemplare (specimens/examples); undead test subjects" }
 WordHunterWoW_Dictionary_DE["zombiegehirns"] = { word = "Zombiegehirns", translation = "Zombie brain", note = "zombie brain; undead creature's organ" }
@@ -101492,7 +101492,7 @@ WordHunterWoW_Dictionary_DE["zor'be"] = { word = "Zor'be", translation = "Zor'be
 WordHunterWoW_Dictionary_DE["zor'thaduun"] = { word = "Zor'thaduun", translation = "Zor'thaduun", note = "" }
 WordHunterWoW_Dictionary_DE["zora"] = { word = "Zora", translation = "Zora", note = "" }
 WordHunterWoW_Dictionary_DE["zorak"] = { word = "Zorak", translation = "Zorak", note = "" }
-WordHunterWoW_Dictionary_DE["zoralek"] = { word = "Zoralek", translation = "Zoralek", note = "" }
+WordHunterWoW_Dictionary_DE["zoralek"] = { word = "Zoralek", translation = "Zoralek", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["zoram"] = { word = "Zoram", translation = "Zoram", note = "proper noun; location or character name in WoW", status = "ignored" }
 WordHunterWoW_Dictionary_DE["zoram'gar"] = { word = "Zoram'gar", translation = "Zoram'gar", note = "proper noun: location name in World of Warcraft", status = "ignored" }
 WordHunterWoW_Dictionary_DE["zoram'gar-aussenposten"] = { word = "Zoram'gar-Außenposten", translation = "Zoram'gar Outpost", note = "compound: Zoram'gar (base name) + Außenposten (outpost); official location name" }
@@ -101600,7 +101600,7 @@ WordHunterWoW_Dictionary_DE["zottelkappe"] = { word = "Zottelkappe", translation
 WordHunterWoW_Dictionary_DE["zottelpelze"] = { word = "Zottelpelze", translation = "Shaggy Furs", note = "creature name; literally shaggy + furs/pelts; plural" }
 WordHunterWoW_Dictionary_DE["zottige"] = { word = "zottige", translation = "shaggy", note = "accusative feminine form; describes something shaggy or disheveled" }
 WordHunterWoW_Dictionary_DE["zottiger"] = { word = "Zottiger", translation = "Shaggy", note = "used as NPC name or creature epithet; from adjective zottig" }
-WordHunterWoW_Dictionary_DE["zouchin"] = { word = "Zouchin", translation = "Zouchin", note = "" }
+WordHunterWoW_Dictionary_DE["zouchin"] = { word = "Zouchin", translation = "Zouchin", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["zovaal"] = { word = "Zovaal", translation = "Zovaal", note = "" }
 WordHunterWoW_Dictionary_DE["zovaals"] = { word = "Zovaals", translation = "Zovaal's", note = "WoW proper noun (location name, possessive)" }
 WordHunterWoW_Dictionary_DE["zovax"] = { word = "Zovax", translation = "Zovax", note = "proper name (NPC/outpost)", status = "ignored" }
@@ -101900,7 +101900,7 @@ WordHunterWoW_Dictionary_DE["zul'marosh"] = { word = "Zul'Marosh", translation =
 WordHunterWoW_Dictionary_DE["zul'maroshs"] = { word = "Zul'Maroshs", translation = "Zul'Marosh's", note = "genitive possessive: Zul'Marosh's" }
 WordHunterWoW_Dictionary_DE["zul'mashar"] = { word = "Zul'Mashar", translation = "Zul'Mashar", note = "location name in Zul'Drak" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["zul'mashars"] = { word = "Zul'Mashars", translation = "Zul'Mashars", note = "" }
-WordHunterWoW_Dictionary_DE["zul'nazman"] = { word = "Zul'Nazman", translation = "Zul'Nazman", note = "" }
+WordHunterWoW_Dictionary_DE["zul'nazman"] = { word = "Zul'Nazman", translation = "Zul'Nazman", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["zul'tan"] = { word = "Zul'tan", translation = "Zul'tan", note = "character name; not translatable" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["zul'tore"] = { word = "Zul'tore", translation = "Zul'tore", note = "proper name (NPC); troll fighter/champion", status = "ignored" }
 WordHunterWoW_Dictionary_DE["zulajin"] = { word = "Zulajin", translation = "Zulajin", note = "" }
