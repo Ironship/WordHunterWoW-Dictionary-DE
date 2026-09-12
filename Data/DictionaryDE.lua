@@ -14291,7 +14291,7 @@ WordHunterWoW_Dictionary_DE["bumm-bumm-pulver"] = { word = "Bumm-Bumm-Pulver", t
 WordHunterWoW_Dictionary_DE["bummballon"] = { word = "Bummballon", translation = "boom balloon", note = "playful compound: Bumm (boom) + Ballon (balloon)" }
 WordHunterWoW_Dictionary_DE["bummbomben"] = { word = "Bummbomben", translation = "boom bombs", note = "bumm is German onomatopoeia for explosion + bombs" }
 WordHunterWoW_Dictionary_DE["bummbots"] = { word = "Bummbots", translation = "Boombots", note = "creatures created by Dr. Bumm (Bumm = boom sound)" }
-WordHunterWoW_Dictionary_DE["bummbumm"] = { word = "Bummbumm", translation = "Bummbumm", note = "character name with a repeated boom-like sound" }
+WordHunterWoW_Dictionary_DE["bummbumm"] = { word = "Bummbumm", translation = "Bummbumm", note = "character name with a repeated boom-like sound", status = "ignored" }
 WordHunterWoW_Dictionary_DE["bummelgau"] = { word = "Bummelgau", translation = "Bummelgau", note = "proper location name", status = "ignored" }
 WordHunterWoW_Dictionary_DE["bummelgaumooswolle"] = { word = "Bummelgaumooswolle", translation = "Bummelgau moss wool", note = "literal compound; the official English name is unconfirmed" }
 WordHunterWoW_Dictionary_DE["bummelgaumooswollen"] = { word = "Bummelgaumooswollen", translation = "Bummelgau moss wools", note = "plural of Bummelgau moss wool; the official English name is unconfirmed" }
@@ -36535,7 +36535,7 @@ WordHunterWoW_Dictionary_DE["grmlgrlrs"] = { word = "Grmlgrlrs", translation = "
 WordHunterWoW_Dictionary_DE["grmm"] = { word = "grmm", translation = "grmm", note = "" }
 WordHunterWoW_Dictionary_DE["grmmurggll"] = { word = "Grmmurggll", translation = "Grmmurgggll", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["grmrglmrl"] = { word = "Grmrglmrl", translation = "Grmrglmrl", note = "Murloc speech; untranslatable", status = "ignored" }
-WordHunterWoW_Dictionary_DE["gro"] = { word = "Gro", translation = "Gro", note = "Magnaron name" }
+WordHunterWoW_Dictionary_DE["gro"] = { word = "Gro", translation = "Gro", note = "Magnaron name", status = "ignored" }
 WordHunterWoW_Dictionary_DE["gro'tash"] = { word = "Gro'tash", translation = "Gro'tash", note = "Orc NPC name" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["grob"] = { word = "grob", translation = "rough", note = "coarse or crude; ungefein treatment or unpolished" }
 WordHunterWoW_Dictionary_DE["grobash"] = { word = "Grobash", translation = "Grobash", note = "WoW orc NPC name; military scout/spy in lore" , status = "ignored" }
@@ -38291,7 +38291,7 @@ WordHunterWoW_Dictionary_DE["hanniston"] = { word = "Hanniston", translation = "
 WordHunterWoW_Dictionary_DE["hannval"] = { word = "Hannval", translation = "Hannval", note = "" }
 WordHunterWoW_Dictionary_DE["hano'mon"] = { word = "Hano'mon", translation = "Hano'mon", note = "" }
 WordHunterWoW_Dictionary_DE["hanoa"] = { word = "Hanoa", translation = "Hanoa", note = "proper name; NPC character", status = "ignored" }
-WordHunterWoW_Dictionary_DE["hans"] = { word = "Hans", translation = "Hans", note = "given name; appears in 'Ambassador Hans' title" }
+WordHunterWoW_Dictionary_DE["hans"] = { word = "Hans", translation = "Hans", note = "given name; appears in 'Ambassador Hans' title", status = "ignored" }
 WordHunterWoW_Dictionary_DE["hansel"] = { word = "Hansel", translation = "Hansel", note = "NPC name" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["hansels"] = { word = "Hansels", translation = "Hansel's", note = "possessive proper noun; fist used to measure jewel sizes" }
 WordHunterWoW_Dictionary_DE["hansen"] = { word = "Hansen", translation = "Hansen", note = "proper name; NPC surveyor", status = "ignored" }
@@ -41612,7 +41612,7 @@ WordHunterWoW_Dictionary_DE["hirschhaupts"] = { word = "Hirschhaupts", translati
 WordHunterWoW_Dictionary_DE["hirschhautsäckchen"] = { word = "Hirschhautsäckchen", translation = "deer-hide pouch", note = "compound: Hirschhaut (deer hide) + Säckchen (little sack); magical container" }
 WordHunterWoW_Dictionary_DE["hirschhorn"] = { word = "Hirschhorn", translation = "Hirschhorn", note = "NPC surname; literally deer horn, but names stay untranslated" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["hirschjagd"] = { word = "Hirschjagd", translation = "deer hunting", note = "hunt for stags or does" }
-WordHunterWoW_Dictionary_DE["hirschjäger"] = { word = "Hirschjäger", translation = "Hirschjäger", note = "tauren hunter trainer; hirsch = deer" }
+WordHunterWoW_Dictionary_DE["hirschjäger"] = { word = "Hirschjäger", translation = "Hirschjäger", note = "tauren hunter trainer; hirsch = deer", status = "ignored" }
 WordHunterWoW_Dictionary_DE["hirschmeister"] = { word = "Hirschmeister", translation = "Hirsch Master", note = "" }
 WordHunterWoW_Dictionary_DE["hirschpanzer"] = { word = "Hirschpanzer", translation = "stag shell; armored deer", note = "hirsch (stag) + panzer (armor/shell); a creature with stag-like armor plating" }
 WordHunterWoW_Dictionary_DE["hirschpanzergrotte"] = { word = "Hirschpanzergrotte", translation = "Stag-shell grotto", note = "hirsch = deer/stag; panzer = shell/armor; grotte = grotto" }
@@ -53503,7 +53503,7 @@ WordHunterWoW_Dictionary_DE["leysteinvorkommens"] = { word = "Leysteinvorkommens
 WordHunterWoW_Dictionary_DE["leystone"] = { word = "Leystone", translation = "Leystone", note = "" }
 WordHunterWoW_Dictionary_DE["leyszepter"] = { word = "Leyszepter", translation = "ley scepter", note = "Ley + Szepter (scepter); magical staff imbued with ley power" }
 WordHunterWoW_Dictionary_DE["leyverriegelte"] = { word = "Leyverriegelte", translation = "ley-locked", note = "compound: ley + verriegelt (locked); adjective modifying a chest" }
-WordHunterWoW_Dictionary_DE["leyweber"] = { word = "Leyweber", translation = "Leyweber", note = "ley weaver; title or character name" }
+WordHunterWoW_Dictionary_DE["leyweber"] = { word = "Leyweber", translation = "Leyweber", note = "ley weaver; title or character name", status = "ignored" }
 WordHunterWoW_Dictionary_DE["leyweberin"] = { word = "Leyweberin", translation = "Leyweaver", note = "leyweberin combines Ley and weaver; English does not mark the feminine" }
 WordHunterWoW_Dictionary_DE["leywurminnereien"] = { word = "Leywurminnereien", translation = "leyworm innards", note = "leywurm (leyworm creature) + innereien (innards/entrails); creature parts" }
 WordHunterWoW_Dictionary_DE["leywurmkerne"] = { word = "Leywurmkerne", translation = "leyworm cores", note = "leywurm + kerne (cores/seeds/kernels); organic cores from dead leyworms" }
@@ -56196,7 +56196,7 @@ WordHunterWoW_Dictionary_DE["martha"] = { word = "Martha", translation = "Martha
 WordHunterWoW_Dictionary_DE["marthand"] = { word = "Marthand", translation = "Marthand", note = "proper name: NPC", status = "ignored" }
 WordHunterWoW_Dictionary_DE["martie"] = { word = "Martie", translation = "Martie", note = "NPC name" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["martik"] = { word = "Martik", translation = "Martik", note = "" }
-WordHunterWoW_Dictionary_DE["martin"] = { word = "Martin", translation = "Martin", note = "common human name or character" }
+WordHunterWoW_Dictionary_DE["martin"] = { word = "Martin", translation = "Martin", note = "common human name or character", status = "ignored" }
 WordHunterWoW_Dictionary_DE["martinek"] = { word = "Martinek", translation = "Martinek", note = "" }
 WordHunterWoW_Dictionary_DE["martini"] = { word = "Martini", translation = "Martini", note = "proper name; NPC or character", status = "ignored" }
 WordHunterWoW_Dictionary_DE["marty"] = { word = "Marty", translation = "Marty", note = "proper name", status = "ignored" }
@@ -76169,7 +76169,7 @@ WordHunterWoW_Dictionary_DE["scyllis"] = { word = "Scyllis", translation = "Scyl
 WordHunterWoW_Dictionary_DE["scythiden"] = { word = "Scythiden", translation = "Scythids", note = "alien insectoid creatures; official WoW term" }
 WordHunterWoW_Dictionary_DE["se"] = { word = "se", translation = "them", note = "dialectal shortened form of sie" }
 WordHunterWoW_Dictionary_DE["se'en"] = { word = "se'en", translation = "seen", note = "colloquial contraction; dialectal past participle" }
-WordHunterWoW_Dictionary_DE["se'jib"] = { word = "Se'Jib", translation = "Se'Jib", note = "tauren shaman; tribal name" }
+WordHunterWoW_Dictionary_DE["se'jib"] = { word = "Se'Jib", translation = "Se'Jib", note = "tauren shaman; tribal name", status = "ignored" }
 WordHunterWoW_Dictionary_DE["seamus"] = { word = "Seamus", translation = "Seamus", note = "proper Irish name", status = "ignored" }
 WordHunterWoW_Dictionary_DE["sean"] = { word = "Sean", translation = "Sean", note = "proper Irish name", status = "ignored" }
 WordHunterWoW_Dictionary_DE["seat"] = { word = "Seat", translation = "Seat", note = "in Seat of Knowledge, Seat is a formal place-name component" , status = "ignored" }
@@ -77422,7 +77422,7 @@ WordHunterWoW_Dictionary_DE["sharisanda"] = { word = "Sharisanda", translation =
 WordHunterWoW_Dictionary_DE["sharlindra"] = { word = "Sharlindra", translation = "Sharlindra", note = "blood elf NPC; crown bearer" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["sharnax"] = { word = "Sharnax", translation = "Sharnax", note = "NPC proper name (elemental)", status = "ignored" }
 WordHunterWoW_Dictionary_DE["sharon"] = { word = "Sharon", translation = "Sharon", note = "NPC name; leave unchanged" , status = "ignored" }
-WordHunterWoW_Dictionary_DE["sharpclaw"] = { word = "Sharpclaw", translation = "Sharpclaw", note = "tauren chief; sharp-clawed fighter" }
+WordHunterWoW_Dictionary_DE["sharpclaw"] = { word = "Sharpclaw", translation = "Sharpclaw", note = "tauren chief; sharp-clawed fighter", status = "ignored" }
 WordHunterWoW_Dictionary_DE["sharpmane"] = { word = "Sharpmane", translation = "Sharpmane", note = "creature with sharp mane; likely animal" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["sharrex"] = { word = "Sharrex", translation = "Sharrex", note = "" }
 WordHunterWoW_Dictionary_DE["sharth"] = { word = "Sharth", translation = "Sharth", note = "NPC name; leave unchanged" , status = "ignored" }

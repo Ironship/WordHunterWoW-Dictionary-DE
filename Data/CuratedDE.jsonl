@@ -6304,7 +6304,7 @@
 {"key": "herzureisen", "word": "herzureisen", "translation": "to travel back and forth", "note": "hin und her = to-fro; across dimensions"}
 {"key": "hexenmutter", "word": "Hexenmutter", "translation": "Witch mother", "note": ""}
 {"key": "hexenzirkel", "word": "Hexenzirkel", "translation": "Coven", "note": "zirkel = circle; witches' circle"}
-{"key": "hirschjäger", "word": "Hirschjäger", "translation": "Hirschjäger", "note": "tauren hunter trainer; hirsch = deer"}
+{"key": "hirschjäger", "word": "Hirschjäger", "translation": "Hirschjäger", "note": "tauren hunter trainer; hirsch = deer", "status": "ignored"}
 {"key": "holzbetrieb", "word": "Holzbetrieb", "translation": "Timber company", "note": "holz = wood; lumber operation"}
 {"key": "holzbündeln", "word": "Holzbündeln", "translation": "bundles of wood", "note": ""}
 {"key": "holzpfosten", "word": "Holzpfosten", "translation": "wooden posts", "note": ""}
@@ -24699,7 +24699,7 @@
 {"key": "manawyrms", "word": "Manawyrms", "translation": "Mana Wyrms", "note": "WoW magical creature type"}
 {"key": "markgräfin", "word": "Markgräfin", "translation": "Margravine", "note": "Markgraf (margrave title) + -in (feminine)"}
 {"key": "marl", "word": "Marl", "translation": "Marl", "note": "renegade druid character in WoW", "status": "ignored"}
-{"key": "martin", "word": "Martin", "translation": "Martin", "note": "common human name or character"}
+{"key": "martin", "word": "Martin", "translation": "Martin", "note": "common human name or character", "status": "ignored"}
 {"key": "mausoleum", "word": "Mausoleum", "translation": "mausoleum", "note": "grand burial monument or vault"}
 {"key": "megs", "word": "Megs", "translation": "Megs", "note": "character name or nickname in WoW", "status": "ignored"}
 {"key": "misstrauisch", "word": "misstrauisch", "translation": "suspicious", "note": "Misstrauen (mistrust) + -isch (adjective)"}
@@ -46213,7 +46213,7 @@
 {"key": "leystation", "word": "Leystation", "translation": "Leystation", "note": "waypoint or hub of ley line network"}
 {"key": "leystaub", "word": "Leystaub", "translation": "ley dust", "note": "dust or residue of ley energy"}
 {"key": "leysteins", "word": "Leysteins", "translation": "Leystones", "note": "stones of crystallized ley energy"}
-{"key": "leyweber", "word": "Leyweber", "translation": "Leyweber", "note": "ley weaver; title or character name"}
+{"key": "leyweber", "word": "Leyweber", "translation": "Leyweber", "note": "ley weaver; title or character name", "status": "ignored"}
 {"key": "liadrins", "word": "Liadrins", "translation": "Liadrins", "note": "NPC name; possessive form", "status": "ignored"}
 {"key": "liandra", "word": "Liandra", "translation": "Liandra", "note": "NPC name; messenger", "status": "ignored"}
 {"key": "liangs", "word": "Liangs", "translation": "Liangs", "note": "NPC name; possessive form", "status": "ignored"}
@@ -58862,7 +58862,7 @@
 {"key": "grmlgrlrs", "word": "Grmlgrlrs", "translation": "Grmlgrlrs", "note": "murloc language or name; no standard English translation", "status": "ignored"}
 {"key": "grmrglmrl", "word": "Grmrglmrl", "translation": "Grmrglmrl", "note": "Murloc speech; untranslatable", "status": "ignored"}
 {"key": "grmmurggll", "word": "Grmmurggll", "translation": "Grmmurggll", "note": "Murloc speech", "status": "ignored"}
-{"key": "gro", "word": "Gro", "translation": "Gro", "note": "Magnaron name"}
+{"key": "gro", "word": "Gro", "translation": "Gro", "note": "Magnaron name", "status": "ignored"}
 {"key": "gro'tash", "word": "Gro'tash", "translation": "Gro'tash", "note": "Orc NPC name", "status": "ignored"}
 {"key": "grobius", "word": "Grobius", "translation": "Grobius", "note": "Dwarf NPC name", "status": "ignored"}
 {"key": "groffy", "word": "Groffy", "translation": "Groffy", "note": "Gnome NPC name", "status": "ignored"}
@@ -59268,7 +59268,7 @@
 {"key": "haniko", "word": "Haniko", "translation": "Haniko", "note": "NPC scholar name; researcher of protodragon behavior", "status": "ignored"}
 {"key": "hannans", "word": "Hannans", "translation": "Hannan's", "note": "possessive proper noun; cleaning ability of nerubian creatures"}
 {"key": "hanniston", "word": "Hanniston", "translation": "Hanniston", "note": "NPC name; appears in family name context", "status": "ignored"}
-{"key": "hans", "word": "Hans", "translation": "Hans", "note": "given name; appears in 'Ambassador Hans' title"}
+{"key": "hans", "word": "Hans", "translation": "Hans", "note": "given name; appears in 'Ambassador Hans' title", "status": "ignored"}
 {"key": "hansels", "word": "Hansels", "translation": "Hansel's", "note": "possessive proper noun; fist used to measure jewel sizes"}
 {"key": "hanteln", "word": "Hanteln", "translation": "dumbbells", "note": "compound: Hant (grip) + Eln (bars); strength training equipment"}
 {"key": "hapert", "word": "hapert", "translation": "there's a problem", "note": "from Haken (to catch); means something catches or goes wrong"}
@@ -76523,7 +76523,7 @@
 {"key": "scornbrow", "word": "Scornbrow", "translation": "Scornbrow", "note": "dwarf watcher NPC; tower guard", "status": "ignored"}
 {"key": "scourgebane", "word": "Scourgebane", "translation": "Scourgebane", "note": "hero title; one who defeats plagues"}
 {"key": "scrabblescrew", "word": "Scrabblescrew", "translation": "Scrabblescrew", "note": "gnome NPC; gnomic surname", "status": "ignored"}
-{"key": "se'jib", "word": "Se'Jib", "translation": "Se'Jib", "note": "tauren shaman; tribal name"}
+{"key": "se'jib", "word": "Se'Jib", "translation": "Se'Jib", "note": "tauren shaman; tribal name", "status": "ignored"}
 {"key": "seekrabbler-moos", "word": "Seekrabbler-Moos", "translation": "sea crawler moss", "note": "aquatic plant; algae reagent"}
 {"key": "seehorns", "word": "Seehorns", "translation": "Seehorn's", "note": "NPC surname; letter sender"}
 {"key": "seelenbefleckte", "word": "seelenbefleckte", "translation": "soul-tainted; soul-stained", "note": "corrupted by dark magic"}
@@ -76556,7 +76556,7 @@
 {"key": "shanda", "word": "Shanda", "translation": "Shanda", "note": "night elf priestess; seal guardian", "status": "ignored"}
 {"key": "shaol'watha", "word": "Shaol'watha", "translation": "Shaol'Watha", "note": "troll temple location; ancient ruin"}
 {"key": "sharlindra", "word": "Sharlindra", "translation": "Sharlindra", "note": "blood elf NPC; crown bearer", "status": "ignored"}
-{"key": "sharpclaw", "word": "Sharpclaw", "translation": "Sharpclaw", "note": "tauren chief; sharp-clawed fighter"}
+{"key": "sharpclaw", "word": "Sharpclaw", "translation": "Sharpclaw", "note": "tauren chief; sharp-clawed fighter", "status": "ignored"}
 {"key": "shatter", "word": "Shatter", "translation": "Shatter", "note": "dungeon/scar area location name"}
 {"key": "shattered", "word": "Shattered", "translation": "Shattered", "note": "broken/destroyed location; Scar valley", "status": "ignored"}
 {"key": "shaws", "word": "Shaws", "translation": "Shaw's", "note": "report from dwarf; possessive"}
@@ -90561,7 +90561,7 @@
 {"key": "bumm-bumm-pulver", "word": "Bumm-Bumm-Pulver", "translation": "Boom-Boom Powder", "note": "compound: Bumm-Bumm (boom-boom) + Pulver (powder)"}
 {"key": "bummelgaumooswolle", "word": "Bummelgaumooswolle", "translation": "Bummelgau moss wool", "note": "literal compound; the official English name is unconfirmed"}
 {"key": "bummelgaumooswollen", "word": "Bummelgaumooswollen", "translation": "Bummelgau moss wools", "note": "plural of Bummelgau moss wool; the official English name is unconfirmed"}
-{"key": "bummbumm", "word": "Bummbumm", "translation": "Bummbumm", "note": "character name with a repeated boom-like sound"}
+{"key": "bummbumm", "word": "Bummbumm", "translation": "Bummbumm", "note": "character name with a repeated boom-like sound", "status": "ignored"}
 {"key": "bummkugel", "word": "Bummkugel", "translation": "boom ball", "note": "compound: Bumm (boom) + Kugel (ball)"}
 {"key": "bunch", "word": "bunch", "translation": "bunch", "note": ""}
 {"key": "bunny", "word": "Bunny", "translation": "Bunny", "note": ""}
