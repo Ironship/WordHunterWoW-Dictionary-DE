@@ -51058,20 +51058,20 @@
 {"key": "albers", "word": "Albers", "translation": "Albers", "note": ""}
 {"key": "albtraum", "word": "Albtraum", "translation": "nightmare", "note": "alb (nightmare demon) + traum (dream); lit. nightmare demon's dream"}
 {"key": "alchimisten", "word": "Alchimisten", "translation": "alchemists", "note": "plural of alchemist; those who practice alchemy"}
-{"key": "aldaron", "word": "Aldaron", "translation": "Aldaron", "note": ""}
+{"key": "aldaron", "word": "Aldaron", "translation": "Aldaron", "note": "", "status": "ignored"}
 {"key": "aldo", "word": "Aldo", "translation": "Aldo", "note": ""}
 {"key": "aldors", "word": "Aldors", "translation": "Aldors", "note": ""}
 {"key": "aldrassil", "word": "Aldrassil", "translation": "Aldrassil", "note": "the world tree of the night elves", "status": "ignored"}
 {"key": "aldrassils", "word": "Aldrassils", "translation": "Aldrassil's", "note": "possessive form"}
-{"key": "aldryth", "word": "Aldryth", "translation": "Aldryth", "note": ""}
-{"key": "aleketh", "word": "Aleketh", "translation": "Aleketh", "note": ""}
-{"key": "alenndaar", "word": "Alenndaar", "translation": "Alenndaar", "note": ""}
-{"key": "alerinda", "word": "Alerinda", "translation": "Alerinda", "note": ""}
-{"key": "alerius", "word": "Alerius", "translation": "Alerius", "note": ""}
+{"key": "aldryth", "word": "Aldryth", "translation": "Aldryth", "note": "", "status": "ignored"}
+{"key": "aleketh", "word": "Aleketh", "translation": "Aleketh", "note": "", "status": "ignored"}
+{"key": "alenndaar", "word": "Alenndaar", "translation": "Alenndaar", "note": "", "status": "ignored"}
+{"key": "alerinda", "word": "Alerinda", "translation": "Alerinda", "note": "", "status": "ignored"}
+{"key": "alerius", "word": "Alerius", "translation": "Alerius", "note": "", "status": "ignored"}
 {"key": "algarischem", "word": "algarischem", "translation": "Algarian", "note": "adjective describing something from Algar"}
 {"key": "algencocktail", "word": "Algencocktail", "translation": "seaweed cocktail", "note": "algen (seaweed) + cocktail"}
 {"key": "algengrüne", "word": "algengrüne", "translation": "seaweed-green", "note": "color term; green like seaweed"}
-{"key": "algeth'era", "word": "Algeth'era", "translation": "Algeth'era", "note": ""}
+{"key": "algeth'era", "word": "Algeth'era", "translation": "Algeth'era", "note": "", "status": "ignored"}
 {"key": "alibi", "word": "Alibi", "translation": "alibi", "note": "from Latin, a defense claiming one was elsewhere"}
 {"key": "alicia", "word": "Alicia", "translation": "Alicia", "note": ""}
 {"key": "alimente", "word": "Alimente", "translation": "alimony", "note": "from Latin alimenta; child or spousal support"}
@@ -51123,7 +51123,7 @@
 {"key": "alltäglicher", "word": "alltäglicher", "translation": "everyday", "note": "alltäglich (everyday); comparative sense"}
 {"key": "alltägliches", "word": "Alltägliches", "translation": "everyday", "note": "neuter form"}
 {"key": "allumfassend", "word": "allumfassend", "translation": "all-encompassing", "note": "all + umfassend (encompassing)"}
-{"key": "alluradel", "word": "Alluradel", "translation": "Alluradel", "note": ""}
+{"key": "alluradel", "word": "Alluradel", "translation": "Alluradel", "note": "", "status": "ignored"}
 {"key": "allzulanger", "word": "allzulanger", "translation": "not long", "note": "allzu (too) + langer (long ago)"}
 {"key": "alma", "word": "Alma", "translation": "Alma", "note": ""}
 {"key": "almabtrieb", "word": "Almabtrieb", "translation": "cattle drive", "note": "Alm (alpine meadow) + Abtrieb (descent)"}
@@ -51135,7 +51135,7 @@
 {"key": "alpakapfeife", "word": "Alpakapfeife", "translation": "alpaca pipe", "note": "compound: Alpaka + Pfeife"}
 {"key": "alpaken's", "word": "alpaken's", "translation": "alpaca's", "note": "colloquial form"}
 {"key": "alpharäuber", "word": "Alpharäuber", "translation": "alpha predator", "note": "apex + predator; top of food chain"}
-{"key": "alphonse", "word": "Alphonse", "translation": "Alphonse", "note": ""}
+{"key": "alphonse", "word": "Alphonse", "translation": "Alphonse", "note": "", "status": "ignored"}
 {"key": "alphonses", "word": "Alphonses", "translation": "Alphonse's", "note": "possessive form"}
 {"key": "alphus", "word": "Alphus", "translation": "Alphus", "note": ""}
 {"key": "alptraumnarbe", "word": "Alptraumnarbe", "translation": "Nightmare Scar", "note": "Alptraum (nightmare) + Narbe (scar)"}
@@ -51159,7 +51159,7 @@
 {"key": "alterslose", "word": "Alterslose", "translation": "ageless", "note": "Alter (age) + -los (without)"}
 {"key": "altersstufen", "word": "Altersstufen", "translation": "age levels", "note": "compound: Alter + Stufen"}
 {"key": "altgedienter", "word": "altgedienter", "translation": "veteran", "note": "alt + gedienter (served); long-serving"}
-{"key": "althanus", "word": "Althanus", "translation": "Althanus", "note": ""}
+{"key": "althanus", "word": "Althanus", "translation": "Althanus", "note": "", "status": "ignored"}
 {"key": "altheas", "word": "Altheas", "translation": "Altheas", "note": ""}
 {"key": "althen", "word": "Althen", "translation": "Althen", "note": ""}
 {"key": "altklugen", "word": "altklugen", "translation": "precocious", "note": "alt (old) + klug (clever); wise beyond years"}
@@ -51169,20 +51169,20 @@
 {"key": "alto", "word": "Alto", "translation": "Alto", "note": ""}
 {"key": "alton", "word": "Alton", "translation": "Alton", "note": ""}
 {"key": "altumus", "word": "Altumus", "translation": "Altumus", "note": ""}
-{"key": "alundra", "word": "Alundra", "translation": "Alundra", "note": ""}
+{"key": "alundra", "word": "Alundra", "translation": "Alundra", "note": "", "status": "ignored"}
 {"key": "aluneths", "word": "Aluneths", "translation": "Aluneth's", "note": "possessive form"}
 {"key": "aluriels", "word": "Aluriels", "translation": "Aluriel's", "note": "possessive form"}
 {"key": "always", "word": "always", "translation": "always", "note": ""}
 {"key": "alysras", "word": "Alysras", "translation": "Alysra's", "note": "possessive form"}
 {"key": "am'menfeldern", "word": "Am'menfeldern", "translation": "Am'menfields", "note": "location; -feldern is plural/descriptive"}
-{"key": "am'mental", "word": "Am'mental", "translation": "Am'mental", "note": ""}
-{"key": "ama'ran", "word": "Ama'ran", "translation": "Ama'ran", "note": ""}
+{"key": "am'mental", "word": "Am'mental", "translation": "Am'mental", "note": "", "status": "ignored"}
+{"key": "ama'ran", "word": "Ama'ran", "translation": "Ama'ran", "note": "", "status": "ignored"}
 {"key": "amaa", "word": "Amaa", "translation": "Amaa", "note": ""}
 {"key": "amai", "word": "Amai", "translation": "Amai", "note": ""}
-{"key": "amakkar", "word": "Amakkar", "translation": "Amakkar", "note": ""}
+{"key": "amakkar", "word": "Amakkar", "translation": "Amakkar", "note": "", "status": "ignored"}
 {"key": "amal'thazads", "word": "Amal'thazads", "translation": "Amal'thazad's", "note": "possessive form"}
 {"key": "amalia", "word": "Amalia", "translation": "Amalia", "note": ""}
-{"key": "amalthina", "word": "Amalthina", "translation": "Amalthina", "note": ""}
+{"key": "amalthina", "word": "Amalthina", "translation": "Amalthina", "note": "", "status": "ignored"}
 {"key": "amanifanfare", "word": "Amanifanfare", "translation": "Amanifanfare", "note": ""}
 {"key": "amaniehre", "word": "Amaniehre", "translation": "Amaniehre", "note": ""}
 {"key": "amanigruften", "word": "Amanigruften", "translation": "Amani tombs", "note": "compound: Amani + Gruften (tombs)"}
@@ -51199,7 +51199,7 @@
 {"key": "ambossel", "word": "Ambossel", "translation": "anvil", "note": "compound: Amboss (anvil) + -el"}
 {"key": "ambosshorn", "word": "Ambosshorn", "translation": "anvil horn", "note": "compound: Amboss + Horn"}
 {"key": "ambossthans", "word": "Ambossthans", "translation": "Anvil-thane", "note": "compound: Amboss + Thane; a title"}
-{"key": "ambrose", "word": "Ambrose", "translation": "Ambrose", "note": ""}
+{"key": "ambrose", "word": "Ambrose", "translation": "Ambrose", "note": "", "status": "ignored"}
 {"key": "ambrosia", "word": "Ambrosia", "translation": "ambrosia", "note": "from Greek; drink of the gods"}
 {"key": "ambrosi", "word": "Ambrosi", "translation": "Ambrosia", "note": "plant or crop name"}
 {"key": "ameisen", "word": "Ameisen", "translation": "ants", "note": "plural of Ameise; like insects"}
