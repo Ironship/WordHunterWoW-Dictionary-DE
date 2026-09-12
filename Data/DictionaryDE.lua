@@ -10001,7 +10001,7 @@ WordHunterWoW_Dictionary_DE["belmara"] = { word = "Belmara", translation = "Belm
 WordHunterWoW_Dictionary_DE["belmaras"] = { word = "Belmaras", translation = "Belmaras", note = "" }
 WordHunterWoW_Dictionary_DE["belmont"] = { word = "Belmont", translation = "Belmont", note = "proper noun", status = "ignored" }
 WordHunterWoW_Dictionary_DE["belmonts"] = { word = "Belmonts", translation = "Belmont's", note = "" }
-WordHunterWoW_Dictionary_DE["belnistrasz"] = { word = "Belnistrasz", translation = "Belnistrasz", note = "dragon name; oath-stone keeper in Winterspring" }
+WordHunterWoW_Dictionary_DE["belnistrasz"] = { word = "Belnistrasz", translation = "Belnistrasz", note = "dragon name; oath-stone keeper in Winterspring", status = "ignored" }
 WordHunterWoW_Dictionary_DE["belo'vir"] = { word = "Belo'vir", translation = "Belo'vir", note = "" }
 WordHunterWoW_Dictionary_DE["belo'virs"] = { word = "Belo'virs", translation = "Belo'virs", note = "proper noun; race/faction name", status = "ignored" }
 WordHunterWoW_Dictionary_DE["belobige"] = { word = "belobige", translation = "commend", note = "formal verb for officially praising someone for merit" }
@@ -11185,7 +11185,7 @@ WordHunterWoW_Dictionary_DE["betete"] = { word = "betete", translation = "prayed
 WordHunterWoW_Dictionary_DE["beteten"] = { word = "beteten", translation = "prayed", note = "beten means pray; beteten is the simple-past plural form" }
 WordHunterWoW_Dictionary_DE["beteuerung"] = { word = "Beteuerung", translation = "protestation; assertion", note = "solemn declaration or insistent claim" }
 WordHunterWoW_Dictionary_DE["beteuerungen"] = { word = "Beteuerungen", translation = "assurances; protestations", note = "plural; repeated claims or promises" }
-WordHunterWoW_Dictionary_DE["beth'amara"] = { word = "Beth'Amara", translation = "Beth'Amara", note = "rune name; part of ancient Azshara runic set" }
+WordHunterWoW_Dictionary_DE["beth'amara"] = { word = "Beth'Amara", translation = "Beth'Amara", note = "rune name; part of ancient Azshara runic set", status = "ignored" }
 WordHunterWoW_Dictionary_DE["beth'tilac"] = { word = "Beth'tilac", translation = "Beth'tilac", note = "WoW boss name" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["beth'tilacs"] = { word = "Beth'tilacs", translation = "Beth'tilacs", note = "" }
 WordHunterWoW_Dictionary_DE["bethod"] = { word = "Bethod", translation = "Bethod", note = "" }
@@ -12390,7 +12390,7 @@ WordHunterWoW_Dictionary_DE["bloodfist"] = { word = "Bloodfist", translation = "
 WordHunterWoW_Dictionary_DE["bloodhoof"] = { word = "Bloodhoof", translation = "Bloodhoof", note = "" }
 WordHunterWoW_Dictionary_DE["bloodmaul"] = { word = "Bloodmaul", translation = "Bloodmouth", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["bloodpike"] = { word = "Bloodpike", translation = "Bloodpike", note = "NPC surname; English proper name left untranslated", status = "ignored" }
-WordHunterWoW_Dictionary_DE["bloodscalp"] = { word = "Bloodscalp", translation = "Bloodscalp", note = "one of the troll factions in Stranglethorn Vale; the name is untranslated in German client" }
+WordHunterWoW_Dictionary_DE["bloodscalp"] = { word = "Bloodscalp", translation = "Bloodscalp", note = "one of the troll factions in Stranglethorn Vale; the name is untranslated in German client", status = "ignored" }
 WordHunterWoW_Dictionary_DE["bloodscalpklans"] = { word = "Bloodscalpklans", translation = "Bloodscalp clans", note = "plural of clan; refers to multiple tribal groups" }
 WordHunterWoW_Dictionary_DE["bloodscar"] = { word = "Bloodscar", translation = "Bloodscar", note = "NPC name" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["bloodsnarl"] = { word = "Bloodsnarl", translation = "Bloodsnarl", note = "NPC name" , status = "ignored" }
@@ -13765,7 +13765,7 @@ WordHunterWoW_Dictionary_DE["brett"] = { word = "Brett", translation = "board", 
 WordHunterWoW_Dictionary_DE["bretter"] = { word = "Bretter", translation = "boards", note = "plural of Brett (board or plank)" }
 WordHunterWoW_Dictionary_DE["brettern"] = { word = "Brettern", translation = "boards", note = "wooden planks or lumber" }
 WordHunterWoW_Dictionary_DE["brew"] = { word = "brew", translation = "brew.brew", note = "" }
-WordHunterWoW_Dictionary_DE["brewnall"] = { word = "Brewnall", translation = "Brewnall", note = "location name in Duskwood; English name untranslated in German" }
+WordHunterWoW_Dictionary_DE["brewnall"] = { word = "Brewnall", translation = "Brewnall", note = "location name in Duskwood; English name untranslated in German", status = "ignored" }
 WordHunterWoW_Dictionary_DE["brewspewer"] = { word = "Brewspewer", translation = "Brewspewer", note = "" }
 WordHunterWoW_Dictionary_DE["brezel"] = { word = "Brezel", translation = "pretzel", note = "english pretzel comes from German Brezel, ultimately from a prayerful arm shape" }
 WordHunterWoW_Dictionary_DE["brezeln"] = { word = "Brezeln", translation = "Pretzels", note = "" }
@@ -25968,7 +25968,7 @@ WordHunterWoW_Dictionary_DE["fearsen"] = { word = "Fearsen", translation = "Fear
 WordHunterWoW_Dictionary_DE["feasel"] = { word = "Feasel", translation = "Feasel", note = "NPC name" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["feast"] = { word = "feast", translation = "feast", note = "" }
 WordHunterWoW_Dictionary_DE["feather"] = { word = "Feather", translation = "Feather", note = "singular form; the context names one feather" }
-WordHunterWoW_Dictionary_DE["feathermoon"] = { word = "Feathermoon", translation = "Feathermoon", note = "night elf stronghold, untranslated" }
+WordHunterWoW_Dictionary_DE["feathermoon"] = { word = "Feathermoon", translation = "Feathermoon", note = "night elf stronghold, untranslated", status = "ignored" }
 WordHunterWoW_Dictionary_DE["fechten"] = { word = "fechten", translation = "fence; fencing", note = "from fechten (to fence, the sport); also can mean to steal or pilfer" }
 WordHunterWoW_Dictionary_DE["feddich"] = { word = "feddich", translation = "ready; done", note = "dialectal/colloquial form of fertig (ready); nautical dialect" }
 WordHunterWoW_Dictionary_DE["feder"] = { word = "Feder", translation = "Feather", note = "NPC name (proper noun); also means feather or spring in German" }
@@ -71666,7 +71666,7 @@ WordHunterWoW_Dictionary_DE["sareyn"] = { word = "Sareyn", translation = "Sareyn
 WordHunterWoW_Dictionary_DE["sarg"] = { word = "Sarg", translation = "coffin", note = "noun: coffin/casket; stolen to feed souls" }
 WordHunterWoW_Dictionary_DE["sargassumwache"] = { word = "Sargassumwache", translation = "sargassum vigil", note = "compound: Sargassum (sargassum seaweed, real plant) + Wache (watch/vigil); defense or monitoring role" }
 WordHunterWoW_Dictionary_DE["sargeras"] = { word = "Sargeras", translation = "Sargeras", note = "supreme antagonist in WoW lore", status = "ignored" }
-WordHunterWoW_Dictionary_DE["sargerass"] = { word = "Sargerass", translation = "Sargerass", note = "ship name" }
+WordHunterWoW_Dictionary_DE["sargerass"] = { word = "Sargerass", translation = "Sargerass", note = "ship name", status = "ignored" }
 WordHunterWoW_Dictionary_DE["sargerei"] = { word = "Sargerei", translation = "Sargerei", note = "Sargerei (proper noun); demonic/magic location", status = "ignored" }
 WordHunterWoW_Dictionary_DE["sargereibedrohung"] = { word = "Sargereibedrohung", translation = "Sarcasm threat", note = "sargerei (sarcasm, rare) + bedrohung (threat); unusual phrasing" }
 WordHunterWoW_Dictionary_DE["sargereigugel"] = { word = "Sargereigugel", translation = "Sargerei hood", note = "Gugel is a hood or cowl; it is unrelated to Sarg (coffin)" }
@@ -75397,7 +75397,7 @@ WordHunterWoW_Dictionary_DE["schwarzblutstaffellauf"] = { word = "Schwarzblutsta
 WordHunterWoW_Dictionary_DE["schwarzblutvergiftung"] = { word = "Schwarzblutvergiftung", translation = "black blood poisoning", note = "" }
 WordHunterWoW_Dictionary_DE["schwarzblutvorrat"] = { word = "Schwarzblutvorrat", translation = "Black blood supply", note = "Schwarzblut + Vorrat (supply/stock)" }
 WordHunterWoW_Dictionary_DE["schwarzbolz"] = { word = "Schwarzbolz", translation = "Blackbolt", note = "proper surname retained as the character name" }
-WordHunterWoW_Dictionary_DE["schwarzborn"] = { word = "Schwarzborn", translation = "Schwarzborn", note = "ship name in WoW lore" }
+WordHunterWoW_Dictionary_DE["schwarzborn"] = { word = "Schwarzborn", translation = "Schwarzborn", note = "ship name in WoW lore", status = "ignored" }
 WordHunterWoW_Dictionary_DE["schwarzbrunn"] = { word = "Schwarzbrunn", translation = "Schwarzbrunn", note = "proper noun (place name); schwarz (black) + brunn (spring); retain", status = "ignored" }
 WordHunterWoW_Dictionary_DE["schwarzbär"] = { word = "Schwarzbär", translation = "black bear", note = "schwarz (black) + bär (bear)" }
 WordHunterWoW_Dictionary_DE["schwarzbären"] = { word = "Schwarzbären", translation = "black bears", note = "plural of schwarzbär; ursine creatures" }
@@ -77462,7 +77462,7 @@ WordHunterWoW_Dictionary_DE["shed-ling-staub"] = { word = "Shed-Ling-Staub", tra
 WordHunterWoW_Dictionary_DE["sheej"] = { word = "Sheej", translation = "Sheej", note = "" }
 WordHunterWoW_Dictionary_DE["sheelahs"] = { word = "Sheelahs", translation = "Sheelah's", note = "" }
 WordHunterWoW_Dictionary_DE["sheera"] = { word = "Sheera", translation = "Sheera", note = "" }
-WordHunterWoW_Dictionary_DE["sheilun"] = { word = "Sheilun", translation = "Sheilun", note = "legendary staff wielded by the last Pandaren emperor" }
+WordHunterWoW_Dictionary_DE["sheilun"] = { word = "Sheilun", translation = "Sheilun", note = "legendary staff wielded by the last Pandaren emperor", status = "ignored" }
 WordHunterWoW_Dictionary_DE["shek'zara"] = { word = "Shek'zara", translation = "Shek'zara", note = "location name; leave unchanged" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["shek'zeer"] = { word = "Shek'zeer", translation = "Shek'zeer", note = "" }
 WordHunterWoW_Dictionary_DE["shek'zeers"] = { word = "Shek'zeers", translation = "Shek'zeers", note = "NPC or creature name; leave unchanged" , status = "ignored" }
@@ -78311,7 +78311,7 @@ WordHunterWoW_Dictionary_DE["skog"] = { word = "Skog", translation = "Skog", not
 WordHunterWoW_Dictionary_DE["skola"] = { word = "Skola", translation = "Skola", note = "" }
 WordHunterWoW_Dictionary_DE["skold-ashil"] = { word = "Skold-Ashil", translation = "Skold-Ashil", note = "proper noun: settlement or outpost name", status = "ignored" }
 WordHunterWoW_Dictionary_DE["skoldushalle"] = { word = "Skoldushalle", translation = "Skoldus Hall", note = "proper name; may be related to Norse mythology (Skoldus + hall)" }
-WordHunterWoW_Dictionary_DE["skoll"] = { word = "Skoll", translation = "Skoll", note = "Norse mythology: one of two wolves who chase the sun and moon; official WoW name" }
+WordHunterWoW_Dictionary_DE["skoll"] = { word = "Skoll", translation = "Skoll", note = "Norse mythology: one of two wolves who chase the sun and moon; official WoW name", status = "ignored" }
 WordHunterWoW_Dictionary_DE["skoloth"] = { word = "Skoloth", translation = "Skoloth", note = "" }
 WordHunterWoW_Dictionary_DE["skolzgalmühle"] = { word = "Skolzgalmühle", translation = "Skolzgalmühle", note = "" }
 WordHunterWoW_Dictionary_DE["skorbut"] = { word = "Skorbut", translation = "scurvy", note = "disease" }
@@ -94441,7 +94441,7 @@ WordHunterWoW_Dictionary_DE["vorabend"] = { word = "Vorabend", translation = "ev
 WordHunterWoW_Dictionary_DE["vorahnung"] = { word = "Vorahnung", translation = "premonition", note = "omen or forewarning of future events" }
 WordHunterWoW_Dictionary_DE["vorallem"] = { word = "vorallem", translation = "above all", note = "vor allem is normally written as two words" }
 WordHunterWoW_Dictionary_DE["voran"] = { word = "voran", translation = "ahead; forward", note = "direction word; voran gehen = to go ahead" }
-WordHunterWoW_Dictionary_DE["voranaku"] = { word = "Voranaku", translation = "Voranaku", note = "dragon name" }
+WordHunterWoW_Dictionary_DE["voranaku"] = { word = "Voranaku", translation = "Voranaku", note = "dragon name", status = "ignored" }
 WordHunterWoW_Dictionary_DE["voranbring'n"] = { word = "voranbring'n", translation = "move forward; advance", note = "voran (forward) + bring'n (bring); dialectal contraction of voranbringen (to advance/promote)" }
 WordHunterWoW_Dictionary_DE["voranbringen"] = { word = "voranbringen", translation = "advance; promote", note = "verb meaning to move forward or make progress" }
 WordHunterWoW_Dictionary_DE["vorandrängen"] = { word = "vorandrängen", translation = "push forward", note = "verb meaning to shove or press ahead" }
@@ -98395,7 +98395,7 @@ WordHunterWoW_Dictionary_DE["winterskornstammes"] = { word = "Winterskornstammes
 WordHunterWoW_Dictionary_DE["winterspring"] = { word = "Winterspring", translation = "Winterspring", note = "English zone name untranslated in German client" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["winterstunden"] = { word = "Winterstunden", translation = "winter hours", note = "compound: Winter (winter) + hours; plural time period" }
 WordHunterWoW_Dictionary_DE["wintersturm"] = { word = "Wintersturm", translation = "winter storm", note = "winter + sturm (storm)" }
-WordHunterWoW_Dictionary_DE["wintersturz"] = { word = "Wintersturz", translation = "Wintersturz", note = "winter (Winter) + fall/drop (Sturz), possibly a location name" }
+WordHunterWoW_Dictionary_DE["wintersturz"] = { word = "Wintersturz", translation = "Wintersturz", note = "winter (Winter) + fall/drop (Sturz), possibly a location name", status = "ignored" }
 WordHunterWoW_Dictionary_DE["wintersturzturm"] = { word = "Wintersturzturm", translation = "Winterfall Tower", note = "wintersturz (winter fall/collapse) + turm (tower)" }
 WordHunterWoW_Dictionary_DE["wintertag"] = { word = "Wintertag", translation = "winter day; cold day", note = "compound: Winter (winter) + Tag (day); ordinary day in a cold season" }
 WordHunterWoW_Dictionary_DE["wintertal"] = { word = "Wintertal", translation = "Winter Valley", note = "proper noun, a valley or location name" }
@@ -98927,7 +98927,7 @@ WordHunterWoW_Dictionary_DE["worgbälge"] = { word = "Worgbälge", translation =
 WordHunterWoW_Dictionary_DE["worge"] = { word = "Worge", translation = "Worgs", note = "German plural of Worg; English normally adds -s" }
 WordHunterWoW_Dictionary_DE["worgen"] = { word = "Worgen", translation = "Worgen", note = "cursed humanoid wolves in WoW; playable race", status = "ignored" }
 WordHunterWoW_Dictionary_DE["worgen-population"] = { word = "Worgen-Population", translation = "worgen population", note = "" }
-WordHunterWoW_Dictionary_DE["worgenbau"] = { word = "Worgenbau", translation = "Worgenbau", note = "worgen/werewolves (Worgen) + lair (Bau), appears to be a location" }
+WordHunterWoW_Dictionary_DE["worgenbau"] = { word = "Worgenbau", translation = "Worgenbau", note = "worgen/werewolves (Worgen) + lair (Bau), appears to be a location", status = "ignored" }
 WordHunterWoW_Dictionary_DE["worgenbedrohung"] = { word = "Worgenbedrohung", translation = "worgen threat", note = "WoW context" }
 WordHunterWoW_Dictionary_DE["worgendruide"] = { word = "Worgendruide", translation = "Worgen druid", note = "" }
 WordHunterWoW_Dictionary_DE["worgenfleisch"] = { word = "Worgenfleisch", translation = "worgen meat", note = "crafting ingredient from a beast enemy" }
@@ -101354,7 +101354,7 @@ WordHunterWoW_Dictionary_DE["zirpender"] = { word = "Zirpender", translation = "
 WordHunterWoW_Dictionary_DE["zirpendes"] = { word = "Zirpendes", translation = "chirping", note = "neuter form of the adjective zirpend" }
 WordHunterWoW_Dictionary_DE["zisch"] = { word = "Zisch", translation = "Zisch", note = "NPC name or creature name; appears in combat or quest context" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["zisch'et"] = { word = "Zisch'et", translation = "Zisch'et", note = "" }
-WordHunterWoW_Dictionary_DE["zischel"] = { word = "Zischel", translation = "Zischel", note = "NPC name; part of lair/group identification" }
+WordHunterWoW_Dictionary_DE["zischel"] = { word = "Zischel", translation = "Zischel", note = "NPC name; part of lair/group identification", status = "ignored" }
 WordHunterWoW_Dictionary_DE["zischelbub"] = { word = "Zischelbub", translation = "Fizzlebub", note = "official English surname; the German name is localized, not literally hissing boy" }
 WordHunterWoW_Dictionary_DE["zischeldrill"] = { word = "Zischeldrill", translation = "Hissing Drill", note = "machine or device name; combines hissing sound with drilling motion" }
 WordHunterWoW_Dictionary_DE["zischeldruck"] = { word = "Zischeldruck", translation = "hissing pressure", note = "describes force or pressure with a hissing quality; mechanical term" }

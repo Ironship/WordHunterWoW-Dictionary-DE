@@ -58511,7 +58511,7 @@
 {"key": "glimmerstaub", "word": "Glimmerstaub", "translation": "mica dust", "note": "glimmer (mica) + staub (dust); fine particles of mica used in crafting"}
 {"key": "glitschig", "word": "glitschig", "translation": "slippery", "note": "glitschig (slick, slippery); lacking grip or traction, smooth and wet"}
 {"key": "glitschigen", "word": "glitschigen", "translation": "slippery", "note": "adjective form in dative or accusative case; smooth and treacherous"}
-{"key": "glitterfall", "word": "Glitterfall", "translation": "Glitterfall", "note": "appears to be a location name; glitter (to sparkle) + fall (waterfall/fall)"}
+{"key": "glitterfall", "word": "Glitterfall", "translation": "Glitterfall", "note": "appears to be a location name; glitter (to sparkle) + fall (waterfall/fall)", "status": "ignored"}
 {"key": "glitzerfinger", "word": "Glitzerfinger", "translation": "Glitter Fingers", "note": "glitzer (glitter) + finger (fingers); likely a creature or character name"}
 {"key": "glitzerchaos", "word": "Glitzerchaos", "translation": "Glitter Chaos", "note": "glitzer (glitter) + chaos; a chaotic area full of sparkles; likely a location"}
 {"key": "glitzernd", "word": "Glitzernd", "translation": "glittering", "note": "present participle of glitzern (to glitter); sparkling, shining brightly"}
@@ -67062,7 +67062,7 @@
 {"key": "sardis", "word": "Sardis", "translation": "Sardis", "note": ""}
 {"key": "sardon", "word": "Sardon", "translation": "Sardon", "note": ""}
 {"key": "sareth'na", "word": "Sareth'na", "translation": "Sareth'na", "note": ""}
-{"key": "sargerass", "word": "Sargerass", "translation": "Sargerass", "note": "ship name"}
+{"key": "sargerass", "word": "Sargerass", "translation": "Sargerass", "note": "ship name", "status": "ignored"}
 {"key": "sargerit", "word": "Sargerit", "translation": "Sargerite", "note": ""}
 {"key": "sargoth", "word": "Sargoth", "translation": "Sargoth", "note": ""}
 {"key": "sargs", "word": "Sargs", "translation": "coffins", "note": "sarg = coffin/sarcophagus; plural or as a proper noun"}
@@ -67647,7 +67647,7 @@
 {"key": "schwarmstöcke", "word": "Schwarmstöcke", "translation": "swarmhives", "note": "nests or hives where swarms gather; stock (pl. stöcke)"}
 {"key": "schwarz'n", "word": "schwarz'n", "translation": "black", "note": "contraction of schwarzen (the black, or making black)"}
 {"key": "schwarzbier", "word": "Schwarzbier", "translation": "black beer", "note": "dark beer or stout; schwarzbier is a style of lager"}
-{"key": "schwarzborn", "word": "Schwarzborn", "translation": "Schwarzborn", "note": "ship name in WoW lore"}
+{"key": "schwarzborn", "word": "Schwarzborn", "translation": "Schwarzborn", "note": "ship name in WoW lore", "status": "ignored"}
 {"key": "schwarzdorns", "word": "Schwarzdorns", "translation": "Blackthorns", "note": "proper name of a military unit or organization"}
 {"key": "schwarzfedern", "word": "Schwarzfedern", "translation": "black feathers", "note": "dark feathers; often a creature name or group"}
 {"key": "schwarzfelses", "word": "Schwarzfelses", "translation": "Blackrock", "note": "the Blackrock mountain; one of WoW's major locations"}
@@ -68009,7 +68009,7 @@
 {"key": "shaol'mara", "word": "Shaol'mara", "translation": "Shaol'mara", "note": ""}
 {"key": "shapokalypse", "word": "Shapokalypse", "translation": "Shapocalypse", "note": ""}
 {"key": "shath'yar", "word": "Shath'yar", "translation": "Shath'yar", "note": ""}
-{"key": "sheilun", "word": "Sheilun", "translation": "Sheilun", "note": "legendary staff wielded by the last Pandaren emperor"}
+{"key": "sheilun", "word": "Sheilun", "translation": "Sheilun", "note": "legendary staff wielded by the last Pandaren emperor", "status": "ignored"}
 {"key": "sheelahs", "word": "Sheelahs", "translation": "Sheelah's", "note": ""}
 {"key": "shelby", "word": "Shelby", "translation": "Shelby", "note": ""}
 {"key": "shellys", "word": "Shellys", "translation": "Shelly's", "note": ""}
@@ -68156,7 +68156,7 @@
 {"key": "sklavischen", "word": "sklavischen", "translation": "slavish", "note": "adjective, accusative case: showing unthinking obedience or submission"}
 {"key": "skog", "word": "Skog", "translation": "Skog", "note": ""}
 {"key": "skoldushalle", "word": "Skoldushalle", "translation": "Skoldus Hall", "note": "proper name; may be related to Norse mythology (Skoldus + hall)"}
-{"key": "skoll", "word": "Skoll", "translation": "Skoll", "note": "Norse mythology: one of two wolves who chase the sun and moon; official WoW name"}
+{"key": "skoll", "word": "Skoll", "translation": "Skoll", "note": "Norse mythology: one of two wolves who chase the sun and moon; official WoW name", "status": "ignored"}
 {"key": "skorpashigift", "word": "Skorpashigift", "translation": "Scorpashi poison", "note": "creature name (Scorpashi) + poison; scorpion-related creature compound"}
 {"key": "skorpidooh", "word": "Skorpidooh", "translation": "Scorpidooh", "note": "proper name; creature type in WoW"}
 {"key": "skorpionen", "word": "Skorpionen", "translation": "scorpions", "note": "plural of scorpion; common noun lowercase"}
@@ -69923,7 +69923,7 @@
 {"key": "trockenlegen", "word": "trockenlegen", "translation": "drain; dry out", "note": "infinitive of separable verb trocken (dry) + legen (lay/put)"}
 {"key": "trocknes", "word": "trocknes", "translation": "dry wood; timber", "note": "adjective/noun: dried wood material"}
 {"key": "trogg-schreck", "word": "Trogg-Schreck", "translation": "trogg terror; trogg fright", "note": "compound: Trogg (troll-like creature) + Schreck (fright/terror)"}
-{"key": "troggageddon", "word": "Troggageddon", "translation": "Troggageddon", "note": "operation/event name; portmanteau of Trogg + Armageddon"}
+{"key": "troggageddon", "word": "Troggageddon", "translation": "Troggageddon", "note": "operation/event name; portmanteau of Trogg + Armageddon", "status": "ignored"}
 {"key": "troggbefall", "word": "Troggbefall", "translation": "trogg infestation", "note": "compound: Trogg (trogg creatures) + Befall (infestation)"}
 {"key": "troggparty", "word": "Troggparty", "translation": "trogg party", "note": "informal: group or gathering of trogg creatures"}
 {"key": "troggsuppe", "word": "Troggsuppe", "translation": "trogg soup", "note": "compound: Trogg (creature) + Suppe (soup); culinary item"}
@@ -70066,7 +70066,7 @@
 {"key": "twonkie", "word": "Twonkie", "translation": "Twonkie", "note": "robot/NPC name; no translation", "status": "ignored"}
 {"key": "txt", "word": "TXT", "translation": "TXT", "note": "placeholder tag; text/content"}
 {"key": "tyrana", "word": "Tyrana", "translation": "Tyranna", "note": "NPC name; proper spelling may be Tyranna"}
-{"key": "tyrangulation", "word": "Tyrangulation", "translation": "Tyrangulation", "note": "quest name; no translation"}
+{"key": "tyrangulation", "word": "Tyrangulation", "translation": "Tyrangulation", "note": "quest name; no translation", "status": "ignored"}
 {"key": "tyrannas", "word": "Tyrannas", "translation": "Tyrannas", "note": "NPC command center location; no translation", "status": "ignored"}
 {"key": "tyrannisiert", "word": "tyrannisiert", "translation": "tyrannized; oppressed", "note": "past participle of tyrannisieren; ruled cruelly"}
 {"key": "tyrannischer", "word": "tyrannischer", "translation": "more tyrannical; more despotic", "note": "comparative adjective; more oppressive rule"}
@@ -71726,7 +71726,7 @@
 {"key": "voodoototem", "word": "Voodoototem", "translation": "voodoo totem", "note": "compound noun; lowercase in English"}
 {"key": "voone", "word": "Voone", "translation": "Voone", "note": "proper name", "status": "ignored"}
 {"key": "voranbringen", "word": "voranbringen", "translation": "advance; promote", "note": "verb meaning to move forward or make progress"}
-{"key": "voranaku", "word": "Voranaku", "translation": "Voranaku", "note": "dragon name"}
+{"key": "voranaku", "word": "Voranaku", "translation": "Voranaku", "note": "dragon name", "status": "ignored"}
 {"key": "vorangegangen", "word": "vorangegangen", "translation": "preceded", "note": "past participle of vorangehen; went before"}
 {"key": "vorandrängen", "word": "vorandrängen", "translation": "push forward", "note": "verb meaning to shove or press ahead"}
 {"key": "vorankommt", "word": "vorankommt", "translation": "progresses", "note": "present tense; makes forward movement"}
@@ -72535,7 +72535,7 @@
 {"key": "winterschaf", "word": "Winterschaf", "translation": "winter sheep", "note": "winter (Winter) + sheep (Schaf)"}
 {"key": "winterschlaf", "word": "Winterschlaf", "translation": "hibernation", "note": "winter (Winter) + sleep (Schlaf), the state of sleeping through winter"}
 {"key": "winterschlafs", "word": "Winterschlafs", "translation": "hibernation", "note": "from Winterschlaf, genitive form"}
-{"key": "wintersturz", "word": "Wintersturz", "translation": "Wintersturz", "note": "winter (Winter) + fall/drop (Sturz), possibly a location name"}
+{"key": "wintersturz", "word": "Wintersturz", "translation": "Wintersturz", "note": "winter (Winter) + fall/drop (Sturz), possibly a location name", "status": "ignored"}
 {"key": "wintertal", "word": "Wintertal", "translation": "Winter Valley", "note": "proper noun, a valley or location name"}
 {"key": "wintervorräte", "word": "Wintervorräte", "translation": "winter supplies", "note": "winter (Winter) + supplies (Vorräte), plural"}
 {"key": "wintertauren", "word": "Wintertauren", "translation": "Winter Tauren", "note": "proper noun, a race name"}
@@ -72643,7 +72643,7 @@
 {"key": "woods", "word": "woods", "translation": "woods", "note": ""}
 {"key": "worcester", "word": "Worcester", "translation": "Worcester", "note": ""}
 {"key": "word", "word": "word", "translation": "word", "note": ""}
-{"key": "worgenbau", "word": "Worgenbau", "translation": "Worgenbau", "note": "worgen/werewolves (Worgen) + lair (Bau), appears to be a location"}
+{"key": "worgenbau", "word": "Worgenbau", "translation": "Worgenbau", "note": "worgen/werewolves (Worgen) + lair (Bau), appears to be a location", "status": "ignored"}
 {"key": "worgenfluch", "word": "Worgenfluch", "translation": "Worgenbane", "note": "worgen (Worgen) + curse/bane (Fluch), possibly an ability"}
 {"key": "worgengezücht", "word": "Worgengezücht", "translation": "worgen breed", "note": "worgen (Worgen) + breed (Gezücht)"}
 {"key": "worgengeheul", "word": "Worgengeheul", "translation": "worgen howl", "note": "worgen (Worgen) + howl (Geheul)"}
@@ -73244,7 +73244,7 @@
 {"key": "zirkuliert", "word": "zirkuliert", "translation": "circulates", "note": "moves in a circular pattern; spreads through a system or area"}
 {"key": "zirpender", "word": "Zirpender", "translation": "Chirper", "note": "named creature; likely from insect-like or chirping characteristics"}
 {"key": "zisch", "word": "Zisch", "translation": "Zisch", "note": "NPC name or creature name; appears in combat or quest context", "status": "ignored"}
-{"key": "zischel", "word": "Zischel", "translation": "Zischel", "note": "NPC name; part of lair/group identification"}
+{"key": "zischel", "word": "Zischel", "translation": "Zischel", "note": "NPC name; part of lair/group identification", "status": "ignored"}
 {"key": "zischeldrill", "word": "Zischeldrill", "translation": "Hissing Drill", "note": "machine or device name; combines hissing sound with drilling motion"}
 {"key": "zischeldruck", "word": "Zischeldruck", "translation": "hissing pressure", "note": "describes force or pressure with a hissing quality; mechanical term"}
 {"key": "zischelnde", "word": "zischelnde", "translation": "hissing ones", "note": "entities that hiss; plural descriptive form"}
@@ -73877,7 +73877,7 @@
 {"key": "deliana", "word": "Deliana", "translation": "Deliana", "note": ""}
 {"key": "blackrock", "word": "Blackrock", "translation": "Blackrock", "note": "volcanic mountain range; part of several location names"}
 {"key": "mokvar", "word": "Mokvar", "translation": "Mokvar", "note": ""}
-{"key": "feathermoon", "word": "Feathermoon", "translation": "Feathermoon", "note": "night elf stronghold, untranslated"}
+{"key": "feathermoon", "word": "Feathermoon", "translation": "Feathermoon", "note": "night elf stronghold, untranslated", "status": "ignored"}
 {"key": "moonglade", "word": "Moonglade", "translation": "Moonglade", "note": "druid sanctuary, untranslated zone name", "status": "ignored"}
 {"key": "belobigungsabzeichen", "word": "Belobigungsabzeichen", "translation": "commendation badge", "note": "belobigung (commendation) + abzeichen (badge); marks of recognition"}
 {"key": "bloodhoof", "word": "Bloodhoof", "translation": "Bloodhoof", "note": ""}
@@ -74013,10 +74013,10 @@
 {"key": "dunkelbinder", "word": "Dunkelbinder", "translation": "darkbinder", "note": "dunkel (dark) + binder (one who binds); a descriptor for a mage"}
 {"key": "bartleby", "word": "Bartleby", "translation": "Bartleby", "note": ""}
 {"key": "bernsteingötzen", "word": "Bernsteingötzen", "translation": "amber idols", "note": "bernstein (amber) + götzen (idols); amber is fossilized tree resin, highly valued in crafting"}
-{"key": "bloodscalp", "word": "Bloodscalp", "translation": "Bloodscalp", "note": "one of the troll factions in Stranglethorn Vale; the name is untranslated in German client"}
+{"key": "bloodscalp", "word": "Bloodscalp", "translation": "Bloodscalp", "note": "one of the troll factions in Stranglethorn Vale; the name is untranslated in German client", "status": "ignored"}
 {"key": "bloodpike", "word": "Bloodpike", "translation": "Bloodpike", "note": "NPC surname; English proper name left untranslated", "status": "ignored"}
 {"key": "blutsplitter", "word": "Blutsplitter", "translation": "blood splinters", "note": "blut (blood) + splitter (splinters); quest material component"}
-{"key": "brewnall", "word": "Brewnall", "translation": "Brewnall", "note": "location name in Duskwood; English name untranslated in German"}
+{"key": "brewnall", "word": "Brewnall", "translation": "Brewnall", "note": "location name in Duskwood; English name untranslated in German", "status": "ignored"}
 {"key": "brine", "word": "Brine", "translation": "Brine", "note": "NPC name; English proper name", "status": "ignored"}
 {"key": "brühschlammer", "word": "Brühschlammer", "translation": "brute sludge", "note": "brüh (muddy/sludgy) + schlammer (ooze/sludge); creature type in Duskwood"}
 {"key": "brühschlammern", "word": "Brühschlammern", "translation": "brute sludges", "note": "plural of brühschlammer; creatures in Duskwood"}
@@ -74154,10 +74154,10 @@
 {"key": "beinkleider", "word": "Beinkleider", "translation": "leg armor", "note": "bein (leg) + kleider (garments/armor); protective leg equipment"}
 {"key": "bel'dugur", "word": "Bel'dugur", "translation": "Bel'dugur", "note": "NPC name; keeper/guardian in Undercity", "status": "ignored"}
 {"key": "bellowfiz", "word": "Bellowfiz", "translation": "Bellowfiz", "note": "NPC name; pilot at Steelgrill's Depot", "status": "ignored"}
-{"key": "belnistrasz", "word": "Belnistrasz", "translation": "Belnistrasz", "note": "dragon name; oath-stone keeper in Winterspring"}
+{"key": "belnistrasz", "word": "Belnistrasz", "translation": "Belnistrasz", "note": "dragon name; oath-stone keeper in Winterspring", "status": "ignored"}
 {"key": "benedictus", "word": "Benedictus", "translation": "Benedictus", "note": "NPC name (Archbishop); high priest of the Church of Light in Stormwind", "status": "ignored"}
 {"key": "beschichtete", "word": "beschichtete", "translation": "coated", "note": "beschichtet (coated/layered); thorium coating on daggers"}
-{"key": "beth'amara", "word": "Beth'Amara", "translation": "Beth'Amara", "note": "rune name; part of ancient Azshara runic set"}
+{"key": "beth'amara", "word": "Beth'Amara", "translation": "Beth'Amara", "note": "rune name; part of ancient Azshara runic set", "status": "ignored"}
 {"key": "biggs", "word": "Biggs", "translation": "Biggs", "note": "NPC name (Keeper); guardian in Swamp of Sorrows", "status": "ignored"}
 {"key": "bink", "word": "Bink", "translation": "Bink", "note": "NPC name; subject of conversation quest", "status": "ignored"}
 {"key": "blade", "word": "Blade", "translation": "Blade", "note": "part of 'Burning Blade' faction/medallion; untranslated name"}
