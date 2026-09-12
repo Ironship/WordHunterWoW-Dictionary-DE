@@ -47307,7 +47307,7 @@
 {"key": "professionell", "word": "professionell", "translation": "professional", "note": "adjective: according to professional standards; skilled, expert"}
 {"key": "profitable", "word": "profitable", "translation": "profitable", "note": "adjective: generating profit, financially advantageous"}
 {"key": "progenitoren", "word": "Progenitoren", "translation": "Progenitors", "note": "noun plural: original ancestors or creators; the first ones"}
-{"key": "proglo", "word": "Proglo", "translation": "Proglo", "note": "soul name; collects anima for the Keepers"}
+{"key": "proglo", "word": "Proglo", "translation": "Proglo", "note": "soul name; collects anima for the Keepers", "status": "ignored"}
 {"key": "projekten", "word": "Projekten", "translation": "projects", "note": "noun plural: planned undertakings or construction efforts"}
 {"key": "projiziert", "word": "projiziert", "translation": "projected", "note": "verb past participle: to project or manifest; teleported magically"}
 {"key": "protein", "word": "Protein", "translation": "protein", "note": "from German/English; organic compound; food/biological component"}
@@ -47347,7 +47347,7 @@
 {"key": "puste", "word": "Puste", "translation": "breath", "note": "außer Puste means out of breath/breathless"}
 {"key": "pusteligen", "word": "pusteligen", "translation": "pustular", "note": "adjective meaning pockmarked or full of pustules"}
 {"key": "pusten", "word": "pusten", "translation": "blow", "note": "can mean blow, puff, or breathe hard"}
-{"key": "putt", "word": "Putt", "translation": "Putt", "note": "onomatopoeia for engine sound"}
+{"key": "putt", "word": "Putt", "translation": "Putt", "note": "onomatopoeia for engine sound", "status": "ignored"}
 {"key": "puttriden", "word": "Puttriden", "translation": "Puttrids", "note": "WoW creature name; Puttrids are void-touched beings"}
 {"key": "putzen", "word": "putzen", "translation": "clean", "note": "verb meaning to clean, wipe, or polish"}
 {"key": "puzzleteil", "word": "Puzzleteil", "translation": "puzzle piece", "note": "compound: Puzzle + Teil (part)"}
@@ -47401,7 +47401,7 @@
 {"key": "raggaran", "word": "Raggaran", "translation": "Raggaran", "note": "proper name; not translated", "status": "ignored"}
 {"key": "rahel", "word": "Rahel", "translation": "Rachel", "note": "German name Rahel; English equivalent Rachel"}
 {"key": "raimund", "word": "Raimund", "translation": "Raymond", "note": "German name Raimund; English equivalent Raymond"}
-{"key": "rainer", "word": "Rainer", "translation": "Rainer", "note": "German name with no standard English equivalent"}
+{"key": "rainer", "word": "Rainer", "translation": "Rainer", "note": "German name with no standard English equivalent", "status": "ignored"}
 {"key": "rajess", "word": "Rajess", "translation": "Rajess", "note": "proper name; not translated", "status": "ignored"}
 {"key": "rak-zakaz", "word": "Rak-Zakaz", "translation": "Rak Zakaz", "note": "WoW location; correct English form"}
 {"key": "rakeras", "word": "Rakeras", "translation": "Rakeras", "note": "proper name; not translated", "status": "ignored"}
@@ -47623,7 +47623,7 @@
 {"key": "rituelles", "word": "rituelles", "translation": "ritual", "note": "adjective form modifying nouns like 'ritual tool'"}
 {"key": "rizam", "word": "Rizam", "translation": "Rizam", "note": "proper noun; NPC or character name", "status": "ignored"}
 {"key": "riznek", "word": "Riznek", "translation": "Riznek", "note": "proper noun; NPC name", "status": "ignored"}
-{"key": "rlgmrr", "word": "Rlgmrr", "translation": "Rlgmrr", "note": "Murloc speech; left untranslated"}
+{"key": "rlgmrr", "word": "Rlgmrr", "translation": "Rlgmrr", "note": "Murloc speech; left untranslated", "status": "ignored"}
 {"key": "roadies", "word": "Roadies", "translation": "Roadies", "note": "English loanword; band crew members"}
 {"key": "robbe", "word": "Robbe", "translation": "seal", "note": "the aquatic marine mammal"}
 {"key": "roberta", "word": "Roberta", "translation": "Roberta", "note": "proper noun; character name", "status": "ignored"}
@@ -48701,7 +48701,7 @@
 {"key": "talullah", "word": "Talullah", "translation": "Talullah", "note": "NPC name", "status": "ignored"}
 {"key": "tand", "word": "Tand", "translation": "stuff; trinkets", "note": "German slang for junk, trinkets, or miscellaneous items; often used dismissively"}
 {"key": "tangblasen", "word": "Tangblasen", "translation": "seaweed bubbles", "note": "tang (seaweed) + blasen (bubbles); gas pockets in seaweed"}
-{"key": "tannenruh", "word": "Tannenruh", "translation": "Tannenruh", "note": "tannen (fir tree) + ruh (rest); place name meaning 'Fir Rest'"}
+{"key": "tannenruh", "word": "Tannenruh", "translation": "Tannenruh", "note": "tannen (fir tree) + ruh (rest); place name meaning 'Fir Rest'", "status": "ignored"}
 {"key": "tanzenden", "word": "tanzenden", "translation": "dancing", "note": "present participle used as adjective; things that dance or sway"}
 {"key": "tapferes", "word": "Tapferes", "translation": "brave", "note": "superlative or neuter form; used as noun meaning the brave one or brave person"}
 {"key": "tapferste", "word": "tapferste", "translation": "bravest", "note": "superlative of tapfer (brave); the most courageous"}
@@ -48817,12 +48817,12 @@
 {"key": "thoradinswall", "word": "Thoradinswall", "translation": "Thoradin's Wall", "note": "thoradin's (possessive) + wall; landmark in World of Warcraft"}
 {"key": "thordun", "word": "Thordun", "translation": "Thordun", "note": ""}
 {"key": "thorg'izogs", "word": "Thorg'izogs", "translation": "Thorg'izogs", "note": ""}
-{"key": "thorimshorn", "word": "Thorimshorn", "translation": "Thorimshorn", "note": "location name; thorim's (possessive) + horn"}
+{"key": "thorimshorn", "word": "Thorimshorn", "translation": "Thorimshorn", "note": "location name; thorim's (possessive) + horn", "status": "ignored"}
 {"key": "thorium", "word": "Thorium", "translation": "Thorium", "note": "chemical element; used for crafting"}
 {"key": "thoriumbarren", "word": "Thoriumbarren", "translation": "Thorium bars", "note": "thorium + barren (bars); refined metal ingots"}
-{"key": "thrallmars", "word": "Thrallmars", "translation": "Thrallmars", "note": "location; thrall + mars"}
+{"key": "thrallmars", "word": "Thrallmars", "translation": "Thrallmars", "note": "location; thrall + mars", "status": "ignored"}
 {"key": "thrayir", "word": "Thrayir", "translation": "Thrayir", "note": ""}
-{"key": "throm'ka", "word": "Throm'ka", "translation": "Throm'ka", "note": "orcish greeting/exclamation"}
+{"key": "throm'ka", "word": "Throm'ka", "translation": "Throm'ka", "note": "orcish greeting/exclamation", "status": "ignored"}
 {"key": "thros-am-kha", "word": "thros-am-kha", "translation": "thros-am-kha", "note": "non-human language phrase"}
 {"key": "thrym", "word": "Thrym", "translation": "Thrym", "note": ""}
 {"key": "thryms", "word": "Thryms", "translation": "Thryms", "note": ""}
@@ -49983,7 +49983,7 @@
 {"key": "willenlos", "word": "willenlos", "translation": "enslaved", "note": "literally will-less; under another's complete control"}
 {"key": "willentlich", "word": "willentlich", "translation": "willingly", "note": "adverb; done with conscious intent or by choice"}
 {"key": "willi", "word": "Willi", "translation": "Willy", "note": "personal name; proper noun"}
-{"key": "williams", "word": "Williams", "translation": "Williams", "note": "surname; no translation needed"}
+{"key": "williams", "word": "Williams", "translation": "Williams", "note": "surname; no translation needed", "status": "ignored"}
 {"key": "willige", "word": "willige", "translation": "willing", "note": "adjective; ready or consenting to do something"}
 {"key": "wimmelten", "word": "wimmelten", "translation": "swarmed", "note": "past tense of wimmeln; crowded or teemed with creatures"}
 {"key": "wimper", "word": "Wimper", "translation": "eyelash", "note": "single hair on the eyelid"}
@@ -50979,8 +50979,8 @@
 {"key": "aguraks", "word": "Aguraks", "translation": "Aguraks", "note": ""}
 {"key": "ahahaha", "word": "Ahahaha", "translation": "hahahaha", "note": "laughter; varied spelling for comedic effect"}
 {"key": "ahem", "word": "Ahem", "translation": "ahem", "note": "an interjection expressing throat-clearing or getting attention"}
-{"key": "ahhhhhhhhh", "word": "AHHHHHHHHH", "translation": "AHHHHHHHHH", "note": "exclamation of shock or pain; varied length for emphasis"}
-{"key": "ahhhhhhhhhhhh", "word": "AHHHHHHHHHHHH", "translation": "AHHHHHHHHHHHH", "note": "longer exclamation; same as above with more syllables for intensity"}
+{"key": "ahhhhhhhhh", "word": "AHHHHHHHHH", "translation": "AHHHHHHHHH", "note": "exclamation of shock or pain; varied length for emphasis", "status": "ignored"}
+{"key": "ahhhhhhhhhhhh", "word": "AHHHHHHHHHHHH", "translation": "AHHHHHHHHHHHH", "note": "longer exclamation; same as above with more syllables for intensity", "status": "ignored"}
 {"key": "ahl'ua", "word": "Ahl'ua", "translation": "Ahl'ua", "note": ""}
 {"key": "ahlurglgr", "word": "Ahlurglgr", "translation": "Ahlurglgr", "note": "murloc speech; creature-specific vocalization", "status": "ignored"}
 {"key": "ahm", "word": "Ahm", "translation": "Ahm", "note": "proper name inscribed on an object; Draenei origin", "status": "ignored"}
@@ -51061,7 +51061,7 @@
 {"key": "aldaron", "word": "Aldaron", "translation": "Aldaron", "note": ""}
 {"key": "aldo", "word": "Aldo", "translation": "Aldo", "note": ""}
 {"key": "aldors", "word": "Aldors", "translation": "Aldors", "note": ""}
-{"key": "aldrassil", "word": "Aldrassil", "translation": "Aldrassil", "note": "the world tree of the night elves"}
+{"key": "aldrassil", "word": "Aldrassil", "translation": "Aldrassil", "note": "the world tree of the night elves", "status": "ignored"}
 {"key": "aldrassils", "word": "Aldrassils", "translation": "Aldrassil's", "note": "possessive form"}
 {"key": "aldryth", "word": "Aldryth", "translation": "Aldryth", "note": ""}
 {"key": "aleketh", "word": "Aleketh", "translation": "Aleketh", "note": ""}
@@ -51763,7 +51763,7 @@
 {"key": "arenakämpfen", "word": "Arenakämpfen", "translation": "arena fighting; arena combat", "note": "participating in battles within an arena setting"}
 {"key": "arenateams", "word": "Arenateams", "translation": "arena teams", "note": "groups of fighters competing together in arena battles"}
 {"key": "arete", "word": "Arete", "translation": "Arete", "note": "proper noun; NPC name", "status": "ignored"}
-{"key": "argghh", "word": "Argghh", "translation": "Argghh", "note": "interjection expressing frustration or pain; sound effect"}
+{"key": "argghh", "word": "Argghh", "translation": "Argghh", "note": "interjection expressing frustration or pain; sound effect", "status": "ignored"}
 {"key": "arglosen", "word": "arglosen", "translation": "innocent; unsuspecting", "note": "naive or not aware of danger; ohne Arg means without cunning"}
 {"key": "argonax", "word": "Argonax", "translation": "Argonax", "note": "proper noun; appears to be a creature or location name", "status": "ignored"}
 {"key": "argonblau", "word": "Argonblau", "translation": "Argon blue", "note": "color name; blue shade related to argon or noble gas"}
@@ -51820,14 +51820,14 @@
 {"key": "aromatisch", "word": "aromatisch", "translation": "aromatic", "note": "adjective describing something with a pleasant smell"}
 {"key": "aromatischen", "word": "aromatischen", "translation": "aromatic", "note": "inflected form of aromatisch (accusative/dative plural or accusative singular feminine)"}
 {"key": "arp", "word": "Arp", "translation": "Arp", "note": ""}
-{"key": "arr", "word": "Arr", "translation": "Arr", "note": "pirate interjection expressing surprise or emphasis"}
+{"key": "arr", "word": "Arr", "translation": "Arr", "note": "pirate interjection expressing surprise or emphasis", "status": "ignored"}
 {"key": "arra", "word": "Arra", "translation": "Arra", "note": ""}
 {"key": "arrangier'n", "word": "arrangier'n", "translation": "arrange", "note": "dialectal contraction of arrangieren (to arrange)"}
 {"key": "arretiert", "word": "arretiert", "translation": "locked; arrested", "note": "locked in place (mechanical) or arrested/detained (legal)"}
 {"key": "arrens", "word": "Arrens", "translation": "Arrens", "note": ""}
 {"key": "arroganter", "word": "arroganter", "translation": "more arrogant; arrogant", "note": "comparative form of arrogant, meaning more arrogant"}
-{"key": "arrrr", "word": "Arrrr", "translation": "Arrrr", "note": "emphatic pirate interjection with extended r's"}
-{"key": "arrrrr", "word": "Arrrrr", "translation": "Arrrrr", "note": "highly emphatic pirate exclamation"}
+{"key": "arrrr", "word": "Arrrr", "translation": "Arrrr", "note": "emphatic pirate interjection with extended r's", "status": "ignored"}
+{"key": "arrrrr", "word": "Arrrrr", "translation": "Arrrrr", "note": "highly emphatic pirate exclamation", "status": "ignored"}
 {"key": "arsad", "word": "Arsad", "translation": "Arsad", "note": ""}
 {"key": "arsch", "word": "Arsch", "translation": "ass; rump; rear end", "note": "can mean donkey or buttocks depending on context"}
 {"key": "arsenio", "word": "Arsenio", "translation": "Arsenio", "note": ""}
