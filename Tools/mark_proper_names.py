@@ -53,6 +53,8 @@ import sys
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 CURATED = ROOT / "Data/CuratedDE.jsonl"
+LUA = ROOT / "Data/DictionaryDE.lua"
+EXPECTED_LUA_CHUNKS = 6
 
 # Keep these as common words even if same translation (avoid marking ignored).
 # Extended in batch 2 (issue #1): English/loanword cognates and common nouns
@@ -319,6 +321,101 @@ def is_batch8_candidate(word: str, translation: str, note: str) -> bool:
     return True
 
 
+def parse_lua_rows():
+    """Parse DictionaryDE.lua rows: returns (lua_rows set, lua_ignored set, chunks int).
+
+    Robust key parse handling \\" and \\\\ escapes (k'arroc, kaz'jatar).
+    Never inserts rows; read-only for --check parity.
+    """
+    import re as _re
+    pat = _re.compile(r'WordHunterWoW_Dictionary_DE\["((?:\\.|[^"\\])*)"\]')
+    def _unescape(s: str) -> str:
+        out = []
+        i = 0
+        while i < len(s):
+            c = s[i]
+            if c == "\\" and i + 1 < len(s):
+                n = s[i + 1]
+                if n == "n":
+                    out.append("\n")
+                elif n == "r":
+                    out.append("\r")
+                else:
+                    out.append(n)
+                i += 2
+            else:
+                out.append(c)
+                i += 1
+        return "".join(out)
+    rows = set()
+    ignored = set()
+    chunks = 0
+    try:
+        text = LUA.read_text(encoding="utf-8").splitlines()
+    except FileNotFoundError:
+        return rows, ignored, chunks
+    for line in text:
+        if line == ";(function()":
+            chunks += 1
+            continue
+        if not line.startswith("WordHunterWoW_Dictionary_DE["):
+            continue
+        m = pat.search(line)
+        if not m:
+            continue
+        k = _unescape(m.group(1))
+        rows.add(k)
+        if 'status = "ignored"' in line:
+            ignored.add(k)
+    return rows, ignored, chunks
+
+
+def sync_lua_status(curated_ignored: set) -> int:
+    """In-place Lua status sync: add status to EXISTING rows only.
+
+    Never inserts new rows (the curated-ignored-not-in-Lua gap is the
+    build filter english_leftover/cyrillic, not a sync target).
+    Preserves chunk wrappers and line count. Returns rows updated.
+    """
+    if not LUA.exists():
+        return 0
+    lines = LUA.read_text(encoding="utf-8").splitlines()
+    import re as _re
+    pat = _re.compile(r'WordHunterWoW_Dictionary_DE\["((?:\\.|[^"\\])*)"\]')
+    def _unescape(s: str) -> str:
+        out = []
+        i = 0
+        while i < len(s):
+            c = s[i]
+            if c == "\\" and i + 1 < len(s):
+                n = s[i + 1]
+                if n == "n":
+                    out.append("\n")
+                elif n == "r":
+                    out.append("\r")
+                else:
+                    out.append(n)
+                i += 2
+            else:
+                out.append(c)
+                i += 1
+        return "".join(out)
+    updated = 0
+    out = []
+    for line in lines:
+        if line.startswith("WordHunterWoW_Dictionary_DE[") and 'status = "ignored"' not in line:
+            m = pat.search(line)
+            if m and _unescape(m.group(1)) in curated_ignored:
+                line = line.rstrip()
+                assert line.endswith(" }")
+                line = line[:-2] + ', status = "ignored" }'
+                updated += 1
+        out.append(line)
+    if updated:
+        LUA.write_text("\n".join(out) + "\n", encoding="utf-8")
+    return updated
+
+
 def main() -> int:
     check_only = "--check" in sys.argv
     lines = CURATED.read_text(encoding="utf-8").splitlines()
@@ -403,13 +500,66 @@ def main() -> int:
         else:
             out_lines.append(line)
     added = batch1 + batch2 + batch3 + batch4 + batch5 + batch6 + batch7 + batch8
+    # Hardened parity (issue #1 follow-up): curated<->Lua status must agree on
+    # shared keys. The curated-ignored-not-in-Lua gap is the build filter
+    # (english_leftover/cyrillic in build_dictionary_lua.py), reported not failed.
+    curated_ignored_keys = set()
+    for _line in lines:
+        if not _line.strip():
+            continue
+        try:
+            _r = json.loads(_line)
+        except Exception:
+            continue
+        if _r.get("status") == "ignored" and _r.get("key"):
+            curated_ignored_keys.add(_r["key"])
+    lua_rows, lua_ignored, lua_chunks = parse_lua_rows()
+    missing_from_lua = curated_ignored_keys - lua_rows
+    in_lua_no_status = (curated_ignored_keys & lua_rows) - lua_ignored
+    lua_not_in_cur = lua_ignored - curated_ignored_keys
+    deny_violations = 0
+    for _line in lines:
+        if not _line.strip():
+            continue
+        _r = json.loads(_line)
+        if _r.get("status") == "ignored":
+            _w = (_r.get("word") or "").casefold()
+            if _w in COMMON_SAME_TRANSLATION_DENY:
+                deny_violations += 1
     if check_only:
         print(f"would_mark={added} (batch1={batch1} batch2={batch2} batch3={batch3} batch4={batch4} batch5={batch5} batch6={batch6} batch7={batch7} batch8={batch8}) "
               f"already_ignored={already_ignored}")
-        return 1 if added else 0
+        print(f"lua_chunks={lua_chunks} (expected={EXPECTED_LUA_CHUNKS}) "
+              f"lua_rows={len(lua_rows)} lua_ignored={len(lua_ignored)} "
+              f"missing_from_lua={len(missing_from_lua)} "
+              f"in_lua_no_status={len(in_lua_no_status)} "
+              f"lua_not_in_cur={len(lua_not_in_cur)} "
+              f"deny_violations={deny_violations}")
+        fail = False
+        if added:
+            fail = True
+        if lua_chunks != EXPECTED_LUA_CHUNKS:
+            fail = True
+        if in_lua_no_status:
+            fail = True
+        if lua_not_in_cur:
+            fail = True
+        if deny_violations:
+            fail = True
+        return 1 if fail else 0
     CURATED.write_text("\n".join(out_lines) + "\n", encoding="utf-8")
+    # In-place Lua status sync for existing rows only (no cache needed).
+    # Recompute ignored set including newly marked rows.
+    new_ignored = set(curated_ignored_keys)
+    for _line in out_lines:
+        if not _line.strip():
+            continue
+        _r = json.loads(_line)
+        if _r.get("status") == "ignored" and _r.get("key"):
+            new_ignored.add(_r["key"])
+    lua_updated = sync_lua_status(new_ignored)
     print(f"proper_names_marked={added} (batch1={batch1} batch2={batch2} batch3={batch3} batch4={batch4} batch5={batch5} batch6={batch6} batch7={batch7} batch8={batch8}) "
-          f"already_ignored={already_ignored} curated_total={len(out_lines)}")
+          f"already_ignored={already_ignored} curated_total={len(out_lines)} lua_updated={lua_updated}")
     return 0
 
 
