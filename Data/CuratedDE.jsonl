@@ -54765,7 +54765,7 @@
 {"key": "dresaelus", "word": "Dresaelus", "translation": "Dresaelus", "note": ""}
 {"key": "dresch", "word": "Dresch", "translation": "Thresh", "note": ""}
 {"key": "dreschadon", "word": "Dreschadon", "translation": "Dreshadon", "note": "creature name"}
-{"key": "dresaron", "word": "Dresaron", "translation": "Dresaron", "note": ""}
+{"key": "dresaron", "word": "Dresaron", "translation": "Dresaron", "note": "", "status": "ignored"}
 {"key": "dreschadons", "word": "Dreschadons", "translation": "Dreshadons", "note": "plural of dreschadon"}
 {"key": "dreschen", "word": "Dreschen", "translation": "threshing", "note": "noun/gerund; to thresh grain; agricultural term"}
 {"key": "drescherkai", "word": "Drescherkai", "translation": "Drescherkai", "note": "location; drescher (thresher) + kai (wharf)", "status": "ignored"}
@@ -54774,12 +54774,12 @@
 {"key": "drescheröl", "word": "Drescheröl", "translation": "thresher oil", "note": "oil from thresher creatures; compound"}
 {"key": "dressieren", "word": "dressieren", "translation": "train", "note": "verb; to train or break in animals"}
 {"key": "dressierten", "word": "dressierten", "translation": "trained", "note": "past participle used as adjective"}
-{"key": "dreuger", "word": "Dreuger", "translation": "Dreuger", "note": ""}
-{"key": "dreyrgrot", "word": "Dreyrgrot", "translation": "Dreyrgrot", "note": ""}
+{"key": "dreuger", "word": "Dreuger", "translation": "Dreuger", "note": "", "status": "ignored"}
+{"key": "dreyrgrot", "word": "Dreyrgrot", "translation": "Dreyrgrot", "note": "", "status": "ignored"}
 {"key": "drift", "word": "Drift", "translation": "drift", "note": "noun; linguistic drift; gradual language change"}
 {"key": "driftet", "word": "driftet", "translation": "drifts", "note": "present tense; drifts or moves gradually"}
 {"key": "drillt", "word": "drillt", "translation": "drills", "note": "present tense; drills or trains intensively"}
-{"key": "drillzang", "word": "Drillzang", "translation": "Drillzang", "note": ""}
+{"key": "drillzang", "word": "Drillzang", "translation": "Drillzang", "note": "", "status": "ignored"}
 {"key": "dringeblieben", "word": "dringeblieben", "translation": "stayed in", "note": "compound: drin (in) + geblieben (stayed)"}
 {"key": "dringenderes", "word": "Dringenderes", "translation": "more urgent", "note": "comparative adjective; dringend (urgent)"}
 {"key": "dringlich", "word": "dringlich", "translation": "urgent", "note": "adjective; urgent or pressing"}
@@ -54794,7 +54794,7 @@
 {"key": "driz", "word": "Driz", "translation": "Driz", "note": ""}
 {"key": "drizzliks", "word": "Drizzliks", "translation": "Drizzliks", "note": ""}
 {"key": "drohbriefen", "word": "Drohbriefen", "translation": "threatening letters", "note": "plural; droh (threat) + brief (letter)"}
-{"key": "droggam", "word": "Droggam", "translation": "Droggam", "note": ""}
+{"key": "droggam", "word": "Droggam", "translation": "Droggam", "note": "", "status": "ignored"}
 {"key": "drohn", "word": "Drohn", "translation": "drone", "note": "noun; a drone or male bee"}
 {"key": "drohne", "word": "Drohne", "translation": "drone", "note": "noun; a drone or female bee"}
 {"key": "drohung", "word": "Drohung", "translation": "threat", "note": "noun; a threat; drohen (to threaten) + -ung"}
@@ -54849,7 +54849,7 @@
 {"key": "duftigste", "word": "duftigste", "translation": "most fragrant", "note": "superlative of duftig (fragrant)"}
 {"key": "dui", "word": "dui", "translation": "dui", "note": "not German; appears to be placeholder text"}
 {"key": "dulde", "word": "dulde", "translation": "tolerate", "note": "first person present; I tolerate/endure"}
-{"key": "dul'zak", "word": "Dul'zak", "translation": "Dul'zak", "note": ""}
+{"key": "dul'zak", "word": "Dul'zak", "translation": "Dul'zak", "note": "", "status": "ignored"}
 {"key": "dumah", "word": "Dumah", "translation": "Dumah", "note": ""}
 {"key": "dummchen", "word": "Dummchen", "translation": "dummy; silly one", "note": "-chen diminutive; affectionate/mocking"}
 {"key": "dummerchen", "word": "Dummerchen", "translation": "silly one", "note": "-chen diminutive of dumm (stupid); affectionate mockery"}
@@ -54863,7 +54863,7 @@
 {"key": "dunkin", "word": "Dunkin", "translation": "Dunkin", "note": ""}
 {"key": "dunkl'n", "word": "Dunkl'n", "translation": "dark magic; the dark", "note": "colloquial form of Dunkel/dunkle; substantive"}
 {"key": "dunklere", "word": "dunklere", "translation": "darker", "note": "comparative of dunkel; darker changes or forces"}
-{"key": "dunstan", "word": "Dunstan", "translation": "Dunstan", "note": ""}
+{"key": "dunstan", "word": "Dunstan", "translation": "Dunstan", "note": "", "status": "ignored"}
 {"key": "dunstblätter", "word": "Dunstblätter", "translation": "haze leaves", "note": "dunst (haze/vapor) + blätter (leaves); mushroom part"}
 {"key": "dunstigen", "word": "dunstigen", "translation": "hazy", "note": "adjective form; dunst + -ig suffix meaning like haze"}
 {"key": "dunstkerlen", "word": "Dunstkerlen", "translation": "mist-runners; haze creatures", "note": "dunst + kerl (fellow); relates to Tuk-Hariq"}
@@ -55021,7 +55021,7 @@
 {"key": "ebendiese", "word": "Ebendiese", "translation": "these very ones", "note": "pronoun meaning those exact ones or the very same; plural form"}
 {"key": "ebenenfalken", "word": "Ebenenfalken", "translation": "Plainshawks", "note": "eben (plain) + falken (hawks); creature name compound"}
 {"key": "ebenjene", "word": "ebenjene", "translation": "those very ones", "note": "pronoun meaning those exact same ones"}
-{"key": "ebenkiel", "word": "Ebenkiel", "translation": "Ebenkiel", "note": ""}
+{"key": "ebenkiel", "word": "Ebenkiel", "translation": "Ebenkiel", "note": "", "status": "ignored"}
 {"key": "ebensolche", "word": "ebensolche", "translation": "the same ones", "note": "pronoun referring to identical or equivalent things"}
 {"key": "ebensowenig", "word": "Ebensowenig", "translation": "nor", "note": "adverb meaning neither or also not; used to exclude something from a statement"}
 {"key": "eberbauer", "word": "Eberbauer", "translation": "Eberbauer", "note": "character name; eber (boar) + bauer (farmer); literally boar farmer", "status": "ignored"}
@@ -55045,7 +55045,7 @@
 {"key": "echthras", "word": "Echthras", "translation": "Echthras", "note": ""}
 {"key": "ecilam", "word": "Ecilam", "translation": "Ecilam", "note": "character name", "status": "ignored"}
 {"key": "eckert", "word": "Eckert", "translation": "Eckert", "note": ""}
-{"key": "eckhart", "word": "Eckhart", "translation": "Eckhart", "note": ""}
+{"key": "eckhart", "word": "Eckhart", "translation": "Eckhart", "note": "", "status": "ignored"}
 {"key": "eckharts", "word": "Eckharts", "translation": "Eckhart's", "note": "possessive form of the name Eckhart"}
 {"key": "eckige", "word": "Eckige", "translation": "angular", "note": "adjective meaning having sharp corners or angles; nominalized here"}
 {"key": "ed", "word": "ED", "translation": "ED", "note": "abbreviation or character name"}
@@ -55151,9 +55151,9 @@
 {"key": "eigneten", "word": "eigneten", "translation": "were suited", "note": "past tense of 'eignen' (to suit/befit)"}
 {"key": "eignungsprobe", "word": "Eignungsprobe", "translation": "aptitude test", "note": "suitability + test; assessment"}
 {"key": "eignungstest", "word": "Eignungstest", "translation": "aptitude test", "note": "capability + test; assessment"}
-{"key": "eikceps", "word": "Eikceps", "translation": "Eikceps", "note": ""}
+{"key": "eikceps", "word": "Eikceps", "translation": "Eikceps", "note": "", "status": "ignored"}
 {"key": "eil'n", "word": "eil'n", "translation": "hurry", "note": "contraction of 'eilen'; rush or hasten"}
-{"key": "eileese", "word": "Eileese", "translation": "Eileese", "note": ""}
+{"key": "eileese", "word": "Eileese", "translation": "Eileese", "note": "", "status": "ignored"}
 {"key": "eilementare", "word": "Eilementare", "translation": "egg elementals", "note": "egg + elementals; magical creatures"}
 {"key": "eilends", "word": "eilends", "translation": "quickly", "note": "from eile (haste); swiftly, hastily"}
 {"key": "eiliges", "word": "Eiliges", "translation": "urgent", "note": "from eile (haste); pressing matter"}
@@ -55568,8 +55568,8 @@
 {"key": "elitär", "word": "elitär", "translation": "elitist", "note": "adjective: elitist, exclusive"}
 {"key": "elixir", "word": "Elixir", "translation": "Elixir", "note": ""}
 {"key": "elizas", "word": "Elizas", "translation": "Elizas", "note": ""}
-{"key": "eljrrin", "word": "Eljrrin", "translation": "Eljrrin", "note": ""}
-{"key": "ellaria", "word": "Ellaria", "translation": "Ellaria", "note": ""}
+{"key": "eljrrin", "word": "Eljrrin", "translation": "Eljrrin", "note": "", "status": "ignored"}
+{"key": "ellaria", "word": "Ellaria", "translation": "Ellaria", "note": "", "status": "ignored"}
 {"key": "ellas", "word": "Ellas", "translation": "Ellas", "note": ""}
 {"key": "ellen", "word": "Ellen", "translation": "Ellen", "note": ""}
 {"key": "ellenbogen", "word": "Ellenbogen", "translation": "Elbow", "note": "body part: joint of the arm"}
@@ -55585,12 +55585,12 @@
 {"key": "elritze", "word": "Elritze", "translation": "minnow", "note": "small freshwater fish"}
 {"key": "elrynas", "word": "Elrynas", "translation": "Elrynas", "note": ""}
 {"key": "elryna", "word": "Elryna", "translation": "Elryna", "note": ""}
-{"key": "elsbeth", "word": "Elsbeth", "translation": "Elsbeth", "note": ""}
+{"key": "elsbeth", "word": "Elsbeth", "translation": "Elsbeth", "note": "", "status": "ignored"}
 {"key": "elstern", "word": "Elstern", "translation": "magpies", "note": "birds known for collecting shiny objects"}
 {"key": "elterliche", "word": "Elterliche", "translation": "parental", "note": "relating to parents or parenting"}
 {"key": "elternfreuden", "word": "Elternfreuden", "translation": "parental joys", "note": "plural: joys of parenthood"}
 {"key": "elternteil", "word": "Elternteil", "translation": "parent", "note": ""}
-{"key": "elune'eth", "word": "Elune'eth", "translation": "Elune'eth", "note": ""}
+{"key": "elune'eth", "word": "Elune'eth", "translation": "Elune'eth", "note": "", "status": "ignored"}
 {"key": "elvire", "word": "Elvire", "translation": "Elvire", "note": ""}
 {"key": "elwyn", "word": "Elwyn", "translation": "Elwyn", "note": ""}
 {"key": "elvires", "word": "Elvires", "translation": "Elvires", "note": ""}
@@ -55598,7 +55598,7 @@
 {"key": "emblemen", "word": "Emblemen", "translation": "emblems", "note": ""}
 {"key": "emi", "word": "Emi", "translation": "Emily", "note": ""}
 {"key": "emils", "word": "Emils", "translation": "Emils", "note": ""}
-{"key": "emilune", "word": "Emilune", "translation": "Emilune", "note": ""}
+{"key": "emilune", "word": "Emilune", "translation": "Emilune", "note": "", "status": "ignored"}
 {"key": "eminenter", "word": "eminenter", "translation": "more eminent", "note": "comparative: more eminent, more distinguished"}
 {"key": "emma", "word": "Emma", "translation": "Emma", "note": ""}
 {"key": "emmara", "word": "Emmara", "translation": "Emmara", "note": ""}
