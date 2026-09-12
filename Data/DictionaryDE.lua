@@ -4825,7 +4825,7 @@ WordHunterWoW_Dictionary_DE["argumente"] = { word = "Argumente", translation = "
 WordHunterWoW_Dictionary_DE["argumenten"] = { word = "Argumenten", translation = "arguments", note = "dative plural" }
 WordHunterWoW_Dictionary_DE["argumentieren"] = { word = "argumentieren", translation = "argue", note = "the infinitive ends in -ieren and does not take ge- in the past participle" }
 WordHunterWoW_Dictionary_DE["argumentierten"] = { word = "argumentierten", translation = "argued", note = "past tense of argumentieren" }
-WordHunterWoW_Dictionary_DE["argunite"] = { word = "Argunite", translation = "Argunite", note = "", status = "ignored" }
+WordHunterWoW_Dictionary_DE["argunite"] = { word = "Argunite", translation = "Argunite", note = "" }
 WordHunterWoW_Dictionary_DE["argunitkristall"] = { word = "Argunitkristall", translation = "Argunite crystal", note = "argun + it suffix + kristall (crystal); WoW crafting material" }
 WordHunterWoW_Dictionary_DE["argunitkristalle"] = { word = "Argunitkristalle", translation = "Argunite crystals", note = "argunite + Kristalle (crystals); the German plural is -e" }
 WordHunterWoW_Dictionary_DE["argunitkristallen"] = { word = "Argunitkristallen", translation = "Argunite crystals", note = "" }
@@ -15779,7 +15779,7 @@ WordHunterWoW_Dictionary_DE["dap"] = { word = "dap", translation = "dap", note =
 WordHunterWoW_Dictionary_DE["daphne"] = { word = "Daphne", translation = "Daphne", note = "NPC name" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["dar"] = { word = "dar", translation = "there; (darstellen: to represent)", note = "particle of separable verb darstellen" }
 WordHunterWoW_Dictionary_DE["dar'gud"] = { word = "Dar'gud", translation = "Dar'gud", note = "", status = "ignored" }
-WordHunterWoW_Dictionary_DE["dar'guds"] = { word = "Dar'guds", translation = "Dar'guds", note = "", status = "ignored" }
+WordHunterWoW_Dictionary_DE["dar'guds"] = { word = "Dar'guds", translation = "Dar'guds", note = "" }
 WordHunterWoW_Dictionary_DE["dar'kahns"] = { word = "Dar'kahns", translation = "Dar'kahns", note = "" }
 WordHunterWoW_Dictionary_DE["dar'khan"] = { word = "Dar'Khan", translation = "Dar'Khan", note = "WoW proper name", status = "ignored" }
 WordHunterWoW_Dictionary_DE["dar'khans"] = { word = "Dar'Khans", translation = "Dar'Khans", note = "" }
@@ -71825,7 +71825,7 @@ WordHunterWoW_Dictionary_DE["saure"] = { word = "saure", translation = "sour", n
 WordHunterWoW_Dictionary_DE["saurer"] = { word = "Saurer", translation = "sour", note = "having acid taste; comparative form" }
 WordHunterWoW_Dictionary_DE["saures"] = { word = "Saures", translation = "sour", note = "neuter adjective form" }
 WordHunterWoW_Dictionary_DE["saurfang"] = { word = "Saurfang", translation = "Saurfang", note = "proper noun: orc character in WoW", status = "ignored" }
-WordHunterWoW_Dictionary_DE["saurfangs"] = { word = "Saurfangs", translation = "Saurfangs", note = "", status = "ignored" }
+WordHunterWoW_Dictionary_DE["saurfangs"] = { word = "Saurfangs", translation = "Saurfangs", note = "" }
 WordHunterWoW_Dictionary_DE["saurid"] = { word = "Saurid", translation = "Saurid", note = "" }
 WordHunterWoW_Dictionary_DE["saurid'n"] = { word = "Saurid'n", translation = "Saurid'n", note = "" }
 WordHunterWoW_Dictionary_DE["sauriden"] = { word = "Sauriden", translation = "Saurids", note = "plural of saurid; dinosaur-like creatures" }
@@ -94243,7 +94243,7 @@ WordHunterWoW_Dictionary_DE["vol'duns"] = { word = "Vol'duns", translation = "Vo
 WordHunterWoW_Dictionary_DE["vol'jamba"] = { word = "Vol'jamba", translation = "Vol'jamba", note = "proper name; kept as is", status = "ignored" }
 WordHunterWoW_Dictionary_DE["vol'jambas"] = { word = "Vol'jambas", translation = "Vol'jambas", note = "" }
 WordHunterWoW_Dictionary_DE["vol'jin"] = { word = "Vol'jin", translation = "Vol'jin", note = "proper noun; troll character", status = "ignored" }
-WordHunterWoW_Dictionary_DE["vol'jins"] = { word = "Vol'jins", translation = "Vol'jins", note = "", status = "ignored" }
+WordHunterWoW_Dictionary_DE["vol'jins"] = { word = "Vol'jins", translation = "Vol'jins", note = "" }
 WordHunterWoW_Dictionary_DE["vol'kaal"] = { word = "Vol'kaal", translation = "Vol'kaal", note = "proper name", status = "ignored" }
 WordHunterWoW_Dictionary_DE["vol'mar"] = { word = "Vol'mar", translation = "Vol'mar", note = "" }
 WordHunterWoW_Dictionary_DE["vol'talo"] = { word = "Vol'talo", translation = "Vol'talo", note = "" }

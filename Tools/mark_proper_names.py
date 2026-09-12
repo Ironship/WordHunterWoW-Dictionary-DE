@@ -88,6 +88,8 @@ COMMON_SAME_TRANSLATION_DENY = {
     # Manual curator passes 20: fragments/generics kept learnable.
     "god", "titan", "run", "song", "broken", "highlands",
     "foothills", "glades", "booty", "harbor", "gorge", "grotto",
+    # Audit 30-50: materials + inflected plurals, not standalone names.
+    "argunite", "azerite", "vol'jins", "saurfangs", "dar'guds",
 }
 
 PROPER_PATTERN = re.compile(r"^[A-ZÄÖÜ].*[A-Za-zÄÖÜäöüß'’\-]*$")

@@ -24467,7 +24467,7 @@
 {"key": "versehentlich", "word": "versehentlich", "translation": "inadvertently", "note": ""}
 {"key": "versklavten", "word": "versklavten", "translation": "enslaved", "note": ""}
 {"key": "verteidigern", "word": "Verteidigern", "translation": "defenders", "note": ""}
-{"key": "vol'jins", "word": "Vol'jins", "translation": "Vol'jins", "note": "", "status": "ignored"}
+{"key": "vol'jins", "word": "Vol'jins", "translation": "Vol'jins", "note": ""}
 {"key": "vollständigen", "word": "vollständigen", "translation": "complete", "note": ""}
 {"key": "vorbild", "word": "Vorbild", "translation": "Example", "note": ""}
 {"key": "vorgefallen", "word": "vorgefallen", "translation": "occurred", "note": ""}
@@ -36011,7 +36011,7 @@
 {"key": "satyrnaar", "word": "Satyrnaar", "translation": "Satyrnaar", "note": "", "status": "ignored"}
 {"key": "sauger", "word": "Sauger", "translation": "sucker", "note": "animal that sucks; a type of fish; from saugen (to suck)"}
 {"key": "saugt", "word": "saugt", "translation": "sucks", "note": "third person singular of saugen; draws liquid"}
-{"key": "saurfangs", "word": "Saurfangs", "translation": "Saurfangs", "note": "", "status": "ignored"}
+{"key": "saurfangs", "word": "Saurfangs", "translation": "Saurfangs", "note": ""}
 {"key": "sause", "word": "Sause", "translation": "spree", "note": "colloquial; means party, revel, wild time"}
 {"key": "schafe", "word": "Schafe", "translation": "sheep", "note": "plural of Schaf; livestock animal"}
 {"key": "scham", "word": "Scham", "translation": "shame", "note": "feeling of shame, disgrace; also modesty"}
@@ -37385,7 +37385,7 @@
 {"key": "ayame", "word": "Ayame", "translation": "Ayame", "note": ""}
 {"key": "azarad", "word": "Azarad", "translation": "Azarad", "note": ""}
 {"key": "azathar", "word": "Azathar", "translation": "Azathar", "note": "", "status": "ignored"}
-{"key": "azerite", "word": "Azerite", "translation": "Azerite", "note": "", "status": "ignored"}
+{"key": "azerite", "word": "Azerite", "translation": "Azerite", "note": ""}
 {"key": "azeritkugel", "word": "Azeritkugel", "translation": "Azerite sphere", "note": ""}
 {"key": "azeritvorräte", "word": "Azeritvorräte", "translation": "Azerite supplies", "note": ""}
 {"key": "azeritwaffen", "word": "Azeritwaffen", "translation": "Azerite weapons", "note": ""}
@@ -42074,7 +42074,7 @@
 {"key": "argloser", "word": "argloser", "translation": "naive", "note": "nominative masculine singular; not comparative (more) but descriptive"}
 {"key": "argul", "word": "Argul", "translation": "Argul", "note": ""}
 {"key": "argumenten", "word": "Argumenten", "translation": "arguments", "note": "dative plural"}
-{"key": "argunite", "word": "Argunite", "translation": "Argunite", "note": "", "status": "ignored"}
+{"key": "argunite", "word": "Argunite", "translation": "Argunite", "note": ""}
 {"key": "argunitmatrix", "word": "Argunitmatrix", "translation": "Argunite matrix", "note": "argunite + matrix; energy source on argus"}
 {"key": "arhdas", "word": "Arhdas", "translation": "Arhdas", "note": ""}
 {"key": "arik", "word": "Arik", "translation": "Arik", "note": ""}
@@ -43052,7 +43052,7 @@
 {"key": "dankes", "word": "Dankes", "translation": "thanks", "note": "noun from Dank (gratitude/thanks)"}
 {"key": "dap", "word": "dap", "translation": "dap", "note": ""}
 {"key": "danwe", "word": "Danwe", "translation": "Danwe", "note": ""}
-{"key": "dar'guds", "word": "Dar'guds", "translation": "Dar'guds", "note": "", "status": "ignored"}
+{"key": "dar'guds", "word": "Dar'guds", "translation": "Dar'guds", "note": ""}
 {"key": "dar'gud", "word": "Dar'gud", "translation": "Dar'gud", "note": "", "status": "ignored"}
 {"key": "darbringt", "word": "darbringt", "translation": "offers", "note": "separable verb: dar- (forth) + bringt (brings)"}
 {"key": "dardosh", "word": "Dardosh", "translation": "Dardosh", "note": "", "status": "ignored"}
