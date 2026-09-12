@@ -33078,7 +33078,7 @@
 {"key": "mordigan", "word": "Mordigan", "translation": "Mordigan", "note": ""}
 {"key": "morgenröte", "word": "Morgenröte", "translation": "Dawn", "note": "literally morning-redness; refers to place or concept of dawn"}
 {"key": "mrg", "word": "Mrg", "translation": "Mrg", "note": "murloc speech"}
-{"key": "mrrl", "word": "Mrrl", "translation": "Mrrl", "note": "murloc speech"}
+{"key": "mrrl", "word": "Mrrl", "translation": "Mrrl", "note": "murloc speech", "status": "ignored"}
 {"key": "mulgores", "word": "Mulgores", "translation": "Mulgore", "note": "creature type (highland cattle-like); note singular"}
 {"key": "mung-mungs", "word": "Mung-Mungs", "translation": "Mung-Mungs", "note": ""}
 {"key": "muschelette", "word": "Muschelette", "translation": "Shellette", "note": ""}
@@ -33136,7 +33136,7 @@
 {"key": "nistklufttour", "word": "Nistklufttour", "translation": "Nesting Cleft tour", "note": "compound: Nist (nesting) + Kluft (cleft/gap) + Tour"}
 {"key": "nord", "word": "Nord", "translation": "North", "note": ""}
 {"key": "nordwestliche", "word": "nordwestliche", "translation": "northwestern", "note": "adjective form"}
-{"key": "norgannon", "word": "Norgannon", "translation": "Norgannon", "note": "WoW titan/entity"}
+{"key": "norgannon", "word": "Norgannon", "translation": "Norgannon", "note": "WoW titan/entity", "status": "ignored"}
 {"key": "notfallplan", "word": "Notfallplan", "translation": "emergency plan", "note": "Not (emergency) + Fall (case) + Plan"}
 {"key": "nullifizierer", "word": "Nullifizierer", "translation": "Nullifier", "note": ""}
 {"key": "nutzlose", "word": "Nutzlose", "translation": "useless ones", "note": "plural form referring to creatures"}
@@ -35184,8 +35184,8 @@
 {"key": "hierzubleiben", "word": "hierzubleiben", "translation": "stay here; remain", "note": "hier (here) + zu (to) + bleiben (stay); infinitive form in context"}
 {"key": "hilaani", "word": "Hilaani", "translation": "Hilaani", "note": "proper name, leave unchanged; appears to be a wanted person's name in quest", "status": "ignored"}
 {"key": "hilaire", "word": "Hilaire", "translation": "Hilaire", "note": "proper name; appears in 'Hilaire heimrufen' (summon Hilaire home)", "status": "ignored"}
-{"key": "hildarthing", "word": "Hildarthing", "translation": "Hildarthing", "note": "WoW-specific term (vrykul rite of passage); likely referring to a vrykul trial"}
-{"key": "hildarthings", "word": "Hildarthings", "translation": "Hildarthings", "note": "plural of Hildarthing; the multiple tasks of vrykul trials"}
+{"key": "hildarthing", "word": "Hildarthing", "translation": "Hildarthing", "note": "WoW-specific term (vrykul rite of passage); likely referring to a vrykul trial", "status": "ignored"}
+{"key": "hildarthings", "word": "Hildarthings", "translation": "Hildarthings", "note": "plural of Hildarthing; the multiple tasks of vrykul trials", "status": "ignored"}
 {"key": "hilferufe", "word": "Hilferufe", "translation": "cries for help; distress calls", "note": "hilfe (help) + rufe (calls); plural form of distress calls across islands"}
 {"key": "hilflosen", "word": "Hilflosen", "translation": "helpless; those in need", "note": "hilflos (helpless) + -en ending; refers to people in need of aid"}
 {"key": "hilfreicher", "word": "hilfreicher", "translation": "more helpful; more useful", "note": "hilf (help) + reicher (more rich); comparative adjective meaning more helpful"}
@@ -35614,7 +35614,7 @@
 {"key": "millimeter", "word": "Millimeter", "translation": "millimeter", "note": "minute distance; every millimeter of air guarded by dragons"}
 {"key": "mimuup", "word": "Mimuup", "translation": "Mimuup", "note": "NPC name", "status": "ignored"}
 {"key": "minerva", "word": "Minerva", "translation": "Minerva", "note": "NPC name", "status": "ignored"}
-{"key": "minx", "word": "Minx", "translation": "Minx", "note": "goblin name"}
+{"key": "minx", "word": "Minx", "translation": "Minx", "note": "goblin name", "status": "ignored"}
 {"key": "mishka", "word": "Mishka", "translation": "Mishka", "note": "NPC name", "status": "ignored"}
 {"key": "missgeschick", "word": "Missgeschick", "translation": "mishap", "note": "miss (bad) + geschick (luck): misfortune or stroke of bad luck"}
 {"key": "mit'm", "word": "mit'm", "translation": "with me", "note": "contraction of mit + mir"}
@@ -35626,7 +35626,7 @@
 {"key": "mittagessen", "word": "Mittagessen", "translation": "Lunch", "note": "mitt (mid) + ag (day) + essen (meal): midday meal"}
 {"key": "mitteilt", "word": "mitteilt", "translation": "communicates", "note": "teil (share): shares or imparts information"}
 {"key": "mittelmässiger", "word": "mittelmäßiger", "translation": "mediocre", "note": "mittel (middle) + mässig (moderate): middling or average quality"}
-{"key": "mmarl", "word": "Mmarl", "translation": "Mmarl", "note": "Niffensettlement name"}
+{"key": "mmarl", "word": "Mmarl", "translation": "Mmarl", "note": "Niffensettlement name", "status": "ignored"}
 {"key": "mobil", "word": "mobil", "translation": "mobile", "note": "capable of moving or being moved"}
 {"key": "modell", "word": "Modell", "translation": "model", "note": "from Italian modello: a representation or pattern"}
 {"key": "modhina", "word": "Modhina", "translation": "Modhina", "note": "NPC name", "status": "ignored"}
@@ -35712,7 +35712,7 @@
 {"key": "nexuskammer", "word": "Nexuskammer", "translation": "Nexus chamber", "note": "nexus (magical link) + kammer (chamber): central arcane room"}
 {"key": "nibbler", "word": "Nibbler", "translation": "Nibbler", "note": "NPC name; dragon whelp", "status": "ignored"}
 {"key": "nicken", "word": "Nicken", "translation": "nod", "note": "to move head up and down in agreement"}
-{"key": "nidavelir", "word": "Nidavelir", "translation": "Nidavelir", "note": "from Norse mythology: realm of the dwarves"}
+{"key": "nidavelir", "word": "Nidavelir", "translation": "Nidavelir", "note": "from Norse mythology: realm of the dwarves", "status": "ignored"}
 {"key": "niedrigeren", "word": "niedrigeren", "translation": "lower", "note": "comparative of niedrig: at a lesser height or rank"}
 {"key": "niedrigsten", "word": "niedrigsten", "translation": "lowest", "note": "superlative of niedrig: at the least height or rank"}
 {"key": "niemandes", "word": "Niemandes", "translation": "Nobody's", "note": "genitive possessive: belonging to no one"}
@@ -35746,7 +35746,7 @@
 {"key": "obet", "word": "Obet", "translation": "Obet", "note": "NPC name; character or being", "status": "ignored"}
 {"key": "objectives", "word": "Objectives", "translation": "Objectives", "note": "English word: quest goals or targets"}
 {"key": "observatorium", "word": "Observatorium", "translation": "observatory", "note": "from Latin observare: place for observation and study"}
-{"key": "obsidium", "word": "Obsidium", "translation": "Obsidium", "note": "WoW crafting material: volcanic glass-like ore"}
+{"key": "obsidium", "word": "Obsidium", "translation": "Obsidium", "note": "WoW crafting material: volcanic glass-like ore", "status": "ignored"}
 {"key": "obstorn", "word": "Obstorn", "translation": "Obstorn", "note": "NPC name; draconic character", "status": "ignored"}
 {"key": "och", "word": "Och", "translation": "Oh", "note": "dialectal/exclamation: expression of surprise"}
 {"key": "ochsen", "word": "Ochsen", "translation": "Oxen", "note": "plural of Ochse: castrated male cattle"}
@@ -36142,13 +36142,13 @@
 {"key": "shango", "word": "Shango", "translation": "Shango", "note": "creature", "status": "ignored"}
 {"key": "shaz'gul", "word": "Shaz'gul", "translation": "Shaz'gul", "note": "fortress name", "status": "ignored"}
 {"key": "shelly", "word": "Shelly", "translation": "Shelly", "note": "NPC; druid", "status": "ignored"}
-{"key": "shen'dralar", "word": "Shen'dralar", "translation": "Shen'dralar", "note": "elven enclave"}
+{"key": "shen'dralar", "word": "Shen'dralar", "translation": "Shen'dralar", "note": "elven enclave", "status": "ignored"}
 {"key": "sher'khaan", "word": "Sher'khaan", "translation": "Sher'khan", "note": "creature name"}
 {"key": "shinfel", "word": "Shinfel", "translation": "Shinfel", "note": "NPC", "status": "ignored"}
 {"key": "shokhari", "word": "Shokhari", "translation": "Shokhari", "note": "creature", "status": "ignored"}
 {"key": "should", "word": "should", "translation": "should", "note": "English word"}
 {"key": "shraubendre", "word": "Shraubendre", "translation": "Screwdriver", "note": "mechanic name"}
-{"key": "shu'halo", "word": "Shu'halo", "translation": "Shu'halo", "note": "Tauren"}
+{"key": "shu'halo", "word": "Shu'halo", "translation": "Shu'halo", "note": "Tauren", "status": "ignored"}
 {"key": "siamat", "word": "Siamat", "translation": "Siamat", "note": "WoW boss", "status": "ignored"}
 {"key": "sichtbereich", "word": "Sichtbereich", "translation": "field of view", "note": "sicht + bereich"}
 {"key": "siedenden", "word": "Siedenden", "translation": "boiling", "note": "present of sieden"}
@@ -36164,7 +36164,7 @@
 {"key": "sinniert", "word": "sinniert", "translation": "muses", "note": "third-person"}
 {"key": "siouxsie", "word": "Siouxsie", "translation": "Siouxsie", "note": "NPC", "status": "ignored"}
 {"key": "sire", "word": "Sire", "translation": "Sire", "note": "formal address"}
-{"key": "skibbles", "word": "Skibbles", "translation": "Skibbles", "note": "gnome"}
+{"key": "skibbles", "word": "Skibbles", "translation": "Skibbles", "note": "gnome", "status": "ignored"}
 {"key": "skithversteck", "word": "Skithversteck", "translation": "Skith Hideout", "note": "skith + versteck"}
 {"key": "skizze", "word": "Skizze", "translation": "sketch", "note": "drawing"}
 {"key": "skorbut", "word": "Skorbut", "translation": "scurvy", "note": "disease"}
@@ -36812,8 +36812,8 @@
 {"key": "yorgens", "word": "Yorgens", "translation": "Yorgens", "note": "proper noun: likely distorted or regional variant of a name", "status": "ignored"}
 {"key": "ysiel", "word": "Ysiel", "translation": "Ysiel", "note": "proper noun: NPC name; starts with Y suggesting elf connection", "status": "ignored"}
 {"key": "ysondre", "word": "Ysondre", "translation": "Ysondre", "note": "proper noun: NPC name; variant dragon or celestial being", "status": "ignored"}
-{"key": "yu'lon", "word": "Yu'lon", "translation": "Yu'lon", "note": "yu'lon of the Jade Serpent; celestial dragon associated with water"}
-{"key": "za'brox", "word": "Za'brox", "translation": "Za'brox", "note": "orc warlock under Cho'gall"}
+{"key": "yu'lon", "word": "Yu'lon", "translation": "Yu'lon", "note": "yu'lon of the Jade Serpent; celestial dragon associated with water", "status": "ignored"}
+{"key": "za'brox", "word": "Za'brox", "translation": "Za'brox", "note": "orc warlock under Cho'gall", "status": "ignored"}
 {"key": "zaeldarr", "word": "Zaeldarr", "translation": "Zaeldarr", "note": "outcast demon NPC", "status": "ignored"}
 {"key": "zaen", "word": "Zaen", "translation": "Zaen", "note": "blood elf smuggler NPC", "status": "ignored"}
 {"key": "zapfen", "word": "Zapfen", "translation": "Cones", "note": "seed cones or tree cones; reproductive structures of conifers"}
@@ -36855,7 +36855,7 @@
 {"key": "ziels", "word": "Ziels", "translation": "target", "note": "target or goal (genitive form)"}
 {"key": "ziemlichen", "word": "ziemlichen", "translation": "considerable", "note": "quite a bit or considerable amount; 'pretty' doesn't fit the context"}
 {"key": "ziggurats", "word": "Ziggurats", "translation": "Ziggurats", "note": "ziggurats; stepped pyramid structures"}
-{"key": "zim'abwa", "word": "Zim'Abwa", "translation": "Zim'Abwa", "note": "Zandalari blessing or ritual name"}
+{"key": "zim'abwa", "word": "Zim'Abwa", "translation": "Zim'Abwa", "note": "Zandalari blessing or ritual name", "status": "ignored"}
 {"key": "zimperlich", "word": "zimperlich", "translation": "squeamish", "note": "squeamish or prim; finicky"}
 {"key": "zinnen", "word": "Zinnen", "translation": "Battlements", "note": "battlements; crenellated fortifications"}
 {"key": "zirdo", "word": "Zirdo", "translation": "Zirdo", "note": "goblin NPC vendor", "status": "ignored"}
@@ -36874,7 +36874,7 @@
 {"key": "zugutekommen", "word": "zugutekommen", "translation": "benefit", "note": "benefit or come to the good of; to aid"}
 {"key": "zul'jans", "word": "Zul'jans", "translation": "Zul'jans", "note": "Zandalari troll NPC name", "status": "ignored"}
 {"key": "zul'marosh", "word": "Zul'Marosh", "translation": "Zul'Marosh", "note": "Zandalari stronghold or location", "status": "ignored"}
-{"key": "zulmork", "word": "Zulmork", "translation": "Zulmork", "note": "orc warlock name"}
+{"key": "zulmork", "word": "Zulmork", "translation": "Zulmork", "note": "orc warlock name", "status": "ignored"}
 {"key": "zulsan", "word": "Zulsan", "translation": "Zulsan", "note": "Tauren NPC character name", "status": "ignored"}
 {"key": "zumutbare", "word": "zumutbare", "translation": "reasonable", "note": "reasonable or acceptable; what one can ask of someone"}
 {"key": "zuordnen", "word": "zuordnen", "translation": "assign", "note": "assign or allocate"}
@@ -37077,7 +37077,7 @@
 {"key": "althalaxx", "word": "Althalaxx", "translation": "Althalaxx", "note": "creature character", "status": "ignored"}
 {"key": "am'mentals", "word": "Am'mentals", "translation": "Am'mentals", "note": "region location", "status": "ignored"}
 {"key": "amadi", "word": "Amadi", "translation": "Amadi", "note": "NPC character", "status": "ignored"}
-{"key": "aman'thul", "word": "Aman'thul", "translation": "Aman'thul", "note": "Titan WoW lore"}
+{"key": "aman'thul", "word": "Aman'thul", "translation": "Aman'thul", "note": "Titan WoW lore", "status": "ignored"}
 {"key": "amarakk", "word": "Amarakk", "translation": "Amarakk", "note": "lore character", "status": "ignored"}
 {"key": "amateuren", "word": "Amateuren", "translation": "amateurs", "note": "inexperienced nonprofessional"}
 {"key": "amethon", "word": "Amethon", "translation": "Amethon", "note": "character to kill", "status": "ignored"}
