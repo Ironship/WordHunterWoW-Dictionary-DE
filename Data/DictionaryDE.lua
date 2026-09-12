@@ -90563,7 +90563,7 @@ WordHunterWoW_Dictionary_DE["uuuntergaaaaang"] = { word = "UUUNTERGAAAAANG", tra
 WordHunterWoW_Dictionary_DE["uuuuurg"] = { word = "Uuuuurg", translation = "uuuuurg", note = "extended sound effect; retching or choking sound" }
 WordHunterWoW_Dictionary_DE["uvuros"] = { word = "Uvuros", translation = "Uvuros", note = "" }
 WordHunterWoW_Dictionary_DE["uylaru"] = { word = "Uylaru", translation = "Uylaru", note = "" }
-WordHunterWoW_Dictionary_DE["uzel"] = { word = "Uzel", translation = "Uzel", note = "one of three flames (with Azel and Veraz) used to charge Helcular's rod near Southshore" }
+WordHunterWoW_Dictionary_DE["uzel"] = { word = "Uzel", translation = "Uzel", note = "one of three flames (with Azel and Veraz) used to charge Helcular's rod near Southshore", status = "ignored" }
 WordHunterWoW_Dictionary_DE["uzer'i"] = { word = "Uzer'i", translation = "Uzer’i", note = "" }
 WordHunterWoW_Dictionary_DE["uzjax"] = { word = "Uzjax", translation = "Uzjax", note = "" }
 WordHunterWoW_Dictionary_DE["uzkos"] = { word = "Uzkos", translation = "Uzkos", note = "" }
@@ -90644,7 +90644,7 @@ WordHunterWoW_Dictionary_DE["valdrakkenabkommens"] = { word = "Valdrakkenabkomme
 WordHunterWoW_Dictionary_DE["valdrakkenaquädukt"] = { word = "Valdrakkenaquädukt", translation = "Valdrakken aqueduct", note = "Valdrakken (dragon city) + Aquädukt (aqueduct); landmark compound" }
 WordHunterWoW_Dictionary_DE["valdrakkener"] = { word = "Valdrakkener", translation = "Valdrakkener", note = "" }
 WordHunterWoW_Dictionary_DE["valdrakkens"] = { word = "Valdrakkens", translation = "Valdrakkens", note = "" }
-WordHunterWoW_Dictionary_DE["valdred"] = { word = "Valdred", translation = "Valdred", note = "Valdred Moray, an undead target in an Undercity quest" }
+WordHunterWoW_Dictionary_DE["valdred"] = { word = "Valdred", translation = "Valdred", note = "Valdred Moray, an undead target in an Undercity quest", status = "ignored" }
 WordHunterWoW_Dictionary_DE["valduran"] = { word = "Valduran", translation = "Valduran", note = "" }
 WordHunterWoW_Dictionary_DE["valdurans"] = { word = "Valdurans", translation = "Valdurans", note = "" }
 WordHunterWoW_Dictionary_DE["valdurian"] = { word = "Valdurian", translation = "Valdurian", note = "" }
@@ -90779,7 +90779,7 @@ WordHunterWoW_Dictionary_DE["varrik"] = { word = "Varrik", translation = "Varrik
 WordHunterWoW_Dictionary_DE["varsek"] = { word = "Varsek", translation = "Varsek", note = "" }
 WordHunterWoW_Dictionary_DE["varsha"] = { word = "Varsha", translation = "Varsha", note = "" }
 WordHunterWoW_Dictionary_DE["vartox"] = { word = "Vartox", translation = "Vartox", note = "" }
-WordHunterWoW_Dictionary_DE["vartrus"] = { word = "Vartrus", translation = "Vartrus", note = "Vartrus the Ancient, a quest giver in Felwood" }
+WordHunterWoW_Dictionary_DE["vartrus"] = { word = "Vartrus", translation = "Vartrus", note = "Vartrus the Ancient, a quest giver in Felwood", status = "ignored" }
 WordHunterWoW_Dictionary_DE["varzok"] = { word = "Varzok", translation = "Varzok", note = "" }
 WordHunterWoW_Dictionary_DE["varzoks"] = { word = "Varzoks", translation = "Varzoks", note = "" }
 WordHunterWoW_Dictionary_DE["vas"] = { word = "Vas", translation = "Vas", note = "" }
@@ -90838,7 +90838,7 @@ WordHunterWoW_Dictionary_DE["vehindert"] = { word = "vehindert", translation = "
 WordHunterWoW_Dictionary_DE["veil"] = { word = "VEIL", translation = "VEIL", note = "" }
 WordHunterWoW_Dictionary_DE["veilchenflechte"] = { word = "Veilchenflechte", translation = "Violet lichen", note = "Veilchen (violet) + Flechte (lichen); gathering item" }
 WordHunterWoW_Dictionary_DE["vejrek"] = { word = "Vejrek", translation = "Vejrek", note = "" }
-WordHunterWoW_Dictionary_DE["vejreks"] = { word = "Vejreks", translation = "Vejreks", note = "an enemy whose head is delivered as quest proof in Ironforge" }
+WordHunterWoW_Dictionary_DE["vejreks"] = { word = "Vejreks", translation = "Vejreks", note = "an enemy whose head is delivered as quest proof in Ironforge", status = "ignored" }
 WordHunterWoW_Dictionary_DE["vek'lors"] = { word = "Vek'lors", translation = "Vek'lors", note = "" }
 WordHunterWoW_Dictionary_DE["vek'nag"] = { word = "Vek'nag", translation = "Vek'nag", note = "" }
 WordHunterWoW_Dictionary_DE["vek'nilashs"] = { word = "Vek'nilashs", translation = "Vek'nilash", note = "dragon name; possessive/genitive form; should show singular" }
@@ -90930,7 +90930,7 @@ WordHunterWoW_Dictionary_DE["venturemühle"] = { word = "Venturemühle", transla
 WordHunterWoW_Dictionary_DE["venturerondell"] = { word = "Venturerondell", translation = "Venture Roundabout", note = "Rondell means roundabout; this is a German place-name compound" }
 WordHunterWoW_Dictionary_DE["venturevorsteher"] = { word = "Venturevorsteher", translation = "Venture Director", note = "venture + Vorsteher (director/supervisor); title of a mine overseer" }
 WordHunterWoW_Dictionary_DE["venustus"] = { word = "Venustus", translation = "Venustus", note = "" }
-WordHunterWoW_Dictionary_DE["venya"] = { word = "Venya", translation = "Venya", note = "Venya Marthand, a quest giver who collects skeleton skulls" }
+WordHunterWoW_Dictionary_DE["venya"] = { word = "Venya", translation = "Venya", note = "Venya Marthand, a quest giver who collects skeleton skulls", status = "ignored" }
 WordHunterWoW_Dictionary_DE["veoryx"] = { word = "Veoryx", translation = "Veoryx", note = "" }
 WordHunterWoW_Dictionary_DE["ver-ei-teln"] = { word = "Ver-ei-teln", translation = "foil", note = "ver- + eitel (vain); to thwart or prevent something from succeeding" }
 WordHunterWoW_Dictionary_DE["ver-versprecht"] = { word = "Ver-Versprecht", translation = "Promise-Sworn", note = "poetic/archaic repetition for emphasis; oath-themed name" }
@@ -91028,7 +91028,7 @@ WordHunterWoW_Dictionary_DE["verasa"] = { word = "Verasa", translation = "Verasa
 WordHunterWoW_Dictionary_DE["verathress"] = { word = "Verathress", translation = "Verathress", note = "proper name of an executioner; keep as is, no translation for NPC names", status = "ignored" }
 WordHunterWoW_Dictionary_DE["verausgaben"] = { word = "verausgaben", translation = "expend", note = "use up energy or resources" }
 WordHunterWoW_Dictionary_DE["verausgabt"] = { word = "verausgabt", translation = "exhausted", note = "sich verausgaben means to overexert oneself, not simply spend money" }
-WordHunterWoW_Dictionary_DE["veraz"] = { word = "Veraz", translation = "Veraz", note = "one of three flames (with Azel and Uzel) used to charge Helcular's rod near Southshore" }
+WordHunterWoW_Dictionary_DE["veraz"] = { word = "Veraz", translation = "Veraz", note = "one of three flames (with Azel and Uzel) used to charge Helcular's rod near Southshore", status = "ignored" }
 WordHunterWoW_Dictionary_DE["verbale"] = { word = "Verbale", translation = "verbal", note = "adjective; relating to words or speech" }
 WordHunterWoW_Dictionary_DE["verbalen"] = { word = "verbalen", translation = "verbal", note = "adjective form; of or expressed in words" }
 WordHunterWoW_Dictionary_DE["verbaler"] = { word = "verbaler", translation = "verbal", note = "from verbum (word); describes sharp/harsh verbal motivation as in speech" }
@@ -91289,7 +91289,7 @@ WordHunterWoW_Dictionary_DE["verdank'n"] = { word = "verdank'n", translation = "
 WordHunterWoW_Dictionary_DE["verdanke"] = { word = "verdanke", translation = "owe; thank", note = "present first person; am indebted for" }
 WordHunterWoW_Dictionary_DE["verdanken"] = { word = "verdanken", translation = "to owe (to); have to thank for", note = "not just thank; jdm. etw. verdanken = owe sth. to sb" }
 WordHunterWoW_Dictionary_DE["verdankt"] = { word = "verdankt", translation = "owes", note = "from verdanken (to owe a debt of gratitude); one's origin or existence owed to another" }
-WordHunterWoW_Dictionary_DE["verdantis"] = { word = "Verdantis", translation = "Verdantis", note = "the Verdantis River, a fishing spot in Feralas" }
+WordHunterWoW_Dictionary_DE["verdantis"] = { word = "Verdantis", translation = "Verdantis", note = "the Verdantis River, a fishing spot in Feralas", status = "ignored" }
 WordHunterWoW_Dictionary_DE["verdau'n"] = { word = "verdau'n", translation = "digest", note = "dialectal; break down food in the stomach" }
 WordHunterWoW_Dictionary_DE["verdauen"] = { word = "verdauen", translation = "digest", note = "literal and figurative: process food or process information; creature consuming items" }
 WordHunterWoW_Dictionary_DE["verdauliche"] = { word = "verdauliche", translation = "digestible; easily digested", note = "verdauen (digest) + -lich (able to be); describes food that is easy on the stomach" }
@@ -92445,7 +92445,7 @@ WordHunterWoW_Dictionary_DE["verneigen"] = { word = "verneigen", translation = "
 WordHunterWoW_Dictionary_DE["verneigt"] = { word = "verneigt", translation = "bowed", note = "past participle of verneigen; made a respectful bow" }
 WordHunterWoW_Dictionary_DE["verneigung"] = { word = "Verneigung", translation = "bow; obeisance", note = "noun from verneigen; act of bowing/showing deference" }
 WordHunterWoW_Dictionary_DE["verner"] = { word = "Verner", translation = "Verner", note = "proper noun; NPC name, no translation needed", status = "ignored" }
-WordHunterWoW_Dictionary_DE["verners"] = { word = "Verners", translation = "Verners", note = "sender of a message delivered to a blacksmith in Goldshire" }
+WordHunterWoW_Dictionary_DE["verners"] = { word = "Verners", translation = "Verners", note = "sender of a message delivered to a blacksmith in Goldshire", status = "ignored" }
 WordHunterWoW_Dictionary_DE["vernetzen"] = { word = "vernetzen", translation = "network; connect", note = "to link together in a network; establish connections" }
 WordHunterWoW_Dictionary_DE["vernetzt"] = { word = "vernetzt", translation = "networked", note = "networked or connected; linked together" }
 WordHunterWoW_Dictionary_DE["vernetzten"] = { word = "vernetzten", translation = "networked; connected; linked", note = "past tense; formed into an interconnected system" }
@@ -92488,7 +92488,7 @@ WordHunterWoW_Dictionary_DE["vernünftiger"] = { word = "vernünftiger", transla
 WordHunterWoW_Dictionary_DE["vernünftigere"] = { word = "vernünftigere", translation = "more sensible; more reasonable", note = "comparative of vernünftig (sensible); shows better judgment" }
 WordHunterWoW_Dictionary_DE["vernünftiges"] = { word = "vernünftiges", translation = "sensible; reasonable; rational", note = "neuter adjective; something based on wisdom and common sense" }
 WordHunterWoW_Dictionary_DE["verog"] = { word = "Verog", translation = "Verog", note = "" }
-WordHunterWoW_Dictionary_DE["verogs"] = { word = "Verogs", translation = "Verogs", note = "an enemy whose head is collected as quest proof west of Crossroads" }
+WordHunterWoW_Dictionary_DE["verogs"] = { word = "Verogs", translation = "Verogs", note = "an enemy whose head is collected as quest proof west of Crossroads", status = "ignored" }
 WordHunterWoW_Dictionary_DE["veron"] = { word = "Veron", translation = "Veron", note = "" }
 WordHunterWoW_Dictionary_DE["veronia"] = { word = "Veronia", translation = "Veronia", note = "proper noun; likely a location or zone name", status = "ignored" }
 WordHunterWoW_Dictionary_DE["veronika"] = { word = "Veronika", translation = "Veronica", note = "proper noun; female NPC name in WoW" }
@@ -93948,7 +93948,7 @@ WordHunterWoW_Dictionary_DE["victoria"] = { word = "Victoria", translation = "Vi
 WordHunterWoW_Dictionary_DE["videre-elixier"] = { word = "Videre-Elixier", translation = "Videre Elixir", note = "compound: Videre (see/vision in Latin?) + Elixir; magical potion" }
 WordHunterWoW_Dictionary_DE["vidi"] = { word = "Vidi", translation = "Vidi", note = "Latin vidi means I saw; from videre (to see)" }
 WordHunterWoW_Dictionary_DE["vidious"] = { word = "Vidious", translation = "Vidious", note = "" }
-WordHunterWoW_Dictionary_DE["vidra"] = { word = "Vidra", translation = "Vidra", note = "Vidra Hearthstove, a quest giver in Thelsamar" }
+WordHunterWoW_Dictionary_DE["vidra"] = { word = "Vidra", translation = "Vidra", note = "Vidra Hearthstove, a quest giver in Thelsamar", status = "ignored" }
 WordHunterWoW_Dictionary_DE["viech"] = { word = "Viech", translation = "creature", note = "colloquial for animal or beast; can be derogatory" }
 WordHunterWoW_Dictionary_DE["viecher"] = { word = "Viecher", translation = "critters; creatures", note = "viecher is colloquial/informal for kleine Tiere (little animals/critters)" }
 WordHunterWoW_Dictionary_DE["viechern"] = { word = "Viechern", translation = "critters", note = "plural of Viech; small creatures or vermin" }
@@ -94061,7 +94061,7 @@ WordHunterWoW_Dictionary_DE["vikarin"] = { word = "Vikarin", translation = "vica
 WordHunterWoW_Dictionary_DE["vikki"] = { word = "Vikki", translation = "Vicky", note = "personal name variant" }
 WordHunterWoW_Dictionary_DE["vikshi"] = { word = "Vikshi", translation = "Vikshi", note = "proper noun (NPC name); not translated", status = "ignored" }
 WordHunterWoW_Dictionary_DE["viktori"] = { word = "Viktori", translation = "Viktori", note = "kept as written; not a translation of the name" }
-WordHunterWoW_Dictionary_DE["viktoris"] = { word = "Viktoris", translation = "Viktoris", note = "referenced via 'Viktoris' project', a research effort mentioned in the quest text" }
+WordHunterWoW_Dictionary_DE["viktoris"] = { word = "Viktoris", translation = "Viktoris", note = "referenced via 'Viktoris' project', a research effort mentioned in the quest text", status = "ignored" }
 WordHunterWoW_Dictionary_DE["vil'thik"] = { word = "Vil'thik", translation = "Vil'thik", note = "proper name", status = "ignored" }
 WordHunterWoW_Dictionary_DE["vil'thikmantis"] = { word = "Vil'thikmantis", translation = "Vil'thikmantis", note = "" }
 WordHunterWoW_Dictionary_DE["vilaldoun"] = { word = "Vilaldoun", translation = "Vilaldoun", note = "" }
@@ -94071,7 +94071,7 @@ WordHunterWoW_Dictionary_DE["vilessa"] = { word = "Vilessa", translation = "Vile
 WordHunterWoW_Dictionary_DE["vilhelm"] = { word = "Vilhelm", translation = "Vilhelm", note = "" }
 WordHunterWoW_Dictionary_DE["vilhelms"] = { word = "Vilhelms", translation = "Vilhelms", note = "proper name", status = "ignored" }
 WordHunterWoW_Dictionary_DE["villa"] = { word = "Villa", translation = "villa", note = "a large country house or estate" }
-WordHunterWoW_Dictionary_DE["villard"] = { word = "Villard", translation = "Villard", note = "Comar Villard, an enemy target whose heart is collected as quest proof" }
+WordHunterWoW_Dictionary_DE["villard"] = { word = "Villard", translation = "Villard", note = "Comar Villard, an enemy target whose heart is collected as quest proof", status = "ignored" }
 WordHunterWoW_Dictionary_DE["vilnak'dor"] = { word = "Vilnak'dor", translation = "Vilnak'dor", note = "" }
 WordHunterWoW_Dictionary_DE["vilo"] = { word = "Vilo", translation = "Vilo", note = "" }
 WordHunterWoW_Dictionary_DE["vim"] = { word = "Vim", translation = "Vim", note = "" }
@@ -94108,7 +94108,7 @@ WordHunterWoW_Dictionary_DE["vip-lounge"] = { word = "VIP-Lounge", translation =
 WordHunterWoW_Dictionary_DE["vip-räume"] = { word = "VIP-Räume", translation = "VIP rooms", note = "räume = rooms, plural" }
 WordHunterWoW_Dictionary_DE["vip-tresen"] = { word = "VIP-Tresen", translation = "VIP counter", note = "acronym + common noun" }
 WordHunterWoW_Dictionary_DE["viper"] = { word = "Viper", translation = "viper", note = "common animal name; English uses lowercase" }
-WordHunterWoW_Dictionary_DE["vipore"] = { word = "Vipore", translation = "Vipore", note = "Squadron Commander Vipore, a target in the Frostwolf Territory" }
+WordHunterWoW_Dictionary_DE["vipore"] = { word = "Vipore", translation = "Vipore", note = "Squadron Commander Vipore, a target in the Frostwolf Territory", status = "ignored" }
 WordHunterWoW_Dictionary_DE["vipores"] = { word = "Vipores", translation = "Vipores", note = "possessive of Vipore, referenced in the quest title 'Vipore's Air Fleet'" }
 WordHunterWoW_Dictionary_DE["vips"] = { word = "VIPs", translation = "VIPs", note = "plural of acronym" }
 WordHunterWoW_Dictionary_DE["viq'goth"] = { word = "Viq'Goth", translation = "Viq'Goth", note = "" }
@@ -95816,7 +95816,7 @@ WordHunterWoW_Dictionary_DE["walfängerwinkel"] = { word = "Walfängerwinkel", t
 WordHunterWoW_Dictionary_DE["walhai"] = { word = "Walhai", translation = "whale shark", note = "wal (whale) + hai (shark); a large marine animal" }
 WordHunterWoW_Dictionary_DE["walknochenfragmente"] = { word = "Walknochenfragmente", translation = "whale bone fragments", note = "wal (whale) + knochen (bone) + fragmente (fragments); broken whale bone pieces" }
 WordHunterWoW_Dictionary_DE["wall"] = { word = "Wall", translation = "wall; rampart; barrier", note = "fortification or barrier; in context 'wall of soldiers'" }
-WordHunterWoW_Dictionary_DE["wallbang"] = { word = "Wallbang", translation = "Wallbang", note = "Mountaineer Wallbang, a quest giver at a southern watchtower" }
+WordHunterWoW_Dictionary_DE["wallbang"] = { word = "Wallbang", translation = "Wallbang", note = "Mountaineer Wallbang, a quest giver at a southern watchtower", status = "ignored" }
 WordHunterWoW_Dictionary_DE["wallenden"] = { word = "Wallenden", translation = "waving", note = "flowing or undulating; from wallen (to billow/surge)" }
 WordHunterWoW_Dictionary_DE["walls"] = { word = "Walls", translation = "Walls", note = "" }
 WordHunterWoW_Dictionary_DE["wallung"] = { word = "Wallung", translation = "surge", note = "noun from wallen (to surge/swell); a swelling or agitation, especially of emotions" }
@@ -95978,7 +95978,7 @@ WordHunterWoW_Dictionary_DE["warnt"] = { word = "Warnt", translation = "Warn", n
 WordHunterWoW_Dictionary_DE["warnte"] = { word = "warnte", translation = "warned", note = "past tense of warnen (to warn)" }
 WordHunterWoW_Dictionary_DE["warnung"] = { word = "Warnung", translation = "warning; alert; caution", note = "from warnen (to warn); a notification of danger" }
 WordHunterWoW_Dictionary_DE["warnungen"] = { word = "Warnungen", translation = "warnings", note = "Warnung = warning, caution" }
-WordHunterWoW_Dictionary_DE["warosh"] = { word = "Warosh", translation = "Warosh", note = "recipient of a scroll and 'mojo' in this quest; current mistransliterated it as 'Varosh'" }
+WordHunterWoW_Dictionary_DE["warosh"] = { word = "Warosh", translation = "Warosh", note = "recipient of a scroll and 'mojo' in this quest; current mistransliterated it as 'Varosh'", status = "ignored" }
 WordHunterWoW_Dictionary_DE["waroshs"] = { word = "Waroshs", translation = "Warosh's", note = "possessive of the NPC Warosh; current mistakenly spelled it Varoshs" }
 WordHunterWoW_Dictionary_DE["warp-watcher"] = { word = "Warp-Watcher", translation = "Warp Watcher", note = "" }
 WordHunterWoW_Dictionary_DE["warpenergie"] = { word = "Warpenergie", translation = "warp energy", note = "warp + energie (energy); magical or sci-fi term" }
@@ -97428,7 +97428,7 @@ WordHunterWoW_Dictionary_DE["whitebeard"] = { word = "Whitebeard", translation =
 WordHunterWoW_Dictionary_DE["whiteclaw"] = { word = "Whiteclaw", translation = "Whiteclaw", note = "Cerellean Whiteclaw, an NPC in Auberdine" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["whitemane"] = { word = "Whitemane", translation = "Whitemane", note = "" }
 WordHunterWoW_Dictionary_DE["whitemoon"] = { word = "Whitemoon", translation = "Whitemoon", note = "Pelturas Whitemoon, an NPC in Astranaar who receives a delivery" , status = "ignored" }
-WordHunterWoW_Dictionary_DE["whitesteed"] = { word = "Whitesteed", translation = "Whitesteed", note = "Amtmann Horrace Whitesteed, a bounty target in a Tarren Mill quest" }
+WordHunterWoW_Dictionary_DE["whitesteed"] = { word = "Whitesteed", translation = "Whitesteed", note = "Amtmann Horrace Whitesteed, a bounty target in a Tarren Mill quest", status = "ignored" }
 WordHunterWoW_Dictionary_DE["whitley"] = { word = "Whitley", translation = "Whitley", note = "NPC name; no translation needed" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["whitney"] = { word = "Whitney", translation = "Whitney", note = "NPC name \"Stahlklaue\" (Steel Claw) Ramsay" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["whoa"] = { word = "Whoa", translation = "Whoa", note = "English interjection; player expresses delight at the color" }

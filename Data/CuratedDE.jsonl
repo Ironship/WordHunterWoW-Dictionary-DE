@@ -77743,20 +77743,20 @@
 {"key": "ur'dan", "word": "Ur'dan", "translation": "Ur'dan", "note": "an NPC in the Blasted Lands who trades for Xorothian Stardust", "status": "ignored"}
 {"key": "uthel'nay", "word": "Uthel'nay", "translation": "Uthel'nay", "note": "an NPC in Orgrimmar who collects Shadow Silk shards recovered from Maraudon", "status": "ignored"}
 {"key": "uthel’nay", "word": "Uthel’nay", "translation": "Uthel’nay", "note": "an NPC in Orgrimmar's Cleft of Shadow, also written Uthel'nay with a straight apostrophe", "status": "ignored"}
-{"key": "uzel", "word": "Uzel", "translation": "Uzel", "note": "one of three flames (with Azel and Veraz) used to charge Helcular's rod near Southshore"}
-{"key": "valdred", "word": "Valdred", "translation": "Valdred", "note": "Valdred Moray, an undead target in an Undercity quest"}
+{"key": "uzel", "word": "Uzel", "translation": "Uzel", "note": "one of three flames (with Azel and Veraz) used to charge Helcular's rod near Southshore", "status": "ignored"}
+{"key": "valdred", "word": "Valdred", "translation": "Valdred", "note": "Valdred Moray, an undead target in an Undercity quest", "status": "ignored"}
 {"key": "valstag", "word": "Valstag", "translation": "Valstag", "note": "Valstag Ironjaw, an NPC contact at Menethil Harbor", "status": "ignored"}
-{"key": "vartrus", "word": "Vartrus", "translation": "Vartrus", "note": "Vartrus the Ancient, a quest giver in Felwood"}
+{"key": "vartrus", "word": "Vartrus", "translation": "Vartrus", "note": "Vartrus the Ancient, a quest giver in Felwood", "status": "ignored"}
 {"key": "vectus", "word": "Vectus", "translation": "Vectus", "note": "a boss encountered in the Scholomance instance", "status": "ignored"}
 {"key": "vejrek", "word": "Vejrek", "translation": "Vejrek", "note": ""}
-{"key": "vejreks", "word": "Vejreks", "translation": "Vejreks", "note": "an enemy whose head is delivered as quest proof in Ironforge"}
+{"key": "vejreks", "word": "Vejreks", "translation": "Vejreks", "note": "an enemy whose head is delivered as quest proof in Ironforge", "status": "ignored"}
 {"key": "vel'rin", "word": "Vel'rin", "translation": "Vel'rin", "note": "Vel'rin Fang, a quest giver in Sen'jin Village", "status": "ignored"}
 {"key": "velinde", "word": "Velinde", "translation": "Velinde", "note": ""}
-{"key": "veraz", "word": "Veraz", "translation": "Veraz", "note": "one of three flames (with Azel and Uzel) used to charge Helcular's rod near Southshore"}
-{"key": "venya", "word": "Venya", "translation": "Venya", "note": "Venya Marthand, a quest giver who collects skeleton skulls"}
+{"key": "veraz", "word": "Veraz", "translation": "Veraz", "note": "one of three flames (with Azel and Uzel) used to charge Helcular's rod near Southshore", "status": "ignored"}
+{"key": "venya", "word": "Venya", "translation": "Venya", "note": "Venya Marthand, a quest giver who collects skeleton skulls", "status": "ignored"}
 {"key": "verbleite", "word": "verbleite", "translation": "leaded", "note": "Blei = lead (the metal); verbleit = leaded or lead-lined"}
 {"key": "verdammniskräuter", "word": "Verdammniskräuter", "translation": "doom herbs", "note": "Verdammnis = damnation/doom + Kräuter = herbs"}
-{"key": "verdantis", "word": "Verdantis", "translation": "Verdantis", "note": "the Verdantis River, a fishing spot in Feralas"}
+{"key": "verdantis", "word": "Verdantis", "translation": "Verdantis", "note": "the Verdantis River, a fishing spot in Feralas", "status": "ignored"}
 {"key": "verdammniswächterblut", "word": "Verdammniswächterblut", "translation": "Doomguard blood", "note": "Verdammnis (damnation) + Wächter (guard); Doomguard is an official demon type in WoW"}
 {"key": "verderbnisfragment", "word": "Verderbnisfragment", "translation": "corruption fragment", "note": "Verderbnis = corruption/depravity, from verderben (to spoil)"}
 {"key": "verdichteten", "word": "verdichteten", "translation": "condensed", "note": "verdichten = to condense/compress, from dicht (dense, tight)"}
@@ -77771,7 +77771,7 @@
 {"key": "verlassenen-spieler", "word": "Verlassenen-Spieler", "translation": "Forsaken player", "note": "Verlassene = Forsaken, the undead Horde race"}
 {"key": "vermächnis", "word": "Vermächnis", "translation": "legacy", "note": "from vermachen (to bequeath); a testament or bequest, used figuratively as legacy"}
 {"key": "verpackten", "word": "verpackten", "translation": "packed", "note": "verpacken = to pack/wrap, from Paket (package)"}
-{"key": "verogs", "word": "Verogs", "translation": "Verogs", "note": "an enemy whose head is collected as quest proof west of Crossroads"}
+{"key": "verogs", "word": "Verogs", "translation": "Verogs", "note": "an enemy whose head is collected as quest proof west of Crossroads", "status": "ignored"}
 {"key": "verpestung", "word": "Verpestung", "translation": "pestilence", "note": "from Pest (plague); verpesten = to contaminate, literally 'to plague'"}
 {"key": "verschmierte", "word": "verschmierte", "translation": "smeared", "note": "verschmieren = to smear, from schmieren (to smear/grease)"}
 {"key": "verschlagener", "word": "verschlagener", "translation": "cunning", "note": "verschlagen is already the adjective (cunning/sly); the -er here is just the ending after 'ein', not a comparative"}
@@ -77779,13 +77779,13 @@
 {"key": "verschmolzene", "word": "verschmolzene", "translation": "fused", "note": "verschmelzen = to fuse/melt together, from schmelzen (to melt)"}
 {"key": "versetzungen", "word": "Versetzungen", "translation": "transfers", "note": "Versetzung can mean a job transfer, a school promotion, or a medical dislocation - context favors transfer here"}
 {"key": "verstaubten", "word": "verstaubten", "translation": "dusty", "note": "Staub = dust; verstaubt is also used figuratively for 'outdated'"}
-{"key": "verners", "word": "Verners", "translation": "Verners", "note": "sender of a message delivered to a blacksmith in Goldshire"}
-{"key": "vidra", "word": "Vidra", "translation": "Vidra", "note": "Vidra Hearthstove, a quest giver in Thelsamar"}
-{"key": "viktoris", "word": "Viktoris", "translation": "Viktoris", "note": "referenced via 'Viktoris' project', a research effort mentioned in the quest text"}
-{"key": "villard", "word": "Villard", "translation": "Villard", "note": "Comar Villard, an enemy target whose heart is collected as quest proof"}
+{"key": "verners", "word": "Verners", "translation": "Verners", "note": "sender of a message delivered to a blacksmith in Goldshire", "status": "ignored"}
+{"key": "vidra", "word": "Vidra", "translation": "Vidra", "note": "Vidra Hearthstove, a quest giver in Thelsamar", "status": "ignored"}
+{"key": "viktoris", "word": "Viktoris", "translation": "Viktoris", "note": "referenced via 'Viktoris' project', a research effort mentioned in the quest text", "status": "ignored"}
+{"key": "villard", "word": "Villard", "translation": "Villard", "note": "Comar Villard, an enemy target whose heart is collected as quest proof", "status": "ignored"}
 {"key": "vinchaxa", "word": "Vinchaxa", "translation": "Vinchaxa", "note": "an NPC on Yojamba Isle tied to the Zul'Gurub Hakkari relic quests", "status": "ignored"}
 {"key": "violent", "word": "Violent", "translation": "Violent", "note": ""}
-{"key": "vipore", "word": "Vipore", "translation": "Vipore", "note": "Squadron Commander Vipore, a target in the Frostwolf Territory"}
+{"key": "vipore", "word": "Vipore", "translation": "Vipore", "note": "Squadron Commander Vipore, a target in the Frostwolf Territory", "status": "ignored"}
 {"key": "vipores", "word": "Vipores", "translation": "Vipores", "note": "possessive of Vipore, referenced in the quest title 'Vipore's Air Fleet'"}
 {"key": "verwundene", "word": "verwundene", "translation": "twisted", "note": "false friend: this is the participle of verwinden (to twist/warp), not verwunden (to wound) - despite the resemblance to 'wounded'"}
 {"key": "vizzklick", "word": "Vizzklick", "translation": "Vizzklick", "note": "a vendor NPC in Gadgetzan", "status": "ignored"}
@@ -77821,9 +77821,9 @@
 {"key": "waldweberlauerer", "word": "Waldweberlauerer", "translation": "Forest Weaver Lurker", "note": "Lauerer = lurker, from lauern (to lurk, lie in wait)"}
 {"key": "waldwebersekret", "word": "Waldwebersekret", "translation": "forest weaver secretion", "note": "Sekret = secretion, a glandular fluid"}
 {"key": "wappenrock-registrierung", "word": "Wappenrock-Registrierung", "translation": "Tabard Registration", "note": "Wappen = coat of arms + Rock = coat/robe; a tabard displays a guild's heraldry"}
-{"key": "wallbang", "word": "Wallbang", "translation": "Wallbang", "note": "Mountaineer Wallbang, a quest giver at a southern watchtower"}
+{"key": "wallbang", "word": "Wallbang", "translation": "Wallbang", "note": "Mountaineer Wallbang, a quest giver at a southern watchtower", "status": "ignored"}
 {"key": "wappenschlüssel", "word": "Wappenschlüssel", "translation": "heraldic key", "note": "Wappen = coat of arms/heraldic emblem + Schlüssel = key"}
-{"key": "warosh", "word": "Warosh", "translation": "Warosh", "note": "recipient of a scroll and 'mojo' in this quest; current mistransliterated it as 'Varosh'"}
+{"key": "warosh", "word": "Warosh", "translation": "Warosh", "note": "recipient of a scroll and 'mojo' in this quest; current mistransliterated it as 'Varosh'", "status": "ignored"}
 {"key": "warsong", "word": "Warsong", "translation": "Warsong", "note": "the orc clan behind Warsong Gulch and the Ashenvale lumber camps", "status": "ignored"}
 {"key": "warsongaxtlieferung", "word": "Warsongaxtlieferung", "translation": "Warsong ax delivery", "note": "Axt = axe (spelled Axt in German) + Lieferung = delivery"}
 {"key": "warsongläufer-update", "word": "Warsongläufer-Update", "translation": "Warsong Runner update", "note": "Läufer = runner, from laufen (to run)"}
@@ -77855,7 +77855,7 @@
 {"key": "when", "word": "When", "translation": "When", "note": ""}
 {"key": "whindlebolt", "word": "Whindlebolt", "translation": "Whindlebolt", "note": "Felix Whindlebolt, an NPC in Anvilmar who receives a delivery", "status": "ignored"}
 {"key": "whiteclaw", "word": "Whiteclaw", "translation": "Whiteclaw", "note": "Cerellean Whiteclaw, an NPC in Auberdine", "status": "ignored"}
-{"key": "whitesteed", "word": "Whitesteed", "translation": "Whitesteed", "note": "Amtmann Horrace Whitesteed, a bounty target in a Tarren Mill quest"}
+{"key": "whitesteed", "word": "Whitesteed", "translation": "Whitesteed", "note": "Amtmann Horrace Whitesteed, a bounty target in a Tarren Mill quest", "status": "ignored"}
 {"key": "whitemoon", "word": "Whitemoon", "translation": "Whitemoon", "note": "Pelturas Whitemoon, an NPC in Astranaar who receives a delivery", "status": "ignored"}
 {"key": "wichtellieferung", "word": "Wichtellieferung", "translation": "Secret Santa delivery", "note": "Wichtel = gnome/imp in folklore; Wichteln became the German term for a Secret-Santa gift exchange, as used in WoW's Winter Veil"}
 {"key": "wichtels", "word": "Wichtels", "translation": "gnome", "note": "Wichtel is the little creature (gnome/imp/pixie) itself, distinct from Wichteln, the gift-exchange activity - not the 'Secret Santa' of current"}
