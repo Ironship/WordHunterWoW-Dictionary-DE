@@ -16271,7 +16271,7 @@ WordHunterWoW_Dictionary_DE["delandra"] = { word = "Delandra", translation = "De
 WordHunterWoW_Dictionary_DE["delandros"] = { word = "Delandros", translation = "Delandros", note = "" }
 WordHunterWoW_Dictionary_DE["delaniel"] = { word = "Delaniel", translation = "Delaniel", note = "" }
 WordHunterWoW_Dictionary_DE["delaris"] = { word = "Delaris", translation = "Delaris", note = "" }
-WordHunterWoW_Dictionary_DE["delaryn"] = { word = "Delaryn", translation = "Delaryn", note = "night elf commander" }
+WordHunterWoW_Dictionary_DE["delaryn"] = { word = "Delaryn", translation = "Delaryn", note = "night elf commander", status = "ignored" }
 WordHunterWoW_Dictionary_DE["delas"] = { word = "Delas", translation = "Delas", note = "" }
 WordHunterWoW_Dictionary_DE["delath"] = { word = "Delath", translation = "Delath", note = "" }
 WordHunterWoW_Dictionary_DE["delavey"] = { word = "DeLavey", translation = "DeLavey", note = "character name (Bishop)" , status = "ignored" }
@@ -30422,7 +30422,7 @@ WordHunterWoW_Dictionary_DE["gangamesh"] = { word = "Gangamesh", translation = "
 WordHunterWoW_Dictionary_DE["gange"] = { word = "Gange", translation = "course; walk; passage", note = "im Gange sein = be underway/in progress" }
 WordHunterWoW_Dictionary_DE["gangschalter"] = { word = "Gangschalter", translation = "gear switch", note = "gang (gear) + schalter (switch); automotive or mechanical device" }
 WordHunterWoW_Dictionary_DE["gangster"] = { word = "Gangster", translation = "gangster", note = "english loanword; its plural is unchanged" }
-WordHunterWoW_Dictionary_DE["gangzwinger"] = { word = "Gangzwinger", translation = "Gangzwinger", note = "surname; Gang (gang, corridor) + Zwinger (kennel, enclosure)" }
+WordHunterWoW_Dictionary_DE["gangzwinger"] = { word = "Gangzwinger", translation = "Gangzwinger", note = "surname; Gang (gang, corridor) + Zwinger (kennel, enclosure)", status = "ignored" }
 WordHunterWoW_Dictionary_DE["gann"] = { word = "Gann", translation = "Gann", note = "dwarf NPC name; Gann Stonekeep; proper name requiring no translation", status = "ignored" }
 WordHunterWoW_Dictionary_DE["gannar"] = { word = "Gannar", translation = "Gannar", note = "" }
 WordHunterWoW_Dictionary_DE["ganns"] = { word = "Ganns", translation = "Ganns", note = "" }
@@ -36531,10 +36531,10 @@ WordHunterWoW_Dictionary_DE["grlmrmlg"] = { word = "grlmrmlg", translation = "gr
 WordHunterWoW_Dictionary_DE["grlmrrgrr"] = { word = "grlmrrgrr", translation = "grlmrrgrr", note = "" }
 WordHunterWoW_Dictionary_DE["grlrlrglrmg"] = { word = "Grlrlrglrmg", translation = "Grlrlrglrmg", note = "murloc speech; no translation needed" }
 WordHunterWoW_Dictionary_DE["grml"] = { word = "Grml", translation = "Grml", note = "murloc sound or exclamation; onomatopoeia" }
-WordHunterWoW_Dictionary_DE["grmlgrlrs"] = { word = "Grmlgrlrs", translation = "Grmlgrlrs", note = "murloc language or name; no standard English translation" }
+WordHunterWoW_Dictionary_DE["grmlgrlrs"] = { word = "Grmlgrlrs", translation = "Grmlgrlrs", note = "murloc language or name; no standard English translation", status = "ignored" }
 WordHunterWoW_Dictionary_DE["grmm"] = { word = "grmm", translation = "grmm", note = "" }
-WordHunterWoW_Dictionary_DE["grmmurggll"] = { word = "Grmmurggll", translation = "Grmmurgggll", note = "" }
-WordHunterWoW_Dictionary_DE["grmrglmrl"] = { word = "Grmrglmrl", translation = "Grmrglmrl", note = "Murloc speech; untranslatable" }
+WordHunterWoW_Dictionary_DE["grmmurggll"] = { word = "Grmmurggll", translation = "Grmmurgggll", note = "", status = "ignored" }
+WordHunterWoW_Dictionary_DE["grmrglmrl"] = { word = "Grmrglmrl", translation = "Grmrglmrl", note = "Murloc speech; untranslatable", status = "ignored" }
 WordHunterWoW_Dictionary_DE["gro"] = { word = "Gro", translation = "Gro", note = "Magnaron name" }
 WordHunterWoW_Dictionary_DE["gro'tash"] = { word = "Gro'tash", translation = "Gro'tash", note = "Orc NPC name" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["grob"] = { word = "grob", translation = "rough", note = "coarse or crude; ungefein treatment or unpolished" }
@@ -53219,7 +53219,7 @@ WordHunterWoW_Dictionary_DE["leokk"] = { word = "Leokk", translation = "Leokk", 
 WordHunterWoW_Dictionary_DE["leokks"] = { word = "Leokks", translation = "Leokks", note = "plural or possessive of WoW creature Leokk" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["leona"] = { word = "Leona", translation = "Leona", note = "" }
 WordHunterWoW_Dictionary_DE["leonas"] = { word = "Leonas", translation = "Leonas", note = "proper name; unchanged", status = "ignored" }
-WordHunterWoW_Dictionary_DE["leonhard"] = { word = "Leonhard", translation = "Leonhard", note = "German surname; leo (lion) + hard (strong)" }
+WordHunterWoW_Dictionary_DE["leonhard"] = { word = "Leonhard", translation = "Leonhard", note = "German surname; leo (lion) + hard (strong)", status = "ignored" }
 WordHunterWoW_Dictionary_DE["leonid"] = { word = "Leonid", translation = "Leonid", note = "" }
 WordHunterWoW_Dictionary_DE["leonidas"] = { word = "Leonidas", translation = "Leonidas", note = "" }
 WordHunterWoW_Dictionary_DE["leoparden"] = { word = "Leoparden", translation = "leopards", note = "plural of Leopard (leopard); large spotted feline" }
@@ -58140,7 +58140,7 @@ WordHunterWoW_Dictionary_DE["mlmlglr"] = { word = "mlmlglr", translation = "mlml
 WordHunterWoW_Dictionary_DE["mlr"] = { word = "mlr", translation = "mlr", note = "murloc language; untranslatable utterance" }
 WordHunterWoW_Dictionary_DE["mlrg"] = { word = "Mlrg", translation = "Mlrg", note = "murloc language used as name or greeting", status = "ignored" }
 WordHunterWoW_Dictionary_DE["mlrglr"] = { word = "Mlrglr", translation = "murloc speech", note = "onomatopoeia: happy murloc sounds" }
-WordHunterWoW_Dictionary_DE["mlrglrmg"] = { word = "Mlrglrmg", translation = "Mlrglrmg", note = "murloc speech; untranslatable" }
+WordHunterWoW_Dictionary_DE["mlrglrmg"] = { word = "Mlrglrmg", translation = "Mlrglrmg", note = "murloc speech; untranslatable", status = "ignored" }
 WordHunterWoW_Dictionary_DE["mlrgmlr"] = { word = "mlrgmlr", translation = "mlrgmlr", note = "murloc language; untranslatable sound" }
 WordHunterWoW_Dictionary_DE["mlrgmrl"] = { word = "Mlrgmrl", translation = "mrgmrl", note = "murloc speech; approximation of creature vocalization" }
 WordHunterWoW_Dictionary_DE["mlrgr"] = { word = "mlrgr", translation = "mlrgr", note = "murloc language variant" }
@@ -58155,7 +58155,7 @@ WordHunterWoW_Dictionary_DE["mmarl"] = { word = "Mmarl", translation = "Mmarl", 
 WordHunterWoW_Dictionary_DE["mmf"] = { word = "Mmf", translation = "Mmf", note = "a muffled sound of eating or approval; the context shows Barnabas chewing" }
 WordHunterWoW_Dictionary_DE["mmh"] = { word = "Mmh", translation = "mmm; hmm", note = "interjection: recognition/approval" }
 WordHunterWoW_Dictionary_DE["mmh-mmh"] = { word = "Mmh-mmh", translation = "mmh-mmh", note = "interjection: repeated acknowledgment" }
-WordHunterWoW_Dictionary_DE["mmlrgmlr"] = { word = "Mmlrgmlr", translation = "Mmlrgmlr", note = "murloc speech; untranslatable vocalization" }
+WordHunterWoW_Dictionary_DE["mmlrgmlr"] = { word = "Mmlrgmlr", translation = "Mmlrgmlr", note = "murloc speech; untranslatable vocalization", status = "ignored" }
 WordHunterWoW_Dictionary_DE["mmm"] = { word = "Mmm", translation = "Mmmm", note = "onomatopoeia; expression of approval" }
 WordHunterWoW_Dictionary_DE["mmmh"] = { word = "Mmmh", translation = "Mmmm", note = "utterance; interjection expressing consideration or satisfaction" }
 WordHunterWoW_Dictionary_DE["mmmhmmm"] = { word = "Mmmhmmm", translation = "mmmm; mmm-hmm", note = "interjection: approval/satisfaction" }
@@ -59177,7 +59177,7 @@ WordHunterWoW_Dictionary_DE["mrglm"] = { word = "Mrglm", translation = "Mrglm", 
 WordHunterWoW_Dictionary_DE["mrglmrgm"] = { word = "mrglmrgm", translation = "mrglmrgm", note = "murloc speech; untranslatable creature language" }
 WordHunterWoW_Dictionary_DE["mrglr"] = { word = "mrglr", translation = "mrglr", note = "murloc language variant" }
 WordHunterWoW_Dictionary_DE["mrglrg"] = { word = "Mrglrg", translation = "Mrglrg", note = "murloc speech; untranslatable creature language" , status = "ignored" }
-WordHunterWoW_Dictionary_DE["mrglrmgr"] = { word = "Mrglrmgr", translation = "Mrglrmgr", note = "murloc language" }
+WordHunterWoW_Dictionary_DE["mrglrmgr"] = { word = "Mrglrmgr", translation = "Mrglrmgr", note = "murloc language", status = "ignored" }
 WordHunterWoW_Dictionary_DE["mrgls"] = { word = "Mrgls", translation = "Mrgls", note = "proper name; murloc with gentle or tender nature", status = "ignored" }
 WordHunterWoW_Dictionary_DE["mrgrglilgrl"] = { word = "Mrgrglilgrl", translation = "Mrgrglilgrl", note = "murloc speech; untranslatable creature language" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["mrgrlilgrl"] = { word = "Mrgrlilgrl", translation = "Mrgrlilgrl", note = "murloc speech; untranslatable creature language" , status = "ignored" }
@@ -59192,8 +59192,8 @@ WordHunterWoW_Dictionary_DE["mrlgmrl"] = { word = "mrlgmrl", translation = "mrlg
 WordHunterWoW_Dictionary_DE["mrlgmrlgmrl"] = { word = "Mrlgmrlgmrl", translation = "Mrlgmrlgmrl", note = "murloc speech; untranslatable creature language" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["mrlgrlg"] = { word = "Mrlgrlg", translation = "Mrlgrlg", note = "murloc speech; untranslatable creature language" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["mrmlgr"] = { word = "Mrmlgr", translation = "Mrmlgr", note = "murloc speech; untranslatable creature language" , status = "ignored" }
-WordHunterWoW_Dictionary_DE["mrmrglmr"] = { word = "Mrmrglmr", translation = "Mrmrglmr", note = "murloc name or utterance" }
-WordHunterWoW_Dictionary_DE["mrr"] = { word = "Mrr", translation = "Mrr", note = "murloc sound; not English 'Mr' title" }
+WordHunterWoW_Dictionary_DE["mrmrglmr"] = { word = "Mrmrglmr", translation = "Mrmrglmr", note = "murloc name or utterance", status = "ignored" }
+WordHunterWoW_Dictionary_DE["mrr"] = { word = "Mrr", translation = "Mrr", note = "murloc sound; not English 'Mr' title", status = "ignored" }
 WordHunterWoW_Dictionary_DE["mrrga"] = { word = "Mrrga", translation = "Mrrga", note = "murloc vocalizations; untranslatable", status = "ignored" }
 WordHunterWoW_Dictionary_DE["mrrgglton"] = { word = "Mrrgglton", translation = "Mrrgglton", note = "" }
 WordHunterWoW_Dictionary_DE["mrrl"] = { word = "Mrrl", translation = "Mrrl", note = "murloc speech", status = "ignored" }
@@ -62043,7 +62043,7 @@ WordHunterWoW_Dictionary_DE["nistpapiere"] = { word = "Nistpapiere", translation
 WordHunterWoW_Dictionary_DE["nistplatz"] = { word = "Nistplatz", translation = "nesting site", note = "compound: nist (nesting) + platz (place)" }
 WordHunterWoW_Dictionary_DE["nistplätze"] = { word = "Nistplätze", translation = "nesting sites", note = "" }
 WordHunterWoW_Dictionary_DE["nistzeit"] = { word = "Nistzeit", translation = "nesting time", note = "compound: nist (nesting) + zeit (time)" }
-WordHunterWoW_Dictionary_DE["nitely"] = { word = "Nitely", translation = "Nitely", note = "NPC surname, no further meaning" }
+WordHunterWoW_Dictionary_DE["nitely"] = { word = "Nitely", translation = "Nitely", note = "NPC surname, no further meaning", status = "ignored" }
 WordHunterWoW_Dictionary_DE["nithogg"] = { word = "Nithogg", translation = "Nithogg", note = "" }
 WordHunterWoW_Dictionary_DE["nithoggs"] = { word = "Nithoggs", translation = "Nithoggs", note = "" }
 WordHunterWoW_Dictionary_DE["nitrin"] = { word = "Nitrin", translation = "Nitrin", note = "" }
@@ -76888,14 +76888,14 @@ WordHunterWoW_Dictionary_DE["seldarrias"] = { word = "Seldarrias", translation =
 WordHunterWoW_Dictionary_DE["selektiert"] = { word = "selektiert", translation = "selected", note = "adjective form; past participle describing chosen/selected items" }
 WordHunterWoW_Dictionary_DE["selektion"] = { word = "Selektion", translation = "selection", note = "from Latin selectio; process of choosing or eliminating" }
 WordHunterWoW_Dictionary_DE["selektive"] = { word = "Selektive", translation = "selective", note = "selektiv = selective, choosing carefully; from Latin selectus (picked out)" }
-WordHunterWoW_Dictionary_DE["selendra"] = { word = "Selendra", translation = "Selendra", note = "night elf priestess; area guardian" }
+WordHunterWoW_Dictionary_DE["selendra"] = { word = "Selendra", translation = "Selendra", note = "night elf priestess; area guardian", status = "ignored" }
 WordHunterWoW_Dictionary_DE["selene"] = { word = "Selene", translation = "Selene", note = "" }
 WordHunterWoW_Dictionary_DE["selenis"] = { word = "Selenis", translation = "Selenis", note = "NPC name; leave unchanged" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["selenn"] = { word = "Selenn", translation = "Selenn", note = "" }
 WordHunterWoW_Dictionary_DE["selenns"] = { word = "Selenns", translation = "Selenns", note = "proper name, likely NPC", status = "ignored" }
 WordHunterWoW_Dictionary_DE["selenora"] = { word = "Selenora", translation = "Selenora", note = "proper noun; NPC name", status = "ignored" }
 WordHunterWoW_Dictionary_DE["selenyi"] = { word = "Selenyi", translation = "Selenyi", note = "" }
-WordHunterWoW_Dictionary_DE["selgorm"] = { word = "Selgorm", translation = "Selgorm", note = "night elf druid; Twilight watcher" }
+WordHunterWoW_Dictionary_DE["selgorm"] = { word = "Selgorm", translation = "Selgorm", note = "night elf druid; Twilight watcher", status = "ignored" }
 WordHunterWoW_Dictionary_DE["seligpreisungen"] = { word = "Seligpreisungen", translation = "beatitudes", note = "selig (blessed) + preisungen (proclamations); solemn declarations of blessedness" }
 WordHunterWoW_Dictionary_DE["selin"] = { word = "Selin", translation = "Selin", note = "" }
 WordHunterWoW_Dictionary_DE["seline"] = { word = "Seline", translation = "Seline", note = "NPC name; leave unchanged" , status = "ignored" }
@@ -77324,7 +77324,7 @@ WordHunterWoW_Dictionary_DE["shadravorhaben"] = { word = "Shadravorhaben", trans
 WordHunterWoW_Dictionary_DE["shadra’alor"] = { word = "Shadra’Alor", translation = "Shadra'Alor", note = "altar location; shadow-serpent name" }
 WordHunterWoW_Dictionary_DE["shadrek"] = { word = "Shadrek", translation = "Shadrek", note = "" }
 WordHunterWoW_Dictionary_DE["shadril"] = { word = "Shadril", translation = "Shadril", note = "" }
-WordHunterWoW_Dictionary_DE["shadwhisper"] = { word = "Shadwhisper", translation = "Shadwhisper", note = "night elf druid; whispered shadows name" }
+WordHunterWoW_Dictionary_DE["shadwhisper"] = { word = "Shadwhisper", translation = "Shadwhisper", note = "night elf druid; whispered shadows name", status = "ignored" }
 WordHunterWoW_Dictionary_DE["shae'lune"] = { word = "Shae'lune", translation = "Shae'lune", note = "NPC proper name (night elf)", status = "ignored" }
 WordHunterWoW_Dictionary_DE["shael'dryn"] = { word = "Shael'dryn", translation = "Shael'dryn", note = "NPC name; leave unchanged" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["shael'dryns"] = { word = "Shael'dryns", translation = "Shael'dryns", note = "" }
@@ -77386,7 +77386,7 @@ WordHunterWoW_Dictionary_DE["shan'ze"] = { word = "Shan'ze", translation = "Shan
 WordHunterWoW_Dictionary_DE["shan'ze-geisterbinder"] = { word = "Shan'ze-Geisterbinder", translation = "Shan'ze Spiritbinder", note = "one who binds spirits" }
 WordHunterWoW_Dictionary_DE["shan'ze-geisterklauen"] = { word = "Shan'ze-Geisterklauen", translation = "Shan'ze Spirit Claws", note = "claws of the Shan'ze faction; geisterklauen = spirit claws" }
 WordHunterWoW_Dictionary_DE["shanai"] = { word = "Shanai", translation = "Shanai", note = "" }
-WordHunterWoW_Dictionary_DE["shanda"] = { word = "Shanda", translation = "Shanda", note = "night elf priestess; seal guardian" }
+WordHunterWoW_Dictionary_DE["shanda"] = { word = "Shanda", translation = "Shanda", note = "night elf priestess; seal guardian", status = "ignored" }
 WordHunterWoW_Dictionary_DE["shandaral"] = { word = "Shandaral", translation = "Shandaral", note = "" }
 WordHunterWoW_Dictionary_DE["shandarals"] = { word = "Shandarals", translation = "Shandarals", note = "" }
 WordHunterWoW_Dictionary_DE["shandris"] = { word = "Shandris", translation = "Shandris", note = "WoW character; night elf general/commander" , status = "ignored" }

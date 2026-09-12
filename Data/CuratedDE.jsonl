@@ -37812,7 +37812,7 @@
 {"key": "deinem", "word": "deinem", "translation": "your", "note": "dative possessive; 'your spirit'"}
 {"key": "deiza", "word": "Deiza", "translation": "Deiza", "note": "pet battle tamer NPC", "status": "ignored"}
 {"key": "dekodieren", "word": "dekodieren", "translation": "decode", "note": "to decrypt/decode; break enemy codes"}
-{"key": "delaryn", "word": "Delaryn", "translation": "Delaryn", "note": "night elf commander"}
+{"key": "delaryn", "word": "Delaryn", "translation": "Delaryn", "note": "night elf commander", "status": "ignored"}
 {"key": "delegieren", "word": "delegieren", "translation": "delegate", "note": "to delegate/assign tasks"}
 {"key": "delegierung", "word": "Delegierung", "translation": "Delegation", "note": ""}
 {"key": "delgren", "word": "Delgren", "translation": "Delgren", "note": "dwarf NPC; Sentrymaster", "status": "ignored"}
@@ -44247,7 +44247,7 @@
 {"key": "gamel", "word": "Gamel", "translation": "Gamel", "note": ""}
 {"key": "gamma", "word": "Gamma", "translation": "gamma", "note": ""}
 {"key": "gan'argpack", "word": "Gan'argpack", "translation": "Gan'argpack", "note": ""}
-{"key": "gangzwinger", "word": "Gangzwinger", "translation": "Gangzwinger", "note": "surname; Gang (gang, corridor) + Zwinger (kennel, enclosure)"}
+{"key": "gangzwinger", "word": "Gangzwinger", "translation": "Gangzwinger", "note": "surname; Gang (gang, corridor) + Zwinger (kennel, enclosure)", "status": "ignored"}
 {"key": "gargantapid", "word": "Gargantapid", "translation": "Gargantapid", "note": ""}
 {"key": "gargel", "word": "Gargel", "translation": "Gargel", "note": ""}
 {"key": "gargolmar", "word": "Gargolmar", "translation": "Gargolmar", "note": ""}
@@ -46685,11 +46685,11 @@
 {"key": "mrgl", "word": "mrgl", "translation": "mrgl", "note": "murloc language; basic utterance"}
 {"key": "mrglr", "word": "mrglr", "translation": "mrglr", "note": "murloc language variant"}
 {"key": "mrgls", "word": "Mrgls", "translation": "Mrgls", "note": "proper name; murloc with gentle or tender nature", "status": "ignored"}
-{"key": "mrglrmgr", "word": "Mrglrmgr", "translation": "Mrglrmgr", "note": "murloc language"}
+{"key": "mrglrmgr", "word": "Mrglrmgr", "translation": "Mrglrmgr", "note": "murloc language", "status": "ignored"}
 {"key": "mrl", "word": "mrl", "translation": "mrl", "note": "murloc language; basic sound"}
 {"key": "mrlglmrgm", "word": "mrlglmrgm", "translation": "mrlglmrgm", "note": "murloc language"}
-{"key": "mrmrglmr", "word": "Mrmrglmr", "translation": "Mrmrglmr", "note": "murloc name or utterance"}
-{"key": "mrr", "word": "Mrr", "translation": "Mrr", "note": "murloc sound; not English 'Mr' title"}
+{"key": "mrmrglmr", "word": "Mrmrglmr", "translation": "Mrmrglmr", "note": "murloc name or utterance", "status": "ignored"}
+{"key": "mrr", "word": "Mrr", "translation": "Mrr", "note": "murloc sound; not English 'Mr' title", "status": "ignored"}
 {"key": "mu'fah", "word": "Mu'fah", "translation": "Mu'fah", "note": "proper name; wind trader or NPC", "status": "ignored"}
 {"key": "muckis", "word": "Muckis", "translation": "Muckis", "note": "proper name; NPC or creature identifier", "status": "ignored"}
 {"key": "mugambala", "word": "Mugambala", "translation": "Mugambala", "note": "proper name; location or destination marker", "status": "ignored"}
@@ -58859,9 +58859,9 @@
 {"key": "grlmrgl", "word": "Grlmrgl", "translation": "Grlmrgl", "note": "murloc name or vocalization; proper noun without English equivalent", "status": "ignored"}
 {"key": "grlmrmlg", "word": "grlmrmlg", "translation": "grlmrmlg", "note": "murloc language; no standard English translation"}
 {"key": "grml", "word": "Grml", "translation": "Grml", "note": "murloc sound or exclamation; onomatopoeia"}
-{"key": "grmlgrlrs", "word": "Grmlgrlrs", "translation": "Grmlgrlrs", "note": "murloc language or name; no standard English translation"}
-{"key": "grmrglmrl", "word": "Grmrglmrl", "translation": "Grmrglmrl", "note": "Murloc speech; untranslatable"}
-{"key": "grmmurggll", "word": "Grmmurggll", "translation": "Grmmurggll", "note": "Murloc speech"}
+{"key": "grmlgrlrs", "word": "Grmlgrlrs", "translation": "Grmlgrlrs", "note": "murloc language or name; no standard English translation", "status": "ignored"}
+{"key": "grmrglmrl", "word": "Grmrglmrl", "translation": "Grmrglmrl", "note": "Murloc speech; untranslatable", "status": "ignored"}
+{"key": "grmmurggll", "word": "Grmmurggll", "translation": "Grmmurggll", "note": "Murloc speech", "status": "ignored"}
 {"key": "gro", "word": "Gro", "translation": "Gro", "note": "Magnaron name"}
 {"key": "gro'tash", "word": "Gro'tash", "translation": "Gro'tash", "note": "Orc NPC name", "status": "ignored"}
 {"key": "grobius", "word": "Grobius", "translation": "Grobius", "note": "Dwarf NPC name", "status": "ignored"}
@@ -62662,7 +62662,7 @@
 {"key": "lenzstrasse", "word": "Lenzstraße", "translation": "Lenz Street", "note": "street name; Lenz is a surname, Straße (street)"}
 {"key": "leokk", "word": "Leokk", "translation": "Leokk", "note": "WoW creature name", "status": "ignored"}
 {"key": "leokks", "word": "Leokks", "translation": "Leokks", "note": "plural or possessive of WoW creature Leokk", "status": "ignored"}
-{"key": "leonhard", "word": "Leonhard", "translation": "Leonhard", "note": "German surname; leo (lion) + hard (strong)"}
+{"key": "leonhard", "word": "Leonhard", "translation": "Leonhard", "note": "German surname; leo (lion) + hard (strong)", "status": "ignored"}
 {"key": "leoparden", "word": "Leoparden", "translation": "leopards", "note": "plural of Leopard (leopard); large spotted feline"}
 {"key": "leopold", "word": "Leopold", "translation": "Leopold", "note": "Germanic given name; leo (lion) + bold (bold)"}
 {"key": "leora", "word": "Leora", "translation": "Leora", "note": ""}
@@ -63780,12 +63780,12 @@
 {"key": "mk-h", "word": "MK-H", "translation": "MK-H", "note": "device model or identifier; technical designation"}
 {"key": "mlgrmglr", "word": "Mlgrmglr", "translation": "mrgl", "note": "murloc speech; untranslatable creature sound"}
 {"key": "mlmlglr", "word": "mlmlglr", "translation": "mlmlglr", "note": "murloc speech; cannot be translated meaningfully"}
-{"key": "mlrglrmg", "word": "Mlrglrmg", "translation": "Mlrglrmg", "note": "murloc speech; untranslatable"}
+{"key": "mlrglrmg", "word": "Mlrglrmg", "translation": "Mlrglrmg", "note": "murloc speech; untranslatable", "status": "ignored"}
 {"key": "mlrgmrl", "word": "Mlrgmrl", "translation": "mrgmrl", "note": "murloc speech; approximation of creature vocalization"}
 {"key": "mlrgrlgr", "word": "Mlrgrlgr", "translation": "mrgrlgr", "note": "murloc speech; untranslatable sound"}
 {"key": "mlrmglrgr", "word": "mlrmglrgr", "translation": "mlrmglrgr", "note": "murloc speech; creature language"}
 {"key": "mlrmlgr", "word": "mlrmlgr", "translation": "mlrmlgr", "note": "murloc speech; untranslatable"}
-{"key": "mmlrgmlr", "word": "Mmlrgmlr", "translation": "Mmlrgmlr", "note": "murloc speech; untranslatable vocalization"}
+{"key": "mmlrgmlr", "word": "Mmlrgmlr", "translation": "Mmlrgmlr", "note": "murloc speech; untranslatable vocalization", "status": "ignored"}
 {"key": "mmmh", "word": "Mmmh", "translation": "Mmmm", "note": "utterance; interjection expressing consideration or satisfaction"}
 {"key": "mmmrrrgggllls", "word": "Mmmrrrgggllls", "translation": "Mmmrrrgggllls", "note": "murloc speech; untranslatable creature sound", "status": "ignored"}
 {"key": "mnemiseinheit", "word": "Mnemiseinheit", "translation": "mnemesis unit", "note": "nemesis (memory/remembrance) + einheit (unit); a memory-based mechanism"}
@@ -74311,7 +74311,7 @@
 {"key": "mugamba", "word": "Mugamba", "translation": "Mugamba", "note": "NPC name", "status": "ignored"}
 {"key": "muren", "word": "Muren", "translation": "Muren", "note": "NPC name; input was wrong (Murens = wrong plural form)", "status": "ignored"}
 {"key": "nightchaser", "word": "Nightchaser", "translation": "Nightchaser", "note": "NPC name", "status": "ignored"}
-{"key": "nitely", "word": "Nitely", "translation": "Nitely", "note": "NPC surname, no further meaning"}
+{"key": "nitely", "word": "Nitely", "translation": "Nitely", "note": "NPC surname, no further meaning", "status": "ignored"}
 {"key": "onyxgötzen", "word": "Onyxgötzen", "translation": "Onyx idols", "note": "götze (idol) + onyx; plural form for multiple items"}
 {"key": "orgnil", "word": "Orgnil", "translation": "Orgnil", "note": "NPC name, likely Orc origin", "status": "ignored"}
 {"key": "orm", "word": "Orm", "translation": "Orm", "note": "NPC name; short form", "status": "ignored"}
@@ -76534,8 +76534,8 @@
 {"key": "seidenfaden", "word": "Seidenfaden", "translation": "silk thread", "note": "fine material; crafting component"}
 {"key": "segeltuchreste", "word": "Segeltuchreste", "translation": "canvas remnants", "note": "fabric scraps; salvage material"}
 {"key": "sekretprobe", "word": "Sekretprobe", "translation": "secretion sample", "note": "creature fluid; reagent sample"}
-{"key": "selgorm", "word": "Selgorm", "translation": "Selgorm", "note": "night elf druid; Twilight watcher"}
-{"key": "selendra", "word": "Selendra", "translation": "Selendra", "note": "night elf priestess; area guardian"}
+{"key": "selgorm", "word": "Selgorm", "translation": "Selgorm", "note": "night elf druid; Twilight watcher", "status": "ignored"}
+{"key": "selendra", "word": "Selendra", "translation": "Selendra", "note": "night elf priestess; area guardian", "status": "ignored"}
 {"key": "senghalsband-muster", "word": "Senghalsband-Muster", "translation": "searing collar pattern", "note": "crafting schematic; fiery necklace design"}
 {"key": "sengkoralle", "word": "Sengkoralle", "translation": "scorching coral", "note": "fire-element material; molten reef growth"}
 {"key": "sensenklauennestern", "word": "Sensenklauennestern", "translation": "scythe claw nests", "note": "creature homes; hunting grounds"}
@@ -76551,9 +76551,9 @@
 {"key": "shadowglen-geschenkgutschein", "word": "Shadowglen-Geschenkgutschein", "translation": "Shadowglen gift voucher", "note": "starting zone token"}
 {"key": "shadowhoofs", "word": "Shadowhoofs", "translation": "Shadowhoofs", "note": "night elf NPC; hoofed creature reference", "status": "ignored"}
 {"key": "shadra’alor", "word": "Shadra’Alor", "translation": "Shadra'Alor", "note": "altar location; shadow-serpent name"}
-{"key": "shadwhisper", "word": "Shadwhisper", "translation": "Shadwhisper", "note": "night elf druid; whispered shadows name"}
+{"key": "shadwhisper", "word": "Shadwhisper", "translation": "Shadwhisper", "note": "night elf druid; whispered shadows name", "status": "ignored"}
 {"key": "shakes", "word": "Shakes", "translation": "Shakes", "note": "dwarf NPC; O'Breen family", "status": "ignored"}
-{"key": "shanda", "word": "Shanda", "translation": "Shanda", "note": "night elf priestess; seal guardian"}
+{"key": "shanda", "word": "Shanda", "translation": "Shanda", "note": "night elf priestess; seal guardian", "status": "ignored"}
 {"key": "shaol'watha", "word": "Shaol'watha", "translation": "Shaol'Watha", "note": "troll temple location; ancient ruin"}
 {"key": "sharlindra", "word": "Sharlindra", "translation": "Sharlindra", "note": "blood elf NPC; crown bearer", "status": "ignored"}
 {"key": "sharpclaw", "word": "Sharpclaw", "translation": "Sharpclaw", "note": "tauren chief; sharp-clawed fighter"}
