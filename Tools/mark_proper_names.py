@@ -24,6 +24,9 @@ Plus ONE curator-confirmation gate:
 - Batch 4: note matches race gate (NOTE_INCLUDE4). Same base predicates;
   b1/b2/b3 domains excluded so counts stay separate. Surname/personal-name
   and invariant signals stay out until batch 5.
+- Batch 5: note matches invariant gate (NOTE_INCLUDE5: untranslatable / do
+  not translate / keep unchanged signals). Same base predicates; b1-b4
+  domains excluded. Surname/personal-name slice stays out until batch 6.
 
 Translated-name pairs (Sturmwind->Stormwind) are never touched.
 Empty-note rows are never auto-marked (German capitalizes all nouns).
@@ -64,6 +67,8 @@ COMMON_SAME_TRANSLATION_DENY = {
     "blat", "rook",
     # Batch-4 audit FPs (issue #1): English senses of "race" (competition), not fantasy races.
     "intermediate", "multiplayer",
+    # Batch-5 audit FPs (issue #1): placeholders/technical English, not names.
+    "dnt", "unit-specified", "viewed",
 }
 
 PROPER_PATTERN = re.compile(r"^[A-ZÄÖÜ].*[A-Za-zÄÖÜäöüß'’\-]*$")
@@ -111,6 +116,14 @@ NOTE_INCLUDE3 = re.compile(
 # Batch 4: curator note keywords for race names.
 NOTE_INCLUDE4 = re.compile(
     r"\brace\b",
+    re.IGNORECASE,
+)
+
+# Batch 5: curator do-not-translate / invariant signals.
+NOTE_INCLUDE5 = re.compile(
+    r"untranslatable|not translatable|no translation needed"
+    r"|keep unchanged|leave unchanged|do not translate"
+    r"|not translated|remains the same|keep as is",
     re.IGNORECASE,
 )
 
@@ -184,6 +197,27 @@ def is_batch4_candidate(word: str, translation: str, note: str) -> bool:
     return True
 
 
+def is_batch5_candidate(word: str, translation: str, note: str) -> bool:
+    """Batch 5: note says entry is invariant / do-not-translate."""
+    if not base_predicates(word, translation):
+        return False
+    if "proper" in (note or "").lower():
+        return False  # batch 1's domain
+    if NOTE_INCLUDE.search(note or ""):
+        return False  # batch 2's domain
+    if NOTE_INCLUDE3.search(note or ""):
+        return False  # batch 3's domain
+    if NOTE_INCLUDE4.search(note or ""):
+        return False  # batch 4's domain
+    if re.search(r"\bsurname\b|\bpersonal name\b", note or "", re.IGNORECASE):
+        return False  # batch 6's domain; keep counts separate
+    if not NOTE_INCLUDE5.search(note or ""):
+        return False
+    if NOTE_EXCLUDE.search(note or ""):
+        return False
+    return True
+
+
 def main() -> int:
     check_only = "--check" in sys.argv
     lines = CURATED.read_text(encoding="utf-8").splitlines()
@@ -192,6 +226,7 @@ def main() -> int:
     batch2 = 0
     batch3 = 0
     batch4 = 0
+    batch5 = 0
     already_ignored = 0
     for line in lines:
         if not line.strip():
@@ -233,15 +268,22 @@ def main() -> int:
             else:
                 r["status"] = "ignored"  # appended last, order preserved
                 out_lines.append(json.dumps(r, ensure_ascii=False))
+        elif is_batch5_candidate(word, translation, note):
+            batch5 += 1
+            if check_only:
+                out_lines.append(line)
+            else:
+                r["status"] = "ignored"  # appended last, order preserved
+                out_lines.append(json.dumps(r, ensure_ascii=False))
         else:
             out_lines.append(line)
-    added = batch1 + batch2 + batch3 + batch4
+    added = batch1 + batch2 + batch3 + batch4 + batch5
     if check_only:
-        print(f"would_mark={added} (batch1={batch1} batch2={batch2} batch3={batch3} batch4={batch4}) "
+        print(f"would_mark={added} (batch1={batch1} batch2={batch2} batch3={batch3} batch4={batch4} batch5={batch5}) "
               f"already_ignored={already_ignored}")
         return 1 if added else 0
     CURATED.write_text("\n".join(out_lines) + "\n", encoding="utf-8")
-    print(f"proper_names_marked={added} (batch1={batch1} batch2={batch2} batch3={batch3} batch4={batch4}) "
+    print(f"proper_names_marked={added} (batch1={batch1} batch2={batch2} batch3={batch3} batch4={batch4} batch5={batch5}) "
           f"already_ignored={already_ignored} curated_total={len(out_lines)}")
     return 0
 

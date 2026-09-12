@@ -9070,7 +9070,7 @@
 {"key": "netherschwingenpasses", "word": "Netherschwingenpasses", "translation": "Netherwing Pass", "note": "Netherwing is an official dragonkin faction in WoW"}
 {"key": "nobelgartendekoration", "word": "Nobelgartendekoration", "translation": "noble garden decoration", "note": "noble not Nobel—this isn't the prize, just fancy garden decor"}
 {"key": "nobelgartenschokolade", "word": "Nobelgartenschokolade", "translation": "noble garden chocolate", "note": "chocolate item from an in-game noble garden"}
-{"key": "panzertransjigamarick", "word": "Panzertransjigamarick", "translation": "Panzertransjigamarick", "note": "nonsense word from quest flavor text, untranslatable"}
+{"key": "panzertransjigamarick", "word": "Panzertransjigamarick", "translation": "Panzertransjigamarick", "note": "nonsense word from quest flavor text, untranslatable", "status": "ignored"}
 {"key": "pilgerfreudenfestmahl", "word": "Pilgerfreudenfestmahl", "translation": "pilgrimage feast", "note": "Pilger (pilgrim) + Freuden (joys) + Festmahl (feast)"}
 {"key": "prachtmeeradmiralität", "word": "Prachtmeeradmiralität", "translation": "Proudmoore Admiralty", "note": "official WoW family name + admiral title"}
 {"key": "promenadenaufmischung", "word": "Promenadenaufmischung", "translation": "promenade mix-up", "note": "Aufmischung = stirring things up, mixing"}
@@ -10362,7 +10362,7 @@
 {"key": "grösstmöglichen", "word": "größtmöglichen", "translation": "greatest possible; maximum", "note": "größt (greatest) + möglich (possible)"}
 {"key": "gründungshalle", "word": "Gründungshalle", "translation": "Founding Hall; Hall of Founding", "note": "location name; gründung (founding/establishment)"}
 {"key": "gschlundgänger", "word": "gSchlundgänger", "translation": "Maw Walker", "note": "schlund (abyss/maw) + gänger (walker); WoW expansion term from Shadowlands"}
-{"key": "guhruhlruhlruh", "word": "Guhruhlruhlruh", "translation": "Guhruhlruhlruh", "note": "non-human language; not translatable"}
+{"key": "guhruhlruhlruh", "word": "Guhruhlruhlruh", "translation": "Guhruhlruhlruh", "note": "non-human language; not translatable", "status": "ignored"}
 {"key": "handelsschiffe", "word": "Handelsschiffe", "translation": "merchant ships; trading vessels", "note": "handels (trade) + schiffe (ships)"}
 {"key": "handwerkstisch", "word": "Handwerkstisch", "translation": "craft table; workbench", "note": "handwerk (craft/craftsmanship) + tisch (table)"}
 {"key": "hartgesottener", "word": "hartgesottener", "translation": "hardened; seasoned", "note": "hart (hard) + gesottener (boiled); describes experienced soldiers"}
@@ -16980,7 +16980,7 @@
 {"key": "bräuhall", "word": "Bräuhall", "translation": "Brewkeep", "note": "proper noun; bräu (brew/brewery) + hall (hall); location name"}
 {"key": "bodens", "word": "Bodens", "translation": "ground", "note": "genitive of boden; 'geheiligten Bodens' = sacred ground"}
 {"key": "krötoffeln", "word": "Krötoffeln", "translation": "toadtubers", "note": "kröte (toad) + affeln (potatoes); whimsical creature food"}
-{"key": "kafa'zäge", "word": "Kafa'zäge", "translation": "Kafa'zäge", "note": "invented device name; not translated in game"}
+{"key": "kafa'zäge", "word": "Kafa'zäge", "translation": "Kafa'zäge", "note": "invented device name; not translated in game", "status": "ignored"}
 {"key": "pringisch", "word": "Pringisch", "translation": "Pringisch", "note": "NPC name; not translated in game", "status": "ignored"}
 {"key": "vordertür", "word": "Vordertür", "translation": "front door", "note": "vorder (front) + tür (door); basic compound"}
 {"key": "pflichtbewusstsein", "word": "Pflichtbewusstsein", "translation": "sense of duty", "note": "pflicht (duty) + bewusstsein (consciousness); abstract quality"}
@@ -29639,7 +29639,7 @@
 {"key": "glitzer", "word": "Glitzer", "translation": "glitter", "note": "lowercase; sparkly ornament"}
 {"key": "glitzerkram", "word": "Glitzerkram", "translation": "sparkly stuff", "note": "informal: glitter-stuff, shiny junk"}
 {"key": "glitzern", "word": "Glitzern", "translation": "sparkle", "note": "not glitter as noun; the verb is to sparkle/glitter"}
-{"key": "glotz", "word": "Glotz", "translation": "Glotz", "note": "WoW item name, not translated"}
+{"key": "glotz", "word": "Glotz", "translation": "Glotz", "note": "WoW item name, not translated", "status": "ignored"}
 {"key": "glutordens", "word": "Glutordens", "translation": "Order of Embers", "note": "official WoW faction name"}
 {"key": "gnomischer", "word": "gnomischer", "translation": "gnomish", "note": "not more gnomic; adjective describing gnome-related things"}
 {"key": "gnoms", "word": "Gnoms", "translation": "Gnomes", "note": ""}
@@ -35649,7 +35649,7 @@
 {"key": "motiv", "word": "Motiv", "translation": "motif", "note": "from Latin motus: distinctive pattern or theme"}
 {"key": "mouton", "word": "Mouton", "translation": "Mouton", "note": "NPC name; French word for sheep used as character name", "status": "ignored"}
 {"key": "mr", "word": "Mr", "translation": "Mr", "note": "title abbreviation"}
-{"key": "mrlg", "word": "Mrlg", "translation": "Mrlg", "note": "murloc gibberish; untranslatable"}
+{"key": "mrlg", "word": "Mrlg", "translation": "Mrlg", "note": "murloc gibberish; untranslatable", "status": "ignored"}
 {"key": "muisekgefäss", "word": "Muisekgefäß", "translation": "music vessel", "note": "muisek (music) + gefäss (vessel): magical container or artifact"}
 {"key": "mummaki", "word": "Mummaki", "translation": "Mummaki", "note": "warlord NPC name", "status": "ignored"}
 {"key": "murdis", "word": "Murdis", "translation": "Murdis", "note": "NPC name", "status": "ignored"}
@@ -39694,7 +39694,7 @@
 {"key": "motivator", "word": "Motivator", "translation": "Motivator", "note": ""}
 {"key": "motto", "word": "Motto", "translation": "motto", "note": "guiding principle or maxim; from Italian via German"}
 {"key": "moxie", "word": "Moxie", "translation": "Moxie", "note": "NPC name", "status": "ignored"}
-{"key": "mrrga", "word": "Mrrga", "translation": "Mrrga", "note": "murloc vocalizations; untranslatable"}
+{"key": "mrrga", "word": "Mrrga", "translation": "Mrrga", "note": "murloc vocalizations; untranslatable", "status": "ignored"}
 {"key": "mucks", "word": "Mucks", "translation": "Mucks", "note": "NPC name", "status": "ignored"}
 {"key": "mug'zees", "word": "Mug'Zees", "translation": "Mug'Zees", "note": "NPC name", "status": "ignored"}
 {"key": "mulis", "word": "Mulis", "translation": "Mules", "note": "plural; pack animals or can be plural of proper noun"}
@@ -46518,8 +46518,8 @@
 {"key": "meuchler", "word": "Meuchler", "translation": "assassin", "note": "one who commits murder; a treacherous killer"}
 {"key": "meuterern", "word": "Meuterern", "translation": "mutineers", "note": "dative plural of Meuterer (mutineer); rebellious sailors"}
 {"key": "meuternden", "word": "meuternden", "translation": "mutinous", "note": "dative plural of meuternd (mutinous); describes the rebellious cannoneers"}
-{"key": "mgglurkys", "word": "Mgglurkys", "translation": "Mgglurkys", "note": "murloc name; not translatable"}
-{"key": "mgrgulllglll", "word": "Mgrgulllglll", "translation": "Mgrgulllglll", "note": "murloc gibberish; untranslatable"}
+{"key": "mgglurkys", "word": "Mgglurkys", "translation": "Mgglurkys", "note": "murloc name; not translatable", "status": "ignored"}
+{"key": "mgrgulllglll", "word": "Mgrgulllglll", "translation": "Mgrgulllglll", "note": "murloc gibberish; untranslatable", "status": "ignored"}
 {"key": "mh", "word": "Mh", "translation": "Mm", "note": "interjection expressing thoughtfulness"}
 {"key": "mhaz", "word": "Mhaz", "translation": "Mhaz", "note": "NPC elder", "status": "ignored"}
 {"key": "miasma", "word": "Miasma", "translation": "miasma", "note": "poisonous vapor or noxious influence; toxic magical presence"}
@@ -101138,13 +101138,13 @@
 {"key": "moxo", "word": "Moxo", "translation": "Moxo", "note": ""}
 {"key": "moxx", "word": "Moxx", "translation": "Moxx", "note": "NPC: Overseer Moxx; military rank title", "status": "ignored"}
 {"key": "mrgg", "word": "Mrgg", "translation": "Mrgg", "note": "murloc speech; onomatopoeia; do not translate"}
-{"key": "mrgglrmr", "word": "Mrgglrmr", "translation": "Mrgglrmr", "note": "murloc language; untranslatable"}
+{"key": "mrgglrmr", "word": "Mrgglrmr", "translation": "Mrgglrmr", "note": "murloc language; untranslatable", "status": "ignored"}
 {"key": "mrgl-rgml", "word": "Mrgl-rgml", "translation": "Mrgl-rgml", "note": "murloc speech pattern; character dialogue, not translatable"}
 {"key": "mrlgmlglr", "word": "mrlgmlglr", "translation": "mrlgmlglr", "note": "murloc sound-speech; do not translate"}
-{"key": "mrglmrlg", "word": "Mrglmrlg", "translation": "Mrglmrlg", "note": "murloc language; untranslatable"}
+{"key": "mrglmrlg", "word": "Mrglmrlg", "translation": "Mrglmrlg", "note": "murloc language; untranslatable", "status": "ignored"}
 {"key": "mrlgr", "word": "Mrlgr", "translation": "Mrlgr", "note": "murloc speech; untranslatable"}
 {"key": "mrgmlr", "word": "Mrgmlr", "translation": "Mrgmlr", "note": "murloc dialogue; untranslatable"}
-{"key": "mrlmgrlg", "word": "Mrlmgrlg", "translation": "Mrlmgrlg", "note": "murloc communication; untranslatable"}
+{"key": "mrlmgrlg", "word": "Mrlmgrlg", "translation": "Mrlmgrlg", "note": "murloc communication; untranslatable", "status": "ignored"}
 {"key": "mrn", "word": "MRN", "translation": "MRN", "note": "abbreviation or proper noun; context unclear", "status": "ignored"}
 {"key": "mrrgml", "word": "Mrrgml", "translation": "Mrrgml", "note": "murloc speech; untranslatable"}
 {"key": "mrrklr", "word": "Mrrklr", "translation": "Mrrklr", "note": "murloc sound; untranslatable"}

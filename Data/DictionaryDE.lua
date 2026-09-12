@@ -34868,7 +34868,7 @@ WordHunterWoW_Dictionary_DE["glorreicher"] = { word = "glorreicher", translation
 WordHunterWoW_Dictionary_DE["glorreiches"] = { word = "glorreiches", translation = "glorious", note = "glory-rich; full of splendor" }
 WordHunterWoW_Dictionary_DE["glorreichste"] = { word = "glorreichste", translation = "most glorious", note = "glorreich means glorious; this is the superlative" }
 WordHunterWoW_Dictionary_DE["glorthal"] = { word = "Glorthal", translation = "Glorthal", note = "an NPC name or location; no translation needed" , status = "ignored" }
-WordHunterWoW_Dictionary_DE["glotz"] = { word = "Glotz", translation = "Glotz", note = "WoW item name, not translated" }
+WordHunterWoW_Dictionary_DE["glotz"] = { word = "Glotz", translation = "Glotz", note = "WoW item name, not translated", status = "ignored" }
 WordHunterWoW_Dictionary_DE["glotzaugen"] = { word = "Glotzaugen", translation = "Goggle-eyed", note = "glotzen (stare) + augen (eyes)" }
 WordHunterWoW_Dictionary_DE["glotzen"] = { word = "GLOTZEN", translation = "STARE", note = "to stare or gawk; to look fixedly with wide eyes" }
 WordHunterWoW_Dictionary_DE["glotzt"] = { word = "Glotzt", translation = "stares", note = "glotzen (to stare/gawk rudely); 3rd person plural imperative or present tense" }
@@ -37229,7 +37229,7 @@ WordHunterWoW_Dictionary_DE["gug'rokks"] = { word = "Gug'rokks", translation = "
 WordHunterWoW_Dictionary_DE["gugel"] = { word = "Gugel", translation = "Gugel", note = "" }
 WordHunterWoW_Dictionary_DE["gugll"] = { word = "gugll", translation = "gull", note = "murloc speech; untranslatable creature language" }
 WordHunterWoW_Dictionary_DE["guglrllg"] = { word = "guglrllg", translation = "guglrllg", note = "" }
-WordHunterWoW_Dictionary_DE["guhruhlruhlruh"] = { word = "Guhruhlruhlruh", translation = "Guhruhlruhlruh", note = "non-human language; not translatable" }
+WordHunterWoW_Dictionary_DE["guhruhlruhlruh"] = { word = "Guhruhlruhlruh", translation = "Guhruhlruhlruh", note = "non-human language; not translatable", status = "ignored" }
 WordHunterWoW_Dictionary_DE["guillotine"] = { word = "Guillotine", translation = "guillotine", note = "loanword for the execution device" }
 WordHunterWoW_Dictionary_DE["guillotines"] = { word = "Guillotines", translation = "Guillotines", note = "" }
 WordHunterWoW_Dictionary_DE["gukgut"] = { word = "Gukgut", translation = "Gukgut", note = "hozen chieftain name" }
@@ -45593,7 +45593,7 @@ WordHunterWoW_Dictionary_DE["kafa"] = { word = "Kafa", translation = "Kafa", not
 WordHunterWoW_Dictionary_DE["kafa'kota"] = { word = "Kafa'kota", translation = "Kafa'kota", note = "NPC/location proper name", status = "ignored" }
 WordHunterWoW_Dictionary_DE["kafa'kota-beeren"] = { word = "Kafa'kota-Beeren", translation = "Kafa'kota berries", note = "kafa'kota is the name; beeren means berries" }
 WordHunterWoW_Dictionary_DE["kafa'kota-mischung"] = { word = "Kafa'kota-Mischung", translation = "Kafa'kota blend", note = "game item; kafa is a fictional plant, mischung means blend" }
-WordHunterWoW_Dictionary_DE["kafa'zäge"] = { word = "Kafa'zäge", translation = "Kafa'zäge", note = "invented device name; not translated in game" }
+WordHunterWoW_Dictionary_DE["kafa'zäge"] = { word = "Kafa'zäge", translation = "Kafa'zäge", note = "invented device name; not translated in game", status = "ignored" }
 WordHunterWoW_Dictionary_DE["kafa-beeren"] = { word = "Kafa-Beeren", translation = "Kafa berries", note = "kafa + beeren (berries); a plant with seeds, part of quest requirements" }
 WordHunterWoW_Dictionary_DE["kafa-berauschte"] = { word = "Kafa-berauschte", translation = "Kafa-intoxicated", note = "berauscht means intoxicated; Kafa remains the drink's name" }
 WordHunterWoW_Dictionary_DE["kafa-büsche"] = { word = "Kafa-Büsche", translation = "kafa bushes", note = "kafa is a plant that grows high on Kota Peak" }
@@ -57370,14 +57370,14 @@ WordHunterWoW_Dictionary_DE["mezzonisches"] = { word = "mezzonisches", translati
 WordHunterWoW_Dictionary_DE["mff"] = { word = "mff", translation = "mff", note = "onomatopoeia; sound of gagging or muffled speech" }
 WordHunterWoW_Dictionary_DE["mg"] = { word = "MG", translation = "MG", note = "acronym, possibly machine gun; part of a machine designation" }
 WordHunterWoW_Dictionary_DE["mgglurky"] = { word = "Mgglurky", translation = "Mgglurky", note = "murloc chef NPC; name reflects murloc speech patterns" , status = "ignored" }
-WordHunterWoW_Dictionary_DE["mgglurkys"] = { word = "Mgglurkys", translation = "Mgglurkys", note = "murloc name; not translatable" }
+WordHunterWoW_Dictionary_DE["mgglurkys"] = { word = "Mgglurkys", translation = "Mgglurkys", note = "murloc name; not translatable", status = "ignored" }
 WordHunterWoW_Dictionary_DE["mglgrgrlm"] = { word = "mglgrgrlm", translation = "mglgrgrlm", note = "murloc speech; untranslatable gibberish" }
 WordHunterWoW_Dictionary_DE["mglrgrs"] = { word = "Mglrgrs", translation = "Mglrgrs", note = "" }
 WordHunterWoW_Dictionary_DE["mglrlr"] = { word = "mglrlr", translation = "mglrlr", note = "murloc speech; untranslatable gibberish" }
 WordHunterWoW_Dictionary_DE["mglrmglr"] = { word = "mglrmglr", translation = "mglrmglr", note = "murloc speech; untranslatable gibberish" }
 WordHunterWoW_Dictionary_DE["mglrml"] = { word = "mglrml", translation = "mglrml", note = "murloc speech; untranslatable gibberish" }
 WordHunterWoW_Dictionary_DE["mglrmlr"] = { word = "mglrmlr", translation = "mglrmlr", note = "murloc speech; untranslatable gibberish" }
-WordHunterWoW_Dictionary_DE["mgrgulllglll"] = { word = "Mgrgulllglll", translation = "Mgrgulllglll", note = "murloc gibberish; untranslatable" }
+WordHunterWoW_Dictionary_DE["mgrgulllglll"] = { word = "Mgrgulllglll", translation = "Mgrgulllglll", note = "murloc gibberish; untranslatable", status = "ignored" }
 WordHunterWoW_Dictionary_DE["mgrlmlgr"] = { word = "mgrlmlgr", translation = "mgrlmlgr", note = "murloc speech; untranslatable gibberish" }
 WordHunterWoW_Dictionary_DE["mh"] = { word = "Mh", translation = "Mm", note = "interjection expressing thoughtfulness" }
 WordHunterWoW_Dictionary_DE["mhaz"] = { word = "Mhaz", translation = "Mhaz", note = "NPC elder" , status = "ignored" }
@@ -59182,7 +59182,7 @@ WordHunterWoW_Dictionary_DE["mrgls"] = { word = "Mrgls", translation = "Mrgls", 
 WordHunterWoW_Dictionary_DE["mrgrglilgrl"] = { word = "Mrgrglilgrl", translation = "Mrgrglilgrl", note = "murloc speech; untranslatable creature language" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["mrgrlilgrl"] = { word = "Mrgrlilgrl", translation = "Mrgrlilgrl", note = "murloc speech; untranslatable creature language" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["mrl"] = { word = "mrl", translation = "mrl", note = "murloc language; basic sound" }
-WordHunterWoW_Dictionary_DE["mrlg"] = { word = "Mrlg", translation = "Mrlg", note = "murloc gibberish; untranslatable" }
+WordHunterWoW_Dictionary_DE["mrlg"] = { word = "Mrlg", translation = "Mrlg", note = "murloc gibberish; untranslatable", status = "ignored" }
 WordHunterWoW_Dictionary_DE["mrlglmrgm"] = { word = "mrlglmrgm", translation = "mrlglmrgm", note = "murloc language" }
 WordHunterWoW_Dictionary_DE["mrlglr"] = { word = "Mrlglr", translation = "Mrlglr", note = "murloc speech; untranslatable creature language" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["mrlglrg"] = { word = "mrlglrg", translation = "mrlglrg", note = "murloc speech; untranslatable creature language" }
@@ -59194,7 +59194,7 @@ WordHunterWoW_Dictionary_DE["mrlgrlg"] = { word = "Mrlgrlg", translation = "Mrlg
 WordHunterWoW_Dictionary_DE["mrmlgr"] = { word = "Mrmlgr", translation = "Mrmlgr", note = "murloc speech; untranslatable creature language" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["mrmrglmr"] = { word = "Mrmrglmr", translation = "Mrmrglmr", note = "murloc name or utterance" }
 WordHunterWoW_Dictionary_DE["mrr"] = { word = "Mrr", translation = "Mrr", note = "murloc sound; not English 'Mr' title" }
-WordHunterWoW_Dictionary_DE["mrrga"] = { word = "Mrrga", translation = "Mrrga", note = "murloc vocalizations; untranslatable" }
+WordHunterWoW_Dictionary_DE["mrrga"] = { word = "Mrrga", translation = "Mrrga", note = "murloc vocalizations; untranslatable", status = "ignored" }
 WordHunterWoW_Dictionary_DE["mrrgglton"] = { word = "Mrrgglton", translation = "Mrrgglton", note = "" }
 WordHunterWoW_Dictionary_DE["mrrl"] = { word = "Mrrl", translation = "Mrrl", note = "murloc speech" }
 WordHunterWoW_Dictionary_DE["mrs"] = { word = "Mrs", translation = "Mrs", note = "abbreviation for missus; untranslated" }
@@ -64284,7 +64284,7 @@ WordHunterWoW_Dictionary_DE["panzerschalen"] = { word = "Panzerschalen", transla
 WordHunterWoW_Dictionary_DE["panzerschrott"] = { word = "Panzerschrott", translation = "tank scrap", note = "panzer (tank) + schrott (scrap); metal debris or junk from vehicles" }
 WordHunterWoW_Dictionary_DE["panzerspiel"] = { word = "Panzerspiel", translation = "Tank Game", note = "Panzer (tank or armor) + Spiel (game); the short label leaves the exact sense open" }
 WordHunterWoW_Dictionary_DE["panzerteile"] = { word = "Panzerteile", translation = "tank parts", note = "panzer (tank) + teile (parts); components or pieces of armor" }
-WordHunterWoW_Dictionary_DE["panzertransjigamarick"] = { word = "Panzertransjigamarick", translation = "Panzertransjigamarick", note = "nonsense word from quest flavor text, untranslatable" }
+WordHunterWoW_Dictionary_DE["panzertransjigamarick"] = { word = "Panzertransjigamarick", translation = "Panzertransjigamarick", note = "nonsense word from quest flavor text, untranslatable", status = "ignored" }
 WordHunterWoW_Dictionary_DE["panzerung"] = { word = "Panzerung", translation = "Armor; protection", note = "from panzer; can mean armor plating or protective covering" }
 WordHunterWoW_Dictionary_DE["panzerungen"] = { word = "Panzerungen", translation = "armor plating", note = "Panzer (armor) + -ung (abstract suffix); protective layer" }
 WordHunterWoW_Dictionary_DE["panzerungsplatten"] = { word = "Panzerungsplatten", translation = "Armor plates", note = "panzerung (armor) + platten (plates)" }
