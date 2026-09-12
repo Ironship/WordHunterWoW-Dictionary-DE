@@ -24454,7 +24454,7 @@
 {"key": "valkyra", "word": "Valkyra", "translation": "Valkyra", "note": ""}
 {"key": "vargoth", "word": "Vargoth", "translation": "Vargoth", "note": "", "status": "ignored"}
 {"key": "varzok", "word": "Varzok", "translation": "Varzok", "note": ""}
-{"key": "velhans", "word": "Velhans", "translation": "Velhans", "note": ""}
+{"key": "velhans", "word": "Velhans", "translation": "Velhans", "note": "", "status": "ignored"}
 {"key": "verblasst", "word": "verblasst", "translation": "faded", "note": ""}
 {"key": "verdorbene", "word": "verdorbene", "translation": "corrupted", "note": ""}
 {"key": "verdorren", "word": "verdorren", "translation": "wither", "note": ""}
@@ -24528,7 +24528,7 @@
 {"key": "arbeitstisch", "word": "Arbeitstisch", "translation": "work table", "note": ""}
 {"key": "archive", "word": "Archive", "translation": "archives", "note": ""}
 {"key": "archivs", "word": "Archivs", "translation": "archive", "note": "genitive/possessive form; in context refers to singular archive"}
-{"key": "artemede", "word": "Artemede", "translation": "Artemede", "note": ""}
+{"key": "artemede", "word": "Artemede", "translation": "Artemede", "note": "", "status": "ignored"}
 {"key": "artikel", "word": "Artikel", "translation": "article", "note": ""}
 {"key": "aufbrecht", "word": "aufbrecht", "translation": "breaks up", "note": "from aufbrechen: to depart; to break up"}
 {"key": "aufgehört", "word": "aufgehört", "translation": "stopped", "note": ""}
@@ -24873,14 +24873,14 @@
 {"key": "aggressiven", "word": "aggressiven", "translation": "aggressive", "note": ""}
 {"key": "allari", "word": "Allari", "translation": "Allari", "note": ""}
 {"key": "amani'zar", "word": "Amani'zar", "translation": "Amani’zar", "note": ""}
-{"key": "ango'rosh", "word": "Ango'rosh", "translation": "Ango'rosh", "note": ""}
+{"key": "ango'rosh", "word": "Ango'rosh", "translation": "Ango'rosh", "note": "", "status": "ignored"}
 {"key": "animazapfen", "word": "Animazapfen", "translation": "Anima cones", "note": ""}
 {"key": "anseht", "word": "anseht", "translation": "looks at", "note": ""}
 {"key": "anzutreffen", "word": "anzutreffen", "translation": "to find", "note": "to be found or encountered"}
 {"key": "apparat", "word": "Apparat", "translation": "apparatus", "note": ""}
 {"key": "archiven", "word": "Archiven", "translation": "archives", "note": ""}
 {"key": "arkatraz", "word": "Arkatraz", "translation": "Arcatraz", "note": ""}
-{"key": "auchenai", "word": "Auchenai", "translation": "Auchenai", "note": ""}
+{"key": "auchenai", "word": "Auchenai", "translation": "Auchenai", "note": "", "status": "ignored"}
 {"key": "aufklärung", "word": "Aufklärung", "translation": "education", "note": "education or instruction; enlightenment in learning sense"}
 {"key": "aufsicht", "word": "Aufsicht", "translation": "supervision", "note": ""}
 {"key": "auftritt", "word": "Auftritt", "translation": "Appearance", "note": ""}
@@ -24893,9 +24893,9 @@
 {"key": "aussuchen", "word": "aussuchen", "translation": "choose", "note": ""}
 {"key": "ausweg", "word": "Ausweg", "translation": "way out", "note": ""}
 {"key": "auszumerzen", "word": "auszumerzen", "translation": "to eradicate", "note": ""}
-{"key": "b'naar", "word": "B'naar", "translation": "B'naar", "note": ""}
+{"key": "b'naar", "word": "B'naar", "translation": "B'naar", "note": "", "status": "ignored"}
 {"key": "baldmöglichst", "word": "baldmöglichst", "translation": "as soon as possible", "note": ""}
-{"key": "balnazzar", "word": "Balnazzar", "translation": "Balnazzar", "note": ""}
+{"key": "balnazzar", "word": "Balnazzar", "translation": "Balnazzar", "note": "", "status": "ignored"}
 {"key": "bearbeiten", "word": "bearbeiten", "translation": "work on", "note": "to work on or process; edit is wrong for metalwork"}
 {"key": "bearbeitung", "word": "Bearbeitung", "translation": "processing", "note": "in context of protocol processing"}
 {"key": "beaufsichtigt", "word": "beaufsichtigt", "translation": "supervised", "note": ""}
@@ -24934,7 +24934,7 @@
 {"key": "brutalen", "word": "brutalen", "translation": "brutal", "note": ""}
 {"key": "bürgern", "word": "Bürgern", "translation": "citizens", "note": ""}
 {"key": "calia", "word": "Calia", "translation": "Calia", "note": ""}
-{"key": "calydus", "word": "Calydus", "translation": "Calydus", "note": ""}
+{"key": "calydus", "word": "Calydus", "translation": "Calydus", "note": "", "status": "ignored"}
 {"key": "cousin", "word": "Cousin", "translation": "cousin", "note": ""}
 {"key": "dach", "word": "Dach", "translation": "Roof", "note": ""}
 {"key": "dachtet", "word": "dachtet", "translation": "thought", "note": ""}
@@ -24944,11 +24944,11 @@
 {"key": "decken", "word": "decken", "translation": "cover", "note": ""}
 {"key": "delas", "word": "Delas", "translation": "Delas", "note": ""}
 {"key": "dringlichkeit", "word": "Dringlichkeit", "translation": "urgency", "note": ""}
-{"key": "dromanin", "word": "Dromanin", "translation": "Dromanin", "note": ""}
+{"key": "dromanin", "word": "Dromanin", "translation": "Dromanin", "note": "", "status": "ignored"}
 {"key": "dummköpfe", "word": "Dummköpfe", "translation": "Fools", "note": ""}
 {"key": "durchgehen", "word": "durchgehen", "translation": "go through", "note": ""}
 {"key": "durchqueren", "word": "durchqueren", "translation": "traverse", "note": ""}
-{"key": "durnholde", "word": "Durnholde", "translation": "Durnholde", "note": ""}
+{"key": "durnholde", "word": "Durnholde", "translation": "Durnholde", "note": "", "status": "ignored"}
 {"key": "duro", "word": "Duro", "translation": "Duro", "note": ""}
 {"key": "effekte", "word": "Effekte", "translation": "Effects", "note": ""}
 {"key": "eigentlichen", "word": "eigentlichen", "translation": "actual", "note": ""}
@@ -25024,7 +25024,7 @@
 {"key": "horden", "word": "Horden", "translation": "hordes", "note": "Horde = horde/army; plural is lowercase in English common usage"}
 {"key": "humanoiden", "word": "Humanoiden", "translation": "humanoids", "note": ""}
 {"key": "hydra", "word": "Hydra", "translation": "Hydra", "note": ""}
-{"key": "hyldnir", "word": "Hyldnir", "translation": "Hyldnir", "note": ""}
+{"key": "hyldnir", "word": "Hyldnir", "translation": "Hyldnir", "note": "", "status": "ignored"}
 {"key": "hämmer", "word": "Hämmer", "translation": "hammers", "note": "plural of Hammer; lowercase common noun"}
 {"key": "härten", "word": "härten", "translation": "harden", "note": "härten = to harden/temper (as in blacksmithing); 'Waffe härten' = temper weapon"}
 {"key": "hätt", "word": "hätt", "translation": "would have", "note": ""}
@@ -25039,11 +25039,11 @@
 {"key": "insigne", "word": "Insigne", "translation": "insignia", "note": "insigne/insignia = emblem/badge; may be capitalized if quest item name"}
 {"key": "iris", "word": "Iris", "translation": "iris", "note": "Iris = iris (flower) or iris (part of eye); context determines"}
 {"key": "irrt", "word": "irrt", "translation": "mistaken", "note": "irren = to wander/roam or to be mistaken; context determines"}
-{"key": "jaedenar", "word": "Jaedenar", "translation": "Jaedenar", "note": ""}
+{"key": "jaedenar", "word": "Jaedenar", "translation": "Jaedenar", "note": "", "status": "ignored"}
 {"key": "jakes", "word": "Jakes", "translation": "Jakes", "note": ""}
 {"key": "jarl", "word": "Jarl", "translation": "Jarl", "note": "Old Norse title equivalent to earl/chieftain; WoW keeps Norse term 'Jarl'"}
-{"key": "jintha'alor", "word": "Jintha'Alor", "translation": "Jintha'Alor", "note": ""}
-{"key": "kanrethad", "word": "Kanrethad", "translation": "Kanrethad", "note": ""}
+{"key": "jintha'alor", "word": "Jintha'Alor", "translation": "Jintha'Alor", "note": "", "status": "ignored"}
+{"key": "kanrethad", "word": "Kanrethad", "translation": "Kanrethad", "note": "", "status": "ignored"}
 {"key": "kaulquappen", "word": "Kaulquappen", "translation": "Tadpoles", "note": "Kaulquappe = tadpole (larval frog); creatures in WoW"}
 {"key": "kaz", "word": "Kaz", "translation": "Kaz", "note": ""}
 {"key": "kerker", "word": "Kerker", "translation": "dungeon", "note": "Kerker = dungeon/prison; WoW context uses 'dungeon' for instance"}
@@ -25067,8 +25067,8 @@
 {"key": "käse", "word": "Käse", "translation": "cheese", "note": "Käse = cheese; lowercase common noun"}
 {"key": "kühlen", "word": "kühlen", "translation": "cool", "note": "kühlen = to cool; 'kühlen Kopf' = cool/calm head (figure of speech)"}
 {"key": "langweilig", "word": "langweilig", "translation": "boring", "note": ""}
-{"key": "lauerfels", "word": "Lauerfels", "translation": "Lauerfels", "note": ""}
-{"key": "laurence", "word": "Laurence", "translation": "Laurence", "note": ""}
+{"key": "lauerfels", "word": "Lauerfels", "translation": "Lauerfels", "note": "", "status": "ignored"}
+{"key": "laurence", "word": "Laurence", "translation": "Laurence", "note": "", "status": "ignored"}
 {"key": "lebensweise", "word": "Lebensweise", "translation": "way of life", "note": "compound: Lebens (life) + Weise (manner/way); way of life/lifestyle"}
 {"key": "leerenelfen", "word": "Leerenelfen", "translation": "Void Elves", "note": "German translation of 'Void Elves'; 'Leeren' (void/emptiness) + Elfen"}
 {"key": "leises", "word": "leises", "translation": "quiet", "note": ""}
@@ -25078,7 +25078,7 @@
 {"key": "lordadmiralin", "word": "Lordadmiralin", "translation": "Lord Admiral", "note": ""}
 {"key": "loyalisten", "word": "Loyalisten", "translation": "loyalists", "note": "Loyalist = loyalist; lowercase common noun"}
 {"key": "luzilla", "word": "Luzilla", "translation": "Lucille", "note": "German 'Luzilla' is the localized form of 'Lucille' (NPC name)"}
-{"key": "magatha", "word": "Magatha", "translation": "Magatha", "note": ""}
+{"key": "magatha", "word": "Magatha", "translation": "Magatha", "note": "", "status": "ignored"}
 {"key": "manifestation", "word": "Manifestation", "translation": "manifestation", "note": ""}
 {"key": "mariel", "word": "Mariel", "translation": "Mariel", "note": ""}
 {"key": "markierten", "word": "markierten", "translation": "marked", "note": ""}
