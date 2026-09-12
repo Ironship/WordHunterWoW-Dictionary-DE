@@ -36041,7 +36041,7 @@ WordHunterWoW_Dictionary_DE["grassiert"] = { word = "grassiert", translation = "
 WordHunterWoW_Dictionary_DE["grast"] = { word = "grast", translation = "grazes", note = "second person singular of grasen (to graze); feeds on grass" }
 WordHunterWoW_Dictionary_DE["graston"] = { word = "Graston", translation = "Graston", note = "NPC name (Matley Graston)" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["grat"] = { word = "Grat", translation = "ridge; bone", note = "a sharp ridge or the backbone of a fish" }
-WordHunterWoW_Dictionary_DE["grathalax"] = { word = "Grathalax", translation = "Grathalax", note = "" }
+WordHunterWoW_Dictionary_DE["grathalax"] = { word = "Grathalax", translation = "Grathalax", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["grathor"] = { word = "Grathor", translation = "Grathor", note = "" }
 WordHunterWoW_Dictionary_DE["gratis"] = { word = "gratis", translation = "free", note = "without cost or charge; Latin borrowing" }
 WordHunterWoW_Dictionary_DE["gratisflasche"] = { word = "Gratisflasche", translation = "free bottle", note = "Gratis (free) + flasche (bottle); complimentary container or gift" }
@@ -36194,7 +36194,7 @@ WordHunterWoW_Dictionary_DE["grazil"] = { word = "Grazil", translation = "gracef
 WordHunterWoW_Dictionary_DE["graziösen"] = { word = "graziösen", translation = "graceful", note = "adjective meaning elegant or graceful; describing the movement of a creature" }
 WordHunterWoW_Dictionary_DE["grazle"] = { word = "Grazle", translation = "Grazle", note = "" }
 WordHunterWoW_Dictionary_DE["grazzel"] = { word = "Grazzel", translation = "Grazel", note = "alternate spelling of Grazel; character/creature name" }
-WordHunterWoW_Dictionary_DE["grazzul"] = { word = "Grazzul", translation = "Grazzul", note = "" }
+WordHunterWoW_Dictionary_DE["grazzul"] = { word = "Grazzul", translation = "Grazzul", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["greasygob"] = { word = "Greasygob", translation = "Greasygob", note = "NPC name" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["great"] = { word = "great", translation = "great", note = "great can mean large, excellent, or important; context chooses the sense" }
 WordHunterWoW_Dictionary_DE["greatly"] = { word = "greatly", translation = "great", note = "" }
@@ -36258,7 +36258,7 @@ WordHunterWoW_Dictionary_DE["greifer"] = { word = "Greifer", translation = "grab
 WordHunterWoW_Dictionary_DE["greifern"] = { word = "Greifern", translation = "grippers", note = "from greifen (grasp); creatures or appendages used for grasping" }
 WordHunterWoW_Dictionary_DE["greiferzahnnieren"] = { word = "Greiferzahnnieren", translation = "gripper-tooth kidneys", note = "greifer = gripper/claw; creature organ used in cooking" }
 WordHunterWoW_Dictionary_DE["greiferzähne"] = { word = "Greiferzähne", translation = "claw teeth", note = "Greifera (claw) + zähne (teeth); sharp or fang-like teeth" }
-WordHunterWoW_Dictionary_DE["greifgar"] = { word = "Greifgar", translation = "Greifgar", note = "" }
+WordHunterWoW_Dictionary_DE["greifgar"] = { word = "Greifgar", translation = "Greifgar", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["greifhaken"] = { word = "Greifhaken", translation = "Grappling hook", note = "Greif (grasp) + Haken (hook); equipment for climbing or catching" }
 WordHunterWoW_Dictionary_DE["greifhakenkanone"] = { word = "Greifhakenkanone", translation = "Grappling Hook Cannon", note = "" }
 WordHunterWoW_Dictionary_DE["greifhakenwerfer"] = { word = "Greifhakenwerfer", translation = "grappling hook launcher", note = "greifhaken (grappling hook) + werfer (launcher); tool for climbing" }
@@ -36274,7 +36274,7 @@ WordHunterWoW_Dictionary_DE["greisholz"] = { word = "Greisholz", translation = "
 WordHunterWoW_Dictionary_DE["greisin"] = { word = "Greisin", translation = "old woman", note = "from Greis (old man) + -in (feminine suffix); elderly woman" }
 WordHunterWoW_Dictionary_DE["greisinnen"] = { word = "Greisinnen", translation = "old women", note = "plural of greisin (old woman); elderly females" }
 WordHunterWoW_Dictionary_DE["grek"] = { word = "Grek", translation = "Grek", note = "name was misspelled as Grec", status = "ignored" }
-WordHunterWoW_Dictionary_DE["grek'lor"] = { word = "Grek'lor", translation = "Grek'lor", note = "" }
+WordHunterWoW_Dictionary_DE["grek'lor"] = { word = "Grek'lor", translation = "Grek'lor", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["grek'og"] = { word = "Grek'og", translation = "Grek'og", note = "proper name; likely a creature or NPC leader", status = "ignored" }
 WordHunterWoW_Dictionary_DE["grekas"] = { word = "Grekas", translation = "Grekas", note = "proper name; appears in 'Grekas' Urn' (Grekas Urne)", status = "ignored" }
 WordHunterWoW_Dictionary_DE["grekk"] = { word = "Grekk", translation = "Grekk", note = "NPC name (Grekk at Blauhimmel lumber camp)" , status = "ignored" }
@@ -36290,13 +36290,13 @@ WordHunterWoW_Dictionary_DE["grelle"] = { word = "Grelle", translation = "Grell"
 WordHunterWoW_Dictionary_DE["grellen"] = { word = "grellen", translation = "glaring", note = "grell (shrill/harsh/glaring); describes bright, harsh light or sound" }
 WordHunterWoW_Dictionary_DE["greller"] = { word = "Greller", translation = "glaring", note = "harshly bright or obvious; starkly conspicuous" }
 WordHunterWoW_Dictionary_DE["grelles"] = { word = "grelles", translation = "glaring", note = "glaring (adjective); harsh or glaringly obvious in appearance" }
-WordHunterWoW_Dictionary_DE["grellkin"] = { word = "Grellkin", translation = "Grellkin", note = "" }
+WordHunterWoW_Dictionary_DE["grellkin"] = { word = "Grellkin", translation = "Grellkin", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["grellkrieger"] = { word = "Grellkrieger", translation = "bright warrior; glowing warrior", note = "grell (bright/garish) + krieger (warrior); likely fire or demonic" }
 WordHunterWoW_Dictionary_DE["grellohrringe"] = { word = "Grellohrringe", translation = "bright earrings", note = "grell (bright/loud) + ohrringe (earrings); vivid or shiny jewelry" }
 WordHunterWoW_Dictionary_DE["grells"] = { word = "Grells", translation = "Grells", note = "plural of Grell; mischievous fey creature type" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["grem"] = { word = "Grem", translation = "Grem", note = "NPC name (Friendfinder Grem)" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["gremix"] = { word = "Gremix", translation = "Gremix", note = "proper name of a character", status = "ignored" }
-WordHunterWoW_Dictionary_DE["gremlock"] = { word = "Gremlock", translation = "Gremlock", note = "" }
+WordHunterWoW_Dictionary_DE["gremlock"] = { word = "Gremlock", translation = "Gremlock", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["gremlocks"] = { word = "Gremlocks", translation = "Gremlocks", note = "" }
 WordHunterWoW_Dictionary_DE["gremni"] = { word = "Gremni", translation = "Gremni", note = "" }
 WordHunterWoW_Dictionary_DE["gren"] = { word = "Gren", translation = "Gren", note = "" }
@@ -36391,7 +36391,7 @@ WordHunterWoW_Dictionary_DE["grimh"] = { word = "Grimh", translation = "Grimh", 
 WordHunterWoW_Dictionary_DE["grimimge"] = { word = "Grimimge", translation = "Grimmage", note = "likely 'Grimm' (grim/fierce) + -age suffix; appears to be a tavern name, possibly misspelled" }
 WordHunterWoW_Dictionary_DE["grimjoch"] = { word = "Grimjoch", translation = "Grimjoch", note = "NPC name (Da'kash Grimjoch)" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["grimkor"] = { word = "Grimkor", translation = "Grimkor", note = "proper name", status = "ignored" }
-WordHunterWoW_Dictionary_DE["grimkors"] = { word = "Grimkors", translation = "Grimkors", note = "" }
+WordHunterWoW_Dictionary_DE["grimkors"] = { word = "Grimkors", translation = "Grimkors", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["grimla"] = { word = "Grimla", translation = "Grimla", note = "" }
 WordHunterWoW_Dictionary_DE["grimlaexpress"] = { word = "Grimlaexpress", translation = "Grimla Express", note = "a named transportation service; Grimla + express" }
 WordHunterWoW_Dictionary_DE["grimlas"] = { word = "Grimlas", translation = "Grimlas", note = "NPC name; associated with a hot rod vehicle" , status = "ignored" }
@@ -36468,7 +36468,7 @@ WordHunterWoW_Dictionary_DE["grimmzug"] = { word = "Grimmzug", translation = "Gr
 WordHunterWoW_Dictionary_DE["grimnok"] = { word = "Grimnok", translation = "Grimnok", note = "orc NPC name; proper noun", status = "ignored" }
 WordHunterWoW_Dictionary_DE["grimnur"] = { word = "Grimnur", translation = "Grimnur", note = "NPC name; Old Norse-influenced naming" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["grimnurs"] = { word = "Grimnurs", translation = "Grimnur's", note = "possessive of NPC name" }
-WordHunterWoW_Dictionary_DE["grimoira"] = { word = "Grimoira", translation = "Grimoira", note = "" }
+WordHunterWoW_Dictionary_DE["grimoira"] = { word = "Grimoira", translation = "Grimoira", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["grimoiras"] = { word = "Grimoiras", translation = "Grimoira's", note = "possessive of a name; possibly a grimoire-like reference" }
 WordHunterWoW_Dictionary_DE["grimoire"] = { word = "Grimoire", translation = "Grimoire", note = "WoW artifact name; from English/French (book of magic spells)", status = "ignored" }
 WordHunterWoW_Dictionary_DE["grimoirium"] = { word = "Grimoirium", translation = "grimoire", note = "literal Germanic root for a spellbook; used as a place-name here, official name not confirmed" }
@@ -36478,7 +36478,7 @@ WordHunterWoW_Dictionary_DE["grimshade"] = { word = "Grimshade", translation = "
 WordHunterWoW_Dictionary_DE["grimshot"] = { word = "Grimshot", translation = "Grimshot", note = "NPC name" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["grimsilt-nebengebäudes"] = { word = "Grimsilt-Nebengebäudes", translation = "Grimsilt annex", note = "Grimsilt (location) + nebengebäude (annex); location in dungeon" }
 WordHunterWoW_Dictionary_DE["grimson"] = { word = "Grimson", translation = "Grimson", note = "" }
-WordHunterWoW_Dictionary_DE["grimtak"] = { word = "Grimtak", translation = "Grimtak", note = "" }
+WordHunterWoW_Dictionary_DE["grimtak"] = { word = "Grimtak", translation = "Grimtak", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["grimtaks"] = { word = "Grimtaks", translation = "Grimtaks", note = "" }
 WordHunterWoW_Dictionary_DE["grindbruch"] = { word = "Grindbruch", translation = "Grind Fracture", note = "grind + bruch (fracture/break)" }
 WordHunterWoW_Dictionary_DE["grindgarr"] = { word = "Grindgarr", translation = "Grindgarr", note = "" }
@@ -36499,17 +36499,17 @@ WordHunterWoW_Dictionary_DE["grippe"] = { word = "Grippe", translation = "flu", 
 WordHunterWoW_Dictionary_DE["grips"] = { word = "Grips", translation = "wits", note = "colloquial; brains/intelligence; English loanword in German" }
 WordHunterWoW_Dictionary_DE["gripsi"] = { word = "Gripsi", translation = "Gripsi", note = "" }
 WordHunterWoW_Dictionary_DE["gris"] = { word = "Gris", translation = "gris", note = "" }
-WordHunterWoW_Dictionary_DE["griselda"] = { word = "Griselda", translation = "Griselda", note = "" }
+WordHunterWoW_Dictionary_DE["griselda"] = { word = "Griselda", translation = "Griselda", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["grisert"] = { word = "Grisert", translation = "Grisert", note = "" }
 WordHunterWoW_Dictionary_DE["grish"] = { word = "Grish", translation = "Grish", note = "NPC name" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["grishna"] = { word = "Grishna", translation = "Grishna", note = "a demon or creature type in WoW" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["grishnath"] = { word = "Grishnath", translation = "Grishnath", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["grisvorräte"] = { word = "Grisvorräte", translation = "gris supplies", note = "gris (unknown) + vorräte (supplies); possibly game-specific term" }
-WordHunterWoW_Dictionary_DE["griswold"] = { word = "Griswold", translation = "Griswold", note = "" }
+WordHunterWoW_Dictionary_DE["griswold"] = { word = "Griswold", translation = "Griswold", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["grix"] = { word = "Grix", translation = "Grix", note = "" }
 WordHunterWoW_Dictionary_DE["grixis"] = { word = "Grixis", translation = "Grixis", note = "NPC name; no translation is intended" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["griz"] = { word = "Griz", translation = "Griz", note = "" }
-WordHunterWoW_Dictionary_DE["griznak"] = { word = "Griznak", translation = "Griznak", note = "" }
+WordHunterWoW_Dictionary_DE["griznak"] = { word = "Griznak", translation = "Griznak", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["grizvek"] = { word = "Grizvek", translation = "Grizvek", note = "" }
 WordHunterWoW_Dictionary_DE["grizz"] = { word = "Grizz", translation = "Grizz", note = "NPC name (Chief Engineer Grizz)" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["grizzek"] = { word = "Grizzek", translation = "Grizzek", note = "proper name; Grizzek Zischzang", status = "ignored" }
@@ -36557,7 +36557,7 @@ WordHunterWoW_Dictionary_DE["groff"] = { word = "Groff", translation = "Groff", 
 WordHunterWoW_Dictionary_DE["groffa"] = { word = "Groffa", translation = "Groffa", note = "furbolg chief NPC; proper name", status = "ignored" }
 WordHunterWoW_Dictionary_DE["groffy"] = { word = "Groffy", translation = "Groffy", note = "Gnome NPC name" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["grog"] = { word = "Grog", translation = "grog", note = "rum-based drink; sailor's alcoholic beverage" }
-WordHunterWoW_Dictionary_DE["grog'ak"] = { word = "Grog'ak", translation = "Grog'ak", note = "" }
+WordHunterWoW_Dictionary_DE["grog'ak"] = { word = "Grog'ak", translation = "Grog'ak", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["grog'aks"] = { word = "Grog'aks", translation = "Grog'ak", note = "Orc NPC; boss" }
 WordHunterWoW_Dictionary_DE["grogals"] = { word = "Grogals", translation = "Grogals", note = "NPC or creature name; associated with shards" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["groggelfitz"] = { word = "Groggelfitz", translation = "Groggelfitz", note = "" }
@@ -36611,19 +36611,19 @@ WordHunterWoW_Dictionary_DE["grolnars"] = { word = "Grolnars", translation = "Gr
 WordHunterWoW_Dictionary_DE["grols"] = { word = "Grols", translation = "Grols", note = "" }
 WordHunterWoW_Dictionary_DE["grolvitar"] = { word = "Grolvitar", translation = "Grolvitar", note = "NPC name (Grolvitar the Eternally Burning)" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["grom"] = { word = "Grom", translation = "Grom", note = "orc warrior hero; proper name/title", status = "ignored" }
-WordHunterWoW_Dictionary_DE["grom'ash"] = { word = "Grom'ash", translation = "Grom'ash", note = "" }
+WordHunterWoW_Dictionary_DE["grom'ash"] = { word = "Grom'ash", translation = "Grom'ash", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["grom'gar"] = { word = "Grom'gar", translation = "Grom'gar", note = "location name" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["grom'gol"] = { word = "Grom'gol", translation = "Grom'gol", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["grom'gols"] = { word = "Grom'gols", translation = "Grom'gol", note = "location name; WoW Horde base in jungle" }
 WordHunterWoW_Dictionary_DE["grom'kar"] = { word = "Grom'kar", translation = "Grom'kar", note = "creature or group name; appears as 'Grom'kar grunts'" , status = "ignored" }
-WordHunterWoW_Dictionary_DE["grom'thar"] = { word = "Grom'thar", translation = "Grom'thar", note = "" }
+WordHunterWoW_Dictionary_DE["grom'thar"] = { word = "Grom'thar", translation = "Grom'thar", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["grom'tor"] = { word = "Grom'tor", translation = "Grom'tor", note = "" }
 WordHunterWoW_Dictionary_DE["grom'tors"] = { word = "Grom'tors", translation = "Litany of Damnation", note = "Grom'tor's attack; title" }
 WordHunterWoW_Dictionary_DE["gromit"] = { word = "Gromit", translation = "Gromit", note = "creature name; small hopping animals mentioned as cute" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["gromitfüsse"] = { word = "Gromitfüße", translation = "Gromit feet", note = "gromit (creature) + füße (feet); harvesting material" }
 WordHunterWoW_Dictionary_DE["gromits"] = { word = "Gromits", translation = "Gromits", note = "" }
 WordHunterWoW_Dictionary_DE["gromitseele"] = { word = "Gromitseele", translation = "Gromit soul", note = "gromit + seele (soul); spirit form" }
-WordHunterWoW_Dictionary_DE["gromm'ko"] = { word = "Gromm'ko", translation = "Gromm'ko", note = "" }
+WordHunterWoW_Dictionary_DE["gromm'ko"] = { word = "Gromm'ko", translation = "Gromm'ko", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["grommar"] = { word = "Grommar", translation = "Grommar", note = "place or NPC name" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["grommasch"] = { word = "Grommasch", translation = "Grommash", note = "NPC name (Grommash Hellscream); note spelling variation" }
 WordHunterWoW_Dictionary_DE["grommash"] = { word = "Grommash", translation = "Grommash", note = "orc fortress name in Warsong Gulch" , status = "ignored" }

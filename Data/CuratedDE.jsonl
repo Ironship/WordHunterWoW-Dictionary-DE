@@ -44748,7 +44748,7 @@
 {"key": "grangol'var", "word": "Grangol'var", "translation": "Grangol'var", "note": ""}
 {"key": "grant", "word": "Grant", "translation": "Grant", "note": ""}
 {"key": "grasland", "word": "Grasland", "translation": "grassland", "note": "gras (grass) + land; open prairie"}
-{"key": "grathalax", "word": "Grathalax", "translation": "Grathalax", "note": ""}
+{"key": "grathalax", "word": "Grathalax", "translation": "Grathalax", "note": "", "status": "ignored"}
 {"key": "gratis", "word": "gratis", "translation": "free", "note": "without cost or charge; Latin borrowing"}
 {"key": "graudorn", "word": "Graudorn", "translation": "Greythorn", "note": "grau (grey) + dorn (thorn); nature name"}
 {"key": "grauenhaftes", "word": "Grauenhaftes", "translation": "Horrible", "note": "from grausen (shudder); dreadful"}
@@ -44761,20 +44761,20 @@
 {"key": "gravieren", "word": "gravieren", "translation": "engrave", "note": "infinitive to engrave; not engraving"}
 {"key": "graviert", "word": "graviert", "translation": "engraved", "note": "past participle; carved or etched"}
 {"key": "gravierungen", "word": "Gravierungen", "translation": "Engravings", "note": "plural of gravierung (engraving)"}
-{"key": "grazzul", "word": "Grazzul", "translation": "Grazzul", "note": ""}
+{"key": "grazzul", "word": "Grazzul", "translation": "Grazzul", "note": "", "status": "ignored"}
 {"key": "grebo", "word": "Grebo", "translation": "Grebo", "note": ""}
 {"key": "greifbare", "word": "Greifbare", "translation": "tangible", "note": "greif- (grasp) + -bar (capable of), forming adjectives meaning able to be grasped"}
 {"key": "greifenseele", "word": "Greifenseele", "translation": "Griffin soul", "note": "greif (griffin) + seele (soul); a spirit form or spectral creature"}
 {"key": "greifern", "word": "Greifern", "translation": "grippers", "note": "from greifen (grasp); creatures or appendages used for grasping"}
-{"key": "greifgar", "word": "Greifgar", "translation": "Greifgar", "note": ""}
+{"key": "greifgar", "word": "Greifgar", "translation": "Greifgar", "note": "", "status": "ignored"}
 {"key": "greisin", "word": "Greisin", "translation": "old woman", "note": "from Greis (old man) + -in (feminine suffix); elderly woman"}
-{"key": "grek'lor", "word": "Grek'lor", "translation": "Grek'lor", "note": ""}
+{"key": "grek'lor", "word": "Grek'lor", "translation": "Grek'lor", "note": "", "status": "ignored"}
 {"key": "grelle", "word": "Grelle", "translation": "Grell", "note": "grell (shrill/harsh) as a creature type; a fey spirit creature in WoW"}
 {"key": "grellen", "word": "grellen", "translation": "glaring", "note": "grell (shrill/harsh/glaring); describes bright, harsh light or sound"}
 {"key": "grelles", "word": "grelles", "translation": "glaring", "note": "glaring (adjective); harsh or glaringly obvious in appearance"}
-{"key": "grellkin", "word": "Grellkin", "translation": "Grellkin", "note": ""}
+{"key": "grellkin", "word": "Grellkin", "translation": "Grellkin", "note": "", "status": "ignored"}
 {"key": "grells", "word": "Grells", "translation": "Grells", "note": "plural of Grell; mischievous fey creature type", "status": "ignored"}
-{"key": "gremlock", "word": "Gremlock", "translation": "Gremlock", "note": ""}
+{"key": "gremlock", "word": "Gremlock", "translation": "Gremlock", "note": "", "status": "ignored"}
 {"key": "gremlocks", "word": "Gremlocks", "translation": "Gremlocks", "note": ""}
 {"key": "grenzenlosen", "word": "grenzenlosen", "translation": "boundless", "note": "grenze (boundary) + -los (without); literally without borders"}
 {"key": "gresit", "word": "Gresit", "translation": "Gresite", "note": ""}
@@ -44786,7 +44786,7 @@
 {"key": "grillfleisch", "word": "Grillfleisch", "translation": "grilled meat", "note": "grill (grilled) + fleisch (meat)"}
 {"key": "grillenseele", "word": "Grillenseele", "translation": "cricket soul", "note": "grille (cricket) + seele (soul); spirit form"}
 {"key": "grillsen", "word": "Grillsen", "translation": "Grillsen", "note": ""}
-{"key": "grimkors", "word": "Grimkors", "translation": "Grimkors", "note": ""}
+{"key": "grimkors", "word": "Grimkors", "translation": "Grimkors", "note": "", "status": "ignored"}
 {"key": "grimmfeder", "word": "Grimmfeder", "translation": "Grimfeather", "note": "grimm (grim/stern) + feder (feather)"}
 {"key": "grimmfang", "word": "Grimmfang", "translation": "Grimmfang", "note": "grimm (grim) + fang (fang/tooth)", "status": "ignored"}
 {"key": "grimmhauers", "word": "Grimmhauers", "translation": "Grimmhauer", "note": ""}
@@ -44794,19 +44794,19 @@
 {"key": "grimmkinn", "word": "Grimmkinn", "translation": "Grimchin", "note": "grimm (grim/stern) + kinn (chin)"}
 {"key": "grimmläufers", "word": "Grimmläufers", "translation": "Grimrunner", "note": "grimm (grim) + läufer (runner)"}
 {"key": "grimms", "word": "Grimms", "translation": "Grimm", "note": ""}
-{"key": "grimoira", "word": "Grimoira", "translation": "Grimoira", "note": ""}
-{"key": "grimtak", "word": "Grimtak", "translation": "Grimtak", "note": ""}
+{"key": "grimoira", "word": "Grimoira", "translation": "Grimoira", "note": "", "status": "ignored"}
+{"key": "grimtak", "word": "Grimtak", "translation": "Grimtak", "note": "", "status": "ignored"}
 {"key": "grindbruch", "word": "Grindbruch", "translation": "Grind Fracture", "note": "grind + bruch (fracture/break)"}
 {"key": "gripsi", "word": "Gripsi", "translation": "Gripsi", "note": ""}
 {"key": "gris", "word": "Gris", "translation": "gris", "note": ""}
-{"key": "griselda", "word": "Griselda", "translation": "Griselda", "note": ""}
+{"key": "griselda", "word": "Griselda", "translation": "Griselda", "note": "", "status": "ignored"}
 {"key": "grishna", "word": "Grishna", "translation": "Grishna", "note": "a demon or creature type in WoW", "status": "ignored"}
-{"key": "griswold", "word": "Griswold", "translation": "Griswold", "note": ""}
-{"key": "griznak", "word": "Griznak", "translation": "Griznak", "note": ""}
+{"key": "griswold", "word": "Griswold", "translation": "Griswold", "note": "", "status": "ignored"}
+{"key": "griznak", "word": "Griznak", "translation": "Griznak", "note": "", "status": "ignored"}
 {"key": "grlmrrgrr", "word": "grlmrrgrr", "translation": "grlmrrgrr", "note": ""}
 {"key": "grmm", "word": "grmm", "translation": "grmm", "note": ""}
 {"key": "grobianen", "word": "Grobianen", "translation": "ruffians", "note": "from grobian (boorish person/ruffian); plural"}
-{"key": "grog'ak", "word": "Grog'ak", "translation": "Grog'ak", "note": ""}
+{"key": "grog'ak", "word": "Grog'ak", "translation": "Grog'ak", "note": "", "status": "ignored"}
 {"key": "grok", "word": "Grok", "translation": "Grok", "note": ""}
 {"key": "grol'doms", "word": "Grol'doms", "translation": "Grol'doms", "note": ""}
 {"key": "grollflossen", "word": "Grollflossen", "translation": "Grudgefins", "note": "groll (grudge) + flossen (fins); aquatic creature"}
@@ -44814,10 +44814,10 @@
 {"key": "grollwachen", "word": "Grollwachen", "translation": "Grudge Guards", "note": "groll (grudge) + wachen (guards)"}
 {"key": "grollwinkel", "word": "Grollwinkel", "translation": "Anger Angle", "note": "groll (anger) + winkel (angle/corner)"}
 {"key": "grols", "word": "Grols", "translation": "Grols", "note": ""}
-{"key": "grom'ash", "word": "Grom'ash", "translation": "Grom'ash", "note": ""}
-{"key": "grom'thar", "word": "Grom'thar", "translation": "Grom'thar", "note": ""}
+{"key": "grom'ash", "word": "Grom'ash", "translation": "Grom'ash", "note": "", "status": "ignored"}
+{"key": "grom'thar", "word": "Grom'thar", "translation": "Grom'thar", "note": "", "status": "ignored"}
 {"key": "gromitseele", "word": "Gromitseele", "translation": "Gromit soul", "note": "gromit + seele (soul); spirit form"}
-{"key": "gromm'ko", "word": "Gromm'ko", "translation": "Gromm'ko", "note": ""}
+{"key": "gromm'ko", "word": "Gromm'ko", "translation": "Gromm'ko", "note": "", "status": "ignored"}
 {"key": "grondo", "word": "Grondo", "translation": "Grondo", "note": ""}
 {"key": "gronnauge", "word": "Gronnauge", "translation": "Gronn-eye", "note": "gronn (WoW creature type) + auge (eye)"}
 {"key": "grossa", "word": "Großa", "translation": "Big", "note": "Großa (large, feminine) used as character name"}
