@@ -8725,7 +8725,7 @@
 {"key": "angriffsplänen", "word": "Angriffsplänen", "translation": "attack plans", "note": ""}
 {"key": "argentumvorhut", "word": "Argentumvorhut", "translation": "Argent Vanguard", "note": ""}
 {"key": "armbrustbolzen", "word": "Armbrustbolzen", "translation": "crossbow bolts", "note": ""}
-{"key": "auchindoundreh", "word": "Auchindoundreh", "translation": "Auchindoundreh", "note": ""}
+{"key": "auchindoundreh", "word": "Auchindoundreh", "translation": "Auchindoundreh", "note": "", "status": "ignored"}
 {"key": "aufgeschlossen", "word": "aufgeschlossen", "translation": "open-minded", "note": ""}
 {"key": "aufgestiegener", "word": "Aufgestiegener", "translation": "Ascended One", "note": ""}
 {"key": "auflösungssand", "word": "Auflösungssand", "translation": "dissolving sand", "note": ""}
@@ -8907,7 +8907,7 @@
 {"key": "arkanistin", "word": "Arkanistin", "translation": "Arcanist", "note": ""}
 {"key": "arkanital", "word": "Arkanital", "translation": "Arcanital", "note": ""}
 {"key": "arkanmeter", "word": "Arkanmeter", "translation": "Arcanmeter", "note": ""}
-{"key": "arkanock", "word": "Arkanock", "translation": "Arkanock", "note": ""}
+{"key": "arkanock", "word": "Arkanock", "translation": "Arkanock", "note": "", "status": "ignored"}
 {"key": "arkanometer", "word": "Arkanometer", "translation": "Arkanometer", "note": ""}
 {"key": "arkanomikon", "word": "Arkanomikon", "translation": "Arkanomikon", "note": ""}
 {"key": "arkanoskorp", "word": "Arkanoskorp", "translation": "Arcanoscorp", "note": ""}
@@ -23382,7 +23382,7 @@
 {"key": "verwundbar", "word": "verwundbar", "translation": "vulnerable", "note": ""}
 {"key": "verzauberten", "word": "verzauberten", "translation": "enchanted", "note": ""}
 {"key": "verzweifelten", "word": "verzweifelten", "translation": "desperate", "note": ""}
-{"key": "vidious", "word": "Vidious", "translation": "Vidious", "note": ""}
+{"key": "vidious", "word": "Vidious", "translation": "Vidious", "note": "", "status": "ignored"}
 {"key": "vollen", "word": "vollen", "translation": "full", "note": ""}
 {"key": "vorfall", "word": "Vorfall", "translation": "incident", "note": ""}
 {"key": "vorhanden", "word": "vorhanden", "translation": "present", "note": ""}
@@ -24451,7 +24451,7 @@
 {"key": "unheiligen", "word": "unheiligen", "translation": "unholy", "note": ""}
 {"key": "unterbrecht", "word": "unterbrecht", "translation": "interrupts", "note": ""}
 {"key": "unterkönig", "word": "Unterkönig", "translation": "Underking", "note": ""}
-{"key": "valkyra", "word": "Valkyra", "translation": "Valkyra", "note": ""}
+{"key": "valkyra", "word": "Valkyra", "translation": "Valkyra", "note": "", "status": "ignored"}
 {"key": "vargoth", "word": "Vargoth", "translation": "Vargoth", "note": "", "status": "ignored"}
 {"key": "varzok", "word": "Varzok", "translation": "Varzok", "note": ""}
 {"key": "velhans", "word": "Velhans", "translation": "Velhans", "note": "", "status": "ignored"}
@@ -25091,15 +25091,15 @@
 {"key": "mitkommen", "word": "mitkommen", "translation": "come along", "note": ""}
 {"key": "mitsamt", "word": "mitsamt", "translation": "together with", "note": "mit + samt = together with/along with; a preposition, not just adverb"}
 {"key": "monats", "word": "Monats", "translation": "month", "note": ""}
-{"key": "mor'duun", "word": "Mor'duun", "translation": "Mor'duun", "note": ""}
-{"key": "mor'shan", "word": "Mor'shan", "translation": "Mor'shan", "note": ""}
+{"key": "mor'duun", "word": "Mor'duun", "translation": "Mor'duun", "note": "", "status": "ignored"}
+{"key": "mor'shan", "word": "Mor'shan", "translation": "Mor'shan", "note": "", "status": "ignored"}
 {"key": "mpf", "word": "mpf", "translation": "mpf", "note": "murloc sounds/speech; onomatopoeia, keep as-is"}
 {"key": "murmelt", "word": "murmelt", "translation": "murmurs", "note": ""}
 {"key": "mysterium", "word": "Mysterium", "translation": "mystery", "note": "Mysterium = mystery; lowercase common noun unless quest name"}
 {"key": "mäuler", "word": "Mäuler", "translation": "mouths", "note": "Maul = mouth/snout (often animal); lowercase plural"}
 {"key": "neigt", "word": "neigt", "translation": "tends", "note": "neigen = to lean/tend/incline; 'tends' captures the metaphorical sense"}
-{"key": "neptulon", "word": "Neptulon", "translation": "Neptulon", "note": ""}
-{"key": "ner'zhul", "word": "Ner'zhul", "translation": "Ner'zhul", "note": ""}
+{"key": "neptulon", "word": "Neptulon", "translation": "Neptulon", "note": "", "status": "ignored"}
+{"key": "ner'zhul", "word": "Ner'zhul", "translation": "Ner'zhul", "note": "", "status": "ignored"}
 {"key": "neu-avalon", "word": "Neu-Avalon", "translation": "New Avalon", "note": ""}
 {"key": "neueres", "word": "neueres", "translation": "newer", "note": ""}
 {"key": "niederbrennen", "word": "niederbrennen", "translation": "burn down", "note": "niederbrennen = to burn down/destroy; implies complete destruction"}
@@ -25917,9 +25917,9 @@
 {"key": "karak", "word": "Karak", "translation": "Karak", "note": ""}
 {"key": "kasse", "word": "Kasse", "translation": "register", "note": "cashier desk or checkout; from kassieren (to cash)"}
 {"key": "khanam", "word": "Khanam", "translation": "Khanam", "note": ""}
-{"key": "khaz'goroth", "word": "Khaz'goroth", "translation": "Khaz'goroth", "note": ""}
+{"key": "khaz'goroth", "word": "Khaz'goroth", "translation": "Khaz'goroth", "note": "", "status": "ignored"}
 {"key": "kichert", "word": "kichert", "translation": "giggles", "note": ""}
-{"key": "kirin'var", "word": "Kirin'Var", "translation": "Kirin'Var", "note": ""}
+{"key": "kirin'var", "word": "Kirin'Var", "translation": "Kirin'Var", "note": "", "status": "ignored"}
 {"key": "kleinigkeit", "word": "Kleinigkeit", "translation": "Trifle", "note": "from klein (small) + -igkeit suffix; trifle or small matter"}
 {"key": "klumpen", "word": "Klumpen", "translation": "lump", "note": ""}
 {"key": "konstruieren", "word": "konstruieren", "translation": "construct", "note": ""}
@@ -25944,25 +25944,25 @@
 {"key": "lichter", "word": "Lichter", "translation": "lights", "note": ""}
 {"key": "lippenbalsam", "word": "Lippenbalsam", "translation": "lip balm", "note": "lippen (lips) + balsam; compound word"}
 {"key": "lizi", "word": "Lizi", "translation": "Lizi", "note": ""}
-{"key": "lok-rath", "word": "Lok-rath", "translation": "Lok-rath", "note": ""}
+{"key": "lok-rath", "word": "Lok-rath", "translation": "Lok-rath", "note": "", "status": "ignored"}
 {"key": "lokens", "word": "Lokens", "translation": "Loken", "note": "genitive/possessive form of the titan name Loken"}
 {"key": "losgehen", "word": "losgehen", "translation": "go off", "note": "los (loose/off) + gehen (go); to go off/start/begin"}
 {"key": "ländereien", "word": "Ländereien", "translation": "lands", "note": "plural of lande; lands/territories/regions"}
 {"key": "lösungen", "word": "Lösungen", "translation": "solutions", "note": "plural of lösung (solution)"}
 {"key": "machtquelle", "word": "Machtquelle", "translation": "power source", "note": "macht (power) + quelle (source); compound word"}
 {"key": "magistrat", "word": "Magistrat", "translation": "magistrate", "note": ""}
-{"key": "maladaar", "word": "Maladaar", "translation": "Maladaar", "note": ""}
+{"key": "maladaar", "word": "Maladaar", "translation": "Maladaar", "note": "", "status": "ignored"}
 {"key": "malfurions", "word": "Malfurions", "translation": "Malfurion", "note": "genitive form of the druid hero's name Malfurion"}
 {"key": "mampf", "word": "Mampf", "translation": "grub", "note": "onomatopoeia; colloquial for food/provisions"}
-{"key": "mandokir", "word": "Mandokir", "translation": "Mandokir", "note": ""}
+{"key": "mandokir", "word": "Mandokir", "translation": "Mandokir", "note": "", "status": "ignored"}
 {"key": "mangel", "word": "Mangel", "translation": "shortage", "note": "lack or shortage; mangeln (to lack)"}
-{"key": "mannoroth", "word": "Mannoroth", "translation": "Mannoroth", "note": ""}
+{"key": "mannoroth", "word": "Mannoroth", "translation": "Mannoroth", "note": "", "status": "ignored"}
 {"key": "marran", "word": "Marran", "translation": "Marran", "note": ""}
 {"key": "massiven", "word": "massiven", "translation": "massive", "note": ""}
 {"key": "matra", "word": "Matra", "translation": "Matra", "note": ""}
 {"key": "mitgefühl", "word": "Mitgefühl", "translation": "compassion", "note": "mit (with) + gefühl (feeling); fellow-feeling/compassion"}
-{"key": "mo'arg", "word": "Mo'arg", "translation": "Mo'arg", "note": ""}
-{"key": "mojambo", "word": "Mojambo", "translation": "Mojambo", "note": ""}
+{"key": "mo'arg", "word": "Mo'arg", "translation": "Mo'arg", "note": "", "status": "ignored"}
+{"key": "mojambo", "word": "Mojambo", "translation": "Mojambo", "note": "", "status": "ignored"}
 {"key": "mok'gol", "word": "Mok'gol", "translation": "Mok'gol", "note": ""}
 {"key": "monströse", "word": "monströse", "translation": "monstrous", "note": ""}
 {"key": "monument", "word": "Monument", "translation": "monument", "note": ""}
