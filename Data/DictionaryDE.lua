@@ -15063,9 +15063,9 @@ WordHunterWoW_Dictionary_DE["chow"] = { word = "Chow", translation = "Chow", not
 WordHunterWoW_Dictionary_DE["chows"] = { word = "Chows", translation = "Chow's", note = "possessive form of NPC name" }
 WordHunterWoW_Dictionary_DE["chris"] = { word = "Chris", translation = "Chris", note = "" }
 WordHunterWoW_Dictionary_DE["christi"] = { word = "Christi", translation = "Christi", note = "personal name; not the English noun Christ", status = "ignored" }
-WordHunterWoW_Dictionary_DE["christoph"] = { word = "Christoph", translation = "Christoph", note = "" }
+WordHunterWoW_Dictionary_DE["christoph"] = { word = "Christoph", translation = "Christoph", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["christopher"] = { word = "Christopher", translation = "Christopher", note = "" }
-WordHunterWoW_Dictionary_DE["christy"] = { word = "Christy", translation = "Christy", note = "" }
+WordHunterWoW_Dictionary_DE["christy"] = { word = "Christy", translation = "Christy", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["christys"] = { word = "Christys", translation = "Christy's", note = "" }
 WordHunterWoW_Dictionary_DE["chrom-ich"] = { word = "Chrom-ich", translation = "Chrome-i", note = "" }
 WordHunterWoW_Dictionary_DE["chromaskop"] = { word = "Chromaskop", translation = "chromascope", note = "Greek-style compound: chroma (color) + scope (view)" }
@@ -15108,7 +15108,7 @@ WordHunterWoW_Dictionary_DE["chronosplitter"] = { word = "Chronosplitter", trans
 WordHunterWoW_Dictionary_DE["chronostabilisierer"] = { word = "Chronostabilisierer", translation = "Chronostabilizer", note = "" }
 WordHunterWoW_Dictionary_DE["chrysoberyll"] = { word = "Chrysoberyll", translation = "chrysoberyl", note = "precious gemstone; the standard English spelling is chrysoberyl" }
 WordHunterWoW_Dictionary_DE["chu"] = { word = "Chu", translation = "Chu", note = "" }
-WordHunterWoW_Dictionary_DE["chu'a'lor"] = { word = "Chu'a'lor", translation = "Chu'a'lor", note = "" }
+WordHunterWoW_Dictionary_DE["chu'a'lor"] = { word = "Chu'a'lor", translation = "Chu'a'lor", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["chu'a'lors"] = { word = "Chu'a'lors", translation = "Chu'a'lor's", note = "genitive or possessive form; it refers to Chu'a'lor's left head" }
 WordHunterWoW_Dictionary_DE["chua"] = { word = "Chua", translation = "Chua", note = "" }
 WordHunterWoW_Dictionary_DE["chub"] = { word = "Chub", translation = "Chub", note = "" }
@@ -15186,7 +15186,7 @@ WordHunterWoW_Dictionary_DE["clownartigen"] = { word = "clownartigen", translati
 WordHunterWoW_Dictionary_DE["clownfisch"] = { word = "Clownfisch", translation = "clownfish", note = "small fish species known for living in anemones; also called Nemo fish" }
 WordHunterWoW_Dictionary_DE["clowns"] = { word = "Clowns", translation = "clowns", note = "plural; here it is an insult for foolish people" }
 WordHunterWoW_Dictionary_DE["club"] = { word = "Club", translation = "club", note = "English loanword" }
-WordHunterWoW_Dictionary_DE["clubnik"] = { word = "Clubnik", translation = "Clubnik", note = "" }
+WordHunterWoW_Dictionary_DE["clubnik"] = { word = "Clubnik", translation = "Clubnik", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["clubniks"] = { word = "Clubniks", translation = "Clubnik's", note = "genitive or possessive form; the bulldozer belongs to Clubnik" }
 WordHunterWoW_Dictionary_DE["clunk"] = { word = "Clunk", translation = "Clunk", note = "servant NPC" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["cluster"] = { word = "cluster", translation = "clusters", note = "" }
@@ -15219,7 +15219,7 @@ WordHunterWoW_Dictionary_DE["coe"] = { word = "Coe", translation = "Coe", note =
 WordHunterWoW_Dictionary_DE["coffer"] = { word = "Coffer", translation = "Suitcase", note = "" }
 WordHunterWoW_Dictionary_DE["cog"] = { word = "Cog", translation = "Cog", note = "" }
 WordHunterWoW_Dictionary_DE["cogs"] = { word = "Cogs", translation = "Cogs", note = "" }
-WordHunterWoW_Dictionary_DE["cohlien"] = { word = "Cohlien", translation = "Cohlien", note = "" }
+WordHunterWoW_Dictionary_DE["cohlien"] = { word = "Cohlien", translation = "Cohlien", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["cohliens"] = { word = "Cohliens", translation = "Cohlien's", note = "" }
 WordHunterWoW_Dictionary_DE["cola"] = { word = "Cola", translation = "cola", note = "soft drink; 'duty is duty and cola is cola'" }
 WordHunterWoW_Dictionary_DE["colara"] = { word = "Colara", translation = "Colara", note = "proper name; addressed in letter; keep unchanged", status = "ignored" }
@@ -15257,7 +15257,7 @@ WordHunterWoW_Dictionary_DE["compyknüppler"] = { word = "Compyknüppler", trans
 WordHunterWoW_Dictionary_DE["compys"] = { word = "Compys", translation = "compys", note = "small dinosaur-like creatures" }
 WordHunterWoW_Dictionary_DE["conacher"] = { word = "Conacher", translation = "Conacher", note = "NPC name (Büttel)" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["conall"] = { word = "Conall", translation = "Conall", note = "" }
-WordHunterWoW_Dictionary_DE["condenna"] = { word = "Condenna", translation = "Condenna", note = "" }
+WordHunterWoW_Dictionary_DE["condenna"] = { word = "Condenna", translation = "Condenna", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["conflago"] = { word = "Conflago", translation = "Conflago", note = "" }
 WordHunterWoW_Dictionary_DE["connaisseur"] = { word = "Connaisseur", translation = "connoisseur", note = "expert in matters of taste; one with refined appreciation" }
 WordHunterWoW_Dictionary_DE["connelly"] = { word = "Connelly", translation = "Connelly", note = "" }
@@ -15285,17 +15285,17 @@ WordHunterWoW_Dictionary_DE["copiloten"] = { word = "Copiloten", translation = "
 WordHunterWoW_Dictionary_DE["copper"] = { word = "Copper", translation = "Copper", note = "" }
 WordHunterWoW_Dictionary_DE["copperpinch"] = { word = "Copperpinch", translation = "Copperpinch", note = "" }
 WordHunterWoW_Dictionary_DE["cora"] = { word = "Cora", translation = "Cora", note = "" }
-WordHunterWoW_Dictionary_DE["coralie"] = { word = "Coralie", translation = "Coralie", note = "" }
+WordHunterWoW_Dictionary_DE["coralie"] = { word = "Coralie", translation = "Coralie", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["coras"] = { word = "Coras", translation = "Coras", note = "" }
 WordHunterWoW_Dictionary_DE["corastrasza"] = { word = "Corastrasza", translation = "Corastrasza", note = "proper name; likely dragon or NPC; keep unchanged", status = "ignored" }
 WordHunterWoW_Dictionary_DE["corastraszasangesengte"] = { word = "Corastraszasangesengte", translation = "Corastrasza's scorched", note = "the compound combines Corastrasza's with angesengte, meaning scorched or singed" }
 WordHunterWoW_Dictionary_DE["corbys"] = { word = "Corbys", translation = "Corby's", note = "possessive; belonging to Corby" }
 WordHunterWoW_Dictionary_DE["cordana"] = { word = "Cordana", translation = "Cordana", note = "" }
 WordHunterWoW_Dictionary_DE["cordanas"] = { word = "Cordanas", translation = "Cordanas", note = "" }
-WordHunterWoW_Dictionary_DE["cordressa"] = { word = "Cordressa", translation = "Cordressa", note = "" }
+WordHunterWoW_Dictionary_DE["cordressa"] = { word = "Cordressa", translation = "Cordressa", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["coren"] = { word = "Coren", translation = "Coren", note = "" }
 WordHunterWoW_Dictionary_DE["corhuk"] = { word = "Corhuk", translation = "Corhuk", note = "" }
-WordHunterWoW_Dictionary_DE["coridormi"] = { word = "Coridormi", translation = "Coridormi", note = "" }
+WordHunterWoW_Dictionary_DE["coridormi"] = { word = "Coridormi", translation = "Coridormi", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["corin"] = { word = "Corin", translation = "Corin", note = "NPC name; quest giver character" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["corins"] = { word = "Corins", translation = "Corins", note = "" }
 WordHunterWoW_Dictionary_DE["corithras"] = { word = "Corithras", translation = "Corithras", note = "" }
@@ -15305,7 +15305,7 @@ WordHunterWoW_Dictionary_DE["corkis"] = { word = "Corkis", translation = "Corki'
 WordHunterWoW_Dictionary_DE["corla"] = { word = "Corla", translation = "Corla", note = "" }
 WordHunterWoW_Dictionary_DE["corlok"] = { word = "Corlok", translation = "Corlok", note = "" }
 WordHunterWoW_Dictionary_DE["cornelius"] = { word = "Cornelius", translation = "Cornelius", note = "" }
-WordHunterWoW_Dictionary_DE["cornell"] = { word = "Cornell", translation = "Cornell", note = "" }
+WordHunterWoW_Dictionary_DE["cornell"] = { word = "Cornell", translation = "Cornell", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["corok"] = { word = "Corok", translation = "Corok", note = "" }
 WordHunterWoW_Dictionary_DE["corp'rethar"] = { word = "Corp'rethar", translation = "Corp'rethar", note = "proper noun: WoW necropolis location; not a standard German word", status = "ignored" }
 WordHunterWoW_Dictionary_DE["corporal"] = { word = "Corporal", translation = "Corporal", note = "military rank" }
@@ -15352,13 +15352,13 @@ WordHunterWoW_Dictionary_DE["cranktoggle"] = { word = "Cranktoggle", translation
 WordHunterWoW_Dictionary_DE["crash"] = { word = "Crash", translation = "crash", note = "proper NPC name" }
 WordHunterWoW_Dictionary_DE["crater"] = { word = "Crater", translation = "Craters", note = "" }
 WordHunterWoW_Dictionary_DE["craven"] = { word = "Craven", translation = "Craven", note = "" }
-WordHunterWoW_Dictionary_DE["cravitz"] = { word = "Cravitz", translation = "Cravitz", note = "" }
+WordHunterWoW_Dictionary_DE["cravitz"] = { word = "Cravitz", translation = "Cravitz", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["crawford"] = { word = "Crawford", translation = "Crawford", note = "" }
-WordHunterWoW_Dictionary_DE["crawgol"] = { word = "Crawgol", translation = "Crawgol", note = "" }
+WordHunterWoW_Dictionary_DE["crawgol"] = { word = "Crawgol", translation = "Crawgol", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["crawgols"] = { word = "Crawgols", translation = "Crawgols", note = "" }
 WordHunterWoW_Dictionary_DE["crawler"] = { word = "Crawler", translation = "Crawlers", note = "" }
 WordHunterWoW_Dictionary_DE["crazz"] = { word = "Crazz", translation = "Crazz", note = "" }
-WordHunterWoW_Dictionary_DE["crazzak"] = { word = "Crazzak", translation = "Crazzak", note = "" }
+WordHunterWoW_Dictionary_DE["crazzak"] = { word = "Crazzak", translation = "Crazzak", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["crazzle"] = { word = "Crazzle", translation = "Crazzle", note = "" }
 WordHunterWoW_Dictionary_DE["crazzles"] = { word = "Crazzles", translation = "Crazzles", note = "" }
 WordHunterWoW_Dictionary_DE["creature"] = { word = "CREATURE", translation = "creature", note = "living being or organism; singular form despite German capitalization" }
@@ -15424,14 +15424,14 @@ WordHunterWoW_Dictionary_DE["currencies"] = { word = "Currencies", translation =
 WordHunterWoW_Dictionary_DE["curry"] = { word = "Curry", translation = "curry", note = "spiced dish or powder blend from Indian cuisine" }
 WordHunterWoW_Dictionary_DE["curver"] = { word = "Curver", translation = "Curver", note = "proper name; possibly a ship captain's name; keep unchanged", status = "ignored" }
 WordHunterWoW_Dictionary_DE["custos"] = { word = "Custos", translation = "Custos", note = "Latin term meaning guardian or keeper", status = "ignored" }
-WordHunterWoW_Dictionary_DE["cuthbert"] = { word = "Cuthbert", translation = "Cuthbert", note = "" }
+WordHunterWoW_Dictionary_DE["cuthbert"] = { word = "Cuthbert", translation = "Cuthbert", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["cuttin"] = { word = "cuttin", translation = "cutting", note = "eye-dialect spelling of cutting, with the final g dropped" }
 WordHunterWoW_Dictionary_DE["cuzolth"] = { word = "Cuzolth", translation = "Cuzolth", note = "proper name", status = "ignored" }
 WordHunterWoW_Dictionary_DE["cvan"] = { word = "Cvan", translation = "Cvan", note = "" }
 WordHunterWoW_Dictionary_DE["cyana"] = { word = "Cyana", translation = "Cyana", note = "NPC name; demon hunter serving Illidan" , status = "ignored" }
-WordHunterWoW_Dictionary_DE["cyanigosa"] = { word = "Cyanigosa", translation = "Cyanigosa", note = "" }
+WordHunterWoW_Dictionary_DE["cyanigosa"] = { word = "Cyanigosa", translation = "Cyanigosa", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["cyanigosas"] = { word = "Cyanigosas", translation = "Cyanigosas", note = "" }
-WordHunterWoW_Dictionary_DE["cyanthesa"] = { word = "Cyanthesa", translation = "Cyanthesa", note = "" }
+WordHunterWoW_Dictionary_DE["cyanthesa"] = { word = "Cyanthesa", translation = "Cyanthesa", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["cyclonian"] = { word = "Cyclonian", translation = "Cyclonian", note = "elemental creature" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["cyclonians"] = { word = "Cyclonians", translation = "Cyclonians", note = "a proper name for the summoned target", status = "ignored" }
 WordHunterWoW_Dictionary_DE["cyenna"] = { word = "Cyenna", translation = "Cyenna", note = "" }
