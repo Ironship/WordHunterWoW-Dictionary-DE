@@ -90,6 +90,11 @@ COMMON_SAME_TRANSLATION_DENY = {
     "foothills", "glades", "booty", "harbor", "gorge", "grotto",
     # Audit 30-50: materials + inflected plurals, not standalone names.
     "argunite", "azerite", "vol'jins", "saurfangs", "dar'guds",
+    # Audit 30-52 dual-agent: material + base+s plurals (skill: flag plural
+    # only when singular base exists; zones suramar/azsuna and sarkareths kept).
+    "kaja'mit", "gilblins", "larions", "zanzils", "shadras", "krennas",
+    "adarrahs", "akareks", "arikaras", "dathrics", "fareeyas", "gaardouns",
+    "galaens", "grimkors", "issliruks", "ja'kuls", "velhans", "pa'kus",
 }
 
 PROPER_PATTERN = re.compile(r"^[A-ZÄÖÜ].*[A-Za-zÄÖÜäöüß'’\-]*$")
