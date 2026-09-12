@@ -27742,7 +27742,7 @@
 {"key": "harpunen", "word": "Harpunen", "translation": "harpoons", "note": "plural of harpune; aquatic hunting or naval weapons"}
 {"key": "harrison", "word": "Harrison", "translation": "Harrison", "note": "NPC or character name; English personal name", "status": "ignored"}
 {"key": "hartzangs", "word": "Hartzangs", "translation": "Hartzangs", "note": "goblin or NPC proper name; no literal English equivalent", "status": "ignored"}
-{"key": "haustvald", "word": "Haustvald", "translation": "Haustvald", "note": "location name; likely Norse-inspired or dragon-related site"}
+{"key": "haustvald", "word": "Haustvald", "translation": "Haustvald", "note": "location name; likely Norse-inspired or dragon-related site", "status": "ignored"}
 {"key": "hegt", "word": "hegt", "translation": "harbors", "note": "present tense of hegen (to harbor/nurture); maintain or cherish"}
 {"key": "helix", "word": "Helix", "translation": "Helix", "note": "proper name; from Greek meaning spiral; Helix Gearspring in English WoW", "status": "ignored"}
 {"key": "herausholen", "word": "herausholen", "translation": "get out", "note": "heraus (out) + holen (to fetch); extract or retrieve something"}
@@ -27846,7 +27846,7 @@
 {"key": "maden", "word": "Maden", "translation": "maggots", "note": "plural; used as an insult in this context"}
 {"key": "maktu", "word": "Maktu", "translation": "Maktu", "note": "proper noun, NPC name", "status": "ignored"}
 {"key": "malykriss", "word": "Malykriss", "translation": "Malykriss", "note": "proper noun, WoW location/artifact", "status": "ignored"}
-{"key": "man'ari", "word": "Man'ari", "translation": "Man'ari", "note": "WoW lore term for corrupted/fallen Draenei"}
+{"key": "man'ari", "word": "Man'ari", "translation": "Man'ari", "note": "WoW lore term for corrupted/fallen Draenei", "status": "ignored"}
 {"key": "managruft", "word": "Managruft", "translation": "Mana-Tombs", "note": "compound: Mana + Gruft (vault/tomb); official WoW dungeon in Auchindoun"}
 {"key": "mar'gok", "word": "Mar'gok", "translation": "Mar'gok", "note": "proper noun; ogre sorcerer king", "status": "ignored"}
 {"key": "mardum", "word": "Mardum", "translation": "Mardum", "note": "proper noun, WoW location", "status": "ignored"}
@@ -28265,7 +28265,7 @@
 {"key": "ariok", "word": "Ariok", "translation": "Ariok", "note": "proper noun: character name", "status": "ignored"}
 {"key": "arkanmagie", "word": "Arkanmagie", "translation": "Arcane magic", "note": "arcane + magic; refers to arcane magic school in WoW"}
 {"key": "armbrust", "word": "Armbrust", "translation": "crossbow", "note": ""}
-{"key": "arnak", "word": "Arnak", "translation": "Arnak", "note": "NPC name; Feuerklinge means Fireteeth"}
+{"key": "arnak", "word": "Arnak", "translation": "Arnak", "note": "NPC name; Feuerklinge means Fireteeth", "status": "ignored"}
 {"key": "aspekts", "word": "Aspekts", "translation": "aspect", "note": ""}
 {"key": "ass", "word": "Ass", "translation": "Ace", "note": "idiom: ein Ass im Ärmel = to have an ace up one's sleeve"}
 {"key": "assistent", "word": "Assistent", "translation": "assistant", "note": ""}
@@ -28833,7 +28833,7 @@
 {"key": "pallin", "word": "Pallin", "translation": "Pallin", "note": ""}
 {"key": "paranoid", "word": "paranoid", "translation": "paranoid", "note": ""}
 {"key": "partnerin", "word": "Partnerin", "translation": "partner", "note": "female partner; -in marks feminine"}
-{"key": "patrice", "word": "Patrice", "translation": "Patrice", "note": "name Patrice, not Patricia as currently given"}
+{"key": "patrice", "word": "Patrice", "translation": "Patrice", "note": "name Patrice, not Patricia as currently given", "status": "ignored"}
 {"key": "patriarchen", "word": "Patriarchen", "translation": "patriarchs", "note": "patriarch + -en (plural)"}
 {"key": "pattsituation", "word": "Pattsituation", "translation": "stalemate", "note": "patt (stalemate in chess) + situation"}
 {"key": "paval", "word": "Paval", "translation": "Paval", "note": ""}
@@ -29663,7 +29663,7 @@
 {"key": "grossadmiralin", "word": "Großadmiralin", "translation": "Grand Admiral", "note": "official WoW rank"}
 {"key": "grossartiger", "word": "großartiger", "translation": "magnificent", "note": ""}
 {"key": "grossziehen", "word": "großziehen", "translation": "raise", "note": "großziehen = to raise/bring up"}
-{"key": "grumpus", "word": "Grumpus", "translation": "Grumpus", "note": "WoW creature/NPC name, not the English adjective"}
+{"key": "grumpus", "word": "Grumpus", "translation": "Grumpus", "note": "WoW creature/NPC name, not the English adjective", "status": "ignored"}
 {"key": "grundlos", "word": "grundlos", "translation": "without cause", "note": "for no reason; without justification"}
 {"key": "gryan", "word": "Gryan", "translation": "Gryan", "note": "NPC name", "status": "ignored"}
 {"key": "gryzix", "word": "Gryzix", "translation": "Gryzix", "note": "NPC name", "status": "ignored"}
@@ -29968,7 +29968,7 @@
 {"key": "normaler", "word": "normaler", "translation": "more normal", "note": ""}
 {"key": "notsignal", "word": "Notsignal", "translation": "Distress signal", "note": ""}
 {"key": "now", "word": "now", "translation": "now", "note": "English word used in German game text"}
-{"key": "nozdormus", "word": "Nozdormus", "translation": "Nozdormus", "note": "Nozdormus the Timeless, Aspect of Time in World of Warcraft"}
+{"key": "nozdormus", "word": "Nozdormus", "translation": "Nozdormus", "note": "Nozdormus the Timeless, Aspect of Time in World of Warcraft", "status": "ignored"}
 {"key": "nozronn", "word": "Nozronn", "translation": "Nozronn", "note": ""}
 {"key": "nuss", "word": "Nuss", "translation": "nut", "note": "nut; also tested as food for creatures like Jormungar worms"}
 {"key": "nutzlosen", "word": "nutzlosen", "translation": "useless", "note": ""}
@@ -30747,7 +30747,7 @@
 {"key": "elch", "word": "Elch", "translation": "moose; elk", "note": "large forest animal; moose in North America, elk in Europe"}
 {"key": "eldre'thalas", "word": "Eldre'Thalas", "translation": "Eldre'Thalas", "note": "proper name; an ancient night elf settlement", "status": "ignored"}
 {"key": "elektrische", "word": "elektrische", "translation": "electrical; electric", "note": "from Elektrizität (electricity)"}
-{"key": "elementium", "word": "Elementium", "translation": "Elementium", "note": "WoW crafting material; fantastical metal"}
+{"key": "elementium", "word": "Elementium", "translation": "Elementium", "note": "WoW crafting material; fantastical metal", "status": "ignored"}
 {"key": "elende", "word": "elende", "translation": "miserable; wretched", "note": "elend (misery/distress) + -e (adjective ending); full of misery"}
 {"key": "eliza", "word": "Eliza", "translation": "Eliza", "note": "proper name", "status": "ignored"}
 {"key": "elritzen", "word": "Elritzen", "translation": "minnows", "note": "plural of Elritze (minnow), small fish"}
@@ -30962,7 +30962,7 @@
 {"key": "goja", "word": "Goja", "translation": "Goja", "note": "proper noun; NPC character", "status": "ignored"}
 {"key": "goldnebel", "word": "Goldnebel", "translation": "gold mist", "note": "gold + nebel; shimmering"}
 {"key": "golgoss", "word": "Golgoss", "translation": "Golgoss", "note": "proper noun; creature name", "status": "ignored"}
-{"key": "gorgoa", "word": "Gorgoa", "translation": "Gorgoa", "note": "river of souls; Shadowlands"}
+{"key": "gorgoa", "word": "Gorgoa", "translation": "Gorgoa", "note": "river of souls; Shadowlands", "status": "ignored"}
 {"key": "gorgronds", "word": "Gorgronds", "translation": "Gorgronds", "note": ""}
 {"key": "gorianischen", "word": "gorianischen", "translation": "Gorian", "note": "relating to the Gorian dynasty"}
 {"key": "gottkönig", "word": "Gottkönig", "translation": "God King", "note": "gott (god) + könig (king)"}
@@ -30972,7 +30972,7 @@
 {"key": "grammophon", "word": "Grammophon", "translation": "gramophone", "note": ""}
 {"key": "graut", "word": "graut", "translation": "dread", "note": "es graut mir = it fills me with dread"}
 {"key": "greif'n", "word": "greif'n", "translation": "grab", "note": "dialectal form of greifen"}
-{"key": "grek", "word": "Grek", "translation": "Grek", "note": "name was misspelled as Grec"}
+{"key": "grek", "word": "Grek", "translation": "Grek", "note": "name was misspelled as Grec", "status": "ignored"}
 {"key": "grent", "word": "Grent", "translation": "Grent", "note": ""}
 {"key": "grimla", "word": "Grimla", "translation": "Grimla", "note": ""}
 {"key": "grishnath", "word": "Grishnath", "translation": "Grishnath", "note": ""}
@@ -31075,7 +31075,7 @@
 {"key": "jagdhauptmann", "word": "Jagdhauptmann", "translation": "Hunt Captain", "note": "hunt + captain"}
 {"key": "jagdtaktiken", "word": "Jagdtaktiken", "translation": "Hunting Tactics", "note": ""}
 {"key": "jasper", "word": "Jasper", "translation": "Jasper", "note": ""}
-{"key": "je'neu", "word": "Je'neu", "translation": "Je'neu", "note": "name was misspelled as Je'new"}
+{"key": "je'neu", "word": "Je'neu", "translation": "Je'neu", "note": "name was misspelled as Je'new", "status": "ignored"}
 {"key": "jeb", "word": "Jeb", "translation": "Jeb", "note": ""}
 {"key": "jeklik", "word": "Jeklik", "translation": "Jeklik", "note": ""}
 {"key": "jenseitigen", "word": "jenseitigen", "translation": "otherworldly", "note": ""}
@@ -31136,7 +31136,7 @@
 {"key": "korayn", "word": "Korayn", "translation": "Korayn", "note": "NPC; Wild Hunt captain in Shadowlands", "status": "ignored"}
 {"key": "kornkammer", "word": "Kornkammer", "translation": "granary", "note": "compound: Korn grain + Kammer chamber; storage for grain"}
 {"key": "korrumpierten", "word": "korrumpierten", "translation": "corrupted", "note": "twisted by evil or darkness"}
-{"key": "kosh'harg", "word": "Kosh'harg", "translation": "Kosh'harg", "note": "WoW term; the gathering of the ancients"}
+{"key": "kosh'harg", "word": "Kosh'harg", "translation": "Kosh'harg", "note": "WoW term; the gathering of the ancients", "status": "ignored"}
 {"key": "kosmos", "word": "Kosmos", "translation": "cosmos", "note": "universe or outer space in epic context"}
 {"key": "kost", "word": "Kost", "translation": "kost", "note": "Brann's dwarvish gibberish; not standard German"}
 {"key": "kovok", "word": "Kovok", "translation": "Kovok", "note": "NPC; an orc who needs training and discipline", "status": "ignored"}
@@ -31148,7 +31148,7 @@
 {"key": "kronah", "word": "Kronah", "translation": "Kronah", "note": "NPC; blood inscription trainer in WoW", "status": "ignored"}
 {"key": "kulinarische", "word": "kulinarische", "translation": "culinary", "note": "relating to cooking or cuisine"}
 {"key": "kulzi", "word": "Kulzi", "translation": "Kulzi", "note": "NPC name", "status": "ignored"}
-{"key": "kunzen-ho-zen", "word": "Kunzen-Ho-zen", "translation": "Kunzen-Ho-zen", "note": "tribal people; hyphenated name preserved from context"}
+{"key": "kunzen-ho-zen", "word": "Kunzen-Ho-zen", "translation": "Kunzen-Ho-zen", "note": "tribal people; hyphenated name preserved from context", "status": "ignored"}
 {"key": "kurun", "word": "Kurun", "translation": "Kurun", "note": "NPC; objective in a quest", "status": "ignored"}
 {"key": "kyrianischen", "word": "kyrianischen", "translation": "Kyrian", "note": "adjective; relating to the Kyrians covenant"}
 {"key": "kästen", "word": "Kästen", "translation": "boxes", "note": "plural; containers for goods or cargo"}
@@ -31275,7 +31275,7 @@
 {"key": "nachfragen", "word": "nachfragen", "translation": "ask", "note": "nach + fragen; to inquire or follow up on"}
 {"key": "nachgeht", "word": "nachgeht", "translation": "follows", "note": "nach + gehen; to pursue or go after"}
 {"key": "nachleben", "word": "Nachleben", "translation": "Afterlife", "note": "nach (after) + leben (life); the afterlife or life after death"}
-{"key": "naglfar", "word": "Naglfar", "translation": "Naglfar", "note": "Norse mythology: ship of the dead; appears in WoW lore"}
+{"key": "naglfar", "word": "Naglfar", "translation": "Naglfar", "note": "Norse mythology: ship of the dead; appears in WoW lore", "status": "ignored"}
 {"key": "nahrungskette", "word": "Nahrungskette", "translation": "food chain", "note": "nahrung (food) + kette (chain)"}
 {"key": "narvirs", "word": "Narvirs", "translation": "Narvirs", "note": ""}
 {"key": "nasen", "word": "Nasen", "translation": "noses", "note": ""}
@@ -31321,7 +31321,7 @@
 {"key": "ordnungsgemäss", "word": "ordnungsgemäß", "translation": "properly", "note": "ordnung (order) + gemäss (according to); properly, in order"}
 {"key": "orelis", "word": "Orelis", "translation": "Orelis", "note": ""}
 {"key": "orfus", "word": "Orfus", "translation": "Orfus", "note": ""}
-{"key": "orgrim", "word": "Orgrim", "translation": "Orgrim", "note": "WoW lore: legendary orc hero"}
+{"key": "orgrim", "word": "Orgrim", "translation": "Orgrim", "note": "WoW lore: legendary orc hero", "status": "ignored"}
 {"key": "orgrims", "word": "Orgrims", "translation": "Orgrims", "note": "possessive form of Orgrim"}
 {"key": "oronok", "word": "Oronok", "translation": "Oronok", "note": ""}
 {"key": "otter", "word": "Otter", "translation": "otter", "note": "aquatic mammal"}
@@ -31475,10 +31475,10 @@
 {"key": "sensoren", "word": "Sensoren", "translation": "Sensors", "note": ""}
 {"key": "serum", "word": "Serum", "translation": "serum", "note": ""}
 {"key": "sha'tari", "word": "Sha'tari", "translation": "Sha'tari", "note": "WoW faction name", "status": "ignored"}
-{"key": "shadowlands", "word": "Shadowlands", "translation": "Shadowlands", "note": "WoW expansion realm"}
+{"key": "shadowlands", "word": "Shadowlands", "translation": "Shadowlands", "note": "WoW expansion realm", "status": "ignored"}
 {"key": "shadra'alor", "word": "Shadra'Alor", "translation": "Shadra'Alor", "note": "location name", "status": "ignored"}
 {"key": "shao-tien", "word": "Shao-Tien", "translation": "Shao-Tien", "note": "WoW faction; German spelling preserves hyphen", "status": "ignored"}
-{"key": "shaohao", "word": "Shaohao", "translation": "Shaohao", "note": "ancient Pandaren emperor"}
+{"key": "shaohao", "word": "Shaohao", "translation": "Shaohao", "note": "ancient Pandaren emperor", "status": "ignored"}
 {"key": "short-supply", "word": "Short-Supply", "translation": "Short supply", "note": ""}
 {"key": "sichereren", "word": "sichereren", "translation": "safer", "note": ""}
 {"key": "siechenden", "word": "siechenden", "translation": "sickening", "note": "ailing or nausea-inducing"}
