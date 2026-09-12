@@ -12608,7 +12608,7 @@ WordHunterWoW_Dictionary_DE["blutflügel"] = { word = "Blutflügel", translation
 WordHunterWoW_Dictionary_DE["blutflügelwespen"] = { word = "Blutflügelwespen", translation = "Bloodwing wasps", note = "the compound is Bloodwing + wasps" }
 WordHunterWoW_Dictionary_DE["blutformer"] = { word = "Blutformer", translation = "Blood Shaper", note = "blut (blood) + former (shaper); likely a creature type or ability" }
 WordHunterWoW_Dictionary_DE["blutfratz'n"] = { word = "Blutfratz'n", translation = "blood trolls", note = "proper faction/group name with dialectal spelling" }
-WordHunterWoW_Dictionary_DE["blutfratzen"] = { word = "Blutfratzen", translation = "Blood Grimaces", note = "literal translation of troll tribe; blut (blood) + fratzen (grimaces/faces)", status = "ignored" }
+WordHunterWoW_Dictionary_DE["blutfratzen"] = { word = "Blutfratzen", translation = "Blood Grimaces", note = "literal translation of troll tribe; blut (blood) + fratzen (grimaces/faces)" }
 WordHunterWoW_Dictionary_DE["blutfratzenabschaum"] = { word = "Blutfratzenabschaum", translation = "blood grimace scum", note = "Blutfratze (blood-faced/grimacing); enemies or NPCs to defeat" }
 WordHunterWoW_Dictionary_DE["blutfratzenherz"] = { word = "Blutfratzenherz", translation = "Bloodface Heart", note = "creature or item name; fratz (face/mug) + herz (heart)" }
 WordHunterWoW_Dictionary_DE["blutfratzenstamm"] = { word = "Blutfratzenstamm", translation = "Bloodface Tribe", note = "fratze = grimace/ugly face; stamm = tribe" }
@@ -17707,7 +17707,7 @@ WordHunterWoW_Dictionary_DE["drachenmalorcs"] = { word = "Drachenmalorcs", trans
 WordHunterWoW_Dictionary_DE["drachenmalpass"] = { word = "Drachenmalpass", translation = "Dragonmark Pass", note = "mal = mark/sign, not painting" }
 WordHunterWoW_Dictionary_DE["drachenmalreiches"] = { word = "Drachenmalreiches", translation = "Dragonpaint Empire", note = "" }
 WordHunterWoW_Dictionary_DE["drachenmalrennen"] = { word = "Drachenmalrennen", translation = "dragon mark race", note = "drachen (dragon) + mal (mark) + rennen (race)" }
-WordHunterWoW_Dictionary_DE["drachenmals"] = { word = "Drachenmals", translation = "Dragonmark", note = "fortress or location name; literally dragon+mark", status = "ignored" }
+WordHunterWoW_Dictionary_DE["drachenmals"] = { word = "Drachenmals", translation = "Dragonmark", note = "fortress or location name; literally dragon+mark" }
 WordHunterWoW_Dictionary_DE["drachenmeister"] = { word = "Drachenmeister", translation = "Dragon Master", note = "drachen (dragon) + meister (master)" }
 WordHunterWoW_Dictionary_DE["drachennachbarn"] = { word = "Drachennachbarn", translation = "Dragon neighbors", note = "nachbarn (neighbors); friendly dragons or dragon settlements" }
 WordHunterWoW_Dictionary_DE["drachenodem"] = { word = "Drachenodem", translation = "Dragonbreath", note = "proper NPC name" }
@@ -50055,7 +50055,7 @@ WordHunterWoW_Dictionary_DE["kriegshymnenbanner"] = { word = "Kriegshymnenbanner
 WordHunterWoW_Dictionary_DE["kriegshymnenbeute"] = { word = "Kriegshymnenbeute", translation = "Warsong loot; Warsong treasure", note = "Kriegshymne (Warsong) + beute (loot/plunder); treasure from Warsong sources" }
 WordHunterWoW_Dictionary_DE["kriegshymnenfeste"] = { word = "Kriegshymnenfeste", translation = "Warsong Hold", note = "kriegs (war) + hymnen (anthems/hymns) + feste (fortress)" }
 WordHunterWoW_Dictionary_DE["kriegshymnenklan"] = { word = "Kriegshymnenklan", translation = "Warsong Clan", note = "official Horde clan; Kriegshymnen = war songs" }
-WordHunterWoW_Dictionary_DE["kriegshymnenklans"] = { word = "Kriegshymnenklans", translation = "Warsong Clan", note = "", status = "ignored" }
+WordHunterWoW_Dictionary_DE["kriegshymnenklans"] = { word = "Kriegshymnenklans", translation = "Warsong Clan", note = "" }
 WordHunterWoW_Dictionary_DE["kriegshymnenkrieger"] = { word = "Kriegshymnenkrieger", translation = "Warsong Warriors", note = "kriegshymne is the faction name Warsong; krieger means warriors" }
 WordHunterWoW_Dictionary_DE["kriegshymnenoffensive"] = { word = "Kriegshymnenoffensive", translation = "Warsong Offensive", note = "official faction military name" }
 WordHunterWoW_Dictionary_DE["kriegshymnenorcs"] = { word = "Kriegshymnenorcs", translation = "Warsong Orcs", note = "Warsong (Kriegshymnen) + Orcs; official clan name" }
@@ -70019,7 +70019,7 @@ WordHunterWoW_Dictionary_DE["rostbedeckte"] = { word = "Rostbedeckte", translati
 WordHunterWoW_Dictionary_DE["rostberg"] = { word = "Rostberg", translation = "Rustpeak", note = "compound: rost (rust) + berg (mountain, peak); likely an official zone name" }
 WordHunterWoW_Dictionary_DE["rostbergseebarsche"] = { word = "Rostbergseebarsche", translation = "Rustberg sea bass", note = "rostberg is a place name here, so it stays Rustberg; Seebarsche means sea bass" }
 WordHunterWoW_Dictionary_DE["rostblut"] = { word = "Rostblut", translation = "Rustblood", note = "official WoW creature name" }
-WordHunterWoW_Dictionary_DE["rostbolzen"] = { word = "Rostbolzen", translation = "Rustbolt", note = "", status = "ignored" }
+WordHunterWoW_Dictionary_DE["rostbolzen"] = { word = "Rostbolzen", translation = "Rustbolt", note = "" }
 WordHunterWoW_Dictionary_DE["rostbolzengrammophon"] = { word = "Rostbolzengrammophon", translation = "Rustbolt gramophone", note = "Rustbolt device" }
 WordHunterWoW_Dictionary_DE["rostbolzenrequisition"] = { word = "Rostbolzenrequisition", translation = "Rustbolt Requisition", note = "WoW crafting recipe; Rust Bolts faction related" }
 WordHunterWoW_Dictionary_DE["rostbolzens"] = { word = "Rostbolzens", translation = "Rustbolt", note = "Rost (rust) + Bolzen (bolt); faction name" }
@@ -72312,7 +72312,7 @@ WordHunterWoW_Dictionary_DE["schattenkuttes"] = { word = "Schattenkuttes", trans
 WordHunterWoW_Dictionary_DE["schattenlabyrinth"] = { word = "Schattenlabyrinth", translation = "Shadow Maze", note = "" }
 WordHunterWoW_Dictionary_DE["schattenlabyrinths"] = { word = "Schattenlabyrinths", translation = "Shadow labyrinth", note = "" }
 WordHunterWoW_Dictionary_DE["schattenlande"] = { word = "Schattenlande", translation = "Shadowlands", note = "the realm of the dead in WoW lore; literally shadow+lands" }
-WordHunterWoW_Dictionary_DE["schattenlanden"] = { word = "Schattenlanden", translation = "Shadowlands", note = "dative/locative form of Schattenlande (realm of the dead)", status = "ignored" }
+WordHunterWoW_Dictionary_DE["schattenlanden"] = { word = "Schattenlanden", translation = "Shadowlands", note = "dative/locative form of Schattenlande (realm of the dead)" }
 WordHunterWoW_Dictionary_DE["schattenlauergrat"] = { word = "Schattenlauergrat", translation = "shadowlurkridge", note = "likely a location name; schatten (shadow) + lurk + ridge" }
 WordHunterWoW_Dictionary_DE["schattenlauergrats"] = { word = "Schattenlauergrats", translation = "Shadowlurker ridge", note = "lauer (lurker/hider) + grat (ridge)" }
 WordHunterWoW_Dictionary_DE["schattenlichtung"] = { word = "Schattenlichtung", translation = "Shadow glade", note = "lichtung=clearing/glade" }
@@ -77934,7 +77934,7 @@ WordHunterWoW_Dictionary_DE["silbertal"] = { word = "Silbertal", translation = "
 WordHunterWoW_Dictionary_DE["silbertick"] = { word = "Silbertick", translation = "Silvertick", note = "compound proper name or creature type" }
 WordHunterWoW_Dictionary_DE["silbertotem"] = { word = "Silbertotem", translation = "Silver Totem", note = "compound: silber + totem; quest item" }
 WordHunterWoW_Dictionary_DE["silberwaffen"] = { word = "Silberwaffen", translation = "silver weapons", note = "silber (silver) + waffen (weapons); plural; arsenal against supernatural foes" }
-WordHunterWoW_Dictionary_DE["silberwald"] = { word = "Silberwald", translation = "Silverwood", note = "likely a forest location; literally silver+forest", status = "ignored" }
+WordHunterWoW_Dictionary_DE["silberwald"] = { word = "Silberwald", translation = "Silverwood", note = "likely a forest location; literally silver+forest" }
 WordHunterWoW_Dictionary_DE["silberwald-grabmal"] = { word = "Silberwald-Grabmal", translation = "Silverwood Tomb", note = "location: silverwood + grabmal (tomb)" }
 WordHunterWoW_Dictionary_DE["silberwaldes"] = { word = "Silberwaldes", translation = "Silverpine Forest", note = "genitive form: des Silberwaldes = of Silverpine Forest" }
 WordHunterWoW_Dictionary_DE["silberwalds"] = { word = "Silberwalds", translation = "Silverwood", note = "literal: silver + forest; appears to be a zone or location name" }
@@ -79613,7 +79613,7 @@ WordHunterWoW_Dictionary_DE["splitterfellen"] = { word = "Splitterfellen", trans
 WordHunterWoW_Dictionary_DE["splitterfellkrallen"] = { word = "Splitterfellkrallen", translation = "Shardhide Claws", note = "splitter (shard) + fell (hide) + krallen (claws); crafting material from Korthia" }
 WordHunterWoW_Dictionary_DE["splitterfels"] = { word = "Splitterfels", translation = "Shardrock", note = "shard + rock; broken stone or fragment" }
 WordHunterWoW_Dictionary_DE["splitterflamme"] = { word = "Splitterflamme", translation = "Shardflame", note = "NPC/creature name" }
-WordHunterWoW_Dictionary_DE["splitterflammen"] = { word = "Splitterflammen", translation = "Sundered Flame", note = "dracthyr faction, not splinter flames", status = "ignored" }
+WordHunterWoW_Dictionary_DE["splitterflammen"] = { word = "Splitterflammen", translation = "Sundered Flame", note = "dracthyr faction, not splinter flames" }
 WordHunterWoW_Dictionary_DE["splitterfragmente"] = { word = "Splitterfragmente", translation = "shard fragments", note = "splitter (splinter/shard) + fragmente (fragments)" }
 WordHunterWoW_Dictionary_DE["splitterfäuste"] = { word = "Splitterfäuste", translation = "Shardfist", note = "orc clan name; splitter (splinter/shard) + fäuste (fists)" }
 WordHunterWoW_Dictionary_DE["splittergranaten"] = { word = "Splittergranaten", translation = "fragmentation grenades", note = "" }
@@ -83156,7 +83156,7 @@ WordHunterWoW_Dictionary_DE["sündensteinlieferung"] = { word = "Sündensteinlie
 WordHunterWoW_Dictionary_DE["sündensteinrandalierer"] = { word = "Sündensteinrandalierer", translation = "sin-stone rioter", note = "sünden-stein (sin-stone) + randalierer (rioter/troublemaker); creature corrupted by sin stones" }
 WordHunterWoW_Dictionary_DE["sündensteins"] = { word = "Sündensteins", translation = "Sin Stone", note = "sünde (sin) + stein (stone)" }
 WordHunterWoW_Dictionary_DE["sündensteinschwofern"] = { word = "Sündensteinschwofern", translation = "Sin Stone Shofar-bearer", note = "Sündenstein (sin stone); Schwofern possibly from Schofar (ram's horn)" }
-WordHunterWoW_Dictionary_DE["sündensturz"] = { word = "Sündensturz", translation = "Sinfall", note = "proper name Sündensturz = Sinfall", status = "ignored" }
+WordHunterWoW_Dictionary_DE["sündensturz"] = { word = "Sündensturz", translation = "Sinfall", note = "proper name Sündensturz = Sinfall" }
 WordHunterWoW_Dictionary_DE["sündenverkündung"] = { word = "Sündenverkündung", translation = "proclamation of sin", note = "" }
 WordHunterWoW_Dictionary_DE["sündenzählung"] = { word = "Sündenzählung", translation = "Sin Counting", note = "compound: sin + counting; ritual or practice" }
 WordHunterWoW_Dictionary_DE["sünders"] = { word = "Sünders", translation = "sinner's", note = "genitive singular; belonging to or relating to one who sins" }
@@ -87772,7 +87772,7 @@ WordHunterWoW_Dictionary_DE["tyri"] = { word = "Tyri", translation = "Tyri", not
 WordHunterWoW_Dictionary_DE["tyrion"] = { word = "Tyrion", translation = "Tyrion", note = "" }
 WordHunterWoW_Dictionary_DE["tyrith"] = { word = "Tyrith", translation = "Tyrith", note = "" }
 WordHunterWoW_Dictionary_DE["tyrosus"] = { word = "Tyrosus", translation = "Tyrosus", note = "" }
-WordHunterWoW_Dictionary_DE["tyrs"] = { word = "Tyrs", translation = "Tyr's", note = "genitive of Tyr (proper name)", status = "ignored" }
+WordHunterWoW_Dictionary_DE["tyrs"] = { word = "Tyrs", translation = "Tyr's", note = "genitive of Tyr (proper name)" }
 WordHunterWoW_Dictionary_DE["tyrsdottar"] = { word = "Tyrsdottar", translation = "Tyrsdottar", note = "" }
 WordHunterWoW_Dictionary_DE["tyrus"] = { word = "Tyrus", translation = "Tyrus", note = "demon NPC name (Tyrus Blackhorn); no translation" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["tyrygosa"] = { word = "Tyrygosa", translation = "Tyrygosa", note = "" }

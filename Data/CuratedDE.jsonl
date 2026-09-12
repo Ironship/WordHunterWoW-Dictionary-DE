@@ -694,15 +694,15 @@
 {"key": "unterstadt", "word": "Unterstadt", "translation": "Undercity", "note": "undead capital; literally under+city"}
 {"key": "schattenwache", "word": "Schattenwache", "translation": "Shadow Guard", "note": "likely a faction or group name; shadow+guard"}
 {"key": "schattenrat", "word": "Schattenrat", "translation": "Shadow Council", "note": "demonic organization; literally shadow+council"}
-{"key": "schattenlanden", "word": "Schattenlanden", "translation": "Shadowlands", "note": "dative/locative form of Schattenlande (realm of the dead)", "status": "ignored"}
+{"key": "schattenlanden", "word": "Schattenlanden", "translation": "Shadowlands", "note": "dative/locative form of Schattenlande (realm of the dead)"}
 {"key": "schildwachen", "word": "Schildwachen", "translation": "Sentinels", "note": "Night Elf warrior caste; literally shield+guards/watches"}
 {"key": "dämonenjäger", "word": "Dämonenjäger", "translation": "Demon Hunter", "note": "WoW player class; literally demon+hunter"}
-{"key": "blutfratzen", "word": "Blutfratzen", "translation": "Blood Grimaces", "note": "literal translation of troll tribe; blut (blood) + fratzen (grimaces/faces)", "status": "ignored"}
+{"key": "blutfratzen", "word": "Blutfratzen", "translation": "Blood Grimaces", "note": "literal translation of troll tribe; blut (blood) + fratzen (grimaces/faces)"}
 {"key": "grossmeister", "word": "Großmeister", "translation": "Grandmaster", "note": "rank or title; literally grand+master"}
 {"key": "präsentiert", "word": "Präsentiert", "translation": "presented", "note": "past participle of präsentieren"}
 {"key": "belagerung", "word": "Belagerung", "translation": "siege", "note": "from belagern (to besiege); common in WoW quest objectives"}
-{"key": "silberwald", "word": "Silberwald", "translation": "Silverwood", "note": "likely a forest location; literally silver+forest", "status": "ignored"}
-{"key": "drachenmals", "word": "Drachenmals", "translation": "Dragonmark", "note": "fortress or location name; literally dragon+mark", "status": "ignored"}
+{"key": "silberwald", "word": "Silberwald", "translation": "Silverwood", "note": "likely a forest location; literally silver+forest"}
+{"key": "drachenmals", "word": "Drachenmals", "translation": "Dragonmark", "note": "fortress or location name; literally dragon+mark"}
 {"key": "höllenfeuerzitadelle", "word": "Höllenfeuerzitadelle", "translation": "Hellfire Citadel", "note": "WoW raid zone; hölle (hell) + feuer (fire) + zitadelle (citadel)"}
 {"key": "waldläufer", "word": "Waldläufer", "translation": "ranger", "note": "wald (forest) + läufer (runner); class/profession in WoW"}
 {"key": "blutschläger", "word": "Blutschläger", "translation": "Bloodthug", "note": "faction or creature type; literally blood+thug/striker"}
@@ -1442,7 +1442,7 @@
 {"key": "nötige", "word": "nötige", "translation": "necessary", "note": "inflected form of nötig"}
 {"key": "prinzen", "word": "Prinzen", "translation": "princes", "note": "gen./dat./pl. of Prinz"}
 {"key": "risse", "word": "Risse", "translation": "cracks; rifts", "note": ""}
-{"key": "rostbolzen", "word": "Rostbolzen", "translation": "Rustbolt", "note": "", "status": "ignored"}
+{"key": "rostbolzen", "word": "Rostbolzen", "translation": "Rustbolt", "note": ""}
 {"key": "schmied", "word": "Schmied", "translation": "blacksmith; smith", "note": ""}
 {"key": "stationiert", "word": "stationiert", "translation": "stationed", "note": ""}
 {"key": "szepter", "word": "Szepter", "translation": "scepter", "note": ""}
@@ -1515,7 +1515,7 @@
 {"key": "rund", "word": "rund", "translation": "around", "note": ""}
 {"key": "schenken", "word": "schenken", "translation": "give; gift", "note": ""}
 {"key": "sicherzustellen", "word": "sicherzustellen", "translation": "ensure", "note": "zu-infinitive of sicherstellen"}
-{"key": "splitterflammen", "word": "Splitterflammen", "translation": "Sundered Flame", "note": "dracthyr faction, not splinter flames", "status": "ignored"}
+{"key": "splitterflammen", "word": "Splitterflammen", "translation": "Sundered Flame", "note": "dracthyr faction, not splinter flames"}
 {"key": "stich", "word": "Stich", "translation": "sting; stab; stitch", "note": "not engraving here; Stich = sting/stab in context"}
 {"key": "säubern", "word": "säubern", "translation": "clean", "note": ""}
 {"key": "teichen", "word": "Teichen", "translation": "ponds", "note": "dat. pl. of Teich"}
@@ -1562,8 +1562,8 @@
 {"key": "schöne", "word": "schöne", "translation": "beautiful", "note": "inflected form of schön"}
 {"key": "sicherer", "word": "sicherer", "translation": "safer", "note": "comparative of sicher"}
 {"key": "studien", "word": "Studien", "translation": "studies", "note": ""}
-{"key": "sündensturz", "word": "Sündensturz", "translation": "Sinfall", "note": "proper name Sündensturz = Sinfall", "status": "ignored"}
-{"key": "tyrs", "word": "Tyrs", "translation": "Tyr's", "note": "genitive of Tyr (proper name)", "status": "ignored"}
+{"key": "sündensturz", "word": "Sündensturz", "translation": "Sinfall", "note": "proper name Sündensturz = Sinfall"}
+{"key": "tyrs", "word": "Tyrs", "translation": "Tyr's", "note": "genitive of Tyr (proper name)"}
 {"key": "umgeben", "word": "umgeben", "translation": "surrounded; surround", "note": ""}
 {"key": "verbergen", "word": "verbergen", "translation": "hide", "note": ""}
 {"key": "verbrechen", "word": "Verbrechen", "translation": "crime", "note": ""}
@@ -1589,7 +1589,7 @@
 {"key": "glaub", "word": "glaub", "translation": "believe", "note": "colloquial short for glaube"}
 {"key": "grossartige", "word": "großartige", "translation": "great", "note": "alt spelling großartige; inflected of großartig"}
 {"key": "interessante", "word": "interessante", "translation": "interesting", "note": "inflected form of interessant"}
-{"key": "kriegshymnenklans", "word": "Kriegshymnenklans", "translation": "Warsong Clan", "note": "", "status": "ignored"}
+{"key": "kriegshymnenklans", "word": "Kriegshymnenklans", "translation": "Warsong Clan", "note": ""}
 {"key": "lied", "word": "Lied", "translation": "song", "note": ""}
 {"key": "lüfte", "word": "Lüfte", "translation": "airs; breezes", "note": "pl. of Luft"}
 {"key": "malfurion", "word": "Malfurion", "translation": "Malfurion", "note": "", "status": "ignored"}
