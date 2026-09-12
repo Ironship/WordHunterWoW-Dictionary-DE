@@ -25968,7 +25968,7 @@
 {"key": "monument", "word": "Monument", "translation": "monument", "note": ""}
 {"key": "mottenstaub", "word": "Mottenstaub", "translation": "moth dust", "note": "motte (moth) + staub (dust); powder from moth creatures"}
 {"key": "nachzusehen", "word": "nachzusehen", "translation": "to investigate", "note": "nach (after) + sehen (to see); to look into/investigate"}
-{"key": "naigtal", "word": "Naigtal", "translation": "Naigtal", "note": ""}
+{"key": "naigtal", "word": "Naigtal", "translation": "Naigtal", "note": "", "status": "ignored"}
 {"key": "nekrogg", "word": "Nekrogg", "translation": "Necrogg", "note": "likely contains necro (death) + ogg (orc); death-orc"}
 {"key": "nespirahs", "word": "Nespirahs", "translation": "Nespirah", "note": "possessive form of the ancient shell creature Nespirah"}
 {"key": "netter", "word": "netter", "translation": "nicer", "note": ""}
@@ -26150,8 +26150,8 @@
 {"key": "xi'lun", "word": "Xi'lun", "translation": "Xi'lun", "note": "", "status": "ignored"}
 {"key": "zaela", "word": "Zaela", "translation": "Zaela", "note": ""}
 {"key": "zahlreicher", "word": "zahlreicher", "translation": "more numerous", "note": ""}
-{"key": "zanchul", "word": "Zanchul", "translation": "Zanchul", "note": ""}
-{"key": "zanzils", "word": "Zanzils", "translation": "Zanzils", "note": ""}
+{"key": "zanchul", "word": "Zanchul", "translation": "Zanchul", "note": "", "status": "ignored"}
+{"key": "zanzils", "word": "Zanzils", "translation": "Zanzils", "note": "", "status": "ignored"}
 {"key": "zeilen", "word": "Zeilen", "translation": "lines", "note": ""}
 {"key": "zerquetschen", "word": "zerquetschen", "translation": "crush", "note": ""}
 {"key": "zovaal", "word": "Zovaal", "translation": "Zovaal", "note": ""}
@@ -26374,7 +26374,7 @@
 {"key": "grades", "word": "Grades", "translation": "rank", "note": "grad; military context"}
 {"key": "gral", "word": "Gral", "translation": "Grail", "note": ""}
 {"key": "grimmwatts", "word": "Grimmwatts", "translation": "Grim Watts", "note": "proper name"}
-{"key": "gundrak", "word": "Gundrak", "translation": "Gundrak", "note": ""}
+{"key": "gundrak", "word": "Gundrak", "translation": "Gundrak", "note": "", "status": "ignored"}
 {"key": "haare", "word": "Haare", "translation": "hair", "note": ""}
 {"key": "hah", "word": "Hah", "translation": "hah", "note": "interjection"}
 {"key": "haien", "word": "Haien", "translation": "sharks", "note": "hai plural"}
@@ -26487,15 +26487,15 @@
 {"key": "nahom", "word": "Nahom", "translation": "Nahom", "note": ""}
 {"key": "natürlicher", "word": "natürlicher", "translation": "natural", "note": "comparative form"}
 {"key": "natürliches", "word": "natürliches", "translation": "natural", "note": "neuter nominative"}
-{"key": "navarrogg", "word": "Navarrogg", "translation": "Navarrogg", "note": ""}
+{"key": "navarrogg", "word": "Navarrogg", "translation": "Navarrogg", "note": "", "status": "ignored"}
 {"key": "nekrodunklen", "word": "Nekrodunklen", "translation": "Necrodark", "note": "nekro (death) + dunkel (dark)"}
 {"key": "nekromanten", "word": "Nekromanten", "translation": "necromancers", "note": "plural; death magic users"}
 {"key": "neu-kargath", "word": "Neu-Kargath", "translation": "New Kargath", "note": "WoW Horde settlement"}
-{"key": "neuheim", "word": "Neuheim", "translation": "Neuheim", "note": ""}
+{"key": "neuheim", "word": "Neuheim", "translation": "Neuheim", "note": "", "status": "ignored"}
 {"key": "neusten", "word": "neusten", "translation": "latest", "note": "superlative of neu (new)"}
 {"key": "nials", "word": "Nials", "translation": "Nials", "note": ""}
 {"key": "niederschrift", "word": "Niederschrift", "translation": "record", "note": "written account or transcript"}
-{"key": "nobundo", "word": "Nobundo", "translation": "Nobundo", "note": ""}
+{"key": "nobundo", "word": "Nobundo", "translation": "Nobundo", "note": "", "status": "ignored"}
 {"key": "notfall", "word": "Notfall", "translation": "emergency", "note": "not (distress) + fall (case)"}
 {"key": "nützlicher", "word": "nützlicher", "translation": "useful", "note": "comparative of nützlich"}
 {"key": "objekten", "word": "Objekten", "translation": "objects", "note": "dative plural of Objekt"}
@@ -26536,7 +26536,7 @@
 {"key": "rücksichtslos", "word": "rücksichtslos", "translation": "ruthless", "note": "without consideration; merciless"}
 {"key": "rüpel", "word": "Rüpel", "translation": "boor", "note": "rough or rude person"}
 {"key": "saboteure", "word": "Saboteure", "translation": "saboteurs", "note": "plural; deliberate destroyers"}
-{"key": "sal'salabim", "word": "Sal'salabim", "translation": "Sal'salabim", "note": ""}
+{"key": "sal'salabim", "word": "Sal'salabim", "translation": "Sal'salabim", "note": "", "status": "ignored"}
 {"key": "samuel", "word": "Samuel", "translation": "Samuel", "note": ""}
 {"key": "saubere", "word": "saubere", "translation": "clean", "note": "pure or uncontaminated"}
 {"key": "schaffte", "word": "schaffte", "translation": "managed", "note": "past tense of schaffen"}
@@ -26555,7 +26555,7 @@
 {"key": "schändliche", "word": "schändliche", "translation": "shameful", "note": "disgraceful; from schande (shame)"}
 {"key": "schöpfen", "word": "schöpfen", "translation": "draw", "note": "to scoop or draw water"}
 {"key": "schöpft", "word": "schöpft", "translation": "creates", "note": "archaic/poetic: brings into being"}
-{"key": "sendrax", "word": "Sendrax", "translation": "Sendrax", "note": ""}
+{"key": "sendrax", "word": "Sendrax", "translation": "Sendrax", "note": "", "status": "ignored"}
 {"key": "shaladrassil", "word": "Shaladrassil", "translation": "Shaladrassil", "note": "WoW location; corrupted world tree", "status": "ignored"}
 {"key": "shen", "word": "Shen", "translation": "Shen", "note": ""}
 {"key": "shens", "word": "Shens", "translation": "Shen's", "note": "possessive; genitive singular"}
@@ -26593,12 +26593,12 @@
 {"key": "tal-inara", "word": "Tal-Inara", "translation": "Tal Inara", "note": "WoW location; valley name"}
 {"key": "talanjis", "word": "Talanjis", "translation": "Talanji's", "note": "possessive of NPC name"}
 {"key": "tanzt", "word": "tanzt", "translation": "dances", "note": "third person singular"}
-{"key": "tarenar", "word": "Tarenar", "translation": "Tarenar", "note": ""}
+{"key": "tarenar", "word": "Tarenar", "translation": "Tarenar", "note": "", "status": "ignored"}
 {"key": "tauchte", "word": "tauchte", "translation": "immersed", "note": "past tense of tauchen (to dive)"}
 {"key": "terrassen", "word": "Terrassen", "translation": "terraces", "note": "plural; raised flat platforms"}
 {"key": "terrorisiert", "word": "terrorisiert", "translation": "terrorized", "note": "intimidated or threatened"}
 {"key": "thelsamar", "word": "Thelsamar", "translation": "Thelsamar", "note": "WoW location", "status": "ignored"}
-{"key": "thisalee", "word": "Thisalee", "translation": "Thisalee", "note": ""}
+{"key": "thisalee", "word": "Thisalee", "translation": "Thisalee", "note": "", "status": "ignored"}
 {"key": "tores", "word": "Tores", "translation": "Gate", "note": "singular of Tor; 'Iron Gate' (WoW)"}
 {"key": "tragisch", "word": "tragisch", "translation": "tragic", "note": "from tragödie (tragedy)"}
 {"key": "traumweber", "word": "Traumweber", "translation": "dreamweaver", "note": "traum (dream) + weber (weaver)"}
@@ -27213,8 +27213,8 @@
 {"key": "sethe", "word": "Sethe", "translation": "Sethe", "note": "proper name; curse or condition", "status": "ignored"}
 {"key": "verhängnis", "word": "Verhängnis", "translation": "Doom", "note": "from hängen (to hang) + -nis suffix; what hangs over one's head as fate"}
 {"key": "verschwendung", "word": "Verschwendung", "translation": "waste", "note": ""}
-{"key": "sha'naar", "word": "Sha'naar", "translation": "Sha'naar", "note": ""}
-{"key": "shadras", "word": "Shadras", "translation": "Shadras", "note": ""}
+{"key": "sha'naar", "word": "Sha'naar", "translation": "Sha'naar", "note": "", "status": "ignored"}
+{"key": "shadras", "word": "Shadras", "translation": "Shadras", "note": "", "status": "ignored"}
 {"key": "sinnlos", "word": "sinnlos", "translation": "pointless; futile", "note": ""}
 {"key": "skeptisch", "word": "skeptisch", "translation": "skeptical", "note": ""}
 {"key": "sklave", "word": "Sklave", "translation": "slave", "note": ""}
@@ -27364,11 +27364,11 @@
 {"key": "würmern", "word": "Würmern", "translation": "worms; grubs", "note": "plural of Wurm; dative"}
 {"key": "yseras", "word": "Yseras", "translation": "Ysera's", "note": "proper noun; possessive of dragon aspect"}
 {"key": "zahnräder", "word": "Zahnräder", "translation": "Gears", "note": "zahn (tooth) + räder (wheels); mechanical component"}
-{"key": "zalazane", "word": "Zalazane", "translation": "Zalazane", "note": ""}
+{"key": "zalazane", "word": "Zalazane", "translation": "Zalazane", "note": "", "status": "ignored"}
 {"key": "zehntherrn", "word": "Zehntherrn", "translation": "Tithe Lords", "note": "zehn relates to tithe/tax; official WoW term"}
 {"key": "zeichnung", "word": "Zeichnung", "translation": "drawing", "note": ""}
 {"key": "zelling", "word": "Zelling", "translation": "Zelling", "note": ""}
-{"key": "zen'kiki", "word": "Zen'Kiki", "translation": "Zen'Kiki", "note": ""}
+{"key": "zen'kiki", "word": "Zen'Kiki", "translation": "Zen'Kiki", "note": "", "status": "ignored"}
 {"key": "zentrale", "word": "zentrale", "translation": "central", "note": "also: central office or headquarters"}
 {"key": "zerekriss", "word": "Zerekriss", "translation": "Zerekriss", "note": "WoW proper noun; void/shadow location", "status": "ignored"}
 {"key": "zertrümmern", "word": "zertrümmern", "translation": "smash", "note": "zer- (split) + trümmer (debris); smash"}
@@ -27381,7 +27381,7 @@
 {"key": "zucken", "word": "zucken", "translation": "twitch", "note": "sudden muscular contraction or flinch"}
 {"key": "zugreifen", "word": "zugreifen", "translation": "access", "note": "grasp, seize, or resort to something"}
 {"key": "zukünftiges", "word": "zukünftiges", "translation": "future", "note": "future + neuter ending; future-related"}
-{"key": "zul'mamwe", "word": "Zul'Mamwe", "translation": "Zul'Mamwe", "note": ""}
+{"key": "zul'mamwe", "word": "Zul'Mamwe", "translation": "Zul'Mamwe", "note": "", "status": "ignored"}
 {"key": "zur'ashar", "word": "Zur'Ashar", "translation": "Zur’Ashar", "note": ""}
 {"key": "zurückgreifen", "word": "zurückgreifen", "translation": "fall back", "note": "back + grasp; resort to or fall back"}
 {"key": "zuschlägt", "word": "zuschlägt", "translation": "strikes", "note": "zu- + schlag (hit); strikes or deals blow"}
