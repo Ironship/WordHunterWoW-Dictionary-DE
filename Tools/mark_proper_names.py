@@ -95,6 +95,8 @@ COMMON_SAME_TRANSLATION_DENY = {
     "kaja'mit", "gilblins", "larions", "zanzils", "shadras", "krennas",
     "adarrahs", "akareks", "arikaras", "dathrics", "fareeyas", "gaardouns",
     "galaens", "grimkors", "issliruks", "ja'kuls", "velhans", "pa'kus",
+    # Audit 30-61: material + title/inflected/demonym, not standalone names.
+    "empyrium", "dromanin", "krazzwerken", "azerother",
 }
 
 PROPER_PATTERN = re.compile(r"^[A-ZÄÖÜ].*[A-Za-zÄÖÜäöüß'’\-]*$")

@@ -24944,7 +24944,7 @@
 {"key": "decken", "word": "decken", "translation": "cover", "note": ""}
 {"key": "delas", "word": "Delas", "translation": "Delas", "note": ""}
 {"key": "dringlichkeit", "word": "Dringlichkeit", "translation": "urgency", "note": ""}
-{"key": "dromanin", "word": "Dromanin", "translation": "Dromanin", "note": "", "status": "ignored"}
+{"key": "dromanin", "word": "Dromanin", "translation": "Dromanin", "note": ""}
 {"key": "dummköpfe", "word": "Dummköpfe", "translation": "Fools", "note": ""}
 {"key": "durchgehen", "word": "durchgehen", "translation": "go through", "note": ""}
 {"key": "durchqueren", "word": "durchqueren", "translation": "traverse", "note": ""}
@@ -39287,7 +39287,7 @@
 {"key": "kraterfürst", "word": "Kraterfürst", "translation": "Crater Lord", "note": "WoW title or rank"}
 {"key": "krawall", "word": "Krawall", "translation": "riot", "note": "commotion or uproar"}
 {"key": "krazzelfrazz", "word": "Krazzelfrazz", "translation": "Krazzelfrazz", "note": "", "status": "ignored"}
-{"key": "krazzwerken", "word": "Krazzwerken", "translation": "Krazzwerken", "note": "", "status": "ignored"}
+{"key": "krazzwerken", "word": "Krazzwerken", "translation": "Krazzwerken", "note": ""}
 {"key": "kreativen", "word": "kreativen", "translation": "creative", "note": "adjective; refers to tinkerer or inventor"}
 {"key": "kreatur'n", "word": "Kreatur'n", "translation": "creatures", "note": "dialectal contraction of kreaturen"}
 {"key": "kreide", "word": "Kreide", "translation": "chalk", "note": "used for marking or writing"}
@@ -43561,7 +43561,7 @@
 {"key": "empfing", "word": "empfing", "translation": "received", "note": "separable verb emp+fangen; past tense means received or caught"}
 {"key": "empfängern", "word": "Empfängern", "translation": "recipients", "note": "plural/dative of Empfänger; means recipients, addressees, or receivers"}
 {"key": "emportrugen", "word": "emportrugen", "translation": "carried up", "note": "separable verb emp+tragen; past tense means carried away or swept up"}
-{"key": "empyrium", "word": "Empyrium", "translation": "Empyrium", "note": "", "status": "ignored"}
+{"key": "empyrium", "word": "Empyrium", "translation": "Empyrium", "note": ""}
 {"key": "empörung", "word": "Empörung", "translation": "indignation", "note": "righteous indignation; elevated/formal word for anger or outrage"}
 {"key": "endende", "word": "endende", "translation": "ending", "note": "present participle of enden (to end), used as adjective; nie endende = never-ending"}
 {"key": "endgültiges", "word": "endgültiges", "translation": "final", "note": "adjective form of endgültig (definitive/final); endgültig = final or definitive"}
@@ -52596,7 +52596,7 @@
 {"key": "azerits", "word": "Azerits", "translation": "Azerite", "note": "genitive form; refers to azerite substance as a mass noun"}
 {"key": "azeritsysteme", "word": "Azeritsysteme", "translation": "Azerite systems", "note": "compound: azerite + systeme (systems); interconnected azerite technology"}
 {"key": "azeritstaub", "word": "Azeritstaub", "translation": "Azerite dust", "note": "compound: azerite + staub (dust); fine azerite particles"}
-{"key": "azerother", "word": "Azerother", "translation": "Azerother", "note": "", "status": "ignored"}
+{"key": "azerother", "word": "Azerother", "translation": "Azerother", "note": ""}
 {"key": "azerothischer", "word": "azerothischer", "translation": "Azerothian", "note": "adjective from Azeroth + -isch suffix; relating to the world of Azeroth"}
 {"key": "azerwurz", "word": "Azerwurz", "translation": "azer root", "note": "compound: azer + wurz (root); healing plant with potent properties"}
 {"key": "azi", "word": "Azi", "translation": "Azi", "note": ""}

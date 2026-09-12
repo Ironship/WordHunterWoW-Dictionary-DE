@@ -8079,7 +8079,7 @@ WordHunterWoW_Dictionary_DE["azeritwahn"] = { word = "Azeritwahn", translation =
 WordHunterWoW_Dictionary_DE["azeritweltquests"] = { word = "Azeritweltquests", translation = "Azerite world quests", note = "plural compound: Azerit (azerite) + Weltquests (world quests)" }
 WordHunterWoW_Dictionary_DE["azeritwunden"] = { word = "Azeritwunden", translation = "Azerite Wounds", note = "capitalized as a game term; Azerite is the material name" }
 WordHunterWoW_Dictionary_DE["azeroth"] = { word = "Azeroth", translation = "Azeroth", note = "the world; the setting of World of Warcraft", status = "ignored" }
-WordHunterWoW_Dictionary_DE["azerother"] = { word = "Azerother", translation = "Azerother", note = "", status = "ignored" }
+WordHunterWoW_Dictionary_DE["azerother"] = { word = "Azerother", translation = "Azerother", note = "" }
 WordHunterWoW_Dictionary_DE["azerothianische"] = { word = "Azerothianische", translation = "Azerothian", note = "pertaining to Azeroth; -isch suffix makes adjectives" }
 WordHunterWoW_Dictionary_DE["azerothianischen"] = { word = "Azerothianischen", translation = "Azerothian", note = "from Azeroth; world adjective" }
 WordHunterWoW_Dictionary_DE["azerothische"] = { word = "Azerothische", translation = "Azerothian", note = "adjective from Azeroth; it describes something originating on Azeroth" }
@@ -18305,7 +18305,7 @@ WordHunterWoW_Dictionary_DE["drom'kal"] = { word = "Drom'kal", translation = "Dr
 WordHunterWoW_Dictionary_DE["droman"] = { word = "Droman", translation = "Droman", note = "" }
 WordHunterWoW_Dictionary_DE["dromanen"] = { word = "Dromanen", translation = "Dromaniacs", note = "wise forest dwellers" }
 WordHunterWoW_Dictionary_DE["dromanenhorn"] = { word = "Dromanenhorn", translation = "Droman Horn", note = "compound: Droman + Horn (horn); used to summon the Wild Hunt" }
-WordHunterWoW_Dictionary_DE["dromanin"] = { word = "Dromanin", translation = "Dromanin", note = "", status = "ignored" }
+WordHunterWoW_Dictionary_DE["dromanin"] = { word = "Dromanin", translation = "Dromanin", note = "" }
 WordHunterWoW_Dictionary_DE["dromaninnendoppel"] = { word = "Dromaninnendoppel", translation = "Droman double", note = "duplicate or twin of a Droman" }
 WordHunterWoW_Dictionary_DE["droms"] = { word = "Droms", translation = "Drom's", note = "the genitive -s marks possession; the ring belongs to Drom" }
 WordHunterWoW_Dictionary_DE["drop"] = { word = "Drop", translation = "Drop", note = "game slang for loot obtained from a creature or source" }
@@ -22341,7 +22341,7 @@ WordHunterWoW_Dictionary_DE["emporwallte"] = { word = "emporwallte", translation
 WordHunterWoW_Dictionary_DE["emporzusteigen"] = { word = "emporzusteigen", translation = "rise up; ascend", note = "up (empor) + climb/rise (steigen)" }
 WordHunterWoW_Dictionary_DE["empyreumenklave"] = { word = "Empyreumenklave", translation = "Empyrean Enclave", note = "Empyreum (sky-related; proper noun) + Enklave (enclave); celestial stronghold" }
 WordHunterWoW_Dictionary_DE["empyreumgesellschaft"] = { word = "Empyreumgesellschaft", translation = "Empyrean Society", note = "empyreum (heavenly/empyrean) + gesellschaft (society)" }
-WordHunterWoW_Dictionary_DE["empyrium"] = { word = "Empyrium", translation = "Empyrium", note = "", status = "ignored" }
+WordHunterWoW_Dictionary_DE["empyrium"] = { word = "Empyrium", translation = "Empyrium", note = "" }
 WordHunterWoW_Dictionary_DE["empyriumabbau"] = { word = "Empyriumabbau", translation = "Empyrium mining", note = "empyrium + Abbau (mining/extraction)" }
 WordHunterWoW_Dictionary_DE["empyriumbrustplatte"] = { word = "Empyriumbrustplatte", translation = "Empyrium Breastplate", note = "Brustplatte means breastplate; Empyrium is the material or item name" }
 WordHunterWoW_Dictionary_DE["empyriumflöze"] = { word = "Empyriumflöze", translation = "Empyrium seams", note = "plural mining term; Empyrium + Flöze (ore seams)" }
@@ -49733,7 +49733,7 @@ WordHunterWoW_Dictionary_DE["krazzelfrazz"] = { word = "Krazzelfrazz", translati
 WordHunterWoW_Dictionary_DE["krazzkanonen"] = { word = "Krazzkanonen", translation = "Krazz cannons", note = "cannons crafted or maintained by Krazz" }
 WordHunterWoW_Dictionary_DE["krazzwerke"] = { word = "Krazzwerke", translation = "Krazzwerke", note = "WoW location or workshop name" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["krazzwerke-kaos"] = { word = "Krazzwerke-Kaos", translation = "Krazzwerke-Kaos", note = "proper name; appears untranslated in English", status = "ignored" }
-WordHunterWoW_Dictionary_DE["krazzwerken"] = { word = "Krazzwerken", translation = "Krazzwerken", note = "", status = "ignored" }
+WordHunterWoW_Dictionary_DE["krazzwerken"] = { word = "Krazzwerken", translation = "Krazzwerken", note = "" }
 WordHunterWoW_Dictionary_DE["kreation"] = { word = "Kreation", translation = "creation", note = "creative work; variant of Kreatur" }
 WordHunterWoW_Dictionary_DE["kreationen"] = { word = "Kreationen", translation = "creations", note = "" }
 WordHunterWoW_Dictionary_DE["kreativ"] = { word = "kreativ", translation = "creative", note = "adjective" }
