@@ -39176,8 +39176,8 @@
 {"key": "kaskaden", "word": "Kaskaden", "translation": "Cascades", "note": "plural of Kaskade (cascade, waterfall)"}
 {"key": "kassenbuch", "word": "Kassenbuch", "translation": "Cash book", "note": "compound: kasse (cash register/till) + buch (book)"}
 {"key": "kaste", "word": "Kaste", "translation": "caste", "note": "social or occupational hierarchy; from Latin/Sanskrit origin"}
-{"key": "katrana", "word": "Katrana", "translation": "Katrana", "note": ""}
-{"key": "kattigat", "word": "Kattigat", "translation": "Kattigat", "note": ""}
+{"key": "katrana", "word": "Katrana", "translation": "Katrana", "note": "", "status": "ignored"}
+{"key": "kattigat", "word": "Kattigat", "translation": "Kattigat", "note": "", "status": "ignored"}
 {"key": "kauf'n", "word": "kauf'n", "translation": "buy", "note": "colloquial form of kaufen (to purchase)"}
 {"key": "kaufe", "word": "kaufe", "translation": "buy", "note": "1st person singular present of kaufen (to purchase)"}
 {"key": "kaulquappe", "word": "Kaulquappe", "translation": "tadpole", "note": "from Kaul (related to throat) + quappe (tadpole)"}
@@ -39190,22 +39190,22 @@
 {"key": "kela", "word": "Kela", "translation": "Kela", "note": ""}
 {"key": "kellergewölbe", "word": "Kellergewölbe", "translation": "Cellar vaults", "note": "compound: keller (cellar) + gewölbe (vault/arch)"}
 {"key": "kenner", "word": "Kenner", "translation": "connoisseur", "note": "one who knows; expert, aficionado in a field"}
-{"key": "kenninger", "word": "Kenninger", "translation": "Kenninger", "note": ""}
+{"key": "kenninger", "word": "Kenninger", "translation": "Kenninger", "note": "", "status": "ignored"}
 {"key": "kenningers", "word": "Kenningers", "translation": "Kenningers", "note": ""}
 {"key": "kennzeichnen", "word": "kennzeichnen", "translation": "mark", "note": "to designate, label, or indicate"}
 {"key": "kerbe", "word": "Kerbe", "translation": "notch", "note": "a cut, groove, or indentation; to score or carve"}
-{"key": "keristrasza", "word": "Keristrasza", "translation": "Keristrasza", "note": ""}
+{"key": "keristrasza", "word": "Keristrasza", "translation": "Keristrasza", "note": "", "status": "ignored"}
 {"key": "kernen", "word": "Kernen", "translation": "cores", "note": "plural of Kern (nucleus, heart, core)"}
 {"key": "kernhund", "word": "Kernhund", "translation": "core dog", "note": ""}
 {"key": "kernland", "word": "Kernland", "translation": "Heartland", "note": "compound: kern (heart/core) + land; fertile central region"}
-{"key": "khar'zul", "word": "Khar'zul", "translation": "Khar'zul", "note": ""}
+{"key": "khar'zul", "word": "Khar'zul", "translation": "Khar'zul", "note": "", "status": "ignored"}
 {"key": "kher", "word": "Kher", "translation": "Kher", "note": ""}
-{"key": "khu'nok", "word": "Khu'nok", "translation": "Khu'nok", "note": ""}
+{"key": "khu'nok", "word": "Khu'nok", "translation": "Khu'nok", "note": "", "status": "ignored"}
 {"key": "kielhol", "word": "Kielhol", "translation": "Keelhaul", "note": "nautical punishment; also used as a character name"}
 {"key": "kies", "word": "Kies", "translation": "gravel", "note": "small rounded stones, shingle"}
-{"key": "kil'uun", "word": "Kil'uun", "translation": "Kil'uun", "note": ""}
+{"key": "kil'uun", "word": "Kil'uun", "translation": "Kil'uun", "note": "", "status": "ignored"}
 {"key": "kildar", "word": "Kildar", "translation": "Kildar", "note": ""}
-{"key": "kilrath", "word": "Kilrath", "translation": "Kilrath", "note": ""}
+{"key": "kilrath", "word": "Kilrath", "translation": "Kilrath", "note": "", "status": "ignored"}
 {"key": "kin", "word": "Kin", "translation": "Kin", "note": ""}
 {"key": "kindes", "word": "Kindes", "translation": "child", "note": "genitive singular of Kind (child); child's or of a child"}
 {"key": "kira", "word": "Kira", "translation": "Kira", "note": ""}
@@ -39240,8 +39240,8 @@
 {"key": "knurrreisser", "word": "Knurrreißer", "translation": "Snarlripper", "note": ""}
 {"key": "knöpfen", "word": "Knöpfen", "translation": "tackle", "note": "in phrase knöpfen...vor: to go after someone; idiomatic usage"}
 {"key": "ko", "word": "Ko", "translation": "Ko", "note": ""}
-{"key": "ko'char", "word": "Ko'char", "translation": "Ko'char", "note": ""}
-{"key": "ko'nani", "word": "Ko'nani", "translation": "Ko'nani", "note": ""}
+{"key": "ko'char", "word": "Ko'char", "translation": "Ko'char", "note": "", "status": "ignored"}
+{"key": "ko'nani", "word": "Ko'nani", "translation": "Ko'nani", "note": "", "status": "ignored"}
 {"key": "kochs", "word": "Kochs", "translation": "cook", "note": "genitive form; the cook's in English is possessive, not a plural"}
 {"key": "koda", "word": "Koda", "translation": "Koda", "note": ""}
 {"key": "kodoknochen", "word": "Kodoknochen", "translation": "Kodo bones", "note": "kodo is WoW creature type; bones from kodos"}
@@ -39269,7 +39269,7 @@
 {"key": "kopfbedeckung", "word": "Kopfbedeckung", "translation": "headgear", "note": "compound noun: kopf (head) + bedeckung (covering)"}
 {"key": "kopfputz", "word": "Kopfputz", "translation": "headdress", "note": "ornamental headwear"}
 {"key": "kopfüber", "word": "kopfüber", "translation": "headfirst", "note": "literally head-over"}
-{"key": "korenth", "word": "Korenth", "translation": "Korenth", "note": ""}
+{"key": "korenth", "word": "Korenth", "translation": "Korenth", "note": "", "status": "ignored"}
 {"key": "korine", "word": "Korine", "translation": "Korine", "note": ""}
 {"key": "korm", "word": "Korm", "translation": "Corm", "note": "botanical term for underground stem bulb"}
 {"key": "korrespondenz", "word": "Korrespondenz", "translation": "correspondence", "note": "letters or communication"}
@@ -39286,14 +39286,14 @@
 {"key": "kramt", "word": "kramt", "translation": "rummages", "note": "searches through; third-person singular"}
 {"key": "kraterfürst", "word": "Kraterfürst", "translation": "Crater Lord", "note": "WoW title or rank"}
 {"key": "krawall", "word": "Krawall", "translation": "riot", "note": "commotion or uproar"}
-{"key": "krazzelfrazz", "word": "Krazzelfrazz", "translation": "Krazzelfrazz", "note": ""}
-{"key": "krazzwerken", "word": "Krazzwerken", "translation": "Krazzwerken", "note": ""}
+{"key": "krazzelfrazz", "word": "Krazzelfrazz", "translation": "Krazzelfrazz", "note": "", "status": "ignored"}
+{"key": "krazzwerken", "word": "Krazzwerken", "translation": "Krazzwerken", "note": "", "status": "ignored"}
 {"key": "kreativen", "word": "kreativen", "translation": "creative", "note": "adjective; refers to tinkerer or inventor"}
 {"key": "kreatur'n", "word": "Kreatur'n", "translation": "creatures", "note": "dialectal contraction of kreaturen"}
 {"key": "kreide", "word": "Kreide", "translation": "chalk", "note": "used for marking or writing"}
 {"key": "kreischende", "word": "Kreischende", "translation": "Screecher", "note": "singular; one who shrieks or screeches"}
-{"key": "krelnor", "word": "Krelnor", "translation": "Krelnor", "note": ""}
-{"key": "krennas", "word": "Krennas", "translation": "Krennas", "note": ""}
+{"key": "krelnor", "word": "Krelnor", "translation": "Krelnor", "note": "", "status": "ignored"}
+{"key": "krennas", "word": "Krennas", "translation": "Krennas", "note": "", "status": "ignored"}
 {"key": "kreuzfahrerin", "word": "Kreuzfahrerin", "translation": "Crusader", "note": "feminine form of crusader"}
 {"key": "kribbeln", "word": "Kribbeln", "translation": "tingle", "note": "sensation of tingling or prickling"}
 {"key": "kriegsdruidin", "word": "Kriegsdruidin", "translation": "War Druid", "note": "compound noun: krieg (war) + druidin (female druid)"}
@@ -39305,7 +39305,7 @@
 {"key": "kriegsvorräte", "word": "Kriegsvorräte", "translation": "war supplies", "note": "plural; military provisions"}
 {"key": "kriegswaffen", "word": "Kriegswaffen", "translation": "arms", "note": "weapons; war weapons is redundant"}
 {"key": "krisenherde", "word": "Krisenherde", "translation": "crisis spots", "note": "compound noun: krisen (crises) + herde (herd/focus)"}
-{"key": "kristoff", "word": "Kristoff", "translation": "Kristoff", "note": ""}
+{"key": "kristoff", "word": "Kristoff", "translation": "Kristoff", "note": "", "status": "ignored"}
 {"key": "kritzelt", "word": "kritzelt", "translation": "scribbles", "note": "writes hastily or carelessly"}
 {"key": "krogg", "word": "Krogg", "translation": "Krogg", "note": ""}
 {"key": "kroghan", "word": "Kroghan", "translation": "Kroghan", "note": ""}
