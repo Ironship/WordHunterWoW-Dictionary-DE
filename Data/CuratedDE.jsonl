@@ -31268,7 +31268,7 @@
 {"key": "mylra", "word": "Mylra", "translation": "Mylra", "note": ""}
 {"key": "mysteriöses", "word": "mysteriöses", "translation": "mysterious", "note": "neuter adjective form; -es ending"}
 {"key": "mystische", "word": "mystische", "translation": "mystical", "note": "feminine adjective form; -e ending"}
-{"key": "myzrael", "word": "Myzrael", "translation": "Myzrael", "note": ""}
+{"key": "myzrael", "word": "Myzrael", "translation": "Myzrael", "note": "", "status": "ignored"}
 {"key": "mächtig'n", "word": "mächtig'n", "translation": "powerful", "note": "colloquial: mächtig (mighty/powerful) with -n"}
 {"key": "na'logo", "word": "Na'logo", "translation": "Na’logo", "note": ""}
 {"key": "nachdenklich", "word": "nachdenklich", "translation": "pensive", "note": "nach (after/back) + denken (to think); thoughtful, contemplative"}
@@ -31277,11 +31277,11 @@
 {"key": "nachleben", "word": "Nachleben", "translation": "Afterlife", "note": "nach (after) + leben (life); the afterlife or life after death"}
 {"key": "naglfar", "word": "Naglfar", "translation": "Naglfar", "note": "Norse mythology: ship of the dead; appears in WoW lore", "status": "ignored"}
 {"key": "nahrungskette", "word": "Nahrungskette", "translation": "food chain", "note": "nahrung (food) + kette (chain)"}
-{"key": "narvirs", "word": "Narvirs", "translation": "Narvirs", "note": ""}
+{"key": "narvirs", "word": "Narvirs", "translation": "Narvirs", "note": "", "status": "ignored"}
 {"key": "nasen", "word": "Nasen", "translation": "noses", "note": ""}
-{"key": "navarius", "word": "Navarius", "translation": "Navarius", "note": ""}
+{"key": "navarius", "word": "Navarius", "translation": "Navarius", "note": "", "status": "ignored"}
 {"key": "nebenan", "word": "nebenan", "translation": "next door", "note": "neben (beside) + an (at); right next to"}
-{"key": "nebulor", "word": "Nebulor", "translation": "Nebulor", "note": ""}
+{"key": "nebulor", "word": "Nebulor", "translation": "Nebulor", "note": "", "status": "ignored"}
 {"key": "nekrotischen", "word": "nekrotischen", "translation": "necrotic", "note": "necrotic; from nekros (dead); relating to death/decay"}
 {"key": "nemea", "word": "Nemea", "translation": "Nemea", "note": ""}
 {"key": "neptulons", "word": "Neptulons", "translation": "Neptulon", "note": ""}
@@ -31294,7 +31294,7 @@
 {"key": "niederlagen", "word": "Niederlagen", "translation": "defeats", "note": "nieder (down) + lage (situation); defeats, setbacks"}
 {"key": "niederregnen", "word": "niederregnen", "translation": "rain down", "note": "nieder (down) + regnen (rain); to rain down upon"}
 {"key": "nikki", "word": "Nikki", "translation": "Nikki", "note": ""}
-{"key": "nijelspitze", "word": "Nijelspitze", "translation": "Nijelspitze", "note": ""}
+{"key": "nijelspitze", "word": "Nijelspitze", "translation": "Nijelspitze", "note": "", "status": "ignored"}
 {"key": "nixxie", "word": "Nixxie", "translation": "Nixxie", "note": ""}
 {"key": "noble", "word": "noble", "translation": "noble", "note": ""}
 {"key": "norwinsens", "word": "Norwinsens", "translation": "Norwinsens", "note": ""}
@@ -31302,16 +31302,16 @@
 {"key": "notiert", "word": "notiert", "translation": "noted", "note": "notieren (to note); past participle"}
 {"key": "notwendigkeit", "word": "Notwendigkeit", "translation": "necessity", "note": "notwendig (necessary) + -keit (suffix forming nouns from adjectives)"}
 {"key": "nugg", "word": "Nugg", "translation": "Nugg", "note": ""}
-{"key": "nurakkir", "word": "Nurakkir", "translation": "Nurakkir", "note": ""}
+{"key": "nurakkir", "word": "Nurakkir", "translation": "Nurakkir", "note": "", "status": "ignored"}
 {"key": "nutzer", "word": "Nutzer", "translation": "users", "note": "nutzen (to use) + -er; one who uses"}
-{"key": "nyxondra", "word": "Nyxondra", "translation": "Nyxondra", "note": ""}
+{"key": "nyxondra", "word": "Nyxondra", "translation": "Nyxondra", "note": "", "status": "ignored"}
 {"key": "nächten", "word": "Nächten", "translation": "nights", "note": "nacht (night) + plural form; three nights = three nights"}
 {"key": "offenbarung", "word": "Offenbarung", "translation": "revelation", "note": "offenbar (manifest/clear) + -ung (noun suffix); revelation"}
 {"key": "offenem", "word": "offenem", "translation": "open", "note": "offen (open); dative singular neuter"}
 {"key": "offener", "word": "offener", "translation": "open", "note": "offen (open); comparative form but here means openly, public"}
 {"key": "offizielle", "word": "offizielle", "translation": "official", "note": "official; from Latin officium"}
 {"key": "ogerhügel", "word": "Ogerhügel", "translation": "Ogre Hill", "note": "oger (ogre) + hügel (hill)"}
-{"key": "ohgan'aka", "word": "Ohgan'aka", "translation": "Ohgan'aka", "note": ""}
+{"key": "ohgan'aka", "word": "Ohgan'aka", "translation": "Ohgan'aka", "note": "", "status": "ignored"}
 {"key": "ohnmacht", "word": "Ohnmacht", "translation": "fainting", "note": "ohn- (without) + macht (power); fainting or powerlessness"}
 {"key": "ohnmächtig", "word": "ohnmächtig", "translation": "unconscious", "note": "ohne (without) + macht (power); unconscious or helpless"}
 {"key": "operieren", "word": "operieren", "translation": "operate", "note": "to operate; from Latin operari"}
@@ -31359,7 +31359,7 @@
 {"key": "qualvollen", "word": "qualvollen", "translation": "torturous", "note": "qualvoll (agonizing); adjective describing torment"}
 {"key": "quasi", "word": "quasi", "translation": "quasi", "note": "as if/so to speak; Latin loanword"}
 {"key": "quetschzahn", "word": "Quetschzahn", "translation": "crushing tooth", "note": "quetsch (crush) + zahn (tooth)"}
-{"key": "quetz'lun", "word": "Quetz'lun", "translation": "Quetz'lun", "note": ""}
+{"key": "quetz'lun", "word": "Quetz'lun", "translation": "Quetz'lun", "note": "", "status": "ignored"}
 {"key": "rabensprecher", "word": "Rabensprecher", "translation": "Ravenspeaker", "note": "rabe (raven) + sprecher (speaker); cult name"}
 {"key": "rabenwald", "word": "Rabenwald", "translation": "Raven Forest", "note": "rabe (raven) + wald (forest); place name"}
 {"key": "raffinierte", "word": "raffinierte", "translation": "sophisticated", "note": "refined/sophisticated; from French raffiné"}
@@ -31372,7 +31372,7 @@
 {"key": "rasenden", "word": "rasenden", "translation": "frenzied", "note": "frenzied; accusative/dative form"}
 {"key": "rasten", "word": "rasten", "translation": "rest", "note": "to rest/take a break; from Old High German"}
 {"key": "raue", "word": "raue", "translation": "rough", "note": "rough/harsh; adjective form"}
-{"key": "ravandwyr", "word": "Ravandwyr", "translation": "Ravandwyr", "note": ""}
+{"key": "ravandwyr", "word": "Ravandwyr", "translation": "Ravandwyr", "note": "", "status": "ignored"}
 {"key": "razlo", "word": "Razlo", "translation": "Razlo", "note": ""}
 {"key": "reaktionen", "word": "Reaktionen", "translation": "reactions", "note": "reaction; from Latin reactio"}
 {"key": "rebellischen", "word": "rebellischen", "translation": "rebellious", "note": "rebellious; from Latin rebellis"}
@@ -31382,7 +31382,7 @@
 {"key": "register", "word": "Register", "translation": "register", "note": "register; can mean list/index"}
 {"key": "reibungslos", "word": "reibungslos", "translation": "smoothly", "note": "rei­bung (friction) + -los (without); frictionless, smoothly"}
 {"key": "reisszähne", "word": "Reißzähne", "translation": "Fangs", "note": "reiß (tear/rend) + zähne (teeth); fangs"}
-{"key": "ren'khat", "word": "Ren'khat", "translation": "Ren'khat", "note": ""}
+{"key": "ren'khat", "word": "Ren'khat", "translation": "Ren'khat", "note": "", "status": "ignored"}
 {"key": "rend", "word": "Rend", "translation": "Rend", "note": ""}
 {"key": "renn", "word": "Renn", "translation": "Renn", "note": "renn as name; from rennen (to run)"}
 {"key": "repositorium", "word": "Repositorium", "translation": "Repository", "note": "repository; Latin term for storage"}
@@ -31405,7 +31405,7 @@
 {"key": "ruhiger", "word": "ruhiger", "translation": "quieter", "note": "quiet; comparative form"}
 {"key": "ruhmes", "word": "Ruhmes", "translation": "fame", "note": "ruhm (glory/fame); genitive form; hall of fame"}
 {"key": "ruin", "word": "Ruin", "translation": "ruin", "note": "ruin; destruction or decay"}
-{"key": "ruk'gan", "word": "Ruk'gan", "translation": "Ruk'gan", "note": ""}
+{"key": "ruk'gan", "word": "Ruk'gan", "translation": "Ruk'gan", "note": "", "status": "ignored"}
 {"key": "rumliegen", "word": "rumliegen", "translation": "lying around", "note": "rum (around) + liegen (lie); to lie scattered about"}
 {"key": "rupft", "word": "Rupft", "translation": "Plucks", "note": "rupfen (to pluck); imperative form"}
 {"key": "russige", "word": "Rußige", "translation": "Sooty", "note": "russ (soot) + -ig (adjective suffix); sooty"}
@@ -31567,10 +31567,10 @@
 {"key": "testflug", "word": "Testflug", "translation": "test flight", "note": ""}
 {"key": "teuflisches", "word": "Teuflisches", "translation": "devilish", "note": ""}
 {"key": "thalodien", "word": "Thalodien", "translation": "Thalodia", "note": ""}
-{"key": "thel'zan", "word": "Thel'zan", "translation": "Thel'zan", "note": ""}
-{"key": "theldrin", "word": "Theldrin", "translation": "Theldrin", "note": ""}
-{"key": "thoradin", "word": "Thoradin", "translation": "Thoradin", "note": ""}
-{"key": "throndyr", "word": "Throndyr", "translation": "Throndyr", "note": ""}
+{"key": "thel'zan", "word": "Thel'zan", "translation": "Thel'zan", "note": "", "status": "ignored"}
+{"key": "theldrin", "word": "Theldrin", "translation": "Theldrin", "note": "", "status": "ignored"}
+{"key": "thoradin", "word": "Thoradin", "translation": "Thoradin", "note": "", "status": "ignored"}
+{"key": "throndyr", "word": "Throndyr", "translation": "Throndyr", "note": "", "status": "ignored"}
 {"key": "tiefgrüne", "word": "Tiefgrüne", "translation": "deep green", "note": "tief (deep) + grün (green)"}
 {"key": "timing", "word": "Timing", "translation": "timing", "note": ""}
 {"key": "tinktur", "word": "Tinktur", "translation": "tincture", "note": ""}
