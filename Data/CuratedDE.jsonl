@@ -32175,7 +32175,7 @@
 {"key": "chirurgen", "word": "Chirurgen", "translation": "Surgeons", "note": "plural; medical practitioners"}
 {"key": "choofa", "word": "Choofa", "translation": "Choofa", "note": "NPC name; goblin character", "status": "ignored"}
 {"key": "chronist", "word": "Chronist", "translation": "chronicler", "note": "record-keeper; from Greek chronos (time)"}
-{"key": "chronolord", "word": "Chronolord", "translation": "Chronolord", "note": "official WoW title; master of time"}
+{"key": "chronolord", "word": "Chronolord", "translation": "Chronolord", "note": "official WoW title; master of time", "status": "ignored"}
 {"key": "citrin", "word": "Citrin", "translation": "Citrine", "note": "yellow quartz gemstone"}
 {"key": "citrinbucht", "word": "Citrinbucht", "translation": "Citrine Bay", "note": "compound: citrin + bucht (bay); location"}
 {"key": "clark", "word": "Clark", "translation": "Clark", "note": "human name; James Clark in wanted poster"}
@@ -32825,7 +32825,7 @@
 {"key": "jüngst", "word": "jüngst", "translation": "recently", "note": "means recently, lately"}
 {"key": "k'areshi", "word": "K'areshi", "translation": "K'areshi", "note": "creature race name", "status": "ignored"}
 {"key": "k'areshs", "word": "K'areshs", "translation": "K'areshs", "note": "genitive; refers to K'areshi"}
-{"key": "ka'dani", "word": "Ka'dani", "translation": "Ka'dani", "note": "hunter group name in WoW lore"}
+{"key": "ka'dani", "word": "Ka'dani", "translation": "Ka'dani", "note": "hunter group name in WoW lore", "status": "ignored"}
 {"key": "kael", "word": "Kael", "translation": "Kael", "note": "shortened name (Kael'thas)", "status": "ignored"}
 {"key": "kaganishu", "word": "Kaganishu", "translation": "Kaganishu", "note": "NPC/title name", "status": "ignored"}
 {"key": "kajüte", "word": "Kajüte", "translation": "cabin", "note": "ship's cabin; from Spanish cabaña via Dutch"}
@@ -32854,7 +32854,7 @@
 {"key": "kelada", "word": "Kelada", "translation": "Kelada", "note": "NPC; Kel'dana High Ritualist", "status": "ignored"}
 {"key": "keldonus", "word": "Keldonus", "translation": "Keldonus", "note": "NPC name; Magister Keldonus (WANTED)", "status": "ignored"}
 {"key": "kesseln", "word": "Kesseln", "translation": "cauldrons", "note": "plural; Kessel = cauldron/kettle/boiler; in this context plague cauldrons"}
-{"key": "khural", "word": "Khural", "translation": "Khural", "note": "Mongol/steppe assembly; Centaur cultural gathering in WoW"}
+{"key": "khural", "word": "Khural", "translation": "Khural", "note": "Mongol/steppe assembly; Centaur cultural gathering in WoW", "status": "ignored"}
 {"key": "kick", "word": "Kick", "translation": "kick", "note": "loanword; means thrill, excitement, or momentum"}
 {"key": "kiemen", "word": "Kiemen", "translation": "gills", "note": "plural; fish breathing organs"}
 {"key": "kieselchen", "word": "Kieselchen", "translation": "Pebbles", "note": "diminutive of Kiesel (pebble); NPC name"}
@@ -32990,7 +32990,7 @@
 {"key": "lochkarte", "word": "Lochkarte", "translation": "punch card", "note": "perforated card used in early computing"}
 {"key": "lockert", "word": "lockert", "translation": "loosens", "note": ""}
 {"key": "lohnende", "word": "lohnende", "translation": "worthwhile", "note": ""}
-{"key": "lok-tar", "word": "Lok-tar", "translation": "Lok-tar", "note": "Orcish battle cry/greeting; means victory"}
+{"key": "lok-tar", "word": "Lok-tar", "translation": "Lok-tar", "note": "Orcish battle cry/greeting; means victory", "status": "ignored"}
 {"key": "lordadmiral", "word": "Lordadmiral", "translation": "Lord Admiral", "note": "military title"}
 {"key": "lordregenten", "word": "Lordregenten", "translation": "Lord Regent", "note": "singular genitive form"}
 {"key": "lords", "word": "Lords", "translation": "Lords", "note": ""}
@@ -33077,7 +33077,7 @@
 {"key": "mord'rethar", "word": "Mord'rethar", "translation": "Mord'rethar", "note": ""}
 {"key": "mordigan", "word": "Mordigan", "translation": "Mordigan", "note": ""}
 {"key": "morgenröte", "word": "Morgenröte", "translation": "Dawn", "note": "literally morning-redness; refers to place or concept of dawn"}
-{"key": "mrg", "word": "Mrg", "translation": "Mrg", "note": "murloc speech"}
+{"key": "mrg", "word": "Mrg", "translation": "Mrg", "note": "murloc speech", "status": "ignored"}
 {"key": "mrrl", "word": "Mrrl", "translation": "Mrrl", "note": "murloc speech", "status": "ignored"}
 {"key": "mulgores", "word": "Mulgores", "translation": "Mulgore", "note": "creature type (highland cattle-like); note singular"}
 {"key": "mung-mungs", "word": "Mung-Mungs", "translation": "Mung-Mungs", "note": ""}
@@ -53800,7 +53800,7 @@
 {"key": "brisantes", "word": "Brisantes", "translation": "explosive", "note": "part of item name Brisantes Grünsteinbräu (Explosive Green Stone Brew)"}
 {"key": "brisen", "word": "Brisen", "translation": "breezes", "note": "plural of Brise (gentle wind or breeze)"}
 {"key": "brisenhorn", "word": "Brisenhorn", "translation": "Brisenhorn", "note": ""}
-{"key": "britzel", "word": "BRITZEL", "translation": "BRITZEL", "note": "onomatopoeia representing a crackling or fizzling sound effect"}
+{"key": "britzel", "word": "BRITZEL", "translation": "BRITZEL", "note": "onomatopoeia representing a crackling or fizzling sound effect", "status": "ignored"}
 {"key": "brock", "word": "Brock", "translation": "Brock", "note": ""}
 {"key": "britzler", "word": "Britzler", "translation": "Britzler", "note": ""}
 {"key": "brodelnd", "word": "brodelnd", "translation": "seething", "note": "present participle of brodeln (to seethe or boil); describes turbulent motion"}
@@ -53933,7 +53933,7 @@
 {"key": "buttermesser", "word": "Buttermesser", "translation": "butter knife", "note": "compound; tool for spreading butter, used metaphorically here"}
 {"key": "buy-in", "word": "Buy-In", "translation": "Buy-in", "note": "proper game mechanic term, may refer to stake or entry fee"}
 {"key": "bwon'tulak", "word": "Bwon'tulak", "translation": "Bwon'tulak", "note": "proper name for sea creatures; death-singers in Zandalari lore", "status": "ignored"}
-{"key": "bzzzzt", "word": "Bzzzzt", "translation": "Bzzzzt", "note": "onomatopoeia for electrical or impact sound"}
+{"key": "bzzzzt", "word": "Bzzzzt", "translation": "Bzzzzt", "note": "onomatopoeia for electrical or impact sound", "status": "ignored"}
 {"key": "bzzzzzzzzzt", "word": "Bzzzzzzzzzt", "translation": "Bzzzzzzzzzzt", "note": "extended onomatopoeia, sound effect for alarm or impact"}
 {"key": "bäche", "word": "Bäche", "translation": "streams", "note": "plural of Bach (stream); small flowing waters"}
 {"key": "bächen", "word": "Bächen", "translation": "streams", "note": "dative plural of Bach; appears in phrases about water corruption"}
@@ -54165,7 +54165,7 @@
 {"key": "corla", "word": "Corla", "translation": "Corla", "note": ""}
 {"key": "cornell", "word": "Cornell", "translation": "Cornell", "note": ""}
 {"key": "corpses", "word": "corpses", "translation": "corpses", "note": ""}
-{"key": "cortinarius", "word": "Cortinarius", "translation": "Cortinarius", "note": "genus of fungi; scientific name for a mushroom type"}
+{"key": "cortinarius", "word": "Cortinarius", "translation": "Cortinarius", "note": "genus of fungi; scientific name for a mushroom type", "status": "ignored"}
 {"key": "corvine", "word": "Corvine", "translation": "corvine", "note": "relating to ravens or crows; adjective describing corvid features"}
 {"key": "cosmin", "word": "Cosmin", "translation": "Cosmin", "note": ""}
 {"key": "couleur", "word": "Couleur", "translation": "color", "note": "French loanword used in German; means color or hue"}
@@ -54220,7 +54220,7 @@
 {"key": "dagewesener", "word": "dagewesener", "translation": "unprecedented", "note": "dagewesen (past participle of dasein) = unprecedented; superlative sense"}
 {"key": "daggs", "word": "Daggs", "translation": "Daggs", "note": ""}
 {"key": "daglirs", "word": "Daglirs", "translation": "Daglirs", "note": ""}
-{"key": "daglop", "word": "Daglop", "translation": "Daglop", "note": "gnome servant or imp name"}
+{"key": "daglop", "word": "Daglop", "translation": "Daglop", "note": "gnome servant or imp name", "status": "ignored"}
 {"key": "dagum", "word": "dagUm", "translation": "dagUm", "note": "fantasy/gibberish speech"}
 {"key": "dahakas", "word": "Dahakas", "translation": "Dahakas", "note": ""}
 {"key": "daherkommt", "word": "daherkommt", "translation": "comes along; appears", "note": "daher (along) + kommt (comes); how someone looks/appears"}
@@ -54586,7 +54586,7 @@
 {"key": "djaradinrunen", "word": "Djaradinrunen", "translation": "djaradin runes", "note": "compound from draconic proper noun; common noun compound"}
 {"key": "djuuk", "word": "Djuuk", "translation": "Djuuk", "note": "proper name", "status": "ignored"}
 {"key": "djinns", "word": "Djinns", "translation": "djinns", "note": "plural of djinn; mythological spirit; common noun, lowercase"}
-{"key": "dnd", "word": "DND", "translation": "DND", "note": "acronym: do not disturb"}
+{"key": "dnd", "word": "DND", "translation": "DND", "note": "acronym: do not disturb", "status": "ignored"}
 {"key": "do'gol", "word": "Do'gol", "translation": "Do'gol", "note": "proper name", "status": "ignored"}
 {"key": "doc", "word": "Doc", "translation": "Doc", "note": "nickname/title derived from Doctor"}
 {"key": "docht", "word": "Docht", "translation": "wick", "note": "common noun; the cord in a candle or lamp"}
@@ -54709,7 +54709,7 @@
 {"key": "drahtiger", "word": "drahtiger", "translation": "wirier", "note": "comparative form of drahtig"}
 {"key": "drak'atal", "word": "Drak'atal", "translation": "Drak'atal", "note": ""}
 {"key": "drakkariarmee", "word": "Drakkariarmee", "translation": "Drakkari army", "note": "Drakkari is a troll race; compound: drakkari + armee"}
-{"key": "drakkaritroll", "word": "Drakkaritroll", "translation": "Drakkaritroll", "note": "Drakkari troll; specific type of troll"}
+{"key": "drakkaritroll", "word": "Drakkaritroll", "translation": "Drakkaritroll", "note": "Drakkari troll; specific type of troll", "status": "ignored"}
 {"key": "drakmoos", "word": "Drakmoos", "translation": "Drakmoss", "note": ""}
 {"key": "drakonisch", "word": "Drakonisch", "translation": "draconic", "note": "adjective; drakon (dragon) + -isch; dragon-related, not draconian"}
 {"key": "drakonischem", "word": "drakonischem", "translation": "draconic", "note": "neuter form; draconic=dragon-related (not draconian)"}
@@ -54768,7 +54768,7 @@
 {"key": "dresaron", "word": "Dresaron", "translation": "Dresaron", "note": ""}
 {"key": "dreschadons", "word": "Dreschadons", "translation": "Dreshadons", "note": "plural of dreschadon"}
 {"key": "dreschen", "word": "Dreschen", "translation": "threshing", "note": "noun/gerund; to thresh grain; agricultural term"}
-{"key": "drescherkai", "word": "Drescherkai", "translation": "Drescherkai", "note": "location; drescher (thresher) + kai (wharf)"}
+{"key": "drescherkai", "word": "Drescherkai", "translation": "Drescherkai", "note": "location; drescher (thresher) + kai (wharf)", "status": "ignored"}
 {"key": "drescherzähne", "word": "Drescherzähne", "translation": "Thresher teeth", "note": "plural; drescher (thresher) + zähne (teeth)"}
 {"key": "drescht", "word": "drescht", "translation": "threshing", "note": "third person singular; threshes or beats"}
 {"key": "drescheröl", "word": "Drescheröl", "translation": "thresher oil", "note": "oil from thresher creatures; compound"}
@@ -55012,8 +55012,8 @@
 {"key": "düsterhimmel", "word": "Düsterhimmel", "translation": "dark sky", "note": "düster (dark) + himmel (sky); descriptive compound"}
 {"key": "düstersten", "word": "düstersten", "translation": "darkest", "note": "superlative form of düster (dark)"}
 {"key": "e'ko", "word": "E'ko", "translation": "E'ko", "note": "lore term from spirits; untranslated proper concept", "status": "ignored"}
-{"key": "e'komagie", "word": "E'komagie", "translation": "E'komagie", "note": "lore term; E'ko magic, untranslated"}
-{"key": "e-er", "word": "E-er", "translation": "E-er", "note": "stuttering or hesitant speech pattern in dialogue"}
+{"key": "e'komagie", "word": "E'komagie", "translation": "E'komagie", "note": "lore term; E'ko magic, untranslated", "status": "ignored"}
+{"key": "e-er", "word": "E-er", "translation": "E-er", "note": "stuttering or hesitant speech pattern in dialogue", "status": "ignored"}
 {"key": "ea", "word": "Ea", "translation": "Ea", "note": ""}
 {"key": "east", "word": "East", "translation": "East", "note": ""}
 {"key": "eau", "word": "Eau", "translation": "Eau de Fuchs", "note": "French loanword for water; Eau de Fuchs (Fox Water) is a perfume-like name"}
@@ -55024,7 +55024,7 @@
 {"key": "ebenkiel", "word": "Ebenkiel", "translation": "Ebenkiel", "note": ""}
 {"key": "ebensolche", "word": "ebensolche", "translation": "the same ones", "note": "pronoun referring to identical or equivalent things"}
 {"key": "ebensowenig", "word": "Ebensowenig", "translation": "nor", "note": "adverb meaning neither or also not; used to exclude something from a statement"}
-{"key": "eberbauer", "word": "Eberbauer", "translation": "Eberbauer", "note": "character name; eber (boar) + bauer (farmer); literally boar farmer"}
+{"key": "eberbauer", "word": "Eberbauer", "translation": "Eberbauer", "note": "character name; eber (boar) + bauer (farmer); literally boar farmer", "status": "ignored"}
 {"key": "eberjagd", "word": "Eberjagd", "translation": "boar hunting", "note": "eber (boar) + jagd (hunt); the hunting of wild boars"}
 {"key": "eberschädel", "word": "Eberschädel", "translation": "boar skull", "note": "eber (boar) + schädel (skull); item or trophy"}
 {"key": "ebertran", "word": "Ebertran", "translation": "boar oil", "note": "eber (boar) + tran (fat/oil); rendered fat or oil from boars"}
