@@ -38,7 +38,8 @@ CURATED = ROOT / "Data/CuratedDE.jsonl"
 # Keep these as common words even if same translation (avoid marking ignored).
 # Extended in batch 2 (issue #1): English/loanword cognates and common nouns
 # that pass word==translation must stay learnable, even if a note mentions
-# npc/creature/place/faction.
+# npc/creature/place/faction. Extended with batch-2 audit FPs (issue #1):
+# generic English words, foods, fragments that slipped the note gates.
 COMMON_SAME_TRANSLATION_DENY = {
     "mama", "papa", "oma", "opa", "baby", "hotel", "hobby", "party", "fair", "cool", "tip",
     "computer", "video", "internet", "email", "laptop", "smartphone", "sport", "team",
@@ -47,6 +48,7 @@ COMMON_SAME_TRANSLATION_DENY = {
     "farmer", "council", "swamp", "vale", "beach", "manor", "point", "hill", "high",
     "blade", "clans", "cabal", "huge", "classic", "maid", "scarlet", "paragon",
     "flowerpicker", "roc", "wyrm", "guts", "axe",
+    "blanches", "cheddar", "flight", "shady", "wardens", "bursters", "quagmire", "xylem",
 }
 
 PROPER_PATTERN = re.compile(r"^[A-ZÄÖÜ].*[A-Za-zÄÖÜäöüß'’\-]*$")

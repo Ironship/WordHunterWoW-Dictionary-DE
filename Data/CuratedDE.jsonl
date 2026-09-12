@@ -22705,7 +22705,7 @@
 {"key": "vorteile", "word": "Vorteile", "translation": "Advantages", "note": ""}
 {"key": "waisenhaus", "word": "Waisenhaus", "translation": "Orphanage", "note": ""}
 {"key": "wesentlich", "word": "wesentlich", "translation": "significant; essential; considerably", "note": ""}
-{"key": "xylem", "word": "Xylem", "translation": "Xylem", "note": "NPC name; plant tissue term; also druid-related character", "status": "ignored"}
+{"key": "xylem", "word": "Xylem", "translation": "Xylem", "note": "NPC name; plant tissue term; also druid-related character"}
 {"key": "you", "word": "you", "translation": "you", "note": "English placeholder text in German context; likely quest text error"}
 {"key": "yrel", "word": "Yrel", "translation": "Yrel", "note": "draenei character name; a leader in WoW"}
 {"key": "zeitlinien", "word": "Zeitlinien", "translation": "Timelines", "note": ""}
@@ -37619,7 +37619,7 @@
 {"key": "bissig", "word": "bissig", "translation": "snappy; snappish; bitey", "note": "bad-tempered"}
 {"key": "bisweilen", "word": "bisweilen", "translation": "at times; occasionally", "note": "means sometimes"}
 {"key": "blackthorn", "word": "Blackthorn", "translation": "Blackthorn", "note": "faction name", "status": "ignored"}
-{"key": "blanches", "word": "Blanches", "translation": "Blanches", "note": "NPC name part", "status": "ignored"}
+{"key": "blanches", "word": "Blanches", "translation": "Blanches", "note": "NPC name part"}
 {"key": "blargrrrl", "word": "Blargrrrl", "translation": "Blargrrrl", "note": "murloc NPC", "status": "ignored"}
 {"key": "blass", "word": "blass", "translation": "pale", "note": "pallid appearance"}
 {"key": "blasrohr", "word": "Blasrohr", "translation": "blowgun; blowpipe", "note": "ranged weapon"}
@@ -79293,7 +79293,7 @@
 {"key": "fischereimeister", "word": "Fischereimeister", "translation": "Fishing Master", "note": "Fischerei (fishing) + Meister (master); Fishing Master is a trainer-style title"}
 {"key": "fitting", "word": "fitting", "translation": "fitting", "note": "fitting means suitable here, not necessarily tight-fitting"}
 {"key": "flachhuf", "word": "Flachhuf", "translation": "Flathoof", "note": "official surname Flathoof; flach (flat) + Huf (hoof)"}
-{"key": "flight", "word": "Flight", "translation": "Flight", "note": "in WoW, a dragonflight is a dragon faction or lineage; Flight is the shortened title form", "status": "ignored"}
+{"key": "flight", "word": "Flight", "translation": "Flight", "note": "in WoW, a dragonflight is a dragon faction or lineage; Flight is the shortened title form"}
 {"key": "flow", "word": "flow", "translation": "flow", "note": "flow can be physical or figurative; power flowing through someone passes through them"}
 {"key": "flowerpicker", "word": "Flowerpicker", "translation": "Flowerpicker", "note": "official clan/name element; a flowerpicker is someone who gathers flowers"}
 {"key": "flugscheibe", "word": "Flugscheibe", "translation": "flying disc", "note": "Flug (flight) + Scheibe (disc), describing a disc used for flying"}
@@ -79436,7 +79436,7 @@
 {"key": "schwertfragmente", "word": "Schwertfragmente", "translation": "sword fragments", "note": "plural of Schwertfragment; each fragment is a piece of a sword"}
 {"key": "serpent", "word": "Serpent", "translation": "Serpent", "note": "a serpent is a snake; here capitalization suggests a tracked creature name", "status": "ignored"}
 {"key": "shado-pan-klosters", "word": "Shado-Pan-Klosters", "translation": "Shado-Pan Monastery", "note": "the German genitive -s is removed; Shado-Pan keeps its hyphen in English"}
-{"key": "shady", "word": "Shady", "translation": "Shady", "note": "in Shady Rest Inn, shady suggests a secluded or questionable place", "status": "ignored"}
+{"key": "shady", "word": "Shady", "translation": "Shady", "note": "in Shady Rest Inn, shady suggests a secluded or questionable place"}
 {"key": "sight", "word": "Sight", "translation": "Sight", "note": "in Shadow Sight, sight means the ability to see, not a physical view"}
 {"key": "skadir", "word": "Skadir", "translation": "Skadir", "note": ""}
 {"key": "skeleton", "word": "Skeleton", "translation": "skeleton", "note": "from Greek skeletos, dried-up; the word originally described a dried body"}
@@ -79895,7 +79895,7 @@
 {"key": "wachte", "word": "wachte", "translation": "kept watch", "note": "past tense of wachen, to keep watch"}
 {"key": "wagnis", "word": "Wagnis", "translation": "venture", "note": "Wagnis is a risky undertaking; in this place name it is a venture"}
 {"key": "wahrspruch", "word": "Wahrspruch", "translation": "Verdict", "note": "literal reading of the name; the NPC's official English name is not confirmed"}
-{"key": "wardens", "word": "Wardens", "translation": "Wardens", "note": "official faction term; wardens are guardians", "status": "ignored"}
+{"key": "wardens", "word": "Wardens", "translation": "Wardens", "note": "official faction term; wardens are guardians"}
 {"key": "waterfall", "word": "Waterfall", "translation": "Waterfall", "note": ""}
 {"key": "weeks", "word": "weeks", "translation": "weeks", "note": "plural of week"}
 {"key": "weitergebe", "word": "weitergebe", "translation": "pass on", "note": "weitergeben means pass on or hand over"}
@@ -85989,7 +85989,7 @@
 {"key": "qirajilord", "word": "Qirajilord", "translation": "Qiraji Lord", "note": "Qiraji is the creature name; Lord is the title, so English separates the compound"}
 {"key": "quadratischen", "word": "quadratischen", "translation": "square", "note": "inflected adjective; the -en ending reflects its case, not a plural noun"}
 {"key": "qualifizierteste", "word": "qualifizierteste", "translation": "most qualified", "note": "superlative of qualifiziert; -ste marks the highest degree"}
-{"key": "quagmire", "word": "Quagmire", "translation": "Quagmire", "note": "English source word; capitalized here as a place name", "status": "ignored"}
+{"key": "quagmire", "word": "Quagmire", "translation": "Quagmire", "note": "English source word; capitalized here as a place name"}
 {"key": "quarter", "word": "Quarter", "translation": "Quarter", "note": "the snippet does not settle whether this means a district, a quarter, or part of a title"}
 {"key": "quietschen", "word": "Quietschen", "translation": "squeak", "note": "noun from quietschen, to squeak; here the sound comes from a drivetrain"}
 {"key": "quietschlebendig", "word": "quietschlebendig", "translation": "alive and kicking", "note": "playful intensifier: literally squeaky-alive, meaning very much alive"}
@@ -90570,7 +90570,7 @@
 {"key": "burke", "word": "Burke", "translation": "Burke", "note": ""}
 {"key": "burnt", "word": "Burnt", "translation": "Burnt", "note": ""}
 {"key": "burkhalt", "word": "Burkhalt", "translation": "Burkhalt", "note": ""}
-{"key": "bursters", "word": "Bursters", "translation": "Bursters", "note": "context suggests a plant or creature label; exact naming is unconfirmed", "status": "ignored"}
+{"key": "bursters", "word": "Bursters", "translation": "Bursters", "note": "context suggests a plant or creature label; exact naming is unconfirmed"}
 {"key": "bury", "word": "bury", "translation": "bury", "note": "here it means place a body in the ground"}
 {"key": "bus", "word": "Bus", "translation": "Bus", "note": "proper name in Meister Bus", "status": "ignored"}
 {"key": "buschhuhn", "word": "Buschhuhn", "translation": "bush chicken", "note": "compound: Busch (bush) + Huhn (chicken)"}
@@ -90734,7 +90734,7 @@
 {"key": "chartern", "word": "chartern", "translation": "charter", "note": "chartern means to hire a vehicle or vessel for a trip"}
 {"key": "charthox", "word": "Charthox", "translation": "Charthox", "note": ""}
 {"key": "chat", "word": "Chat", "translation": "chat", "note": "Chat is an English loanword for in-game conversation"}
-{"key": "cheddar", "word": "Cheddar", "translation": "Cheddar", "note": "Cheddar is a firm cheese named after the English village of Cheddar", "status": "ignored"}
+{"key": "cheddar", "word": "Cheddar", "translation": "Cheddar", "note": "Cheddar is a firm cheese named after the English village of Cheddar"}
 {"key": "checking", "word": "Checking", "translation": "Checking", "note": "checking in on someone means visiting or asking how they are"}
 {"key": "cheat", "word": "Cheat", "translation": "cheat", "note": "a cheat can be a trick or an unfair exploit"}
 {"key": "chefs", "word": "chefs", "translation": "chefs", "note": "plural of chef, a cook; it does not mean bosses"}

@@ -12065,7 +12065,7 @@ WordHunterWoW_Dictionary_DE["blake"] = { word = "Blake", translation = "Blake", 
 WordHunterWoW_Dictionary_DE["blam"] = { word = "Blam", translation = "Blam", note = "proper name", status = "ignored" }
 WordHunterWoW_Dictionary_DE["blamiert"] = { word = "blamiert", translation = "disgraced", note = "past participle of blamieren (to embarrass, shame)" }
 WordHunterWoW_Dictionary_DE["blanche"] = { word = "Blanche", translation = "Blanche", note = "" }
-WordHunterWoW_Dictionary_DE["blanches"] = { word = "Blanches", translation = "Blanches", note = "NPC name part" , status = "ignored" }
+WordHunterWoW_Dictionary_DE["blanches"] = { word = "Blanches", translation = "Blanches", note = "NPC name part"  }
 WordHunterWoW_Dictionary_DE["blanchieren"] = { word = "blanchieren", translation = "blanch; par-boil", note = "cooking technique of brief boiling and ice-bathing" }
 WordHunterWoW_Dictionary_DE["blank"] = { word = "Blank", translation = "Blank", note = "a placeholder label for an empty or unspecified value" }
 WordHunterWoW_Dictionary_DE["blanke"] = { word = "blanke", translation = "sheer", note = "in phrases such as blanke Wut, blank means 'sheer' or 'undiluted', not empty" }
@@ -14931,7 +14931,7 @@ WordHunterWoW_Dictionary_DE["chawni"] = { word = "Chawni", translation = "Chawni
 WordHunterWoW_Dictionary_DE["che"] = { word = "Che", translation = "Che", note = "proper name; NPC scout; keep unchanged", status = "ignored" }
 WordHunterWoW_Dictionary_DE["cheats"] = { word = "Cheats", translation = "cheats", note = "" }
 WordHunterWoW_Dictionary_DE["checks"] = { word = "Checks", translation = "checks", note = "" }
-WordHunterWoW_Dictionary_DE["cheddar"] = { word = "Cheddar", translation = "Cheddar", note = "Cheddar is a firm cheese named after the English village of Cheddar" , status = "ignored" }
+WordHunterWoW_Dictionary_DE["cheddar"] = { word = "Cheddar", translation = "Cheddar", note = "Cheddar is a firm cheese named after the English village of Cheddar"  }
 WordHunterWoW_Dictionary_DE["cheer"] = { word = "cheer", translation = "cheer", note = "command (/cheer); singular" }
 WordHunterWoW_Dictionary_DE["chef"] = { word = "Chef", translation = "Boss", note = "" }
 WordHunterWoW_Dictionary_DE["chefapothekerin"] = { word = "Chefapothekerin", translation = "chief apothecary", note = "" }
@@ -99666,7 +99666,7 @@ WordHunterWoW_Dictionary_DE["xy'thir"] = { word = "Xy'thir", translation = "Xy't
 WordHunterWoW_Dictionary_DE["xy'vez"] = { word = "Xy'vez", translation = "Xy'vez", note = "proper name; NPC merchant or trader", status = "ignored" }
 WordHunterWoW_Dictionary_DE["xy'vox"] = { word = "Xy'vox", translation = "Xy'vox", note = "proper noun; eredar boss name", status = "ignored" }
 WordHunterWoW_Dictionary_DE["xyggie"] = { word = "Xyggie", translation = "Xyggie", note = "proper name; NPC trainer or organizer", status = "ignored" }
-WordHunterWoW_Dictionary_DE["xylem"] = { word = "Xylem", translation = "Xylem", note = "NPC name; plant tissue term; also druid-related character" , status = "ignored" }
+WordHunterWoW_Dictionary_DE["xylem"] = { word = "Xylem", translation = "Xylem", note = "NPC name; plant tissue term; also druid-related character"  }
 WordHunterWoW_Dictionary_DE["xylems"] = { word = "Xylems", translation = "xylems", note = "" }
 WordHunterWoW_Dictionary_DE["xyrol"] = { word = "Xyrol", translation = "Xyrene", note = "single-word translation" }
 WordHunterWoW_Dictionary_DE["xyso"] = { word = "Xyso", translation = "Xyso", note = "" }
