@@ -42074,18 +42074,18 @@
 {"key": "argloser", "word": "argloser", "translation": "naive", "note": "nominative masculine singular; not comparative (more) but descriptive"}
 {"key": "argul", "word": "Argul", "translation": "Argul", "note": ""}
 {"key": "argumenten", "word": "Argumenten", "translation": "arguments", "note": "dative plural"}
-{"key": "argunite", "word": "Argunite", "translation": "Argunite", "note": ""}
+{"key": "argunite", "word": "Argunite", "translation": "Argunite", "note": "", "status": "ignored"}
 {"key": "argunitmatrix", "word": "Argunitmatrix", "translation": "Argunite matrix", "note": "argunite + matrix; energy source on argus"}
 {"key": "arhdas", "word": "Arhdas", "translation": "Arhdas", "note": ""}
 {"key": "arik", "word": "Arik", "translation": "Arik", "note": ""}
-{"key": "arikara", "word": "Arikara", "translation": "Arikara", "note": ""}
-{"key": "arikaras", "word": "Arikaras", "translation": "Arikaras", "note": ""}
+{"key": "arikara", "word": "Arikara", "translation": "Arikara", "note": "", "status": "ignored"}
+{"key": "arikaras", "word": "Arikaras", "translation": "Arikaras", "note": "", "status": "ignored"}
 {"key": "arinor", "word": "Arinor", "translation": "Arinor", "note": ""}
 {"key": "aristokratie", "word": "Aristokratie", "translation": "aristocracy", "note": ""}
 {"key": "arkananomalie", "word": "Arkananomalie", "translation": "Arcane anomaly", "note": "arkan (arcane) + anomalie (anomaly); magical phenomenon"}
-{"key": "arkethrax", "word": "Arkethrax", "translation": "Arkethrax", "note": ""}
+{"key": "arkethrax", "word": "Arkethrax", "translation": "Arkethrax", "note": "", "status": "ignored"}
 {"key": "arktischen", "word": "arktischen", "translation": "arctic", "note": "dative plural adjective"}
-{"key": "arluelle", "word": "Arluelle", "translation": "Arluelle", "note": ""}
+{"key": "arluelle", "word": "Arluelle", "translation": "Arluelle", "note": "", "status": "ignored"}
 {"key": "armada", "word": "Armada", "translation": "armada", "note": ""}
 {"key": "armor", "word": "Armor", "translation": "Armor", "note": "english word; equipment class"}
 {"key": "armreife", "word": "Armreife", "translation": "bangles", "note": "plural or singular; arm adornments"}
@@ -42109,12 +42109,12 @@
 {"key": "aschensäule", "word": "Aschensäule", "translation": "Ash column", "note": "asche (ash) + säule (column/pillar)"}
 {"key": "asgrim", "word": "Asgrim", "translation": "Asgrim", "note": ""}
 {"key": "ashamanes", "word": "Ashamanes", "translation": "Ashamanes", "note": "WoW faction/group", "status": "ignored"}
-{"key": "ashbury", "word": "Ashbury", "translation": "Ashbury", "note": ""}
+{"key": "ashbury", "word": "Ashbury", "translation": "Ashbury", "note": "", "status": "ignored"}
 {"key": "ashkaz", "word": "Ashkaz", "translation": "Ashkaz", "note": ""}
 {"key": "ashlam", "word": "Ashlam", "translation": "Ashlam", "note": ""}
 {"key": "ashlei", "word": "Ashlei", "translation": "Ashlei", "note": ""}
-{"key": "asterae", "word": "Asterae", "translation": "Asterae", "note": ""}
-{"key": "astoril", "word": "Astoril", "translation": "Astoril", "note": ""}
+{"key": "asterae", "word": "Asterae", "translation": "Asterae", "note": "", "status": "ignored"}
+{"key": "astoril", "word": "Astoril", "translation": "Astoril", "note": "", "status": "ignored"}
 {"key": "astralessenz", "word": "Astralessenz", "translation": "Astral essence", "note": "astral + essenz (essence); metaphysical energy"}
 {"key": "astromanten", "word": "Astromanten", "translation": "Astromancers", "note": "plural of astromancer; star-reader mages"}
 {"key": "astronomisch", "word": "astronomisch", "translation": "astronomical", "note": "adjective meaning relating to astronomy"}
@@ -42123,14 +42123,14 @@
 {"key": "ata", "word": "Ata", "translation": "Ata", "note": ""}
 {"key": "atemlose", "word": "atemlose", "translation": "breathless", "note": "nominative/accusative feminine; atem (breath) + -los (without)"}
 {"key": "atemstrom", "word": "Atemstrom", "translation": "breath stream", "note": "atem (breath) + strom (stream/flow); respiratory flow"}
-{"key": "athanel", "word": "Athanel", "translation": "Athanel", "note": ""}
-{"key": "athridas", "word": "Athridas", "translation": "Athridas", "note": ""}
+{"key": "athanel", "word": "Athanel", "translation": "Athanel", "note": "", "status": "ignored"}
+{"key": "athridas", "word": "Athridas", "translation": "Athridas", "note": "", "status": "ignored"}
 {"key": "atleos", "word": "Atleos", "translation": "Atleos", "note": ""}
 {"key": "atoph", "word": "Atoph", "translation": "Atoph", "note": ""}
 {"key": "attack", "word": "attack", "translation": "attack", "note": "english word"}
 {"key": "attacken", "word": "Attacken", "translation": "Attacks", "note": "plural of attacke; assaults"}
 {"key": "attilaqa", "word": "Attilaqa", "translation": "Attilaqa", "note": ""}
-{"key": "atulhet", "word": "Atulhet", "translation": "Atulhet", "note": ""}
+{"key": "atulhet", "word": "Atulhet", "translation": "Atulhet", "note": "", "status": "ignored"}
 {"key": "au'larrynar", "word": "Au'larrynar", "translation": "Au'larrynar", "note": ""}
 {"key": "auberdines", "word": "Auberdines", "translation": "Auberdine", "note": "WoW place name; night elf town"}
 {"key": "auch'naaru", "word": "Auch'naaru", "translation": "Auch'naaru", "note": "WoW alien race/language", "status": "ignored"}
@@ -42246,7 +42246,7 @@
 {"key": "augenhöhe", "word": "Augenhöhe", "translation": "eye level", "note": "compound: Auge (eye) + Höhe (height), means at the same level as the eyes"}
 {"key": "augenförmigen", "word": "augenförmigen", "translation": "eye-shaped", "note": "adjective: Auge (eye) + förmig (shaped), describes something resembling an eye"}
 {"key": "augenlose", "word": "augenlose", "translation": "eyeless", "note": "adjective: Auge (eye) + -los (without), means lacking eyes or blind"}
-{"key": "augermu", "word": "Augermu", "translation": "Augermu", "note": ""}
+{"key": "augermu", "word": "Augermu", "translation": "Augermu", "note": "", "status": "ignored"}
 {"key": "augustin", "word": "Augustin", "translation": "Augustine", "note": ""}
 {"key": "auric", "word": "Auric", "translation": "Auric", "note": ""}
 {"key": "auriferous", "word": "Auriferous", "translation": "Auriferous", "note": ""}
@@ -42377,12 +42377,12 @@
 {"key": "avana", "word": "Avana", "translation": "Avana", "note": ""}
 {"key": "avatars", "word": "Avatars", "translation": "avatars", "note": ""}
 {"key": "avery", "word": "Avery", "translation": "Avery", "note": ""}
-{"key": "avrilla", "word": "Avrilla", "translation": "Avrilla", "note": ""}
+{"key": "avrilla", "word": "Avrilla", "translation": "Avrilla", "note": "", "status": "ignored"}
 {"key": "avrus", "word": "Avrus", "translation": "Avrus", "note": ""}
-{"key": "axxarien", "word": "Axxarien", "translation": "Axxarien", "note": ""}
+{"key": "axxarien", "word": "Axxarien", "translation": "Axxarien", "note": "", "status": "ignored"}
 {"key": "ayit", "word": "Ayit", "translation": "Ayit", "note": ""}
-{"key": "azaloth", "word": "Azaloth", "translation": "Azaloth", "note": ""}
-{"key": "azathoth", "word": "Azathoth", "translation": "Azathoth", "note": ""}
+{"key": "azaloth", "word": "Azaloth", "translation": "Azaloth", "note": "", "status": "ignored"}
+{"key": "azathoth", "word": "Azathoth", "translation": "Azathoth", "note": "", "status": "ignored"}
 {"key": "azennios", "word": "Azennios", "translation": "Azennios", "note": ""}
 {"key": "azeritbomben", "word": "Azeritbomben", "translation": "Azerite bombs", "note": "compound: Azerit + Bomben (bombs)"}
 {"key": "azeritflöz", "word": "Azeritflöz", "translation": "Azerite seam", "note": "compound: Azerit + Flöz (ore vein)"}
