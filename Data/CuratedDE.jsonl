@@ -18852,7 +18852,7 @@
 {"key": "klar", "word": "klar", "translation": "clear; sure", "note": "predicative adjective; can mean 'clear' or 'for sure' in colloquial speech"}
 {"key": "schlund", "word": "Schlund", "translation": "maw; abyss", "note": "in WoW, 'the Maw' is an important location; also means gorge/chasm"}
 {"key": "besitz", "word": "Besitz", "translation": "possession; property", "note": "abstract noun from besitzen (to possess)"}
-{"key": "goblins", "word": "Goblins", "translation": "Goblins", "note": "race name in World of Warcraft; English loanword"}
+{"key": "goblins", "word": "Goblins", "translation": "Goblins", "note": "race name in World of Warcraft; English loanword", "status": "ignored"}
 {"key": "expedition", "word": "Expedition", "translation": "expedition", "note": ""}
 {"key": "fragt", "word": "fragt", "translation": "asks", "note": "3rd person singular present of fragen"}
 {"key": "lord", "word": "Lord", "translation": "lord", "note": "English loanword"}
@@ -26145,7 +26145,7 @@
 {"key": "wunderbares", "word": "wunderbares", "translation": "wonderful", "note": ""}
 {"key": "wundern", "word": "wundern", "translation": "wonder", "note": ""}
 {"key": "wunderschönen", "word": "wunderschönen", "translation": "beautiful", "note": ""}
-{"key": "wyrmskol", "word": "Wyrmskol", "translation": "Wyrmskol", "note": "wyrm (dragon) + skol (hall/dwelling)"}
+{"key": "wyrmskol", "word": "Wyrmskol", "translation": "Wyrmskol", "note": "wyrm (dragon) + skol (hall/dwelling)", "status": "ignored"}
 {"key": "xi", "word": "Xi", "translation": "Xi", "note": ""}
 {"key": "xi'lun", "word": "Xi'lun", "translation": "Xi'lun", "note": ""}
 {"key": "zaela", "word": "Zaela", "translation": "Zaela", "note": ""}
@@ -27025,7 +27025,7 @@
 {"key": "jarod", "word": "Jarod", "translation": "Jarod", "note": "proper name; NPC name (Jarod Shadowsong), keep as is", "status": "ignored"}
 {"key": "jovit", "word": "Jovit", "translation": "Jovit", "note": "proper name; keep as is", "status": "ignored"}
 {"key": "kadrak", "word": "Kadrak", "translation": "Kadrak", "note": "proper name; NPC or location name, keep as is", "status": "ignored"}
-{"key": "kafa", "word": "Kafa", "translation": "Kafa", "note": "plant name; possibly endemic to WoW world, keep as is"}
+{"key": "kafa", "word": "Kafa", "translation": "Kafa", "note": "plant name; possibly endemic to WoW world, keep as is", "status": "ignored"}
 {"key": "kaldera", "word": "Kaldera", "translation": "Caldera", "note": "geological term; Kaldera = caldera"}
 {"key": "kampfgeist", "word": "Kampfgeist", "translation": "fighting spirit", "note": "Kampf (battle) + Geist (spirit); morale or combat spirit"}
 {"key": "kang", "word": "Kang", "translation": "Kang", "note": "proper name; keep as is", "status": "ignored"}
@@ -27407,7 +27407,7 @@
 {"key": "absichtlich", "word": "absichtlich", "translation": "intentionally", "note": "absicht (intention) + -lich; deliberate"}
 {"key": "abziehen", "word": "abziehen", "translation": "deduct", "note": "ab- + pull; withdraw troops or deduct"}
 {"key": "acride", "word": "Acride", "translation": "Acride", "note": "WoW NPC name; dwarf character", "status": "ignored"}
-{"key": "adamanthia", "word": "Adamanthia", "translation": "Adamanthia", "note": "WoW name; prison or containment"}
+{"key": "adamanthia", "word": "Adamanthia", "translation": "Adamanthia", "note": "WoW name; prison or containment", "status": "ignored"}
 {"key": "adelgonn", "word": "Adelgonn", "translation": "Adelgonn", "note": "WoW NPC name; human noble", "status": "ignored"}
 {"key": "aethril", "word": "Aethril", "translation": "Aethril", "note": "WoW herb/material; arcane-related"}
 {"key": "aha", "word": "Aha", "translation": "Aha", "note": "exclamation of realization or discovery"}

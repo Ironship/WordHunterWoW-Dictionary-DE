@@ -1273,7 +1273,7 @@ WordHunterWoW_Dictionary_DE["actived"] = { word = "Actived", translation = "acti
 WordHunterWoW_Dictionary_DE["adalin"] = { word = "Adalin", translation = "Adalin", note = "NPC proper name (Adalin Hüfthoch); no translation needed", status = "ignored" }
 WordHunterWoW_Dictionary_DE["adalins"] = { word = "Adalins", translation = "Adalin's", note = "German genitive -s marks possession; English uses Adalin's" }
 WordHunterWoW_Dictionary_DE["adamant"] = { word = "Adamant", translation = "adamant", note = "false friend: adamant (English) = stubborn; Adamant/Adamantine = hard fantasy material" }
-WordHunterWoW_Dictionary_DE["adamanthia"] = { word = "Adamanthia", translation = "Adamanthia", note = "WoW name; prison or containment" }
+WordHunterWoW_Dictionary_DE["adamanthia"] = { word = "Adamanthia", translation = "Adamanthia", note = "WoW name; prison or containment", status = "ignored" }
 WordHunterWoW_Dictionary_DE["adamantitrahmen"] = { word = "Adamantitrahmen", translation = "adamantite frame", note = "Adamantit (adamantite mineral) + Rahmen (frame); crafting material" }
 WordHunterWoW_Dictionary_DE["adamantiumpanzerung"] = { word = "Adamantiumpanzerung", translation = "Adamantium armor", note = "" }
 WordHunterWoW_Dictionary_DE["adamantiumplattenschrott"] = { word = "Adamantiumplattenschrott", translation = "Adamantium plate scrap", note = "adamantium (a fantasy metal) + platte (plate) + schrott (scrap)" }
@@ -35392,7 +35392,7 @@ WordHunterWoW_Dictionary_DE["goblinraketentreibstoff"] = { word = "Goblinraketen
 WordHunterWoW_Dictionary_DE["goblinrecht"] = { word = "Goblinrecht", translation = "goblin law", note = "compound; legal code or customs of goblin society" }
 WordHunterWoW_Dictionary_DE["goblinrennen"] = { word = "Goblinrennen", translation = "Goblin race", note = "rennen means a race or racing event" }
 WordHunterWoW_Dictionary_DE["goblinrennfahrer"] = { word = "Goblinrennfahrer", translation = "Goblin racer", note = "rennfahrer means racer or racing driver" }
-WordHunterWoW_Dictionary_DE["goblins"] = { word = "Goblins", translation = "Goblins", note = "race name in World of Warcraft; English loanword" }
+WordHunterWoW_Dictionary_DE["goblins"] = { word = "Goblins", translation = "Goblins", note = "race name in World of Warcraft; English loanword", status = "ignored" }
 WordHunterWoW_Dictionary_DE["goblinsaft"] = { word = "Goblinsaft", translation = "goblin juice", note = "compound; goblin beverage or elixir" }
 WordHunterWoW_Dictionary_DE["goblinschen"] = { word = "Goblinschen", translation = "goblins", note = "colloquial or plural form referring to goblins collectively" }
 WordHunterWoW_Dictionary_DE["goblinscher"] = { word = "goblinscher", translation = "goblin", note = "adjective form; relating to or belonging to a goblin" }
@@ -45589,7 +45589,7 @@ WordHunterWoW_Dictionary_DE["kaendris"] = { word = "Kaendris", translation = "Ka
 WordHunterWoW_Dictionary_DE["kaenius"] = { word = "Kaenius", translation = "Kaenius", note = "" }
 WordHunterWoW_Dictionary_DE["kaera"] = { word = "Kaera", translation = "Kaera", note = "" }
 WordHunterWoW_Dictionary_DE["kaerter"] = { word = "Kaerter", translation = "Kaerter", note = "proper NPC name; appears to be an Arathi character name", status = "ignored" }
-WordHunterWoW_Dictionary_DE["kafa"] = { word = "Kafa", translation = "Kafa", note = "plant name; possibly endemic to WoW world, keep as is" }
+WordHunterWoW_Dictionary_DE["kafa"] = { word = "Kafa", translation = "Kafa", note = "plant name; possibly endemic to WoW world, keep as is", status = "ignored" }
 WordHunterWoW_Dictionary_DE["kafa'kota"] = { word = "Kafa'kota", translation = "Kafa'kota", note = "NPC/location proper name", status = "ignored" }
 WordHunterWoW_Dictionary_DE["kafa'kota-beeren"] = { word = "Kafa'kota-Beeren", translation = "Kafa'kota berries", note = "kafa'kota is the name; beeren means berries" }
 WordHunterWoW_Dictionary_DE["kafa'kota-mischung"] = { word = "Kafa'kota-Mischung", translation = "Kafa'kota blend", note = "game item; kafa is a fictional plant, mischung means blend" }
@@ -99273,7 +99273,7 @@ WordHunterWoW_Dictionary_DE["wyrmruhtempel"] = { word = "Wyrmruhtempel", transla
 WordHunterWoW_Dictionary_DE["wyrmruhtempels"] = { word = "Wyrmruhtempels", translation = "Wyrmrest Temple", note = "proper noun: wyrmrest + temple; ancient dragon sanctuary in Dragonblight; inflected genitive" }
 WordHunterWoW_Dictionary_DE["wyrms"] = { word = "Wyrms", translation = "wyrms", note = "English term; ancient dragon-like creatures in WoW lore" }
 WordHunterWoW_Dictionary_DE["wyrmschädels"] = { word = "Wyrmschädels", translation = "wyrm skull", note = "wyrm (dragon) + schädel (skull)" }
-WordHunterWoW_Dictionary_DE["wyrmskol"] = { word = "Wyrmskol", translation = "Wyrmskol", note = "wyrm (dragon) + skol (hall/dwelling)" }
+WordHunterWoW_Dictionary_DE["wyrmskol"] = { word = "Wyrmskol", translation = "Wyrmskol", note = "wyrm (dragon) + skol (hall/dwelling)", status = "ignored" }
 WordHunterWoW_Dictionary_DE["wyrmskoltafeln"] = { word = "Wyrmskoltafeln", translation = "Wyrmskol tablets", note = "like Nordic runes or historical records; plural items" }
 WordHunterWoW_Dictionary_DE["wyrmthalak"] = { word = "Wyrmthalak", translation = "Wyrmthalak", note = "" }
 WordHunterWoW_Dictionary_DE["wyrmtöter"] = { word = "Wyrmtöter", translation = "Wyrmslayer", note = "tötter + wurm; one who slays dragons; NPC title" }
