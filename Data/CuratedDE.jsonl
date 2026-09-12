@@ -3354,7 +3354,7 @@
 {"key": "wirbelwind", "word": "Wirbelwind", "translation": "whirlwind", "note": ""}
 {"key": "wolfsrudel", "word": "Wolfsrudel", "translation": "wolf pack", "note": "rudel = pack"}
 {"key": "wolfsseele", "word": "Wolfsseele", "translation": "wolf soul", "note": ""}
-{"key": "wyrmthalak", "word": "Wyrmthalak", "translation": "Wyrmthalak", "note": ""}
+{"key": "wyrmthalak", "word": "Wyrmthalak", "translation": "Wyrmthalak", "note": "", "status": "ignored"}
 {"key": "wyrmzungen", "word": "Wyrmzungen", "translation": "Wyrmtongues", "note": ""}
 {"key": "zeitreisen", "word": "Zeitreisen", "translation": "time travel", "note": ""}
 {"key": "zenmeister", "word": "Zenmeister", "translation": "forge master", "note": ""}
@@ -6288,7 +6288,7 @@
 {"key": "gossenstadt", "word": "Gossenstadt", "translation": "Gutter city", "note": "implies lower/underworld location"}
 {"key": "grabsteinen", "word": "Grabsteinen", "translation": "gravestones", "note": ""}
 {"key": "grimmhammer", "word": "Grimmhammer", "translation": "Grimhammer", "note": "dwarf warrior known for aggressive trash-talking"}
-{"key": "grindhammer", "word": "Grindhammer", "translation": "Grindhammer", "note": ""}
+{"key": "grindhammer", "word": "Grindhammer", "translation": "Grindhammer", "note": "", "status": "ignored"}
 {"key": "grossmutters", "word": "Großmutters", "translation": "Grandmother's", "note": ""}
 {"key": "gruftbestie", "word": "Gruftbestie", "translation": "Crypt Beast", "note": "graft = tomb; venomous dungeon creature"}
 {"key": "götzenjäger", "word": "Götzenjäger", "translation": "Idol hunter", "note": "hunt for idols/religious statues"}
@@ -20928,7 +20928,7 @@
 {"key": "verleiht", "word": "verleiht", "translation": "gives; grants", "note": "more formal than geben"}
 {"key": "versehen", "word": "versehen", "translation": "provide; equip; furnish", "note": "often with governing preposition mit (with)"}
 {"key": "verzweifelt", "word": "verzweifelt", "translation": "desperate", "note": "can be adjective or adverb"}
-{"key": "westfall", "word": "Westfall", "translation": "Westfall", "note": ""}
+{"key": "westfall", "word": "Westfall", "translation": "Westfall", "note": "", "status": "ignored"}
 {"key": "winterkönigin", "word": "Winterkönigin", "translation": "Winter Queen", "note": "Ardenweald character; official WoW term"}
 {"key": "wiss'n", "word": "wiss'n", "translation": "know", "note": "colloquial contraction of wissen; dialect speech"}
 {"key": "zahlreiche", "word": "zahlreiche", "translation": "numerous; many", "note": ""}
@@ -21513,7 +21513,7 @@
 {"key": "früh", "word": "früh", "translation": "early", "note": "early in time or season; also used as adverb"}
 {"key": "glocke", "word": "Glocke", "translation": "bell", "note": "a ringing instrument; quest item or atmospheric sound"}
 {"key": "gluthof", "word": "Gluthof", "translation": "Emberhof", "note": "gluth (heat/ember) + -hof (farmstead); named location in Burning Crusade"}
-{"key": "gorm", "word": "Gorm", "translation": "Gorm", "note": ""}
+{"key": "gorm", "word": "Gorm", "translation": "Gorm", "note": "", "status": "ignored"}
 {"key": "hab's", "word": "hab's", "translation": "got it", "note": "contraction of hab es (have it); colloquial for understand/comprehend"}
 {"key": "herrin", "word": "Herrin", "translation": "mistress", "note": "female ruler or lady of rank; not the servant type"}
 {"key": "herrscher", "word": "Herrscher", "translation": "ruler", "note": ""}
@@ -22441,12 +22441,12 @@
 {"key": "beunruhigende", "word": "beunruhigende", "translation": "disturbing", "note": ""}
 {"key": "beziehung", "word": "Beziehung", "translation": "relationship", "note": ""}
 {"key": "biss", "word": "Biss", "translation": "bite", "note": ""}
-{"key": "brennadam", "word": "Brennadam", "translation": "Brennadam", "note": ""}
-{"key": "brill", "word": "Brill", "translation": "Brill", "note": ""}
+{"key": "brennadam", "word": "Brennadam", "translation": "Brennadam", "note": "", "status": "ignored"}
+{"key": "brill", "word": "Brill", "translation": "Brill", "note": "", "status": "ignored"}
 {"key": "brinthe", "word": "Brinthe", "translation": "Brinthe", "note": ""}
 {"key": "chaotischen", "word": "chaotischen", "translation": "chaotic", "note": ""}
 {"key": "code", "word": "Code", "translation": "code", "note": ""}
-{"key": "crowley", "word": "Crowley", "translation": "Crowley", "note": ""}
+{"key": "crowley", "word": "Crowley", "translation": "Crowley", "note": "", "status": "ignored"}
 {"key": "druide", "word": "Druide", "translation": "druid", "note": ""}
 {"key": "duft", "word": "Duft", "translation": "fragrance", "note": ""}
 {"key": "dämmerung", "word": "Dämmerung", "translation": "dusk", "note": "or twilight; the dimming of light"}
@@ -22468,19 +22468,19 @@
 {"key": "frontlinie", "word": "Frontlinie", "translation": "frontline", "note": ""}
 {"key": "funkeln", "word": "Funkeln", "translation": "sparkle", "note": ""}
 {"key": "fähige", "word": "fähige", "translation": "capable", "note": ""}
-{"key": "garadar", "word": "Garadar", "translation": "Garadar", "note": ""}
+{"key": "garadar", "word": "Garadar", "translation": "Garadar", "note": "", "status": "ignored"}
 {"key": "gefoltert", "word": "gefoltert", "translation": "tortured", "note": ""}
 {"key": "geheilt", "word": "geheilt", "translation": "healed", "note": ""}
 {"key": "generation", "word": "Generation", "translation": "generation", "note": ""}
 {"key": "geschnitzt", "word": "geschnitzt", "translation": "carved", "note": ""}
 {"key": "gesichter", "word": "Gesichter", "translation": "faces", "note": ""}
-{"key": "gjalerbron", "word": "Gjalerbron", "translation": "Gjalerbron", "note": ""}
+{"key": "gjalerbron", "word": "Gjalerbron", "translation": "Gjalerbron", "note": "", "status": "ignored"}
 {"key": "glas", "word": "Glas", "translation": "glass", "note": ""}
 {"key": "glorreichen", "word": "glorreichen", "translation": "glorious", "note": ""}
-{"key": "godfrey", "word": "Godfrey", "translation": "Godfrey", "note": ""}
+{"key": "godfrey", "word": "Godfrey", "translation": "Godfrey", "note": "", "status": "ignored"}
 {"key": "grim", "word": "Grim", "translation": "Grim", "note": ""}
 {"key": "grimmtotem", "word": "Grimmtotem", "translation": "Grimtotem", "note": "English name has one m; German spelling Grimmtotem is correct"}
-{"key": "grom'gol", "word": "Grom'gol", "translation": "Grom'gol", "note": ""}
+{"key": "grom'gol", "word": "Grom'gol", "translation": "Grom'gol", "note": "", "status": "ignored"}
 {"key": "grossvater", "word": "Großvater", "translation": "grandfather", "note": "Groß (big/great) + Vater (father)"}
 {"key": "gruppen", "word": "Gruppen", "translation": "groups", "note": ""}
 {"key": "göttern", "word": "Göttern", "translation": "gods", "note": ""}
@@ -22495,7 +22495,7 @@
 {"key": "ii", "word": "II", "translation": "II", "note": ""}
 {"key": "infiziert", "word": "infiziert", "translation": "infected", "note": ""}
 {"key": "jungtiere", "word": "Jungtiere", "translation": "cubs", "note": ""}
-{"key": "kaja'mit", "word": "Kaja'mit", "translation": "Kaja'mit", "note": ""}
+{"key": "kaja'mit", "word": "Kaja'mit", "translation": "Kaja'mit", "note": "", "status": "ignored"}
 {"key": "kapitänin", "word": "Kapitänin", "translation": "captain", "note": ""}
 {"key": "keinerlei", "word": "keinerlei", "translation": "no whatsoever", "note": "emphatic negation; not a single one"}
 {"key": "kerle", "word": "Kerle", "translation": "guys", "note": ""}
@@ -22503,7 +22503,7 @@
 {"key": "kodos", "word": "Kodos", "translation": "kodos", "note": "WoW creature type; domesticated beasts"}
 {"key": "komm", "word": "komm", "translation": "come", "note": "dialect/colloquial for komme"}
 {"key": "kompliziert", "word": "kompliziert", "translation": "complicated", "note": ""}
-{"key": "kor'kron", "word": "Kor'kron", "translation": "Kor'kron", "note": ""}
+{"key": "kor'kron", "word": "Kor'kron", "translation": "Kor'kron", "note": "", "status": "ignored"}
 {"key": "kreationen", "word": "Kreationen", "translation": "creations", "note": ""}
 {"key": "leerenenergie", "word": "Leerenenergie", "translation": "void energy", "note": ""}
 {"key": "lehrensuche", "word": "Lehrensuche", "translation": "teaching quest", "note": "Lehren (teachings) + Suche (search); a quest category"}
@@ -22518,7 +22518,7 @@
 {"key": "nappel", "word": "Nappel", "translation": "Nappel", "note": ""}
 {"key": "niedrig", "word": "niedrig", "translation": "low", "note": ""}
 {"key": "nochmals", "word": "nochmals", "translation": "again", "note": ""}
-{"key": "nozdormu", "word": "Nozdormu", "translation": "Nozdormu", "note": ""}
+{"key": "nozdormu", "word": "Nozdormu", "translation": "Nozdormu", "note": "", "status": "ignored"}
 {"key": "oberfunks", "word": "Oberfunks", "translation": "Oberfunks", "note": ""}
 {"key": "party", "word": "Party", "translation": "party", "note": ""}
 {"key": "pflege", "word": "Pflege", "translation": "care", "note": ""}
@@ -22532,7 +22532,7 @@
 {"key": "sieges", "word": "Sieges", "translation": "victory", "note": ""}
 {"key": "silbernen", "word": "Silbernen", "translation": "silver", "note": ""}
 {"key": "sinnvoll", "word": "sinnvoll", "translation": "sensible", "note": "or: reasonable, meaningful, purposeful"}
-{"key": "soridormi", "word": "Soridormi", "translation": "Soridormi", "note": ""}
+{"key": "soridormi", "word": "Soridormi", "translation": "Soridormi", "note": "", "status": "ignored"}
 {"key": "sowas", "word": "sowas", "translation": "something like that", "note": "colloquial for so etwas (such a thing)"}
 {"key": "spielzeug", "word": "Spielzeug", "translation": "toy", "note": ""}
 {"key": "stachel", "word": "Stachel", "translation": "sting", "note": "proper noun; can also mean thorn/barb"}
@@ -22545,7 +22545,7 @@
 {"key": "säuberung", "word": "Säuberung", "translation": "purge", "note": "cleansing/purification, often implies removal of unwanted elements"}
 {"key": "säule", "word": "Säule", "translation": "column", "note": ""}
 {"key": "sühne", "word": "Sühne", "translation": "atonement", "note": ""}
-{"key": "thaelin", "word": "Thaelin", "translation": "Thaelin", "note": ""}
+{"key": "thaelin", "word": "Thaelin", "translation": "Thaelin", "note": "", "status": "ignored"}
 {"key": "treants", "word": "Treants", "translation": "Treants", "note": ""}
 {"key": "tristessa", "word": "Tristessa", "translation": "Tristessa", "note": ""}
 {"key": "tundra", "word": "Tundra", "translation": "tundra", "note": ""}
