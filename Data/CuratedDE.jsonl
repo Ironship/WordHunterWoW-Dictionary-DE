@@ -46762,7 +46762,7 @@
 {"key": "mütter", "word": "Mütter", "translation": "mothers", "note": "plural of mutter; female parents"}
 {"key": "n'raqi", "word": "N'raqi", "translation": "N'raqi", "note": ""}
 {"key": "naakroaner", "word": "Naakroaner", "translation": "Naakroaner", "note": "plural of Naakroan; a race or faction in the game world", "status": "ignored"}
-{"key": "nabetand", "word": "Nabetand", "translation": "Nabetand", "note": ""}
+{"key": "nabetand", "word": "Nabetand", "translation": "Nabetand", "note": "", "status": "ignored"}
 {"key": "nachbarin", "word": "Nachbarin", "translation": "neighbor", "note": "feminine form of nachbar (neighbor); a female neighbor"}
 {"key": "nachbarinsel", "word": "Nachbarinsel", "translation": "neighboring island", "note": "nachbar (neighboring) + insel (island); an adjacent island"}
 {"key": "nachbarländer", "word": "Nachbarländer", "translation": "neighboring countries", "note": "nachbar (neighboring) + länder (countries); adjacent nations"}
@@ -46817,12 +46817,12 @@
 {"key": "nahrhaften", "word": "nahrhaften", "translation": "nutritious; nourishing", "note": "Nahr- (to nourish) + -haft (having the quality of)"}
 {"key": "nahtlose", "word": "nahtlose", "translation": "seamless", "note": "Naht (seam) + -los (without); feminine nominative/accusative"}
 {"key": "najak", "word": "Najak", "translation": "Najak", "note": ""}
-{"key": "nakansi", "word": "Nakansi", "translation": "Nakansi", "note": ""}
+{"key": "nakansi", "word": "Nakansi", "translation": "Nakansi", "note": "", "status": "ignored"}
 {"key": "nal'ryssas", "word": "Nal'ryssas", "translation": "Nal'ryssas", "note": ""}
-{"key": "nal'shea", "word": "Nal'Shea", "translation": "Nal'Shea", "note": ""}
-{"key": "nalak'sha", "word": "Nalak'sha", "translation": "Nalak'sha", "note": ""}
-{"key": "nar'shola", "word": "Nar'shola", "translation": "Nar'shola", "note": ""}
-{"key": "narassin", "word": "Narassin", "translation": "Narassin", "note": ""}
+{"key": "nal'shea", "word": "Nal'Shea", "translation": "Nal'Shea", "note": "", "status": "ignored"}
+{"key": "nalak'sha", "word": "Nalak'sha", "translation": "Nalak'sha", "note": "", "status": "ignored"}
+{"key": "nar'shola", "word": "Nar'shola", "translation": "Nar'shola", "note": "", "status": "ignored"}
+{"key": "narassin", "word": "Narassin", "translation": "Narassin", "note": "", "status": "ignored"}
 {"key": "nari", "word": "Nari", "translation": "Nari", "note": ""}
 {"key": "narkralls", "word": "Narkralls", "translation": "Narkralls", "note": ""}
 {"key": "narman", "word": "Narman", "translation": "Narman", "note": ""}
@@ -46832,11 +46832,11 @@
 {"key": "nasam", "word": "Nasam", "translation": "Nasam", "note": ""}
 {"key": "nasse", "word": "Nasse", "translation": "wet", "note": "adjective; context is exclamation 'Nasse Sache!' (a wet mess/predicament)"}
 {"key": "nasses", "word": "nasses", "translation": "wet", "note": "neuter singular nominative/accusative of nass"}
-{"key": "nasz'uro", "word": "Nasz'uro", "translation": "Nasz'uro", "note": ""}
+{"key": "nasz'uro", "word": "Nasz'uro", "translation": "Nasz'uro", "note": "", "status": "ignored"}
 {"key": "natoj", "word": "Natoj", "translation": "Natoj", "note": "NPC name (Commander Natoj); not NATO acronym", "status": "ignored"}
 {"key": "naturells", "word": "Naturells", "translation": "nature; character; temperament", "note": "Naturell = nature/disposition of a people; false friend with 'naturally'"}
 {"key": "naturgewalt", "word": "Naturgewalt", "translation": "force of nature; natural force", "note": "Natur (nature) + Gewalt (force/power); singular"}
-{"key": "naz'jan", "word": "Naz'jan", "translation": "Naz'jan", "note": ""}
+{"key": "naz'jan", "word": "Naz'jan", "translation": "Naz'jan", "note": "", "status": "ignored"}
 {"key": "nazesh", "word": "Nazesh", "translation": "Nazesh", "note": ""}
 {"key": "nazferitisees", "word": "Nazferitisees", "translation": "Nazferitisees", "note": "presumed WoW location; uncertain whether established name"}
 {"key": "nazjanisch", "word": "Nazjanisch", "translation": "Nazjanish", "note": "language of the Naga; derived from Naz'ja (Naga realm); adjective"}
@@ -46850,7 +46850,7 @@
 {"key": "neeralaks", "word": "Neeralaks", "translation": "Neeralaks", "note": ""}
 {"key": "neftis", "word": "Neftis", "translation": "Neftis", "note": ""}
 {"key": "negatives", "word": "Negatives", "translation": "Negatives", "note": "proper noun; appears to be item or faction name (context: 'Negatives Blut')", "status": "ignored"}
-{"key": "negolash", "word": "Negolash", "translation": "Negolash", "note": ""}
+{"key": "negolash", "word": "Negolash", "translation": "Negolash", "note": "", "status": "ignored"}
 {"key": "nei", "word": "Nei", "translation": "Nope; No", "note": "heavy dialect German (Silverpine Forest accent); casual/colloquial 'no'"}
 {"key": "neid", "word": "Neid", "translation": "envy; jealousy", "note": "from Old Germanic; appears in WoW as 'Harvester of Envy' faction name"}
 {"key": "neidisch", "word": "neidisch", "translation": "envious; jealous", "note": "Neid (envy) + -isch (adjective suffix); adjective form"}
@@ -46859,7 +46859,7 @@
 {"key": "nekrolythen", "word": "Nekrolythen", "translation": "Necrolytes", "note": "undead/necromancy units; plural form; from Latin necro- (dead) + -lyte"}
 {"key": "nekropolis", "word": "Nekropolis", "translation": "necropolis", "note": "from Greek: nekro- (dead) + polis (city); common noun, not proper name"}
 {"key": "nele", "word": "Nele", "translation": "Nele", "note": ""}
-{"key": "neltharaku", "word": "Neltharaku", "translation": "Neltharaku", "note": ""}
+{"key": "neltharaku", "word": "Neltharaku", "translation": "Neltharaku", "note": "", "status": "ignored"}
 {"key": "neltharakus", "word": "Neltharakus", "translation": "Neltharakus", "note": ""}
 {"key": "nemos", "word": "Nemos", "translation": "Nemos", "note": ""}
 {"key": "nenn", "word": "nenn", "translation": "name", "note": "colloquial form of nennen (to name)"}
@@ -46870,7 +46870,7 @@
 {"key": "nerubers", "word": "Nerubers", "translation": "Nerubians", "note": "the insectoid race of Northrend"}
 {"key": "nerubisches", "word": "nerubisches", "translation": "nerubian", "note": "adjective form"}
 {"key": "nervosität", "word": "Nervosität", "translation": "nervousness", "note": ""}
-{"key": "netharel", "word": "Netharel", "translation": "Netharel", "note": ""}
+{"key": "netharel", "word": "Netharel", "translation": "Netharel", "note": "", "status": "ignored"}
 {"key": "nethekurse", "word": "Nethekurse", "translation": "Nethekurse", "note": "proper NPC name", "status": "ignored"}
 {"key": "netherbrock", "word": "Netherbrock", "translation": "Netherbrock", "note": ""}
 {"key": "nethermanten", "word": "Nethermanten", "translation": "Nethermancers", "note": "spell casters or warlocks"}
@@ -46909,10 +46909,10 @@
 {"key": "niedrigerer", "word": "niedrigerer", "translation": "lower", "note": "comparative form; lower-ranking"}
 {"key": "nieren", "word": "Nieren", "translation": "kidneys", "note": ""}
 {"key": "nieten", "word": "Nieten", "translation": "rivets", "note": "metal fasteners"}
-{"key": "nimboya", "word": "Nimboya", "translation": "Nimboya", "note": ""}
+{"key": "nimboya", "word": "Nimboya", "translation": "Nimboya", "note": "", "status": "ignored"}
 {"key": "nimmer", "word": "nimmer", "translation": "never", "note": "archaic or poetic form"}
 {"key": "nimmermehr", "word": "nimmermehr", "translation": "nevermore", "note": "archaic/poetic: never again"}
-{"key": "ninadar", "word": "Ninadar", "translation": "Ninadar", "note": ""}
+{"key": "ninadar", "word": "Ninadar", "translation": "Ninadar", "note": "", "status": "ignored"}
 {"key": "ningna", "word": "Ningna", "translation": "Ningna", "note": ""}
 {"key": "nipsy", "word": "Nipsy", "translation": "Nipsy", "note": ""}
 {"key": "nirav", "word": "Nirav", "translation": "Nirav", "note": ""}
@@ -46925,7 +46925,7 @@
 {"key": "nistmaterial", "word": "Nistmaterial", "translation": "nesting material", "note": ""}
 {"key": "nistplätze", "word": "Nistplätze", "translation": "nesting sites", "note": ""}
 {"key": "nizrek", "word": "Nizrek", "translation": "Nizrek", "note": ""}
-{"key": "njorndar", "word": "Njorndar", "translation": "Njorndar", "note": ""}
+{"key": "njorndar", "word": "Njorndar", "translation": "Njorndar", "note": "", "status": "ignored"}
 {"key": "nobelflansch", "word": "Nobelflansch", "translation": "noble flange", "note": "likely nobel (noble) + flansch (flange)"}
 {"key": "nobelgarten", "word": "Nobelgarten", "translation": "Noblegarden", "note": "the spring fertility festival holiday in WoW"}
 {"key": "nobler", "word": "nobler", "translation": "nobler", "note": "comparative form of noble"}
@@ -46944,7 +46944,7 @@
 {"key": "nordturm", "word": "Nordturm", "translation": "North Tower", "note": ""}
 {"key": "nordufer", "word": "Nordufer", "translation": "North bank", "note": "of a river or lake"}
 {"key": "nordwinds", "word": "Nordwinds", "translation": "North Winds", "note": "proper name"}
-{"key": "noressa", "word": "Noressa", "translation": "Noressa", "note": ""}
+{"key": "noressa", "word": "Noressa", "translation": "Noressa", "note": "", "status": "ignored"}
 {"key": "nostalgie", "word": "Nostalgie", "translation": "nostalgia", "note": ""}
 {"key": "notlage", "word": "Notlage", "translation": "emergency", "note": "predicament or crisis"}
 {"key": "notrufsignal", "word": "Notrufsignal", "translation": "emergency signal", "note": "distress signal"}
@@ -46966,7 +46966,7 @@
 {"key": "nunvuq", "word": "Nunvuq", "translation": "Nunvuq", "note": ""}
 {"key": "nutszen", "word": "nutszen", "translation": "use", "note": "phonetic dialect spelling of nutzen"}
 {"key": "nyse", "word": "Nyse", "translation": "Nyse", "note": ""}
-{"key": "nythendra", "word": "Nythendra", "translation": "Nythendra", "note": ""}
+{"key": "nythendra", "word": "Nythendra", "translation": "Nythendra", "note": "", "status": "ignored"}
 {"key": "näherem", "word": "näherem", "translation": "closer", "note": "closer inspection or examination"}
 {"key": "näherte", "word": "näherte", "translation": "approached", "note": "past tense of nähern"}
 {"key": "näherten", "word": "näherten", "translation": "approached", "note": "past tense plural of nähern"}
