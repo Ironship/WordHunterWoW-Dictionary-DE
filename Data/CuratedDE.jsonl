@@ -19417,7 +19417,7 @@
 {"key": "gebunden", "word": "gebunden", "translation": "bound; tied", "note": "past participle of binden; means restricted or committed"}
 {"key": "rand", "word": "Rand", "translation": "edge", "note": "idiom: außer Rand und Band = completely out of control"}
 {"key": "schiffe", "word": "Schiffe", "translation": "ships", "note": "plural of Schiff; nautical term"}
-{"key": "tauren", "word": "Tauren", "translation": "Tauren", "note": "playable race in WoW"}
+{"key": "tauren", "word": "Tauren", "translation": "Tauren", "note": "playable race in WoW", "status": "ignored"}
 {"key": "verstreut", "word": "verstreut", "translation": "scattered", "note": "spread out; past participle"}
 {"key": "visionen", "word": "Visionen", "translation": "Visions", "note": "plural of Vision"}
 {"key": "ältesten", "word": "Ältesten", "translation": "elders", "note": "plural of Ältester (eldest one)"}
@@ -19576,7 +19576,7 @@
 {"key": "fliehen", "word": "fliehen", "translation": "flee; escape", "note": "to run away or flee from danger; active sense of escaping"}
 {"key": "gestellt", "word": "gestellt", "translation": "placed; arranged; turned upside down", "note": "past participle of stellen; 'auf den Kopf gestellt' = turned upside down (figuratively in chaos)"}
 {"key": "gewähren", "word": "gewähren", "translation": "grant; allow; confer", "note": "to bestow or permit something; more solemn than 'geben'"}
-{"key": "goblin", "word": "Goblin", "translation": "Goblin", "note": "WoW playable race; in German quests, referring to the industrious goblins"}
+{"key": "goblin", "word": "Goblin", "translation": "Goblin", "note": "WoW playable race; in German quests, referring to the industrious goblins", "status": "ignored"}
 {"key": "liebe", "word": "Liebe", "translation": "love", "note": "romantic or deep affection; capitalized as German noun"}
 {"key": "orden", "word": "Orden", "translation": "order; monastic order", "note": "in WoW: a religious or military organization; can also mean decoration/medal"}
 {"key": "südwestlich", "word": "südwestlich", "translation": "southwest", "note": "direction indicator; commonly used in quest markers and locations"}
@@ -19612,7 +19612,7 @@
 {"key": "schamanen", "word": "Schamanen", "translation": "shamans", "note": "spiritual practitioners; one of the WoW classes"}
 {"key": "stattdessen", "word": "stattdessen", "translation": "instead; in its place", "note": "as an alternative; in lieu of something else"}
 {"key": "verborgen", "word": "verborgen", "translation": "hidden; concealed", "note": "kept out of sight; not visible"}
-{"key": "djaradin", "word": "Djaradin", "translation": "Djaradin", "note": "ancient dragon-like race in WoW lore; rivals of the dragons"}
+{"key": "djaradin", "word": "Djaradin", "translation": "Djaradin", "note": "ancient dragon-like race in WoW lore; rivals of the dragons", "status": "ignored"}
 {"key": "erkunden", "word": "erkunden", "translation": "explore; scout", "note": "to investigate or examine an area; reconnaissance"}
 {"key": "grenzen", "word": "Grenzen", "translation": "boundaries; borders", "note": "edges or limits of a territory"}
 {"key": "griff", "word": "Griff", "translation": "handle; grip", "note": "something to grasp; also means griffon in mythology"}
@@ -19690,7 +19690,7 @@
 {"key": "verwandeln", "word": "verwandeln", "translation": "transform; change; convert", "note": "to change form or nature; metamorphosis"}
 {"key": "wann", "word": "wann", "translation": "when", "note": "at what time; question word for temporal reference"}
 {"key": "wildtiere", "word": "Wildtiere", "translation": "wildlife; wild animals", "note": "untamed beasts; creatures in nature"}
-{"key": "worgen", "word": "Worgen", "translation": "Worgen", "note": "cursed humanoid wolves in WoW; playable race"}
+{"key": "worgen", "word": "Worgen", "translation": "Worgen", "note": "cursed humanoid wolves in WoW; playable race", "status": "ignored"}
 {"key": "argus", "word": "Argus", "translation": "Argus", "note": "the fel world in WoW Legion expansion; Titan construct turned dark"}
 {"key": "auchindoun", "word": "Auchindoun", "translation": "Auchindoun", "note": "destroyed draenei capital; major dungeon location in WoW", "status": "ignored"}
 {"key": "blutes", "word": "Blutes", "translation": "blood", "note": "genitive of Blut; life essence or kinship"}
@@ -20069,7 +20069,7 @@
 {"key": "mitgliedern", "word": "Mitgliedern", "translation": "members", "note": "plural dative of Mitglied; zu den Mitgliedern = among the members"}
 {"key": "möglichkeiten", "word": "Möglichkeiten", "translation": "possibilities", "note": "plural noun; chance, possibility, or opportunity"}
 {"key": "nachsehen", "word": "nachsehen", "translation": "check", "note": "to look after, check, or investigate"}
-{"key": "pandaren", "word": "Pandaren", "translation": "Pandaren", "note": "official WoW playable race name"}
+{"key": "pandaren", "word": "Pandaren", "translation": "Pandaren", "note": "official WoW playable race name", "status": "ignored"}
 {"key": "punkt", "word": "Punkt", "translation": "point", "note": "literally dot/point; Invasionspunkt = invasion point (location marker)"}
 {"key": "rennen", "word": "Rennen", "translation": "run", "note": "verb infinitive; also noun meaning race or running"}
 {"key": "schlechte", "word": "schlechte", "translation": "bad", "note": "adjective; schlecht = bad, poor, ill"}
@@ -20263,7 +20263,7 @@
 {"key": "beutebucht", "word": "Beutebucht", "translation": "Booty Bay", "note": "official WoW location name; Beute (booty/loot) + Bucht (bay); proper noun"}
 {"key": "brunnen", "word": "Brunnen", "translation": "spring; fountain; well", "note": "water source; in WoW often magical springs used for quests"}
 {"key": "darunter", "word": "darunter", "translation": "underneath; beneath; among them", "note": "darunter can mean physically under or figuratively 'among those'"}
-{"key": "dracthyr", "word": "Dracthyr", "translation": "Dracthyr", "note": "WoW playable race name (dragon-humanoid); do not translate"}
+{"key": "dracthyr", "word": "Dracthyr", "translation": "Dracthyr", "note": "WoW playable race name (dragon-humanoid); do not translate", "status": "ignored"}
 {"key": "früheren", "word": "früheren", "translation": "previous; earlier", "note": "weak adjective form of früher (earlier/prior); often used with 'in früheren Zeiten'"}
 {"key": "gerufen", "word": "gerufen", "translation": "called; summoned", "note": "past participle of rufen (to call); strong verb (rief, gerufen)"}
 {"key": "geschmiedet", "word": "geschmiedet", "translation": "forged; hammered", "note": "past participle of schmieden (to forge); literal blacksmith work or metaphorical"}
@@ -21364,7 +21364,7 @@
 {"key": "mitteilen", "word": "mitteilen", "translation": "communicate; inform", "note": "verb; mit + teilen; means to communicate or share information"}
 {"key": "nekrolords", "word": "Nekrolords", "translation": "Necrolords", "note": "WoW faction: one of the four Covenants of the Shadowlands"}
 {"key": "neugierig", "word": "neugierig", "translation": "curious", "note": ""}
-{"key": "niffen", "word": "Niffen", "translation": "Niffen", "note": "WoW playable race, Dragonflight: small furry otter-like people"}
+{"key": "niffen", "word": "Niffen", "translation": "Niffen", "note": "WoW playable race, Dragonflight: small furry otter-like people", "status": "ignored"}
 {"key": "normale", "word": "normale", "translation": "normal", "note": ""}
 {"key": "opfergabe", "word": "Opfergabe", "translation": "sacrifice; offering", "note": "opfer (sacrifice) + gabe (gift); religious context often uses 'offering'"}
 {"key": "papa", "word": "Papa", "translation": "dad; father", "note": "informal term for father, common in quests with family relationships"}
@@ -21896,7 +21896,7 @@
 {"key": "irre", "word": "irre", "translation": "crazy", "note": "astray, mad, deluded; führen irre = to mislead"}
 {"key": "jahrelang", "word": "jahrelang", "translation": "for years", "note": "year + -lang (duration); lasting many years, year after year"}
 {"key": "jandvik", "word": "Jandvik", "translation": "Jandvik", "note": "proper location name; Viking-style settlement", "status": "ignored"}
-{"key": "jinyu", "word": "Jinyu", "translation": "Jinyu", "note": "aquatic race in WoW; no literal translation"}
+{"key": "jinyu", "word": "Jinyu", "translation": "Jinyu", "note": "aquatic race in WoW; no literal translation", "status": "ignored"}
 {"key": "kampfbereit", "word": "kampfbereit", "translation": "ready to fight", "note": "Kampf (battle) + bereit (ready); combat-prepared, armed"}
 {"key": "katakomben", "word": "Katakomben", "translation": "catacombs", "note": "underground burial chambers; from Latin catacomba"}
 {"key": "keeshan", "word": "Keeshan", "translation": "Keeshan", "note": "NPC name; John J. Keeshan, military officer", "status": "ignored"}
@@ -24249,7 +24249,7 @@
 {"key": "eintritt", "word": "Eintritt", "translation": "takes effect; occurs; happens", "note": "when used as verb: takes effect/occurs; as noun: admission/entry"}
 {"key": "einziges", "word": "einziges", "translation": "utter; complete; sheer", "note": "ein einziges Durcheinander = a complete/utter mess; one continuous mess"}
 {"key": "elekks", "word": "Elekks", "translation": "Elekks", "note": "WoW proper noun; draenei beast of burden (creature type)", "status": "ignored"}
-{"key": "elf", "word": "Elf", "translation": "Elf", "note": "in German WoW: Elf (plural Elfen) = Elf race; distinct from other elves"}
+{"key": "elf", "word": "Elf", "translation": "Elf", "note": "in German WoW: Elf (plural Elfen) = Elf race; distinct from other elves", "status": "ignored"}
 {"key": "entfachen", "word": "entfachen", "translation": "ignite", "note": "to kindle/ignite; start a fire or conflict"}
 {"key": "entkommt", "word": "entkommt", "translation": "escapes", "note": "escapes/gets away from; flees"}
 {"key": "entnehmen", "word": "entnehmen", "translation": "remove; take out; extract", "note": "to take out/remove from; extract from a container"}
@@ -24710,7 +24710,7 @@
 {"key": "moos", "word": "Moos", "translation": "moss", "note": "flowerless plant on surfaces"}
 {"key": "nachschauen", "word": "nachschauen", "translation": "look for", "note": "nach (after/for) + schauen (look); check on"}
 {"key": "nadel", "word": "Nadel", "translation": "needle", "note": "sharp pointed sewing instrument"}
-{"key": "nathrezim", "word": "Nathrezim", "translation": "Nathrezim", "note": "WoW demon race; dreadlords"}
+{"key": "nathrezim", "word": "Nathrezim", "translation": "Nathrezim", "note": "WoW demon race; dreadlords", "status": "ignored"}
 {"key": "nekromantie", "word": "Nekromantie", "translation": "necromancy", "note": "magic with dead; raising spirits"}
 {"key": "nekrorochen", "word": "Nekrorochen", "translation": "Necrorays", "note": "WoW undead creature type"}
 {"key": "niederstossen", "word": "niederstoßen", "translation": "swoop down; strike down", "note": "nieder (down) + stoßen (strike)"}
@@ -24756,7 +24756,7 @@
 {"key": "schwarz", "word": "schwarz", "translation": "black", "note": "darkest color; absence of light"}
 {"key": "schwarzfaust", "word": "Schwarzfaust", "translation": "Blackhand", "note": "schwarz (black) + faust (fist); warlord"}
 {"key": "segeln", "word": "segeln", "translation": "sailing", "note": "traveling by sail or with sails"}
-{"key": "shal'dorei", "word": "Shal'dorei", "translation": "Shal'dorei", "note": "WoW playable race; nightborne"}
+{"key": "shal'dorei", "word": "Shal'dorei", "translation": "Shal'dorei", "note": "WoW playable race; nightborne", "status": "ignored"}
 {"key": "sichel", "word": "Sichel", "translation": "sickle", "note": "curved cutting tool for grain"}
 {"key": "singen", "word": "singen", "translation": "sing", "note": "produce musical sounds vocally"}
 {"key": "sippe", "word": "Sippe", "translation": "clan", "note": "family or kinship group in German"}
@@ -25215,7 +25215,7 @@
 {"key": "winzige", "word": "winzige", "translation": "tiny", "note": "winzig = tiny, minute, minuscule"}
 {"key": "wisset", "word": "Wisset", "translation": "know", "note": "archaic/formal form of wissen (to know)"}
 {"key": "wohlergehen", "word": "Wohlergehen", "translation": "well-being", "note": "Wohl (welfare) + Ergehen (condition); formal"}
-{"key": "wolvar", "word": "Wolvar", "translation": "Wolvar", "note": "WoW race name"}
+{"key": "wolvar", "word": "Wolvar", "translation": "Wolvar", "note": "WoW race name", "status": "ignored"}
 {"key": "wortes", "word": "Wortes", "translation": "word", "note": "possessive/genitive of Wort"}
 {"key": "wurd'n", "word": "wurd'n", "translation": "became", "note": "colloquial form of wurden (were, became)"}
 {"key": "xais", "word": "Xais", "translation": "Xais", "note": "WoW proper noun", "status": "ignored"}
@@ -26559,7 +26559,7 @@
 {"key": "shaladrassil", "word": "Shaladrassil", "translation": "Shaladrassil", "note": "WoW location; corrupted world tree", "status": "ignored"}
 {"key": "shen", "word": "Shen", "translation": "Shen", "note": ""}
 {"key": "shens", "word": "Shens", "translation": "Shen's", "note": "possessive; genitive singular"}
-{"key": "skardyn", "word": "Skardyn", "translation": "Skardyn", "note": "WoW dwarf race/subspecies"}
+{"key": "skardyn", "word": "Skardyn", "translation": "Skardyn", "note": "WoW dwarf race/subspecies", "status": "ignored"}
 {"key": "solang", "word": "solang", "translation": "as long as", "note": "solange (contraction); conditional"}
 {"key": "sonnenwende", "word": "Sonnenwende", "translation": "solstice", "note": "sonne (sun) + wende (turn)"}
 {"key": "speichern", "word": "speichern", "translation": "save", "note": "to store or preserve"}
@@ -40429,7 +40429,7 @@
 {"key": "sharisanda", "word": "Sharisanda", "translation": "Sharisanda", "note": ""}
 {"key": "shauly", "word": "Shauly", "translation": "Shauly", "note": ""}
 {"key": "shi", "word": "Shi", "translation": "Shi", "note": ""}
-{"key": "shivarra", "word": "Shivarra", "translation": "Shivarra", "note": "demon race with four arms; demonic entity"}
+{"key": "shivarra", "word": "Shivarra", "translation": "Shivarra", "note": "demon race with four arms; demonic entity", "status": "ignored"}
 {"key": "sho", "word": "Sho", "translation": "Sho", "note": ""}
 {"key": "shuja", "word": "Shuja", "translation": "Shuja", "note": ""}
 {"key": "sicherste", "word": "sicherste", "translation": "safest", "note": "superlative of sicher (safe); -ste ending marks superlative"}
@@ -42133,7 +42133,7 @@
 {"key": "atulhet", "word": "Atulhet", "translation": "Atulhet", "note": ""}
 {"key": "au'larrynar", "word": "Au'larrynar", "translation": "Au'larrynar", "note": ""}
 {"key": "auberdines", "word": "Auberdines", "translation": "Auberdine", "note": "WoW place name; night elf town"}
-{"key": "auch'naaru", "word": "Auch'naaru", "translation": "Auch'naaru", "note": "WoW alien race/language"}
+{"key": "auch'naaru", "word": "Auch'naaru", "translation": "Auch'naaru", "note": "WoW alien race/language", "status": "ignored"}
 {"key": "auctor", "word": "auctor", "translation": "author", "note": "latin word"}
 {"key": "aufbaus", "word": "Aufbaus", "translation": "construction", "note": "genitive of aufbau; building/construction"}
 {"key": "aufbieten", "word": "aufbieten", "translation": "muster", "note": "to gather/raise/muster troops or forces"}
@@ -85355,7 +85355,7 @@
 {"key": "manner", "word": "manner", "translation": "manner", "note": "all manner of things = all kinds of things"}
 {"key": "mannethrel", "word": "Mannethrel", "translation": "Mannethrel", "note": ""}
 {"key": "mannroc", "word": "Mannroc", "translation": "Mannroc", "note": ""}
-{"key": "mantid", "word": "Mantid", "translation": "Mantid", "note": "a WoW race name based on a praying mantis-like insect"}
+{"key": "mantid", "word": "Mantid", "translation": "Mantid", "note": "a WoW race name based on a praying mantis-like insect", "status": "ignored"}
 {"key": "marblub", "word": "Marblub", "translation": "Marblub", "note": ""}
 {"key": "marcio's", "word": "Marcio's", "translation": "Marcio's", "note": ""}
 {"key": "mardei", "word": "Mardei", "translation": "Mardei", "note": ""}

@@ -21,6 +21,9 @@ Plus ONE curator-confirmation gate:
   uncertainty hedges: suggests/possibly/perhaps/unconfirmed/uncertain/
   maybe/likely). Same base predicates; title/quest/spell/item/ability/
   profession/pet/misc notes are out of scope until batch 4.
+- Batch 4: note matches race gate (NOTE_INCLUDE4). Same base predicates;
+  b1/b2/b3 domains excluded so counts stay separate. Surname/personal-name
+  and invariant signals stay out until batch 5.
 
 Translated-name pairs (Sturmwind->Stormwind) are never touched.
 Empty-note rows are never auto-marked (German capitalizes all nouns).
@@ -59,6 +62,8 @@ COMMON_SAME_TRANSLATION_DENY = {
     "deprecated", "basteldings", "chevalier", "echelon", "korun", "shatter",
     "ella", "bill", "colin", "brownells", "flor", "zorts", "eggenmeiser",
     "blat", "rook",
+    # Batch-4 audit FPs (issue #1): English senses of "race" (competition), not fantasy races.
+    "intermediate", "multiplayer",
 }
 
 PROPER_PATTERN = re.compile(r"^[A-ZÄÖÜ].*[A-Za-zÄÖÜäöüß'’\-]*$")
@@ -100,6 +105,12 @@ NOTE_EXCLUDE = re.compile(
 NOTE_INCLUDE3 = re.compile(
     r"\bcharacter\b|\blocation\b|\bdungeon\b|\braid\b"
     r"|\binstance\b|\bcapital\b|\bsettlement\b|\bfortress\b|\bkeep\b|\boutpost\b",
+    re.IGNORECASE,
+)
+
+# Batch 4: curator note keywords for race names.
+NOTE_INCLUDE4 = re.compile(
+    r"\brace\b",
     re.IGNORECASE,
 )
 
@@ -156,6 +167,23 @@ def is_batch3_candidate(word: str, translation: str, note: str) -> bool:
     return True
 
 
+def is_batch4_candidate(word: str, translation: str, note: str) -> bool:
+    """Batch 4: note names a race role for the entry."""
+    if not base_predicates(word, translation):
+        return False
+    if "proper" in (note or "").lower():
+        return False  # batch 1's domain; keep counts separate
+    if NOTE_INCLUDE.search(note or ""):
+        return False  # batch 2's domain; keep counts separate
+    if NOTE_INCLUDE3.search(note or ""):
+        return False  # batch 3's domain; keep counts separate
+    if not NOTE_INCLUDE4.search(note or ""):
+        return False
+    if NOTE_EXCLUDE.search(note or ""):
+        return False
+    return True
+
+
 def main() -> int:
     check_only = "--check" in sys.argv
     lines = CURATED.read_text(encoding="utf-8").splitlines()
@@ -163,6 +191,7 @@ def main() -> int:
     batch1 = 0
     batch2 = 0
     batch3 = 0
+    batch4 = 0
     already_ignored = 0
     for line in lines:
         if not line.strip():
@@ -197,15 +226,22 @@ def main() -> int:
             else:
                 r["status"] = "ignored"  # appended last, order preserved
                 out_lines.append(json.dumps(r, ensure_ascii=False))
+        elif is_batch4_candidate(word, translation, note):
+            batch4 += 1
+            if check_only:
+                out_lines.append(line)
+            else:
+                r["status"] = "ignored"  # appended last, order preserved
+                out_lines.append(json.dumps(r, ensure_ascii=False))
         else:
             out_lines.append(line)
-    added = batch1 + batch2 + batch3
+    added = batch1 + batch2 + batch3 + batch4
     if check_only:
-        print(f"would_mark={added} (batch1={batch1} batch2={batch2} batch3={batch3}) "
+        print(f"would_mark={added} (batch1={batch1} batch2={batch2} batch3={batch3} batch4={batch4}) "
               f"already_ignored={already_ignored}")
         return 1 if added else 0
     CURATED.write_text("\n".join(out_lines) + "\n", encoding="utf-8")
-    print(f"proper_names_marked={added} (batch1={batch1} batch2={batch2} batch3={batch3}) "
+    print(f"proper_names_marked={added} (batch1={batch1} batch2={batch2} batch3={batch3} batch4={batch4}) "
           f"already_ignored={already_ignored} curated_total={len(out_lines)}")
     return 0
 
