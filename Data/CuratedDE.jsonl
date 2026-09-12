@@ -39702,7 +39702,7 @@
 {"key": "mullan", "word": "Mullan", "translation": "Mullan", "note": "clan name", "status": "ignored"}
 {"key": "multi-bot", "word": "Multi-Bot", "translation": "Multi-Bot", "note": "mechanical device name; needs hyphen"}
 {"key": "mulverick", "word": "Mulverick", "translation": "Mulverick", "note": "NPC name", "status": "ignored"}
-{"key": "murgllgllrugl", "word": "Murgllgllrugl", "translation": "Murgllgllrugl", "note": "murloc speech; nonsense, untranslatable"}
+{"key": "murgllgllrugl", "word": "Murgllgllrugl", "translation": "Murgllgllrugl", "note": "murloc speech; nonsense, untranslatable", "status": "ignored"}
 {"key": "murr", "word": "Murr", "translation": "Murr", "note": "NPC name", "status": "ignored"}
 {"key": "muscheltiefe", "word": "Muscheltiefe", "translation": "Shelldeep", "note": "compound; muschel (shell) + tiefe (depth); location name in Nazjatar"}
 {"key": "mushrooms", "word": "mushrooms", "translation": "mushrooms", "note": "English within German text"}
@@ -40464,7 +40464,7 @@
 {"key": "skorpidgift", "word": "Skorpidgift", "translation": "scorpid poison", "note": "skorpid (WoW creature type) + gift (poison); compound noun"}
 {"key": "skorpion", "word": "Skorpion", "translation": "scorpion", "note": "arachnid creature; not Scorpio (zodiac sign)"}
 {"key": "skript", "word": "Skript", "translation": "script; screenplay", "note": "from English script; used for performance/game scripts"}
-{"key": "skriiiiiiiii", "word": "SKRIIIIIIIII", "translation": "SKRIIIIIIIII", "note": "onomatopoeia for sharp screeching sound"}
+{"key": "skriiiiiiiii", "word": "SKRIIIIIIIII", "translation": "SKRIIIIIIIII", "note": "onomatopoeia for sharp screeching sound", "status": "ignored"}
 {"key": "slightly", "word": "slightly", "translation": "slightly; somewhat", "note": ""}
 {"key": "slovan", "word": "Slovan", "translation": "Slovan", "note": ""}
 {"key": "smaragd", "word": "Smaragd", "translation": "emerald", "note": "gemstone; from Old High German; also the color in Smaragdgrüner Traum (Emerald Dream)"}
@@ -40519,7 +40519,7 @@
 {"key": "sport", "word": "Sport", "translation": "sport; fun; game", "note": "sport as recreation; context: \"as sport\" = for amusement/cruelty"}
 {"key": "sprachrohr", "word": "Sprachrohr", "translation": "mouthpiece; spokesperson; voice", "note": "sprach (speech) + rohr (tube/pipe); one who speaks for others"}
 {"key": "spraggel", "word": "Spraggel", "translation": "Spraggel", "note": ""}
-{"key": "spring-o-mat", "word": "Spring-o-Mat", "translation": "Spring-o-Mat", "note": "gnomish device name; spring + o (suffix) + mat"}
+{"key": "spring-o-mat", "word": "Spring-o-Mat", "translation": "Spring-o-Mat", "note": "gnomish device name; spring + o (suffix) + mat", "status": "ignored"}
 {"key": "springbrunnen", "word": "Springbrunnen", "translation": "fountain", "note": "springen (to spring/jump) + brunnen (spring); water fountain"}
 {"key": "springe", "word": "springe", "translation": "jump; leap; spring", "note": "1st person singular or imperative of springen (to jump)"}
 {"key": "sprinkel", "word": "Sprinkel", "translation": "Sprinkel", "note": ""}
@@ -40623,7 +40623,7 @@
 {"key": "superriecher", "word": "Superriecher", "translation": "Super Sniffer", "note": "super (super) + riecher (smeller/sniffer); gnome invention"}
 {"key": "sus", "word": "Sus", "translation": "Shen-zin Sus", "note": "great tortoise; ancient spirit creature in Pandaria"}
 {"key": "susi", "word": "Susi", "translation": "Suzy", "note": "female name; diminutive of Susanne"}
-{"key": "svalngard", "word": "Svalngard", "translation": "Svalngard", "note": "Odyn's shield; Norse-inspired mythological item in WoW"}
+{"key": "svalngard", "word": "Svalngard", "translation": "Svalngard", "note": "Odyn's shield; Norse-inspired mythological item in WoW", "status": "ignored"}
 {"key": "sven", "word": "Sven", "translation": "Sven", "note": "NPC name; Norse male name", "status": "ignored"}
 {"key": "sylara", "word": "Sylara", "translation": "Sylara", "note": "NPC name; Sylara Steelsong", "status": "ignored"}
 {"key": "sylendra", "word": "Sylendra", "translation": "Sylendra", "note": "NPC name; druid leader", "status": "ignored"}
@@ -40650,7 +40650,7 @@
 {"key": "ta'nla", "word": "Ta'nla", "translation": "Ta'nla", "note": "location reference; possible NPC or place name", "status": "ignored"}
 {"key": "ta'oku", "word": "Ta'oku", "translation": "Ta'oku", "note": "NPC name; trader or informant", "status": "ignored"}
 {"key": "ta'zinni", "word": "Ta'zinni", "translation": "Ta'zinni", "note": "NPC name; mysterious correspondent", "status": "ignored"}
-{"key": "tabiqa", "word": "Tabiqa", "translation": "Tabiqa", "note": "ritual or procedure name; astronomical/temporal alignment"}
+{"key": "tabiqa", "word": "Tabiqa", "translation": "Tabiqa", "note": "ritual or procedure name; astronomical/temporal alignment", "status": "ignored"}
 {"key": "tae'shara", "word": "Tae'shara", "translation": "Tae'shara", "note": "NPC name; expedition member", "status": "ignored"}
 {"key": "taellochtrick", "word": "Taellochtrick", "translation": "Taello hole trick", "note": "appears to be corrupted or proper name; possibly quest or location reference"}
 {"key": "taemin", "word": "Taemin", "translation": "Taemin", "note": "NPC name; ranger or scout", "status": "ignored"}
@@ -41469,13 +41469,13 @@
 {"key": "zischknall", "word": "Zischknall", "translation": "Hissing Bang", "note": "NPC name compound: zisch (hiss) + knall (bang/crack)"}
 {"key": "zitterhand", "word": "Zitterhand", "translation": "Trembling Hand", "note": "compound: zitter (trembling) + hand; NPC name"}
 {"key": "zo'bal", "word": "Zo'bal", "translation": "Zo'bal", "note": ""}
-{"key": "zo'shuulwarte", "word": "Zo'Shuulwarte", "translation": "Zo'Shuulwarte", "note": "location name; warte means watchtower"}
+{"key": "zo'shuulwarte", "word": "Zo'Shuulwarte", "translation": "Zo'Shuulwarte", "note": "location name; warte means watchtower", "status": "ignored"}
 {"key": "zoatroiden", "word": "Zoatroiden", "translation": "Zoatroids", "note": "plural form of creature name"}
 {"key": "zocknudel", "word": "Zocknudel", "translation": "Gambling Noodle", "note": "NPC name; zock (gamble) + nudel (noodle)"}
 {"key": "zoll", "word": "Zoll", "translation": "customs", "note": "or toll; a duty or fee for passage/goods"}
 {"key": "zoltan", "word": "Zoltan", "translation": "Zoltan", "note": ""}
 {"key": "zopf", "word": "Zopf", "translation": "braid", "note": "plait is archaic; braid is more common in modern English"}
-{"key": "zoramstrands", "word": "Zoramstrands", "translation": "Zoramstrands", "note": "location name; keeps plural form from German"}
+{"key": "zoramstrands", "word": "Zoramstrands", "translation": "Zoramstrands", "note": "location name; keeps plural form from German", "status": "ignored"}
 {"key": "zorna", "word": "Zorna", "translation": "Zorna", "note": "NPC name", "status": "ignored"}
 {"key": "zornausbrüche", "word": "Zornausbrüche", "translation": "outbursts of anger", "note": "compound: zorn (anger) + ausbrüche (outbursts); plural form"}
 {"key": "zornen", "word": "Zornen", "translation": "Anger", "note": "capitalized as NPC/faction name; lit. 'the Angered'"}
@@ -42880,7 +42880,7 @@
 {"key": "brutfürst", "word": "Brutfürst", "translation": "Broodlord", "note": "official WoW creature name; brut (brood) + fürst (lord)"}
 {"key": "brutosaurus", "word": "Brutosaurus", "translation": "Brutosaurus", "note": ""}
 {"key": "bruvk", "word": "Bruvk", "translation": "Bruvk", "note": ""}
-{"key": "brynja", "word": "Brynja", "translation": "Brynja", "note": "Val'kyr name; note input shows Brynja not Brynya"}
+{"key": "brynja", "word": "Brynja", "translation": "Brynja", "note": "Val'kyr name; note input shows Brynja not Brynya", "status": "ignored"}
 {"key": "brytag", "word": "Brytag", "translation": "Brytag", "note": ""}
 {"key": "brächte", "word": "brächte", "translation": "would bring", "note": "conditional subjunctive of bringen"}
 {"key": "brände", "word": "Brände", "translation": "fires", "note": "plural of Brand; blazes or conflagrations"}
@@ -43135,7 +43135,7 @@
 {"key": "diagrammen", "word": "Diagrammen", "translation": "diagrams", "note": "plural of diagram"}
 {"key": "diamantenen", "word": "diamantenen", "translation": "diamond-like", "note": "refers to Oshu'gun mountain in lore"}
 {"key": "diamantsiegel", "word": "Diamantsiegel", "translation": "Diamond Seal", "note": "proper name or achievement"}
-{"key": "diaminium", "word": "Diaminium", "translation": "Diaminium", "note": "fictional material; keep as is"}
+{"key": "diaminium", "word": "Diaminium", "translation": "Diaminium", "note": "fictional material; keep as is", "status": "ignored"}
 {"key": "dichtes", "word": "dichtes", "translation": "dense", "note": "thick and closely packed"}
 {"key": "dickem", "word": "dickem", "translation": "thick", "note": "dative singular; thick material"}
 {"key": "dickerchen", "word": "Dickerchen", "translation": "fatty", "note": "derogatory nickname Zamja uses"}
@@ -43216,7 +43216,7 @@
 {"key": "draeneiruinen", "word": "Draeneiruinen", "translation": "Draenei ruins", "note": "dwellings of Draenei people"}
 {"key": "draeneiseelen", "word": "Draeneiseelen", "translation": "Draenei souls", "note": "spirits consumed by demons"}
 {"key": "draenischer", "word": "Draenischer", "translation": "Draenian", "note": "of or relating to Draenei"}
-{"key": "draenormycota", "word": "Draenormycota", "translation": "Draenormycota", "note": "fungal species name"}
+{"key": "draenormycota", "word": "Draenormycota", "translation": "Draenormycota", "note": "fungal species name", "status": "ignored"}
 {"key": "dragon", "word": "Dragon", "translation": "Dragon", "note": ""}
 {"key": "dragoner", "word": "Dragoner", "translation": "dragoon", "note": "mounted infantry soldier"}
 {"key": "draht", "word": "Draht", "translation": "wire", "note": "thin metal strand"}
@@ -43226,7 +43226,7 @@
 {"key": "drak'zin", "word": "Drak'Zin", "translation": "Drak'Zin", "note": "WoW location", "status": "ignored"}
 {"key": "drakas", "word": "Drakas", "translation": "Drakas", "note": "location or landmark", "status": "ignored"}
 {"key": "drake", "word": "drake", "translation": "drake", "note": "young or lesser dragon"}
-{"key": "drakil'jin", "word": "Drakil'jin", "translation": "Drakil'jin", "note": "troll ancient ruins"}
+{"key": "drakil'jin", "word": "Drakil'jin", "translation": "Drakil'jin", "note": "troll ancient ruins", "status": "ignored"}
 {"key": "drakkisath", "word": "Drakkisath", "translation": "Drakkisath", "note": "creature or demon name", "status": "ignored"}
 {"key": "drakol'nir", "word": "Drakol'nir", "translation": "Drakol'nir", "note": "location name", "status": "ignored"}
 {"key": "drakonischer", "word": "drakonischer", "translation": "more draconian", "note": "harsher or more severe"}
@@ -43374,7 +43374,7 @@
 {"key": "ehefrau", "word": "Ehefrau", "translation": "wife", "note": "compound: ehe (marriage) + frau (woman)"}
 {"key": "eheringe", "word": "Eheringe", "translation": "wedding rings", "note": "compound: ehe (marriage) + ringe (rings)"}
 {"key": "ehrengast", "word": "Ehrengast", "translation": "guest of honor", "note": "compound: ehren (honor) + gast (guest)"}
-{"key": "ehrengründen", "word": "Ehrengründen", "translation": "Ehrengründen", "note": "likely place name; means honor+grounds"}
+{"key": "ehrengründen", "word": "Ehrengründen", "translation": "Ehrengründen", "note": "likely place name; means honor+grounds", "status": "ignored"}
 {"key": "ehrenmann", "word": "Ehrenmann", "translation": "man of honor", "note": "compound: ehren (honor) + mann (man)"}
 {"key": "ehrenmitglied", "word": "Ehrenmitglied", "translation": "honorary member", "note": "compound: ehren + mitglied (member)"}
 {"key": "ehrenwerten", "word": "ehrenwerten", "translation": "honorable", "note": "dative plural of ehrenwert (venerable/honorable)"}
@@ -43886,7 +43886,7 @@
 {"key": "farley", "word": "Farley", "translation": "Farley", "note": "NPC name", "status": "ignored"}
 {"key": "farmland", "word": "Farmland", "translation": "Farmland", "note": "English word in German text"}
 {"key": "farnees", "word": "Farnees", "translation": "Farnees", "note": ""}
-{"key": "farunn", "word": "Farunn", "translation": "Farunn", "note": "rhinoceros name"}
+{"key": "farunn", "word": "Farunn", "translation": "Farunn", "note": "rhinoceros name", "status": "ignored"}
 {"key": "fassende", "word": "fassende", "translation": "to catch", "note": "present participle; 'zu fassende' = to be caught; was 'comprehensive' which misses the context"}
 {"key": "fasses", "word": "Fasses", "translation": "barrel", "note": "genitive singular"}
 {"key": "fassgrund", "word": "Fassgrund", "translation": "Barrel base", "note": "surname; fass=barrel, grund=base/bottom"}
@@ -43934,7 +43934,7 @@
 {"key": "felskriecher", "word": "Felskriecher", "translation": "Rock Crawler", "note": "creature type"}
 {"key": "felsspalt", "word": "Felsspalt", "translation": "crack in the rock", "note": "or rock split, fissure"}
 {"key": "felsstürze", "word": "Felsstürze", "translation": "Rockfalls", "note": "plural of rockfall; dramatic geological event"}
-{"key": "fenistraszas", "word": "Fenistraszas", "translation": "Fenistraszas", "note": "dragon name; 'Fenistraszas Schädel' = Fenistraszas's skull"}
+{"key": "fenistraszas", "word": "Fenistraszas", "translation": "Fenistraszas", "note": "dragon name; 'Fenistraszas Schädel' = Fenistraszas's skull", "status": "ignored"}
 {"key": "fenn", "word": "Fenn", "translation": "Fenn", "note": "character name", "status": "ignored"}
 {"key": "fernsteuerung", "word": "Fernsteuerung", "translation": "Remote control", "note": "fern=remote/far, steuerung=control"}
 {"key": "ferocitas", "word": "Ferocitas", "translation": "Ferocitas", "note": "creature name", "status": "ignored"}
@@ -44056,7 +44056,7 @@
 {"key": "flusskrebsen", "word": "Flusskrebsen", "translation": "crayfish", "note": "plural dative; crayfish is singular and plural in English"}
 {"key": "flussufers", "word": "Flussufers", "translation": "river bank", "note": "compound: Fluss + Ufer (shore); genitive singular"}
 {"key": "flutsiegel", "word": "Flutsiegel", "translation": "Flood seal", "note": "compound: Flut (flood/tide) + Siegel (seal)"}
-{"key": "flwngyrr", "word": "Flwngyrr", "translation": "Flwngyrr", "note": "elvish/fantasy name"}
+{"key": "flwngyrr", "word": "Flwngyrr", "translation": "Flwngyrr", "note": "elvish/fantasy name", "status": "ignored"}
 {"key": "flöhe", "word": "Flöhe", "translation": "Fleas", "note": "plural noun from Floh (flea)"}
 {"key": "flözes", "word": "Flözes", "translation": "seam", "note": "genitive singular of Flöz; mining term for ore/coal seam"}
 {"key": "flüchtiges", "word": "flüchtiges", "translation": "fleeting", "note": "adjective from flüchtig (transient); -ig suffix"}
@@ -45946,7 +45946,7 @@
 {"key": "kriegsrufer", "word": "Kriegsrufer", "translation": "Warcaller", "note": "compound: Krieg (war) + Rufer (caller); may be specific WoW title"}
 {"key": "kriegsvorrat", "word": "Kriegsvorrat", "translation": "war supplies", "note": "compound: Krieg (war) + Vorrat (supplies); military provisions"}
 {"key": "kriegswache", "word": "Kriegswache", "translation": "War Guard", "note": "compound: Krieg (war) + Wache (guard); military rank"}
-{"key": "kriiitchrglgr", "word": "Kriiitchrglgr", "translation": "Kriiitchrglgr", "note": "murloc speech sound; leave as-is"}
+{"key": "kriiitchrglgr", "word": "Kriiitchrglgr", "translation": "Kriiitchrglgr", "note": "murloc speech sound; leave as-is", "status": "ignored"}
 {"key": "krimskrams", "word": "Krimskrams", "translation": "knick-knacks", "note": "colloquial for trinkets or miscellaneous small items"}
 {"key": "kris", "word": "Kris", "translation": "Kris", "note": "proper name; 'of Unsaid Names'", "status": "ignored"}
 {"key": "kristof", "word": "Kristof", "translation": "Kristof", "note": "proper name; enforcer NPC", "status": "ignored"}
