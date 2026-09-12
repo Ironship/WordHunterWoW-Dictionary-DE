@@ -15423,7 +15423,7 @@ WordHunterWoW_Dictionary_DE["curgle"] = { word = "Curgle", translation = "Curgle
 WordHunterWoW_Dictionary_DE["currencies"] = { word = "Currencies", translation = "currencies", note = "plural noun; English term" }
 WordHunterWoW_Dictionary_DE["curry"] = { word = "Curry", translation = "curry", note = "spiced dish or powder blend from Indian cuisine" }
 WordHunterWoW_Dictionary_DE["curver"] = { word = "Curver", translation = "Curver", note = "proper name; possibly a ship captain's name; keep unchanged", status = "ignored" }
-WordHunterWoW_Dictionary_DE["custos"] = { word = "Custos", translation = "Custos", note = "Latin term meaning guardian or keeper" }
+WordHunterWoW_Dictionary_DE["custos"] = { word = "Custos", translation = "Custos", note = "Latin term meaning guardian or keeper", status = "ignored" }
 WordHunterWoW_Dictionary_DE["cuthbert"] = { word = "Cuthbert", translation = "Cuthbert", note = "" }
 WordHunterWoW_Dictionary_DE["cuttin"] = { word = "cuttin", translation = "cutting", note = "eye-dialect spelling of cutting, with the final g dropped" }
 WordHunterWoW_Dictionary_DE["cuzolth"] = { word = "Cuzolth", translation = "Cuzolth", note = "proper name", status = "ignored" }
@@ -54294,7 +54294,7 @@ WordHunterWoW_Dictionary_DE["lorenhallwappen"] = { word = "Lorenhallwappen", tra
 WordHunterWoW_Dictionary_DE["lorent"] = { word = "Lorent", translation = "Lorent", note = "" }
 WordHunterWoW_Dictionary_DE["lorenth"] = { word = "Lorenth", translation = "Lorenth", note = "" }
 WordHunterWoW_Dictionary_DE["loreth'aran"] = { word = "Loreth'Aran", translation = "Loreth'Aran", note = "" }
-WordHunterWoW_Dictionary_DE["lorewalker"] = { word = "Lorewalker", translation = "Lorewalker", note = "a title for a keeper or interpreter of history and stories" }
+WordHunterWoW_Dictionary_DE["lorewalker"] = { word = "Lorewalker", translation = "Lorewalker", note = "a title for a keeper or interpreter of history and stories", status = "ignored" }
 WordHunterWoW_Dictionary_DE["lorga"] = { word = "Lorga", translation = "Lorga", note = "" }
 WordHunterWoW_Dictionary_DE["lorgalis"] = { word = "Lorgalis", translation = "Lorgalis", note = "" }
 WordHunterWoW_Dictionary_DE["lorgalis-manuskript"] = { word = "Lorgalis-Manuskript", translation = "Lorgalis manuscript", note = "proper name + manuscript; keep capitals" }
@@ -77379,7 +77379,7 @@ WordHunterWoW_Dictionary_DE["shan'bu"] = { word = "Shan'Bu", translation = "Shan
 WordHunterWoW_Dictionary_DE["shan'buihr"] = { word = "Shan'BuIhr", translation = "Shan'BuIhr", note = "proper name; the current output misread Ihr as English your", status = "ignored" }
 WordHunterWoW_Dictionary_DE["shan'bus"] = { word = "Shan'Bus", translation = "Shan'Bu", note = "" }
 WordHunterWoW_Dictionary_DE["shan'butötet"] = { word = "Shan'BuTötet", translation = "Slay Shan'Bu", note = "likely corrupted text; tötet = kill/slay" }
-WordHunterWoW_Dictionary_DE["shan'do"] = { word = "Shan'do", translation = "Shan'do", note = "Darnassian title/honorific (keeper/trainer), untranslatable in English WoW" }
+WordHunterWoW_Dictionary_DE["shan'do"] = { word = "Shan'do", translation = "Shan'do", note = "Darnassian title/honorific (keeper/trainer), untranslatable in English WoW", status = "ignored" }
 WordHunterWoW_Dictionary_DE["shan'dor"] = { word = "Shan'dor", translation = "Shan'dor", note = "" }
 WordHunterWoW_Dictionary_DE["shan'dorah"] = { word = "Shan'dorah", translation = "Shan'dorah", note = "proper name; leave unchanged", status = "ignored" }
 WordHunterWoW_Dictionary_DE["shan'ze"] = { word = "Shan'ze", translation = "Shan'ze", note = "proper noun: WoW location; not a standard German word", status = "ignored" }

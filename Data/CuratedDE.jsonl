@@ -33429,7 +33429,7 @@
 {"key": "sethria", "word": "Sethria", "translation": "Sethria", "note": "NPC proper name (dragon)", "status": "ignored"}
 {"key": "setzte", "word": "setzte", "translation": "sat; set", "note": "past tense of setzen; context suggests military standing ground"}
 {"key": "shae'lune", "word": "Shae'lune", "translation": "Shae'lune", "note": "NPC proper name (night elf)", "status": "ignored"}
-{"key": "shan'do", "word": "Shan'do", "translation": "Shan'do", "note": "Darnassian title/honorific (keeper/trainer), untranslatable in English WoW"}
+{"key": "shan'do", "word": "Shan'do", "translation": "Shan'do", "note": "Darnassian title/honorific (keeper/trainer), untranslatable in English WoW", "status": "ignored"}
 {"key": "sharnax", "word": "Sharnax", "translation": "Sharnax", "note": "NPC proper name (elemental)", "status": "ignored"}
 {"key": "shattraths", "word": "Shattraths", "translation": "Shattrath", "note": "WoW city name (both singular and plural used); means 'forever exiled' in lore"}
 {"key": "shin", "word": "Shin", "translation": "Shin", "note": "NPC proper name", "status": "ignored"}
@@ -54195,7 +54195,7 @@
 {"key": "culexholz", "word": "Culexholz", "translation": "culex wood", "note": "timber harvested from culex trees"}
 {"key": "cullen", "word": "Cullen", "translation": "Cullen", "note": ""}
 {"key": "curry", "word": "Curry", "translation": "curry", "note": "spiced dish or powder blend from Indian cuisine"}
-{"key": "custos", "word": "Custos", "translation": "Custos", "note": "Latin term meaning guardian or keeper"}
+{"key": "custos", "word": "Custos", "translation": "Custos", "note": "Latin term meaning guardian or keeper", "status": "ignored"}
 {"key": "cuthbert", "word": "Cuthbert", "translation": "Cuthbert", "note": ""}
 {"key": "cyanigosa", "word": "Cyanigosa", "translation": "Cyanigosa", "note": ""}
 {"key": "cyanthesa", "word": "Cyanthesa", "translation": "Cyanthesa", "note": ""}
@@ -80383,7 +80383,7 @@
 {"key": "lieferbursche", "word": "Lieferbursche", "translation": "delivery boy", "note": "compound: Lieferung (delivery) + Bursche (boy or lad)"}
 {"key": "line", "word": "line", "translation": "line", "note": ""}
 {"key": "live", "word": "live", "translation": "live", "note": ""}
-{"key": "lorewalker", "word": "Lorewalker", "translation": "Lorewalker", "note": "a title for a keeper or interpreter of history and stories"}
+{"key": "lorewalker", "word": "Lorewalker", "translation": "Lorewalker", "note": "a title for a keeper or interpreter of history and stories", "status": "ignored"}
 {"key": "loro", "word": "Loro", "translation": "Loro", "note": ""}
 {"key": "losgeworden", "word": "losgeworden", "translation": "got rid of", "note": "participle of loswerden, to get rid of"}
 {"key": "loudly", "word": "loudly", "translation": "loudly", "note": ""}
@@ -86749,7 +86749,7 @@
 {"key": "staubbedeckten", "word": "staubbedeckten", "translation": "dust-covered", "note": "participle adjective: covered in dust"}
 {"key": "staubgefäss", "word": "Staubgefäß", "translation": "stamen", "note": "botanical term; the pollen-bearing part of a flower"}
 {"key": "staubwolke", "word": "Staubwolke", "translation": "cloud of dust", "note": "staub (dust) + Wolke (cloud)"}
-{"key": "steamvault", "word": "Steamvault", "translation": "Steamvault", "note": "english dungeon name; steam + vault"}
+{"key": "steamvault", "word": "Steamvault", "translation": "Steamvault", "note": "english dungeon name; steam + vault", "status": "ignored"}
 {"key": "steelhorn", "word": "Steelhorn", "translation": "Steelhorn", "note": "english proper name in a tracking label", "status": "ignored"}
 {"key": "steinbalgledergeschirr", "word": "Steinbalgledergeschirr", "translation": "Stonehide harness", "note": "steinbalg (stonehide) + Ledergeschirr (leather harness)"}
 {"key": "steinbinderin", "word": "Steinbinderin", "translation": "stone binder", "note": "stein (stone) + Binder (binder); -in marks a feminine title"}
@@ -91048,7 +91048,7 @@
 {"key": "darkcloud", "word": "Darkcloud", "translation": "Darkcloud", "note": ""}
 {"key": "darkfiend", "word": "Darkfiend", "translation": "Darkfiend", "note": ""}
 {"key": "darkhaven", "word": "Darkhaven", "translation": "Darkhaven", "note": ""}
-{"key": "darkmoon", "word": "Darkmoon", "translation": "Darkmoon", "note": "official English name; Darkmoon Carousel keeps Darkmoon unchanged"}
+{"key": "darkmoon", "word": "Darkmoon", "translation": "Darkmoon", "note": "official English name; Darkmoon Carousel keeps Darkmoon unchanged", "status": "ignored"}
 {"key": "darlia", "word": "Darlia", "translation": "Darlia", "note": ""}
 {"key": "darnarian", "word": "Darnarian", "translation": "Darnarian", "note": ""}
 {"key": "darmlos", "word": "darmlos", "translation": "gutless", "note": "darm (gut) + -los (without), literally without guts"}
@@ -94685,7 +94685,7 @@
 {"key": "wissenschaftszeug", "word": "Wissenschaftszeug", "translation": "science stuff; science junk", "note": "compound: Wissenschaft (science) + Zeug (stuff/junk); casual dismissive term"}
 {"key": "wissst", "word": "wissst", "translation": "you know", "note": "verb form: dialectal 2nd person singular of wissen (to know); archaic/stressed"}
 {"key": "wistel", "word": "Wistel", "translation": "Wistel", "note": "proper name (NPC); surname Silverfinger (Silberfinger)", "status": "ignored"}
-{"key": "witchdoctor", "word": "Witchdoctor", "translation": "Witchdoctor", "note": "English compound; appears in English NPC name"}
+{"key": "witchdoctor", "word": "Witchdoctor", "translation": "Witchdoctor", "note": "English compound; appears in English NPC name", "status": "ignored"}
 {"key": "witch's", "word": "Witch's", "translation": "Witch's", "note": "English possessive; appears in English spell/effect name"}
 {"key": "withdraws", "word": "withdraws", "translation": "withdraws", "note": "English verb; appears in English narrative text"}
 {"key": "witherpetal", "word": "Witherpetal", "translation": "Witherpetal", "note": "English proper name (NPC); surname", "status": "ignored"}
