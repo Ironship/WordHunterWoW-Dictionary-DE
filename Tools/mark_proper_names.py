@@ -16,6 +16,11 @@ Plus ONE curator-confirmation gate:
   (NOTE_INCLUDE) without matching a safety exclusion (NOTE_EXCLUDE:
   part-of names, common nouns, loanwords, English common words,
   adjectives, meaning-glosses)
+- Batch 3: note matches character/location/dungeon/raid keyword gates
+  (NOTE_INCLUDE3) without matching NOTE_EXCLUDE (batch-2 patterns plus
+  uncertainty hedges: suggests/possibly/perhaps/unconfirmed/uncertain/
+  maybe/likely). Same base predicates; title/quest/spell/item/ability/
+  profession/pet/misc notes are out of scope until batch 4.
 
 Translated-name pairs (Sturmwind->Stormwind) are never touched.
 Empty-note rows are never auto-marked (German capitalizes all nouns).
@@ -49,6 +54,11 @@ COMMON_SAME_TRANSLATION_DENY = {
     "blade", "clans", "cabal", "huge", "classic", "maid", "scarlet", "paragon",
     "flowerpicker", "roc", "wyrm", "guts", "axe",
     "blanches", "cheddar", "flight", "shady", "wardens", "bursters", "quagmire", "xylem",
+    # Batch-3 audit FPs (issue #1): ranks, common human names, fragments,
+    # technical markers, and item/vehicle/flora notes that passed the gate.
+    "deprecated", "basteldings", "chevalier", "echelon", "korun", "shatter",
+    "ella", "bill", "colin", "brownells", "flor", "zorts", "eggenmeiser",
+    "blat", "rook",
 }
 
 PROPER_PATTERN = re.compile(r"^[A-ZÄÖÜ].*[A-Za-zÄÖÜäöüß'’\-]*$")
@@ -63,10 +73,33 @@ NOTE_INCLUDE = re.compile(
 
 # Batch 2 safety exclusions: notes showing the word is really a common
 # noun, a name fragment, or a glossed English word -- not a standalone name.
+# Extended in batch 3 (issue #1): uncertainty hedges are the main FP driver,
+# plus possessive/plural forms, sounds/exclamations, titles, and glossed
+# common nouns seen in the batch-3 audit.
 NOTE_EXCLUDE = re.compile(
-    r"part of|common noun|loanword"
-    r"|english\s+(word|compound|term|adjective)"
-    r"|\badjective\b|\bmeans\b|\bmeaning\b",
+    r"part of|common noun|loanword|\bcompound\b|\+"
+    r"|english\s+(word|compound|term|adjective|noun|name|location|treasure|source|dungeon)"
+    r"|\badjective\b|\bmeans\b|\bmeaning\b|\bliterally\b|\betymology\b"
+    r"|\bsuggests\b|\bpossibly\b|\bperhaps\b|\bunconfirmed\b"
+    r"|\buncertain\b|\bmaybe\b|\blikely\b"
+    r"|\bunable to confirm\b|\bcannot expand\b|\bnot confirmed\b"
+    r"|\bpossessive\b|\bplural form\b|\bgenitive\b"
+    r"|\babbreviation\b|\bacronym\b"
+    r"|\bimperative\b|\binterjection\b|\bexclamation\b|\blaughter\b|\blaugh\b"
+    r"|\bchuckle\b|\bdialogue\b|\bspeech\b|\bonomatopoeia\b|\bvocalization\b|\bsound-play\b"
+    r"|\btitle\b|\bcommon human name\b|\barchaic\b|\bpoetic\b"
+    r"|\bus spelling\b|\bsmall bed\b"
+    r"|\bshortened title\b|\bare guardians\b|\bofficial .* term\b"
+    r"|\btreasure\b|\bcontraction\b|\bevent label\b|\bcolor\b|\bmaterial\b"
+    r"|\bprevents entry\b|\bloot until\b|\bboom-like\b|\bsound\b"
+    r"|\bappears\b|\bpresumed\b|\benglish text\b",
+    re.IGNORECASE,
+)
+
+# Batch 3: curator note keywords for character/location/dungeon/raid names.
+NOTE_INCLUDE3 = re.compile(
+    r"\bcharacter\b|\blocation\b|\bdungeon\b|\braid\b"
+    r"|\binstance\b|\bcapital\b|\bsettlement\b|\bfortress\b|\bkeep\b|\boutpost\b",
     re.IGNORECASE,
 )
 
@@ -108,12 +141,28 @@ def is_batch2_candidate(word: str, translation: str, note: str) -> bool:
     return True
 
 
+def is_batch3_candidate(word: str, translation: str, note: str) -> bool:
+    """Batch 3: note names a character/location/dungeon/raid role for the entry."""
+    if not base_predicates(word, translation):
+        return False
+    if "proper" in (note or "").lower():
+        return False  # batch 1's domain; keep counts separate
+    if NOTE_INCLUDE.search(note or ""):
+        return False  # batch 2's domain; keep counts separate
+    if not NOTE_INCLUDE3.search(note or ""):
+        return False
+    if NOTE_EXCLUDE.search(note or ""):
+        return False
+    return True
+
+
 def main() -> int:
     check_only = "--check" in sys.argv
     lines = CURATED.read_text(encoding="utf-8").splitlines()
     out_lines = []
     batch1 = 0
     batch2 = 0
+    batch3 = 0
     already_ignored = 0
     for line in lines:
         if not line.strip():
@@ -141,15 +190,22 @@ def main() -> int:
             else:
                 r["status"] = "ignored"  # appended last, order preserved
                 out_lines.append(json.dumps(r, ensure_ascii=False))
+        elif is_batch3_candidate(word, translation, note):
+            batch3 += 1
+            if check_only:
+                out_lines.append(line)
+            else:
+                r["status"] = "ignored"  # appended last, order preserved
+                out_lines.append(json.dumps(r, ensure_ascii=False))
         else:
             out_lines.append(line)
-    added = batch1 + batch2
+    added = batch1 + batch2 + batch3
     if check_only:
-        print(f"would_mark={added} (batch1={batch1} batch2={batch2}) "
+        print(f"would_mark={added} (batch1={batch1} batch2={batch2} batch3={batch3}) "
               f"already_ignored={already_ignored}")
         return 1 if added else 0
     CURATED.write_text("\n".join(out_lines) + "\n", encoding="utf-8")
-    print(f"proper_names_marked={added} (batch1={batch1} batch2={batch2}) "
+    print(f"proper_names_marked={added} (batch1={batch1} batch2={batch2} batch3={batch3}) "
           f"already_ignored={already_ignored} curated_total={len(out_lines)}")
     return 0
 
