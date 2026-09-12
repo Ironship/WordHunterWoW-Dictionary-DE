@@ -45074,7 +45074,7 @@
 {"key": "henkersbeil", "word": "Henkersbeil", "translation": "executioner's axe", "note": "henkel (executioner) + beil (axe); a symbol of execution"}
 {"key": "henne", "word": "Henne", "translation": "hen", "note": ""}
 {"key": "henry", "word": "Henry", "translation": "Henry", "note": ""}
-{"key": "hephaestus", "word": "Hephaestus", "translation": "Hephaestus", "note": ""}
+{"key": "hephaestus", "word": "Hephaestus", "translation": "Hephaestus", "note": "", "status": "ignored"}
 {"key": "herabgelassen", "word": "herabgelassen", "translation": "condescend", "note": "separable verb: herab (down) + lassen (let); to lower oneself"}
 {"key": "herablassen", "word": "herablassen", "translation": "condescend", "note": ""}
 {"key": "herabprasseln", "word": "herabprasseln", "translation": "rain down", "note": ""}
@@ -45363,7 +45363,7 @@
 {"key": "i'll", "word": "I'll", "translation": "I'll", "note": "English contraction; keep as is"}
 {"key": "ibal", "word": "Ibal", "translation": "Ibal", "note": "proper name", "status": "ignored"}
 {"key": "ick", "word": "Ick", "translation": "Ick", "note": ""}
-{"key": "ickoris", "word": "Ickoris", "translation": "Ickoris", "note": ""}
+{"key": "ickoris", "word": "Ickoris", "translation": "Ickoris", "note": "", "status": "ignored"}
 {"key": "idagos", "word": "Idagos", "translation": "Idagos", "note": ""}
 {"key": "identische", "word": "identische", "translation": "identical", "note": ""}
 {"key": "idiotensicher", "word": "idiotensicher", "translation": "foolproof", "note": "literally idiot-safe; built to be resistant to misuse"}
@@ -45371,21 +45371,21 @@
 {"key": "ignax", "word": "Ignax", "translation": "Ignax", "note": ""}
 {"key": "ihretwegen", "word": "ihretwegen", "translation": "because of her", "note": "on her account or for her sake"}
 {"key": "ihrs", "word": "Ihrs", "translation": "Yours", "note": "formal second-person possessive"}
-{"key": "ik'thik", "word": "Ik'thik", "translation": "Ik'thik", "note": ""}
+{"key": "ik'thik", "word": "Ik'thik", "translation": "Ik'thik", "note": "", "status": "ignored"}
 {"key": "ikeyen", "word": "Ikeyen", "translation": "Ikeyen", "note": ""}
 {"key": "ikonischer", "word": "ikonischer", "translation": "more iconic", "note": "comparative form: more iconic than"}
 {"key": "ikzil", "word": "Ikzil", "translation": "Ikzil", "note": ""}
 {"key": "ilinca", "word": "Ilinca", "translation": "Ilinca", "note": ""}
 {"key": "illegal", "word": "illegal", "translation": "illegal", "note": ""}
-{"key": "ilgalar", "word": "Ilgalar", "translation": "Ilgalar", "note": ""}
+{"key": "ilgalar", "word": "Ilgalar", "translation": "Ilgalar", "note": "", "status": "ignored"}
 {"key": "illidaribanns", "word": "Illidaribanns", "translation": "Illidaribanns", "note": ""}
-{"key": "illiona", "word": "Illiona", "translation": "Illiona", "note": ""}
-{"key": "illskar", "word": "Illskar", "translation": "Illskar", "note": ""}
+{"key": "illiona", "word": "Illiona", "translation": "Illiona", "note": "", "status": "ignored"}
+{"key": "illskar", "word": "Illskar", "translation": "Illskar", "note": "", "status": "ignored"}
 {"key": "illusionisten", "word": "Illusionisten", "translation": "illusionists", "note": ""}
 {"key": "imbu", "word": "Imbu", "translation": "Imbu", "note": ""}
 {"key": "immergrün", "word": "Immergrün", "translation": "evergreen", "note": "immer (ever) + grün (green); stays green year-round"}
 {"key": "immerruhsees", "word": "Immerruhsees", "translation": "Lake of Eternal Rest", "note": "immer (eternal) + ruh (rest) + see (lake); a place name"}
-{"key": "immolanth", "word": "Immolanth", "translation": "Immolanth", "note": ""}
+{"key": "immolanth", "word": "Immolanth", "translation": "Immolanth", "note": "", "status": "ignored"}
 {"key": "immunisieren", "word": "Immunisieren", "translation": "immunize", "note": ""}
 {"key": "imperialen", "word": "imperialen", "translation": "imperial", "note": ""}
 {"key": "imperien", "word": "Imperien", "translation": "empires", "note": ""}
@@ -45437,7 +45437,7 @@
 {"key": "irgendwoher", "word": "irgendwoher", "translation": "from somewhere", "note": "irgend (any) + woher (from where)"}
 {"key": "iridiumgeoden", "word": "Iridiumgeoden", "translation": "iridium geodes", "note": "plural of geode; mineral formations containing iridium"}
 {"key": "irisierender", "word": "Irisierender", "translation": "iridescent", "note": "displaying colors that shift like an iris or rainbow"}
-{"key": "irizzar", "word": "Irizzar", "translation": "Irizzar", "note": ""}
+{"key": "irizzar", "word": "Irizzar", "translation": "Irizzar", "note": "", "status": "ignored"}
 {"key": "ironisch", "word": "ironisch", "translation": "ironic", "note": ""}
 {"key": "irreparabel", "word": "irreparabel", "translation": "irreparable", "note": "ir- (not) + reparabel (repairable); beyond repair"}
 {"key": "irreparablen", "word": "irreparablen", "translation": "irreparable", "note": "adjective form: beyond repair"}
@@ -45452,19 +45452,19 @@
 {"key": "isfar", "word": "Isfar", "translation": "Isfar", "note": ""}
 {"key": "ishas", "word": "Ishas", "translation": "Ishas", "note": ""}
 {"key": "iskars", "word": "Iskars", "translation": "Iskars'", "note": "possessive form"}
-{"key": "issliruks", "word": "Issliruks", "translation": "Issliruks", "note": ""}
+{"key": "issliruks", "word": "Issliruks", "translation": "Issliruks", "note": "", "status": "ignored"}
 {"key": "iteration", "word": "Iteration", "translation": "iteration", "note": ""}
-{"key": "ith'rix", "word": "Ith'rix", "translation": "Ith'rix", "note": ""}
+{"key": "ith'rix", "word": "Ith'rix", "translation": "Ith'rix", "note": "", "status": "ignored"}
 {"key": "itoka", "word": "Itoka", "translation": "Itoka", "note": ""}
 {"key": "ivalds", "word": "Ivalds", "translation": "Ivalds", "note": ""}
-{"key": "iverron", "word": "Iverron", "translation": "Iverron", "note": ""}
-{"key": "ix'lar", "word": "Ix'lar", "translation": "Ix'lar", "note": ""}
-{"key": "iz'ken", "word": "Iz'ken", "translation": "Iz'ken", "note": ""}
+{"key": "iverron", "word": "Iverron", "translation": "Iverron", "note": "", "status": "ignored"}
+{"key": "ix'lar", "word": "Ix'lar", "translation": "Ix'lar", "note": "", "status": "ignored"}
+{"key": "iz'ken", "word": "Iz'ken", "translation": "Iz'ken", "note": "", "status": "ignored"}
 {"key": "izzy", "word": "Izzy", "translation": "Izzy", "note": ""}
-{"key": "ja'kuls", "word": "Ja'kuls", "translation": "Ja'kuls", "note": ""}
+{"key": "ja'kuls", "word": "Ja'kuls", "translation": "Ja'kuls", "note": "", "status": "ignored"}
 {"key": "jabari", "word": "Jabari", "translation": "Jabari", "note": ""}
-{"key": "jabra'kan", "word": "Jabra'kan", "translation": "Jabra'kan", "note": ""}
-{"key": "jackson", "word": "Jackson", "translation": "Jackson", "note": ""}
+{"key": "jabra'kan", "word": "Jabra'kan", "translation": "Jabra'kan", "note": "", "status": "ignored"}
+{"key": "jackson", "word": "Jackson", "translation": "Jackson", "note": "", "status": "ignored"}
 {"key": "jacob", "word": "Jacob", "translation": "Jacob", "note": ""}
 {"key": "jacobson", "word": "Jacobson", "translation": "Jacobson", "note": ""}
 {"key": "jadetiger", "word": "Jadetiger", "translation": "jade tiger", "note": "jade (the stone) + tiger; a creature feared for petrification"}
