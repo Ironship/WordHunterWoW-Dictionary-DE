@@ -56388,12 +56388,12 @@
 {"key": "fakt", "word": "Fakt", "translation": "fact", "note": "noun: a true statement; lowercase in English"}
 {"key": "faktor", "word": "Faktor", "translation": "factor", "note": "noun: element contributing to a result; lowercase in English"}
 {"key": "fal'dorei", "word": "Fal'dorei", "translation": "Fal'dorei", "note": ""}
-{"key": "fal'shathil", "word": "Fal'shathil", "translation": "Fal'shathil", "note": ""}
+{"key": "fal'shathil", "word": "Fal'shathil", "translation": "Fal'shathil", "note": "", "status": "ignored"}
 {"key": "fal'zinges", "word": "Fal'zinges", "translation": "Fal'zinges", "note": ""}
-{"key": "fal'zinge", "word": "Fal'zinge", "translation": "Fal'zinge", "note": ""}
+{"key": "fal'zinge", "word": "Fal'zinge", "translation": "Fal'zinge", "note": "", "status": "ignored"}
 {"key": "falathimsees", "word": "Falathimsees", "translation": "Lake Falathim", "note": "proper name: genitiveform; one of WoW's ancient night elf locations"}
-{"key": "faldirs", "word": "Faldirs", "translation": "Faldirs", "note": ""}
-{"key": "faldrottin", "word": "Faldrottin", "translation": "Faldrottin", "note": ""}
+{"key": "faldirs", "word": "Faldirs", "translation": "Faldirs", "note": "", "status": "ignored"}
+{"key": "faldrottin", "word": "Faldrottin", "translation": "Faldrottin", "note": "", "status": "ignored"}
 {"key": "falkenbusch", "word": "Falkenbusch", "translation": "Hawkbush", "note": ""}
 {"key": "falkeneulen", "word": "Falkeneulen", "translation": "hawk owls", "note": "compound: falke (hawk) + eulen (owls); lowercase in English"}
 {"key": "falkenspeer", "word": "Falkenspeer", "translation": "Hawkspear", "note": ""}
@@ -56410,12 +56410,12 @@
 {"key": "fallschirmen", "word": "Fallschirmen", "translation": "parachutes", "note": "compound: fall (fall) + schirmen (shield); plural form"}
 {"key": "fallschreiter", "word": "Fallschreiter", "translation": "Fallstrider", "note": "proper name (ship); currently misspelled in data as Fallstritter"}
 {"key": "fallss", "word": "Fallss", "translation": "if so; should it so happen", "note": "archaic/dialectal contraction of falls (if) + es (it); 'fallss Ihr' = 'if you'"}
-{"key": "falrogh", "word": "Falrogh", "translation": "Falrogh", "note": ""}
+{"key": "falrogh", "word": "Falrogh", "translation": "Falrogh", "note": "", "status": "ignored"}
 {"key": "falsch'n", "word": "falsch'n", "translation": "wrong", "note": "dative/accusative form of falsch with colloquial contraction"}
 {"key": "falschdüse", "word": "Falschdüse", "translation": "wrong nozzle; broken nozzle", "note": "compound: falsch (wrong) + düse (nozzle/jet); likely a person's name in-game; lowercase in English"}
 {"key": "falschem", "word": "falschem", "translation": "wrong", "note": "dative form of falsch"}
 {"key": "falschheit", "word": "Falschheit", "translation": "falsehood; deception", "note": "noun: the quality of being false; lowercase in English"}
-{"key": "falstaav", "word": "Falstaav", "translation": "Falstaav", "note": ""}
+{"key": "falstaav", "word": "Falstaav", "translation": "Falstaav", "note": "", "status": "ignored"}
 {"key": "falter", "word": "Falter", "translation": "butterfly", "note": "noun: winged insect"}
 {"key": "familiar", "word": "familiar", "translation": "familiar; magic companion", "note": "in D&D/fantasy, a magical creature bound to a caster; not 'family' (Familie)"}
 {"key": "familienbande", "word": "Familienbande", "translation": "family ties; family bonds", "note": "compound: familie (family) + bande (bonds/ties)"}
@@ -56478,7 +56478,7 @@
 {"key": "fassungslos", "word": "fassungslos", "translation": "stunned; dumbfounded", "note": "literally 'without composure'"}
 {"key": "fasswerfen", "word": "Fasswerfen", "translation": "barrel throwing", "note": ""}
 {"key": "fasswurf", "word": "Fasswurf", "translation": "barrel toss", "note": ""}
-{"key": "fastrasz", "word": "Fastrasz", "translation": "Fastrasz", "note": ""}
+{"key": "fastrasz", "word": "Fastrasz", "translation": "Fastrasz", "note": "", "status": "ignored"}
 {"key": "fatalen", "word": "fatalen", "translation": "fatal", "note": ""}
 {"key": "faucht", "word": "faucht", "translation": "hisses", "note": "from fauchen (to hiss or snarl)"}
 {"key": "fauchtatzen", "word": "Fauchtatzen", "translation": "hissing paws", "note": "fauchen (hiss) + tatzen (paws)"}
@@ -56498,7 +56498,7 @@
 {"key": "faustgrossen", "word": "faustgroßen", "translation": "fist-sized", "note": "faustgroß (large as a fist) + -en (adjective ending)"}
 {"key": "faustvirtuose", "word": "Faustvirtuose", "translation": "fist virtuoso", "note": "faust (fist) + virtuose (virtuoso); master of unarmed combat"}
 {"key": "fawkes", "word": "Fawkes", "translation": "Fawkes", "note": "NPC name", "status": "ignored"}
-{"key": "fe'tajid", "word": "Fe'tajid", "translation": "Fe'tajid", "note": ""}
+{"key": "fe'tajid", "word": "Fe'tajid", "translation": "Fe'tajid", "note": "", "status": "ignored"}
 {"key": "feasel", "word": "Feasel", "translation": "Feasel", "note": "NPC name", "status": "ignored"}
 {"key": "fechten", "word": "fechten", "translation": "fence; fencing", "note": "from fechten (to fence, the sport); also can mean to steal or pilfer"}
 {"key": "feddich", "word": "feddich", "translation": "ready; done", "note": "dialectal/colloquial form of fertig (ready); nautical dialect"}
@@ -56765,9 +56765,9 @@
 {"key": "findig", "word": "findig", "translation": "resourceful", "note": "adjective: clever, resourceful, inventive"}
 {"key": "findiger", "word": "findiger", "translation": "more resourceful", "note": "comparative form of findig"}
 {"key": "findste", "word": "findste", "translation": "you find", "note": "colloquial present tense of finden (du findest)"}
-{"key": "finduin", "word": "Finduin", "translation": "Finduin", "note": ""}
+{"key": "finduin", "word": "Finduin", "translation": "Finduin", "note": "", "status": "ignored"}
 {"key": "finduins", "word": "Finduins", "translation": "Finduins", "note": ""}
-{"key": "fingelbur", "word": "Fingelbur", "translation": "Fingelbur", "note": ""}
+{"key": "fingelbur", "word": "Fingelbur", "translation": "Fingelbur", "note": "", "status": "ignored"}
 {"key": "fingerartigen", "word": "fingerartigen", "translation": "finger-like", "note": "adjective: resembling fingers in appearance or structure"}
 {"key": "fingerchen", "word": "Fingerchen", "translation": "little fingers", "note": "diminutive of Finger; affectionate or belittling term for small fingers"}
 {"key": "fingerhüten", "word": "Fingerhüten", "translation": "thimbles", "note": "plural of Fingerhut (thimble); used in sewing"}
@@ -56834,17 +56834,17 @@
 {"key": "fixer", "word": "fixer", "translation": "fixed", "note": "adjective: set, determined, or established in place; stationary"}
 {"key": "fixieren", "word": "fixieren", "translation": "fix; track; pinpoint", "note": "to fix in place, to fixate on, or to locate/identify precisely"}
 {"key": "fizzels", "word": "Fizzels", "translation": "Fizzels", "note": ""}
-{"key": "fjarnsk", "word": "Fjarnsk", "translation": "Fjarnsk", "note": ""}
+{"key": "fjarnsk", "word": "Fjarnsk", "translation": "Fjarnsk", "note": "", "status": "ignored"}
 {"key": "fjolriks", "word": "Fjolriks", "translation": "Fjolriks", "note": ""}
 {"key": "fjorde", "word": "Fjorde", "translation": "Fjords", "note": "plural of Fjord; narrow arms of sea between high cliffs"}
 {"key": "fjordhabichte", "word": "Fjordhabichte", "translation": "fjord goshawks", "note": "plural; large raptors found in fjord regions"}
 {"key": "fjordtruthahn", "word": "Fjordtruthahn", "translation": "fjord turkey", "note": "likely a creature or item associated with fjord regions"}
-{"key": "fjorlin", "word": "Fjorlin", "translation": "Fjorlin", "note": ""}
+{"key": "fjorlin", "word": "Fjorlin", "translation": "Fjorlin", "note": "", "status": "ignored"}
 {"key": "flach", "word": "flach", "translation": "flat", "note": "adjective: flat, level, shallow"}
 {"key": "flachere", "word": "flachere", "translation": "flatter", "note": "comparative of flach; flatter or more shallow"}
 {"key": "flacheren", "word": "flacheren", "translation": "flatter", "note": "comparative dative/accusative form of flach"}
 {"key": "flachpfeifen", "word": "Flachpfeifen", "translation": "flat pipes", "note": "pipes with flat profiles or surfaces"}
-{"key": "flachping", "word": "Flachping", "translation": "Flachping", "note": ""}
+{"key": "flachping", "word": "Flachping", "translation": "Flachping", "note": "", "status": "ignored"}
 {"key": "flachzangen", "word": "Flachzangen", "translation": "flat-nose pliers", "note": "pliers with flat gripping surfaces for holding objects"}
 {"key": "flackerflamme", "word": "Flackerflamme", "translation": "flickering flame", "note": "a flame that flickers or wavers; inconstant or unreliable source of light"}
 {"key": "flackernd", "word": "flackernd", "translation": "flickering", "note": "present participle of flackern (to flicker); flickering or wavering"}
@@ -57377,7 +57377,7 @@
 {"key": "furor", "word": "Furor", "translation": "Fury", "note": "book or quest title; from Latin, meaning excitement or uproar"}
 {"key": "furore", "word": "Furore", "translation": "furore", "note": "Italian loanword; a sensation or commotion; used in phrase 'furore machen' (make a splash)"}
 {"key": "fusce", "word": "Fusce", "translation": "Fusce", "note": "Lorem Ipsum placeholder text; Latin filler word"}
-{"key": "fusethrian", "word": "Fusethrian", "translation": "Fusethrian", "note": ""}
+{"key": "fusethrian", "word": "Fusethrian", "translation": "Fusethrian", "note": "", "status": "ignored"}
 {"key": "fusionen", "word": "Fusionen", "translation": "mergers", "note": "plural noun; short for Fusionen und Übernahmen (Mergers and Acquisitions)"}
 {"key": "fusionskerns", "word": "Fusionskerns", "translation": "fusion core", "note": "compound: fusion + core; a reactor core or power unit"}
 {"key": "fussabdruck", "word": "Fußabdruck", "translation": "footprint", "note": "compound: foot + print; a mark left by a foot"}
@@ -57474,8 +57474,8 @@
 {"key": "gakin", "word": "Gakin", "translation": "Gakin", "note": ""}
 {"key": "galaauftritt", "word": "Galaauftritt", "translation": "gala appearance", "note": "compound: gala + appearance; a grand or formal public appearance"}
 {"key": "galaxis", "word": "Galaxis", "translation": "galaxy", "note": "the universe or a large system of stars and celestial bodies"}
-{"key": "galenges", "word": "Galenges", "translation": "Galenges", "note": ""}
-{"key": "galenoris", "word": "Galenoris", "translation": "Galenoris", "note": ""}
+{"key": "galenges", "word": "Galenges", "translation": "Galenges", "note": "", "status": "ignored"}
+{"key": "galenoris", "word": "Galenoris", "translation": "Galenoris", "note": "", "status": "ignored"}
 {"key": "galeone", "word": "Galeone", "translation": "galleon", "note": "large ocean-going sailing ship; borrowed from Spanish galeón"}
 {"key": "galeonen", "word": "Galeonen", "translation": "galleons", "note": "plural of Galeone; large multi-decked sailing vessels"}
 {"key": "galerie", "word": "Galerie", "translation": "gallery", "note": "a collection, exhibition space, or display room; museum or vault"}

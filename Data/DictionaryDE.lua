@@ -25483,19 +25483,19 @@ WordHunterWoW_Dictionary_DE["faktor"] = { word = "Faktor", translation = "factor
 WordHunterWoW_Dictionary_DE["faktoren"] = { word = "Faktoren", translation = "factors; elements", note = "factors that must be balanced or considered" }
 WordHunterWoW_Dictionary_DE["fal'adora"] = { word = "Fal'adora", translation = "Fal'adora", note = "place name" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["fal'dorei"] = { word = "Fal'dorei", translation = "Fal'dorei", note = "" }
-WordHunterWoW_Dictionary_DE["fal'shathil"] = { word = "Fal'shathil", translation = "Fal'shathil", note = "" }
-WordHunterWoW_Dictionary_DE["fal'zinge"] = { word = "Fal'zinge", translation = "Fal'zinge", note = "" }
+WordHunterWoW_Dictionary_DE["fal'shathil"] = { word = "Fal'shathil", translation = "Fal'shathil", note = "", status = "ignored" }
+WordHunterWoW_Dictionary_DE["fal'zinge"] = { word = "Fal'zinge", translation = "Fal'zinge", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["fal'zinges"] = { word = "Fal'zinges", translation = "Fal'zinges", note = "" }
 WordHunterWoW_Dictionary_DE["falanaar"] = { word = "Falanaar", translation = "Falanaar", note = "place name" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["falanaartiefen"] = { word = "Falanaartiefen", translation = "Falanaar depths", note = "" }
 WordHunterWoW_Dictionary_DE["falathimsee"] = { word = "Falathimsee", translation = "Lake Falathim", note = "see = lake; official WoW zone location" }
 WordHunterWoW_Dictionary_DE["falathimsees"] = { word = "Falathimsees", translation = "Lake Falathim", note = "proper name: genitiveform; one of WoW's ancient night elf locations" }
 WordHunterWoW_Dictionary_DE["faldirbucht"] = { word = "Faldirbucht", translation = "Faldir Bay", note = "Faldir + Bucht (bay); geographical location name" }
-WordHunterWoW_Dictionary_DE["faldirs"] = { word = "Faldirs", translation = "Faldirs", note = "" }
+WordHunterWoW_Dictionary_DE["faldirs"] = { word = "Faldirs", translation = "Faldirs", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["faldo"] = { word = "Faldo", translation = "Faldo", note = "" }
 WordHunterWoW_Dictionary_DE["faldreas"] = { word = "Faldreas", translation = "Faldreas", note = "NPC name; cannot confirm official term" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["faldren"] = { word = "Faldren", translation = "Faldren", note = "" }
-WordHunterWoW_Dictionary_DE["faldrottin"] = { word = "Faldrottin", translation = "Faldrottin", note = "" }
+WordHunterWoW_Dictionary_DE["faldrottin"] = { word = "Faldrottin", translation = "Faldrottin", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["falfarren"] = { word = "Falfarren", translation = "Falfarren", note = "proper name; the context does not identify whether it is a person or place", status = "ignored" }
 WordHunterWoW_Dictionary_DE["falfindel"] = { word = "Falfindel", translation = "Falfindel", note = "NPC name" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["falgran"] = { word = "Falgran", translation = "Falgran", note = "NPC name; cannot confirm reference" , status = "ignored" }
@@ -25596,7 +25596,7 @@ WordHunterWoW_Dictionary_DE["falltürkrabblern"] = { word = "Falltürkrabblern",
 WordHunterWoW_Dictionary_DE["falrin"] = { word = "Falrin", translation = "Falrin", note = "NPC name" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["falrins"] = { word = "Falrins", translation = "Falrin's", note = "NPC name, possessive genitive" }
 WordHunterWoW_Dictionary_DE["falris"] = { word = "Falris", translation = "Falris", note = "NPC name; Magister Falris in Shattrath" , status = "ignored" }
-WordHunterWoW_Dictionary_DE["falrogh"] = { word = "Falrogh", translation = "Falrogh", note = "" }
+WordHunterWoW_Dictionary_DE["falrogh"] = { word = "Falrogh", translation = "Falrogh", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["falsch"] = { word = "falsch", translation = "false; incorrect; wrong", note = "common adjective; can mean deceptive (false friend) or erroneous" }
 WordHunterWoW_Dictionary_DE["falsch'n"] = { word = "falsch'n", translation = "wrong", note = "dative/accusative form of falsch with colloquial contraction" }
 WordHunterWoW_Dictionary_DE["falschdüse"] = { word = "Falschdüse", translation = "wrong nozzle; broken nozzle", note = "compound: falsch (wrong) + düse (nozzle/jet); likely a person's name in-game; lowercase in English" }
@@ -25606,7 +25606,7 @@ WordHunterWoW_Dictionary_DE["falschen"] = { word = "falschen", translation = "wr
 WordHunterWoW_Dictionary_DE["falscher"] = { word = "falscher", translation = "false one", note = "nominalized masculine adjective; someone/something false" }
 WordHunterWoW_Dictionary_DE["falsches"] = { word = "Falsches", translation = "wrong", note = "falsch (false); incorrect" }
 WordHunterWoW_Dictionary_DE["falschheit"] = { word = "Falschheit", translation = "falsehood; deception", note = "noun: the quality of being false; lowercase in English" }
-WordHunterWoW_Dictionary_DE["falstaav"] = { word = "Falstaav", translation = "Falstaav", note = "" }
+WordHunterWoW_Dictionary_DE["falstaav"] = { word = "Falstaav", translation = "Falstaav", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["falstad"] = { word = "Falstad", translation = "Falstad", note = "" }
 WordHunterWoW_Dictionary_DE["falten"] = { word = "Falten", translation = "folds", note = "plural of fold; appears here as fabric folds in a cloak" }
 WordHunterWoW_Dictionary_DE["falter"] = { word = "Falter", translation = "butterfly", note = "noun: winged insect" }
@@ -25868,7 +25868,7 @@ WordHunterWoW_Dictionary_DE["fassungslos"] = { word = "fassungslos", translation
 WordHunterWoW_Dictionary_DE["fasswerfen"] = { word = "Fasswerfen", translation = "barrel throwing", note = "" }
 WordHunterWoW_Dictionary_DE["fasswurf"] = { word = "Fasswurf", translation = "barrel toss", note = "" }
 WordHunterWoW_Dictionary_DE["fast"] = { word = "fast", translation = "almost; nearly", note = "" }
-WordHunterWoW_Dictionary_DE["fastrasz"] = { word = "Fastrasz", translation = "Fastrasz", note = "" }
+WordHunterWoW_Dictionary_DE["fastrasz"] = { word = "Fastrasz", translation = "Fastrasz", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["faszination"] = { word = "Faszination", translation = "fascination", note = "compelling interest or allure" }
 WordHunterWoW_Dictionary_DE["faszinieren"] = { word = "faszinieren", translation = "fascinate", note = "infinitive; legitimate translation but unusual in colloquial speech" }
 WordHunterWoW_Dictionary_DE["faszinierend"] = { word = "faszinierend", translation = "fascinating", note = "present participle of faszinieren (to fascinate)" }
@@ -25961,7 +25961,7 @@ WordHunterWoW_Dictionary_DE["favorit"] = { word = "Favorit", translation = "favo
 WordHunterWoW_Dictionary_DE["favoriten"] = { word = "Favoriten", translation = "favorites; favorites", note = "plural of Favorit; those favored to win" }
 WordHunterWoW_Dictionary_DE["fawkes"] = { word = "Fawkes", translation = "Fawkes", note = "NPC name" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["fe"] = { word = "FE", translation = "FE", note = "" }
-WordHunterWoW_Dictionary_DE["fe'tajid"] = { word = "Fe'tajid", translation = "Fe'tajid", note = "" }
+WordHunterWoW_Dictionary_DE["fe'tajid"] = { word = "Fe'tajid", translation = "Fe'tajid", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["fe-feng"] = { word = "Fe-Feng", translation = "Fe-Feng", note = "" }
 WordHunterWoW_Dictionary_DE["fe-feng-angreifer"] = { word = "Fe-Feng-Angreifer", translation = "Fe Feng Attacker", note = "" }
 WordHunterWoW_Dictionary_DE["fearsen"] = { word = "Fearsen", translation = "Fearsen", note = "" }
@@ -27221,7 +27221,7 @@ WordHunterWoW_Dictionary_DE["findig"] = { word = "findig", translation = "resour
 WordHunterWoW_Dictionary_DE["findigen"] = { word = "findigen", translation = "clever; resourceful; inventive", note = "clever, shrewd, inventive; from finding solutions" }
 WordHunterWoW_Dictionary_DE["findiger"] = { word = "findiger", translation = "more resourceful", note = "comparative form of findig" }
 WordHunterWoW_Dictionary_DE["findste"] = { word = "findste", translation = "you find", note = "colloquial present tense of finden (du findest)" }
-WordHunterWoW_Dictionary_DE["finduin"] = { word = "Finduin", translation = "Finduin", note = "" }
+WordHunterWoW_Dictionary_DE["finduin"] = { word = "Finduin", translation = "Finduin", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["finduins"] = { word = "Finduins", translation = "Finduins", note = "" }
 WordHunterWoW_Dictionary_DE["finelar"] = { word = "Finelar", translation = "Finelar", note = "" }
 WordHunterWoW_Dictionary_DE["fineous"] = { word = "Fineous", translation = "Fineous", note = "NPC name (Fineous Darkvire)" , status = "ignored" }
@@ -27229,7 +27229,7 @@ WordHunterWoW_Dictionary_DE["finespindle"] = { word = "Finespindle", translation
 WordHunterWoW_Dictionary_DE["finesse"] = { word = "Finesse", translation = "finesse", note = "from French; delicate skill" }
 WordHunterWoW_Dictionary_DE["finests"] = { word = "finests", translation = "finest", note = "nonstandard extra -s in the source; the intended phrase is one of the finest warriors" }
 WordHunterWoW_Dictionary_DE["fing"] = { word = "fing", translation = "caught", note = "catch in past tense; fangen is 3rd person singular present" }
-WordHunterWoW_Dictionary_DE["fingelbur"] = { word = "Fingelbur", translation = "Fingelbur", note = "" }
+WordHunterWoW_Dictionary_DE["fingelbur"] = { word = "Fingelbur", translation = "Fingelbur", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["fingen"] = { word = "fingen", translation = "caught", note = "past tense of fangen (to catch)" }
 WordHunterWoW_Dictionary_DE["finger"] = { word = "Finger", translation = "finger", note = "noun" }
 WordHunterWoW_Dictionary_DE["fingerabdrücke"] = { word = "Fingerabdrücke", translation = "fingerprints", note = "" }
@@ -27480,7 +27480,7 @@ WordHunterWoW_Dictionary_DE["fizzlebub"] = { word = "Fizzlebub", translation = "
 WordHunterWoW_Dictionary_DE["fizzledowser"] = { word = "Fizzledowser", translation = "Fizzledowser", note = "NPC name" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["fizzles"] = { word = "Fizzles", translation = "Fizzles", note = "" }
 WordHunterWoW_Dictionary_DE["fizzule"] = { word = "Fizzule", translation = "Fizzule", note = "NPC name; gnome Zuchtmeister (breeder master) for Shattered Hand orcs" , status = "ignored" }
-WordHunterWoW_Dictionary_DE["fjarnsk"] = { word = "Fjarnsk", translation = "Fjarnsk", note = "" }
+WordHunterWoW_Dictionary_DE["fjarnsk"] = { word = "Fjarnsk", translation = "Fjarnsk", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["fjarnskaggl"] = { word = "Fjarnskaggl", translation = "Fjarnskaggl", note = "proper noun: herb name", status = "ignored" }
 WordHunterWoW_Dictionary_DE["fjarnskagglbusches"] = { word = "Fjarnskagglbusches", translation = "Fjarnskagglbusches", note = "" }
 WordHunterWoW_Dictionary_DE["fjarnskagglbüschel"] = { word = "Fjarnskagglbüschel", translation = "Fjarnskaggl tufts", note = "büschel means tuft or cluster; Fjarnskaggl is the herb name" }
@@ -27500,7 +27500,7 @@ WordHunterWoW_Dictionary_DE["fjordtruthahn"] = { word = "Fjordtruthahn", transla
 WordHunterWoW_Dictionary_DE["fjordtruthähne"] = { word = "Fjordtruthähne", translation = "Fjord wild turkeys", note = "Truthahn/Truthähne (turkey); plural of Fjord turkey creature" }
 WordHunterWoW_Dictionary_DE["fjordun"] = { word = "Fjordun", translation = "Fjordun", note = "" }
 WordHunterWoW_Dictionary_DE["fjorlag"] = { word = "Fjorlag", translation = "Fjorlag", note = "" }
-WordHunterWoW_Dictionary_DE["fjorlin"] = { word = "Fjorlin", translation = "Fjorlin", note = "" }
+WordHunterWoW_Dictionary_DE["fjorlin"] = { word = "Fjorlin", translation = "Fjorlin", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["fjorn"] = { word = "Fjorn", translation = "Fjorn", note = "character name" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["fjorns"] = { word = "Fjorns", translation = "Fjorns", note = "proper noun; NPC name or location", status = "ignored" }
 WordHunterWoW_Dictionary_DE["fjornson"] = { word = "Fjornson", translation = "Fjornson", note = "" }
@@ -27517,7 +27517,7 @@ WordHunterWoW_Dictionary_DE["flachlandpumas"] = { word = "Flachlandpumas", trans
 WordHunterWoW_Dictionary_DE["flachlandstreuner"] = { word = "Flachlandstreuner", translation = "lowland strays", note = "Flachland (lowland) + Streuner (stray/rover); creatures roaming lowland areas" }
 WordHunterWoW_Dictionary_DE["flachlandstreunerklauen"] = { word = "Flachlandstreunerklauen", translation = "lowland stray claws", note = "flachland (lowland) + streuner (stray) + klauen (claws); creature drop" }
 WordHunterWoW_Dictionary_DE["flachpfeifen"] = { word = "Flachpfeifen", translation = "flat pipes", note = "pipes with flat profiles or surfaces" }
-WordHunterWoW_Dictionary_DE["flachping"] = { word = "Flachping", translation = "Flachping", note = "" }
+WordHunterWoW_Dictionary_DE["flachping"] = { word = "Flachping", translation = "Flachping", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["flachsteigpass"] = { word = "Flachsteigpass", translation = "Flachsteig Pass", note = "" }
 WordHunterWoW_Dictionary_DE["flachzangen"] = { word = "Flachzangen", translation = "flat-nose pliers", note = "pliers with flat gripping surfaces for holding objects" }
 WordHunterWoW_Dictionary_DE["flackerdocht"] = { word = "Flackerdocht", translation = "Flickering wick", note = "flacker=flicker, docht=wick; character/creature name" }
@@ -29915,7 +29915,7 @@ WordHunterWoW_Dictionary_DE["furz"] = { word = "Furz", translation = "fart", not
 WordHunterWoW_Dictionary_DE["fus"] = { word = "Fus", translation = "Fus", note = "proper name; location or geographical feature, appears in 'Fus Teich' (pond)", status = "ignored" }
 WordHunterWoW_Dictionary_DE["fusel"] = { word = "Fusel", translation = "rotgut", note = "cheap or poor quality alcohol" }
 WordHunterWoW_Dictionary_DE["fuselighter"] = { word = "Fuselighter", translation = "Fuselighter", note = "NPC name; fuze + lighter" , status = "ignored" }
-WordHunterWoW_Dictionary_DE["fusethrian"] = { word = "Fusethrian", translation = "Fusethrian", note = "" }
+WordHunterWoW_Dictionary_DE["fusethrian"] = { word = "Fusethrian", translation = "Fusethrian", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["fusionen"] = { word = "Fusionen", translation = "mergers", note = "plural noun; short for Fusionen und Übernahmen (Mergers and Acquisitions)" }
 WordHunterWoW_Dictionary_DE["fusionskern"] = { word = "Fusionskern", translation = "fusion core", note = "fusionskern: fusion + kern (core/nucleus); tech/energy term" }
 WordHunterWoW_Dictionary_DE["fusionskerns"] = { word = "Fusionskerns", translation = "fusion core", note = "compound: fusion + core; a reactor core or power unit" }
@@ -30326,8 +30326,8 @@ WordHunterWoW_Dictionary_DE["galaxien"] = { word = "Galaxien", translation = "ga
 WordHunterWoW_Dictionary_DE["galaxis"] = { word = "Galaxis", translation = "galaxy", note = "the universe or a large system of stars and celestial bodies" }
 WordHunterWoW_Dictionary_DE["galeere"] = { word = "Galeere", translation = "Galley", note = "galeere = galley ship; naval vessel type" }
 WordHunterWoW_Dictionary_DE["galen"] = { word = "Galen", translation = "Galen", note = "proper noun: character name", status = "ignored" }
-WordHunterWoW_Dictionary_DE["galenges"] = { word = "Galenges", translation = "Galenges", note = "" }
-WordHunterWoW_Dictionary_DE["galenoris"] = { word = "Galenoris", translation = "Galenoris", note = "" }
+WordHunterWoW_Dictionary_DE["galenges"] = { word = "Galenges", translation = "Galenges", note = "", status = "ignored" }
+WordHunterWoW_Dictionary_DE["galenoris"] = { word = "Galenoris", translation = "Galenoris", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["galens"] = { word = "Galens", translation = "Galen", note = "" }
 WordHunterWoW_Dictionary_DE["galeone"] = { word = "Galeone", translation = "galleon", note = "large ocean-going sailing ship; borrowed from Spanish galeón" }
 WordHunterWoW_Dictionary_DE["galeonen"] = { word = "Galeonen", translation = "galleons", note = "plural of Galeone; large multi-decked sailing vessels" }
