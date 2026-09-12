@@ -43547,11 +43547,11 @@
 {"key": "elrick", "word": "Elrick", "translation": "Elrick", "note": ""}
 {"key": "elrianne", "word": "Elrianne", "translation": "Elrianne", "note": ""}
 {"key": "elsington", "word": "Elsington", "translation": "Elsington", "note": ""}
-{"key": "elun'alor", "word": "Elun'alor", "translation": "Elun'alor", "note": ""}
+{"key": "elun'alor", "word": "Elun'alor", "translation": "Elun'alor", "note": "", "status": "ignored"}
 {"key": "elynna", "word": "Elynna", "translation": "Elynna", "note": ""}
 {"key": "embleme", "word": "Embleme", "translation": "Emblems", "note": "from emblem; means emblems, symbols, or insignia"}
 {"key": "emery", "word": "Emery", "translation": "Emery", "note": ""}
-{"key": "emorneth", "word": "Emorneth", "translation": "Emorneth", "note": ""}
+{"key": "emorneth", "word": "Emorneth", "translation": "Emorneth", "note": "", "status": "ignored"}
 {"key": "emotionale", "word": "emotionale", "translation": "emotional", "note": "from emotion (emotion); means emotional or of an emotional nature"}
 {"key": "empathie", "word": "Empathie", "translation": "empathy", "note": "from Empathie (empathy); means empathy or emotional understanding"}
 {"key": "empfand", "word": "empfand", "translation": "felt", "note": "separable verb emp+finden; past tense means felt or experienced emotion"}
@@ -43561,7 +43561,7 @@
 {"key": "empfing", "word": "empfing", "translation": "received", "note": "separable verb emp+fangen; past tense means received or caught"}
 {"key": "empfängern", "word": "Empfängern", "translation": "recipients", "note": "plural/dative of Empfänger; means recipients, addressees, or receivers"}
 {"key": "emportrugen", "word": "emportrugen", "translation": "carried up", "note": "separable verb emp+tragen; past tense means carried away or swept up"}
-{"key": "empyrium", "word": "Empyrium", "translation": "Empyrium", "note": ""}
+{"key": "empyrium", "word": "Empyrium", "translation": "Empyrium", "note": "", "status": "ignored"}
 {"key": "empörung", "word": "Empörung", "translation": "indignation", "note": "righteous indignation; elevated/formal word for anger or outrage"}
 {"key": "endende", "word": "endende", "translation": "ending", "note": "present participle of enden (to end), used as adjective; nie endende = never-ending"}
 {"key": "endgültiges", "word": "endgültiges", "translation": "final", "note": "adjective form of endgültig (definitive/final); endgültig = final or definitive"}
@@ -43573,7 +43573,7 @@
 {"key": "engagement", "word": "Engagement", "translation": "engagement", "note": "German loanword in English; means dedication, commitment, or active involvement"}
 {"key": "enkaat", "word": "Enkaat", "translation": "Enkaat", "note": ""}
 {"key": "enohar", "word": "Enohar", "translation": "Enohar", "note": ""}
-{"key": "enstraa", "word": "Enstraa", "translation": "Enstraa", "note": ""}
+{"key": "enstraa", "word": "Enstraa", "translation": "Enstraa", "note": "", "status": "ignored"}
 {"key": "ent-deckungen", "word": "Ent-deckungen", "translation": "discoveries", "note": "compound breakdown: ent- (prefix meaning to uncover) + decken (to cover); hyphenation shows word structure"}
 {"key": "entbehrungen", "word": "Entbehrungen", "translation": "deprivation", "note": "privations or hardships; plural of Entbehrung, from entbehren (to do without)"}
 {"key": "entbindet", "word": "entbindet", "translation": "releases", "note": "separable verb entbinden = to release/free; entbindet von = releases from obligation"}
@@ -43847,7 +43847,7 @@
 {"key": "exzentrischen", "word": "exzentrischen", "translation": "eccentric", "note": "accusative plural adjective or relative form"}
 {"key": "exzentrisches", "word": "exzentrisches", "translation": "eccentric", "note": "neuter singular adjective"}
 {"key": "eykenen", "word": "Eykenen", "translation": "Eykenen", "note": ""}
-{"key": "ezekiel", "word": "Ezekiel", "translation": "Ezekiel", "note": ""}
+{"key": "ezekiel", "word": "Ezekiel", "translation": "Ezekiel", "note": "", "status": "ignored"}
 {"key": "ezgi", "word": "Ezgi", "translation": "Ezgi", "note": ""}
 {"key": "fabulöse", "word": "fabulöse", "translation": "fabulous", "note": ""}
 {"key": "fabulöses", "word": "fabulöses", "translation": "fabulous", "note": "neuter form"}
@@ -43882,7 +43882,7 @@
 {"key": "farbbäder", "word": "Farbbäder", "translation": "Color baths", "note": "can also mean dye baths"}
 {"key": "farbenfrohen", "word": "farbenfrohen", "translation": "colorful", "note": "adjective, plural accusative form"}
 {"key": "farbgebung", "word": "Farbgebung", "translation": "Coloring", "note": "or color scheme, design"}
-{"key": "fareeyas", "word": "Fareeyas", "translation": "Fareeyas", "note": ""}
+{"key": "fareeyas", "word": "Fareeyas", "translation": "Fareeyas", "note": "", "status": "ignored"}
 {"key": "farley", "word": "Farley", "translation": "Farley", "note": "NPC name", "status": "ignored"}
 {"key": "farmland", "word": "Farmland", "translation": "Farmland", "note": "English word in German text"}
 {"key": "farnees", "word": "Farnees", "translation": "Farnees", "note": ""}
@@ -44225,7 +44225,7 @@
 {"key": "füsschen", "word": "Füßchen", "translation": "little feet", "note": "füßchen: diminutive of fuß (foot); small or delicate feet"}
 {"key": "ga", "word": "ga", "translation": "ga", "note": ""}
 {"key": "gaaanz", "word": "Gaaanz", "translation": "very", "note": "gaaanz: emphatic elongated form of ganz (very/quite); intensifier"}
-{"key": "gaardouns", "word": "Gaardouns", "translation": "Gaardouns", "note": ""}
+{"key": "gaardouns", "word": "Gaardouns", "translation": "Gaardouns", "note": "", "status": "ignored"}
 {"key": "gabeln", "word": "Gabeln", "translation": "forks", "note": "gabeln: plural of gabel (fork); but context suggests combat/pikes not utensils"}
 {"key": "gabi", "word": "Gabi", "translation": "Gabi", "note": ""}
 {"key": "gackerbox", "word": "Gackerbox", "translation": "cackle box", "note": "gackerbox: gackern (to cackle) + box; amusing/noisy device"}
@@ -44233,11 +44233,11 @@
 {"key": "gahruj", "word": "Gahruj", "translation": "Gahruj", "note": ""}
 {"key": "gai", "word": "Gai", "translation": "Gai", "note": ""}
 {"key": "gaivan", "word": "Gaivan", "translation": "Gaivan", "note": ""}
-{"key": "galaens", "word": "Galaens", "translation": "Galaens", "note": ""}
+{"key": "galaens", "word": "Galaens", "translation": "Galaens", "note": "", "status": "ignored"}
 {"key": "galan", "word": "Galan", "translation": "Galan", "note": ""}
 {"key": "galana", "word": "Galana", "translation": "Galana", "note": ""}
 {"key": "galens", "word": "Galens", "translation": "Galen", "note": ""}
-{"key": "galgann", "word": "Galgann", "translation": "Galgann", "note": ""}
+{"key": "galgann", "word": "Galgann", "translation": "Galgann", "note": "", "status": "ignored"}
 {"key": "galgar", "word": "Galgar", "translation": "Galgar", "note": ""}
 {"key": "galgars", "word": "Galgars", "translation": "Galgars", "note": ""}
 {"key": "galgen", "word": "Galgen", "translation": "gallows", "note": ""}
@@ -44257,7 +44257,7 @@
 {"key": "garnelen", "word": "Garnelen", "translation": "shrimp", "note": "plural of Garnele; both singular and plural use shrimp in English"}
 {"key": "garrens", "word": "Garrens", "translation": "Garrens", "note": ""}
 {"key": "garrett", "word": "Garrett", "translation": "Garrett", "note": ""}
-{"key": "garrosh'ar", "word": "Garrosh'ar", "translation": "Garrosh'ar", "note": ""}
+{"key": "garrosh'ar", "word": "Garrosh'ar", "translation": "Garrosh'ar", "note": "", "status": "ignored"}
 {"key": "garstiger", "word": "garstiger", "translation": "nastier", "note": "comparative form of garstig (nasty, loathsome)"}
 {"key": "garstigsten", "word": "garstigsten", "translation": "nastiest", "note": "superlative form of garstig (nasty, loathsome)"}
 {"key": "gasextraktor", "word": "Gasextraktor", "translation": "gas extractor", "note": "Gas + Extraktor (machine for extracting gas)"}
@@ -44472,7 +44472,7 @@
 {"key": "gerberei", "word": "Gerberei", "translation": "tannery", "note": "where leather is processed and tanned"}
 {"key": "gerbt", "word": "gerbt", "translation": "tans", "note": "third person singular present of gerben (to tan leather)"}
 {"key": "gerechtem", "word": "gerechtem", "translation": "righteous", "note": "gerechter Zorn = righteous anger, just wrath; not merely fair but morally upright"}
-{"key": "gerenzo", "word": "Gerenzo", "translation": "Gerenzo", "note": ""}
+{"key": "gerenzo", "word": "Gerenzo", "translation": "Gerenzo", "note": "", "status": "ignored"}
 {"key": "gerichts", "word": "Gerichts", "translation": "court", "note": "genitive singular of Gericht (court/trial)"}
 {"key": "gerichtskampf", "word": "Gerichtskampf", "translation": "trial by combat", "note": "judicial duel; Gericht (trial/court) + Kampf (battle); ordeal by combat"}
 {"key": "gerieten", "word": "gerieten", "translation": "got into", "note": "past tense of geraten (to get into); gerieten in Panik = fell into panic"}
@@ -44595,12 +44595,12 @@
 {"key": "gezankt", "word": "gezankt", "translation": "bickered", "note": "from zanken (to bicker); argued over trifles"}
 {"key": "gezeichnetes", "word": "gezeichnetes", "translation": "marked", "note": "from zeichnen (to mark/draw); branded or scarred"}
 {"key": "gezweifelt", "word": "gezweifelt", "translation": "doubted", "note": "from zweifeln (to doubt); questioned or was uncertain"}
-{"key": "gezzarak", "word": "Gezzarak", "translation": "Gezzarak", "note": ""}
+{"key": "gezzarak", "word": "Gezzarak", "translation": "Gezzarak", "note": "", "status": "ignored"}
 {"key": "gezögert", "word": "gezögert", "translation": "hesitated", "note": "from zögern (to hesitate/delay); paused or delayed action"}
 {"key": "gezückter", "word": "gezückter", "translation": "brandished", "note": "from zücken (to draw/pull out); unsheathed or wielded"}
 {"key": "gg", "word": "GG", "translation": "GG", "note": ""}
-{"key": "ghaliri", "word": "Ghaliri", "translation": "Ghaliri", "note": ""}
-{"key": "ghislania", "word": "Ghislania", "translation": "Ghislania", "note": ""}
+{"key": "ghaliri", "word": "Ghaliri", "translation": "Ghaliri", "note": "", "status": "ignored"}
+{"key": "ghislania", "word": "Ghislania", "translation": "Ghislania", "note": "", "status": "ignored"}
 {"key": "ghulknochen", "word": "Ghulknochen", "translation": "ghoul bones", "note": "Ghul (ghoul) + Knochen (bones); skeletal remains"}
 {"key": "ghuul", "word": "Ghuul", "translation": "ghoul", "note": "undead creature; a flesh-eating demon"}
 {"key": "gidwins", "word": "Gidwins", "translation": "Gidwins", "note": ""}
@@ -44639,7 +44639,7 @@
 {"key": "gleitend", "word": "Gleitend", "translation": "sliding", "note": "lowercase; gliding motion or smooth descent"}
 {"key": "gleitflug", "word": "Gleitflug", "translation": "glide", "note": "gleit (glide) + flug (flight)"}
 {"key": "glensera", "word": "Glensera", "translation": "Glensera", "note": ""}
-{"key": "gletscharius", "word": "Gletscharius", "translation": "Gletscharius", "note": ""}
+{"key": "gletscharius", "word": "Gletscharius", "translation": "Gletscharius", "note": "", "status": "ignored"}
 {"key": "glevenwerk", "word": "Glevenwerk", "translation": "Glaiveworks", "note": "official WoW location; corresponds to English glaive"}
 {"key": "glibbs", "word": "Glibbs", "translation": "Glibbs", "note": ""}
 {"key": "glielle", "word": "Glielle", "translation": "Glielle", "note": ""}
@@ -44653,7 +44653,7 @@
 {"key": "glotzaugen", "word": "Glotzaugen", "translation": "Goggle-eyed", "note": "glotzen (stare) + augen (eyes)"}
 {"key": "glr", "word": "glr", "translation": "glr", "note": ""}
 {"key": "glu", "word": "Glu", "translation": "Glu", "note": ""}
-{"key": "glubtok", "word": "Glubtok", "translation": "Glubtok", "note": ""}
+{"key": "glubtok", "word": "Glubtok", "translation": "Glubtok", "note": "", "status": "ignored"}
 {"key": "glutgipfel", "word": "Glutgipfel", "translation": "Ember Peaks", "note": "glut (embers) + gipfel (peak)"}
 {"key": "glutharz", "word": "Glutharz", "translation": "Ember resin", "note": "glut (embers) + harz (resin); hardened lava"}
 {"key": "gluthauer", "word": "Gluthauer", "translation": "Embertusker", "note": "glut (embers) + hauer (tusker)"}
