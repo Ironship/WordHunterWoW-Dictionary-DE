@@ -27708,7 +27708,7 @@
 {"key": "gezüchtet", "word": "gezüchtet", "translation": "bred", "note": "past participle of züchten; selectively developed or raised"}
 {"key": "gierigen", "word": "gierigen", "translation": "greedy", "note": "accusative plural of gierig; avaricious or voracious desire"}
 {"key": "gipfeln", "word": "Gipfeln", "translation": "culminate", "note": "gipfel (peak) + -n; reach the highest point or summit"}
-{"key": "gjallarhorn", "word": "Gjallarhorn", "translation": "Gjallarhorn", "note": "Norse mythology: horn that calls the gods; transliterated directly"}
+{"key": "gjallarhorn", "word": "Gjallarhorn", "translation": "Gjallarhorn", "note": "Norse mythology: horn that calls the gods; transliterated directly", "status": "ignored"}
 {"key": "glorreicher", "word": "glorreicher", "translation": "more glorious", "note": "comparative of glorreich; greater in glory or honor"}
 {"key": "glutstücke", "word": "Glutstücke", "translation": "ember pieces", "note": "glut (embers/glow) + stücke (pieces); fragments of burning wood or coal"}
 {"key": "glühen", "word": "glühen", "translation": "glow", "note": "to glow or radiate heat; noun form describes faint luminescence"}
@@ -27716,7 +27716,7 @@
 {"key": "gnomischen", "word": "gnomischen", "translation": "gnomic", "note": "of or relating to gnomes; gnomische technik = gnomish engineering"}
 {"key": "go'el", "word": "Go'el", "translation": "Go'el", "note": "orc cultural term or proper noun; exact English equivalent unclear", "status": "ignored"}
 {"key": "gong", "word": "Gong", "translation": "gong", "note": "musical percussion instrument; from Malay via Portuguese"}
-{"key": "gormgris", "word": "Gormgris", "translation": "Gormgris", "note": "material or resource name; gormlinge (creatures that produce it)"}
+{"key": "gormgris", "word": "Gormgris", "translation": "Gormgris", "note": "material or resource name; gormlinge (creatures that produce it)", "status": "ignored"}
 {"key": "gracus", "word": "Gracus", "translation": "Gracus", "note": "NPC name; no English translation provided in text", "status": "ignored"}
 {"key": "graue", "word": "Graue", "translation": "grey", "note": "color adjective; used for gray-colored creatures or descriptors"}
 {"key": "grauschlund", "word": "Grauschlund", "translation": "Greymaw", "note": "grau (grey) + schlund (maw/gullet); official WoW location name"}
@@ -27733,7 +27733,7 @@
 {"key": "hagar", "word": "Hagar", "translation": "Hagar", "note": "proper name or place; biblical or lore reference", "status": "ignored"}
 {"key": "halbinsel", "word": "Halbinsel", "translation": "peninsula", "note": "halb (half) + insel (island); land jutting into water"}
 {"key": "half", "word": "half", "translation": "helped", "note": "past tense of helfen (to help); assisted or supported"}
-{"key": "halgrind", "word": "Halgrind", "translation": "Halgrind", "note": "location name; likely Proto-Drake or dragon-related site"}
+{"key": "halgrind", "word": "Halgrind", "translation": "Halgrind", "note": "location name; likely Proto-Drake or dragon-related site", "status": "ignored"}
 {"key": "hallvalor", "word": "Hallvalor", "translation": "Hallvalor", "note": "location name; settlement or landmark", "status": "ignored"}
 {"key": "hammers", "word": "Hammers", "translation": "Hammers", "note": "weapon type or proper name; no literal meaning context", "status": "ignored"}
 {"key": "handfläche", "word": "Handfläche", "translation": "palm", "note": "hand (hand) + fläche (surface/area); the palm of the hand"}
@@ -32648,7 +32648,7 @@
 {"key": "grauenhaften", "word": "grauenhaften", "translation": "dreadful", "note": "accusative form; describes curse or terrible pestilence"}
 {"key": "grausamsten", "word": "grausamsten", "translation": "cruelest", "note": "superlative of grausam (cruel); extreme harshness form"}
 {"key": "grimmig", "word": "grimmig", "translation": "grim", "note": "means fierce or forbidding; Drakkari described as 'grimmig und wild'"}
-{"key": "grimoire", "word": "Grimoire", "translation": "Grimoire", "note": "WoW artifact name; from English/French (book of magic spells)"}
+{"key": "grimoire", "word": "Grimoire", "translation": "Grimoire", "note": "WoW artifact name; from English/French (book of magic spells)", "status": "ignored"}
 {"key": "grobash", "word": "Grobash", "translation": "Grobash", "note": "WoW orc NPC name; military scout/spy in lore", "status": "ignored"}
 {"key": "grollenden", "word": "Grollenden", "translation": "rumbling", "note": "from grollen (to rumble/thunder); present participle for ominous sound"}
 {"key": "grossadmiral", "word": "Großadmiral", "translation": "Grand Admiral", "note": "compound: Groß (grand) + Admiral; high naval rank, not 'Large Admiral'"}
@@ -36156,10 +36156,10 @@
 {"key": "sif", "word": "Sif", "translation": "Sif", "note": "NPC/goddess", "status": "ignored"}
 {"key": "signalisieren", "word": "signalisieren", "translation": "signal", "note": "to signal"}
 {"key": "signilda", "word": "Signilda", "translation": "Signilda", "note": "dwarf NPC", "status": "ignored"}
-{"key": "sigrid", "word": "Sigrid", "translation": "Sigrid", "note": "female name"}
+{"key": "sigrid", "word": "Sigrid", "translation": "Sigrid", "note": "female name", "status": "ignored"}
 {"key": "sij'ta", "word": "Sij'ta", "translation": "Sij'ta", "note": "NPC; shaman", "status": "ignored"}
 {"key": "silas", "word": "Silas", "translation": "Silas", "note": "NPC", "status": "ignored"}
-{"key": "silvia", "word": "Silvia", "translation": "Silvia", "note": "female name"}
+{"key": "silvia", "word": "Silvia", "translation": "Silvia", "note": "female name", "status": "ignored"}
 {"key": "sinistren", "word": "Sinistren", "translation": "Sinistren", "note": "NPC", "status": "ignored"}
 {"key": "sinniert", "word": "sinniert", "translation": "muses", "note": "third-person"}
 {"key": "siouxsie", "word": "Siouxsie", "translation": "Siouxsie", "note": "NPC", "status": "ignored"}
@@ -36351,7 +36351,7 @@
 {"key": "thork", "word": "Thork", "translation": "Thork", "note": "NPC name; goblin", "status": "ignored"}
 {"key": "thorodir", "word": "Thorodir", "translation": "Thorodir", "note": "NPC name; druid", "status": "ignored"}
 {"key": "throm'var", "word": "Throm'var", "translation": "Throm'var", "note": "location name unchanged", "status": "ignored"}
-{"key": "throm-ka", "word": "Throm-Ka", "translation": "Throm-Ka", "note": "greeting/salutation; Horde greeting"}
+{"key": "throm-ka", "word": "Throm-Ka", "translation": "Throm-Ka", "note": "greeting/salutation; Horde greeting", "status": "ignored"}
 {"key": "thrones", "word": "Thrones", "translation": "Thrones", "note": "plural royal seats/thrones"}
 {"key": "thronräuber", "word": "Thronräuber", "translation": "Usurper", "note": "proper noun or creature type name"}
 {"key": "tiefenflossen", "word": "Tiefenflossen", "translation": "Deep fins", "note": "deep ocean dwellers; creatures"}
@@ -37044,7 +37044,7 @@
 {"key": "ai", "word": "Ai", "translation": "Ai", "note": "colloquial interjection"}
 {"key": "ai'twens", "word": "Ai'twens", "translation": "Ai'twens", "note": "cave location", "status": "ignored"}
 {"key": "ajay", "word": "Ajay", "translation": "Ajay", "note": "innkeeper NPC", "status": "ignored"}
-{"key": "aka'magosh", "word": "Aka'Magosh", "translation": "Aka'Magosh", "note": "Horde motto phrase"}
+{"key": "aka'magosh", "word": "Aka'Magosh", "translation": "Aka'Magosh", "note": "Horde motto phrase", "status": "ignored"}
 {"key": "akademischer", "word": "Akademischer", "translation": "Academic", "note": "formal study learning"}
 {"key": "akazi", "word": "Akazi", "translation": "Akazi", "note": "group faction", "status": "ignored"}
 {"key": "akil'zons", "word": "Akil'zons", "translation": "Akil'zons", "note": "possessive form"}
@@ -37428,7 +37428,7 @@
 {"key": "baumriese", "word": "Baumriese", "translation": "treant", "note": "tree-giant; sentient trees in WoW"}
 {"key": "baumstumpf", "word": "Baumstumpf", "translation": "tree stump", "note": "felled tree remains"}
 {"key": "baumstämme", "word": "Baumstämme", "translation": "tree trunks", "note": "fallen logs; plural form"}
-{"key": "baumutter", "word": "Baumutter", "translation": "Baumutter", "note": "name; literally tree-mother"}
+{"key": "baumutter", "word": "Baumutter", "translation": "Baumutter", "note": "name; literally tree-mother", "status": "ignored"}
 {"key": "baunzer", "word": "Baunzer", "translation": "Baunzer", "note": "proper name; NPC character", "status": "ignored"}
 {"key": "bauplatz", "word": "Bauplatz", "translation": "building site", "note": "construction area or location"}
 {"key": "baustelle", "word": "Baustelle", "translation": "construction site", "note": "active building area"}
@@ -37556,7 +37556,7 @@
 {"key": "besorgter", "word": "besorgter", "translation": "worried", "note": "concerned or fearful"}
 {"key": "besorgung", "word": "Besorgung", "translation": "errand", "note": "acquisition task or mission"}
 {"key": "besprühen", "word": "besprühen", "translation": "spray", "note": "disperse liquid as mist"}
-{"key": "bessy", "word": "Bessy", "translation": "Bessy", "note": "animal name; likely cow"}
+{"key": "bessy", "word": "Bessy", "translation": "Bessy", "note": "animal name; likely cow", "status": "ignored"}
 {"key": "bestatten", "word": "bestatten", "translation": "bury", "note": "place in ground or entomb"}
 {"key": "bestaunt", "word": "bestaunt", "translation": "marveled", "note": "gazed with wonder"}
 {"key": "bestechen", "word": "bestechen", "translation": "bribe", "note": "corrupt with money/gifts"}
@@ -37656,7 +37656,7 @@
 {"key": "boni", "word": "Boni", "translation": "bonuses", "note": "artifact power"}
 {"key": "boog", "word": "Boog", "translation": "Boog", "note": "NPC name", "status": "ignored"}
 {"key": "bordin", "word": "Bordin", "translation": "Bordin", "note": "NPC name", "status": "ignored"}
-{"key": "borkus", "word": "Borkus", "translation": "Borkus", "note": "enemy name"}
+{"key": "borkus", "word": "Borkus", "translation": "Borkus", "note": "enemy name", "status": "ignored"}
 {"key": "bosse", "word": "Bosse", "translation": "bosses; leaders", "note": "dungeon encounters"}
 {"key": "bossen", "word": "Bossen", "translation": "bosses", "note": "plural form"}
 {"key": "bosses", "word": "Bosses", "translation": "bosses", "note": "loan word"}
@@ -54233,7 +54233,7 @@
 {"key": "daily", "word": "Daily", "translation": "daily", "note": "English loanword; quest reward category"}
 {"key": "daisy", "word": "Daisy", "translation": "Daisy", "note": "proper name (NPC or animal)", "status": "ignored"}
 {"key": "dal", "word": "Dal", "translation": "Dal", "note": "proper name (furbolg or location)", "status": "ignored"}
-{"key": "dalaranium", "word": "Dalaranium", "translation": "Dalaranium", "note": "crafted metal unique to WoW lore; from Dalaran"}
+{"key": "dalaranium", "word": "Dalaranium", "translation": "Dalaranium", "note": "crafted metal unique to WoW lore; from Dalaran", "status": "ignored"}
 {"key": "dalarankrater", "word": "Dalarankrater", "translation": "Dalaran Crater", "note": "location in WoW; literally dalaran (Dalaran) + krater (crater)"}
 {"key": "dalassen", "word": "dalassen", "translation": "leave there; abandon", "note": "da (there) + lassen (leave); past participle dagelassen"}
 {"key": "dalgan", "word": "Dalgan", "translation": "Dalgan", "note": ""}
@@ -58608,7 +58608,7 @@
 {"key": "gnomidiotin", "word": "Gnomidiotin", "translation": "gnome idiot", "note": "compound; female gnome fool; derogatory term in quest text"}
 {"key": "gnomisch", "word": "Gnomisch", "translation": "Gnomish", "note": "adjective form; relating to gnome culture or language; capitalized as language name"}
 {"key": "gnomisches", "word": "gnomisches", "translation": "gnomic", "note": "adjective form meaning gnome-like or relating to gnomes"}
-{"key": "gnomisium", "word": "Gnomisium", "translation": "Gnomisium", "note": "invented metal/material name; gnome + -ium suffix"}
+{"key": "gnomisium", "word": "Gnomisium", "translation": "Gnomisium", "note": "invented metal/material name; gnome + -ium suffix", "status": "ignored"}
 {"key": "gnomkönig", "word": "Gnomkönig", "translation": "Gnome King", "note": "variant of Gnomenkönig; proper title"}
 {"key": "gnomschrott", "word": "Gnomschrott", "translation": "gnome scrap", "note": "compound of Gnom + Schrott (scrap/junk); broken gnome machinery"}
 {"key": "gnomseelen", "word": "Gnomseelen", "translation": "gnome souls", "note": "compound; plural of gnome soul; spirits of dead gnomes"}
