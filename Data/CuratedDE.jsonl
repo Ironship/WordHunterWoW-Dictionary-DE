@@ -38398,10 +38398,10 @@
 {"key": "füreinander", "word": "füreinander", "translation": "for each other", "note": "für (for) + einander (one another); mutual feeling or action"}
 {"key": "fürwahr", "word": "fürwahr", "translation": "truly", "note": "archaic/poetic; für (for) + wahr (true); verily or indeed"}
 {"key": "ga'nars", "word": "Ga'nars", "translation": "Ga'nars", "note": "Vrykul name; proper name with apostrophe common to Vrykul language", "status": "ignored"}
-{"key": "gahrrons", "word": "Gahrrons", "translation": "Gahrrons", "note": "location name; Gahrron's Grief; possessive form in Vrykul naming"}
+{"key": "gahrrons", "word": "Gahrrons", "translation": "Gahrrons", "note": "location name; Gahrron's Grief; possessive form in Vrykul naming", "status": "ignored"}
 {"key": "gahz'rilla", "word": "Gahz'rilla", "translation": "Gahz'rilla", "note": "aquatic boss creature; draconic/primordial name form", "status": "ignored"}
 {"key": "gaiath", "word": "Gaiath", "translation": "Gaiath", "note": "earth elemental creature name; primordial/draconic name requiring no translation", "status": "ignored"}
-{"key": "galakrond", "word": "Galakrond", "translation": "Galakrond", "note": "ancient progenitor dragon; draconic primordial name; official lore name"}
+{"key": "galakrond", "word": "Galakrond", "translation": "Galakrond", "note": "ancient progenitor dragon; draconic primordial name; official lore name", "status": "ignored"}
 {"key": "galle", "word": "Galle", "translation": "bile", "note": "liquid secreted by liver; gall; bitter substance used in dark rituals"}
 {"key": "galopp", "word": "Galopp", "translation": "gallop", "note": "from Old High German; fast running gait of horses; also used figuratively"}
 {"key": "gammerita", "word": "Gammerita", "translation": "Gammerita", "note": "NPC name; goblin-sounding name; appears unchanged", "status": "ignored"}
@@ -38706,7 +38706,7 @@
 {"key": "greer", "word": "Greer", "translation": "Greer", "note": "NPC name; royal apothecary; proper noun", "status": "ignored"}
 {"key": "gregor", "word": "Gregor", "translation": "Gregor", "note": "dwarf commander NPC; proper name", "status": "ignored"}
 {"key": "greifbar", "word": "greifbar", "translation": "tangible", "note": "tangible; from greifen (to grasp); literally graspable/palpable"}
-{"key": "greifenhorst", "word": "Greifenhorst", "translation": "Greifenhorst", "note": "location name; griffin + roost; Wildhammer dwarves' location"}
+{"key": "greifenhorst", "word": "Greifenhorst", "translation": "Greifenhorst", "note": "location name; griffin + roost; Wildhammer dwarves' location", "status": "ignored"}
 {"key": "greks", "word": "Greks", "translation": "Greks", "note": "dwarf NPC name; possessive 'Grek's'", "status": "ignored"}
 {"key": "grenzenlose", "word": "grenzenlose", "translation": "limitless", "note": "limitless/boundless; Grenze (limit) + los (without)"}
 {"key": "grezzix", "word": "Grezzix", "translation": "Grezzix", "note": "goblin character name; proper noun", "status": "ignored"}
@@ -38770,7 +38770,7 @@
 {"key": "hadim", "word": "Hadim", "translation": "Hadim", "note": "proper NPC name in WoW", "status": "ignored"}
 {"key": "haephus", "word": "Haephus", "translation": "Haephus", "note": "proper NPC name; Kommandant (Commander) title, part of 'Haephus Steinwall'", "status": "ignored"}
 {"key": "haftet", "word": "haftet", "translation": "adheres; sticks to", "note": "false friend — haften means to stick/adhere or be liable; context of flower drawing suggests adhesive property of sap"}
-{"key": "hahaha", "word": "Hahaha", "translation": "Hahaha", "note": "interjection/onomatopoeia for laughter; no translation needed, kept as-is"}
+{"key": "hahaha", "word": "Hahaha", "translation": "Hahaha", "note": "interjection/onomatopoeia for laughter; no translation needed, kept as-is", "status": "ignored"}
 {"key": "haifisch", "word": "Haifisch", "translation": "shark", "note": "compound Hai (shark) + Fisch (fish) — literally 'shark fish' but just means shark"}
 {"key": "hainhüter", "word": "Hainhüter", "translation": "Grovekeeper; Grove Warden", "note": "compound Hain (grove) + Hüter (keeper/warden) — refers to druid concept or ancient tree guardian"}
 {"key": "hakkars", "word": "Hakkars", "translation": "Hakkar's", "note": "possessive/genitive of Hakkar, a god name in WoW lore — plural refers to the god's blood/followers"}
@@ -38816,7 +38816,7 @@
 {"key": "heckt", "word": "heckt", "translation": "schemes; plots; is brewing", "note": "present tense of hecken; false friend — means to scheme or plot, not to hedge"}
 {"key": "heften", "word": "heften", "translation": "attach; latch onto; cling to", "note": "means to fasten or attach; false friend — not specifically 'staple'; here means to follow/latch onto a trail"}
 {"key": "heftiger", "word": "heftiger", "translation": "more violent; more intense; more fierce", "note": "comparative adjective of heftig (violent/intense/fierce) — describes heightened aggression"}
-{"key": "hehe", "word": "Hehe", "translation": "Hehe", "note": "interjection; chuckle or laugh sound; no translation, kept as-is for character speech"}
+{"key": "hehe", "word": "Hehe", "translation": "Hehe", "note": "interjection; chuckle or laugh sound; no translation, kept as-is for character speech", "status": "ignored"}
 {"key": "hehlerware", "word": "Hehlerware", "translation": "stolen goods; fenced goods", "note": "compound Hehler (fence/receiver of stolen goods) + Ware (goods) — illicit merchandise"}
 {"key": "heile", "word": "heile", "translation": "heal; mend", "note": "imperative of heilen (to heal); part of German healing charm phrase 'Heile, heile, Segen' (like 'rub-a-dub-dub')"}
 {"key": "heilendes", "word": "heilendes", "translation": "healing", "note": "present participle used as adjective; neuter singular form describing restorative or therapeutic qualities"}
@@ -39468,7 +39468,7 @@
 {"key": "lockeren", "word": "lockeren", "translation": "loosen", "note": "variant or dialectal form of \"lockern\"; same meaning"}
 {"key": "lockern", "word": "lockern", "translation": "loosen; slacken", "note": "verb; to make less tight; from \"lock\" (slack/loose)"}
 {"key": "logische", "word": "logische", "translation": "logical", "note": "adjective from \"Logik\" (logic); from Greek \"logikos\""}
-{"key": "lohn'goron", "word": "Lohn'goron", "translation": "Lohn'goron", "note": "weapon/item name; changed from \"Wag'goron\" to match input word"}
+{"key": "lohn'goron", "word": "Lohn'goron", "translation": "Lohn'goron", "note": "weapon/item name; changed from \"Wag'goron\" to match input word", "status": "ignored"}
 {"key": "lokra", "word": "Lokra", "translation": "Lokra", "note": "proper name (character/NPC); changed from \"Locra\" to match input", "status": "ignored"}
 {"key": "lonika", "word": "Lonika", "translation": "Lonika", "note": "proper name (NPC); unchanged", "status": "ignored"}
 {"key": "lor'themars", "word": "Lor'themars", "translation": "Lor'themars", "note": "proper name (WoW character, Regent); unchanged", "status": "ignored"}
@@ -39683,7 +39683,7 @@
 {"key": "morgenbrunnen", "word": "Morgenbrunnen", "translation": "Morning Spring", "note": "compound; morgen (morning) + brunnen (spring/fountain); location name"}
 {"key": "morgenhell", "word": "Morgenhell", "translation": "Morgenhell", "note": "NPC name; not translated", "status": "ignored"}
 {"key": "morgenlohe", "word": "Morgenlohe", "translation": "Morgenlohe", "note": "NPC name; not translated", "status": "ignored"}
-{"key": "morgenstern", "word": "Morgenstern", "translation": "Morgenstern", "note": "person's surname; not translated; literally morning star"}
+{"key": "morgenstern", "word": "Morgenstern", "translation": "Morgenstern", "note": "person's surname; not translated; literally morning star", "status": "ignored"}
 {"key": "morgige", "word": "morgige", "translation": "tomorrow's", "note": "adjective form meaning of/for tomorrow; morgige Ernte = tomorrow's harvest, not tomorrow the noun"}
 {"key": "mori", "word": "Mori", "translation": "Mori", "note": "NPC name", "status": "ignored"}
 {"key": "morn", "word": "Morn", "translation": "Morn", "note": "NPC name", "status": "ignored"}
@@ -39700,7 +39700,7 @@
 {"key": "mulis", "word": "Mulis", "translation": "Mules", "note": "plural; pack animals or can be plural of proper noun"}
 {"key": "mullans", "word": "Mullans", "translation": "Mullans", "note": ""}
 {"key": "mullan", "word": "Mullan", "translation": "Mullan", "note": "clan name", "status": "ignored"}
-{"key": "multi-bot", "word": "Multi-Bot", "translation": "Multi-Bot", "note": "mechanical device name; needs hyphen"}
+{"key": "multi-bot", "word": "Multi-Bot", "translation": "Multi-Bot", "note": "mechanical device name; needs hyphen", "status": "ignored"}
 {"key": "mulverick", "word": "Mulverick", "translation": "Mulverick", "note": "NPC name", "status": "ignored"}
 {"key": "murgllgllrugl", "word": "Murgllgllrugl", "translation": "Murgllgllrugl", "note": "murloc speech; nonsense, untranslatable", "status": "ignored"}
 {"key": "murr", "word": "Murr", "translation": "Murr", "note": "NPC name", "status": "ignored"}
@@ -39758,11 +39758,11 @@
 {"key": "narrok", "word": "Narrok", "translation": "Narrok", "note": "NPC name", "status": "ignored"}
 {"key": "narsch", "word": "Narsch", "translation": "Narsh", "note": "NPC name; step on and pull hair = nonsense phrase"}
 {"key": "nasser", "word": "Nasser", "translation": "wetter", "note": "comparative adjective; nasser als nass = wetter than wet; superlative concept"}
-{"key": "natalia", "word": "Natalia", "translation": "Natalia", "note": "person name"}
-{"key": "natalie", "word": "Natalie", "translation": "Natalie", "note": "person name"}
+{"key": "natalia", "word": "Natalia", "translation": "Natalia", "note": "person name", "status": "ignored"}
+{"key": "natalie", "word": "Natalie", "translation": "Natalie", "note": "person name", "status": "ignored"}
 {"key": "nath'raxas", "word": "Nath'raxas", "translation": "Nath'raxas", "note": "creature or NPC name", "status": "ignored"}
 {"key": "natalies", "word": "Natalies", "translation": "Natalie's", "note": "genitive/possessive form"}
-{"key": "nathaniel", "word": "Nathaniel", "translation": "Nathaniel", "note": "person name"}
+{"key": "nathaniel", "word": "Nathaniel", "translation": "Nathaniel", "note": "person name", "status": "ignored"}
 {"key": "navarax", "word": "Navarax", "translation": "Navarax", "note": "NPC name", "status": "ignored"}
 {"key": "naxxanar", "word": "Naxxanar", "translation": "Naxxanar", "note": "raid location; necropolis in WoW", "status": "ignored"}
 {"key": "naz'jar", "word": "Naz'jar", "translation": "Naz'jar", "note": "NPC name; Naga leader", "status": "ignored"}
@@ -39807,7 +39807,7 @@
 {"key": "niederstreckt", "word": "niederstreckt", "translation": "struck down", "note": "past participle; nieder+streckt; killed or laid out on ground"}
 {"key": "niederzumähen", "word": "niederzumähen", "translation": "to cut down", "note": "infinitive form; nieder+zu+mähen; purpose or goal infinitive"}
 {"key": "nikkis", "word": "Nikkis", "translation": "Nikki's", "note": "genitive possessive; belonging to the character Nikki"}
-{"key": "nils", "word": "Nils", "translation": "Nils", "note": "person name"}
+{"key": "nils", "word": "Nils", "translation": "Nils", "note": "person name", "status": "ignored"}
 {"key": "nirgendwohin", "word": "nirgendwohin", "translation": "nowhere", "note": "compound; nirgend (nowhere) + wohin (to where); no destination"}
 {"key": "nishas", "word": "Nishas", "translation": "Nisha's", "note": "genitive possessive; hunting grounds belonging to Nisha"}
 {"key": "nishi", "word": "Nishi", "translation": "Nishi", "note": "NPC or creature name", "status": "ignored"}
@@ -39880,7 +39880,7 @@
 {"key": "omniara", "word": "Omniara", "translation": "Omniara", "note": ""}
 {"key": "only", "word": "only", "translation": "only", "note": ""}
 {"key": "onyxschlange", "word": "Onyxschlange", "translation": "Onyx snake", "note": "compound: Onyx + Schlange (snake); named dragon/beast"}
-{"key": "ooh", "word": "Ooh", "translation": "Ooh", "note": "interjection: exclamation of delight; expression of interest"}
+{"key": "ooh", "word": "Ooh", "translation": "Ooh", "note": "interjection: exclamation of delight; expression of interest", "status": "ignored"}
 {"key": "oostan", "word": "Oostan", "translation": "Oostan", "note": ""}
 {"key": "opferaltar", "word": "Opferaltar", "translation": "sacrificial altar", "note": "compound: Opfer (sacrifice/victim) + Altar (altar); ritual site"}
 {"key": "opferrituale", "word": "Opferrituale", "translation": "Sacrificial rituals", "note": "compound: Opfer (sacrifice) + Rituale (rituals); ceremonies"}
@@ -39945,7 +39945,7 @@
 {"key": "petyoll", "word": "Petyoll", "translation": "Petyoll", "note": "NPC name: Petyoll the Bladewind; double-ll", "status": "ignored"}
 {"key": "pfahl", "word": "Pfahl", "translation": "stake", "note": ""}
 {"key": "pferchen", "word": "Pferchen", "translation": "Cram", "note": ""}
-{"key": "pff", "word": "Pff", "translation": "Pff", "note": "interjection: dismissive sound; expression of skepticism"}
+{"key": "pff", "word": "Pff", "translation": "Pff", "note": "interjection: dismissive sound; expression of skepticism", "status": "ignored"}
 {"key": "pfiffi", "word": "Pfiffi", "translation": "Pfiffi", "note": "NPC name: gnome character; not a translation", "status": "ignored"}
 {"key": "pfirsich", "word": "Pfirsich", "translation": "peach", "note": "noun: peach (fruit); stone fruit; food item"}
 {"key": "pflanzten", "word": "pflanzten", "translation": "planted", "note": "verb past: they planted; past tense action of sowing"}
@@ -40487,7 +40487,7 @@
 {"key": "sonnensang", "word": "Sonnensang", "translation": "Sunsong", "note": "sonnen (sun) + sang (song); location name (farm)"}
 {"key": "sonnenschein", "word": "Sonnenschein", "translation": "sunshine; sunlight", "note": "sonnen (sun) + schein (shine/light); poetic for bright happiness"}
 {"key": "sonnenzorn", "word": "Sonnenzorn", "translation": "Sunfury", "note": "sonnen (sun) + zorn (wrath); WoW Sunfury garrison; official name differs"}
-{"key": "soo", "word": "SOO", "translation": "SOO", "note": "stylized emphatic uppercase; means very/so"}
+{"key": "soo", "word": "SOO", "translation": "SOO", "note": "stylized emphatic uppercase; means very/so", "status": "ignored"}
 {"key": "soo-rahm", "word": "Soo-rahm", "translation": "Soo-rahm", "note": ""}
 {"key": "sooooo", "word": "Sooooo", "translation": "Soooo; so hungry", "note": "stylized elongation of so (so); expresses intensity"}
 {"key": "soren", "word": "Soren", "translation": "Soren", "note": ""}
@@ -41244,7 +41244,7 @@
 {"key": "wankelmütige", "word": "wankelmütige", "translation": "fickle", "note": "from wankel (unsteady) + Mut (courage), inconstant or wavering"}
 {"key": "wappenmarken", "word": "Wappenmarken", "translation": "coat of arms marks", "note": "Wappen (coat of arms/heraldry) + Marken (marks/tokens)"}
 {"key": "waptorfalle", "word": "Waptorfalle", "translation": "Waptor trap", "note": "Waptor (creature name) + Falle (trap)"}
-{"key": "warlords", "word": "Warlords", "translation": "Warlords", "note": "English expansion title"}
+{"key": "warlords", "word": "Warlords", "translation": "Warlords", "note": "English expansion title", "status": "ignored"}
 {"key": "warnam", "word": "Warnam", "translation": "Warnam", "note": ""}
 {"key": "warnte", "word": "warnte", "translation": "warned", "note": "past tense of warnen (to warn)"}
 {"key": "warpenergien", "word": "Warpenergien", "translation": "warp energies", "note": "Warp (from English) + Energien (energies)"}
