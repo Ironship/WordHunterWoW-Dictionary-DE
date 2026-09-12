@@ -29223,8 +29223,8 @@
 {"key": "akutu", "word": "Akutu", "translation": "Akutu", "note": ""}
 {"key": "alcaz", "word": "Alcaz", "translation": "Alcaz", "note": ""}
 {"key": "alexstraszas", "word": "Alexstraszas", "translation": "Alexstraszas", "note": ""}
-{"key": "algeth'ar", "word": "Algeth'ar", "translation": "Algeth'ar", "note": ""}
-{"key": "alonsus", "word": "Alonsus", "translation": "Alonsus", "note": ""}
+{"key": "algeth'ar", "word": "Algeth'ar", "translation": "Algeth'ar", "note": "", "status": "ignored"}
+{"key": "alonsus", "word": "Alonsus", "translation": "Alonsus", "note": "", "status": "ignored"}
 {"key": "amber", "word": "Amber", "translation": "Amber", "note": ""}
 {"key": "amuletts", "word": "Amuletts", "translation": "amulets", "note": "plural form; protective charms"}
 {"key": "anbiete", "word": "anbiete", "translation": "offer", "note": "provide; present for acceptance"}
@@ -29234,7 +29234,7 @@
 {"key": "angesiedelt", "word": "angesiedelt", "translation": "settled", "note": "established residence; made home"}
 {"key": "angetreten", "word": "angetreten", "translation": "entered (service)", "note": "began; commenced work"}
 {"key": "angewidert", "word": "angewidert", "translation": "disgusted", "note": "filled with revulsion"}
-{"key": "angrathar", "word": "Angrathar", "translation": "Angrathar", "note": ""}
+{"key": "angrathar", "word": "Angrathar", "translation": "Angrathar", "note": "", "status": "ignored"}
 {"key": "anhaltspunkte", "word": "Anhaltspunkte", "translation": "clues", "note": "points of reference; evidence to work from"}
 {"key": "anhängerin", "word": "Anhängerin", "translation": "supporter", "note": "female follower; adherent"}
 {"key": "animus", "word": "Animus", "translation": "animus", "note": "principle of life; spirit animating matter"}
@@ -29252,8 +29252,8 @@
 {"key": "anzueignen", "word": "anzueignen", "translation": "to acquire; to master", "note": "to learn and make one's own"}
 {"key": "anzünden", "word": "anzünden", "translation": "light; kindle", "note": "set fire to; ignite"}
 {"key": "apfelwein", "word": "Apfelwein", "translation": "cider", "note": "apple wine; fermented apple beverage"}
-{"key": "ar'tor", "word": "Ar'tor", "translation": "Ar'tor", "note": ""}
-{"key": "ara'lon", "word": "Ara'lon", "translation": "Ara'lon", "note": ""}
+{"key": "ar'tor", "word": "Ar'tor", "translation": "Ar'tor", "note": "", "status": "ignored"}
+{"key": "ara'lon", "word": "Ara'lon", "translation": "Ara'lon", "note": "", "status": "ignored"}
 {"key": "arbeitete", "word": "arbeitete", "translation": "worked", "note": ""}
 {"key": "arg", "word": "arg", "translation": "grievous; severe", "note": "archaic/poetic; deeply wounding or painful"}
 {"key": "argh", "word": "Argh", "translation": "argh", "note": "exclamation of pain or distress"}
@@ -29264,8 +29264,8 @@
 {"key": "arroganz", "word": "Arroganz", "translation": "arrogance", "note": "overbearing pride; haughty behavior"}
 {"key": "aruuna", "word": "Aruuna", "translation": "Aruuna", "note": ""}
 {"key": "asha", "word": "Asha", "translation": "Asha", "note": ""}
-{"key": "ashildir", "word": "Ashildir", "translation": "Ashildir", "note": ""}
-{"key": "astalor", "word": "Astalor", "translation": "Astalor", "note": ""}
+{"key": "ashildir", "word": "Ashildir", "translation": "Ashildir", "note": "", "status": "ignored"}
+{"key": "astalor", "word": "Astalor", "translation": "Astalor", "note": "", "status": "ignored"}
 {"key": "aufeinander", "word": "aufeinander", "translation": "each other; one another", "note": "mutually; in relation to each other"}
 {"key": "auferstanden", "word": "auferstanden", "translation": "risen", "note": "resurrected; come back from the dead"}
 {"key": "aufgegangen", "word": "aufgegangen", "translation": "succeeded; worked out", "note": "turned out successfully; went according to plan"}
@@ -29462,7 +29462,7 @@
 {"key": "eksos", "word": "Eksos", "translation": "Eksos", "note": "proper name", "status": "ignored"}
 {"key": "eliminierung", "word": "Eliminierung", "translation": "elimination", "note": ""}
 {"key": "elitesoldaten", "word": "Elitesoldaten", "translation": "elite soldiers", "note": "literally elite + soldiers"}
-{"key": "en'kilah", "word": "En'kilah", "translation": "En'kilah", "note": ""}
+{"key": "en'kilah", "word": "En'kilah", "translation": "En'kilah", "note": "", "status": "ignored"}
 {"key": "endzeit", "word": "Endzeit", "translation": "end times", "note": "enden (to end) + zeit (time)"}
 {"key": "engstirnig", "word": "engstirnig", "translation": "narrow-minded", "note": "eng (narrow) + stirn (forehead)"}
 {"key": "enthüllung", "word": "Enthüllung", "translation": "revelation", "note": "enthüllen (to unveil) + -ung"}
@@ -29480,7 +29480,7 @@
 {"key": "erahnen", "word": "erahnen", "translation": "sense", "note": "ahnen (to sense); forebode"}
 {"key": "eranog", "word": "Eranog", "translation": "Eranog", "note": ""}
 {"key": "erarbeitet", "word": "erarbeitet", "translation": "earned", "note": "arbeit (work); through labor"}
-{"key": "erazmin", "word": "Erazmin", "translation": "Erazmin", "note": ""}
+{"key": "erazmin", "word": "Erazmin", "translation": "Erazmin", "note": "", "status": "ignored"}
 {"key": "erbracht", "word": "erbracht", "translation": "made", "note": "bringen (to bring); offered"}
 {"key": "erfasst", "word": "erfasst", "translation": "seized", "note": "fassen (to grasp); caught"}
 {"key": "erfinden", "word": "erfinden", "translation": "invent", "note": "finden (to find); create"}
@@ -29934,7 +29934,7 @@
 {"key": "monat", "word": "Monat", "translation": "Month", "note": ""}
 {"key": "moneten", "word": "Moneten", "translation": "dough", "note": "German slang for money; cash or bucks"}
 {"key": "mooswollen", "word": "Mooswollen", "translation": "Moss wool", "note": ""}
-{"key": "mor'bitan", "word": "Mor'Bitan", "translation": "Mor'Bitan", "note": ""}
+{"key": "mor'bitan", "word": "Mor'Bitan", "translation": "Mor'Bitan", "note": "", "status": "ignored"}
 {"key": "morgenhauch", "word": "Morgenhauch", "translation": "Morning breath", "note": ""}
 {"key": "munter", "word": "munter", "translation": "lively", "note": ""}
 {"key": "muskelkraft", "word": "Muskelkraft", "translation": "Muscle strength", "note": ""}
@@ -29953,7 +29953,7 @@
 {"key": "nager", "word": "Nager", "translation": "Rodent", "note": ""}
 {"key": "nahegelegene", "word": "nahegelegene", "translation": "nearby", "note": ""}
 {"key": "naias", "word": "Naias", "translation": "Naias", "note": ""}
-{"key": "naj'kula", "word": "Naj'kula", "translation": "Naj'kula", "note": ""}
+{"key": "naj'kula", "word": "Naj'kula", "translation": "Naj'kula", "note": "", "status": "ignored"}
 {"key": "nebenprodukt", "word": "Nebenprodukt", "translation": "Byproduct", "note": ""}
 {"key": "nethers", "word": "Nethers", "translation": "Nethers", "note": ""}
 {"key": "netten", "word": "netten", "translation": "nice ones", "note": "plural nominalized adjective from nett (nice)"}
@@ -29981,7 +29981,7 @@
 {"key": "ohuna", "word": "Ohuna", "translation": "Ohuna", "note": ""}
 {"key": "oje", "word": "Oje", "translation": "Oh dear", "note": "interjection oh dear, oh my; German expression of dismay"}
 {"key": "okir", "word": "Okir", "translation": "Okir", "note": ""}
-{"key": "okril'lon", "word": "Okril'lon", "translation": "Okril'lon", "note": ""}
+{"key": "okril'lon", "word": "Okril'lon", "translation": "Okril'lon", "note": "", "status": "ignored"}
 {"key": "on", "word": "on", "translation": "on", "note": "English phrase 'on the rocks' (with ice)"}
 {"key": "opale", "word": "Opale", "translation": "Opals", "note": ""}
 {"key": "opfert", "word": "opfert", "translation": "sacrifices", "note": ""}
@@ -30124,7 +30124,7 @@
 {"key": "serevit", "word": "Serevit", "translation": "Serevit", "note": ""}
 {"key": "setzling", "word": "Setzling", "translation": "seedling", "note": ""}
 {"key": "shan", "word": "Shan", "translation": "Shan", "note": ""}
-{"key": "shandaral", "word": "Shandaral", "translation": "Shandaral", "note": ""}
+{"key": "shandaral", "word": "Shandaral", "translation": "Shandaral", "note": "", "status": "ignored"}
 {"key": "she", "word": "She", "translation": "She", "note": ""}
 {"key": "sickert", "word": "sickert", "translation": "seeps", "note": ""}
 {"key": "siegeswall", "word": "Siegeswall", "translation": "Victory Wall", "note": "Sieg (victory) + wall (wall); Victory Wall is location/fortification name"}
@@ -30148,7 +30148,7 @@
 {"key": "springer", "word": "Springer", "translation": "Springer", "note": ""}
 {"key": "sprünge", "word": "Sprünge", "translation": "Jumps", "note": ""}
 {"key": "späht", "word": "späht", "translation": "scouts", "note": "spähen = to scout/spy; context is about searching for artifacts and detecting murlocs"}
-{"key": "sra'vess", "word": "Sra'vess", "translation": "Sra'vess", "note": ""}
+{"key": "sra'vess", "word": "Sra'vess", "translation": "Sra'vess", "note": "", "status": "ignored"}
 {"key": "stabilen", "word": "stabilen", "translation": "stable", "note": ""}
 {"key": "stall", "word": "Stall", "translation": "stall", "note": ""}
 {"key": "stampft", "word": "stampft", "translation": "stomps", "note": ""}
@@ -30181,10 +30181,10 @@
 {"key": "säbelschlund", "word": "Säbelschlund", "translation": "Saber Maw", "note": "Säbel (saber) + schlund (maw/throat); Saber Maw is creature or location name"}
 {"key": "sät", "word": "sät", "translation": "sows", "note": "from säen (to sow); sows discord is the meaning in context"}
 {"key": "südmondruinen", "word": "Südmondruinen", "translation": "South Moon Ruins", "note": "Süd (south) + mond (moon) + ruinen (ruins); South Moon Ruins is location"}
-{"key": "tae'thelan", "word": "Tae'thelan", "translation": "Tae'thelan", "note": ""}
+{"key": "tae'thelan", "word": "Tae'thelan", "translation": "Tae'thelan", "note": "", "status": "ignored"}
 {"key": "taktischer", "word": "taktischer", "translation": "tactical", "note": "comparative form; 'tactical importance' in military context"}
 {"key": "tante", "word": "Tante", "translation": "aunt", "note": ""}
-{"key": "tarecgosa", "word": "Tarecgosa", "translation": "Tarecgosa", "note": ""}
+{"key": "tarecgosa", "word": "Tarecgosa", "translation": "Tarecgosa", "note": "", "status": "ignored"}
 {"key": "tasse", "word": "Tasse", "translation": "cup", "note": ""}
 {"key": "tatze", "word": "Tatze", "translation": "paw", "note": ""}
 {"key": "taunka'le", "word": "Taunka'le", "translation": "Taunka'le", "note": ""}
