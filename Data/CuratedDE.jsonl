@@ -27471,7 +27471,7 @@
 {"key": "auszurüsten", "word": "auszurüsten", "translation": "to equip", "note": "aus- + equip; arm fully"}
 {"key": "auszuwählen", "word": "auszuwählen", "translation": "to select", "note": "aus- + choose; select or pick"}
 {"key": "ballisten", "word": "Ballisten", "translation": "Ballistae", "note": "ballista plural; siege weapon"}
-{"key": "banshees", "word": "Banshees", "translation": "Banshees", "note": "from Irish mythology; wailing spirit"}
+{"key": "banshees", "word": "Banshees", "translation": "Banshees", "note": "from Irish mythology; wailing spirit", "status": "ignored"}
 {"key": "barbaren", "word": "Barbaren", "translation": "Barbarians", "note": "barbarous people; Latin origin"}
 {"key": "barbarischen", "word": "barbarischen", "translation": "barbaric", "note": "barbaric adjective; savage"}
 {"key": "bebt", "word": "bebt", "translation": "trembles", "note": "trembles; shakes or quivers"}
@@ -37763,7 +37763,7 @@
 {"key": "countdown", "word": "Countdown", "translation": "countdown", "note": ""}
 {"key": "cousine", "word": "Cousine", "translation": "cousin", "note": "feminine form; female cousin"}
 {"key": "cr", "word": "Cr", "translation": "Cr", "note": "abbreviation or créole"}
-{"key": "crescendium", "word": "Crescendium", "translation": "Crescendium", "note": "WoW artifact for analyzing rifts"}
+{"key": "crescendium", "word": "Crescendium", "translation": "Crescendium", "note": "WoW artifact for analyzing rifts", "status": "ignored"}
 {"key": "crowleys", "word": "Crowleys", "translation": "Crowley's", "note": ""}
 {"key": "crusade", "word": "Crusade", "translation": "Crusade", "note": "expansion title: Burning Crusade"}
 {"key": "cynegos", "word": "Cynegos", "translation": "Cynegos", "note": ""}
@@ -46798,7 +46798,7 @@
 {"key": "nadun", "word": "Nadun", "translation": "Nadun", "note": ""}
 {"key": "nadur", "word": "Nadur", "translation": "Nadur", "note": ""}
 {"key": "nag", "word": "Nag", "translation": "Nag", "note": ""}
-{"key": "nagahand", "word": "Nagahand", "translation": "Nagahand", "note": "Naga + Hand; presumed WoW location or artifact name"}
+{"key": "nagahand", "word": "Nagahand", "translation": "Nagahand", "note": "Naga + Hand; presumed WoW location or artifact name", "status": "ignored"}
 {"key": "nagahaut", "word": "Nagahaut", "translation": "Naga skin", "note": "Naga (proper race) + Haut (skin); common item/material type"}
 {"key": "nagahexe", "word": "Nagahexe", "translation": "Naga witch", "note": "Naga + Hexe (witch); creature type"}
 {"key": "nagainvasoren", "word": "Nagainvasoren", "translation": "Naga invaders", "note": "Naga + Invasoren (invaders); plural form"}
@@ -59129,7 +59129,7 @@
 {"key": "hacki", "word": "Hacki", "translation": "Hacky", "note": "gnome name, nickname"}
 {"key": "hackschwänze", "word": "Hackschwänze", "translation": "hacktails", "note": "hack (to chop) + schwänze (tails); a type of creature"}
 {"key": "hackten", "word": "hackten", "translation": "hacked", "note": "past tense; hacken = to hack or chop"}
-{"key": "hackvisage", "word": "Hackvisage", "translation": "Hackvisage", "note": "mysterious object or artifact name"}
+{"key": "hackvisage", "word": "Hackvisage", "translation": "Hackvisage", "note": "mysterious object or artifact name", "status": "ignored"}
 {"key": "hadari", "word": "Hadari", "translation": "Hadari", "note": "orc personal name", "status": "ignored"}
 {"key": "hadan", "word": "Hadan", "translation": "Hadan", "note": "location or title (Hadan Khan perhaps)"}
 {"key": "hadere", "word": "hadere", "translation": "quarrel", "note": "haderer = quarreler; hadere may be a specific form"}
@@ -61171,7 +61171,7 @@
 {"key": "kaufrausch", "word": "Kaufrausch", "translation": "buying spree", "note": "compound: buying + frenzy/rush; uncontrolled shopping"}
 {"key": "kaufte", "word": "kaufte", "translation": "bought", "note": "past tense of kaufen (to buy)"}
 {"key": "kaugummis", "word": "Kaugummis", "translation": "chewing gum", "note": "compound: kauen (chew) + Gummi; plural form"}
-{"key": "kauj", "word": "Kauj", "translation": "Kauj", "note": "shaman name"}
+{"key": "kauj", "word": "Kauj", "translation": "Kauj", "note": "shaman name", "status": "ignored"}
 {"key": "kaukau", "word": "Kaukau", "translation": "Kaukau", "note": "mushan (beast) name; beloved animal", "status": "ignored"}
 {"key": "kaukaus", "word": "Kaukaus", "translation": "Kaukau's", "note": "possessive; quest name involving a mushan"}
 {"key": "kaulema", "word": "Kaulema", "translation": "Kaulema", "note": "troll name; powerful ally or enemy", "status": "ignored"}
@@ -76561,8 +76561,8 @@
 {"key": "shattered", "word": "Shattered", "translation": "Shattered", "note": "broken/destroyed location; Scar valley", "status": "ignored"}
 {"key": "shaws", "word": "Shaws", "translation": "Shaw's", "note": "report from dwarf; possessive"}
 {"key": "shaya", "word": "Shaya", "translation": "Shaya", "note": "night elf guard; wounded sentinel"}
-{"key": "stormwind", "word": "Stormwind", "translation": "Stormwind", "note": "English name untranslated in German client; the human capital"}
-{"key": "undercity", "word": "Undercity", "translation": "Undercity", "note": "English name untranslated in German client; the undead capital"}
+{"key": "stormwind", "word": "Stormwind", "translation": "Stormwind", "note": "English name untranslated in German client; the human capital", "status": "ignored"}
+{"key": "undercity", "word": "Undercity", "translation": "Undercity", "note": "English name untranslated in German client; the undead capital", "status": "ignored"}
 {"key": "thunder", "word": "Thunder", "translation": "Thunder", "note": "part of Thunder Bluff name; untranslated English in German client"}
 {"key": "warsongschlucht", "word": "Warsongschlucht", "translation": "Warsong Gulch", "note": "literally Warsong Gorge but official English PvP battleground is Warsong Gulch"}
 {"key": "unverwüstliche", "word": "unverwüstliche", "translation": "indestructible", "note": "adjective; refers to durable armor sets"}
@@ -76615,7 +76615,7 @@
 {"key": "islen", "word": "Islen", "translation": "Islen", "note": "NPC name", "status": "ignored"}
 {"key": "jarkal", "word": "Jarkal", "translation": "Jarkal", "note": "creature type", "status": "ignored"}
 {"key": "jennea", "word": "Jennea", "translation": "Jennea", "note": "human or elf female NPC", "status": "ignored"}
-{"key": "kin'weelay", "word": "Kin'weelay", "translation": "Kin'weelay", "note": "troll name; typically untranslated"}
+{"key": "kin'weelay", "word": "Kin'weelay", "translation": "Kin'weelay", "note": "troll name; typically untranslated", "status": "ignored"}
 {"key": "kissel", "word": "Kissel", "translation": "Kissel", "note": "orc NPC", "status": "ignored"}
 {"key": "lagrave", "word": "Lagrave", "translation": "Lagrave", "note": "location name", "status": "ignored"}
 {"key": "maleb", "word": "Maleb", "translation": "Maleb", "note": "NPC name", "status": "ignored"}
@@ -97534,7 +97534,7 @@
 {"key": "hoppelkoller", "word": "Hoppelkoller", "translation": "Hop-fever", "note": "creature name; hoppel + koller (madness/fever); playful naming"}
 {"key": "hopping", "word": "Hopping", "translation": "Hopping", "note": "English gerund; action of moving by hops"}
 {"key": "hopszunehmen", "word": "hopszunehmen", "translation": "pick on; hassle", "note": "non-standard formation; means to give someone trouble or grief"}
-{"key": "horddruc", "word": "Horddruc", "translation": "Horddruc", "note": "NPC name; no standard German meaning"}
+{"key": "horddruc", "word": "Horddruc", "translation": "Horddruc", "note": "NPC name; no standard German meaning", "status": "ignored"}
 {"key": "hordeanführern", "word": "Hordeanführern", "translation": "Horde leaders", "note": "horde + anführern (leaders); dative plural or genitive"}
 {"key": "hordeaktivität", "word": "Hordeaktivität", "translation": "Horde activity", "note": "horde + aktivität (activity); military or hostile presence"}
 {"key": "hordebedrohung", "word": "Hordebedrohung", "translation": "Horde threat", "note": "horde + bedrohung (threat/menace); danger to opposing faction"}
@@ -98524,7 +98524,7 @@
 {"key": "kekeks", "word": "Kekeks", "translation": "Kekeks", "note": "character name; also means cookies (Keks singular, Kekse plural, but Kekeks is proper noun", "status": "ignored"}
 {"key": "keksen", "word": "Keksen", "translation": "cookies", "note": "Keks = cookie; -en plural form; note the regional/dialect variant spelling"}
 {"key": "kel'danath's", "word": "Kel'danath's", "translation": "Kel'danath's", "note": "possessive of proper name", "status": "ignored"}
-{"key": "kel'delar", "word": "Kel'delar", "translation": "Kel'delar", "note": "treasure location name"}
+{"key": "kel'delar", "word": "Kel'delar", "translation": "Kel'delar", "note": "treasure location name", "status": "ignored"}
 {"key": "kel'istra", "word": "Kel'istra", "translation": "Kel'istra", "note": "NPC name", "status": "ignored"}
 {"key": "kel'tariss", "word": "Kel'tariss", "translation": "Kel'tariss", "note": "NPC name", "status": "ignored"}
 {"key": "kel'thuzad's", "word": "Kel'Thuzad's", "translation": "Kel'Thuzad's", "note": "possessive of prominent lore figure"}
@@ -98801,7 +98801,7 @@
 {"key": "knarzklauenmystiker", "word": "Knarzklauenmystiker", "translation": "Creak-claw Mystic", "note": "furbolg mystic variant with creaking claw emphasis"}
 {"key": "knatschi", "word": "Knatschi", "translation": "Knatschi", "note": "NPC name; G.O.L.E.M. pilot or local in Bottichwerks", "status": "ignored"}
 {"key": "knattert", "word": "knattert", "translation": "clatters; rattles; stammers", "note": "present tense of knattern; describes mechanical or electrical noise"}
-{"key": "knatzelkuppe", "word": "Knatzelkuppe", "translation": "Knatzelkuppe", "note": "location name; unclear etymology; likely hill or landmark"}
+{"key": "knatzelkuppe", "word": "Knatzelkuppe", "translation": "Knatzelkuppe", "note": "location name; unclear etymology; likely hill or landmark", "status": "ignored"}
 {"key": "knausrig", "word": "knausrig", "translation": "stingy; miserly", "note": "colloquial adjective; urges generosity with village supplies"}
 {"key": "knauser", "word": "Knauser", "translation": "Knauser", "note": "NPC name; variant of knausrig (stingy person)", "status": "ignored"}
 {"key": "knebel", "word": "Knebel", "translation": "gag; muzzle", "note": "knebel (gag/restraint); silences or prevents speech; physical restraint"}
@@ -100733,7 +100733,7 @@
 {"key": "mid-season", "word": "Mid-Season", "translation": "Mid-season", "note": "English gaming/sports term; unchanged"}
 {"key": "mieskamp", "word": "Mieskamp", "translation": "Mieskamp", "note": "NPC name (N. D. Mieskamp)", "status": "ignored"}
 {"key": "miesmuschel", "word": "Miesmuschel", "translation": "mussel", "note": "specifically a blue mussel; edible shellfish"}
-{"key": "miesmut", "word": "Miesmut", "translation": "Miesmut", "note": "NPC name meaning grumpiness or moodiness; used as character name"}
+{"key": "miesmut", "word": "Miesmut", "translation": "Miesmut", "note": "NPC name meaning grumpiness or moodiness; used as character name", "status": "ignored"}
 {"key": "miesmuts", "word": "Miesmuts", "translation": "Miesmut's", "note": "possessive form of NPC name Miesmut"}
 {"key": "mieter", "word": "Mieter", "translation": "tenant", "note": "means renter or leaseholder; one who rents property"}
 {"key": "mietchopper", "word": "Mietchopper", "translation": "rental chopper", "note": "compound: miet (rental) + chopper; motorcycle or helicopter for hire"}
@@ -101024,7 +101024,7 @@
 {"key": "monumentstein", "word": "Monumentstein", "translation": "monument stone", "note": "compound: monument + stein (stone); inscribed crafted item"}
 {"key": "moonfall", "word": "Moonfall", "translation": "Moonfall", "note": "English proper location name; zone or landmark", "status": "ignored"}
 {"key": "mooncrush", "word": "Mooncrush", "translation": "Mooncrush", "note": "English vignette location; WoW treasure or point of interest"}
-{"key": "moonrest", "word": "Moonrest", "translation": "Moonrest", "note": "English location name in Val'sharah; treasure location"}
+{"key": "moonrest", "word": "Moonrest", "translation": "Moonrest", "note": "English location name in Val'sharah; treasure location", "status": "ignored"}
 {"key": "moonshine", "word": "moonshine", "translation": "moonshine", "note": "English word; illicit alcohol; appears in English quest dialogue"}
 {"key": "moonshadow", "word": "Moonshadow", "translation": "Moonshadow", "note": "English proper name; NPC or follower", "status": "ignored"}
 {"key": "moonwell's", "word": "moonwell's", "translation": "moonwell's", "note": "English possessive; WoW location fixture"}
@@ -105237,7 +105237,7 @@
 {"key": "sinkenden", "word": "sinkenden", "translation": "sinking", "note": "present participle of sinken; water levels dropping at Umbrafenn Lake"}
 {"key": "sinker", "word": "Sinker", "translation": "Hook & Sinker", "note": "hook and sinker; fishing reference"}
 {"key": "sinnloser", "word": "sinnloser", "translation": "senseless; pointless", "note": "comparative of sinnlos; Master Bu laments waste of life and purpose"}
-{"key": "sinoks", "word": "Sinoks", "translation": "Sinoks", "note": "dragon name; key fragment bearer in Zaralek"}
+{"key": "sinoks", "word": "Sinoks", "translation": "Sinoks", "note": "dragon name; key fragment bearer in Zaralek", "status": "ignored"}
 {"key": "sinnvollere", "word": "sinnvollere", "translation": "more meaningful; more sensible", "note": "comparative of sinnvoll; Furorion and Sabellian waste energy on argument"}
 {"key": "sins", "word": "sins", "translation": "sins", "note": ""}
 {"key": "sinruna", "word": "Sinruna", "translation": "Sinruna", "note": "flier who repeatedly falls; hard-learned lessons"}
@@ -105984,7 +105984,7 @@
 {"key": "stolzmut", "word": "Stolzmut", "translation": "proud heart; proud spirit", "note": "Mut (courage/heart): combines pride and bravery in a name"}
 {"key": "stompalupagus", "word": "Stompalupagus", "translation": "Stompalupagus", "note": "creature name", "status": "ignored"}
 {"key": "stonespite", "word": "Stonespite", "translation": "Stonespite", "note": "English creature name", "status": "ignored"}
-{"key": "stonedark", "word": "Stonedark", "translation": "Stonedark", "note": "English location name"}
+{"key": "stonedark", "word": "Stonedark", "translation": "Stonedark", "note": "English location name", "status": "ignored"}
 {"key": "stooker", "word": "Stooker", "translation": "Stooker", "note": "English NPC name", "status": "ignored"}
 {"key": "stopfe", "word": "stopfe", "translation": "stuff; cram; plug", "note": "imperative of stopfen; to fill or pack tightly"}
 {"key": "stopfwansts", "word": "Stopfwansts", "translation": "Stopfwanst; bloated stuffers", "note": "creature name: Stopf (stuff) + Wanst (belly)"}
@@ -106225,7 +106225,7 @@
 {"key": "sumpfwächter", "word": "Sumpfwächter", "translation": "Swamp Guardian", "note": "compound: sumpf (swamp) + wächter (guardian); NPC or pacified creature"}
 {"key": "sunas", "word": "Sunas", "translation": "Sunas", "note": "NPC/character name; proper noun", "status": "ignored"}
 {"key": "sunbreeze", "word": "Sunbreeze", "translation": "Sunbreeze", "note": "English treasure/vignette name; location or item"}
-{"key": "sundered", "word": "Sundered", "translation": "Sundered", "note": "English treasure name; appears to be location name Sundered Shoals"}
+{"key": "sundered", "word": "Sundered", "translation": "Sundered", "note": "English treasure name; appears to be location name Sundered Shoals", "status": "ignored"}
 {"key": "sunclaw", "word": "Sunclaw", "translation": "Sunclaw", "note": "English vignette name; proper location name", "status": "ignored"}
 {"key": "sundersong", "word": "Sundersong", "translation": "Sundersong", "note": "English treasure/location name; proper noun", "status": "ignored"}
 {"key": "sunfire", "word": "Sunfire", "translation": "Sunfire", "note": "English ability/item name; proper noun", "status": "ignored"}
