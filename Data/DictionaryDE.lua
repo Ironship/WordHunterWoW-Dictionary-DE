@@ -4991,7 +4991,7 @@ WordHunterWoW_Dictionary_DE["arktische"] = { word = "arktische", translation = "
 WordHunterWoW_Dictionary_DE["arktischen"] = { word = "arktischen", translation = "arctic", note = "dative plural adjective" }
 WordHunterWoW_Dictionary_DE["arktischer"] = { word = "arktischer", translation = "arctic", note = "arctic/polar; describes wolf mount type" }
 WordHunterWoW_Dictionary_DE["arktishasen"] = { word = "Arktishasen", translation = "Arctic hares", note = "rabbits adapted to cold regions; Arktis (Arctic) + Hasen (hares)" }
-WordHunterWoW_Dictionary_DE["arkus"] = { word = "Arkus", translation = "Arkus", note = "structure name in Suramar; literally means 'arch' or 'bow'" }
+WordHunterWoW_Dictionary_DE["arkus"] = { word = "Arkus", translation = "Arkus", note = "structure name in Suramar; literally means 'arch' or 'bow'", status = "ignored" }
 WordHunterWoW_Dictionary_DE["arkusformer"] = { word = "Arkusformer", translation = "Arcshaper", note = "the WoW title is Arcshaper, from Arkus (arc) + Former (shaper)" }
 WordHunterWoW_Dictionary_DE["arkusformers"] = { word = "Arkusformers", translation = "Arcshaper's", note = "genitive form of Arkusformer; the WoW title is Arcshaper" }
 WordHunterWoW_Dictionary_DE["arkusgewölbe"] = { word = "Arkusgewölbe", translation = "Arcane Vault", note = "compound: Arkus (arch/arc) + Gewölbe (vault); magical storage vault or structure" }
@@ -8098,7 +8098,7 @@ WordHunterWoW_Dictionary_DE["azir"] = { word = "Azir", translation = "Azir", not
 WordHunterWoW_Dictionary_DE["azj'kahet"] = { word = "Azj'Kahet", translation = "Azj'Kahet", note = "official WoW place name; no literal translation is established here" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["azj'tordin"] = { word = "Azj'Tordin", translation = "Azj'Tordin", note = "" }
 WordHunterWoW_Dictionary_DE["azj'tordin's"] = { word = "Azj'Tordin's", translation = "Azj'Tordin's", note = "" }
-WordHunterWoW_Dictionary_DE["azj-kahet"] = { word = "Azj-Kahet", translation = "Azj-Kahet", note = "Nerubian city name in Nerub-ar; no literal meaning" }
+WordHunterWoW_Dictionary_DE["azj-kahet"] = { word = "Azj-Kahet", translation = "Azj-Kahet", note = "Nerubian city name in Nerub-ar; no literal meaning", status = "ignored" }
 WordHunterWoW_Dictionary_DE["azj-kahet-slumhai"] = { word = "Azj-Kahet-Slumhai", translation = "Azj-Kahet slum shark", note = "compound: Azj-Kahet + Slumhai (slum shark); the official English name is not confirmed" }
 WordHunterWoW_Dictionary_DE["azj-kahets"] = { word = "Azj-Kahets", translation = "Azj-Kahets", note = "" }
 WordHunterWoW_Dictionary_DE["azjakir"] = { word = "Azjakir", translation = "Azjakir", note = "" }
@@ -17914,7 +17914,7 @@ WordHunterWoW_Dictionary_DE["dragon"] = { word = "Dragon", translation = "Dragon
 WordHunterWoW_Dictionary_DE["dragoner"] = { word = "Dragoner", translation = "dragoon", note = "mounted infantry soldier" }
 WordHunterWoW_Dictionary_DE["dragonern"] = { word = "Dragonern", translation = "Dragoons", note = "German dative plural of the borrowed military term Dragoon" }
 WordHunterWoW_Dictionary_DE["dragoneye"] = { word = "Dragoneye", translation = "Dragoneye", note = "" }
-WordHunterWoW_Dictionary_DE["dragonflight"] = { word = "Dragonflight", translation = "Dragonflight", note = "official expansion name" }
+WordHunterWoW_Dictionary_DE["dragonflight"] = { word = "Dragonflight", translation = "Dragonflight", note = "official expansion name", status = "ignored" }
 WordHunterWoW_Dictionary_DE["dragonmaw"] = { word = "Dragonmaw", translation = "Dragonmaw", note = "orc clan; sky-based invaders" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["dragul"] = { word = "Dragul", translation = "Dragul", note = "" }
 WordHunterWoW_Dictionary_DE["dragurstaub"] = { word = "Dragurstaub", translation = "drag dust", note = "dragur (Norse undead) + staub (dust); uncertain etymology" }
@@ -47174,7 +47174,7 @@ WordHunterWoW_Dictionary_DE["khartut"] = { word = "Khartut", translation = "Khar
 WordHunterWoW_Dictionary_DE["khasar"] = { word = "Khasar", translation = "Khasar", note = "proper name; NPC Hufschmiedin (farrier); context shows mistranslation of Khasar as 'Khazar'; keep Khasar", status = "ignored" }
 WordHunterWoW_Dictionary_DE["khatie"] = { word = "Khatie", translation = "Khatie", note = "NPC name" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["khay'ji"] = { word = "Khay'ji", translation = "Khay'ji", note = "npc name" , status = "ignored" }
-WordHunterWoW_Dictionary_DE["khaz"] = { word = "Khaz", translation = "Khaz", note = "untranslatable; dwarvish speech (fantasy language)" }
+WordHunterWoW_Dictionary_DE["khaz"] = { word = "Khaz", translation = "Khaz", note = "untranslatable; dwarvish speech (fantasy language)", status = "ignored" }
 WordHunterWoW_Dictionary_DE["khaz'gorischen"] = { word = "khaz'gorischen", translation = "Khaz'modan", note = "dwarf region; khaz'modan = dwarven fortress" }
 WordHunterWoW_Dictionary_DE["khaz'gorischer"] = { word = "khaz'gorischer", translation = "Khaz'gorite", note = "the material adjective refers to Khaz'gorite; context supplies the anvil" }
 WordHunterWoW_Dictionary_DE["khaz'goritdraht"] = { word = "Khaz'goritdraht", translation = "Khaz'gorite wire", note = "khaz'gorite + draht (wire)" }
@@ -50515,7 +50515,7 @@ WordHunterWoW_Dictionary_DE["kronn"] = { word = "Kronn", translation = "Kronn", 
 WordHunterWoW_Dictionary_DE["kronnus"] = { word = "Kronnus", translation = "Kronnus", note = "proper name; NPC at Kriegsspeer (Spear of War)", status = "ignored" }
 WordHunterWoW_Dictionary_DE["kronprinz"] = { word = "Kronprinz", translation = "Crown Prince", note = "heir to a throne; official title" }
 WordHunterWoW_Dictionary_DE["krons"] = { word = "Krons", translation = "Krons", note = "" }
-WordHunterWoW_Dictionary_DE["kronsteig"] = { word = "Kronsteig", translation = "Kronsteig", note = "house name; Crown Path or Crown Trail" }
+WordHunterWoW_Dictionary_DE["kronsteig"] = { word = "Kronsteig", translation = "Kronsteig", note = "house name; Crown Path or Crown Trail", status = "ignored" }
 WordHunterWoW_Dictionary_DE["kronsteiganwesen"] = { word = "Kronsteiganwesen", translation = "Kronsteig Estate", note = "WoW location; compound of location + anwesen (estate/property)" }
 WordHunterWoW_Dictionary_DE["kronsteiganwesens"] = { word = "Kronsteiganwesens", translation = "Kronsteig estate", note = "kronsteig (place name) + anwesens (genitive of estate/property)" }
 WordHunterWoW_Dictionary_DE["kronsteigmädchen"] = { word = "Kronsteigmädchen", translation = "Kronsteig Girl", note = "Kronsteig (location) + mädchen (girl); NPC name" }
@@ -54203,7 +54203,7 @@ WordHunterWoW_Dictionary_DE["lohrumns"] = { word = "Lohrumns", translation = "Lo
 WordHunterWoW_Dictionary_DE["lok"] = { word = "Lok", translation = "Lok", note = "proper name: creature/NPC; not \"locomotive\"", status = "ignored" }
 WordHunterWoW_Dictionary_DE["lok'lira"] = { word = "Lok'lira", translation = "Lok'lira", note = "" }
 WordHunterWoW_Dictionary_DE["lok'liras"] = { word = "Lok'liras", translation = "Lok'liras", note = "" }
-WordHunterWoW_Dictionary_DE["lok'tar"] = { word = "Lok'tar", translation = "Lok'tar", note = "orcish war cry; means Victory or Death" }
+WordHunterWoW_Dictionary_DE["lok'tar"] = { word = "Lok'tar", translation = "Lok'tar", note = "orcish war cry; means Victory or Death", status = "ignored" }
 WordHunterWoW_Dictionary_DE["lok-rath"] = { word = "Lok-rath", translation = "Lok-rath", note = "" }
 WordHunterWoW_Dictionary_DE["lok-tar"] = { word = "Lok-tar", translation = "Lok-tar", note = "Orcish battle cry/greeting; means victory" }
 WordHunterWoW_Dictionary_DE["lokago"] = { word = "Lokago", translation = "Lokago", note = "creature/NPC name" , status = "ignored" }
@@ -54252,7 +54252,7 @@ WordHunterWoW_Dictionary_DE["loolas"] = { word = "Loolas", translation = "Loolas
 WordHunterWoW_Dictionary_DE["loom'ithar"] = { word = "Loom'ithar", translation = "Loom'ithar", note = "" }
 WordHunterWoW_Dictionary_DE["looper"] = { word = "Looper", translation = "Looper", note = "" }
 WordHunterWoW_Dictionary_DE["lor"] = { word = "Lor", translation = "Lor", note = "" }
-WordHunterWoW_Dictionary_DE["lor'danel"] = { word = "Lor'danel", translation = "Lor'danel", note = "night elf location; literally means 'isle of the stars'" }
+WordHunterWoW_Dictionary_DE["lor'danel"] = { word = "Lor'danel", translation = "Lor'danel", note = "night elf location; literally means 'isle of the stars'", status = "ignored" }
 WordHunterWoW_Dictionary_DE["lor'danellandung"] = { word = "Lor'danellandung", translation = "Lor'danel Landing", note = "location name; compound of Lor'danel + Landung (landing)" }
 WordHunterWoW_Dictionary_DE["lor'ma"] = { word = "lor'ma", translation = "lor'ma", note = "Darnassian language phrase, not German" }
 WordHunterWoW_Dictionary_DE["lor'themar"] = { word = "Lor'themar", translation = "Lor'themar", note = "WoW character: Regentlord of the Blood Elves" , status = "ignored" }
@@ -59265,7 +59265,7 @@ WordHunterWoW_Dictionary_DE["mulby"] = { word = "Mulby", translation = "Mulby", 
 WordHunterWoW_Dictionary_DE["mulch"] = { word = "Mulch", translation = "Mulch", note = "" }
 WordHunterWoW_Dictionary_DE["mulde"] = { word = "Mulde", translation = "trough; valley depression", note = "mulde = a depression, trough, or hollow; geological term for a valley formed by subsidence" }
 WordHunterWoW_Dictionary_DE["mulfort"] = { word = "Mulfort", translation = "Mulfort", note = "commander npc; untranslated" , status = "ignored" }
-WordHunterWoW_Dictionary_DE["mulgore"] = { word = "Mulgore", translation = "Mulgore", note = "tauren homeland; high plains of central Kalimdor" }
+WordHunterWoW_Dictionary_DE["mulgore"] = { word = "Mulgore", translation = "Mulgore", note = "tauren homeland; high plains of central Kalimdor", status = "ignored" }
 WordHunterWoW_Dictionary_DE["mulgoreebene"] = { word = "Mulgoreebene", translation = "Mulgore plain; Mulgore prairie", note = "ebene = plain, flatland; geographical area" }
 WordHunterWoW_Dictionary_DE["mulgorekodo"] = { word = "Mulgorekodo", translation = "Mulgorekodo", note = "" }
 WordHunterWoW_Dictionary_DE["mulgoremeile"] = { word = "Mulgoremeile", translation = "Mulgore mile", note = "meile = mile; unit of distance" }
@@ -61271,7 +61271,7 @@ WordHunterWoW_Dictionary_DE["nelson"] = { word = "Nelson", translation = "Nelson
 WordHunterWoW_Dictionary_DE["nelthar"] = { word = "Nelthar", translation = "Nelthar", note = "character name; likely draconic" }
 WordHunterWoW_Dictionary_DE["neltharaku"] = { word = "Neltharaku", translation = "Neltharaku", note = "" }
 WordHunterWoW_Dictionary_DE["neltharakus"] = { word = "Neltharakus", translation = "Neltharakus", note = "" }
-WordHunterWoW_Dictionary_DE["neltharion"] = { word = "Neltharion", translation = "Neltharion", note = "WoW dragon: the Earth Warder, later became Deathwing" }
+WordHunterWoW_Dictionary_DE["neltharion"] = { word = "Neltharion", translation = "Neltharion", note = "WoW dragon: the Earth Warder, later became Deathwing", status = "ignored" }
 WordHunterWoW_Dictionary_DE["neltharionagenten"] = { word = "Neltharionagenten", translation = "Neltharion agents", note = "compound: Neltharion+agents; enemy minions" }
 WordHunterWoW_Dictionary_DE["neltharionloyalisten"] = { word = "Neltharionloyalisten", translation = "Neltharion loyalists", note = "compound: Neltharion (dragon proto-aspect) + loyalists; enemy faction" }
 WordHunterWoW_Dictionary_DE["neltharions"] = { word = "Neltharions", translation = "Neltharion's", note = "possessive form; Neltharion is the black dragon aspect in WoW" }
@@ -61413,7 +61413,7 @@ WordHunterWoW_Dictionary_DE["netherenergien"] = { word = "Netherenergien", trans
 WordHunterWoW_Dictionary_DE["netherfang"] = { word = "Netherfang", translation = "Netherfang", note = "proper character or NPC name", status = "ignored" }
 WordHunterWoW_Dictionary_DE["netherflügel"] = { word = "Netherflügel", translation = "netherwings", note = "nether + flügel (wings); creature type from demons" }
 WordHunterWoW_Dictionary_DE["netherfürst"] = { word = "Netherfürst", translation = "Netherlord", note = "compound title; ruler of the nether realm (fürst=prince)" }
-WordHunterWoW_Dictionary_DE["nethergarde"] = { word = "Nethergarde", translation = "Nethergarde", note = "WoW fortification on the Dark Portal; official English spelling" }
+WordHunterWoW_Dictionary_DE["nethergarde"] = { word = "Nethergarde", translation = "Nethergarde", note = "WoW fortification on the Dark Portal; official English spelling", status = "ignored" }
 WordHunterWoW_Dictionary_DE["nethergardeihr"] = { word = "NETHERGARDEIhr", translation = "NETHERGUARD; yours", note = "malformed text; appears to be 'Netherguard' + 'Ihr' (you); OCR or parsing error; 'NETHER GUARD' + 'You receive'" }
 WordHunterWoW_Dictionary_DE["nethergas"] = { word = "Nethergas", translation = "nether gas", note = "compound; ethereal or demonic vaporous substance" }
 WordHunterWoW_Dictionary_DE["nethergesandten"] = { word = "Nethergesandten", translation = "nether envoys", note = "" }
@@ -66938,7 +66938,7 @@ WordHunterWoW_Dictionary_DE["quecksilber"] = { word = "Quecksilber", translation
 WordHunterWoW_Dictionary_DE["quecksilberschlamm"] = { word = "Quecksilberschlamm", translation = "Mercury sludge", note = "quecksilber (mercury/quicksilver) + schlamm (sludge); alchemical material" }
 WordHunterWoW_Dictionary_DE["quecksilbersumpf"] = { word = "Quecksilbersumpf", translation = "mercury swamp", note = "quecksilber (mercury) + sumpf (swamp)" }
 WordHunterWoW_Dictionary_DE["quecksilberwächter"] = { word = "Quecksilberwächter", translation = "Mercury Guardian", note = "quecksilber (mercury) + wächter (guardian), possibly a titan-forged defender" }
-WordHunterWoW_Dictionary_DE["quel'danas"] = { word = "Quel'Danas", translation = "Quel'Danas", note = "an island; private domain of Kael'thas in WoW lore" }
+WordHunterWoW_Dictionary_DE["quel'danas"] = { word = "Quel'Danas", translation = "Quel'Danas", note = "an island; private domain of Kael'thas in WoW lore", status = "ignored" }
 WordHunterWoW_Dictionary_DE["quel'danil"] = { word = "Quel'Danil", translation = "Quel'Danil", note = "proper noun; blood elf location name", status = "ignored" }
 WordHunterWoW_Dictionary_DE["quel'danil-hütte"] = { word = "Quel'Danil-Hütte", translation = "Quel'Danil Lodge", note = "quel'danil (location name) + hütte (hut/lodge); more natural as lodge than hut" }
 WordHunterWoW_Dictionary_DE["quel'delar"] = { word = "Quel'Delar", translation = "Quel'Delar", note = "legendary sword name; Elvish language proper noun", status = "ignored" }
@@ -78315,7 +78315,7 @@ WordHunterWoW_Dictionary_DE["skoll"] = { word = "Skoll", translation = "Skoll", 
 WordHunterWoW_Dictionary_DE["skoloth"] = { word = "Skoloth", translation = "Skoloth", note = "" }
 WordHunterWoW_Dictionary_DE["skolzgalmühle"] = { word = "Skolzgalmühle", translation = "Skolzgalmühle", note = "" }
 WordHunterWoW_Dictionary_DE["skorbut"] = { word = "Skorbut", translation = "scurvy", note = "disease" }
-WordHunterWoW_Dictionary_DE["skorn"] = { word = "Skorn", translation = "Skorn", note = "a goblin settlement; name possibly means scorn or is WoW-original" }
+WordHunterWoW_Dictionary_DE["skorn"] = { word = "Skorn", translation = "Skorn", note = "a goblin settlement; name possibly means scorn or is WoW-original", status = "ignored" }
 WordHunterWoW_Dictionary_DE["skorns"] = { word = "Skorns", translation = "Skorns", note = "NPC" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["skorpashi"] = { word = "Skorpashi", translation = "Scorpashi", note = "" }
 WordHunterWoW_Dictionary_DE["skorpashigift"] = { word = "Skorpashigift", translation = "Scorpashi poison", note = "creature name (Scorpashi) + poison; scorpion-related creature compound" }
@@ -85011,7 +85011,7 @@ WordHunterWoW_Dictionary_DE["therapie"] = { word = "Therapie", translation = "th
 WordHunterWoW_Dictionary_DE["therapiestunde"] = { word = "Therapiestunde", translation = "Therapy session", note = "" }
 WordHunterWoW_Dictionary_DE["theras"] = { word = "Theras", translation = "Theras", note = "NPC name" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["therazal"] = { word = "Therazal", translation = "Therazal", note = "" }
-WordHunterWoW_Dictionary_DE["therazane"] = { word = "Therazane", translation = "Therazane", note = "elemental goddess in WoW lore" }
+WordHunterWoW_Dictionary_DE["therazane"] = { word = "Therazane", translation = "Therazane", note = "elemental goddess in WoW lore", status = "ignored" }
 WordHunterWoW_Dictionary_DE["therazanes"] = { word = "Therazanes", translation = "Therazanes", note = "proper noun; stone dragon realm/being", status = "ignored" }
 WordHunterWoW_Dictionary_DE["there"] = { word = "there", translation = "there", note = "" }
 WordHunterWoW_Dictionary_DE["theredis"] = { word = "Theredis", translation = "Theredis", note = "NPC name" , status = "ignored" }
@@ -85663,7 +85663,7 @@ WordHunterWoW_Dictionary_DE["tirisfal"] = { word = "Tirisfal", translation = "Ti
 WordHunterWoW_Dictionary_DE["tirisfalkürbisse"] = { word = "Tirisfalkürbisse", translation = "Tirisval pumpkins", note = "named after Tirisval" }
 WordHunterWoW_Dictionary_DE["tirisfals"] = { word = "Tirisfals", translation = "Tirisfals", note = "" }
 WordHunterWoW_Dictionary_DE["tirisgarde"] = { word = "Tirisgarde", translation = "Tirisguard", note = "" }
-WordHunterWoW_Dictionary_DE["tirna"] = { word = "Tirna", translation = "Tirna", note = "from Tirna Scithe, a druid sanctuary in Ardenweald" }
+WordHunterWoW_Dictionary_DE["tirna"] = { word = "Tirna", translation = "Tirna", note = "from Tirna Scithe, a druid sanctuary in Ardenweald", status = "ignored" }
 WordHunterWoW_Dictionary_DE["tirnenn"] = { word = "Tirnenn", translation = "Tirnenn", note = "proper noun: distinct people/faction in Azeroth", status = "ignored" }
 WordHunterWoW_Dictionary_DE["tirren"] = { word = "Tirren", translation = "Tirren", note = "" }
 WordHunterWoW_Dictionary_DE["tirth"] = { word = "Tirth", translation = "Tirth", note = "" }
@@ -99875,7 +99875,7 @@ WordHunterWoW_Dictionary_DE["yrkvinn"] = { word = "Yrkvinn", translation = "Yrkv
 WordHunterWoW_Dictionary_DE["yrkvinns"] = { word = "Yrkvinns", translation = "Yrkvinns", note = "NPC name; associated with runes" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["yrsa"] = { word = "Yrsa", translation = "Yrsa", note = "" }
 WordHunterWoW_Dictionary_DE["ysabel"] = { word = "Ysabel", translation = "Ysabel", note = "NPC name" , status = "ignored" }
-WordHunterWoW_Dictionary_DE["ysera"] = { word = "Ysera", translation = "Ysera", note = "dragon aspect; goddess of nature and dreams in warcraft lore" }
+WordHunterWoW_Dictionary_DE["ysera"] = { word = "Ysera", translation = "Ysera", note = "dragon aspect; goddess of nature and dreams in warcraft lore", status = "ignored" }
 WordHunterWoW_Dictionary_DE["ysera-einladungsturnier"] = { word = "Ysera-Einladungsturnier", translation = "Ysera Invitational Tournament", note = "" }
 WordHunterWoW_Dictionary_DE["yserallinensamen"] = { word = "Yserallinensamen", translation = "Yseralline seeds", note = "" }
 WordHunterWoW_Dictionary_DE["yseras"] = { word = "Yseras", translation = "Ysera's", note = "proper noun; possessive of dragon aspect" }
@@ -99912,7 +99912,7 @@ WordHunterWoW_Dictionary_DE["z'rück"] = { word = "z'rück", translation = "back
 WordHunterWoW_Dictionary_DE["za'brox"] = { word = "Za'brox", translation = "Za'brox", note = "orc warlock under Cho'gall" }
 WordHunterWoW_Dictionary_DE["za'lani"] = { word = "Za'lani", translation = "Za'lani", note = "NPC name; shapemaster" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["za'roco"] = { word = "Za'roco", translation = "Za'roco", note = "proper name; NPC or creature name", status = "ignored" }
-WordHunterWoW_Dictionary_DE["za'tual"] = { word = "Za'Tual", translation = "Za'Tual", note = "Zandalari pyramid; the seat of troll civilization power" }
+WordHunterWoW_Dictionary_DE["za'tual"] = { word = "Za'Tual", translation = "Za'Tual", note = "Zandalari pyramid; the seat of troll civilization power", status = "ignored" }
 WordHunterWoW_Dictionary_DE["zabra"] = { word = "Zabra", translation = "Zabra", note = "proper noun: NPC or champion name", status = "ignored" }
 WordHunterWoW_Dictionary_DE["zabra'jin"] = { word = "Zabra'jin", translation = "Zabra'jin", note = "proper noun: location name", status = "ignored" }
 WordHunterWoW_Dictionary_DE["zabrax"] = { word = "Zabrax", translation = "Zabrax", note = "" }

@@ -21391,7 +21391,7 @@
 {"key": "sägewerk", "word": "Sägewerk", "translation": "sawmill", "note": "säge (saw) + werk (works/factory); where logs are processed"}
 {"key": "süssen", "word": "süßen", "translation": "sweeten", "note": "to make sweet; süß = sweet"}
 {"key": "teldrassil", "word": "Teldrassil", "translation": "Teldrassil", "note": "the world tree of the night elves; destroyed in Cataclysm"}
-{"key": "tirna", "word": "Tirna", "translation": "Tirna", "note": "from Tirna Scithe, a druid sanctuary in Ardenweald"}
+{"key": "tirna", "word": "Tirna", "translation": "Tirna", "note": "from Tirna Scithe, a druid sanctuary in Ardenweald", "status": "ignored"}
 {"key": "tortollaner", "word": "Tortollaner", "translation": "Tortollans", "note": "WoW race: ancient turtle-like humanoids; plural form"}
 {"key": "trick", "word": "Trick", "translation": "trick", "note": "a deception or clever technique"}
 {"key": "unterschätzt", "word": "unterschätzt", "translation": "underestimated", "note": "past participle of unterschätzen (to underestimate)"}
@@ -21453,8 +21453,8 @@
 {"key": "musst", "word": "musst", "translation": "must", "note": "second person singular: du musst (you must)"}
 {"key": "mysteriöse", "word": "mysteriöse", "translation": "mysterious", "note": "adjective: mystisch/mysterious in manner"}
 {"key": "natürliche", "word": "natürliche", "translation": "natural", "note": "adjective: natürlich (natural, of course)"}
-{"key": "neltharion", "word": "Neltharion", "translation": "Neltharion", "note": "WoW dragon: the Earth Warder, later became Deathwing"}
-{"key": "nethergarde", "word": "Nethergarde", "translation": "Nethergarde", "note": "WoW fortification on the Dark Portal; official English spelling"}
+{"key": "neltharion", "word": "Neltharion", "translation": "Neltharion", "note": "WoW dragon: the Earth Warder, later became Deathwing", "status": "ignored"}
+{"key": "nethergarde", "word": "Nethergarde", "translation": "Nethergarde", "note": "WoW fortification on the Dark Portal; official English spelling", "status": "ignored"}
 {"key": "nexus", "word": "Nexus", "translation": "Nexus", "note": "WoW location: Nexus in Coldarra, home of blue dragonflight", "status": "ignored"}
 {"key": "oberhand", "word": "Oberhand", "translation": "upper hand; advantage", "note": "ober (upper) + hand (hand); having the advantage"}
 {"key": "phase", "word": "Phase", "translation": "phase", "note": "a stage or period in a sequence"}
@@ -21618,7 +21618,7 @@
 {"key": "infiltrieren", "word": "infiltrieren", "translation": "infiltrate", "note": "Latin loanword; to penetrate secretly"}
 {"key": "irgendeiner", "word": "irgendeiner", "translation": "anyone", "note": "any sort of person; indefinite pronoun"}
 {"key": "jahrhunderten", "word": "Jahrhunderten", "translation": "centuries", "note": "dative plural of Jahrhundert (century)"}
-{"key": "khaz", "word": "Khaz", "translation": "Khaz", "note": "untranslatable; dwarvish speech (fantasy language)"}
+{"key": "khaz", "word": "Khaz", "translation": "Khaz", "note": "untranslatable; dwarvish speech (fantasy language)", "status": "ignored"}
 {"key": "klang", "word": "Klang", "translation": "sound", "note": "tone/noise; often figurative (klang verzweifelt = sounded desperate)"}
 {"key": "kälte", "word": "Kälte", "translation": "cold", "note": "coldness; beißende Kälte = biting cold"}
 {"key": "lauter", "word": "lauter", "translation": "louder", "note": "comparative of laut (loud); can also mean pure/only"}
@@ -21674,7 +21674,7 @@
 {"key": "wächterin", "word": "Wächterin", "translation": "guardian", "note": "feminine: Wächter (guardian) + -in; here Saragos the dragon"}
 {"key": "wünschen", "word": "wünschen", "translation": "wish", "note": "false friend: can mean wish/want, not become (werden); also 'to desire help'"}
 {"key": "würmer", "word": "Würmer", "translation": "worms", "note": "plural of Wurm; the Jormungar are parasitic worms"}
-{"key": "ysera", "word": "Ysera", "translation": "Ysera", "note": "dragon aspect; goddess of nature and dreams in warcraft lore"}
+{"key": "ysera", "word": "Ysera", "translation": "Ysera", "note": "dragon aspect; goddess of nature and dreams in warcraft lore", "status": "ignored"}
 {"key": "zelt", "word": "Zelt", "translation": "tent", "note": "from Middle High German *zelt*; a temporary shelter"}
 {"key": "überquert", "word": "überquert", "translation": "crossed", "note": "prefix über- (over/across) + queren (cross)"}
 {"key": "abgeschnitten", "word": "abgeschnitten", "translation": "cut off", "note": "separable: ab- (off) + schneiden (cut); isolated from supply lines"}
@@ -21731,7 +21731,7 @@
 {"key": "lächeln", "word": "Lächeln", "translation": "smile", "note": "from lachen (to laugh); a facial expression of happiness"}
 {"key": "marsch", "word": "Marsch", "translation": "march", "note": "military movement or advance; also a wetland (Marsch = marsh)"}
 {"key": "mueh'zala", "word": "Mueh'zala", "translation": "Mueh'zala", "note": "loa spirit in troll religion; a Blizzard-created creature", "status": "ignored"}
-{"key": "mulgore", "word": "Mulgore", "translation": "Mulgore", "note": "tauren homeland; high plains of central Kalimdor"}
+{"key": "mulgore", "word": "Mulgore", "translation": "Mulgore", "note": "tauren homeland; high plains of central Kalimdor", "status": "ignored"}
 {"key": "mund", "word": "Mund", "translation": "mouth", "note": "body part; idiom 'Wasser im Mund' = mouth watering from desire"}
 {"key": "müde", "word": "müde", "translation": "tired", "note": "adjective; worn out or exhausted"}
 {"key": "notwendige", "word": "notwendige", "translation": "necessary", "note": "from Not (need) + wenden (turn); required or essential"}
@@ -21970,7 +21970,7 @@
 {"key": "ausbilder", "word": "Ausbilder", "translation": "instructor", "note": "aus (out) + bilder (trainer); one who trains"}
 {"key": "auseinander", "word": "auseinander", "translation": "apart", "note": "apart; also used in 'auseinandergehen' (to break apart)"}
 {"key": "ausgestattet", "word": "ausgestattet", "translation": "equipped", "note": "equipped/outfitted; past participle of ausstatten"}
-{"key": "azj-kahet", "word": "Azj-Kahet", "translation": "Azj-Kahet", "note": "Nerubian city name in Nerub-ar; no literal meaning"}
+{"key": "azj-kahet", "word": "Azj-Kahet", "translation": "Azj-Kahet", "note": "Nerubian city name in Nerub-ar; no literal meaning", "status": "ignored"}
 {"key": "befehligt", "word": "befehligt", "translation": "commanded", "note": "commands/commands (present tense of befehligen)"}
 {"key": "bestellt", "word": "bestellt", "translation": "ordered", "note": "ordered/commissioned; past participle of bestellen"}
 {"key": "bewaffnet", "word": "bewaffnet", "translation": "armed", "note": "armed; past participle of bewaffnen"}
@@ -22357,13 +22357,13 @@
 {"key": "krankheiten", "word": "Krankheiten", "translation": "diseases", "note": "krankheit + -en plural; illnesses"}
 {"key": "kriegern", "word": "Kriegern", "translation": "warriors", "note": "krieger (warrior) + -n plural; soldiers"}
 {"key": "krise", "word": "Krise", "translation": "crisis", "note": "from Greek krisis; critical or dangerous situation"}
-{"key": "kronsteig", "word": "Kronsteig", "translation": "Kronsteig", "note": "house name; Crown Path or Crown Trail"}
+{"key": "kronsteig", "word": "Kronsteig", "translation": "Kronsteig", "note": "house name; Crown Path or Crown Trail", "status": "ignored"}
 {"key": "krypta", "word": "Krypta", "translation": "crypt", "note": "from Latin; underground burial chamber"}
 {"key": "kua'fon", "word": "Kua'fon", "translation": "Kua'fon", "note": "bird NPC in Talon's Vengeance; proper noun", "status": "ignored"}
 {"key": "künste", "word": "Künste", "translation": "arts", "note": "kunst (art) + -e plural; skills or crafts"}
 {"key": "lachenden", "word": "Lachenden", "translation": "Laughing", "note": "Laughing Skull (location); Ruinen des Lachenden Schädels"}
 {"key": "leckereien", "word": "Leckereien", "translation": "treats", "note": "lecker (tasty) + -eien plural; delicacies"}
-{"key": "lok'tar", "word": "Lok'tar", "translation": "Lok'tar", "note": "orcish war cry; means Victory or Death"}
+{"key": "lok'tar", "word": "Lok'tar", "translation": "Lok'tar", "note": "orcish war cry; means Victory or Death", "status": "ignored"}
 {"key": "lüften", "word": "lüften", "translation": "ventilate", "note": "luft (air) + -en verb; to expose to fresh air"}
 {"key": "manipulieren", "word": "manipulieren", "translation": "manipulate", "note": "from Latin; to control or handle"}
 {"key": "maruuk", "word": "Maruuk", "translation": "Maruuk", "note": "tauren faction/alliance; proper noun", "status": "ignored"}
@@ -22574,7 +22574,7 @@
 {"key": "angehalten", "word": "angehalten", "translation": "stopped; halted; directed", "note": "past participle; can mean stopped, halted, or directed to do something"}
 {"key": "animadürre", "word": "Animadürre", "translation": "Anima drought", "note": "literally anima (life force) + drought; refers to Shadowlands lore"}
 {"key": "aqir", "word": "Aqir", "translation": "Aqir", "note": "proper noun; ancient insectoid race in WoW", "status": "ignored"}
-{"key": "arkus", "word": "Arkus", "translation": "Arkus", "note": "structure name in Suramar; literally means 'arch' or 'bow'"}
+{"key": "arkus", "word": "Arkus", "translation": "Arkus", "note": "structure name in Suramar; literally means 'arch' or 'bow'", "status": "ignored"}
 {"key": "aufbau", "word": "Aufbau", "translation": "construction; building; assembly", "note": ""}
 {"key": "ausgrabung", "word": "Ausgrabung", "translation": "excavation; dig", "note": ""}
 {"key": "beeinflussen", "word": "beeinflussen", "translation": "influence; affect", "note": ""}
@@ -22642,7 +22642,7 @@
 {"key": "labor", "word": "Labor", "translation": "laboratory", "note": ""}
 {"key": "lauf", "word": "Lauf", "translation": "Run; Course; Barrel", "note": "can mean running, course of action, or gun barrel"}
 {"key": "lebzeiten", "word": "Lebzeiten", "translation": "lifetimes", "note": "accusative/dative plural; 'zu Lebzeiten' = during one's lifetime"}
-{"key": "lor'danel", "word": "Lor'danel", "translation": "Lor'danel", "note": "night elf location; literally means 'isle of the stars'"}
+{"key": "lor'danel", "word": "Lor'danel", "translation": "Lor'danel", "note": "night elf location; literally means 'isle of the stars'", "status": "ignored"}
 {"key": "löwen", "word": "Löwen", "translation": "Lions", "note": ""}
 {"key": "madame", "word": "Madame", "translation": "Madame", "note": "French-borrowed form of address; NPC name or title", "status": "ignored"}
 {"key": "makelloses", "word": "Makelloses", "translation": "Flawless", "note": ""}
@@ -23809,7 +23809,7 @@
 {"key": "planung", "word": "Planung", "translation": "planning", "note": ""}
 {"key": "preise", "word": "Preise", "translation": "prices", "note": "plural of Preis (price); often refers to rewards or costs"}
 {"key": "pylonen", "word": "Pylonen", "translation": "pylons", "note": "plural of Pylon; magical structures or towers in-game"}
-{"key": "quel'danas", "word": "Quel'Danas", "translation": "Quel'Danas", "note": "an island; private domain of Kael'thas in WoW lore"}
+{"key": "quel'danas", "word": "Quel'Danas", "translation": "Quel'Danas", "note": "an island; private domain of Kael'thas in WoW lore", "status": "ignored"}
 {"key": "raben", "word": "Raben", "translation": "ravens", "note": "plural of Rabe (raven); often symbolize death or magic"}
 {"key": "rahmen", "word": "Rahmen", "translation": "frame", "note": "rahmen = frame or context; from Middle High German raum"}
 {"key": "reibt", "word": "reibt", "translation": "rubs", "note": ""}
@@ -23842,7 +23842,7 @@
 {"key": "seelenschlund", "word": "Seelenschlund", "translation": "Soul Maw", "note": "seele (soul) + schlund (maw); location that consumes souls"}
 {"key": "segel", "word": "Segel", "translation": "sail", "note": ""}
 {"key": "segnen", "word": "segnen", "translation": "bless", "note": ""}
-{"key": "skorn", "word": "Skorn", "translation": "Skorn", "note": "a goblin settlement; name possibly means scorn or is WoW-original"}
+{"key": "skorn", "word": "Skorn", "translation": "Skorn", "note": "a goblin settlement; name possibly means scorn or is WoW-original", "status": "ignored"}
 {"key": "stabs", "word": "Stabs", "translation": "staff", "note": "stab = staff, walking stick, or rod; used for magical staves"}
 {"key": "stachelebern", "word": "Stachelebern", "translation": "Quilboar", "note": "officially named Quilboar in English WoW; boar with quills"}
 {"key": "standen", "word": "standen", "translation": "stood", "note": ""}
@@ -23887,7 +23887,7 @@
 {"key": "wurm", "word": "Wurm", "translation": "worm", "note": "wurm = worm or dragon (archaic); often refers to magical creatures"}
 {"key": "wyvern", "word": "Wyvern", "translation": "wyverns", "note": "plural of Wyvern; winged reptilian creatures"}
 {"key": "wärter", "word": "Wärter", "translation": "warden", "note": "wart- (to watch) + -er; one who guards or keeps watch"}
-{"key": "za'tual", "word": "Za'Tual", "translation": "Za'Tual", "note": "Zandalari pyramid; the seat of troll civilization power"}
+{"key": "za'tual", "word": "Za'Tual", "translation": "Za'Tual", "note": "Zandalari pyramid; the seat of troll civilization power", "status": "ignored"}
 {"key": "zahlreichen", "word": "zahlreichen", "translation": "numerous", "note": "zahlreich; from zahl (number); means many or abundant"}
 {"key": "zaubern", "word": "Zaubern", "translation": "magic", "note": "zaubern = magic or to cast spells; from zauber"}
 {"key": "zauberstab", "word": "Zauberstab", "translation": "magic wand", "note": "zauber (magic) + stab (staff); tool for casting spells"}
@@ -24781,7 +24781,7 @@
 {"key": "terrorhorn", "word": "Terrorhorn", "translation": "Direhorn", "note": "German Terrorhorn; WoW creature name Direhorn"}
 {"key": "teufelstotems", "word": "Teufelstotems", "translation": "Devil totems", "note": ""}
 {"key": "theater", "word": "Theater", "translation": "theater", "note": "building for dramatic performances"}
-{"key": "therazane", "word": "Therazane", "translation": "Therazane", "note": "elemental goddess in WoW lore"}
+{"key": "therazane", "word": "Therazane", "translation": "Therazane", "note": "elemental goddess in WoW lore", "status": "ignored"}
 {"key": "totenspeise", "word": "Totenspeise", "translation": "Funeral food", "note": "Toten (dead) + speise (meal); feast"}
 {"key": "treuer", "word": "treuer", "translation": "more faithful", "note": "comparative of treu (faithful)"}
 {"key": "trotzig", "word": "trotzig", "translation": "defiant", "note": "openly resistant or challenging"}
@@ -25769,7 +25769,7 @@
 {"key": "devisen", "word": "Devisen", "translation": "currency", "note": "foreign or tradeable currency/funds"}
 {"key": "direkter", "word": "direkter", "translation": "more direct", "note": "comparative form"}
 {"key": "dnt", "word": "DNT", "translation": "DNT", "note": "placeholder: do not translate"}
-{"key": "dragonflight", "word": "Dragonflight", "translation": "Dragonflight", "note": "official expansion name"}
+{"key": "dragonflight", "word": "Dragonflight", "translation": "Dragonflight", "note": "official expansion name", "status": "ignored"}
 {"key": "drak'marsee", "word": "Drak'Marsee", "translation": "Drak'Marsee", "note": "proper name (context mismatch suggests copied text)", "status": "ignored"}
 {"key": "dringenden", "word": "dringenden", "translation": "urgent", "note": ""}
 {"key": "dringendsten", "word": "dringendsten", "translation": "most urgent", "note": "superlative form"}
