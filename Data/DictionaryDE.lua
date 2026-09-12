@@ -46757,7 +46757,7 @@ WordHunterWoW_Dictionary_DE["kayn"] = { word = "Kayn", translation = "Kayn", not
 WordHunterWoW_Dictionary_DE["kayneth"] = { word = "Kayneth", translation = "Kayneth", note = "" }
 WordHunterWoW_Dictionary_DE["kayra"] = { word = "Kayra", translation = "Kayra", note = "NPC proper name; appears to be a druid with nature connection (Cenarius refuge location)", status = "ignored" }
 WordHunterWoW_Dictionary_DE["kaz"] = { word = "Kaz", translation = "Kaz", note = "" }
-WordHunterWoW_Dictionary_DE["kaz'jatar"] = { word = "Kaz'jatar", translation = "Kaz'jatar", note = "sea lord/naga name" }
+WordHunterWoW_Dictionary_DE["kaz'jatar"] = { word = "Kaz'jatar", translation = "Kaz'jatar", note = "sea lord/naga name", status = "ignored" }
 WordHunterWoW_Dictionary_DE["kaz'tik"] = { word = "Kaz'tik", translation = "Kaz'tik", note = "" }
 WordHunterWoW_Dictionary_DE["kaza'jin"] = { word = "Kaza'jin", translation = "Kaza'jin", note = "" }
 WordHunterWoW_Dictionary_DE["kaza'jins"] = { word = "Kaza'jins", translation = "Kaza'jins", note = "" }
@@ -66869,7 +66869,7 @@ WordHunterWoW_Dictionary_DE["quae"] = { word = "Quae", translation = "Quae", not
 WordHunterWoW_Dictionary_DE["quaggkamm"] = { word = "Quaggkamm", translation = "quagg comb", note = "quagg (insect creature) + kamm (comb); chitinous appendage" }
 WordHunterWoW_Dictionary_DE["quaggkamms"] = { word = "Quaggkamms", translation = "Quaggkamms", note = "creature part name (plural)" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["quagmirran"] = { word = "Quagmirran", translation = "Quagmirran", note = "proper noun; boss creature name", status = "ignored" }
-WordHunterWoW_Dictionary_DE["quagmirrans"] = { word = "Quagmirrans", translation = "Quagmirrans", note = "fungal giant lord name" }
+WordHunterWoW_Dictionary_DE["quagmirrans"] = { word = "Quagmirrans", translation = "Quagmirrans", note = "fungal giant lord name", status = "ignored" }
 WordHunterWoW_Dictionary_DE["quak"] = { word = "quak", translation = "quack", note = "" }
 WordHunterWoW_Dictionary_DE["quak-salberei"] = { word = "Quak-salberei", translation = "Quackery", note = "compound: Quak (quack) + Salberei (quackery); fraudulent medicine" }
 WordHunterWoW_Dictionary_DE["quaken"] = { word = "Quaken", translation = "croak", note = "sound of frogs/ravens" }
@@ -90756,7 +90756,7 @@ WordHunterWoW_Dictionary_DE["vargul"] = { word = "Vargul", translation = "Vargul
 WordHunterWoW_Dictionary_DE["varguls"] = { word = "Varguls", translation = "Varguls", note = "" }
 WordHunterWoW_Dictionary_DE["vargus"] = { word = "Vargus", translation = "Vargus", note = "NPC name" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["variablen"] = { word = "Variablen", translation = "variables", note = "mathematical or programming term" }
-WordHunterWoW_Dictionary_DE["varian"] = { word = "Varian", translation = "Varian", note = "King Varian Wrynn, the human king of Stormwind" }
+WordHunterWoW_Dictionary_DE["varian"] = { word = "Varian", translation = "Varian", note = "King Varian Wrynn, the human king of Stormwind", status = "ignored" }
 WordHunterWoW_Dictionary_DE["varians"] = { word = "Varians", translation = "Varians", note = "" }
 WordHunterWoW_Dictionary_DE["variante"] = { word = "Variante", translation = "variant", note = "variant or version; a variation of a standard form" }
 WordHunterWoW_Dictionary_DE["varianten"] = { word = "Varianten", translation = "variants", note = "plural of Variante, a borrowing ultimately related to Latin varians" }

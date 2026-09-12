@@ -33,6 +33,8 @@ Plus ONE curator-confirmation gate:
 - Batch 7: note matches demon/god/deity/loa gate (NOTE_INCLUDE7). Same
   base predicates; b1-b6 domains excluded. King/queen/lord slice stays
   out until batch 8.
+- Batch 8: note matches king/queen/lord/prince gate (NOTE_INCLUDE8). Same
+  base predicates; b1-b7 domains excluded.
 
 Translated-name pairs (Sturmwind->Stormwind) are never touched.
 Empty-note rows are never auto-marked (German capitalizes all nouns).
@@ -79,6 +81,8 @@ COMMON_SAME_TRANSLATION_DENY = {
     "kestrel",
     # Batch-7 audit FPs (issue #1): item type and plural monster type, not names.
     "aldrachi", "infernals",
+    # Batch-8 audit FPs (issue #1): common noun / creature type, not names.
+    "king", "val'kyr",
 }
 
 PROPER_PATTERN = re.compile(r"^[A-ZÄÖÜ].*[A-Za-zÄÖÜäöüß'’\-]*$")
@@ -146,6 +150,12 @@ NOTE_INCLUDE6 = re.compile(
 # Batch 7: curator demon/god/deity/loa signals.
 NOTE_INCLUDE7 = re.compile(
     r"\bdemon\b|\bgod\b|\bdeity\b|\bloa\b",
+    re.IGNORECASE,
+)
+
+# Batch 8: curator king/queen/lord/prince signals.
+NOTE_INCLUDE8 = re.compile(
+    r"\bking\b|\bqueen\b|\blord\b|\bprince\b",
     re.IGNORECASE,
 )
 
@@ -284,6 +294,31 @@ def is_batch7_candidate(word: str, translation: str, note: str) -> bool:
     return True
 
 
+def is_batch8_candidate(word: str, translation: str, note: str) -> bool:
+    """Batch 8: note says entry is a king/queen/lord/prince name."""
+    if not base_predicates(word, translation):
+        return False
+    if "proper" in (note or "").lower():
+        return False
+    if NOTE_INCLUDE.search(note or ""):
+        return False
+    if NOTE_INCLUDE3.search(note or ""):
+        return False
+    if NOTE_INCLUDE4.search(note or ""):
+        return False
+    if NOTE_INCLUDE5.search(note or ""):
+        return False
+    if NOTE_INCLUDE6.search(note or ""):
+        return False
+    if NOTE_INCLUDE7.search(note or ""):
+        return False
+    if not NOTE_INCLUDE8.search(note or ""):
+        return False
+    if NOTE_EXCLUDE.search(note or ""):
+        return False
+    return True
+
+
 def main() -> int:
     check_only = "--check" in sys.argv
     lines = CURATED.read_text(encoding="utf-8").splitlines()
@@ -295,6 +330,7 @@ def main() -> int:
     batch5 = 0
     batch6 = 0
     batch7 = 0
+    batch8 = 0
     already_ignored = 0
     for line in lines:
         if not line.strip():
@@ -357,15 +393,22 @@ def main() -> int:
             else:
                 r["status"] = "ignored"  # appended last, order preserved
                 out_lines.append(json.dumps(r, ensure_ascii=False))
+        elif is_batch8_candidate(word, translation, note):
+            batch8 += 1
+            if check_only:
+                out_lines.append(line)
+            else:
+                r["status"] = "ignored"  # appended last, order preserved
+                out_lines.append(json.dumps(r, ensure_ascii=False))
         else:
             out_lines.append(line)
-    added = batch1 + batch2 + batch3 + batch4 + batch5 + batch6 + batch7
+    added = batch1 + batch2 + batch3 + batch4 + batch5 + batch6 + batch7 + batch8
     if check_only:
-        print(f"would_mark={added} (batch1={batch1} batch2={batch2} batch3={batch3} batch4={batch4} batch5={batch5} batch6={batch6} batch7={batch7}) "
+        print(f"would_mark={added} (batch1={batch1} batch2={batch2} batch3={batch3} batch4={batch4} batch5={batch5} batch6={batch6} batch7={batch7} batch8={batch8}) "
               f"already_ignored={already_ignored}")
         return 1 if added else 0
     CURATED.write_text("\n".join(out_lines) + "\n", encoding="utf-8")
-    print(f"proper_names_marked={added} (batch1={batch1} batch2={batch2} batch3={batch3} batch4={batch4} batch5={batch5} batch6={batch6} batch7={batch7}) "
+    print(f"proper_names_marked={added} (batch1={batch1} batch2={batch2} batch3={batch3} batch4={batch4} batch5={batch5} batch6={batch6} batch7={batch7} batch8={batch8}) "
           f"already_ignored={already_ignored} curated_total={len(out_lines)}")
     return 0
 

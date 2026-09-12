@@ -23862,7 +23862,7 @@
 {"key": "umsetzen", "word": "umsetzen", "translation": "implement", "note": "um- (around) + setzen (to set); to put into practice"}
 {"key": "unsichtbaren", "word": "Unsichtbaren", "translation": "invisible", "note": "un- (not) + sichtbar (visible); not able to be seen"}
 {"key": "urahnen", "word": "Urahnen", "translation": "ancestors", "note": "ur- (primal) + ahnen (ancestors); progenitors or forebears"}
-{"key": "varian", "word": "Varian", "translation": "Varian", "note": "King Varian Wrynn, the human king of Stormwind"}
+{"key": "varian", "word": "Varian", "translation": "Varian", "note": "King Varian Wrynn, the human king of Stormwind", "status": "ignored"}
 {"key": "verbindet", "word": "verbindet", "translation": "connects", "note": "verbinden (to connect/bind); to link or join together"}
 {"key": "verbringt", "word": "verbringt", "translation": "spends", "note": "verbringen (to spend); often for time: 'verbringt viel Zeit'"}
 {"key": "verbünden", "word": "verbünden", "translation": "ally", "note": "verbünden (to ally); to form an alliance or union"}
@@ -45652,7 +45652,7 @@
 {"key": "kauriq", "word": "Kauriq", "translation": "Kauriq", "note": "NPC name", "status": "ignored"}
 {"key": "kavem", "word": "Kavem", "translation": "Kavem", "note": "NPC name", "status": "ignored"}
 {"key": "kaylessa", "word": "Kaylessa", "translation": "Kaylessa", "note": "priestess name"}
-{"key": "kaz'jatar", "word": "Kaz'jatar", "translation": "Kaz'jatar", "note": "sea lord/naga name"}
+{"key": "kaz'jatar", "word": "Kaz'jatar", "translation": "Kaz'jatar", "note": "sea lord/naga name", "status": "ignored"}
 {"key": "kazum", "word": "Kazum", "translation": "Kazum", "note": "location name", "status": "ignored"}
 {"key": "ke", "word": "ke", "translation": "ke", "note": "archaic or non-standard word from garbled text"}
 {"key": "kea-krak", "word": "Kea-Krak", "translation": "Kea-Krak", "note": "location name", "status": "ignored"}
@@ -65846,7 +65846,7 @@
 {"key": "quader", "word": "Quader", "translation": "cuboid", "note": "rectangular three-dimensional shape; building block"}
 {"key": "quaggkamms", "word": "Quaggkamms", "translation": "Quaggkamms", "note": "creature part name (plural)", "status": "ignored"}
 {"key": "quaggkamm", "word": "Quaggkamm", "translation": "quagg comb", "note": "quagg (insect creature) + kamm (comb); chitinous appendage"}
-{"key": "quagmirrans", "word": "Quagmirrans", "translation": "Quagmirrans", "note": "fungal giant lord name"}
+{"key": "quagmirrans", "word": "Quagmirrans", "translation": "Quagmirrans", "note": "fungal giant lord name", "status": "ignored"}
 {"key": "quaker", "word": "Quaker", "translation": "quaker", "note": "waterfowl species; ducks that quack"}
 {"key": "qualifikation", "word": "Qualifikation", "translation": "qualification", "note": "skill or credential that makes someone suitable for something"}
 {"key": "qualifizieren", "word": "qualifizieren", "translation": "qualify", "note": "to become or make suitable; to meet requirements"}
