@@ -52566,22 +52566,22 @@
 {"key": "avruus", "word": "Avruus", "translation": "Avruus", "note": ""}
 {"key": "avuun", "word": "Avuun", "translation": "Avuun", "note": ""}
 {"key": "award", "word": "award", "translation": "award", "note": ""}
-{"key": "awe'ohna", "word": "Awe'ohna", "translation": "Awe'ohna", "note": ""}
+{"key": "awe'ohna", "word": "Awe'ohna", "translation": "Awe'ohna", "note": "", "status": "ignored"}
 {"key": "awe'ohnas", "word": "Awe'ohnas", "translation": "Awe'ohnas", "note": ""}
 {"key": "axkall", "word": "Axkall", "translation": "Axkall", "note": ""}
 {"key": "axtmangel", "word": "Axtmangel", "translation": "axe shortage", "note": "compound: axt (axe) + mangel (shortage)"}
 {"key": "axtpläne", "word": "Axtpläne", "translation": "axe blueprints", "note": "compound: axt (axe) + pläne (plans/blueprints); typically for crafting"}
 {"key": "axtreiner", "word": "axtreiner", "translation": "ax cleaner", "note": ""}
 {"key": "axtwerfer", "word": "Axtwerfer", "translation": "axe thrower", "note": "compound: axt (axe) + werfer (thrower)"}
-{"key": "ayeleth", "word": "Ayeleth", "translation": "Ayeleth", "note": ""}
+{"key": "ayeleth", "word": "Ayeleth", "translation": "Ayeleth", "note": "", "status": "ignored"}
 {"key": "ayla", "word": "Ayla", "translation": "Ayla", "note": ""}
 {"key": "aylaan", "word": "Aylaan", "translation": "Aylaan", "note": ""}
 {"key": "az", "word": "Az", "translation": "Az", "note": ""}
 {"key": "ayuri", "word": "Ayuri", "translation": "Ayuri", "note": ""}
-{"key": "azathon", "word": "Azathon", "translation": "Azathon", "note": ""}
+{"key": "azathon", "word": "Azathon", "translation": "Azathon", "note": "", "status": "ignored"}
 {"key": "azayna", "word": "Azayna", "translation": "Azayna", "note": ""}
 {"key": "azaynas", "word": "Azaynas", "translation": "Azaynas", "note": ""}
-{"key": "azereth", "word": "Azereth", "translation": "Azereth", "note": ""}
+{"key": "azereth", "word": "Azereth", "translation": "Azereth", "note": "", "status": "ignored"}
 {"key": "azerichtig", "word": "azerichtig", "translation": "azcorrect", "note": "unclear or corrupted term"}
 {"key": "azerichtigen", "word": "azerichtigen", "translation": "azecorrects", "note": "unclear or corrupted term"}
 {"key": "azeritbasis", "word": "Azeritbasis", "translation": "Azerite base", "note": "compound: azerite + basis; foundation or platform for azerite"}
@@ -52596,23 +52596,23 @@
 {"key": "azerits", "word": "Azerits", "translation": "Azerite", "note": "genitive form; refers to azerite substance as a mass noun"}
 {"key": "azeritsysteme", "word": "Azeritsysteme", "translation": "Azerite systems", "note": "compound: azerite + systeme (systems); interconnected azerite technology"}
 {"key": "azeritstaub", "word": "Azeritstaub", "translation": "Azerite dust", "note": "compound: azerite + staub (dust); fine azerite particles"}
-{"key": "azerother", "word": "Azerother", "translation": "Azerother", "note": ""}
+{"key": "azerother", "word": "Azerother", "translation": "Azerother", "note": "", "status": "ignored"}
 {"key": "azerothischer", "word": "azerothischer", "translation": "Azerothian", "note": "adjective from Azeroth + -isch suffix; relating to the world of Azeroth"}
 {"key": "azerwurz", "word": "Azerwurz", "translation": "azer root", "note": "compound: azer + wurz (root); healing plant with potent properties"}
 {"key": "azi", "word": "Azi", "translation": "Azi", "note": ""}
-{"key": "azerynn", "word": "Azerynn", "translation": "Azerynn", "note": ""}
+{"key": "azerynn", "word": "Azerynn", "translation": "Azerynn", "note": "", "status": "ignored"}
 {"key": "azir", "word": "Azir", "translation": "Azir", "note": ""}
-{"key": "azjentus", "word": "Azjentus", "translation": "Azjentus", "note": ""}
+{"key": "azjentus", "word": "Azjentus", "translation": "Azjentus", "note": "", "status": "ignored"}
 {"key": "azjol'nerub", "word": "Azjol'Nerub", "translation": "Azjol'Nerub", "note": "official WoW location name; city of the nerubian empire", "status": "ignored"}
 {"key": "azkra", "word": "Azkra", "translation": "Azkra", "note": ""}
-{"key": "azodius", "word": "Azodius", "translation": "Azodius", "note": ""}
-{"key": "azmerloth", "word": "Azmerloth", "translation": "Azmerloth", "note": ""}
+{"key": "azodius", "word": "Azodius", "translation": "Azodius", "note": "", "status": "ignored"}
+{"key": "azmerloth", "word": "Azmerloth", "translation": "Azmerloth", "note": "", "status": "ignored"}
 {"key": "azora", "word": "Azora", "translation": "Azora", "note": ""}
-{"key": "azralon", "word": "Azralon", "translation": "Azralon", "note": ""}
+{"key": "azralon", "word": "Azralon", "translation": "Azralon", "note": "", "status": "ignored"}
 {"key": "azsharischen", "word": "azsharischen", "translation": "Azsharian", "note": "adjective relating to Azshari naga civilization and culture"}
 {"key": "azsharitkern", "word": "Azsharitkern", "translation": "Azsharite core", "note": "compound: azsharit + kern (core); crystalline core of azsharite material"}
 {"key": "azsunianische", "word": "azsunianische", "translation": "Azsunian", "note": "adjective relating to Azsuna region and its inhabitants"}
-{"key": "azsunit", "word": "Azsunit", "translation": "Azsunit", "note": ""}
+{"key": "azsunit", "word": "Azsunit", "translation": "Azsunit", "note": "", "status": "ignored"}
 {"key": "azsunitring", "word": "Azsunitring", "translation": "azsunite ring", "note": "compound: azsunit + ring; decorative or magical azsunite ring"}
 {"key": "azur", "word": "Azur", "translation": "azure", "note": "from French; means blue or bright blue"}
 {"key": "azurarchivs", "word": "Azurarchivs", "translation": "Azure Archives", "note": "compound: azure + archives; library or record collection"}
@@ -52625,14 +52625,14 @@
 {"key": "azurstahl", "word": "Azurstahl", "translation": "Azuresteel", "note": "compound: azure + stahl (steel); blue-tinted or enchanted steel"}
 {"key": "azurwaffen", "word": "Azurwaffen", "translation": "Azure Weapons", "note": "compound: azure + waffen (weapons); arms of blue or azure nature"}
 {"key": "azurzähne", "word": "Azurzähne", "translation": "Azure teeth", "note": "compound: azure + zähne (teeth); fangs or teeth with azure coloring"}
-{"key": "azzinoth", "word": "Azzinoth", "translation": "Azzinoth", "note": ""}
-{"key": "b'khor", "word": "B'khor", "translation": "B'khor", "note": ""}
+{"key": "azzinoth", "word": "Azzinoth", "translation": "Azzinoth", "note": "", "status": "ignored"}
+{"key": "b'khor", "word": "B'khor", "translation": "B'khor", "note": "", "status": "ignored"}
 {"key": "b-b-barbier", "word": "B-b-barbier", "translation": "B-b-barber", "note": "stuttering represents nervousness or fear; full word is Barbier (barber)"}
 {"key": "b-mannschaft", "word": "B-Mannschaft", "translation": "B team", "note": "compound: B + mannschaft (team); secondary or reserve team"}
 {"key": "b-note", "word": "B-Note", "translation": "B grade", "note": "school or rating grade system; B is second-highest grade"}
-{"key": "ba'choso", "word": "Ba'choso", "translation": "Ba'choso", "note": ""}
-{"key": "ba'eth", "word": "Ba'eth", "translation": "Ba'eth", "note": ""}
-{"key": "ba'kril", "word": "Ba'kril", "translation": "Ba'kril", "note": ""}
+{"key": "ba'choso", "word": "Ba'choso", "translation": "Ba'choso", "note": "", "status": "ignored"}
+{"key": "ba'eth", "word": "Ba'eth", "translation": "Ba'eth", "note": "", "status": "ignored"}
+{"key": "ba'kril", "word": "Ba'kril", "translation": "Ba'kril", "note": "", "status": "ignored"}
 {"key": "babybären", "word": "Babybären", "translation": "baby bears", "note": "compound: baby + bären (bears); young bears or bear cubs"}
 {"key": "babydiebe", "word": "Babydiebe", "translation": "baby thieves", "note": "compound: baby + diebe (thieves); possibly small or young thieves"}
 {"key": "babyorcmörder", "word": "Babyorcmörder", "translation": "baby orc killers", "note": "compound: baby + orc + mörder (killers); refers to those who kill orc young"}
