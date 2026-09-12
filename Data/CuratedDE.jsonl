@@ -40232,16 +40232,16 @@
 {"key": "sanftmütigen", "word": "Sanftmütigen", "translation": "meek ones", "note": "plural of sanftmütig; the gentle or meek persons"}
 {"key": "sangen", "word": "sangen", "translation": "sang", "note": "past tense of singen (to sing); plural they sang"}
 {"key": "sank", "word": "sank", "translation": "sank", "note": "past tense of sinken (to sink)"}
-{"key": "sargeron", "word": "Sargeron", "translation": "Sargeron", "note": ""}
-{"key": "sarkareths", "word": "Sarkareths", "translation": "Sarkareths", "note": ""}
+{"key": "sargeron", "word": "Sargeron", "translation": "Sargeron", "note": "", "status": "ignored"}
+{"key": "sarkareths", "word": "Sarkareths", "translation": "Sarkareths", "note": "", "status": "ignored"}
 {"key": "saronitbomben", "word": "Saronitbomben", "translation": "Saronite bombs", "note": "compound saronite (wow material) + bomben (bombs)"}
-{"key": "sartharion", "word": "Sartharion", "translation": "Sartharion", "note": ""}
+{"key": "sartharion", "word": "Sartharion", "translation": "Sartharion", "note": "", "status": "ignored"}
 {"key": "sassen", "word": "saßen", "translation": "sat", "note": "past tense of sitzen (to sit); plural they sat"}
-{"key": "sathrah", "word": "Sathrah", "translation": "Sathrah", "note": ""}
+{"key": "sathrah", "word": "Sathrah", "translation": "Sathrah", "note": "", "status": "ignored"}
 {"key": "saurid", "word": "Saurid", "translation": "Saurid", "note": ""}
 {"key": "sauriden", "word": "Sauriden", "translation": "Saurids", "note": "plural of saurid; dinosaur-like creatures"}
 {"key": "scanner", "word": "Scanner", "translation": "scanner", "note": "english loanword; device for detecting"}
-{"key": "scaralesh", "word": "Scaralesh", "translation": "Scaralesh", "note": ""}
+{"key": "scaralesh", "word": "Scaralesh", "translation": "Scaralesh", "note": "", "status": "ignored"}
 {"key": "schaber", "word": "Schaber", "translation": "scraper", "note": "tool for scraping; from schaben (to scrape)"}
 {"key": "schabernack", "word": "Schabernack", "translation": "Practical joke", "note": "means a prank or trick; mischief or jest"}
 {"key": "schachfigur", "word": "Schachfigur", "translation": "Chess piece", "note": "compound schach (chess) + figur (piece)"}
@@ -40412,7 +40412,7 @@
 {"key": "serfex", "word": "Serfex", "translation": "Serfex", "note": "proper noun; NPC or creature name", "status": "ignored"}
 {"key": "serrik", "word": "Serrik", "translation": "Serrik", "note": "proper noun; NPC name", "status": "ignored"}
 {"key": "servos", "word": "Servos", "translation": "Servos", "note": "mechanical actuators in machinery; servo = control mechanism that adjusts position"}
-{"key": "seshteng", "word": "Seshteng", "translation": "Seshteng", "note": ""}
+{"key": "seshteng", "word": "Seshteng", "translation": "Seshteng", "note": "", "status": "ignored"}
 {"key": "sessel", "word": "Sessel", "translation": "chair; armchair", "note": "German word for any chair, English \"armchair\" is more specific"}
 {"key": "setup", "word": "setup", "translation": "setup; configuration", "note": ""}
 {"key": "seuchenhorn", "word": "Seuchenhorn", "translation": "Plaguehorn", "note": "seuche (plague) + horn; creature or item name in WoW"}
@@ -40420,13 +40420,13 @@
 {"key": "seuchensturz", "word": "Seuchensturz", "translation": "Plaguefall", "note": "seuche (plague) + sturz (fall); official WoW zone/dungeon name"}
 {"key": "seuchewagen", "word": "Seuchewagen", "translation": "plague wagon", "note": "seuche (plague) + wagen (wagon/cart); compound noun"}
 {"key": "shadrabrut", "word": "Shadrabrut", "translation": "Shadraspawn", "note": "brut = spawn/brood; compound with creature name Shadra"}
-{"key": "shaffar", "word": "Shaffar", "translation": "Shaffar", "note": ""}
+{"key": "shaffar", "word": "Shaffar", "translation": "Shaffar", "note": "", "status": "ignored"}
 {"key": "shaffars", "word": "Shaffars", "translation": "Shaffar's", "note": ""}
 {"key": "shai", "word": "Shai", "translation": "Shai", "note": ""}
 {"key": "shaja", "word": "Shaja", "translation": "Shaja", "note": "character name; NPC from Zul'Drak", "status": "ignored"}
-{"key": "sharas'dal", "word": "Sharas'dal", "translation": "Sharas'dal", "note": ""}
+{"key": "sharas'dal", "word": "Sharas'dal", "translation": "Sharas'dal", "note": "", "status": "ignored"}
 {"key": "sharim", "word": "Sharim", "translation": "Sharim", "note": ""}
-{"key": "sharisanda", "word": "Sharisanda", "translation": "Sharisanda", "note": ""}
+{"key": "sharisanda", "word": "Sharisanda", "translation": "Sharisanda", "note": "", "status": "ignored"}
 {"key": "shauly", "word": "Shauly", "translation": "Shauly", "note": ""}
 {"key": "shi", "word": "Shi", "translation": "Shi", "note": ""}
 {"key": "shivarra", "word": "Shivarra", "translation": "Shivarra", "note": "demon race with four arms; demonic entity", "status": "ignored"}
@@ -40441,14 +40441,14 @@
 {"key": "siegeln", "word": "Siegeln", "translation": "seals", "note": "sigil seals; plural noun of Siegel (seal/sigil)"}
 {"key": "siegreichen", "word": "siegreichen", "translation": "victorious", "note": "siegreich = victorious; plural adjective"}
 {"key": "siegt", "word": "siegt", "translation": "wins; is victorious", "note": "3rd person singular present of siegen (to win/triumph)"}
-{"key": "siesbarg", "word": "Siesbarg", "translation": "Siesbarg", "note": ""}
+{"key": "siesbarg", "word": "Siesbarg", "translation": "Siesbarg", "note": "", "status": "ignored"}
 {"key": "signe", "word": "Signe", "translation": "Signe", "note": ""}
 {"key": "sigryn", "word": "Sigryn", "translation": "Sigryn", "note": ""}
 {"key": "silberner", "word": "Silberner", "translation": "silver", "note": "silber + -ner (adjectival); describes something made of or colored silver"}
 {"key": "silk", "word": "silk", "translation": "silk", "note": ""}
 {"key": "simon", "word": "Simon", "translation": "Simon", "note": "NPC name; Simon Says reference", "status": "ignored"}
 {"key": "simone", "word": "Simone", "translation": "Simone", "note": ""}
-{"key": "sin'dall", "word": "Sin'dall", "translation": "Sin'dall", "note": ""}
+{"key": "sin'dall", "word": "Sin'dall", "translation": "Sin'dall", "note": "", "status": "ignored"}
 {"key": "sinnt", "word": "sinnt", "translation": "muses; ponders; plots", "note": "sinnen = to muse/ponder/plot; 3rd person present"}
 {"key": "sira", "word": "Sira", "translation": "Sira", "note": ""}
 {"key": "sirene", "word": "Sirene", "translation": "siren; mermaid", "note": "mythological creature; in WoW lore often hostile water beings"}
@@ -40470,12 +40470,12 @@
 {"key": "smaragd", "word": "Smaragd", "translation": "emerald", "note": "gemstone; from Old High German; also the color in Smaragdgrüner Traum (Emerald Dream)"}
 {"key": "smaragdgrüner", "word": "Smaragdgrüner", "translation": "emerald green; emerald-colored", "note": "smaragd (emerald) + grüner (green); compound adjective"}
 {"key": "smeed", "word": "Smeed", "translation": "Smeed", "note": ""}
-{"key": "so'leah", "word": "So'leah", "translation": "So'leah", "note": ""}
-{"key": "soferas", "word": "Soferas", "translation": "Soferas", "note": ""}
+{"key": "so'leah", "word": "So'leah", "translation": "So'leah", "note": "", "status": "ignored"}
+{"key": "soferas", "word": "Soferas", "translation": "Soferas", "note": "", "status": "ignored"}
 {"key": "sofortigen", "word": "sofortigen", "translation": "immediate; instantaneous", "note": "sofort (immediately) + -ig (adjective suffix); urgent/quick"}
 {"key": "sogleich", "word": "sogleich", "translation": "immediately; at once; forthwith", "note": "sog- (old form of so) + gleich (alike); archaic term for immediate action"}
 {"key": "sold", "word": "Sold", "translation": "pay; wages; salary", "note": "false friend: Sold means soldier's pay/wages, not sold (verkauft)"}
-{"key": "solethus", "word": "Solethus", "translation": "Solethus", "note": ""}
+{"key": "solethus", "word": "Solethus", "translation": "Solethus", "note": "", "status": "ignored"}
 {"key": "solidarität", "word": "Solidarität", "translation": "solidarity; unity", "note": "solidarity among allies; showing common cause"}
 {"key": "soll's", "word": "soll's", "translation": "so what; what should it be; never mind", "note": "colloquial contraction: soll + es; expresses indifference"}
 {"key": "sommermond", "word": "Sommermond", "translation": "summer moon", "note": "sommer (summer) + mond (moon); descriptive/poetic name"}
@@ -40488,7 +40488,7 @@
 {"key": "sonnenschein", "word": "Sonnenschein", "translation": "sunshine; sunlight", "note": "sonnen (sun) + schein (shine/light); poetic for bright happiness"}
 {"key": "sonnenzorn", "word": "Sonnenzorn", "translation": "Sunfury", "note": "sonnen (sun) + zorn (wrath); WoW Sunfury garrison; official name differs"}
 {"key": "soo", "word": "SOO", "translation": "SOO", "note": "stylized emphatic uppercase; means very/so", "status": "ignored"}
-{"key": "soo-rahm", "word": "Soo-rahm", "translation": "Soo-rahm", "note": ""}
+{"key": "soo-rahm", "word": "Soo-rahm", "translation": "Soo-rahm", "note": "", "status": "ignored"}
 {"key": "sooooo", "word": "Sooooo", "translation": "Soooo; so hungry", "note": "stylized elongation of so (so); expresses intensity"}
 {"key": "soren", "word": "Soren", "translation": "Soren", "note": ""}
 {"key": "sorlof", "word": "Sorlof", "translation": "Sorlof", "note": ""}
@@ -40518,7 +40518,7 @@
 {"key": "spornt", "word": "spornt", "translation": "spurs; urges; drives; encourages", "note": "spornen = to spur/urge on; prompts action or motivation"}
 {"key": "sport", "word": "Sport", "translation": "sport; fun; game", "note": "sport as recreation; context: \"as sport\" = for amusement/cruelty"}
 {"key": "sprachrohr", "word": "Sprachrohr", "translation": "mouthpiece; spokesperson; voice", "note": "sprach (speech) + rohr (tube/pipe); one who speaks for others"}
-{"key": "spraggel", "word": "Spraggel", "translation": "Spraggel", "note": ""}
+{"key": "spraggel", "word": "Spraggel", "translation": "Spraggel", "note": "", "status": "ignored"}
 {"key": "spring-o-mat", "word": "Spring-o-Mat", "translation": "Spring-o-Mat", "note": "gnomish device name; spring + o (suffix) + mat", "status": "ignored"}
 {"key": "springbrunnen", "word": "Springbrunnen", "translation": "fountain", "note": "springen (to spring/jump) + brunnen (spring); water fountain"}
 {"key": "springe", "word": "springe", "translation": "jump; leap; spring", "note": "1st person singular or imperative of springen (to jump)"}
