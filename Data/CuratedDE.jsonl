@@ -62664,7 +62664,7 @@
 {"key": "leokks", "word": "Leokks", "translation": "Leokks", "note": "plural or possessive of WoW creature Leokk", "status": "ignored"}
 {"key": "leonhard", "word": "Leonhard", "translation": "Leonhard", "note": "German surname; leo (lion) + hard (strong)", "status": "ignored"}
 {"key": "leoparden", "word": "Leoparden", "translation": "leopards", "note": "plural of Leopard (leopard); large spotted feline"}
-{"key": "leopold", "word": "Leopold", "translation": "Leopold", "note": "Germanic given name; leo (lion) + bold (bold)"}
+{"key": "leopold", "word": "Leopold", "translation": "Leopold", "note": "Germanic given name; leo (lion) + bold (bold)", "status": "ignored"}
 {"key": "leora", "word": "Leora", "translation": "Leora", "note": ""}
 {"key": "leporid", "word": "Leporid", "translation": "leporid", "note": "scientific term for rabbit-like mammals; family Leporidae"}
 {"key": "lepragnomen", "word": "Lepragnomen", "translation": "leprosy gnome", "note": "not a standard term; appears to be a fantasy creature combination"}
@@ -63276,7 +63276,7 @@
 {"key": "manchma", "word": "Manchma", "translation": "sometimes", "note": "dialectal contraction; manchmal = sometimes"}
 {"key": "mandarr", "word": "Mandarr", "translation": "Mandarr", "note": ""}
 {"key": "mandat", "word": "Mandat", "translation": "mandate", "note": "official authority or command; from Latin mandatum"}
-{"key": "manduil", "word": "Manduil", "translation": "Manduil", "note": "person name"}
+{"key": "manduil", "word": "Manduil", "translation": "Manduil", "note": "person name", "status": "ignored"}
 {"key": "mandragora", "word": "Mandragora", "translation": "mandragora", "note": "magical plant; reference to mandragora legend"}
 {"key": "mangal", "word": "Mangal", "translation": "Mangal", "note": "creature name (crocodile-type)", "status": "ignored"}
 {"key": "mangeln", "word": "mangeln", "translation": "lack", "note": "to be without or deficient in"}
@@ -63308,19 +63308,19 @@
 {"key": "maokka", "word": "Maokka", "translation": "Maokka", "note": "creature or character name", "status": "ignored"}
 {"key": "mar'li", "word": "Mar'li", "translation": "Mar'li", "note": "NPC or creature name", "status": "ignored"}
 {"key": "mar'nah", "word": "Mar'nah", "translation": "Mar'nah", "note": "NPC name", "status": "ignored"}
-{"key": "mara", "word": "Mara", "translation": "Mara", "note": "person name; merchant"}
-{"key": "marathelle", "word": "Marathelle", "translation": "Marathelle", "note": "person name"}
+{"key": "mara", "word": "Mara", "translation": "Mara", "note": "person name; merchant", "status": "ignored"}
+{"key": "marathelle", "word": "Marathelle", "translation": "Marathelle", "note": "person name", "status": "ignored"}
 {"key": "maraudines", "word": "Maraudines", "translation": "Maraudines", "note": "centaur clan name; proper noun", "status": "ignored"}
-{"key": "marcel", "word": "Marcel", "translation": "Marcel", "note": "person name"}
-{"key": "marcy", "word": "Marcy", "translation": "Marcy", "note": "person name"}
+{"key": "marcel", "word": "Marcel", "translation": "Marcel", "note": "person name", "status": "ignored"}
+{"key": "marcy", "word": "Marcy", "translation": "Marcy", "note": "person name", "status": "ignored"}
 {"key": "mardenholde", "word": "Mardenholde", "translation": "Mardenholde", "note": "location name", "status": "ignored"}
-{"key": "mardranel", "word": "Mardranel", "translation": "Mardranel", "note": "person name; ranger"}
+{"key": "mardranel", "word": "Mardranel", "translation": "Mardranel", "note": "person name; ranger", "status": "ignored"}
 {"key": "marduk", "word": "Marduk", "translation": "Marduk", "note": "creature or character name", "status": "ignored"}
-{"key": "maren", "word": "Maren", "translation": "Maren", "note": "person name; quartermaster"}
+{"key": "maren", "word": "Maren", "translation": "Maren", "note": "person name; quartermaster", "status": "ignored"}
 {"key": "mardums", "word": "Mardums", "translation": "Mardums", "note": "location name; plural form"}
 {"key": "margarete", "word": "Margarete", "translation": "Margaret", "note": "person name in English form"}
 {"key": "margenes", "word": "Margenes", "translation": "Margenes", "note": "bulldozer name; proper noun", "status": "ignored"}
-{"key": "margie", "word": "Margie", "translation": "Margie", "note": "person name"}
+{"key": "margie", "word": "Margie", "translation": "Margie", "note": "person name", "status": "ignored"}
 {"key": "margol", "word": "Margol", "translation": "Margol", "note": "creature name; ancient drake", "status": "ignored"}
 {"key": "mariella", "word": "Mariella", "translation": "Mariella", "note": "person name; Champion", "status": "ignored"}
 {"key": "marileths", "word": "Marileths", "translation": "Marileth's", "note": "possessive form; belongings of Marileth"}
@@ -63348,7 +63348,7 @@
 {"key": "marodierenden", "word": "marodierenden", "translation": "marauding", "note": "adjective in accusative case"}
 {"key": "marodierender", "word": "marodierender", "translation": "marauding", "note": "adjective in genitive case"}
 {"key": "marosh", "word": "Marosh", "translation": "Marosh", "note": "NPC name; furbolg", "status": "ignored"}
-{"key": "marrah", "word": "Marrah", "translation": "Marrah", "note": "person name"}
+{"key": "marrah", "word": "Marrah", "translation": "Marrah", "note": "person name", "status": "ignored"}
 {"key": "marren", "word": "Marren", "translation": "Marren", "note": "NPC name; stablemaster", "status": "ignored"}
 {"key": "marschbefehl", "word": "Marschbefehl", "translation": "marching orders", "note": "command to begin movement; befehl = order or command"}
 {"key": "marschengift", "word": "Marschengift", "translation": "marsh poison", "note": "toxin found in swampy areas; from marsch = marsh"}
@@ -64427,7 +64427,7 @@
 {"key": "naturgemäss", "word": "Naturgemäß", "translation": "naturally", "note": "adverb meaning 'of course' or 'as one would expect'"}
 {"key": "naturschutz", "word": "Naturschutz", "translation": "nature conservation", "note": "compound; conservation of nature"}
 {"key": "naturschützer", "word": "Naturschützer", "translation": "conservationist", "note": "someone who practices nature conservation"}
-{"key": "nau", "word": "Nau", "translation": "Nau", "note": "child's name"}
+{"key": "nau", "word": "Nau", "translation": "Nau", "note": "child's name", "status": "ignored"}
 {"key": "nav-tests", "word": "Nav-Tests", "translation": "nav tests", "note": "abbreviation for navigation tests; developer/testing reference"}
 {"key": "nava", "word": "Nava", "translation": "Nava", "note": "NPC or character name", "status": "ignored"}
 {"key": "navarroggs", "word": "Navarroggs", "translation": "Navarroggs", "note": "proper name; demon or creature", "status": "ignored"}
@@ -64478,7 +64478,7 @@
 {"key": "nebulösen", "word": "nebulösen", "translation": "nebulous", "note": "adjective, dative plural; cloud-like or vague"}
 {"key": "needed", "word": "needed", "translation": "needed", "note": "English loanword; required or necessary"}
 {"key": "neeiin", "word": "neeiin", "translation": "nope", "note": "interjection; drawn-out 'no' in protest or denial"}
-{"key": "neelo", "word": "Neelo", "translation": "Neelo", "note": "child's name"}
+{"key": "neelo", "word": "Neelo", "translation": "Neelo", "note": "child's name", "status": "ignored"}
 {"key": "neeeiinn", "word": "Neeeiinn", "translation": "nooooo", "note": "exclamation; prolonged protest or anguished 'no'"}
 {"key": "neers", "word": "Neers", "translation": "Neers", "note": "NPC or character name", "status": "ignored"}
 {"key": "nedars", "word": "Nedars", "translation": "Nedars", "note": "NPC or character name; giant creature", "status": "ignored"}
@@ -64501,7 +64501,7 @@
 {"key": "nekthar", "word": "Nekthar", "translation": "nectar", "note": "corrected from misspelling; sweet liquid from flowers"}
 {"key": "nelken", "word": "Nelken", "translation": "cloves", "note": "plural; aromatic spice buds from clove tree"}
 {"key": "nelric", "word": "Nelric", "translation": "Nelric", "note": "NPC or guard commander name", "status": "ignored"}
-{"key": "nelthar", "word": "Nelthar", "translation": "Nelthar", "note": "character name; likely draconic"}
+{"key": "nelthar", "word": "Nelthar", "translation": "Nelthar", "note": "character name; likely draconic", "status": "ignored"}
 {"key": "nelthazan", "word": "Nelthazan", "translation": "Nelthazan", "note": "proper location name; ruins or ancient place", "status": "ignored"}
 {"key": "nemaglek", "word": "Nemaglek", "translation": "Nemaglek", "note": "elder character or NPC name", "status": "ignored"}
 {"key": "nennenswerte", "word": "nennenswerte", "translation": "notable", "note": "adjective; worthy of mention or noteworthy"}
@@ -64515,11 +64515,11 @@
 {"key": "nereus", "word": "Nereus", "translation": "Nereus", "note": "character or NPC name", "status": "ignored"}
 {"key": "nergeld", "word": "Nergeld", "translation": "Nergeld", "note": "proper creature or construct name", "status": "ignored"}
 {"key": "neris", "word": "Neris", "translation": "Neris", "note": "NPC or character name", "status": "ignored"}
-{"key": "nerith", "word": "Nerith", "translation": "Nerith", "note": "character name; likely draconic"}
+{"key": "nerith", "word": "Nerith", "translation": "Nerith", "note": "character name; likely draconic", "status": "ignored"}
 {"key": "nero", "word": "Nero", "translation": "Nero", "note": "proper name; historical Roman emperor reference", "status": "ignored"}
 {"key": "nerok", "word": "Nerok", "translation": "Nerok", "note": "wolf or beast companion name", "status": "ignored"}
 {"key": "nerubischer", "word": "nerubischer", "translation": "nerubian", "note": "adjective; relating to the Nerubian race or realm"}
-{"key": "nerus", "word": "Nerus", "translation": "Nerus", "note": "character name; likely draconic"}
+{"key": "nerus", "word": "Nerus", "translation": "Nerus", "note": "character name; likely draconic", "status": "ignored"}
 {"key": "nerventonikum", "word": "Nerventonikum", "translation": "nerve tonic", "note": "compound; medicinal potion for the nervous system"}
 {"key": "nervig", "word": "nervig", "translation": "annoying", "note": "adjective; tiresome or grating"}
 {"key": "nervigen", "word": "nervigen", "translation": "annoying", "note": "adjective accusative; irritating or exasperating"}
@@ -69701,7 +69701,7 @@
 {"key": "tombers", "word": "Tombers", "translation": "Tombers", "note": ""}
 {"key": "tomothys", "word": "Tomothys", "translation": "Tomothys", "note": "possessive form of a name"}
 {"key": "tonfall", "word": "Tonfall", "translation": "tone of voice", "note": "ton (tone) + fall (pattern/case); vocal inflection"}
-{"key": "tong", "word": "Tong", "translation": "Tong", "note": "official organization name"}
+{"key": "tong", "word": "Tong", "translation": "Tong", "note": "official organization name", "status": "ignored"}
 {"key": "tonk", "word": "Tonk", "translation": "Tonk", "note": ""}
 {"key": "tonlage", "word": "Tonlage", "translation": "pitch", "note": "ton (tone) + lage (position); musical frequency range"}
 {"key": "tonne", "word": "TONNE", "translation": "tonne", "note": "metric unit of mass, 1000 kg"}

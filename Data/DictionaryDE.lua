@@ -53224,7 +53224,7 @@ WordHunterWoW_Dictionary_DE["leonid"] = { word = "Leonid", translation = "Leonid
 WordHunterWoW_Dictionary_DE["leonidas"] = { word = "Leonidas", translation = "Leonidas", note = "" }
 WordHunterWoW_Dictionary_DE["leoparden"] = { word = "Leoparden", translation = "leopards", note = "plural of Leopard (leopard); large spotted feline" }
 WordHunterWoW_Dictionary_DE["leopardengöttin"] = { word = "Leopardengöttin", translation = "leopard goddess", note = "Har'koa in WoW lore; troll deity" }
-WordHunterWoW_Dictionary_DE["leopold"] = { word = "Leopold", translation = "Leopold", note = "Germanic given name; leo (lion) + bold (bold)" }
+WordHunterWoW_Dictionary_DE["leopold"] = { word = "Leopold", translation = "Leopold", note = "Germanic given name; leo (lion) + bold (bold)", status = "ignored" }
 WordHunterWoW_Dictionary_DE["leora"] = { word = "Leora", translation = "Leora", note = "" }
 WordHunterWoW_Dictionary_DE["leorajh"] = { word = "Leorajh", translation = "Leorajh", note = "WoW proper name", status = "ignored" }
 WordHunterWoW_Dictionary_DE["leorajhs"] = { word = "Leorajhs", translation = "Leorajhs", note = "NPC name; appears in prayer beads quest" , status = "ignored" }
@@ -55794,7 +55794,7 @@ WordHunterWoW_Dictionary_DE["mandragora"] = { word = "Mandragora", translation =
 WordHunterWoW_Dictionary_DE["mandragoras"] = { word = "Mandragoras", translation = "mandragoras", note = "mandrake plants; mythical plant with human-like root; plural" }
 WordHunterWoW_Dictionary_DE["mandrakor"] = { word = "Mandrakor", translation = "Mandrakor", note = "proper creature name; 'Mandrakor the Night Hunter'", status = "ignored" }
 WordHunterWoW_Dictionary_DE["mandrel"] = { word = "Mandrel", translation = "Mandrel", note = "proper NPC name; a mandrel is a metalworking tool, but here used as name", status = "ignored" }
-WordHunterWoW_Dictionary_DE["manduil"] = { word = "Manduil", translation = "Manduil", note = "person name" }
+WordHunterWoW_Dictionary_DE["manduil"] = { word = "Manduil", translation = "Manduil", note = "person name", status = "ignored" }
 WordHunterWoW_Dictionary_DE["maneet"] = { word = "Maneet", translation = "Maneet", note = "proper creature or NPC name", status = "ignored" }
 WordHunterWoW_Dictionary_DE["mangal"] = { word = "Mangal", translation = "Mangal", note = "creature name (crocodile-type)" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["mangalkrokilisk"] = { word = "Mangalkrokilisk", translation = "mangal crocodile; mangal crocilisk", note = "apex predator; ambush hunter requiring careful camouflage" }
@@ -55932,13 +55932,13 @@ WordHunterWoW_Dictionary_DE["mar'kag"] = { word = "Mar'kag", translation = "Mar'
 WordHunterWoW_Dictionary_DE["mar'li"] = { word = "Mar'li", translation = "Mar'li", note = "NPC or creature name" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["mar'nah"] = { word = "Mar'nah", translation = "Mar'nah", note = "NPC name" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["mar'tak"] = { word = "Mar'tak", translation = "Mar'tak", note = "proper NPC name; 'Siege Master Mar'tak'", status = "ignored" }
-WordHunterWoW_Dictionary_DE["mara"] = { word = "Mara", translation = "Mara", note = "person name; merchant" }
+WordHunterWoW_Dictionary_DE["mara"] = { word = "Mara", translation = "Mara", note = "person name; merchant", status = "ignored" }
 WordHunterWoW_Dictionary_DE["mara'nar"] = { word = "Mara'nar", translation = "Mara'nar", note = "" }
 WordHunterWoW_Dictionary_DE["maraad"] = { word = "Maraad", translation = "Maraad", note = "proper noun, draenei hero in World of Warcraft", status = "ignored" }
 WordHunterWoW_Dictionary_DE["marak"] = { word = "Marak", translation = "Marak", note = "" }
 WordHunterWoW_Dictionary_DE["marandis"] = { word = "Marandis", translation = "Marandis", note = "proper name: NPC (satyr guardian)", status = "ignored" }
 WordHunterWoW_Dictionary_DE["marasmius"] = { word = "Marasmius", translation = "Marasmius", note = "" }
-WordHunterWoW_Dictionary_DE["marathelle"] = { word = "Marathelle", translation = "Marathelle", note = "person name" }
+WordHunterWoW_Dictionary_DE["marathelle"] = { word = "Marathelle", translation = "Marathelle", note = "person name", status = "ignored" }
 WordHunterWoW_Dictionary_DE["maraudine"] = { word = "Maraudine", translation = "Maraudine", note = "Tauren clan name" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["maraudines"] = { word = "Maraudines", translation = "Maraudines", note = "centaur clan name; proper noun", status = "ignored" }
 WordHunterWoW_Dictionary_DE["maraudinezentauren"] = { word = "Maraudinezentauren", translation = "Marauding centaurs", note = "marauding (marauder/raider) + zentauren (centaurs); plural; enemy faction" }
@@ -55947,23 +55947,23 @@ WordHunterWoW_Dictionary_DE["maraudon-ort"] = { word = "Maraudon-Ort", translati
 WordHunterWoW_Dictionary_DE["marbb"] = { word = "Marbb", translation = "Marbb", note = "" }
 WordHunterWoW_Dictionary_DE["marblesten"] = { word = "Marblesten", translation = "Marblesten", note = "NPC name" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["marblub"] = { word = "Marblub", translation = "Marblub", note = "" }
-WordHunterWoW_Dictionary_DE["marcel"] = { word = "Marcel", translation = "Marcel", note = "person name" }
+WordHunterWoW_Dictionary_DE["marcel"] = { word = "Marcel", translation = "Marcel", note = "person name", status = "ignored" }
 WordHunterWoW_Dictionary_DE["marcelis"] = { word = "Marcelis", translation = "Marcelis", note = "NPC summoner" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["marcia"] = { word = "Marcia", translation = "Marcia", note = "" }
 WordHunterWoW_Dictionary_DE["marcus"] = { word = "Marcus", translation = "Marcus", note = "NPC name" , status = "ignored" }
-WordHunterWoW_Dictionary_DE["marcy"] = { word = "Marcy", translation = "Marcy", note = "person name" }
+WordHunterWoW_Dictionary_DE["marcy"] = { word = "Marcy", translation = "Marcy", note = "person name", status = "ignored" }
 WordHunterWoW_Dictionary_DE["mardant"] = { word = "Mardant", translation = "Mardant", note = "proper name: NPC", status = "ignored" }
 WordHunterWoW_Dictionary_DE["mardei"] = { word = "Mardei", translation = "Mardei", note = "" }
 WordHunterWoW_Dictionary_DE["mardenholde"] = { word = "Mardenholde", translation = "Mardenholde", note = "location name" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["mardivas"] = { word = "Mardivas", translation = "Mardivas", note = "" }
-WordHunterWoW_Dictionary_DE["mardranel"] = { word = "Mardranel", translation = "Mardranel", note = "person name; ranger" }
+WordHunterWoW_Dictionary_DE["mardranel"] = { word = "Mardranel", translation = "Mardranel", note = "person name; ranger", status = "ignored" }
 WordHunterWoW_Dictionary_DE["marduk"] = { word = "Marduk", translation = "Marduk", note = "creature or character name" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["marduke"] = { word = "Marduke", translation = "Marduke", note = "NPC name" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["mardum"] = { word = "Mardum", translation = "Mardum", note = "proper noun, WoW location", status = "ignored" }
 WordHunterWoW_Dictionary_DE["mardums"] = { word = "Mardums", translation = "Mardums", note = "location name; plural form" }
 WordHunterWoW_Dictionary_DE["mare"] = { word = "Mare", translation = "Mare", note = "" }
 WordHunterWoW_Dictionary_DE["marek"] = { word = "Marek", translation = "Marek", note = "proper name: NPC; not \"Mark\"", status = "ignored" }
-WordHunterWoW_Dictionary_DE["maren"] = { word = "Maren", translation = "Maren", note = "person name; quartermaster" }
+WordHunterWoW_Dictionary_DE["maren"] = { word = "Maren", translation = "Maren", note = "person name; quartermaster", status = "ignored" }
 WordHunterWoW_Dictionary_DE["marez"] = { word = "Marez", translation = "Marez", note = "NPC name; wanted quest giver" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["marg"] = { word = "Marg", translation = "Marg", note = "proper name: NPC", status = "ignored" }
 WordHunterWoW_Dictionary_DE["margadesh"] = { word = "Margadesh", translation = "Margadesh", note = "proper NPC name; 'Sharpseeker Margadesh'", status = "ignored" }
@@ -55971,7 +55971,7 @@ WordHunterWoW_Dictionary_DE["margarete"] = { word = "Margarete", translation = "
 WordHunterWoW_Dictionary_DE["margaux"] = { word = "Margaux", translation = "Margaux", note = "NPC name; proper noun", status = "ignored" }
 WordHunterWoW_Dictionary_DE["margene"] = { word = "Margene", translation = "Margin", note = "proper name for a bulldozer; character/item name" }
 WordHunterWoW_Dictionary_DE["margenes"] = { word = "Margenes", translation = "Margenes", note = "bulldozer name; proper noun", status = "ignored" }
-WordHunterWoW_Dictionary_DE["margie"] = { word = "Margie", translation = "Margie", note = "person name" }
+WordHunterWoW_Dictionary_DE["margie"] = { word = "Margie", translation = "Margie", note = "person name", status = "ignored" }
 WordHunterWoW_Dictionary_DE["margol"] = { word = "Margol", translation = "Margol", note = "creature name; ancient drake" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["margols"] = { word = "Margols", translation = "Margols", note = "creature or NPC name" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["margoss"] = { word = "Margoss", translation = "Margoss", note = "proper NPC name; fishing quest-giver", status = "ignored" }
@@ -56126,7 +56126,7 @@ WordHunterWoW_Dictionary_DE["marosh"] = { word = "Marosh", translation = "Marosh
 WordHunterWoW_Dictionary_DE["maroth"] = { word = "Maroth", translation = "Maroth", note = "" }
 WordHunterWoW_Dictionary_DE["marou"] = { word = "Marou", translation = "Marou", note = "NPC name" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["marquis"] = { word = "Marquis", translation = "Marquis", note = "NPC Fausthammer, a nobleman" , status = "ignored" }
-WordHunterWoW_Dictionary_DE["marrah"] = { word = "Marrah", translation = "Marrah", note = "person name" }
+WordHunterWoW_Dictionary_DE["marrah"] = { word = "Marrah", translation = "Marrah", note = "person name", status = "ignored" }
 WordHunterWoW_Dictionary_DE["marran"] = { word = "Marran", translation = "Marran", note = "" }
 WordHunterWoW_Dictionary_DE["marrans"] = { word = "Marrans", translation = "Marrans", note = "NPC name; military rank Soldat" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["marren"] = { word = "Marren", translation = "Marren", note = "NPC name; stablemaster" , status = "ignored" }
@@ -60935,7 +60935,7 @@ WordHunterWoW_Dictionary_DE["natürlichen"] = { word = "natürlichen", translati
 WordHunterWoW_Dictionary_DE["natürlicher"] = { word = "natürlicher", translation = "natural", note = "comparative form" }
 WordHunterWoW_Dictionary_DE["natürlicheren"] = { word = "natürlicheren", translation = "more natural", note = "comparative adjective dative/accusative plural; current translation correct" }
 WordHunterWoW_Dictionary_DE["natürliches"] = { word = "natürliches", translation = "natural", note = "neuter nominative" }
-WordHunterWoW_Dictionary_DE["nau"] = { word = "Nau", translation = "Nau", note = "child's name" }
+WordHunterWoW_Dictionary_DE["nau"] = { word = "Nau", translation = "Nau", note = "child's name", status = "ignored" }
 WordHunterWoW_Dictionary_DE["nauthis"] = { word = "Nauthis", translation = "Nauthis", note = "" }
 WordHunterWoW_Dictionary_DE["nautische"] = { word = "nautische", translation = "nautical", note = "adjective relating to ships or seafaring" }
 WordHunterWoW_Dictionary_DE["nautischen"] = { word = "nautischen", translation = "nautical", note = "adjective dative plural; relating to ships/sea; current translation correct" }
@@ -61151,7 +61151,7 @@ WordHunterWoW_Dictionary_DE["neeiin"] = { word = "neeiin", translation = "nope",
 WordHunterWoW_Dictionary_DE["neeka"] = { word = "Neeka", translation = "Neeka", note = "NPC name" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["neekas"] = { word = "Neekas", translation = "Neekas", note = "npc report quest; untranslated" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["neela"] = { word = "Neela", translation = "Neela", note = "" }
-WordHunterWoW_Dictionary_DE["neelo"] = { word = "Neelo", translation = "Neelo", note = "child's name" }
+WordHunterWoW_Dictionary_DE["neelo"] = { word = "Neelo", translation = "Neelo", note = "child's name", status = "ignored" }
 WordHunterWoW_Dictionary_DE["neenas"] = { word = "Neenas", translation = "Neenas", note = "" }
 WordHunterWoW_Dictionary_DE["neenee"] = { word = "Neenee", translation = "Neenee", note = "NPC name; 'Nope' translation misses the proper name", status = "ignored" }
 WordHunterWoW_Dictionary_DE["neer"] = { word = "Neer", translation = "Neer", note = "" }
@@ -61268,7 +61268,7 @@ WordHunterWoW_Dictionary_DE["nelesis"] = { word = "Nelesis", translation = "Nele
 WordHunterWoW_Dictionary_DE["nelken"] = { word = "Nelken", translation = "cloves", note = "plural; aromatic spice buds from clove tree" }
 WordHunterWoW_Dictionary_DE["nelric"] = { word = "Nelric", translation = "Nelric", note = "NPC or guard commander name" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["nelson"] = { word = "Nelson", translation = "Nelson", note = "" }
-WordHunterWoW_Dictionary_DE["nelthar"] = { word = "Nelthar", translation = "Nelthar", note = "character name; likely draconic" }
+WordHunterWoW_Dictionary_DE["nelthar"] = { word = "Nelthar", translation = "Nelthar", note = "character name; likely draconic", status = "ignored" }
 WordHunterWoW_Dictionary_DE["neltharaku"] = { word = "Neltharaku", translation = "Neltharaku", note = "" }
 WordHunterWoW_Dictionary_DE["neltharakus"] = { word = "Neltharakus", translation = "Neltharakus", note = "" }
 WordHunterWoW_Dictionary_DE["neltharion"] = { word = "Neltharion", translation = "Neltharion", note = "WoW dragon: the Earth Warder, later became Deathwing", status = "ignored" }
@@ -61324,7 +61324,7 @@ WordHunterWoW_Dictionary_DE["nergazurai"] = { word = "Nergazurai", translation =
 WordHunterWoW_Dictionary_DE["nergeld"] = { word = "Nergeld", translation = "Nergeld", note = "proper creature or construct name", status = "ignored" }
 WordHunterWoW_Dictionary_DE["neri"] = { word = "Neri", translation = "Neri", note = "" }
 WordHunterWoW_Dictionary_DE["neris"] = { word = "Neris", translation = "Neris", note = "NPC or character name" , status = "ignored" }
-WordHunterWoW_Dictionary_DE["nerith"] = { word = "Nerith", translation = "Nerith", note = "character name; likely draconic" }
+WordHunterWoW_Dictionary_DE["nerith"] = { word = "Nerith", translation = "Nerith", note = "character name; likely draconic", status = "ignored" }
 WordHunterWoW_Dictionary_DE["neriths"] = { word = "Neriths", translation = "Neriths", note = "" }
 WordHunterWoW_Dictionary_DE["nero"] = { word = "Nero", translation = "Nero", note = "proper name; historical Roman emperor reference", status = "ignored" }
 WordHunterWoW_Dictionary_DE["nerok"] = { word = "Nerok", translation = "Nerok", note = "wolf or beast companion name" , status = "ignored" }
@@ -61345,7 +61345,7 @@ WordHunterWoW_Dictionary_DE["nerubische"] = { word = "nerubische", translation =
 WordHunterWoW_Dictionary_DE["nerubischen"] = { word = "nerubischen", translation = "nerubian", note = "relating to Nerubians (spider race)" }
 WordHunterWoW_Dictionary_DE["nerubischer"] = { word = "nerubischer", translation = "nerubian", note = "adjective; relating to the Nerubian race or realm" }
 WordHunterWoW_Dictionary_DE["nerubisches"] = { word = "nerubisches", translation = "nerubian", note = "adjective form" }
-WordHunterWoW_Dictionary_DE["nerus"] = { word = "Nerus", translation = "Nerus", note = "character name; likely draconic" }
+WordHunterWoW_Dictionary_DE["nerus"] = { word = "Nerus", translation = "Nerus", note = "character name; likely draconic", status = "ignored" }
 WordHunterWoW_Dictionary_DE["nerv"] = { word = "Nerv", translation = "nerve", note = "also used colloquially meaning 'cheeky behavior' or 'audacity'; here used as informal imperative 'quit being a pest'" }
 WordHunterWoW_Dictionary_DE["nerv-o-tron-bande"] = { word = "Nerv-o-Tron-Bande", translation = "Nerv-o-Tron band", note = "Nerv-o-Tron (device/gang name) + Bande (band, gang)" }
 WordHunterWoW_Dictionary_DE["nerven"] = { word = "Nerven", translation = "annoy", note = "nerven = to annoy or get on nerves; 'das nervt' = that annoys me" }
@@ -86078,7 +86078,7 @@ WordHunterWoW_Dictionary_DE["tomusa"] = { word = "Tomusa", translation = "Tomusa
 WordHunterWoW_Dictionary_DE["tomusas"] = { word = "Tomusas", translation = "Tomusas", note = "" }
 WordHunterWoW_Dictionary_DE["ton"] = { word = "Ton", translation = "clay", note = "can also mean tone or sound, but in craft context means clay" }
 WordHunterWoW_Dictionary_DE["tonfall"] = { word = "Tonfall", translation = "tone of voice", note = "ton (tone) + fall (pattern/case); vocal inflection" }
-WordHunterWoW_Dictionary_DE["tong"] = { word = "Tong", translation = "Tong", note = "official organization name" }
+WordHunterWoW_Dictionary_DE["tong"] = { word = "Tong", translation = "Tong", note = "official organization name", status = "ignored" }
 WordHunterWoW_Dictionary_DE["tonga"] = { word = "Tonga", translation = "Tonga", note = "" }
 WordHunterWoW_Dictionary_DE["tongas"] = { word = "Tongas", translation = "Tongas", note = "" }
 WordHunterWoW_Dictionary_DE["tongo"] = { word = "Tongo", translation = "Tongo", note = "single word in context; proper name or abbreviation", status = "ignored" }
