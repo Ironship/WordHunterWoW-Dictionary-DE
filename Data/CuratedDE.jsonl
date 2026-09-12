@@ -33074,8 +33074,8 @@
 {"key": "monti", "word": "Monti", "translation": "Monti", "note": ""}
 {"key": "mooswandler", "word": "Mooswandler", "translation": "Mosswalker", "note": "creature type"}
 {"key": "moozy", "word": "Moozy", "translation": "Moozy", "note": ""}
-{"key": "mord'rethar", "word": "Mord'rethar", "translation": "Mord'rethar", "note": ""}
-{"key": "mordigan", "word": "Mordigan", "translation": "Mordigan", "note": ""}
+{"key": "mord'rethar", "word": "Mord'rethar", "translation": "Mord'rethar", "note": "", "status": "ignored"}
+{"key": "mordigan", "word": "Mordigan", "translation": "Mordigan", "note": "", "status": "ignored"}
 {"key": "morgenröte", "word": "Morgenröte", "translation": "Dawn", "note": "literally morning-redness; refers to place or concept of dawn"}
 {"key": "mrg", "word": "Mrg", "translation": "Mrg", "note": "murloc speech", "status": "ignored"}
 {"key": "mrrl", "word": "Mrrl", "translation": "Mrrl", "note": "murloc speech", "status": "ignored"}
@@ -33126,11 +33126,11 @@
 {"key": "neugierde", "word": "Neugierde", "translation": "curiosity", "note": "neu (new) + Gierde (archaic for greed/desire)"}
 {"key": "neutrale", "word": "neutrale", "translation": "neutrals", "note": "plural adjective form used as noun"}
 {"key": "nezara", "word": "Nezara", "translation": "Nezara", "note": "WoW NPC (Naga)", "status": "ignored"}
-{"key": "nezzliok", "word": "Nezzliok", "translation": "Nezzliok", "note": ""}
+{"key": "nezzliok", "word": "Nezzliok", "translation": "Nezzliok", "note": "", "status": "ignored"}
 {"key": "niedermetzeln", "word": "niedermetzeln", "translation": "massacre", "note": "to slaughter; nieder (down) + metzeln (hack)"}
 {"key": "niedliche", "word": "niedliche", "translation": "cute", "note": ""}
 {"key": "niet", "word": "niet", "translation": "rivet", "note": "in phrase niet- und nagelfest = riveted and nailed"}
-{"key": "nikolon", "word": "Nikolon", "translation": "Nikolon", "note": ""}
+{"key": "nikolon", "word": "Nikolon", "translation": "Nikolon", "note": "", "status": "ignored"}
 {"key": "nimmst", "word": "nimmst", "translation": "take", "note": "2nd person singular of nehmen (to take)"}
 {"key": "nischen", "word": "Nischen", "translation": "niches", "note": "plural noun"}
 {"key": "nistklufttour", "word": "Nistklufttour", "translation": "Nesting Cleft tour", "note": "compound: Nist (nesting) + Kluft (cleft/gap) + Tour"}
@@ -33162,7 +33162,7 @@
 {"key": "opferung", "word": "Opferung", "translation": "sacrifice", "note": "the act of sacrificing; Opfer (victim/offering) + -ung"}
 {"key": "opferungen", "word": "Opferungen", "translation": "sacrifices", "note": "plural noun"}
 {"key": "orabus", "word": "Orabus", "translation": "Orabus", "note": "WoW NPC", "status": "ignored"}
-{"key": "oralius", "word": "Oralius", "translation": "Oralius", "note": ""}
+{"key": "oralius", "word": "Oralius", "translation": "Oralius", "note": "", "status": "ignored"}
 {"key": "orcische", "word": "orcische", "translation": "orcish", "note": "adjective relating to orcs"}
 {"key": "ordnungsmagie", "word": "Ordnungsmagie", "translation": "order magic", "note": "compound: Ordnung (order/regulation) + Magie (magic)"}
 {"key": "ordos", "word": "Ordos", "translation": "Ordos", "note": "WoW island/location", "status": "ignored"}
@@ -33174,7 +33174,7 @@
 {"key": "osul", "word": "Osul", "translation": "Osul", "note": "WoW location/area", "status": "ignored"}
 {"key": "oubliette", "word": "Oubliette", "translation": "oubliette", "note": "from French: a secret dungeon accessible only from above"}
 {"key": "outfit", "word": "Outfit", "translation": "outfit", "note": "English loanword (clothing ensemble)"}
-{"key": "pa'kus", "word": "Pa'kus", "translation": "Pa'kus", "note": ""}
+{"key": "pa'kus", "word": "Pa'kus", "translation": "Pa'kus", "note": "", "status": "ignored"}
 {"key": "pal'ea", "word": "Pal'ea", "translation": "Pal'ea", "note": "WoW location (ruined settlement)", "status": "ignored"}
 {"key": "paladins", "word": "Paladins", "translation": "Paladins", "note": "WoW class; English loanword"}
 {"key": "panthara", "word": "Panthara", "translation": "Panthara", "note": "WoW creature type", "status": "ignored"}
@@ -33187,12 +33187,12 @@
 {"key": "pathogen", "word": "Pathogen", "translation": "pathogen", "note": "a disease-causing organism; das Pathogen"}
 {"key": "pedgi", "word": "Pedgi", "translation": "Pedgi", "note": "WoW NPC (composer)", "status": "ignored"}
 {"key": "peitschern", "word": "Peitschern", "translation": "lashers", "note": "creatures or things that lash; from Peitsche (whip)"}
-{"key": "pelodis", "word": "Pelodis", "translation": "Pelodis", "note": ""}
+{"key": "pelodis", "word": "Pelodis", "translation": "Pelodis", "note": "", "status": "ignored"}
 {"key": "penny", "word": "Penny", "translation": "Penny", "note": "character name (proper noun)", "status": "ignored"}
 {"key": "persii", "word": "Persii", "translation": "Persii", "note": "creature name", "status": "ignored"}
 {"key": "pfeift", "word": "pfeift", "translation": "whistles", "note": "3rd person singular of pfeifen (to whistle)"}
 {"key": "pfui", "word": "Pfui", "translation": "ugh", "note": "exclamation of disgust"}
-{"key": "phaoris", "word": "Phaoris", "translation": "Phaoris", "note": ""}
+{"key": "phaoris", "word": "Phaoris", "translation": "Phaoris", "note": "", "status": "ignored"}
 {"key": "phasenleiter", "word": "Phasenleiter", "translation": "phase conductor", "note": "compound: Phase + Leiter (conductor/guide)"}
 {"key": "phin", "word": "Phin", "translation": "Phin", "note": "WoW NPC (murloc)", "status": "ignored"}
 {"key": "phrasen", "word": "Phrasen", "translation": "phrases", "note": "plural of Phrase; stock expressions"}
@@ -33513,25 +33513,25 @@
 {"key": "stürmte", "word": "stürmte", "translation": "stormed; rushed", "note": "past tense of stürmen; moved violently/impetuously"}
 {"key": "stürz'n", "word": "stürz'n", "translation": "plunge; dive", "note": "colloquial contraction of stürzen; throw oneself into action"}
 {"key": "stützpunkts", "word": "Stützpunkts", "translation": "base", "note": "outpost or garrison; Stütz- (support) + Punkt (point)"}
-{"key": "sufaadi", "word": "Sufaadi", "translation": "Sufaadi", "note": ""}
+{"key": "sufaadi", "word": "Sufaadi", "translation": "Sufaadi", "note": "", "status": "ignored"}
 {"key": "sullah", "word": "Sullah", "translation": "Sullah", "note": ""}
 {"key": "suna", "word": "Suna", "translation": "Suna", "note": ""}
-{"key": "sungshin", "word": "Sungshin", "translation": "Sungshin", "note": ""}
-{"key": "suramars", "word": "Suramars", "translation": "Suramars", "note": ""}
+{"key": "sungshin", "word": "Sungshin", "translation": "Sungshin", "note": "", "status": "ignored"}
+{"key": "suramars", "word": "Suramars", "translation": "Suramars", "note": "", "status": "ignored"}
 {"key": "surwich", "word": "Surwich", "translation": "Surwich", "note": ""}
-{"key": "sybaestan", "word": "Sybaestan", "translation": "Sybaestan", "note": ""}
+{"key": "sybaestan", "word": "Sybaestan", "translation": "Sybaestan", "note": "", "status": "ignored"}
 {"key": "sylvar", "word": "Sylvar", "translation": "Sylvar", "note": ""}
 {"key": "sylvie", "word": "Sylvie", "translation": "Sylvie", "note": ""}
 {"key": "säge", "word": "Säge", "translation": "saw", "note": "the cutting tool; German capitalizes all nouns but this common noun stays lowercase"}
 {"key": "südinselroute", "word": "Südinselroute", "translation": "South Island Route", "note": "compound: Süd (south) + Insel (island) + Route (route)"}
 {"key": "südstrom", "word": "Südstrom", "translation": "South Stream", "note": "compound: Süd (south) + Strom (stream); likely a location name"}
 {"key": "südwachttor", "word": "Südwachttor", "translation": "South Watch Gate", "note": "compound: Süd (south) + Wacht (watch) + Tor (gate)"}
-{"key": "t'uure", "word": "T'uure", "translation": "T'uure", "note": ""}
+{"key": "t'uure", "word": "T'uure", "translation": "T'uure", "note": "", "status": "ignored"}
 {"key": "taerix", "word": "Taerix", "translation": "Taerix", "note": ""}
 {"key": "takazj", "word": "Takazj", "translation": "Takazj", "note": ""}
 {"key": "takt", "word": "Takt", "translation": "rhythm", "note": "not tact; German Takt = rhythm, beat, or measure in music; context shows 'in the rhythm of a dying heart'"}
 {"key": "talenten", "word": "Talenten", "translation": "talents", "note": "plural nominative or accusative; abilities or skills"}
-{"key": "tamanji", "word": "Tamanji", "translation": "Tamanji", "note": ""}
+{"key": "tamanji", "word": "Tamanji", "translation": "Tamanji", "note": "", "status": "ignored"}
 {"key": "tan-chao", "word": "Tan-Chao", "translation": "Tan-Chao", "note": ""}
 {"key": "tassen", "word": "Tassen", "translation": "cups", "note": "plural of Tasse (cup); tableware"}
 {"key": "taugen", "word": "taugen", "translation": "be good for", "note": "verb meaning to be suitable or worthwhile; nicht viel taugen = not be much good"}
@@ -33544,13 +33544,13 @@
 {"key": "ten", "word": "ten", "translation": "th", "note": "ordinal suffix used in German numbers (109ten = 109th); standalone as suffix meaning 'th'"}
 {"key": "tentakeln", "word": "Tentakeln", "translation": "tentacles", "note": "plural of Tentakel; appendages of aquatic creatures"}
 {"key": "teromotten", "word": "Teromotten", "translation": "Teromoths", "note": "creature type name; compound likely Tero- (prefix) + Motten (moths)"}
-{"key": "teronis", "word": "Teronis", "translation": "Teronis", "note": ""}
+{"key": "teronis", "word": "Teronis", "translation": "Teronis", "note": "", "status": "ignored"}
 {"key": "testlauf", "word": "Testlauf", "translation": "test run", "note": "compound: Test + Lauf (run); experimental trial or dry run"}
 {"key": "teufelstotem", "word": "Teufelstotem", "translation": "Devil totem", "note": "compound: Teufel (devil) + Totem; WoW location or object name"}
 {"key": "teufelswurz", "word": "Teufelswurz", "translation": "Devil's Root", "note": "compound: Teufel (devil) + Wurz (root); a plant or material name"}
 {"key": "teuflisch", "word": "teuflisch", "translation": "devilish", "note": "adjective meaning diabolical, demonic, or wicked"}
 {"key": "texten", "word": "Texten", "translation": "texts", "note": "not texting; plural noun meaning written passages or documents"}
-{"key": "thargad", "word": "Thargad", "translation": "Thargad", "note": ""}
+{"key": "thargad", "word": "Thargad", "translation": "Thargad", "note": "", "status": "ignored"}
 {"key": "thega", "word": "Thega", "translation": "Thega", "note": ""}
 {"key": "theleon", "word": "Theleon", "translation": "Theleon", "note": ""}
 {"key": "theradras", "word": "Theradras", "translation": "Theradras", "note": ""}
