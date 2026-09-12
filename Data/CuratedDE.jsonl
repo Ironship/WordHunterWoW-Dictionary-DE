@@ -41762,7 +41762,7 @@
 {"key": "acteon", "word": "Acteon", "translation": "Acteon", "note": "NPC proper name; no translation needed", "status": "ignored"}
 {"key": "adalin", "word": "Adalin", "translation": "Adalin", "note": "NPC proper name (Adalin Hüfthoch); no translation needed", "status": "ignored"}
 {"key": "adana", "word": "Adana", "translation": "Adana", "note": ""}
-{"key": "adarrahs", "word": "Adarrahs", "translation": "Adarrahs", "note": ""}
+{"key": "adarrahs", "word": "Adarrahs", "translation": "Adarrahs", "note": "", "status": "ignored"}
 {"key": "addition", "word": "addition", "translation": "addition", "note": ""}
 {"key": "ade", "word": "Ade", "translation": "farewell", "note": "archaic or poetic farewell; Ade is often capitalized in German titles or place names"}
 {"key": "addles", "word": "Addles", "translation": "Addles", "note": ""}
@@ -41770,18 +41770,18 @@
 {"key": "adella", "word": "Adella", "translation": "Adella", "note": ""}
 {"key": "adlern", "word": "Adlern", "translation": "eagles", "note": "dative plural of Adler (eagle); the base form is Adler"}
 {"key": "adäquate", "word": "adäquate", "translation": "adequate", "note": "German adjective in plural/weak form; literal meaning 'suitable or fitting'"}
-{"key": "adzikel", "word": "Adzikel", "translation": "Adzikel", "note": ""}
-{"key": "aegwynn", "word": "Aegwynn", "translation": "Aegwynn", "note": ""}
-{"key": "ael'yith", "word": "Ael'Yith", "translation": "Ael'Yith", "note": ""}
+{"key": "adzikel", "word": "Adzikel", "translation": "Adzikel", "note": "", "status": "ignored"}
+{"key": "aegwynn", "word": "Aegwynn", "translation": "Aegwynn", "note": "", "status": "ignored"}
+{"key": "ael'yith", "word": "Ael'Yith", "translation": "Ael'Yith", "note": "", "status": "ignored"}
 {"key": "aenean", "word": "Aenean", "translation": "Aenean", "note": ""}
-{"key": "aerylia", "word": "Aerylia", "translation": "Aerylia", "note": ""}
+{"key": "aerylia", "word": "Aerylia", "translation": "Aerylia", "note": "", "status": "ignored"}
 {"key": "aesiriten", "word": "Aesiriten", "translation": "Aesirites", "note": "plural form of a race or group name; -iten suffix becomes -ites in English"}
 {"key": "aetha", "word": "Aetha", "translation": "Aetha", "note": ""}
-{"key": "aetherion", "word": "Aetherion", "translation": "Aetherion", "note": ""}
+{"key": "aetherion", "word": "Aetherion", "translation": "Aetherion", "note": "", "status": "ignored"}
 {"key": "affenbande", "word": "Affenbande", "translation": "monkey gang", "note": "affen (monkeys) + bande (gang); a compound noun for a group or faction"}
 {"key": "affenkönigs", "word": "Affenkönigs", "translation": "Monkey King", "note": "genitive singular; affen (monkey) + könig (king); a title or proper name"}
 {"key": "again", "word": "again", "translation": "again", "note": ""}
-{"key": "agamaggan", "word": "Agamaggan", "translation": "Agamaggan", "note": ""}
+{"key": "agamaggan", "word": "Agamaggan", "translation": "Agamaggan", "note": "", "status": "ignored"}
 {"key": "agamaggans", "word": "Agamaggans", "translation": "Agamaggans", "note": ""}
 {"key": "agenda", "word": "Agenda", "translation": "agenda", "note": "common noun in German; refers to a schedule, program, or list of items"}
 {"key": "ageilaa", "word": "Ageilaa", "translation": "Ageilaa", "note": ""}
@@ -41789,7 +41789,7 @@
 {"key": "agiert", "word": "agiert", "translation": "acts", "note": "present tense of agieren (to act); third-person singular form"}
 {"key": "agilität", "word": "Agilität", "translation": "agility", "note": "-ität suffix creates abstract nouns from adjectives; agil (agile) + -ität = agility"}
 {"key": "agnes", "word": "Agnes", "translation": "Agnes", "note": ""}
-{"key": "agrikus", "word": "Agrikus", "translation": "Agrikus", "note": ""}
+{"key": "agrikus", "word": "Agrikus", "translation": "Agrikus", "note": "", "status": "ignored"}
 {"key": "agthia", "word": "Agthia", "translation": "Agthia", "note": ""}
 {"key": "agura", "word": "Agura", "translation": "Agura", "note": ""}
 {"key": "ahanu", "word": "Ahanu", "translation": "Ahanu", "note": ""}
@@ -41799,23 +41799,23 @@
 {"key": "ahnungslosen", "word": "Ahnungslosen", "translation": "unsuspecting", "note": "ahnungslos (clueless) + -en accusative plural; means lacking awareness or suspicion"}
 {"key": "aiji", "word": "Aiji", "translation": "Aiji", "note": ""}
 {"key": "airwyn", "word": "Airwyn", "translation": "Airwyn", "note": ""}
-{"key": "ak'zeloth", "word": "Ak'zeloth", "translation": "Ak'zeloth", "note": ""}
+{"key": "ak'zeloth", "word": "Ak'zeloth", "translation": "Ak'zeloth", "note": "", "status": "ignored"}
 {"key": "akarek", "word": "Akarek", "translation": "Akarek", "note": ""}
-{"key": "akareks", "word": "Akareks", "translation": "Akareks", "note": ""}
-{"key": "akhenet", "word": "Akhenet", "translation": "Akhenet", "note": ""}
+{"key": "akareks", "word": "Akareks", "translation": "Akareks", "note": "", "status": "ignored"}
+{"key": "akhenet", "word": "Akhenet", "translation": "Akhenet", "note": "", "status": "ignored"}
 {"key": "aki", "word": "Aki", "translation": "Aki", "note": ""}
-{"key": "akintunde", "word": "Akintunde", "translation": "Akintunde", "note": ""}
-{"key": "akkarai", "word": "Akkarai", "translation": "Akkarai", "note": ""}
+{"key": "akintunde", "word": "Akintunde", "translation": "Akintunde", "note": "", "status": "ignored"}
+{"key": "akkarai", "word": "Akkarai", "translation": "Akkarai", "note": "", "status": "ignored"}
 {"key": "akku", "word": "Akku", "translation": "battery", "note": "shortened form of Akkumulator; refers to electrical storage battery"}
 {"key": "akolythinnen", "word": "Akolythinnen", "translation": "acolytes", "note": "plural of Akolythin (acolyte); feminine form, though used generically for group members"}
 {"key": "akquisition", "word": "Akquisition", "translation": "acquisition", "note": "from Latin acquisitio; common business term for acquiring assets or personnel"}
 {"key": "aktualisieren", "word": "aktualisieren", "translation": "update", "note": "weak verb; means to make current or refresh; related to aktuell (current)"}
 {"key": "al'amethsees", "word": "Al'Amethsees", "translation": "Al'Amethsees", "note": ""}
-{"key": "al'dani", "word": "Al'dani", "translation": "Al'dani", "note": ""}
-{"key": "al'zar", "word": "Al'zar", "translation": "Al'zar", "note": ""}
+{"key": "al'dani", "word": "Al'dani", "translation": "Al'dani", "note": "", "status": "ignored"}
+{"key": "al'zar", "word": "Al'zar", "translation": "Al'zar", "note": "", "status": "ignored"}
 {"key": "alai-nazdo", "word": "Alai-nazdo", "translation": "Alai-nazdo", "note": ""}
 {"key": "alamande", "word": "Alamande", "translation": "Alamande", "note": ""}
-{"key": "alarion", "word": "Alarion", "translation": "Alarion", "note": ""}
+{"key": "alarion", "word": "Alarion", "translation": "Alarion", "note": "", "status": "ignored"}
 {"key": "alandien", "word": "Alandien", "translation": "Alandia", "note": "location name; German form Alandien differs from English form Alandia"}
 {"key": "alarmanlagen", "word": "Alarmanlagen", "translation": "alarm systems", "note": "alarm (alarm) + anlagen (systems, facilities); plural compound noun"}
 {"key": "alarme", "word": "Alarme", "translation": "alarms", "note": "plural of Alarm; feminine plural form in German, though masculine is more common"}
