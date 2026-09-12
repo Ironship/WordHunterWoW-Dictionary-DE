@@ -32178,7 +32178,7 @@
 {"key": "chronolord", "word": "Chronolord", "translation": "Chronolord", "note": "official WoW title; master of time", "status": "ignored"}
 {"key": "citrin", "word": "Citrin", "translation": "Citrine", "note": "yellow quartz gemstone"}
 {"key": "citrinbucht", "word": "Citrinbucht", "translation": "Citrine Bay", "note": "compound: citrin + bucht (bay); location"}
-{"key": "clark", "word": "Clark", "translation": "Clark", "note": "human name; James Clark in wanted poster"}
+{"key": "clark", "word": "Clark", "translation": "Clark", "note": "human name; James Clark in wanted poster", "status": "ignored"}
 {"key": "cleverer", "word": "cleverer", "translation": "more clever", "note": "comparative; smarter or more ingenious"}
 {"key": "colin", "word": "Colin", "translation": "Colin", "note": "human name; Wildhammer character"}
 {"key": "conditional", "word": "Conditional", "translation": "Conditional", "note": "UI label; quest objective type"}
@@ -37751,7 +37751,7 @@
 {"key": "chuck", "word": "Chuck", "translation": "Chuck", "note": ""}
 {"key": "classic", "word": "Classic", "translation": "Classic", "note": "expansion/edition name"}
 {"key": "claximus", "word": "Claximus", "translation": "Claximus", "note": ""}
-{"key": "cleef", "word": "Cleef", "translation": "Cleef", "note": "van Cleef; human noble family"}
+{"key": "cleef", "word": "Cleef", "translation": "Cleef", "note": "van Cleef; human noble family", "status": "ignored"}
 {"key": "clessingtons", "word": "Clessingtons", "translation": "Clessington's", "note": ""}
 {"key": "codebuch", "word": "Codebuch", "translation": "Codebook", "note": ""}
 {"key": "cola", "word": "Cola", "translation": "cola", "note": "soft drink; 'duty is duty and cola is cola'"}
@@ -43815,7 +43815,7 @@
 {"key": "eulenseele", "word": "Eulenseele", "translation": "owl soul", "note": "likely NPC or item name; poetic compound"}
 {"key": "eurerseits", "word": "Eurerseits", "translation": "for your part", "note": "Eure (your) + Seits (side/part)"}
 {"key": "euretwillen", "word": "Euretwillen", "translation": "for your sake", "note": "Euer (your) + Willen (sake); archaic for um deinetwillen"}
-{"key": "eva", "word": "Eva", "translation": "Eva", "note": "German given name; not Eve"}
+{"key": "eva", "word": "Eva", "translation": "Eva", "note": "German given name; not Eve", "status": "ignored"}
 {"key": "evakuier'n", "word": "evakuier'n", "translation": "evacuate", "note": "colloquial form of evakuieren"}
 {"key": "even", "word": "even", "translation": "even", "note": "English word in German text"}
 {"key": "evolutionäre", "word": "evolutionäre", "translation": "evolutionary", "note": ""}
@@ -44788,7 +44788,7 @@
 {"key": "grillsen", "word": "Grillsen", "translation": "Grillsen", "note": ""}
 {"key": "grimkors", "word": "Grimkors", "translation": "Grimkors", "note": ""}
 {"key": "grimmfeder", "word": "Grimmfeder", "translation": "Grimfeather", "note": "grimm (grim/stern) + feder (feather)"}
-{"key": "grimmfang", "word": "Grimmfang", "translation": "Grimmfang", "note": "grimm (grim) + fang (fang/tooth)"}
+{"key": "grimmfang", "word": "Grimmfang", "translation": "Grimmfang", "note": "grimm (grim) + fang (fang/tooth)", "status": "ignored"}
 {"key": "grimmhauers", "word": "Grimmhauers", "translation": "Grimmhauer", "note": ""}
 {"key": "grimmigsten", "word": "grimmigsten", "translation": "grimmest", "note": "superlative of grim (stern/fierce); most grim"}
 {"key": "grimmkinn", "word": "Grimmkinn", "translation": "Grimchin", "note": "grimm (grim/stern) + kinn (chin)"}
@@ -47267,8 +47267,8 @@
 {"key": "poi", "word": "POI", "translation": "POI", "note": "acronym: point of interest; gaming/map terminology"}
 {"key": "poliertes", "word": "poliertes", "translation": "polished", "note": "adjective past participle: poliert = made smooth/shiny by polishing"}
 {"key": "poltern", "word": "Poltern", "translation": "rumbling", "note": "noun/verb: Poltern = tumultuous noise, rattling, rumbling sound"}
-{"key": "ponoliak", "word": "Ponoliak", "translation": "Ponoliak", "note": "name (possibly tauren elder); location-specific title"}
-{"key": "ponshu", "word": "Ponshu", "translation": "Ponshu", "note": "title or name; 'Eisenkörper Ponshu' (Iron-body Ponshu)"}
+{"key": "ponoliak", "word": "Ponoliak", "translation": "Ponoliak", "note": "name (possibly tauren elder); location-specific title", "status": "ignored"}
+{"key": "ponshu", "word": "Ponshu", "translation": "Ponshu", "note": "title or name; 'Eisenkörper Ponshu' (Iron-body Ponshu)", "status": "ignored"}
 {"key": "pontus", "word": "Pontus", "translation": "Pontus", "note": "name found in architect's message; possibly references ancient Pontus", "status": "ignored"}
 {"key": "poolpony", "word": "Poolpony", "translation": "pool pony", "note": "compound: Pool (pool) + Pony (pony); aquatic mount or pet"}
 {"key": "poolponys", "word": "Poolponys", "translation": "pool ponies", "note": "plural of pool pony; multiple aquatic mounts"}
@@ -62194,7 +62194,7 @@
 {"key": "kämpfertyp", "word": "Kämpfertyp", "translation": "fighter type", "note": "classification or personality suited to combat and battle"}
 {"key": "kämpfst", "word": "kämpfst", "translation": "fight", "note": "second person singular form of kämpfen"}
 {"key": "kämpftet", "word": "kämpftet", "translation": "fought", "note": "second person plural past tense of kämpfen"}
-{"key": "kämpi", "word": "Kämpi", "translation": "Kämpi", "note": "fighter name; Kämpi Minoire uses performance-enhancing substances"}
+{"key": "kämpi", "word": "Kämpi", "translation": "Kämpi", "note": "fighter name; Kämpi Minoire uses performance-enhancing substances", "status": "ignored"}
 {"key": "käppchen", "word": "Käppchen", "translation": "cap", "note": "small head covering; theatrical costume piece"}
 {"key": "käseladens", "word": "Käseladens", "translation": "cheese shop", "note": "retail establishment; specifically 'One More Glass' in context"}
 {"key": "kätzchens", "word": "Kätzchens", "translation": "kitten's", "note": "possessive form; first toy of a kitten"}
@@ -62273,7 +62273,7 @@
 {"key": "küstenregion", "word": "Küstenregion", "translation": "coastal region", "note": "geographic area defined by its proximity to water"}
 {"key": "küstenwache", "word": "Küstenwache", "translation": "Coast Guard", "note": "military or naval force patrolling coastal waters"}
 {"key": "küstenzopfs", "word": "Küstenzopfs", "translation": "coastal braids", "note": "possibly a person's surname or epithet; unclear from context"}
-{"key": "l'kala", "word": "L'kala", "translation": "L'kala", "note": "trainer or handler of terror spawn creatures"}
+{"key": "l'kala", "word": "L'kala", "translation": "L'kala", "note": "trainer or handler of terror spawn creatures", "status": "ignored"}
 {"key": "la'unas", "word": "La'unas", "translation": "La'unas", "note": "proper name; likely a location or entity", "status": "ignored"}
 {"key": "la-las", "word": "La-Las", "translation": "La-Las", "note": "proper name; a lady in noble society", "status": "ignored"}
 {"key": "laaaangweilig", "word": "laaaangweilig", "translation": "sooo boring", "note": "emphasizes boredom through repetition; colloquial exaggeration"}
@@ -62304,7 +62304,7 @@
 {"key": "ladenschluss", "word": "Ladenschluss", "translation": "closing time", "note": "hour when shops close for the day; before closing deal"}
 {"key": "ladentheke", "word": "Ladentheke", "translation": "shop counter", "note": "display or transaction surface in a retail store"}
 {"key": "ladestelle", "word": "Ladestelle", "translation": "ammunition depot", "note": "storage location for explosives and ordnance supplies"}
-{"key": "ladestock", "word": "Ladestock", "translation": "Ladestock", "note": "name of a riding trainer in the Valley of Spirits; teaches mounted combat"}
+{"key": "ladestock", "word": "Ladestock", "translation": "Ladestock", "note": "name of a riding trainer in the Valley of Spirits; teaches mounted combat", "status": "ignored"}
 {"key": "ladies", "word": "Ladies", "translation": "Ladies", "note": "English plural; nobility and high-born women"}
 {"key": "ladungsliste", "word": "Ladungsliste", "translation": "cargo manifest", "note": "official list of goods being shipped; stamped with harbor of origin"}
 {"key": "lagar", "word": "Lagar", "translation": "Lagar", "note": ""}
@@ -76680,7 +76680,7 @@
 {"key": "mor'shan-stützpunkt", "word": "Mor'shan-Stützpunkt", "translation": "Mor'shan Base", "note": "Stützpunkt means base; Mor'shan is English location"}
 {"key": "mull", "word": "Mull", "translation": "Mull", "note": "NPC name; not garbage (corrected from Google output)", "status": "ignored"}
 {"key": "myranda", "word": "Myranda", "translation": "Myranda", "note": "female NPC name", "status": "ignored"}
-{"key": "nixx", "word": "Nixx", "translation": "Nixx", "note": "gnome engineer"}
+{"key": "nixx", "word": "Nixx", "translation": "Nixx", "note": "gnome engineer", "status": "ignored"}
 {"key": "nugat", "word": "Nugat", "translation": "nougat", "note": "confection; French loanword now in English"}
 {"key": "orahil", "word": "Orahil", "translation": "Orahil", "note": "NPC name", "status": "ignored"}
 {"key": "peitscherwurzel", "word": "Peitscherwurzel", "translation": "whiproot", "note": "literally whip root; corrupted plant"}
@@ -76705,7 +76705,7 @@
 {"key": "tiza", "word": "Tiza", "translation": "Tiza", "note": "goblin NPC; appears in quests", "status": "ignored"}
 {"key": "todesmeister", "word": "Todesmeister", "translation": "deathmaster", "note": "literally death master; Forsaken military rank"}
 {"key": "trias", "word": "Trias", "translation": "Trias", "note": "NPC name; human in Stormwind", "status": "ignored"}
-{"key": "ur'kyo", "word": "Ur'kyo", "translation": "Ur'kyo", "note": "orc name; typically untranslated"}
+{"key": "ur'kyo", "word": "Ur'kyo", "translation": "Ur'kyo", "note": "orc name; typically untranslated", "status": "ignored"}
 {"key": "verhexung", "word": "Verhexung", "translation": "curse", "note": "noun; from verhexen meaning to hex"}
 {"key": "whitebeard", "word": "Whitebeard", "translation": "Whitebeard", "note": "NPC name; dwarf questgiver", "status": "ignored"}
 {"key": "wildeyes", "word": "Wildeyes", "translation": "Wildeyes", "note": "wild or feral creature type", "status": "ignored"}
@@ -76902,9 +76902,9 @@
 {"key": "valthalak", "word": "Valthalak", "translation": "Valthalak", "note": ""}
 {"key": "vardus", "word": "Vardus", "translation": "Vardus", "note": ""}
 {"key": "velora", "word": "Velora", "translation": "Velora", "note": ""}
-{"key": "viktori", "word": "Viktori", "translation": "Viktori", "note": "kept as written; not a translation of the name"}
+{"key": "viktori", "word": "Viktori", "translation": "Viktori", "note": "kept as written; not a translation of the name", "status": "ignored"}
 {"key": "vollstreckers", "word": "Vollstreckers", "translation": "executor's; executioner's", "note": "Vollstrecker (executor/executioner); used in genitive or possessive form here"}
-{"key": "von'indi", "word": "Von'Indi", "translation": "Von'Indi", "note": "the current 'By'Indi' is incorrect; should be Von'Indi"}
+{"key": "von'indi", "word": "Von'Indi", "translation": "Von'Indi", "note": "the current 'By'Indi' is incorrect; should be Von'Indi", "status": "ignored"}
 {"key": "wahrsagephiole", "word": "Wahrsagephiole", "translation": "divination vial", "note": "Wahrsage (divination) + Phiole (vial); used to craft divination tools"}
 {"key": "wahrsagerbrille", "word": "Wahrsagerbrille", "translation": "fortune teller's spectacles; seer's goggles", "note": "Wahrsager (fortune teller/diviner) + Brille (glasses/spectacles)"}
 {"key": "wasserbeutel", "word": "Wasserbeutel", "translation": "water pouch; waterskin", "note": "Wasser (water) + Beutel (pouch/bag); carried for survival in deserts"}
@@ -76986,7 +76986,7 @@
 {"key": "tarrel", "word": "Tarrel", "translation": "Tarrel", "note": ""}
 {"key": "taurendruide", "word": "Taurendruide", "translation": "Tauren druid", "note": "Tauren + Druide (druid); a druid of the Tauren race, not 'Taurean'"}
 {"key": "techbots", "word": "Techbots", "translation": "Techbots", "note": ""}
-{"key": "telf", "word": "Telf", "translation": "Telf", "note": "the complete name, not the truncation 'Tel'"}
+{"key": "telf", "word": "Telf", "translation": "Telf", "note": "the complete name, not the truncation 'Tel'", "status": "ignored"}
 {"key": "telmius", "word": "Telmius", "translation": "Telmius", "note": ""}
 {"key": "tempus", "word": "Tempus", "translation": "Tempus", "note": "Latin for 'time'; used in the phrase 'Tempus fugit' (time flies)"}
 {"key": "temporalversetzer", "word": "Temporalversetzer", "translation": "Temporal Displacer", "note": "Temporal + Versetzer (displacer/shifter); a device that manipulates time"}
@@ -77190,7 +77190,7 @@
 {"key": "sonnengetrocknetes", "word": "sonnengetrocknetes", "translation": "sun-dried", "note": "adjective modifier; sun-dried driftwood in the quest"}
 {"key": "soothfancys", "word": "Soothfancys", "translation": "Soothfancys", "note": ""}
 {"key": "sootsmoker", "word": "Sootsmoker", "translation": "Sootsmoker", "note": ""}
-{"key": "sooty", "word": "Sooty", "translation": "Sooty", "note": "correction: not 'Soooty' with three o's"}
+{"key": "sooty", "word": "Sooty", "translation": "Sooty", "note": "correction: not 'Soooty' with three o's", "status": "ignored"}
 {"key": "sootys", "word": "Sootys", "translation": "Sootys", "note": ""}
 {"key": "soran'ruk-fragment", "word": "Soran'ruk-Fragment", "translation": "Soran'ruk fragment", "note": "item name; fragments of Soran'ruk, likely a named artifact"}
 {"key": "soran'ruk", "word": "Soran'ruk", "translation": "Soran'ruk", "note": ""}
@@ -77237,7 +77237,7 @@
 {"key": "standardausrüstung-leuchtfeuerwaffe", "word": "Standardausrüstung-Leuchtfeuerwaffe", "translation": "Standard equipment signal flare", "note": "standard + ausrüstung (equipment) + leucht (light/flare) + feuer (fire) + waffe (weapon)"}
 {"key": "stapfende", "word": "Stapfende", "translation": "Trudging", "note": "present participle adjective; trudging paws (slow, heavy footsteps)"}
 {"key": "starglade", "word": "Starglade", "translation": "Starglade", "note": ""}
-{"key": "starseeker", "word": "Starseeker", "translation": "Starseeker", "note": "correction: not 'Starseer'; seeker implies searching, seer implies seeing"}
+{"key": "starseeker", "word": "Starseeker", "translation": "Starseeker", "note": "correction: not 'Starseer'; seeker implies searching, seer implies seeing", "status": "ignored"}
 {"key": "starweave", "word": "Starweave", "translation": "Starweave", "note": ""}
 {"key": "staubproben", "word": "Staubproben", "translation": "Dust samples", "note": "staub (dust) + proben (samples/specimens); quest collection items"}
 {"key": "staubläufer", "word": "Staubläufer", "translation": "Dust Runner", "note": "staub (dust) + läufer (runner/mouse); a creature type"}
