@@ -58929,7 +58929,7 @@
 {"key": "groupies", "word": "Groupies", "translation": "Groupies", "note": "band fans"}
 {"key": "grow", "word": "grow", "translation": "grow", "note": "verb; already English in context"}
 {"key": "grr", "word": "Grr", "translation": "Grr", "note": "interjection; frustration"}
-{"key": "grrlgllmesch", "word": "Grrlgllmesch", "translation": "Grrlgllmesch", "note": "Gorloc chief name"}
+{"key": "grrlgllmesch", "word": "Grrlgllmesch", "translation": "Grrlgllmesch", "note": "Gorloc chief name", "status": "ignored"}
 {"key": "grubenbosses", "word": "Grubenbosses", "translation": "pit bosses", "note": "Grube (pit) + Bosses"}
 {"key": "grubengebiets", "word": "Grubengebiets", "translation": "mining area", "note": "Grube (mine) + Gebiet (area)"}
 {"key": "grubenkampf", "word": "Grubenkampf", "translation": "pit fight", "note": "underground arena"}
@@ -58951,7 +58951,7 @@
 {"key": "grummelpakete", "word": "Grummelpakete", "translation": "Grumble Packs", "note": "plural packages"}
 {"key": "grummelt", "word": "grummelt", "translation": "grumbles", "note": "verb; creature sound"}
 {"key": "grumplinge", "word": "Grumplinge", "translation": "Grumplings", "note": "creature type plural"}
-{"key": "grun", "word": "Grun", "translation": "Grun", "note": "elemental name"}
+{"key": "grun", "word": "Grun", "translation": "Grun", "note": "elemental name", "status": "ignored"}
 {"key": "grundel", "word": "Grundel", "translation": "goby", "note": "fish species"}
 {"key": "grundelemente", "word": "Grundelemente", "translation": "basic elements", "note": "fundamental; Grund + Elemente"}
 {"key": "grundgerüst", "word": "Grundgerüst", "translation": "basic framework", "note": "construction skeleton"}
@@ -58974,7 +58974,7 @@
 {"key": "grunwalds", "word": "Grunwalds", "translation": "Grunwald's", "note": "possessive"}
 {"key": "gruppieren", "word": "gruppieren", "translation": "group", "note": "verb; organize into groups"}
 {"key": "gruppierung", "word": "Gruppierung", "translation": "faction", "note": "group/organization"}
-{"key": "grurguglg", "word": "Grurguglg", "translation": "Grurguglg", "note": "Murloc speech; untranslatable"}
+{"key": "grurguglg", "word": "Grurguglg", "translation": "Grurguglg", "note": "Murloc speech; untranslatable", "status": "ignored"}
 {"key": "gruseligste", "word": "Gruseligste", "translation": "scariest", "note": "superlative adjective"}
 {"key": "gruseliges", "word": "Gruseliges", "translation": "scary things", "note": "neuter plural"}
 {"key": "gruseln", "word": "gruseln", "translation": "shudder", "note": "verb; fear/tremble"}
@@ -59016,26 +59016,26 @@
 {"key": "guglrllg", "word": "guglrllg", "translation": "guglrllg", "note": ""}
 {"key": "guile", "word": "guile", "translation": "guile", "note": ""}
 {"key": "guillotine", "word": "Guillotine", "translation": "guillotine", "note": "loanword for the execution device"}
-{"key": "gukgut", "word": "Gukgut", "translation": "Gukgut", "note": "hozen chieftain name"}
+{"key": "gukgut", "word": "Gukgut", "translation": "Gukgut", "note": "hozen chieftain name", "status": "ignored"}
 {"key": "gul'rok", "word": "Gul'rok", "translation": "Gul'rok", "note": "demon name", "status": "ignored"}
-{"key": "gulchak", "word": "Gulchak", "translation": "Gulchak", "note": "dragon name"}
+{"key": "gulchak", "word": "Gulchak", "translation": "Gulchak", "note": "dragon name", "status": "ignored"}
 {"key": "gulnakus", "word": "Gulnakus", "translation": "Gulnakus", "note": "NPC name", "status": "ignored"}
 {"key": "gumbo", "word": "Gumbo", "translation": "gumbo", "note": "food term, a stew"}
-{"key": "gun-dar-ghaz", "word": "Gun-dar-ghaz", "translation": "Gun-dar-ghaz", "note": "dwarf name"}
+{"key": "gun-dar-ghaz", "word": "Gun-dar-ghaz", "translation": "Gun-dar-ghaz", "note": "dwarf name", "status": "ignored"}
 {"key": "gunn", "word": "Gunn", "translation": "Gunn", "note": "NPC name", "status": "ignored"}
 {"key": "gunstbeweise", "word": "Gunstbeweise", "translation": "marks of favor", "note": "gust (favor) + -beweis (proof); refers to tokens from loa spirits"}
-{"key": "guo-hees", "word": "Guo-Hees", "translation": "Guo-Hees", "note": "card player name"}
+{"key": "guo-hees", "word": "Guo-Hees", "translation": "Guo-Hees", "note": "card player name", "status": "ignored"}
 {"key": "gurboggel", "word": "Gurboggel", "translation": "Gurboggle", "note": "goblin NPC, inspection/examination context"}
 {"key": "gurfs", "word": "Gurfs", "translation": "Gurfs", "note": "NPC name", "status": "ignored"}
 {"key": "gurgeln", "word": "Gurgeln", "translation": "gargle", "note": "can mean swallow or gargle; here likely used humorously with grog"}
-{"key": "gurlgul", "word": "Gurlgul", "translation": "Gurlgul", "note": "murloc name"}
+{"key": "gurlgul", "word": "Gurlgul", "translation": "Gurlgul", "note": "murloc name", "status": "ignored"}
 {"key": "gurn", "word": "Gurn", "translation": "Gurn", "note": "NPC name", "status": "ignored"}
 {"key": "gurtars", "word": "Gurtars", "translation": "Gurtars", "note": "NPC name", "status": "ignored"}
-{"key": "gurthanimogu", "word": "Gurthanimogu", "translation": "Gurthanimogu", "note": "spirit ancestor name"}
+{"key": "gurthanimogu", "word": "Gurthanimogu", "translation": "Gurthanimogu", "note": "spirit ancestor name", "status": "ignored"}
 {"key": "guruuuurllgr", "word": "guruuuurllgr", "translation": "guruuuurllgr", "note": "murloc gibberish"}
 {"key": "guse", "word": "Guse", "translation": "Guse", "note": "NPC name", "status": "ignored"}
 {"key": "guss", "word": "Guss", "translation": "casting", "note": "guss = pouring/casting; can also mean the mold itself"}
-{"key": "gut'usul", "word": "Gut'usul", "translation": "Gut'usul", "note": "ogre name"}
+{"key": "gut'usul", "word": "Gut'usul", "translation": "Gut'usul", "note": "ogre name", "status": "ignored"}
 {"key": "gutachter", "word": "Gutachter", "translation": "appraiser", "note": "expert who assesses or reviews"}
 {"key": "gutaussehend", "word": "gutaussehend", "translation": "handsome", "note": "adjective: gut (good) + aussehend (appearing)"}
 {"key": "gutdünken", "word": "Gutdünken", "translation": "discretion", "note": "at one's discretion; according to one's judgment"}
@@ -59054,11 +59054,11 @@
 {"key": "guttut", "word": "guttut", "translation": "good for you", "note": "slurred or dialectal speech form"}
 {"key": "guttätige", "word": "Guttätige", "translation": "charitable ones", "note": "gut (good) + tätig (active); benevolent people"}
 {"key": "guuut", "word": "guuut", "translation": "well", "note": "elongated/slurred speech: na guuut = well now"}
-{"key": "guviena", "word": "Guviena", "translation": "Guviena", "note": "dryad or forest spirit name"}
+{"key": "guviena", "word": "Guviena", "translation": "Guviena", "note": "dryad or forest spirit name", "status": "ignored"}
 {"key": "gwertvoller", "word": "gwertvoller", "translation": "valued", "note": "template variable; more valued or worthy ally"}
 {"key": "gwossteil", "word": "Gwoßteil", "translation": "most of it", "note": "likely großteil (large part); refers to majority"}
-{"key": "gyadrek", "word": "Gyadrek", "translation": "Gyadrek", "note": "grimoire or magical text name"}
-{"key": "gymer", "word": "Gymer", "translation": "Gymer", "note": "storm giant king; Gy- is likely Norse-inspired"}
+{"key": "gyadrek", "word": "Gyadrek", "translation": "Gyadrek", "note": "grimoire or magical text name", "status": "ignored"}
+{"key": "gymer", "word": "Gymer", "translation": "Gymer", "note": "storm giant king; Gy- is likely Norse-inspired", "status": "ignored"}
 {"key": "gymers", "word": "Gymers", "translation": "Gymer's", "note": "possessive of Gymer"}
 {"key": "gyrobalance", "word": "Gyrobalance", "translation": "Gyrobalance", "note": "gnomish mechanical device for balance/stability"}
 {"key": "gyrokoptern", "word": "Gyrokoptern", "translation": "gyrocopters", "note": "plural; gyro (spinning) + kopter (helicopter); gnomish flying machine"}
@@ -59136,7 +59136,7 @@
 {"key": "hadley", "word": "Hadley", "translation": "Hadley", "note": "NPC name, biologist", "status": "ignored"}
 {"key": "hadoken", "word": "Hadoken", "translation": "Hadoken", "note": "gnome NPC name", "status": "ignored"}
 {"key": "hadrius", "word": "Hadrius", "translation": "Hadrius", "note": "NPC name", "status": "ignored"}
-{"key": "hadwin", "word": "Hadwin", "translation": "Hadwin", "note": "knight or champion name"}
+{"key": "hadwin", "word": "Hadwin", "translation": "Hadwin", "note": "knight or champion name", "status": "ignored"}
 {"key": "haemotoxin", "word": "Haemotoxin", "translation": "haemotoxin", "note": "blood toxin; scientific term"}
 {"key": "hafenarbeiter", "word": "Hafenarbeiter", "translation": "dock worker", "note": "hafen (port) + arbeiter (worker); singular form better"}
 {"key": "hafenbeamte", "word": "Hafenbeamte", "translation": "port official", "note": "hafen (port) + beamte (official); singular preferred"}
@@ -59150,9 +59150,9 @@
 {"key": "haftende", "word": "haftende", "translation": "adhesive", "note": "part of compound; sticking or adhering"}
 {"key": "haftmine", "word": "Haftmine", "translation": "limpet mine", "note": "haft (adhesion) + mine (mine); naval explosive that adheres"}
 {"key": "haftmittel", "word": "Haftmittel", "translation": "adhesive", "note": "haft (adhesion) + mittel (agent); bonding agent"}
-{"key": "hagara", "word": "Hagara", "translation": "Hagara", "note": "dragon name; enemy protagonist"}
+{"key": "hagara", "word": "Hagara", "translation": "Hagara", "note": "dragon name; enemy protagonist", "status": "ignored"}
 {"key": "hager-bschorr", "word": "Hager-Bschorr", "translation": "Hager-Bschorr", "note": "dwarf ale or drink name"}
-{"key": "haggerdin", "word": "Haggerdin", "translation": "Haggerdin", "note": "knight or lieutenant name"}
+{"key": "haggerdin", "word": "Haggerdin", "translation": "Haggerdin", "note": "knight or lieutenant name", "status": "ignored"}
 {"key": "haggrum", "word": "Haggrum", "translation": "Haggrum", "note": "location or faction name (Blackslough)", "status": "ignored"}
 {"key": "hahah", "word": "HAHAH", "translation": "hahah", "note": "laughter or exclamation"}
 {"key": "hahahaa", "word": "hahahaa", "translation": "hahaha", "note": "drawn-out laughter"}
