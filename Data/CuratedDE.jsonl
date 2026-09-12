@@ -283,7 +283,7 @@
 {"key": "werk", "word": "Werk", "translation": "work; factory; plant", "note": "Werk = work/creation; also factory/plant"}
 {"key": "ans", "word": "ans", "translation": "to the; at the", "note": "contraction of an + das"}
 {"key": "donnerfels", "word": "Donnerfels", "translation": "Thunder Bluff", "note": "WoW zone; literally thunder rock"}
-{"key": "korthia", "word": "Korthia", "translation": "Korthia", "note": "correct spelling with K"}
+{"key": "korthia", "word": "Korthia", "translation": "Korthia", "note": "correct spelling with K", "status": "ignored"}
 {"key": "lande", "word": "Lande", "translation": "lands; countries", "note": "plural of Land; Verwüstete Lande = Blasted Lands"}
 {"key": "lehrensucher", "word": "Lehrensucher", "translation": "lore seeker", "note": "WoW title; Lehre = lore, not lesson"}
 {"key": "ausgesetzt", "word": "ausgesetzt", "translation": "exposed; offered (bounty)", "note": "Kopfgeld aussetzen = to put a bounty on"}
@@ -430,7 +430,7 @@
 {"key": "verdanken", "word": "verdanken", "translation": "to owe (to); have to thank for", "note": "not just thank; jdm. etw. verdanken = owe sth. to sb"}
 {"key": "wüsste", "word": "wüsste", "translation": "would know; knew (subjunctive)", "note": "Konjunktiv II of wissen; distinguish from wussten = knew"}
 {"key": "bezwingt", "word": "Bezwingt", "translation": "to defeat; to vanquish", "note": "imperative/present, not past tense 'defeated'"}
-{"key": "dimensius", "word": "Dimensius", "translation": "Dimensius", "note": "corrects spelling: Dimensius, not Dimensionius"}
+{"key": "dimensius", "word": "Dimensius", "translation": "Dimensius", "note": "corrects spelling: Dimensius, not Dimensionius", "status": "ignored"}
 {"key": "eilen", "word": "eilen", "translation": "to hurry; to rush", "note": ""}
 {"key": "unglück", "word": "Unglück", "translation": "misfortune; accident; bad luck", "note": "Zu allem Unglück = unfortunately / to make matters worse"}
 {"key": "winkel", "word": "Winkel", "translation": "angle; corner; nook", "note": "abgelegene Winkel = remote corners/nooks, not geometric angles"}
@@ -4387,7 +4387,7 @@
 {"key": "azurschwursteins", "word": "Azurschwursteins", "translation": "Azure Oathstone", "note": "schwur (oath) + stein (stone); location held by kirin tor"}
 {"key": "azursturzwächter", "word": "Azursturzwächter", "translation": "Azurefall Guardian", "note": "sturz (fall) + wächter (guardian/warden)"}
 {"key": "babyschildkröten", "word": "Babyschildkröten", "translation": "baby turtles", "note": ""}
-{"key": "belager-o-matiks", "word": "Belager-o-matiks", "translation": "Belager-o-matiks", "note": "gnomish contraption name; play on siege machinery"}
+{"key": "belager-o-matiks", "word": "Belager-o-matiks", "translation": "Belager-o-matiks", "note": "gnomish contraption name; play on siege machinery", "status": "ignored"}
 {"key": "belagerungstürme", "word": "Belagerungstürme", "translation": "siege towers", "note": "belagerung = siege; turm = tower"}
 {"key": "belagerungswaffe", "word": "Belagerungswaffe", "translation": "siege weapon", "note": ""}
 {"key": "bergbauwerkzeuge", "word": "Bergbauwerkzeuge", "translation": "mining tools", "note": "bergbau = mining; werkzeuge = tools"}
@@ -4835,7 +4835,7 @@
 {"key": "privatgefängnis", "word": "Privatgefängnis", "translation": "private prison", "note": "privat (private) + gefängnis (prison)"}
 {"key": "profiausrüstung", "word": "Profiausrüstung", "translation": "Professional equipment", "note": "compound noun (professional + equipment)"}
 {"key": "proviantmeister", "word": "Proviantmeister", "translation": "Provisions Master", "note": "quartermaster role; supplies/provisions for troops"}
-{"key": "pterrordaxtacos", "word": "Pterrordaxtacos", "translation": "Pterrordaxtacos", "note": "playful WoW food name mixing pterrorosaur and tacos"}
+{"key": "pterrordaxtacos", "word": "Pterrordaxtacos", "translation": "Pterrordaxtacos", "note": "playful WoW food name mixing pterrorosaur and tacos", "status": "ignored"}
 {"key": "questerstellung", "word": "Questerstellung", "translation": "Quest creation", "note": "used in guides for creating quests"}
 {"key": "reittierrüstung", "word": "Reittierrüstung", "translation": "Mount armor", "note": "armor for mounts, not riders"}
 {"key": "resonitkristall", "word": "Resonitkristall", "translation": "Resonite crystal", "note": "crafting material in WoW"}
@@ -5234,7 +5234,7 @@
 {"key": "steinkreaturen", "word": "Steinkreaturen", "translation": "stone creatures", "note": ""}
 {"key": "steinmonumente", "word": "Steinmonumente", "translation": "stone monuments", "note": ""}
 {"key": "steinscheusale", "word": "Steinscheusale", "translation": "stone monstrosities", "note": "scheusal means monstrosity or monster"}
-{"key": "steinschinders", "word": "Steinschinders", "translation": "Steinschinders", "note": "a dwarven family name; furrier craft heritage"}
+{"key": "steinschinders", "word": "Steinschinders", "translation": "Steinschinders", "note": "a dwarven family name; furrier craft heritage", "status": "ignored"}
 {"key": "steinschleifer", "word": "Steinschleifer", "translation": "stone grinder", "note": "stone + schleifer (grinder); possibly an NPC name"}
 {"key": "steinschlummer", "word": "Steinschlummer", "translation": "stone slumber", "note": "stone + schlummer (slumber or dormancy)"}
 {"key": "steinschmeisser", "word": "Steinschmeißer", "translation": "stone thrower", "note": "stone + schmeißer (one who throws)"}
@@ -6507,7 +6507,7 @@
 {"key": "tempelruine", "word": "Tempelruine", "translation": "temple ruins", "note": ""}
 {"key": "tempeltüren", "word": "Tempeltüren", "translation": "temple doors", "note": ""}
 {"key": "teufelwalds", "word": "Teufelwalds", "translation": "Teufelwald", "note": "location name; literal: devil's forest"}
-{"key": "tiefenstein", "word": "Tiefenstein", "translation": "Tiefenstein", "note": "character name; tiefen (deep) + stone"}
+{"key": "tiefenstein", "word": "Tiefenstein", "translation": "Tiefenstein", "note": "character name; tiefen (deep) + stone", "status": "ignored"}
 {"key": "tierfährten", "word": "Tierfährten", "translation": "animal tracks", "note": ""}
 {"key": "tierknochen", "word": "Tierknochen", "translation": "animal bones", "note": ""}
 {"key": "tiermeister", "word": "Tiermeister", "translation": "beastmaster", "note": "tier (animal/beast) + meister (master)"}
@@ -6620,7 +6620,7 @@
 {"key": "dorfmauern", "word": "Dorfmauern", "translation": "village walls", "note": ""}
 {"key": "dorfoberen", "word": "Dorfoberen", "translation": "village leaders", "note": "the leading figures or elders of a village"}
 {"key": "dorftempel", "word": "Dorftempel", "translation": "village temple", "note": ""}
-{"key": "drachenson", "word": "Drachenson", "translation": "Drachenson", "note": "NPC name; likely means dragon's son"}
+{"key": "drachenson", "word": "Drachenson", "translation": "Drachenson", "note": "NPC name; likely means dragon's son", "status": "ignored"}
 {"key": "dreckhügel", "word": "Dreckhügel", "translation": "dirt mound", "note": "mound of earth or soil"}
 {"key": "druidentum", "word": "Druidentum", "translation": "druidism", "note": "the practice, order, or philosophy of druids"}
 {"key": "dunkelader", "word": "Dunkelader", "translation": "dark vein", "note": "possibly an NPC name"}
@@ -8741,7 +8741,7 @@
 {"key": "bierverkostung", "word": "Bierverkostung", "translation": "beer tasting", "note": ""}
 {"key": "blütenblättern", "word": "Blütenblättern", "translation": "petals", "note": ""}
 {"key": "botneuauflader", "word": "Botneuauflader", "translation": "Bot reloader", "note": ""}
-{"key": "bzzzzzzzzzzzzt", "word": "Bzzzzzzzzzzzzt", "translation": "Bzzzzzzzzzzzzt", "note": "onomatopoeia for mechanical sounds"}
+{"key": "bzzzzzzzzzzzzt", "word": "Bzzzzzzzzzzzzt", "translation": "Bzzzzzzzzzzzzt", "note": "onomatopoeia for mechanical sounds", "status": "ignored"}
 {"key": "donnerkopfdreh", "word": "Donnerkopfdreh", "translation": "Thunderhead Spin", "note": ""}
 {"key": "donnerschmiede", "word": "Donnerschmiede", "translation": "Thunderforge", "note": "donner (thunder) + schmiede (forge)"}
 {"key": "dorthinbegeben", "word": "dorthinbegeben", "translation": "go there", "note": "dorthin (thither) + begeben (to repair)"}
@@ -9483,9 +9483,9 @@
 {"key": "moguschmiedekunst", "word": "Moguschmiedekunst", "translation": "Mogu blacksmithing", "note": "mogu (WoW race) + schmiedekunst (blacksmithing); ancient craft"}
 {"key": "mondpanzerscheren", "word": "Mondpanzerscheren", "translation": "Moon armor scissors", "note": "compound item name"}
 {"key": "mondpirschergeist", "word": "Mondpirschergeist", "translation": "Moonstalker Spirit", "note": "mond (moon) + pirscher (stalker) + geist (spirit); nature spirit"}
-{"key": "mrglgulglrrlglgul", "word": "Mrglgulglrrlglgul", "translation": "Mrglgulglrrlglgul", "note": "murloc speech; untranslatable"}
+{"key": "mrglgulglrrlglgul", "word": "Mrglgulglrrlglgul", "translation": "Mrglgulglrrlglgul", "note": "murloc speech; untranslatable", "status": "ignored"}
 {"key": "munitionsreserven", "word": "Munitionsreserven", "translation": "Ammunition reserves", "note": "munitions (ammunition) + reserven (reserves)"}
-{"key": "murguglegurgllgur", "word": "Murguglegurgllgur", "translation": "Murguglegurgllgur", "note": "murloc speech; untranslatable"}
+{"key": "murguglegurgllgur", "word": "Murguglegurgllgur", "translation": "Murguglegurgllgur", "note": "murloc speech; untranslatable", "status": "ignored"}
 {"key": "nadelfelsschlucht", "word": "Nadelfelsschlucht", "translation": "Needle Rock Gorge", "note": "nadel (needle) + fels (rock) + schlucht (gorge); location name"}
 {"key": "navigationssystem", "word": "Navigationssystem", "translation": "Navigation system", "note": ""}
 {"key": "neferset-abschaum", "word": "Neferset-Abschaum", "translation": "Neferset scum", "note": "Neferset is a WoW faction; abschaum (scum)"}
@@ -9949,7 +9949,7 @@
 {"key": "graumähnenwalls", "word": "Graumähnenwalls", "translation": "Greymane Wall", "note": "proper place name; defensive structure; lit. grey-mane-wall"}
 {"key": "graunebelruinen", "word": "Graunebelruinen", "translation": "Greymist Ruins", "note": "proper place name; lit. grey-mist-ruins"}
 {"key": "grundkenntnisse", "word": "Grundkenntnisse", "translation": "basic knowledge; fundamentals", "note": "lit. grund (basic/ground) + kenntnisse (knowledge)"}
-{"key": "grurguglullgurl", "word": "Grurguglullgurl", "translation": "Grurguglullgurl", "note": "murloc speech; nonsense sounds mimicking their language"}
+{"key": "grurguglullgurl", "word": "Grurguglullgurl", "translation": "Grurguglullgurl", "note": "murloc speech; nonsense sounds mimicking their language", "status": "ignored"}
 {"key": "gurubashitrolle", "word": "Gurubashitrolle", "translation": "Gurubashi troll", "note": "troll tribe from Zul'Aman in WoW lore"}
 {"key": "haifischfleisch", "word": "Haifischfleisch", "translation": "shark meat", "note": ""}
 {"key": "handelsangebote", "word": "Handelsangebote", "translation": "trade offers; trading proposals", "note": "lit. handels (trade) + angebote (offers)"}
@@ -10357,7 +10357,7 @@
 {"key": "goblinsiedlung", "word": "Goblinsiedlung", "translation": "goblin settlement; goblin town", "note": "goblin + siedlung (settlement)"}
 {"key": "granitsplitter", "word": "Granitsplitter", "translation": "granite chips; granite shards", "note": "splitter (shards/chips); small fragments of stone"}
 {"key": "greifenreitern", "word": "Greifenreitern", "translation": "griffin riders; gryphon riders", "note": "greif (griffin) + reiter (rider); flying cavalry unit"}
-{"key": "gruglrlgllrugl", "word": "Gruglrlgllrugl", "translation": "Gruglrlgllrugl", "note": "murloc speech; not translatable"}
+{"key": "gruglrlgllrugl", "word": "Gruglrlgllrugl", "translation": "Gruglrlgllrugl", "note": "murloc speech; not translatable", "status": "ignored"}
 {"key": "grundgekrabbel", "word": "Grundgekrabbel", "translation": "basic crawling; ground creeping", "note": "grund (ground/base) + gekrabbel (crawling); foundational movement"}
 {"key": "grösstmöglichen", "word": "größtmöglichen", "translation": "greatest possible; maximum", "note": "größt (greatest) + möglich (possible)"}
 {"key": "gründungshalle", "word": "Gründungshalle", "translation": "Founding Hall; Hall of Founding", "note": "location name; gründung (founding/establishment)"}
@@ -11371,7 +11371,7 @@
 {"key": "bevölkerungsreichste", "word": "bevölkerungsreichste", "translation": "Most Populous", "note": "bevölkerung (population) + reich (rich) + -ste (superlative)"}
 {"key": "bruchzahnaussenposten", "word": "Bruchzahnaußenposten", "translation": "Brokentooth Outpost", "note": "bruchzahn (Brokentooth, rabbit race name) + außenposten (outpost)"}
 {"key": "chaoserkennungsgerät", "word": "Chaoserkennungsgerät", "translation": "Chaos Detection Device", "note": "chaos + erkennung (detection) + gerät (device); gnomish invention"}
-{"key": "da-dap-da-dap-da-dap", "word": "DA-dap-DA-dap-DA-dap", "translation": "DA-dap-DA-dap-DA-dap", "note": "onomatopoeia; mechanical sound"}
+{"key": "da-dap-da-dap-da-dap", "word": "DA-dap-DA-dap-DA-dap", "translation": "DA-dap-DA-dap-DA-dap", "note": "onomatopoeia; mechanical sound", "status": "ignored"}
 {"key": "datenentschlüsselung", "word": "Datenentschlüsselung", "translation": "Data Decryption", "note": "daten (data) + entschlüsselung (decryption)"}
 {"key": "deregulatorgetriebes", "word": "Deregulatorgetriebes", "translation": "Deregulator Gear", "note": "deregulator + getriebe (gear); gnomish mechanical component"}
 {"key": "differentialgehäuses", "word": "Differentialgehäuses", "translation": "Differential Housing", "note": "differential + gehäuse (housing); mechanical part"}
@@ -13919,7 +13919,7 @@
 {"key": "grundstückspreis", "word": "Grundstückspreis", "translation": "Land price", "note": ""}
 {"key": "grundvorstellung", "word": "Grundvorstellung", "translation": "Basic idea", "note": ""}
 {"key": "gründungsrelikte", "word": "Gründungsrelikte", "translation": "Founding relics", "note": ""}
-{"key": "guuglrllghulgrgl", "word": "Guuglrllghulgrgl", "translation": "Guuglrllghulgrgl", "note": "Murloc speech, untranslatable"}
+{"key": "guuglrllghulgrgl", "word": "Guuglrllghulgrgl", "translation": "Guuglrllghulgrgl", "note": "Murloc speech, untranslatable", "status": "ignored"}
 {"key": "gyro-optikmodule", "word": "Gyro-Optikmodule", "translation": "Gyro-optics modules", "note": ""}
 {"key": "gyromechanischen", "word": "gyromechanischen", "translation": "gyromechanical", "note": ""}
 {"key": "gyrostabilisator", "word": "Gyrostabilisator", "translation": "Gyrostabilizer", "note": ""}
@@ -13970,7 +13970,7 @@
 {"key": "herunterzufahren", "word": "herunterzufahren", "translation": "to shut down", "note": ""}
 {"key": "herunterzulocken", "word": "herunterzulocken", "translation": "to lure down", "note": ""}
 {"key": "herzschlagfinale", "word": "Herzschlagfinale", "translation": "Heartbeat Finale", "note": "quest name; Herzschlag (heartbeat) + finale"}
-{"key": "hhhhsssssssssshh", "word": "HHHHSSSSSSsssshh", "translation": "HHHHSSSSSSsssshh", "note": "elemental sound effect, not translatable"}
+{"key": "hhhhsssssssssshh", "word": "HHHHSSSSSSsssshh", "translation": "HHHHSSSSSSsssshh", "note": "elemental sound effect, not translatable", "status": "ignored"}
 {"key": "hierherschleppen", "word": "hierherschleppen", "translation": "to drag here", "note": ""}
 {"key": "hierherzubring'n", "word": "hierherzubring'n", "translation": "to bring here", "note": "colloquial/dialect form of hierherzubringen"}
 {"key": "hierherzufliegen", "word": "hierherzufliegen", "translation": "to fly here", "note": ""}
@@ -14056,7 +14056,7 @@
 {"key": "knusperschlangen", "word": "Knusperschlangen", "translation": "crispy snakes", "note": "knusper (crispy) + schlangen (snakes); made-up creature name"}
 {"key": "koboldkriegshorn", "word": "Koboldkriegshorn", "translation": "goblin war horn", "note": "kobold (goblin in German) + kriegs (war) + horn"}
 {"key": "kochfertigkeiten", "word": "Kochfertigkeiten", "translation": "cooking skills", "note": "koch (cooking) + fertigkeiten (skills)"}
-{"key": "kodokombobulator", "word": "Kodokombobulator", "translation": "Kodokombobulator", "note": "nonsense word (kodo + kombobulator); goblin device name, untranslatable"}
+{"key": "kodokombobulator", "word": "Kodokombobulator", "translation": "Kodokombobulator", "note": "nonsense word (kodo + kombobulator); goblin device name, untranslatable", "status": "ignored"}
 {"key": "kokosnussgetränk", "word": "Kokosnussgetränk", "translation": "coconut drink", "note": "kokosnuss (coconut) + getränk (drink/beverage)"}
 {"key": "kommandobefugnis", "word": "Kommandobefugnis", "translation": "command authority", "note": "kommando (command) + befugnis (authority/authorization)"}
 {"key": "kommandosoldaten", "word": "Kommandosoldaten", "translation": "commandos", "note": "kommando (commando) + soldaten (soldiers)"}
@@ -14181,7 +14181,7 @@
 {"key": "nazmanikultisten", "word": "Nazmanikultisten", "translation": "Nazmani cultists", "note": "Nazmani + Kultisten (cultists); proper noun related to Nazir"}
 {"key": "nebelwirkermönch", "word": "Nebelwirkermönch", "translation": "Mistweaver Monk", "note": "official WoW class specialization name"}
 {"key": "nefersetabschaum", "word": "Nefersetabschaum", "translation": "Neferset scum", "note": "Neferset (desert faction) + Abschaum (scum/riffraff)"}
-{"key": "netherdisruptors", "word": "Netherdisruptors", "translation": "Netherdisruptors", "note": "English device name in German text"}
+{"key": "netherdisruptors", "word": "Netherdisruptors", "translation": "Netherdisruptors", "note": "English device name in German text", "status": "ignored"}
 {"key": "netherweberkamms", "word": "Netherweberkamms", "translation": "Netherweb Crest; Netherweb Ridge", "note": "Nether + Weber (weaver) + Kamm (crest/ridge) - location name"}
 {"key": "netzwerkdiagnose", "word": "Netzwerkdiagnose", "translation": "network diagnostics", "note": "Netzwerk (network) + Diagnose (diagnostics)"}
 {"key": "neuverhandlungen", "word": "Neuverhandlungen", "translation": "renegotiations; new negotiations", "note": "Neu (new) + Verhandlungen (negotiations)"}
@@ -15901,7 +15901,7 @@
 {"key": "unproblematisch", "word": "unproblematisch", "translation": "uncomplicated", "note": "un- (not) + problematisch (problematic); lacking difficulty or drawbacks"}
 {"key": "unstimmigkeiten", "word": "Unstimmigkeiten", "translation": "discrepancies", "note": "un- + stimmigkeit (harmony); mismatches or contradictions"}
 {"key": "unstrukturierte", "word": "unstrukturierte", "translation": "unstructured", "note": "un- (not) + strukturiert (structured); lacking organized form"}
-{"key": "untergaaaaaaang", "word": "Untergaaaaaaang", "translation": "Untergaaaaaaang", "note": "onomatopoeia; exaggerated word for doom or destruction with comic effect"}
+{"key": "untergaaaaaaang", "word": "Untergaaaaaaang", "translation": "Untergaaaaaaang", "note": "onomatopoeia; exaggerated word for doom or destruction with comic effect", "status": "ignored"}
 {"key": "untergegangenen", "word": "untergegangenen", "translation": "sunken", "note": "unter (under) + gegangen (gone); submerged beneath water or lost to time"}
 {"key": "untergetauchten", "word": "untergetauchten", "translation": "submerged", "note": "unter (under) + getaucht (dived); fully underwater or concealed"}
 {"key": "unterhaltsamste", "word": "unterhaltsamste", "translation": "most entertaining", "note": "unterhalten (entertain) + -samste (most); superlative of amusing or enjoyable"}
@@ -18170,7 +18170,7 @@
 {"key": "überschüssigen", "word": "überschüssigen", "translation": "excess", "note": ""}
 {"key": "überzeugendste", "word": "überzeugendste", "translation": "most convincing", "note": ""}
 {"key": "davonzutrag'n", "word": "davonzutrag'n", "translation": "to sustain; to bear", "note": "in context of battle wounds, not advantages"}
-{"key": "immermornhöhe", "word": "Immermornhöhe", "translation": "Immermornhöhe", "note": "location name; immer (ever) + höhe (height)"}
+{"key": "immermornhöhe", "word": "Immermornhöhe", "translation": "Immermornhöhe", "note": "location name; immer (ever) + höhe (height)", "status": "ignored"}
 {"key": "jadehex'nbräu", "word": "Jadehex'nbräu", "translation": "Jadehex'nbräu", "note": "proper noun; -bräu = brewery", "status": "ignored"}
 {"key": "leckermäulern", "word": "Leckermäulern", "translation": "those with a sweet tooth", "note": "Leckermäuler = greedy eater, person fond of treats"}
 {"key": "zusammenklang", "word": "Zusammenklang", "translation": "harmony; accord", "note": "from zusammen (together) + klang (sound)"}
@@ -18179,13 +18179,13 @@
 {"key": "federweisser", "word": "Federweißer", "translation": "Federweißer", "note": "proper noun; also historically a type of new wine", "status": "ignored"}
 {"key": "grossmachers", "word": "Großmachers", "translation": "Großmachers", "note": "genitive of Großmacher (show-off, bigwig); part of tech term here"}
 {"key": "klau-kühnes", "word": "Klau-kühnes", "translation": "Klau-kühnes", "note": "proper noun; likely NPC or group name", "status": "ignored"}
-{"key": "kraklenheit", "word": "Kraklenheit", "translation": "Kraklenheit", "note": "invented WoW unit of temperature"}
+{"key": "kraklenheit", "word": "Kraklenheit", "translation": "Kraklenheit", "note": "invented WoW unit of temperature", "status": "ignored"}
 {"key": "todesreiter", "word": "Todesreiter", "translation": "death riders", "note": "from Tod (death) + Reiter (riders); enemy type"}
 {"key": "voreinander", "word": "voreinander", "translation": "in front of each other", "note": "they have nothing to hide from each other"}
 {"key": "vrykulschen", "word": "vrykulschen", "translation": "vrykulschen", "note": "adjective form of Vrykul (WoW race name)"}
 {"key": "abzufinden", "word": "abzufinden", "translation": "to come to terms with", "note": "from ab (away) + finden (find)"}
 {"key": "grossfiddel", "word": "Großfiddel", "translation": "Großfiddel", "note": "proper noun; likely ancestor or relative name", "status": "ignored"}
-{"key": "kaiserhöhe", "word": "Kaiserhöhe", "translation": "Kaiserhöhe", "note": "location name; Kaiser (emperor) + höhe (height)"}
+{"key": "kaiserhöhe", "word": "Kaiserhöhe", "translation": "Kaiserhöhe", "note": "location name; Kaiser (emperor) + höhe (height)", "status": "ignored"}
 {"key": "knatzkönig", "word": "Knatzkönig", "translation": "Knatzkönig", "note": "proper noun; -könig = king", "status": "ignored"}
 {"key": "schönalpha", "word": "Schönalpha", "translation": "Schönalpha", "note": "proper noun", "status": "ignored"}
 {"key": "trubelbräu", "word": "Trubelbräu", "translation": "Trubelbräu", "note": "proper noun; NPC name; -bräu = brewery", "status": "ignored"}
