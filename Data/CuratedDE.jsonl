@@ -22547,7 +22547,7 @@
 {"key": "sühne", "word": "Sühne", "translation": "atonement", "note": ""}
 {"key": "thaelin", "word": "Thaelin", "translation": "Thaelin", "note": "", "status": "ignored"}
 {"key": "treants", "word": "Treants", "translation": "Treants", "note": ""}
-{"key": "tristessa", "word": "Tristessa", "translation": "Tristessa", "note": ""}
+{"key": "tristessa", "word": "Tristessa", "translation": "Tristessa", "note": "", "status": "ignored"}
 {"key": "tundra", "word": "Tundra", "translation": "tundra", "note": ""}
 {"key": "tödlichen", "word": "tödlichen", "translation": "deadly", "note": ""}
 {"key": "ungehindert", "word": "ungehindert", "translation": "unimpeded", "note": "or unobstructed; without hindrance"}
@@ -23318,9 +23318,9 @@
 {"key": "lästigen", "word": "lästigen", "translation": "annoying", "note": ""}
 {"key": "marschalls", "word": "Marschalls", "translation": "Marshal's", "note": "possessive form"}
 {"key": "metalle", "word": "Metalle", "translation": "metals", "note": ""}
-{"key": "modera", "word": "Modera", "translation": "Modera", "note": ""}
+{"key": "modera", "word": "Modera", "translation": "Modera", "note": "", "status": "ignored"}
 {"key": "mord", "word": "Mord", "translation": "murder", "note": ""}
-{"key": "morkurk", "word": "Morkurk", "translation": "Morkurk", "note": ""}
+{"key": "morkurk", "word": "Morkurk", "translation": "Morkurk", "note": "", "status": "ignored"}
 {"key": "mysteriösen", "word": "mysteriösen", "translation": "mysterious", "note": ""}
 {"key": "nachzugehen", "word": "nachzugehen", "translation": "investigate", "note": "nach- (after); following up"}
 {"key": "nachzügler", "word": "Nachzügler", "translation": "stragglers", "note": "nach (after) + zug (march)"}
@@ -23341,7 +23341,7 @@
 {"key": "schlimmes", "word": "Schlimmes", "translation": "something bad", "note": ""}
 {"key": "schmutz", "word": "Schmutz", "translation": "dirt", "note": ""}
 {"key": "schnelles", "word": "schnelles", "translation": "fast", "note": ""}
-{"key": "scholomance", "word": "Scholomance", "translation": "Scholomance", "note": ""}
+{"key": "scholomance", "word": "Scholomance", "translation": "Scholomance", "note": "", "status": "ignored"}
 {"key": "schwarzer", "word": "schwarzer", "translation": "black", "note": ""}
 {"key": "schwindet", "word": "schwindet", "translation": "fades", "note": ""}
 {"key": "seelenband", "word": "Seelenband", "translation": "soul bond", "note": ""}
@@ -23361,8 +23361,8 @@
 {"key": "summen", "word": "Summen", "translation": "humming", "note": "the humming sound"}
 {"key": "talente", "word": "Talente", "translation": "talents", "note": ""}
 {"key": "tatenlos", "word": "tatenlos", "translation": "idle", "note": "taten+los = without deeds"}
-{"key": "thaldraszus", "word": "Thaldraszus", "translation": "Thaldraszus", "note": ""}
-{"key": "thorg'izog", "word": "Thorg'izog", "translation": "Thorg'izog", "note": ""}
+{"key": "thaldraszus", "word": "Thaldraszus", "translation": "Thaldraszus", "note": "", "status": "ignored"}
+{"key": "thorg'izog", "word": "Thorg'izog", "translation": "Thorg'izog", "note": "", "status": "ignored"}
 {"key": "traut", "word": "traut", "translation": "dares", "note": ""}
 {"key": "tribut", "word": "Tribut", "translation": "tribute", "note": ""}
 {"key": "trost", "word": "Trost", "translation": "consolation", "note": ""}
@@ -23397,12 +23397,12 @@
 {"key": "wolltet", "word": "wolltet", "translation": "wanted", "note": ""}
 {"key": "woran", "word": "woran", "translation": "what", "note": "what I recall"}
 {"key": "wütende", "word": "wütende", "translation": "furious", "note": ""}
-{"key": "xibala", "word": "Xibala", "translation": "Xibala", "note": ""}
+{"key": "xibala", "word": "Xibala", "translation": "Xibala", "note": "", "status": "ignored"}
 {"key": "zahlenmässig", "word": "zahlenmäßig", "translation": "numerically", "note": "by count"}
 {"key": "zauberschutz", "word": "Zauberschutz", "translation": "spell shield", "note": "zauber+schutz"}
 {"key": "zeig'n", "word": "zeig'n", "translation": "show", "note": "dialect form"}
 {"key": "zerrissen", "word": "zerrissen", "translation": "torn", "note": ""}
-{"key": "ziadan", "word": "Ziadan", "translation": "Ziadan", "note": ""}
+{"key": "ziadan", "word": "Ziadan", "translation": "Ziadan", "note": "", "status": "ignored"}
 {"key": "zurückhalten", "word": "zurückhalten", "translation": "hold back", "note": ""}
 {"key": "zweites", "word": "zweites", "translation": "second", "note": ""}
 {"key": "älteren", "word": "älteren", "translation": "older", "note": ""}
@@ -23458,7 +23458,7 @@
 {"key": "einsammelt", "word": "einsammelt", "translation": "collects", "note": ""}
 {"key": "einzelteile", "word": "Einzelteile", "translation": "parts", "note": "einzelne+teile"}
 {"key": "eisige", "word": "eisige", "translation": "icy", "note": ""}
-{"key": "elisande", "word": "Elisande", "translation": "Elisande", "note": ""}
+{"key": "elisande", "word": "Elisande", "translation": "Elisande", "note": "", "status": "ignored"}
 {"key": "endlose", "word": "endlose", "translation": "endless", "note": ""}
 {"key": "entfesselte", "word": "entfesselte", "translation": "unleashed", "note": ""}
 {"key": "entwendet", "word": "entwendet", "translation": "stolen", "note": ""}
@@ -23763,13 +23763,13 @@
 {"key": "jadeschlange", "word": "Jadeschlange", "translation": "jade serpent", "note": "Jade (jade) + Schlange (snake); emerald-colored dragon"}
 {"key": "jagdhütte", "word": "Jagdhütte", "translation": "hunting lodge", "note": "Jagd (hunt) + Hütte (hut); shelter for hunters"}
 {"key": "jeweils", "word": "jeweils", "translation": "respectively", "note": "used to distribute across items; means 'in each case' or 'respectively'"}
-{"key": "jotunheim", "word": "Jotunheim", "translation": "Jotunheim", "note": ""}
+{"key": "jotunheim", "word": "Jotunheim", "translation": "Jotunheim", "note": "", "status": "ignored"}
 {"key": "kampflos", "word": "kampflos", "translation": "without a fight", "note": "kampf (fight) + -los (without), a productive German suffix for negatives"}
 {"key": "klettert", "word": "Klettert", "translation": "climb", "note": "imperative form; German verbs indicate person via ending (-t for you/he/she/it)"}
-{"key": "knardin", "word": "Knardin", "translation": "Knardin", "note": ""}
+{"key": "knardin", "word": "Knardin", "translation": "Knardin", "note": "", "status": "ignored"}
 {"key": "kohle", "word": "Kohle", "translation": "money", "note": "literally coal, but German slang for money (like 'clams' or 'dough' in English)"}
 {"key": "koordinieren", "word": "koordinieren", "translation": "coordinate", "note": ""}
-{"key": "korlach", "word": "Korlach", "translation": "Korlach", "note": ""}
+{"key": "korlach", "word": "Korlach", "translation": "Korlach", "note": "", "status": "ignored"}
 {"key": "kostenlos", "word": "kostenlos", "translation": "for free", "note": "kost- (cost) + -en-los (without cost); means 'at no charge'"}
 {"key": "kriege", "word": "Kriege", "translation": "wars", "note": "plural of Krieg; remember German capitalizes all nouns, English doesn't"}
 {"key": "kun-lai", "word": "Kun-Lai", "translation": "Kun-Lai", "note": "a major Pandaria zone; note the hyphen in the official English name", "status": "ignored"}
@@ -23784,8 +23784,8 @@
 {"key": "list", "word": "List", "translation": "cunning", "note": "means trickery or cunning; from Old High German *lista"}
 {"key": "losgezogen", "word": "losgezogen", "translation": "set out", "note": "los (away/off) + gezogen (went); means to depart or embark"}
 {"key": "ländern", "word": "Ländern", "translation": "countries", "note": "dative plural of Land; German capitalizes all nouns, English doesn't"}
-{"key": "marlene", "word": "Marlene", "translation": "Marlene", "note": ""}
-{"key": "maruukai", "word": "Maruukai", "translation": "Maruukai", "note": ""}
+{"key": "marlene", "word": "Marlene", "translation": "Marlene", "note": "", "status": "ignored"}
+{"key": "maruukai", "word": "Maruukai", "translation": "Maruukai", "note": "", "status": "ignored"}
 {"key": "maul", "word": "Maul", "translation": "mouth", "note": "maul = mouth/jaw of animals; never used for human mouth (that's Mund)"}
 {"key": "melodie", "word": "Melodie", "translation": "melody", "note": ""}
 {"key": "mondlicht", "word": "Mondlicht", "translation": "moonlight", "note": "mond (moon) + licht (light); the moon's light creates atmosphere"}
@@ -24371,7 +24371,7 @@
 {"key": "logbuch", "word": "Logbuch", "translation": "logbook", "note": ""}
 {"key": "losgelassen", "word": "losgelassen", "translation": "released", "note": ""}
 {"key": "lücke", "word": "Lücke", "translation": "gap", "note": ""}
-{"key": "magnaron", "word": "Magnaron", "translation": "Magnaron", "note": ""}
+{"key": "magnaron", "word": "Magnaron", "translation": "Magnaron", "note": "", "status": "ignored"}
 {"key": "manchen", "word": "manchen", "translation": "some", "note": ""}
 {"key": "me", "word": "me", "translation": "me", "note": ""}
 {"key": "mechanismus", "word": "Mechanismus", "translation": "mechanism", "note": ""}
@@ -24380,7 +24380,7 @@
 {"key": "missbraucht", "word": "missbraucht", "translation": "abused", "note": ""}
 {"key": "mitbekommen", "word": "mitbekommen", "translation": "caught; realized", "note": "understand/catch what's happening"}
 {"key": "mitleid", "word": "Mitleid", "translation": "compassion; pity", "note": ""}
-{"key": "mor'ghor", "word": "Mor'ghor", "translation": "Mor'ghor", "note": ""}
+{"key": "mor'ghor", "word": "Mor'ghor", "translation": "Mor'ghor", "note": "", "status": "ignored"}
 {"key": "morgenbringer", "word": "Morgenbringer", "translation": "Morning Bringer", "note": ""}
 {"key": "mutierten", "word": "mutierten", "translation": "mutated", "note": ""}
 {"key": "mächtigeren", "word": "mächtigeren", "translation": "more powerful", "note": ""}
