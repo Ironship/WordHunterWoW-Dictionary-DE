@@ -32826,7 +32826,7 @@
 {"key": "k'areshi", "word": "K'areshi", "translation": "K'areshi", "note": "creature race name", "status": "ignored"}
 {"key": "k'areshs", "word": "K'areshs", "translation": "K'areshs", "note": "genitive; refers to K'areshi"}
 {"key": "ka'dani", "word": "Ka'dani", "translation": "Ka'dani", "note": "hunter group name in WoW lore"}
-{"key": "kael", "word": "Kael", "translation": "Kael", "note": "shortened name (Kael'thas)"}
+{"key": "kael", "word": "Kael", "translation": "Kael", "note": "shortened name (Kael'thas)", "status": "ignored"}
 {"key": "kaganishu", "word": "Kaganishu", "translation": "Kaganishu", "note": "NPC/title name", "status": "ignored"}
 {"key": "kajüte", "word": "Kajüte", "translation": "cabin", "note": "ship's cabin; from Spanish cabaña via Dutch"}
 {"key": "kaktusapfel", "word": "Kaktusapfel", "translation": "cactus apple", "note": "compound: Kaktus (cactus) + Apfel (apple); also called prickly pear"}
@@ -44706,7 +44706,7 @@
 {"key": "gor'tesh", "word": "Gor'tesh", "translation": "Gor'tesh", "note": ""}
 {"key": "gorax", "word": "Gorax", "translation": "Gorax", "note": ""}
 {"key": "gordon", "word": "Gordon", "translation": "Gordon", "note": ""}
-{"key": "gordoth", "word": "Gordoth", "translation": "Gordoth", "note": "correct form; not Gordon"}
+{"key": "gordoth", "word": "Gordoth", "translation": "Gordoth", "note": "correct form; not Gordon", "status": "ignored"}
 {"key": "gordunnikugel", "word": "Gordunnikugel", "translation": "Gordunni ball", "note": "Gordunni (tribe) + kugel (ball)"}
 {"key": "gorelix", "word": "Gorelix", "translation": "Gorelix", "note": ""}
 {"key": "goren-icht", "word": "Goren-icht", "translation": "Goren-ight", "note": "official English location name"}
@@ -45516,7 +45516,7 @@
 {"key": "jepetto", "word": "Jepetto", "translation": "Jepetto", "note": "NPC name", "status": "ignored"}
 {"key": "jerrod", "word": "Jerrod", "translation": "Jerrod", "note": "NPC name", "status": "ignored"}
 {"key": "jetziger", "word": "jetziger", "translation": "current", "note": "adjective meaning present or contemporary"}
-{"key": "jhakan", "word": "Jhakan", "translation": "Jhakan", "note": "orc name"}
+{"key": "jhakan", "word": "Jhakan", "translation": "Jhakan", "note": "orc name", "status": "ignored"}
 {"key": "jheel", "word": "Jheel", "translation": "Jheel", "note": "NPC name", "status": "ignored"}
 {"key": "jibbly", "word": "Jibbly", "translation": "Jibbly", "note": "character name", "status": "ignored"}
 {"key": "jik", "word": "Jik", "translation": "Jik", "note": "NPC name", "status": "ignored"}
@@ -45555,7 +45555,7 @@
 {"key": "k'arroc", "word": "K'arroc", "translation": "K'arroc", "note": "demon lord name", "status": "ignored"}
 {"key": "k'tal", "word": "K'tal", "translation": "K'tal", "note": "boss name", "status": "ignored"}
 {"key": "k-r-i-e-g", "word": "K-R-I-E-G", "translation": "war", "note": "spelled out letter by letter; the word itself means war"}
-{"key": "ka'alu", "word": "Ka'alu", "translation": "Ka'alu", "note": "arakkoa name"}
+{"key": "ka'alu", "word": "Ka'alu", "translation": "Ka'alu", "note": "arakkoa name", "status": "ignored"}
 {"key": "kaalya", "word": "Kaalya", "translation": "Kaalya", "note": "NPC name", "status": "ignored"}
 {"key": "kaarinos", "word": "Kaarinos", "translation": "Kaarinos", "note": "location name", "status": "ignored"}
 {"key": "kabel", "word": "Kabel", "translation": "cable", "note": "rope or wire; naval term for ship's cables"}
@@ -45575,16 +45575,16 @@
 {"key": "kaida", "word": "Kaida", "translation": "Kaida", "note": "a title or rank meaning general; not the organization 'Qaeda'"}
 {"key": "kaide", "word": "Kaide", "translation": "Kaide", "note": "NPC name", "status": "ignored"}
 {"key": "kais", "word": "Kais", "translation": "Kais", "note": "NPC name", "status": "ignored"}
-{"key": "kaiserstieg", "word": "Kaiserstieg", "translation": "Kaiserstieg", "note": "literally emperor's path; a location name"}
-{"key": "kaja'mine", "word": "Kaja'mine", "translation": "Kaja'mine", "note": "a mining operation; kaja + mine"}
+{"key": "kaiserstieg", "word": "Kaiserstieg", "translation": "Kaiserstieg", "note": "literally emperor's path; a location name", "status": "ignored"}
+{"key": "kaja'mine", "word": "Kaja'mine", "translation": "Kaja'mine", "note": "a mining operation; kaja + mine", "status": "ignored"}
 {"key": "kakteen", "word": "Kakteen", "translation": "cacti", "note": "plural of Kaktus; prickly desert plants"}
 {"key": "kal'ai", "word": "Kal'ai", "translation": "Kal'ai", "note": "NPC name", "status": "ignored"}
-{"key": "kalaran", "word": "Kalaran", "translation": "Kalaran", "note": "ancient dragon name"}
+{"key": "kalaran", "word": "Kalaran", "translation": "Kalaran", "note": "ancient dragon name", "status": "ignored"}
 {"key": "kaliber", "word": "Kaliber", "translation": "caliber", "note": "quality, rank, or magnitude; also gun bore diameter"}
 {"key": "kalkulierte", "word": "kalkulierte", "translation": "calculated", "note": "past tense of kalkulieren; deliberately planned or computed"}
 {"key": "kaltherzige", "word": "kaltherzige", "translation": "cold-hearted", "note": "literally cold-heart; lacking compassion"}
 {"key": "kaltpelze", "word": "Kaltpelze", "translation": "cold furs", "note": "creatures with cold-resistant fur; adapted to cold"}
-{"key": "kaltunk", "word": "Kaltunk", "translation": "Kaltunk", "note": "orc name"}
+{"key": "kaltunk", "word": "Kaltunk", "translation": "Kaltunk", "note": "orc name", "status": "ignored"}
 {"key": "kalytha", "word": "Kalytha", "translation": "Kalytha", "note": "NPC name", "status": "ignored"}
 {"key": "kamilla", "word": "Kamilla", "translation": "Kamilla", "note": "proper name", "status": "ignored"}
 {"key": "kamins", "word": "Kamins", "translation": "fireplace", "note": "German Kamin means fireplace or chimney"}
@@ -45629,10 +45629,10 @@
 {"key": "karja", "word": "Karja", "translation": "Karja", "note": "NPC name", "status": "ignored"}
 {"key": "karkidan", "word": "Karkidan", "translation": "Karkidan", "note": ""}
 {"key": "karl-jan", "word": "Karl-Jan", "translation": "Karl-Jan", "note": "name with hyphen; German personal name", "status": "ignored"}
-{"key": "karlain", "word": "Karlain", "translation": "Karlain", "note": "wizard name"}
-{"key": "karlov", "word": "Karlov", "translation": "Karlov", "note": "undead researcher name"}
-{"key": "karn", "word": "Karn", "translation": "Karn", "note": "dragon name"}
-{"key": "karna", "word": "Karna", "translation": "Karna", "note": "AI/golem name"}
+{"key": "karlain", "word": "Karlain", "translation": "Karlain", "note": "wizard name", "status": "ignored"}
+{"key": "karlov", "word": "Karlov", "translation": "Karlov", "note": "undead researcher name", "status": "ignored"}
+{"key": "karn", "word": "Karn", "translation": "Karn", "note": "dragon name", "status": "ignored"}
+{"key": "karna", "word": "Karna", "translation": "Karna", "note": "AI/golem name", "status": "ignored"}
 {"key": "karnthar", "word": "Karnthar", "translation": "Karnthar", "note": "NPC name", "status": "ignored"}
 {"key": "karogg", "word": "Karogg", "translation": "Karogg", "note": "demon/crystal giant name", "status": "ignored"}
 {"key": "kartellen", "word": "Kartellen", "translation": "cartels", "note": "plural of Kartell; organized criminal groups"}
@@ -45651,7 +45651,7 @@
 {"key": "kaul", "word": "Kaul", "translation": "Kaul", "note": "NPC name", "status": "ignored"}
 {"key": "kauriq", "word": "Kauriq", "translation": "Kauriq", "note": "NPC name", "status": "ignored"}
 {"key": "kavem", "word": "Kavem", "translation": "Kavem", "note": "NPC name", "status": "ignored"}
-{"key": "kaylessa", "word": "Kaylessa", "translation": "Kaylessa", "note": "priestess name"}
+{"key": "kaylessa", "word": "Kaylessa", "translation": "Kaylessa", "note": "priestess name", "status": "ignored"}
 {"key": "kaz'jatar", "word": "Kaz'jatar", "translation": "Kaz'jatar", "note": "sea lord/naga name", "status": "ignored"}
 {"key": "kazum", "word": "Kazum", "translation": "Kazum", "note": "location name", "status": "ignored"}
 {"key": "ke", "word": "ke", "translation": "ke", "note": "archaic or non-standard word from garbled text"}
@@ -46112,7 +46112,7 @@
 {"key": "lashk", "word": "Lashk", "translation": "Lashk", "note": "proper noun, NPC name", "status": "ignored"}
 {"key": "lastern", "word": "Lastern", "translation": "vices; depravities", "note": "from laster (vice); plural of moral failings"}
 {"key": "lastkahn", "word": "Lastkahn", "translation": "barge; cargo barge", "note": "last (cargo/load) + kahn (barge/boat)"}
-{"key": "lathoric", "word": "Lathoric", "translation": "Lathoric", "note": "dwarf name; dark dwarf mentioned in context"}
+{"key": "lathoric", "word": "Lathoric", "translation": "Lathoric", "note": "dwarf name; dark dwarf mentioned in context", "status": "ignored"}
 {"key": "lathrai", "word": "Lathrai", "translation": "Lathrai", "note": "NPC title: Windhändler (Wind Trader)", "status": "ignored"}
 {"key": "latosius", "word": "Latosius", "translation": "Latosius", "note": "NPC name; appears with trial/testing", "status": "ignored"}
 {"key": "laubbärte", "word": "Laubbärte", "translation": "leaf beards", "note": "beards made of foliage; grishna creatures"}
@@ -46601,11 +46601,11 @@
 {"key": "mizik", "word": "Mizik", "translation": "Mizik", "note": "proper name; title suffix means chief or leader in some contexts", "status": "ignored"}
 {"key": "miä", "word": "miä", "translation": "me", "note": "dialect form (likely Plattdeutsch) for mir (me); represents non-standard speech"}
 {"key": "mlr", "word": "mlr", "translation": "mlr", "note": "murloc language; untranslatable utterance"}
-{"key": "mlrg", "word": "Mlrg", "translation": "Mlrg", "note": "murloc language used as name or greeting"}
+{"key": "mlrg", "word": "Mlrg", "translation": "Mlrg", "note": "murloc language used as name or greeting", "status": "ignored"}
 {"key": "mlrgmlr", "word": "mlrgmlr", "translation": "mlrgmlr", "note": "murloc language; untranslatable sound"}
 {"key": "mlrgr", "word": "mlrgr", "translation": "mlrgr", "note": "murloc language variant"}
 {"key": "mlurkkrmorast", "word": "Mlurkkrmorast", "translation": "Mlurkkrmorast", "note": "proper noun; murloc location or zone name", "status": "ignored"}
-{"key": "mmmrrrggglll", "word": "Mmmrrrggglll", "translation": "Mmmrrrggglll", "note": "murloc battle cry or identification sound"}
+{"key": "mmmrrrggglll", "word": "Mmmrrrggglll", "translation": "Mmmrrrggglll", "note": "murloc battle cry or identification sound", "status": "ignored"}
 {"key": "moanah", "word": "Moanah", "translation": "Moanah", "note": "proper name (NPC)", "status": "ignored"}
 {"key": "mobiliar", "word": "Mobiliar", "translation": "furniture", "note": "from Latin mobilis (moveable); furnishings and household items"}
 {"key": "mobilisier'n", "word": "mobilisier'n", "translation": "mobilize", "note": "contracted form; prepare or call to action"}

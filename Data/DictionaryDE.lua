@@ -35676,7 +35676,7 @@ WordHunterWoW_Dictionary_DE["gordokschädel"] = { word = "Gordokschädel", trans
 WordHunterWoW_Dictionary_DE["gordon"] = { word = "Gordon", translation = "Gordon", note = "" }
 WordHunterWoW_Dictionary_DE["gordons"] = { word = "Gordons", translation = "Gordon's", note = "" }
 WordHunterWoW_Dictionary_DE["gordos"] = { word = "Gordos", translation = "Gordos", note = "proper NPC name; related to Gordok", status = "ignored" }
-WordHunterWoW_Dictionary_DE["gordoth"] = { word = "Gordoth", translation = "Gordoth", note = "correct form; not Gordon" }
+WordHunterWoW_Dictionary_DE["gordoth"] = { word = "Gordoth", translation = "Gordoth", note = "correct form; not Gordon", status = "ignored" }
 WordHunterWoW_Dictionary_DE["gordul"] = { word = "Gordul", translation = "Gordul", note = "" }
 WordHunterWoW_Dictionary_DE["gordun"] = { word = "Gordun", translation = "Gordun", note = "NPC name; not 'Gordon'" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["gordunni"] = { word = "Gordunni", translation = "Gordunni", note = "proper noun; ogre clan", status = "ignored" }
@@ -45095,7 +45095,7 @@ WordHunterWoW_Dictionary_DE["jeztor"] = { word = "Jeztor", translation = "Jeztor
 WordHunterWoW_Dictionary_DE["jeztors"] = { word = "Jeztors", translation = "Jeztor's", note = "" }
 WordHunterWoW_Dictionary_DE["jhadras"] = { word = "Jhadras", translation = "Jhadras", note = "NPC name; fallen hero in Valhalas duel scenario" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["jhaeqon"] = { word = "Jhaeqon", translation = "Jhaeqon", note = "" }
-WordHunterWoW_Dictionary_DE["jhakan"] = { word = "Jhakan", translation = "Jhakan", note = "orc name" }
+WordHunterWoW_Dictionary_DE["jhakan"] = { word = "Jhakan", translation = "Jhakan", note = "orc name", status = "ignored" }
 WordHunterWoW_Dictionary_DE["jhang"] = { word = "Jhang", translation = "Jhang", note = "NPC name" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["jhash"] = { word = "Jhash", translation = "Jhash", note = "" }
 WordHunterWoW_Dictionary_DE["jheel"] = { word = "Jheel", translation = "Jheel", note = "NPC name" , status = "ignored" }
@@ -45528,7 +45528,7 @@ WordHunterWoW_Dictionary_DE["k'ure"] = { word = "K'ure", translation = "K'ure", 
 WordHunterWoW_Dictionary_DE["k-k-krank"] = { word = "k-k-krank", translation = "s-s-sick", note = "stuttered pronunciation of krank (sick); repetition shows stammering" }
 WordHunterWoW_Dictionary_DE["k-r-i-e-g"] = { word = "K-R-I-E-G", translation = "war", note = "spelled out letter by letter; the word itself means war" }
 WordHunterWoW_Dictionary_DE["ka"] = { word = "ka", translation = "ka", note = "filler sound or interjection; stuttered speech" }
-WordHunterWoW_Dictionary_DE["ka'alu"] = { word = "Ka'alu", translation = "Ka'alu", note = "arakkoa name" }
+WordHunterWoW_Dictionary_DE["ka'alu"] = { word = "Ka'alu", translation = "Ka'alu", note = "arakkoa name", status = "ignored" }
 WordHunterWoW_Dictionary_DE["ka'dani"] = { word = "Ka'dani", translation = "Ka'dani", note = "hunter group name in WoW lore" }
 WordHunterWoW_Dictionary_DE["ka'dani-waffe"] = { word = "Ka'dani-Waffe", translation = "Ka'dani weapon", note = "compound word ka'dani (proper name) + waffe (weapon)" }
 WordHunterWoW_Dictionary_DE["ka'graz"] = { word = "Ka'graz", translation = "Ka'graz", note = "" }
@@ -45576,7 +45576,7 @@ WordHunterWoW_Dictionary_DE["kadrak"] = { word = "Kadrak", translation = "Kadrak
 WordHunterWoW_Dictionary_DE["kadraks"] = { word = "Kadraks", translation = "Kadraks", note = "" }
 WordHunterWoW_Dictionary_DE["kadrell"] = { word = "Kadrell", translation = "Kadrell", note = "NPC name" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["kadress"] = { word = "Kadress", translation = "Kadress", note = "" }
-WordHunterWoW_Dictionary_DE["kael"] = { word = "Kael", translation = "Kael", note = "shortened name (Kael'thas)" }
+WordHunterWoW_Dictionary_DE["kael"] = { word = "Kael", translation = "Kael", note = "shortened name (Kael'thas)", status = "ignored" }
 WordHunterWoW_Dictionary_DE["kael'thas"] = { word = "Kael'thas", translation = "Kael'thas", note = "major antagonist in World of Warcraft lore", status = "ignored" }
 WordHunterWoW_Dictionary_DE["kaela"] = { word = "Kaela", translation = "Kaela", note = "NPC name; Shadowspear - watches valley entrance" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["kaelas"] = { word = "Kaelas", translation = "Kaelas", note = "" }
@@ -45674,7 +45674,7 @@ WordHunterWoW_Dictionary_DE["kaiserreiches"] = { word = "Kaiserreiches", transla
 WordHunterWoW_Dictionary_DE["kaiserreichs"] = { word = "Kaiserreichs", translation = "empire", note = "Kaiser (emperor) + Reich (realm); a common noun, lowercase" }
 WordHunterWoW_Dictionary_DE["kaisers"] = { word = "Kaisers", translation = "Kaiser", note = "genitive form; refers to the Kaiser/emperor" }
 WordHunterWoW_Dictionary_DE["kaiserschwalben"] = { word = "Kaiserschwalben", translation = "Imperial swallows", note = "Kaiser (emperor) + Schwalben (swallows); noble or rare birds" }
-WordHunterWoW_Dictionary_DE["kaiserstieg"] = { word = "Kaiserstieg", translation = "Kaiserstieg", note = "literally emperor's path; a location name" }
+WordHunterWoW_Dictionary_DE["kaiserstieg"] = { word = "Kaiserstieg", translation = "Kaiserstieg", note = "literally emperor's path; a location name", status = "ignored" }
 WordHunterWoW_Dictionary_DE["kaitlyn"] = { word = "Kaitlyn", translation = "Kaitlyn", note = "" }
 WordHunterWoW_Dictionary_DE["kaj'ra"] = { word = "Kaj'ra", translation = "Kaj'ra", note = "" }
 WordHunterWoW_Dictionary_DE["kaja"] = { word = "Kaja", translation = "Kaja", note = "NPC name (not Kaya)" , status = "ignored" }
@@ -45693,7 +45693,7 @@ WordHunterWoW_Dictionary_DE["kaja'fazit"] = { word = "Kaja'Fazit", translation =
 WordHunterWoW_Dictionary_DE["kaja'kuriositäten"] = { word = "Kaja'Kuriositäten", translation = "Kaja's Oddities", note = "proper name of a shop or merchant; kuriositäten = curiosities" }
 WordHunterWoW_Dictionary_DE["kaja'küste"] = { word = "Kaja'Küste", translation = "Kaja'Coast", note = "WoW zone name: Küste = coast" }
 WordHunterWoW_Dictionary_DE["kaja'mentare"] = { word = "Kaja'mentare", translation = "Kaja'mentare", note = "" }
-WordHunterWoW_Dictionary_DE["kaja'mine"] = { word = "Kaja'mine", translation = "Kaja'mine", note = "a mining operation; kaja + mine" }
+WordHunterWoW_Dictionary_DE["kaja'mine"] = { word = "Kaja'mine", translation = "Kaja'mine", note = "a mining operation; kaja + mine", status = "ignored" }
 WordHunterWoW_Dictionary_DE["kaja'mit"] = { word = "Kaja'mit", translation = "Kaja'mit", note = "" }
 WordHunterWoW_Dictionary_DE["kaja'mit-abbau"] = { word = "Kaja'mit-Abbau", translation = "Kaja'mit mining", note = "Abbau = mining or extraction; the mineral from which Kaja'Cola is made" }
 WordHunterWoW_Dictionary_DE["kaja'mit-depot"] = { word = "Kaja'mit-Depot", translation = "Kaja'mit Depot", note = "facility name; combination of location Kaja'mit and depot" }
@@ -45754,7 +45754,7 @@ WordHunterWoW_Dictionary_DE["kala'mas"] = { word = "Kala'mas", translation = "Ka
 WordHunterWoW_Dictionary_DE["kalaam"] = { word = "Kalaam", translation = "Kalaam", note = "" }
 WordHunterWoW_Dictionary_DE["kalaba"] = { word = "Kalaba", translation = "Kalaba", note = "" }
 WordHunterWoW_Dictionary_DE["kalandrios"] = { word = "Kalandrios", translation = "Kalandrios", note = "" }
-WordHunterWoW_Dictionary_DE["kalaran"] = { word = "Kalaran", translation = "Kalaran", note = "ancient dragon name" }
+WordHunterWoW_Dictionary_DE["kalaran"] = { word = "Kalaran", translation = "Kalaran", note = "ancient dragon name", status = "ignored" }
 WordHunterWoW_Dictionary_DE["kalas"] = { word = "Kalas", translation = "Kalas", note = "" }
 WordHunterWoW_Dictionary_DE["kalatak"] = { word = "Kalatak", translation = "Kalatak", note = "NPC name" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["kalaya"] = { word = "Kalaya", translation = "Kalaya", note = "NPC name" , status = "ignored" }
@@ -45886,7 +45886,7 @@ WordHunterWoW_Dictionary_DE["kaltpelze"] = { word = "Kaltpelze", translation = "
 WordHunterWoW_Dictionary_DE["kaltschattenhöhle"] = { word = "Kaltschattenhöhle", translation = "Cold Shadow Cave", note = "kalt (cold) + schatten (shadow) + höhle (cave)" }
 WordHunterWoW_Dictionary_DE["kaltschnappkriecher"] = { word = "Kaltschnappkriecher", translation = "Cold-snap crawler", note = "Kalt (cold) + Schnapp (snap) + Kriecher (crawler); insect type" }
 WordHunterWoW_Dictionary_DE["kaltschnappzangen"] = { word = "Kaltschnappzangen", translation = "Cold-snap pincers", note = "Zangen = pincers/pliers; arthropod appendages or tools" }
-WordHunterWoW_Dictionary_DE["kaltunk"] = { word = "Kaltunk", translation = "Kaltunk", note = "orc name" }
+WordHunterWoW_Dictionary_DE["kaltunk"] = { word = "Kaltunk", translation = "Kaltunk", note = "orc name", status = "ignored" }
 WordHunterWoW_Dictionary_DE["kaltunks"] = { word = "Kaltunks", translation = "Kaltunk's", note = "genitive -s on a personal name, written without an apostrophe in German" }
 WordHunterWoW_Dictionary_DE["kaltwetterisolierung"] = { word = "Kaltwetterisolierung", translation = "cold-weather insulation", note = "" }
 WordHunterWoW_Dictionary_DE["kaltwindanhöhen"] = { word = "Kaltwindanhöhen", translation = "Cold Wind Heights", note = "kalt (cold) + wind + anhöhen (heights); a terrain feature" }
@@ -46430,15 +46430,15 @@ WordHunterWoW_Dictionary_DE["karl"] = { word = "Karl", translation = "Karl", not
 WordHunterWoW_Dictionary_DE["karl-jan"] = { word = "Karl-Jan", translation = "Karl-Jan", note = "name with hyphen; German personal name", status = "ignored" }
 WordHunterWoW_Dictionary_DE["karl-jans"] = { word = "Karl-Jans", translation = "Karl Jans", note = "NPC name; hyphenated in German" }
 WordHunterWoW_Dictionary_DE["karla"] = { word = "Karla", translation = "Karla", note = "NPC name; archaeologist or explorer title" , status = "ignored" }
-WordHunterWoW_Dictionary_DE["karlain"] = { word = "Karlain", translation = "Karlain", note = "wizard name" }
+WordHunterWoW_Dictionary_DE["karlain"] = { word = "Karlain", translation = "Karlain", note = "wizard name", status = "ignored" }
 WordHunterWoW_Dictionary_DE["karlains"] = { word = "Karlains", translation = "Karlains", note = "proper name; mage or magical character mentioned in quest", status = "ignored" }
-WordHunterWoW_Dictionary_DE["karlov"] = { word = "Karlov", translation = "Karlov", note = "undead researcher name" }
+WordHunterWoW_Dictionary_DE["karlov"] = { word = "Karlov", translation = "Karlov", note = "undead researcher name", status = "ignored" }
 WordHunterWoW_Dictionary_DE["karma"] = { word = "Karma", translation = "karma", note = "fate, destiny, or karma; used in lore discussion about timelines" }
 WordHunterWoW_Dictionary_DE["karmaan"] = { word = "Karmaan", translation = "Karmaan", note = "NPC name; appears to be a Draenei or tauren with livestock connection" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["karmahammer"] = { word = "Karmahammer", translation = "Karma hammer", note = "possibly ship/weapon; consequences" }
 WordHunterWoW_Dictionary_DE["karminkriecher"] = { word = "Karminkriecher", translation = "crimson creeper", note = "Karmin (carmine/crimson red) + Kriecher (creeper/crawler); plant or creature with reddish hue" }
-WordHunterWoW_Dictionary_DE["karn"] = { word = "Karn", translation = "Karn", note = "dragon name" }
-WordHunterWoW_Dictionary_DE["karna"] = { word = "Karna", translation = "Karna", note = "AI/golem name" }
+WordHunterWoW_Dictionary_DE["karn"] = { word = "Karn", translation = "Karn", note = "dragon name", status = "ignored" }
+WordHunterWoW_Dictionary_DE["karna"] = { word = "Karna", translation = "Karna", note = "AI/golem name", status = "ignored" }
 WordHunterWoW_Dictionary_DE["karnickel"] = { word = "Karnickel", translation = "rabbit", note = "an informal word for rabbit; wie die Karnickel means like rabbits" }
 WordHunterWoW_Dictionary_DE["karnickel-männer"] = { word = "Karnickel-Männer", translation = "Rabbit-folk", note = "karnickel (rabbit, dialect) + männer (men); creatures or people" }
 WordHunterWoW_Dictionary_DE["karnik"] = { word = "Karnik", translation = "Karnik", note = "NPC name" , status = "ignored" }
@@ -46751,7 +46751,7 @@ WordHunterWoW_Dictionary_DE["kayjay"] = { word = "Kayjay", translation = "Kayjay
 WordHunterWoW_Dictionary_DE["kayla"] = { word = "Kayla", translation = "Kayla", note = "" }
 WordHunterWoW_Dictionary_DE["kaylaan"] = { word = "Kaylaan", translation = "Kaylaan", note = "appears in context of Kael'thas research" }
 WordHunterWoW_Dictionary_DE["kaylana"] = { word = "Kaylana", translation = "Kaylana", note = "" }
-WordHunterWoW_Dictionary_DE["kaylessa"] = { word = "Kaylessa", translation = "Kaylessa", note = "priestess name" }
+WordHunterWoW_Dictionary_DE["kaylessa"] = { word = "Kaylessa", translation = "Kaylessa", note = "priestess name", status = "ignored" }
 WordHunterWoW_Dictionary_DE["kaymard"] = { word = "Kaymard", translation = "Kaymard", note = "" }
 WordHunterWoW_Dictionary_DE["kayn"] = { word = "Kayn", translation = "Kayn", note = "proper name; NPC name (Kayn Sunfury), keep as is", status = "ignored" }
 WordHunterWoW_Dictionary_DE["kayneth"] = { word = "Kayneth", translation = "Kayneth", note = "" }
@@ -52151,7 +52151,7 @@ WordHunterWoW_Dictionary_DE["latentes"] = { word = "latentes", translation = "la
 WordHunterWoW_Dictionary_DE["laterne"] = { word = "Laterne", translation = "lantern", note = "from Latin lanterna; used for lamps and hanging lights" }
 WordHunterWoW_Dictionary_DE["laternen"] = { word = "Laternen", translation = "Lanterns", note = "lanterns/lamps; plural of Laterne; light sources" }
 WordHunterWoW_Dictionary_DE["laternenpfählen"] = { word = "Laternenpfählen", translation = "lampposts", note = "" }
-WordHunterWoW_Dictionary_DE["lathoric"] = { word = "Lathoric", translation = "Lathoric", note = "dwarf name; dark dwarf mentioned in context" }
+WordHunterWoW_Dictionary_DE["lathoric"] = { word = "Lathoric", translation = "Lathoric", note = "dwarf name; dark dwarf mentioned in context", status = "ignored" }
 WordHunterWoW_Dictionary_DE["lathorics"] = { word = "Lathorics", translation = "Lathorics", note = "" }
 WordHunterWoW_Dictionary_DE["lathorius"] = { word = "Lathorius", translation = "Lathorius", note = "proper name; guides player regarding northern tundra wildlife", status = "ignored" }
 WordHunterWoW_Dictionary_DE["lathos"] = { word = "Lathos", translation = "Lathos", note = "proper name (NPC); unchanged", status = "ignored" }
@@ -58138,7 +58138,7 @@ WordHunterWoW_Dictionary_DE["mlgrmglr"] = { word = "Mlgrmglr", translation = "mr
 WordHunterWoW_Dictionary_DE["mlgrmlgr"] = { word = "Mlgrmlgr", translation = "murloc speech", note = "onomatopoeia: murloc sounds" }
 WordHunterWoW_Dictionary_DE["mlmlglr"] = { word = "mlmlglr", translation = "mlmlglr", note = "murloc speech; cannot be translated meaningfully" }
 WordHunterWoW_Dictionary_DE["mlr"] = { word = "mlr", translation = "mlr", note = "murloc language; untranslatable utterance" }
-WordHunterWoW_Dictionary_DE["mlrg"] = { word = "Mlrg", translation = "Mlrg", note = "murloc language used as name or greeting" }
+WordHunterWoW_Dictionary_DE["mlrg"] = { word = "Mlrg", translation = "Mlrg", note = "murloc language used as name or greeting", status = "ignored" }
 WordHunterWoW_Dictionary_DE["mlrglr"] = { word = "Mlrglr", translation = "murloc speech", note = "onomatopoeia: happy murloc sounds" }
 WordHunterWoW_Dictionary_DE["mlrglrmg"] = { word = "Mlrglrmg", translation = "Mlrglrmg", note = "murloc speech; untranslatable" }
 WordHunterWoW_Dictionary_DE["mlrgmlr"] = { word = "mlrgmlr", translation = "mlrgmlr", note = "murloc language; untranslatable sound" }
@@ -58162,7 +58162,7 @@ WordHunterWoW_Dictionary_DE["mmmhmmm"] = { word = "Mmmhmmm", translation = "mmmm
 WordHunterWoW_Dictionary_DE["mmmm"] = { word = "Mmmm", translation = "Mmmm", note = "" }
 WordHunterWoW_Dictionary_DE["mmmmhmmm"] = { word = "Mmmmhmmm", translation = "mmmmhmmm", note = "interjection; acknowledgment or agreement sound" }
 WordHunterWoW_Dictionary_DE["mmmmm"] = { word = "Mmmmm", translation = "Mmmmm", note = "a satisfied hum, here reacting to delicious grain" }
-WordHunterWoW_Dictionary_DE["mmmrrrggglll"] = { word = "Mmmrrrggglll", translation = "Mmmrrrggglll", note = "murloc battle cry or identification sound" }
+WordHunterWoW_Dictionary_DE["mmmrrrggglll"] = { word = "Mmmrrrggglll", translation = "Mmmrrrggglll", note = "murloc battle cry or identification sound", status = "ignored" }
 WordHunterWoW_Dictionary_DE["mmmrrrgggllls"] = { word = "Mmmrrrgggllls", translation = "Mmmrrrgggllls", note = "murloc speech; untranslatable creature sound" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["mnemis"] = { word = "Mnemis", translation = "Mnemis", note = "NPC; Greeter for Kyrian covenant in Shadowlands" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["mnemiseinheit"] = { word = "Mnemiseinheit", translation = "mnemesis unit", note = "nemesis (memory/remembrance) + einheit (unit); a memory-based mechanism" }
