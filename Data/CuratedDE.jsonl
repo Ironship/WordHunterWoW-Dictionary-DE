@@ -18204,8 +18204,8 @@
 {"key": "schüchti", "word": "Schüchti", "translation": "Schüchti", "note": "proper noun; character name", "status": "ignored"}
 {"key": "errlich", "word": "errlich", "translation": "errlich", "note": "proper noun; NPC name"}
 {"key": "finchen", "word": "Finchen", "translation": "Finchen", "note": "proper noun; character name", "status": "ignored"}
-{"key": "rüüülps", "word": "Rüüülps", "translation": "Rüüülps", "note": "onomatopoeia; capitalized burp sound"}
-{"key": "szätsze", "word": "SZÄTSZE", "translation": "SZÄTSZE", "note": "goblin dialect; intentionally misspelled"}
+{"key": "rüüülps", "word": "Rüüülps", "translation": "Rüüülps", "note": "onomatopoeia; capitalized burp sound", "status": "ignored"}
+{"key": "szätsze", "word": "SZÄTSZE", "translation": "SZÄTSZE", "note": "goblin dialect; intentionally misspelled", "status": "ignored"}
 {"key": "zürners", "word": "Zürners", "translation": "Zürners", "note": "proper noun; genitive form, NPC name", "status": "ignored"}
 {"key": "anhöan", "word": "anhöan", "translation": "to sound; to listen", "note": "dialect form of anhören; 'will sound strange'"}
 {"key": "götz'n", "word": "Götz'n", "translation": "Götz'n", "note": "dialect form; exact meaning unclear"}
@@ -18521,7 +18521,7 @@
 {"key": "krieg", "word": "Krieg", "translation": "war", "note": "war and conflict; Krieg is specifically warfare/military conflict, not general dispute"}
 {"key": "ritual", "word": "Ritual", "translation": "ritual", "note": ""}
 {"key": "allen", "word": "allen", "translation": "all; everyone", "note": "allen is dative plural of 'all' and can mean everyone/anybody in some contexts"}
-{"key": "azeroth", "word": "Azeroth", "translation": "Azeroth", "note": "the world; the setting of World of Warcraft"}
+{"key": "azeroth", "word": "Azeroth", "translation": "Azeroth", "note": "the world; the setting of World of Warcraft", "status": "ignored"}
 {"key": "namen", "word": "Namen", "translation": "names", "note": ""}
 {"key": "streitkräfte", "word": "Streitkräfte", "translation": "armed forces", "note": "streit (battle) + kräfte (forces); military term"}
 {"key": "bedrohung", "word": "Bedrohung", "translation": "threat", "note": "bedrohen (threaten) + -ung suffix (noun formation)"}
@@ -18744,7 +18744,7 @@
 {"key": "hoffe", "word": "hoffe", "translation": "hope", "note": ""}
 {"key": "letzter", "word": "letzter", "translation": "last", "note": ""}
 {"key": "ruhe", "word": "Ruhe", "translation": "rest", "note": "peace, quiet, or repose"}
-{"key": "loa", "word": "Loa", "translation": "Loa", "note": "WoW spirit entity; from Haitian vodou tradition"}
+{"key": "loa", "word": "Loa", "translation": "Loa", "note": "WoW spirit entity; from Haitian vodou tradition", "status": "ignored"}
 {"key": "angreifen", "word": "angreifen", "translation": "attack", "note": ""}
 {"key": "fleisch", "word": "Fleisch", "translation": "meat", "note": ""}
 {"key": "jahren", "word": "Jahren", "translation": "years", "note": ""}
@@ -19691,7 +19691,7 @@
 {"key": "wann", "word": "wann", "translation": "when", "note": "at what time; question word for temporal reference"}
 {"key": "wildtiere", "word": "Wildtiere", "translation": "wildlife; wild animals", "note": "untamed beasts; creatures in nature"}
 {"key": "worgen", "word": "Worgen", "translation": "Worgen", "note": "cursed humanoid wolves in WoW; playable race", "status": "ignored"}
-{"key": "argus", "word": "Argus", "translation": "Argus", "note": "the fel world in WoW Legion expansion; Titan construct turned dark"}
+{"key": "argus", "word": "Argus", "translation": "Argus", "note": "the fel world in WoW Legion expansion; Titan construct turned dark", "status": "ignored"}
 {"key": "auchindoun", "word": "Auchindoun", "translation": "Auchindoun", "note": "destroyed draenei capital; major dungeon location in WoW", "status": "ignored"}
 {"key": "blutes", "word": "Blutes", "translation": "blood", "note": "genitive of Blut; life essence or kinship"}
 {"key": "gefangene", "word": "Gefangene", "translation": "prisoners; captives", "note": "those held in confinement; those without freedom"}
@@ -19728,7 +19728,7 @@
 {"key": "zwecke", "word": "Zwecke", "translation": "purposes", "note": ""}
 {"key": "grenze", "word": "Grenze", "translation": "border", "note": ""}
 {"key": "held", "word": "Held", "translation": "hero", "note": ""}
-{"key": "kael'thas", "word": "Kael'thas", "translation": "Kael'thas", "note": "major antagonist in World of Warcraft lore"}
+{"key": "kael'thas", "word": "Kael'thas", "translation": "Kael'thas", "note": "major antagonist in World of Warcraft lore", "status": "ignored"}
 {"key": "komme", "word": "komme", "translation": "come", "note": ""}
 {"key": "kunst", "word": "Kunst", "translation": "art", "note": "die Kunst = the art/skill (craft)"}
 {"key": "leiten", "word": "leiten", "translation": "lead", "note": ""}
@@ -19786,7 +19786,7 @@
 {"key": "geleistet", "word": "geleistet", "translation": "accomplished", "note": ""}
 {"key": "manaschmiede", "word": "Manaschmiede", "translation": "Mana Forge", "note": "WoW facility/structure for mana; official English term"}
 {"key": "mächtigsten", "word": "mächtigsten", "translation": "most powerful", "note": "superlative: most powerful"}
-{"key": "sargeras", "word": "Sargeras", "translation": "Sargeras", "note": "supreme antagonist in WoW lore"}
+{"key": "sargeras", "word": "Sargeras", "translation": "Sargeras", "note": "supreme antagonist in WoW lore", "status": "ignored"}
 {"key": "seltsam", "word": "seltsam", "translation": "strange", "note": ""}
 {"key": "spione", "word": "Spione", "translation": "Spies", "note": "Spies"}
 {"key": "verbessern", "word": "verbessern", "translation": "improve", "note": ""}
@@ -20329,7 +20329,7 @@
 {"key": "aufgrund", "word": "Aufgrund", "translation": "because of; due to", "note": "auf + Grund; governs genitive case (aufgrund dessen = for that reason)"}
 {"key": "ausgeht", "word": "ausgeht", "translation": "goes out; emanates", "note": "separable verb ausgehen; meaning shifts with object (light goes out, effect goes out = emanates from)"}
 {"key": "darnassus", "word": "Darnassus", "translation": "Darnassus", "note": "Night Elf capital; no translation needed, proper noun", "status": "ignored"}
-{"key": "dornogal", "word": "Dornogal", "translation": "Dornogal", "note": "WoW location; Thorn + Valley etymology, but name stands as given"}
+{"key": "dornogal", "word": "Dornogal", "translation": "Dornogal", "note": "WoW location; Thorn + Valley etymology, but name stands as given", "status": "ignored"}
 {"key": "echt", "word": "echt", "translation": "really; genuinely", "note": "adjective or adverb; echt zu schaffen = really troubles (not just real trouble)"}
 {"key": "einfacher", "word": "einfacher", "translation": "easier; simpler", "note": "comparative of einfach; ein- (one, single) + -fach (fold)"}
 {"key": "einheit", "word": "Einheit", "translation": "unit", "note": "ein (one) + -heit suffix; military or administrative unit"}
@@ -20613,7 +20613,7 @@
 {"key": "bleichborken", "word": "Bleichborken", "translation": "Bleachbarks", "note": "proper noun: creature or faction name"}
 {"key": "blume", "word": "Blume", "translation": "flower", "note": "flowering plant or blossom"}
 {"key": "bote", "word": "Bote", "translation": "messenger", "note": "one who carries messages"}
-{"key": "brann", "word": "Brann", "translation": "Brann", "note": "Brann Bronzebart, a legendary dwarf explorer and explorer of Khaz-Modan"}
+{"key": "brann", "word": "Brann", "translation": "Brann", "note": "Brann Bronzebart, a legendary dwarf explorer and explorer of Khaz-Modan", "status": "ignored"}
 {"key": "dienern", "word": "Dienern", "translation": "servants", "note": "accusative/dative plural of Diener (servant); context-dependent form"}
 {"key": "einsatzbereit", "word": "einsatzbereit", "translation": "ready for use", "note": "compound: einsatz (deployment) + bereit (ready)"}
 {"key": "erforschen", "word": "erforschen", "translation": "explore", "note": "to explore, investigate, or research; often implies systematic study"}
@@ -21090,7 +21090,7 @@
 {"key": "hebt", "word": "hebt", "translation": "lifts; raises", "note": "third person singular of heben"}
 {"key": "helfe", "word": "helfe", "translation": "help", "note": "first person singular of helfen; subjunctive or present"}
 {"key": "heroisch", "word": "Heroisch", "translation": "heroic", "note": "adjective; often used as title or heading"}
-{"key": "kaldorei", "word": "Kaldorei", "translation": "Kaldorei", "note": "WoW term for night elves; also spelled Kaldari"}
+{"key": "kaldorei", "word": "Kaldorei", "translation": "Kaldorei", "note": "WoW term for night elves; also spelled Kaldari", "status": "ignored"}
 {"key": "klaxxi", "word": "Klaxxi", "translation": "Klaxxi", "note": "WoW faction of mantid-like creatures", "status": "ignored"}
 {"key": "kollegen", "word": "Kollegen", "translation": "colleagues", "note": "plural of Kollege; capitalized because German capitalizes all nouns"}
 {"key": "konflikt", "word": "Konflikt", "translation": "conflict", "note": ""}
@@ -21390,7 +21390,7 @@
 {"key": "stücken", "word": "Stücken", "translation": "pieces", "note": "plural/dative of Stück (piece, part)"}
 {"key": "sägewerk", "word": "Sägewerk", "translation": "sawmill", "note": "säge (saw) + werk (works/factory); where logs are processed"}
 {"key": "süssen", "word": "süßen", "translation": "sweeten", "note": "to make sweet; süß = sweet"}
-{"key": "teldrassil", "word": "Teldrassil", "translation": "Teldrassil", "note": "the world tree of the night elves; destroyed in Cataclysm"}
+{"key": "teldrassil", "word": "Teldrassil", "translation": "Teldrassil", "note": "the world tree of the night elves; destroyed in Cataclysm", "status": "ignored"}
 {"key": "tirna", "word": "Tirna", "translation": "Tirna", "note": "from Tirna Scithe, a druid sanctuary in Ardenweald", "status": "ignored"}
 {"key": "tortollaner", "word": "Tortollaner", "translation": "Tortollans", "note": "WoW race: ancient turtle-like humanoids; plural form"}
 {"key": "trick", "word": "Trick", "translation": "trick", "note": "a deception or clever technique"}
