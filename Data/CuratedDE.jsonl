@@ -19605,7 +19605,7 @@
 {"key": "gerüchte", "word": "Gerüchte", "translation": "rumors; gossip", "note": "unverified reports or hearsay"}
 {"key": "gewährt", "word": "gewährt", "translation": "grants; allows", "note": "third-person singular of gewähren; bestows or permits"}
 {"key": "hüter", "word": "Hüter", "translation": "guardian; keeper; warden", "note": "one who guards or protects; keeper of something sacred"}
-{"key": "illidari", "word": "Illidari", "translation": "Illidari", "note": "Illidan's demon hunter forces in WoW lore; originally allied with him"}
+{"key": "illidari", "word": "Illidari", "translation": "Illidari", "note": "Illidan's demon hunter forces in WoW lore; originally allied with him", "status": "ignored"}
 {"key": "karawane", "word": "Karawane", "translation": "caravan", "note": "traveling group of merchants or travelers; group journey across desert"}
 {"key": "letztes", "word": "letztes", "translation": "last; final", "note": "most recent or final in sequence"}
 {"key": "meinung", "word": "Meinung", "translation": "opinion; view", "note": "personal judgment or belief"}
@@ -23816,7 +23816,7 @@
 {"key": "reiches", "word": "Reiches", "translation": "realm", "note": "reich = kingdom/realm or rich; here means kingdom or domain"}
 {"key": "relikts", "word": "Relikts", "translation": "relics", "note": "plural or genitive of Relikt; objects of historical/magical significance"}
 {"key": "reue", "word": "Reue", "translation": "regret", "note": "reue = regret or remorse; sorrow for past actions"}
-{"key": "rezan", "word": "Rezan", "translation": "Rezan", "note": "a legendary loa (spirit) in WoW; patriarchal Zandalari spirit"}
+{"key": "rezan", "word": "Rezan", "translation": "Rezan", "note": "a legendary loa (spirit) in WoW; patriarchal Zandalari spirit", "status": "ignored"}
 {"key": "riskiert", "word": "riskiert", "translation": "risked", "note": "past tense of riskieren (to risk); to take a chance"}
 {"key": "rohstoffe", "word": "Rohstoffe", "translation": "raw materials", "note": "rohstoff = basic resources before crafting"}
 {"key": "rufe", "word": "rufe", "translation": "summon", "note": "rufen (to call); in WoW context, to conjure or call forth"}
@@ -26805,7 +26805,7 @@
 {"key": "bron", "word": "Bron", "translation": "Bron", "note": "NPC name", "status": "ignored"}
 {"key": "bronze", "word": "Bronze", "translation": "bronze", "note": "the metal"}
 {"key": "buchstäblich", "word": "buchstäblich", "translation": "literally", "note": "from Buchstabe (letter); letter-for-letter"}
-{"key": "bwonsamdis", "word": "Bwonsamdis", "translation": "Bwonsamdis", "note": "loa (spirit deity) name in WoW"}
+{"key": "bwonsamdis", "word": "Bwonsamdis", "translation": "Bwonsamdis", "note": "loa (spirit deity) name in WoW", "status": "ignored"}
 {"key": "bändigen", "word": "bändigen", "translation": "tame; control", "note": "from Band (bond); to bring under control"}
 {"key": "bände", "word": "Bände", "translation": "volumes; tomes", "note": "plural of Band (volume/book); scholarly works"}
 {"key": "bösartiges", "word": "Bösartiges", "translation": "malicious; malevolent", "note": "from böse (evil); actively harmful"}
@@ -29724,7 +29724,7 @@
 {"key": "hirsches", "word": "Hirsches", "translation": "deer", "note": ""}
 {"key": "hirschhaupt", "word": "Hirschhaupt", "translation": "Deerhead", "note": "WoW NPC name (the word literally means deer-head)"}
 {"key": "historische", "word": "Historische", "translation": "historical", "note": "lowercase"}
-{"key": "hodir", "word": "Hodir", "translation": "Hodir", "note": "giant/deity name in WoW"}
+{"key": "hodir", "word": "Hodir", "translation": "Hodir", "note": "giant/deity name in WoW", "status": "ignored"}
 {"key": "hoff", "word": "hoff", "translation": "hope", "note": "colloquial: ich hoffe"}
 {"key": "hoffnungsvoll", "word": "hoffnungsvoll", "translation": "hopeful", "note": ""}
 {"key": "hohem", "word": "hohem", "translation": "high", "note": ""}
@@ -30822,7 +30822,7 @@
 {"key": "feuriger", "word": "feuriger", "translation": "fiery", "note": "feuer + comparative; hot-tempered"}
 {"key": "fieber", "word": "Fieber", "translation": "fever", "note": ""}
 {"key": "fieser", "word": "fieser", "translation": "meaner", "note": "fies + comparative; more unpleasant"}
-{"key": "filo", "word": "Filo", "translation": "Filo", "note": "loa of childhood; spirit of youth"}
+{"key": "filo", "word": "Filo", "translation": "Filo", "note": "loa of childhood; spirit of youth", "status": "ignored"}
 {"key": "finder", "word": "Finder", "translation": "finder", "note": "finden + -er; one who discovers"}
 {"key": "finesse", "word": "Finesse", "translation": "finesse", "note": "from French; delicate skill"}
 {"key": "fischernetz", "word": "Fischernetz", "translation": "fishing net", "note": "fischer + netz (net); compound"}
@@ -30860,7 +30860,7 @@
 {"key": "fürstliche", "word": "fürstliche", "translation": "princely", "note": "fürst; befitting royalty"}
 {"key": "gai-cho", "word": "Gai-Cho", "translation": "Gai Cho", "note": "WoW location; strife camp"}
 {"key": "galakronds", "word": "Galakronds", "translation": "Galakrond's", "note": "proto-dragon lair location"}
-{"key": "gan'arg", "word": "Gan'arg", "translation": "Gan'arg", "note": "WoW demon type; Burning Legion"}
+{"key": "gan'arg", "word": "Gan'arg", "translation": "Gan'arg", "note": "WoW demon type; Burning Legion", "status": "ignored"}
 {"key": "ganzem", "word": "ganzem", "translation": "whole", "note": "ganz; complete or entire"}
 {"key": "gar'an", "word": "Gar'an", "translation": "Gar'an", "note": "WoW NPC name", "status": "ignored"}
 {"key": "garde", "word": "Garde", "translation": "guard", "note": "from French; soldier or protector"}
@@ -34260,7 +34260,7 @@
 {"key": "basalteus", "word": "Basalteus", "translation": "Basalteus", "note": "character/NPC name", "status": "ignored"}
 {"key": "basilisk", "word": "Basilisk", "translation": "basilisk", "note": ""}
 {"key": "bastia", "word": "Bastia", "translation": "Bastia", "note": "creature/mount name", "status": "ignored"}
-{"key": "bastillax", "word": "Bastillax", "translation": "Bastillax", "note": "demon name"}
+{"key": "bastillax", "word": "Bastillax", "translation": "Bastillax", "note": "demon name", "status": "ignored"}
 {"key": "bastionen", "word": "Bastionen", "translation": "Bastions", "note": "plural of bastion"}
 {"key": "batzen", "word": "Batzen", "translation": "haul", "note": "colloquial for a sizable sum of money"}
 {"key": "baumaterial", "word": "Baumaterial", "translation": "building material", "note": ""}
@@ -36180,7 +36180,7 @@
 {"key": "smutholomäus", "word": "Smutholomäus", "translation": "Smutholomew", "note": "cook"}
 {"key": "socken", "word": "Socken", "translation": "Socks", "note": "plural"}
 {"key": "sofortiges", "word": "sofortiges", "translation": "immediate", "note": "urgent"}
-{"key": "soggoth", "word": "Soggoth", "translation": "Soggoth", "note": "demon"}
+{"key": "soggoth", "word": "Soggoth", "translation": "Soggoth", "note": "demon", "status": "ignored"}
 {"key": "soiree", "word": "Soiree", "translation": "soiree", "note": "evening party"}
 {"key": "soldatin", "word": "Soldatin", "translation": "soldier", "note": "female"}
 {"key": "solendra", "word": "Solendra", "translation": "Solendra", "note": "elf NPC", "status": "ignored"}
@@ -37778,7 +37778,7 @@
 {"key": "dahlias", "word": "Dahlias", "translation": "Dahlias", "note": "possessive; Dahlia's fate"}
 {"key": "daio", "word": "Daio", "translation": "Daio", "note": ""}
 {"key": "dajik", "word": "Dajik", "translation": "Dajik", "note": ""}
-{"key": "dambala", "word": "Dambala", "translation": "Dambala", "note": "loa (deity) in trollish pantheon"}
+{"key": "dambala", "word": "Dambala", "translation": "Dambala", "note": "loa (deity) in trollish pantheon", "status": "ignored"}
 {"key": "damen", "word": "Damen", "translation": "Ladies", "note": "formal plural of woman/lady"}
 {"key": "damp", "word": "damp", "translation": "damp", "note": ""}
 {"key": "dampfer", "word": "Dampfer", "translation": "steamer", "note": "steam-powered ship; gnomes and goblins use steamers"}
@@ -43973,7 +43973,7 @@
 {"key": "filigrane", "word": "filigrane", "translation": "filigree", "note": "delicate; was 'delicate' but 'filigree' is more precise for 'filigrane Einlegearbeiten'"}
 {"key": "filigraner", "word": "Filigraner", "translation": "Filigree", "note": "adjective used as title; more elegant than 'more delicate'"}
 {"key": "filter", "word": "Filter", "translation": "filter", "note": "English cognate"}
-{"key": "filos", "word": "Filos", "translation": "Filos", "note": "Loa name"}
+{"key": "filos", "word": "Filos", "translation": "Filos", "note": "Loa name", "status": "ignored"}
 {"key": "filtern", "word": "filtern", "translation": "filter", "note": "verb"}
 {"key": "findet's", "word": "findet's", "translation": "finds it", "note": "colloquial contraction of 'findet es'"}
 {"key": "fingen", "word": "fingen", "translation": "caught", "note": "past tense of fangen (to catch)"}
@@ -45552,7 +45552,7 @@
 {"key": "jähzornig", "word": "jähzornig", "translation": "hot-tempered", "note": "literally quick-anger; prone to sudden anger"}
 {"key": "jünglinge", "word": "Jünglinge", "translation": "youths", "note": "plural of Jüngling; young men or young people"}
 {"key": "jünglingen", "word": "Jünglingen", "translation": "youths", "note": "dative/accusative plural of Jüngling"}
-{"key": "k'arroc", "word": "K'arroc", "translation": "K'arroc", "note": "demon lord name"}
+{"key": "k'arroc", "word": "K'arroc", "translation": "K'arroc", "note": "demon lord name", "status": "ignored"}
 {"key": "k'tal", "word": "K'tal", "translation": "K'tal", "note": "boss name", "status": "ignored"}
 {"key": "k-r-i-e-g", "word": "K-R-I-E-G", "translation": "war", "note": "spelled out letter by letter; the word itself means war"}
 {"key": "ka'alu", "word": "Ka'alu", "translation": "Ka'alu", "note": "arakkoa name"}
@@ -45623,7 +45623,7 @@
 {"key": "kaputtgehen", "word": "kaputtgehen", "translation": "break down", "note": "to break or cease functioning; fall apart"}
 {"key": "kaqiata", "word": "Kaqiata", "translation": "Kaqiata", "note": "tuskarr location", "status": "ignored"}
 {"key": "kar'desh", "word": "Kar'desh", "translation": "Kar'desh", "note": "NPC name", "status": "ignored"}
-{"key": "karab'uun", "word": "Karab'uun", "translation": "Karab'uun", "note": "demon name"}
+{"key": "karab'uun", "word": "Karab'uun", "translation": "Karab'uun", "note": "demon name", "status": "ignored"}
 {"key": "karasshi", "word": "Karasshi", "translation": "Karasshi", "note": "character name", "status": "ignored"}
 {"key": "karette", "word": "Karette", "translation": "Carette", "note": "proper name"}
 {"key": "karja", "word": "Karja", "translation": "Karja", "note": "NPC name", "status": "ignored"}
@@ -45634,12 +45634,12 @@
 {"key": "karn", "word": "Karn", "translation": "Karn", "note": "dragon name"}
 {"key": "karna", "word": "Karna", "translation": "Karna", "note": "AI/golem name"}
 {"key": "karnthar", "word": "Karnthar", "translation": "Karnthar", "note": "NPC name", "status": "ignored"}
-{"key": "karogg", "word": "Karogg", "translation": "Karogg", "note": "demon/crystal giant name"}
+{"key": "karogg", "word": "Karogg", "translation": "Karogg", "note": "demon/crystal giant name", "status": "ignored"}
 {"key": "kartellen", "word": "Kartellen", "translation": "cartels", "note": "plural of Kartell; organized criminal groups"}
 {"key": "kartenkammer", "word": "Kartenkammer", "translation": "card chamber", "note": "chamber where cards or documents are kept"}
 {"key": "karynaku", "word": "Karynaku", "translation": "Karynaku", "note": "NPC name", "status": "ignored"}
 {"key": "kasernen", "word": "Kasernen", "translation": "barracks", "note": "military housing or garrison buildings"}
-{"key": "kassameh", "word": "Kassameh", "translation": "Kassameh", "note": "loa/spirit name"}
+{"key": "kassameh", "word": "Kassameh", "translation": "Kassameh", "note": "loa/spirit name", "status": "ignored"}
 {"key": "kat'la", "word": "Kat'la", "translation": "Kat'la", "note": "NPC name", "status": "ignored"}
 {"key": "katalog", "word": "Katalog", "translation": "catalog", "note": "list or directory; from Greek kata + legein"}
 {"key": "katapulten", "word": "Katapulten", "translation": "catapults", "note": "siege weapons for launching projectiles"}
@@ -59017,7 +59017,7 @@
 {"key": "guile", "word": "guile", "translation": "guile", "note": ""}
 {"key": "guillotine", "word": "Guillotine", "translation": "guillotine", "note": "loanword for the execution device"}
 {"key": "gukgut", "word": "Gukgut", "translation": "Gukgut", "note": "hozen chieftain name"}
-{"key": "gul'rok", "word": "Gul'rok", "translation": "Gul'rok", "note": "demon name"}
+{"key": "gul'rok", "word": "Gul'rok", "translation": "Gul'rok", "note": "demon name", "status": "ignored"}
 {"key": "gulchak", "word": "Gulchak", "translation": "Gulchak", "note": "dragon name"}
 {"key": "gulnakus", "word": "Gulnakus", "translation": "Gulnakus", "note": "NPC name", "status": "ignored"}
 {"key": "gumbo", "word": "Gumbo", "translation": "gumbo", "note": "food term, a stew"}
@@ -61194,8 +61194,8 @@
 {"key": "kazzi", "word": "Kazzi", "translation": "Kazzi", "note": "NPC name; helps with brewing", "status": "ignored"}
 {"key": "kbato", "word": "Kbato", "translation": "Kbato", "note": "NPC or guide name; addresses mortal in quest", "status": "ignored"}
 {"key": "kearnens", "word": "Kearnens", "translation": "Kearnen's", "note": "possessive; SI:7 agent name"}
-{"key": "keb", "word": "Keb", "translation": "Keb", "note": "demon name or entity"}
-{"key": "keb'ezil", "word": "Keb'ezil", "translation": "Keb'ezil", "note": "demon name; interrupts spell preparation"}
+{"key": "keb", "word": "Keb", "translation": "Keb", "note": "demon name or entity", "status": "ignored"}
+{"key": "keb'ezil", "word": "Keb'ezil", "translation": "Keb'ezil", "note": "demon name; interrupts spell preparation", "status": "ignored"}
 {"key": "keep", "word": "keep", "translation": "keep", "note": "English word from English quest text"}
 {"key": "keepin", "word": "keepin", "translation": "keepin'", "note": "Scottish dialect: keeping; English text"}
 {"key": "keets", "word": "Keets", "translation": "Keets", "note": "engineer name; part of gnome crew"}
@@ -61382,7 +61382,7 @@
 {"key": "kistenböden", "word": "Kistenböden", "translation": "box bottoms", "note": "kiste (box) + böden (bottoms/floors); base compartments"}
 {"key": "kistenweise", "word": "kistenweise", "translation": "by the box", "note": "kistenweise = in boxes; adverbial form for bulk quantities"}
 {"key": "kistenstapel", "word": "Kistenstapel", "translation": "stack of boxes", "note": "kiste (box) + stapel (stack); pile of containers"}
-{"key": "kith'ix", "word": "Kith'ix", "translation": "Kith'ix", "note": "Old God entity; powerful primordial being"}
+{"key": "kith'ix", "word": "Kith'ix", "translation": "Kith'ix", "note": "Old God entity; powerful primordial being", "status": "ignored"}
 {"key": "kitrik", "word": "Kitrik", "translation": "Kitrik", "note": ""}
 {"key": "kitz", "word": "Kitz", "translation": "fawn", "note": "young deer; baby roe or young stag"}
 {"key": "kivarrs", "word": "Kivarrs", "translation": "Kivarrs", "note": "possessive form"}
@@ -65819,7 +65819,7 @@
 {"key": "putzmurloc", "word": "Putzmurloc", "translation": "Putzmurloc", "note": "creature NPC name", "status": "ignored"}
 {"key": "putzt", "word": "Putzt", "translation": "cleans", "note": "present tense singular of putzen; tidies or cleans"}
 {"key": "putztrupp", "word": "Putztrupp", "translation": "cleaning crew", "note": "putz (cleaning) + trupp (squad/group); maintenance team"}
-{"key": "puul", "word": "Puul", "translation": "Puul", "note": "idol or deity name"}
+{"key": "puul", "word": "Puul", "translation": "Puul", "note": "idol or deity name", "status": "ignored"}
 {"key": "puzzlestück", "word": "Puzzlestück", "translation": "piece of the puzzle", "note": "puzzle + stück (piece); missing information that solves a mystery"}
 {"key": "pygmäe", "word": "Pygmäe", "translation": "pygmy", "note": "from Greek; small human, distinct ethnic group in Africa"}
 {"key": "pyramiden", "word": "Pyramiden", "translation": "pyramids", "note": "from Greek; geometric structures, often triangular"}
@@ -74065,13 +74065,13 @@
 {"key": "hearthglen", "word": "Hearthglen", "translation": "Hearthglen", "note": "location; Scarlet Monastery stronghold", "status": "ignored"}
 {"key": "hearthkindle", "word": "Hearthkindle", "translation": "Hearthkindle", "note": "NPC name; night elf at Feathermoon", "status": "ignored"}
 {"key": "heavyhands", "word": "Heavyhands", "translation": "Heavyhands", "note": "NPC name; hansel with descriptive surname", "status": "ignored"}
-{"key": "hematus", "word": "Hematus", "translation": "Hematus", "note": "demon/entity name; enchained in sealed chamber"}
+{"key": "hematus", "word": "Hematus", "translation": "Hematus", "note": "demon/entity name; enchained in sealed chamber", "status": "ignored"}
 {"key": "himmelblaue", "word": "himmelblaue", "translation": "sky-blue", "note": "himmel (sky) + blaue (blue); color descriptor for vials or objects"}
 {"key": "hulfdan", "word": "Hulfdan", "translation": "Hulfdan", "note": "NPC name; dwarf in Ironforge", "status": "ignored"}
 {"key": "höhlenbehüter", "word": "Höhlenbehüter", "translation": "cave keeper", "note": "höhle (cave) + behüter (guardian/keeper); creature type in Feralas"}
 {"key": "höllenkugel", "word": "Höllenkugel", "translation": "hellball", "note": "hölle (hell) + kugel (sphere/ball); dangerous quest item"}
 {"key": "immerschimmer", "word": "Immerschimmer", "translation": "Evershimmer", "note": "immer (ever/always) + schimmer (shimmer/glow); crafting material"}
-{"key": "incendius", "word": "Incendius", "translation": "Incendius", "note": "demon/firelord name; from incendium (Latin for fire)"}
+{"key": "incendius", "word": "Incendius", "translation": "Incendius", "note": "demon/firelord name; from incendium (Latin for fire)", "status": "ignored"}
 {"key": "irondeep-vorräte", "word": "Irondeep-Vorräte", "translation": "Irondeep supplies", "note": "vorräte (supplies/stores); material from Blackrock Depths"}
 {"key": "jeremiah", "word": "Jeremiah", "translation": "Jeremiah", "note": "NPC name; Felstone in Eastern Plaguelands", "status": "ignored"}
 {"key": "jonespyre", "word": "Jonespyre", "translation": "Jonespyre", "note": "NPC name; night elf at Feathermoon fortress", "status": "ignored"}
@@ -94340,7 +94340,7 @@
 {"key": "gemüsegericht", "word": "Gemüsegericht", "translation": "vegetable dish", "note": "dwarves go wild over vegetable dishes in this context"}
 {"key": "gemüsomat", "word": "Gemüsomat", "translation": "Veggie-o-Matic", "note": "parody of -O-Matic suffix; gnomish invention style"}
 {"key": "gemütlichkeit", "word": "Gemütlichkeit", "translation": "coziness", "note": "gemütlich = cozy; -keit forms abstract noun; German charm"}
-{"key": "gen-li", "word": "Gen-li", "translation": "Gen-li", "note": "spirit/demon name; no translation"}
+{"key": "gen-li", "word": "Gen-li", "translation": "Gen-li", "note": "spirit/demon name; no translation", "status": "ignored"}
 {"key": "genauu", "word": "genauu", "translation": "exactly", "note": "dialectal variation of genau; heavy goblin alchemy quest"}
 {"key": "gen-lis", "word": "Gen-lis", "translation": "Gen-li's", "note": "possessive form of spirit name"}
 {"key": "generatorenergiezellen", "word": "Generatorenergiezellen", "translation": "generator energy cells", "note": "technical compound; NRG-100 charging"}
@@ -102166,7 +102166,7 @@
 {"key": "ottukherz", "word": "Ottukherz", "translation": "Ottuk heart", "note": "Ottuk (creature) + Herz (heart); quest or crafting item"}
 {"key": "ottukjunge", "word": "Ottukjunge", "translation": "Ottuk cub", "note": "Ottuk (creature) + Junge (young/cub); young creature, not a boy"}
 {"key": "otwin", "word": "Otwin", "translation": "Otwin", "note": ""}
-{"key": "oublion", "word": "Oublion", "translation": "Oublion", "note": "demon name in-game"}
+{"key": "oublion", "word": "Oublion", "translation": "Oublion", "note": "demon name in-game", "status": "ignored"}
 {"key": "ound", "word": "ound", "translation": "sound", "note": "appears to be a typo or truncation in original text"}
 {"key": "ounhulo", "word": "Ounhulo", "translation": "Ounhulo", "note": ""}
 {"key": "outcast", "word": "outcast", "translation": "outcast", "note": "social or military term; someone expelled or rejected"}
