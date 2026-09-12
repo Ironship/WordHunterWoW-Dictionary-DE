@@ -76560,7 +76560,7 @@
 {"key": "shatter", "word": "Shatter", "translation": "Shatter", "note": "dungeon/scar area location name"}
 {"key": "shattered", "word": "Shattered", "translation": "Shattered", "note": "broken/destroyed location; Scar valley", "status": "ignored"}
 {"key": "shaws", "word": "Shaws", "translation": "Shaw's", "note": "report from dwarf; possessive"}
-{"key": "shaya", "word": "Shaya", "translation": "Shaya", "note": "night elf guard; wounded sentinel"}
+{"key": "shaya", "word": "Shaya", "translation": "Shaya", "note": "night elf guard; wounded sentinel", "status": "ignored"}
 {"key": "stormwind", "word": "Stormwind", "translation": "Stormwind", "note": "English name untranslated in German client; the human capital", "status": "ignored"}
 {"key": "undercity", "word": "Undercity", "translation": "Undercity", "note": "English name untranslated in German client; the undead capital", "status": "ignored"}
 {"key": "thunder", "word": "Thunder", "translation": "Thunder", "note": "part of Thunder Bluff name; untranslated English in German client"}
@@ -76709,7 +76709,7 @@
 {"key": "verhexung", "word": "Verhexung", "translation": "curse", "note": "noun; from verhexen meaning to hex"}
 {"key": "whitebeard", "word": "Whitebeard", "translation": "Whitebeard", "note": "NPC name; dwarf questgiver", "status": "ignored"}
 {"key": "wildeyes", "word": "Wildeyes", "translation": "Wildeyes", "note": "wild or feral creature type", "status": "ignored"}
-{"key": "wildheart", "word": "Wildheart", "translation": "Wildheart", "note": "tauren surname; appears in armor names"}
+{"key": "wildheart", "word": "Wildheart", "translation": "Wildheart", "note": "tauren surname; appears in armor names", "status": "ignored"}
 {"key": "wildranke", "word": "Wildranke", "translation": "wild vine", "note": "literally wild vine; plant crafting material"}
 {"key": "windblade", "word": "Windblade", "translation": "Windblade", "note": ""}
 {"key": "winteraxhöhlen", "word": "Winteraxhöhlen", "translation": "Winterax Caves", "note": "winterax is the troll tribe name; compound: winter + ax"}
@@ -81707,7 +81707,7 @@
 {"key": "lucky", "word": "Lucky", "translation": "Lucky", "note": "English adjective; the German equivalent is glücklich"}
 {"key": "lufttotem", "word": "Lufttotem", "translation": "Air Totem", "note": "compound: Luft (air) + Totem; singular form"}
 {"key": "lufttotems", "word": "Lufttotems", "translation": "Air totems", "note": "plural of Lufttotem; German compounds keep the noun capitalized"}
-{"key": "lukas", "word": "Lukas", "translation": "Lukas", "note": "personal name; do not replace it with the English name Luke"}
+{"key": "lukas", "word": "Lukas", "translation": "Lukas", "note": "personal name; do not replace it with the English name Luke", "status": "ignored"}
 {"key": "luther", "word": "Luther", "translation": "Luther", "note": ""}
 {"key": "lyceon", "word": "Lyceon", "translation": "Lyceon", "note": ""}
 {"key": "läuternde", "word": "läuternde", "translation": "purifying", "note": "from läutern, to purify; -e agrees with Glockenspiel"}
@@ -89399,7 +89399,7 @@
 {"key": "babyrylak", "word": "Babyrylak", "translation": "baby rylak", "note": "compound: Baby + Rylak; Rylak is the creature name"}
 {"key": "bach'lors", "word": "Bach'lors", "translation": "Bach'lor's", "note": "genitive of Bach'lor; the hoof belongs to Bach'lor"}
 {"key": "babyskelette", "word": "Babyskelette", "translation": "Baby skeletons", "note": "compound: Baby + Skelette (skeletons); Skelette is plural"}
-{"key": "bachquell", "word": "Bachquell", "translation": "Bachquell", "note": "surname; its parts suggest Bach (stream) + Quell(e) (source)"}
+{"key": "bachquell", "word": "Bachquell", "translation": "Bachquell", "note": "surname; its parts suggest Bach (stream) + Quell(e) (source)", "status": "ignored"}
 {"key": "bachsaiblinge", "word": "Bachsaiblinge", "translation": "brook char", "note": "saibling means char, a trout-like fish; Bach means stream or brook"}
 {"key": "bachzahnbau", "word": "Bachzahnbau", "translation": "streamtooth burrow", "note": "bach (stream) + Zahn (tooth) + Bau (burrow); the official English name is not confirmed"}
 {"key": "backkunst", "word": "Backkunst", "translation": "baking", "note": "backen (baking) + Kunst (craft); here it means the craft of baking"}
@@ -96375,8 +96375,8 @@
 {"key": "grizzlyhügelriesen", "word": "Grizzlyhügelriesen", "translation": "Grizzly Hill Giants", "note": "grizzly + hügel (hill) + riesen (giants); creature type in a specific location"}
 {"key": "grizzwald", "word": "Grizzwald", "translation": "Grizzwald", "note": "NPC name or location; grizzly + wald (forest)", "status": "ignored"}
 {"key": "grm", "word": "grm", "translation": "grm", "note": "murloc sound effect; no translation"}
-{"key": "grlrlrglrmg", "word": "Grlrlrglrmg", "translation": "Grlrlrglrmg", "note": "murloc speech; no translation needed"}
-{"key": "grmgr", "word": "Grmgr", "translation": "Grmgr", "note": "murloc sound; no translation"}
+{"key": "grlrlrglrmg", "word": "Grlrlrglrmg", "translation": "Grlrlrglrmg", "note": "murloc speech; no translation needed", "status": "ignored"}
+{"key": "grmgr", "word": "Grmgr", "translation": "Grmgr", "note": "murloc sound; no translation", "status": "ignored"}
 {"key": "grmlgrl", "word": "grmlgrl", "translation": "grmlgrl", "note": "murloc speech pattern"}
 {"key": "grmlmgl", "word": "grmlmgl", "translation": "grmlmgl", "note": "murloc speech pattern"}
 {"key": "grmlgmlr", "word": "grmlgmlr", "translation": "grmlgmlr", "note": "murloc speech pattern"}
@@ -101139,16 +101139,16 @@
 {"key": "moxx", "word": "Moxx", "translation": "Moxx", "note": "NPC: Overseer Moxx; military rank title", "status": "ignored"}
 {"key": "mrgg", "word": "Mrgg", "translation": "Mrgg", "note": "murloc speech; onomatopoeia; do not translate"}
 {"key": "mrgglrmr", "word": "Mrgglrmr", "translation": "Mrgglrmr", "note": "murloc language; untranslatable", "status": "ignored"}
-{"key": "mrgl-rgml", "word": "Mrgl-rgml", "translation": "Mrgl-rgml", "note": "murloc speech pattern; character dialogue, not translatable"}
+{"key": "mrgl-rgml", "word": "Mrgl-rgml", "translation": "Mrgl-rgml", "note": "murloc speech pattern; character dialogue, not translatable", "status": "ignored"}
 {"key": "mrlgmlglr", "word": "mrlgmlglr", "translation": "mrlgmlglr", "note": "murloc sound-speech; do not translate"}
 {"key": "mrglmrlg", "word": "Mrglmrlg", "translation": "Mrglmrlg", "note": "murloc language; untranslatable", "status": "ignored"}
-{"key": "mrlgr", "word": "Mrlgr", "translation": "Mrlgr", "note": "murloc speech; untranslatable"}
-{"key": "mrgmlr", "word": "Mrgmlr", "translation": "Mrgmlr", "note": "murloc dialogue; untranslatable"}
+{"key": "mrlgr", "word": "Mrlgr", "translation": "Mrlgr", "note": "murloc speech; untranslatable", "status": "ignored"}
+{"key": "mrgmlr", "word": "Mrgmlr", "translation": "Mrgmlr", "note": "murloc dialogue; untranslatable", "status": "ignored"}
 {"key": "mrlmgrlg", "word": "Mrlmgrlg", "translation": "Mrlmgrlg", "note": "murloc communication; untranslatable", "status": "ignored"}
 {"key": "mrn", "word": "MRN", "translation": "MRN", "note": "abbreviation or proper noun; context unclear", "status": "ignored"}
-{"key": "mrrgml", "word": "Mrrgml", "translation": "Mrrgml", "note": "murloc speech; untranslatable"}
-{"key": "mrrklr", "word": "Mrrklr", "translation": "Mrrklr", "note": "murloc sound; untranslatable"}
-{"key": "mrrgrl", "word": "Mrrgrl", "translation": "Mrrgrl", "note": "murloc name; 'the Tide Reaver' is descriptive title"}
+{"key": "mrrgml", "word": "Mrrgml", "translation": "Mrrgml", "note": "murloc speech; untranslatable", "status": "ignored"}
+{"key": "mrrklr", "word": "Mrrklr", "translation": "Mrrklr", "note": "murloc sound; untranslatable", "status": "ignored"}
+{"key": "mrrgrl", "word": "Mrrgrl", "translation": "Mrrgrl", "note": "murloc name; 'the Tide Reaver' is descriptive title", "status": "ignored"}
 {"key": "mu'shas", "word": "Mu'shas", "translation": "Mu'shas", "note": ""}
 {"key": "muahahahaaaa", "word": "Muahahahaaaa", "translation": "Muahahahaaaa", "note": "evil laughter onomatopoeia; untranslatable"}
 {"key": "mubbeliges", "word": "mubbeliges", "translation": "plump; chubby", "note": "mubbelich/mubbelig = chubby/pudgy; -es nominalization; context 'Baby Chi-Chi' (as was); 'musky' is wrong"}
@@ -101198,7 +101198,7 @@
 {"key": "murantus", "word": "Murantus", "translation": "Murantus", "note": "NPC: Excavation Leader Murantus at Honor Hold", "status": "ignored"}
 {"key": "murdering", "word": "murdering", "translation": "murdering; killing", "note": "English word; verb form in pirate dialogue"}
 {"key": "murkser", "word": "Murkser", "translation": "botcher; blunderer; corpse; kill", "note": "murks (mess/botch) + -er; German slang; 'made some good kills there'; Vrykul falling = corpses"}
-{"key": "murlocalypse", "word": "Murlocalypse", "translation": "Murlocalypse", "note": "English portmanteau: murloc + apocalypse; event or achievement name"}
+{"key": "murlocalypse", "word": "Murlocalypse", "translation": "Murlocalypse", "note": "English portmanteau: murloc + apocalypse; event or achievement name", "status": "ignored"}
 {"key": "murlocbaby", "word": "Murlocbaby", "translation": "murloc baby", "note": "murloc + baby; creature or quest objective; hatching egg scene"}
 {"key": "murlocforscher", "word": "Murlocforscher", "translation": "murloc researcher", "note": "murloc + forscher (researcher/scholar); skeptical character description"}
 {"key": "murlocbabys", "word": "Murlocbabys", "translation": "murloc babies", "note": "murloc + babys (babies); plural; rescue quest objective"}
@@ -106363,7 +106363,7 @@
 {"key": "t'paartos", "word": "T'paartos", "translation": "T'paartos", "note": "proper name with troll speech pattern; no translation needed for character name", "status": "ignored"}
 {"key": "t'veen", "word": "T'Veen", "translation": "T'Veen", "note": "proper name; troll or alien speech pattern with apostrophe contraction", "status": "ignored"}
 {"key": "t-bone-steaks", "word": "T-Bone-Steaks", "translation": "T-bone steaks", "note": "English loanword in German; a cut of beef steak across the T-shaped bone"}
-{"key": "t-i-k-t-i", "word": "T-I-K-T-I", "translation": "T-I-K-T-I", "note": "appears to be a totem or mystical word spelled out letter by letter; likely untranslatable"}
+{"key": "t-i-k-t-i", "word": "T-I-K-T-I", "translation": "T-I-K-T-I", "note": "appears to be a totem or mystical word spelled out letter by letter; likely untranslatable", "status": "ignored"}
 {"key": "t-t-tapfere", "word": "t-t-tapfere", "translation": "b-b-brave", "note": "stuttered form of tapfer (brave); dialogue effect showing the speaker stammering in fear"}
 {"key": "ta'rella", "word": "Ta'rella", "translation": "Ta'rella", "note": "proper name; NPC with troll or alien naming pattern", "status": "ignored"}
 {"key": "ta'zinnis", "word": "Ta'zinnis", "translation": "Ta'zinnis", "note": "proper NPC name; no translation available for character name", "status": "ignored"}

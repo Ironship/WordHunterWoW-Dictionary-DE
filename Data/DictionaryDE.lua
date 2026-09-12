@@ -8239,7 +8239,7 @@ WordHunterWoW_Dictionary_DE["bach"] = { word = "Bach", translation = "Bach", not
 WordHunterWoW_Dictionary_DE["bach'lor"] = { word = "Bach'lor", translation = "Bach'lor", note = "" }
 WordHunterWoW_Dictionary_DE["bach'lors"] = { word = "Bach'lors", translation = "Bach'lor's", note = "genitive of Bach'lor; the hoof belongs to Bach'lor" }
 WordHunterWoW_Dictionary_DE["baches"] = { word = "Baches", translation = "stream", note = "Bach = stream; genitive singular" }
-WordHunterWoW_Dictionary_DE["bachquell"] = { word = "Bachquell", translation = "Bachquell", note = "surname; its parts suggest Bach (stream) + Quell(e) (source)" }
+WordHunterWoW_Dictionary_DE["bachquell"] = { word = "Bachquell", translation = "Bachquell", note = "surname; its parts suggest Bach (stream) + Quell(e) (source)", status = "ignored" }
 WordHunterWoW_Dictionary_DE["bachs"] = { word = "Bachs", translation = "stream", note = "genitive form of Bach; creek or small river, not a proper name" }
 WordHunterWoW_Dictionary_DE["bachsaiblinge"] = { word = "Bachsaiblinge", translation = "brook char", note = "saibling means char, a trout-like fish; Bach means stream or brook" }
 WordHunterWoW_Dictionary_DE["bachschutz"] = { word = "Bachschutz", translation = "stream protection", note = "a surname here, literally Bach (stream) + Schutz (protection)" }
@@ -36529,7 +36529,7 @@ WordHunterWoW_Dictionary_DE["grlm-grlm"] = { word = "grlm-grlm", translation = "
 WordHunterWoW_Dictionary_DE["grlmrgl"] = { word = "Grlmrgl", translation = "Grlmrgl", note = "murloc name or vocalization; proper noun without English equivalent", status = "ignored" }
 WordHunterWoW_Dictionary_DE["grlmrmlg"] = { word = "grlmrmlg", translation = "grlmrmlg", note = "murloc language; no standard English translation" }
 WordHunterWoW_Dictionary_DE["grlmrrgrr"] = { word = "grlmrrgrr", translation = "grlmrrgrr", note = "" }
-WordHunterWoW_Dictionary_DE["grlrlrglrmg"] = { word = "Grlrlrglrmg", translation = "Grlrlrglrmg", note = "murloc speech; no translation needed" }
+WordHunterWoW_Dictionary_DE["grlrlrglrmg"] = { word = "Grlrlrglrmg", translation = "Grlrlrglrmg", note = "murloc speech; no translation needed", status = "ignored" }
 WordHunterWoW_Dictionary_DE["grml"] = { word = "Grml", translation = "Grml", note = "murloc sound or exclamation; onomatopoeia" }
 WordHunterWoW_Dictionary_DE["grmlgrlrs"] = { word = "Grmlgrlrs", translation = "Grmlgrlrs", note = "murloc language or name; no standard English translation", status = "ignored" }
 WordHunterWoW_Dictionary_DE["grmm"] = { word = "grmm", translation = "grmm", note = "" }
@@ -54615,7 +54615,7 @@ WordHunterWoW_Dictionary_DE["lugrah"] = { word = "Lugrah", translation = "Lugrah
 WordHunterWoW_Dictionary_DE["lugt"] = { word = "lugt", translation = "peeks", note = "third-person singular of lugen, to peek or peer" }
 WordHunterWoW_Dictionary_DE["lugwizz"] = { word = "Lugwizz", translation = "Lugwizz", note = "" }
 WordHunterWoW_Dictionary_DE["luhk"] = { word = "Luhk", translation = "Luhk", note = "" }
-WordHunterWoW_Dictionary_DE["lukas"] = { word = "Lukas", translation = "Lukas", note = "personal name; do not replace it with the English name Luke" }
+WordHunterWoW_Dictionary_DE["lukas"] = { word = "Lukas", translation = "Lukas", note = "personal name; do not replace it with the English name Luke", status = "ignored" }
 WordHunterWoW_Dictionary_DE["lukchen"] = { word = "Lukchen", translation = "Lukchen", note = "NPC name, not abbreviated as Luke" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["lukh"] = { word = "Lukh", translation = "Lukh", note = "" }
 WordHunterWoW_Dictionary_DE["lukoturukk"] = { word = "Lukoturukk", translation = "Lukoturukk", note = "" }
@@ -59170,7 +59170,7 @@ WordHunterWoW_Dictionary_DE["mrgglrr"] = { word = "Mrgglrr", translation = "Mrgg
 WordHunterWoW_Dictionary_DE["mrgl"] = { word = "mrgl", translation = "mrgl", note = "murloc language; basic utterance" }
 WordHunterWoW_Dictionary_DE["mrgl-mrgl"] = { word = "Mrgl-Mrgl", translation = "Mrgl-Mrgl", note = "proper noun; murloc king name; onomatopoeia", status = "ignored" }
 WordHunterWoW_Dictionary_DE["mrgl-mrgls"] = { word = "Mrgl-Mrgls", translation = "Mrgl-Mrgls", note = "" }
-WordHunterWoW_Dictionary_DE["mrgl-rgml"] = { word = "Mrgl-rgml", translation = "Mrgl-rgml", note = "murloc speech pattern; character dialogue, not translatable" }
+WordHunterWoW_Dictionary_DE["mrgl-rgml"] = { word = "Mrgl-rgml", translation = "Mrgl-rgml", note = "murloc speech pattern; character dialogue, not translatable", status = "ignored" }
 WordHunterWoW_Dictionary_DE["mrglgulglrrlglgul"] = { word = "Mrglgulglrrlglgul", translation = "Mrglgulglrrlglgul", note = "murloc speech; untranslatable", status = "ignored" }
 WordHunterWoW_Dictionary_DE["mrgllrg"] = { word = "mrgllrg", translation = "mrgllrg", note = "murloc speech; untranslatable creature language" }
 WordHunterWoW_Dictionary_DE["mrglm"] = { word = "Mrglm", translation = "Mrglm", note = "murloc speech; untranslatable creature language" , status = "ignored" }
@@ -59392,7 +59392,7 @@ WordHunterWoW_Dictionary_DE["murktide"] = { word = "Murktide", translation = "Mu
 WordHunterWoW_Dictionary_DE["murky"] = { word = "Murky", translation = "Murky", note = "proper name; NPC character or murloc name", status = "ignored" }
 WordHunterWoW_Dictionary_DE["murloc"] = { word = "Murloc", translation = "Murloc", note = "amphibious race; WoW creature type, fish-like humanoids" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["murloc-ich"] = { word = "Murloc-Ich", translation = "Murloc-I", note = "murloc-ich = murloc-self; creaturespeak pronoun" }
-WordHunterWoW_Dictionary_DE["murlocalypse"] = { word = "Murlocalypse", translation = "Murlocalypse", note = "English portmanteau: murloc + apocalypse; event or achievement name" }
+WordHunterWoW_Dictionary_DE["murlocalypse"] = { word = "Murlocalypse", translation = "Murlocalypse", note = "English portmanteau: murloc + apocalypse; event or achievement name", status = "ignored" }
 WordHunterWoW_Dictionary_DE["murlocanzug"] = { word = "Murlocanzug", translation = "Murloc suit", note = "murlock (murloc) + anzug (suit); disguise or armor" }
 WordHunterWoW_Dictionary_DE["murlocauge"] = { word = "Murlocauge", translation = "Murloc Eye", note = "murlock + auge (eye); item or artifact" }
 WordHunterWoW_Dictionary_DE["murlocaugen"] = { word = "Murlocaugen", translation = "murloc eyes", note = "murlock + augen (eyes); creature loot item" }
@@ -77444,7 +77444,7 @@ WordHunterWoW_Dictionary_DE["shaw"] = { word = "Shaw", translation = "Shaw", not
 WordHunterWoW_Dictionary_DE["shawn"] = { word = "Shawn", translation = "Shawn", note = "" }
 WordHunterWoW_Dictionary_DE["shaws"] = { word = "Shaws", translation = "Shaw's", note = "report from dwarf; possessive" }
 WordHunterWoW_Dictionary_DE["shay"] = { word = "Shay", translation = "Shay", note = "NPC proper name; untranslated", status = "ignored" }
-WordHunterWoW_Dictionary_DE["shaya"] = { word = "Shaya", translation = "Shaya", note = "night elf guard; wounded sentinel" }
+WordHunterWoW_Dictionary_DE["shaya"] = { word = "Shaya", translation = "Shaya", note = "night elf guard; wounded sentinel", status = "ignored" }
 WordHunterWoW_Dictionary_DE["shayana"] = { word = "Shayana", translation = "Shayana", note = "" }
 WordHunterWoW_Dictionary_DE["shayanas"] = { word = "Shayanas", translation = "Shayana's", note = "possessive form of proper name" }
 WordHunterWoW_Dictionary_DE["shays"] = { word = "Shays", translation = "Shay's", note = "" }
@@ -83214,7 +83214,7 @@ WordHunterWoW_Dictionary_DE["t'shu"] = { word = "T'shu", translation = "T'shu", 
 WordHunterWoW_Dictionary_DE["t'uure"] = { word = "T'uure", translation = "T'uure", note = "" }
 WordHunterWoW_Dictionary_DE["t'veen"] = { word = "T'Veen", translation = "T'Veen", note = "proper name; troll or alien speech pattern with apostrophe contraction", status = "ignored" }
 WordHunterWoW_Dictionary_DE["t-bone-steaks"] = { word = "T-Bone-Steaks", translation = "T-bone steaks", note = "English loanword in German; a cut of beef steak across the T-shaped bone" }
-WordHunterWoW_Dictionary_DE["t-i-k-t-i"] = { word = "T-I-K-T-I", translation = "T-I-K-T-I", note = "appears to be a totem or mystical word spelled out letter by letter; likely untranslatable" }
+WordHunterWoW_Dictionary_DE["t-i-k-t-i"] = { word = "T-I-K-T-I", translation = "T-I-K-T-I", note = "appears to be a totem or mystical word spelled out letter by letter; likely untranslatable", status = "ignored" }
 WordHunterWoW_Dictionary_DE["t-t-tapfere"] = { word = "t-t-tapfere", translation = "b-b-brave", note = "stuttered form of tapfer (brave); dialogue effect showing the speaker stammering in fear" }
 WordHunterWoW_Dictionary_DE["ta"] = { word = "ta", translation = "ta", note = "Goblin gibberish; untranslatable" }
 WordHunterWoW_Dictionary_DE["ta'eran"] = { word = "Ta'eran", translation = "Ta'eran", note = "proper name; NPC character", status = "ignored" }
@@ -97923,7 +97923,7 @@ WordHunterWoW_Dictionary_DE["wildhammerzwerge"] = { word = "Wildhammerzwerge", t
 WordHunterWoW_Dictionary_DE["wildhammerzwergen"] = { word = "Wildhammerzwergen", translation = "Wildhammer dwarves", note = "clan of mountain dwarves in azeroth; rivals of the bronzebeard clan" }
 WordHunterWoW_Dictionary_DE["wildhammerzwergs"] = { word = "Wildhammerzwergs", translation = "Wildhammer dwarf", note = "Wildhammer + zwerg (dwarf); a slain warrior whose remains you identify" }
 WordHunterWoW_Dictionary_DE["wildhauer"] = { word = "Wildhauer", translation = "Wildtusk", note = "proper name: creature name" }
-WordHunterWoW_Dictionary_DE["wildheart"] = { word = "Wildheart", translation = "Wildheart", note = "tauren surname; appears in armor names" }
+WordHunterWoW_Dictionary_DE["wildheart"] = { word = "Wildheart", translation = "Wildheart", note = "tauren surname; appears in armor names", status = "ignored" }
 WordHunterWoW_Dictionary_DE["wildheit"] = { word = "Wildheit", translation = "wildness", note = "from wild + -heit (noun suffix); Salhadaar is a wild beast" }
 WordHunterWoW_Dictionary_DE["wildheitsdruide"] = { word = "Wildheitsdruide", translation = "Feral druid", note = "wildheit (ferality/wildness) + druide (druid); specialization" }
 WordHunterWoW_Dictionary_DE["wildheitsernter"] = { word = "Wildheitsernter", translation = "Feral Harvester", note = "wildheit (feral) + ernter (harvester/reaper)" }
