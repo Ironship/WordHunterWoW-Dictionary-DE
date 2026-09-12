@@ -75028,7 +75028,7 @@
 {"key": "amberhide", "word": "Amberhide", "translation": "Amberhide", "note": "NPC proper name; wind post location in Ashenvale", "status": "ignored"}
 {"key": "ambermill-nachforschungen", "word": "Ambermill-Nachforschungen", "translation": "Ambermill Research", "note": "Ambermill (location) + research; quest investigation"}
 {"key": "amberstill", "word": "Amberstill", "translation": "Amberstill", "note": "NPC proper name; dwarf herdswoman at Widder Ranch", "status": "ignored"}
-{"key": "an'alleum", "word": "An'Alleum", "translation": "An'Alleum", "note": "elemental crystal name; power stone type"}
+{"key": "an'alleum", "word": "An'Alleum", "translation": "An'Alleum", "note": "elemental crystal name; power stone type", "status": "ignored"}
 {"key": "ana'thek", "word": "Ana'thek", "translation": "Ana'thek", "note": "troll NPC proper name; Skullsplitter chieftain", "status": "ignored"}
 {"key": "anacondra", "word": "Anacondra", "translation": "Anacondra", "note": "NPC proper name; dragon spirit (literal: anaconda)", "status": "ignored"}
 {"key": "andrean", "word": "Andrean", "translation": "Andrean", "note": "NPC proper name; accepts quest rewards in Undercity", "status": "ignored"}
@@ -75098,7 +75098,7 @@
 {"key": "azrethoc", "word": "Azrethoc", "translation": "Azrethoc", "note": ""}
 {"key": "azj'tordin's", "word": "Azj'Tordin's", "translation": "Azj'Tordin's", "note": ""}
 {"key": "azurblauer", "word": "Azurblauer", "translation": "Azure Blue", "note": "azure + blue; -er is descriptive adjective, not comparative"}
-{"key": "azsharite", "word": "Azsharite", "translation": "Azsharite", "note": "ore/material name; Azshara + -ite suffix"}
+{"key": "azsharite", "word": "Azsharite", "translation": "Azsharite", "note": "ore/material name; Azshara + -ite suffix", "status": "ignored"}
 {"key": "azurite", "word": "Azurite", "translation": "Azurite", "note": "ore/mineral; copper carbonate compound"}
 {"key": "baelogs", "word": "Baelogs", "translation": "Baelogs", "note": ""}
 {"key": "bael'gars", "word": "Bael'Gars", "translation": "Bael'Gar", "note": "NPC name; possessive form"}
@@ -75235,7 +75235,7 @@
 {"key": "breanna", "word": "Breanna", "translation": "Breanna", "note": "NPC name (chef)", "status": "ignored"}
 {"key": "bremen", "word": "Bremen", "translation": "Bremen", "note": "character name in Abbey", "status": "ignored"}
 {"key": "brennstab", "word": "Brennstab", "translation": "fuel rod", "note": "power source for devices"}
-{"key": "brightspear", "word": "Brightspear", "translation": "Brightspear", "note": "dwarf ancestor name"}
+{"key": "brightspear", "word": "Brightspear", "translation": "Brightspear", "note": "dwarf ancestor name", "status": "ignored"}
 {"key": "brill-friedhof", "word": "Brill-Friedhof", "translation": "Brill Cemetery", "note": "graveyard location"}
 {"key": "brines", "word": "Brines", "translation": "Brines", "note": "character name", "status": "ignored"}
 {"key": "broadleaf", "word": "Broadleaf", "translation": "Broadleaf", "note": "character name (Orendil)", "status": "ignored"}
@@ -75263,7 +75263,7 @@
 {"key": "büttel", "word": "Büttel", "translation": "Büttel", "note": "town officer title", "status": "ignored"}
 {"key": "bärenfelle", "word": "Bärenfelle", "translation": "bearskins", "note": "bear hide plural"}
 {"key": "bäumlingssamenkorn", "word": "Bäumlingssamenkorn", "translation": "sapling seed", "note": "young tree seed"}
-{"key": "caelastrasz", "word": "Caelastrasz", "translation": "Caelastrasz", "note": "dragon name"}
+{"key": "caelastrasz", "word": "Caelastrasz", "translation": "Caelastrasz", "note": "dragon name", "status": "ignored"}
 {"key": "cairnes", "word": "Cairnes", "translation": "Cairnes", "note": "hoofprint landmark"}
 {"key": "caledon", "word": "Caledon", "translation": "Caledon", "note": "character name (Surena)", "status": "ignored"}
 {"key": "calors", "word": "Calors", "translation": "Calors", "note": "character name (not calories)", "status": "ignored"}
@@ -75305,7 +75305,7 @@
 {"key": "cuely", "word": "Cuely", "translation": "Cuely", "note": "alchemist NPC", "status": "ignored"}
 {"key": "culpa", "word": "Culpa", "translation": "Culpa", "note": "Latin phrase (Mea Culpa)"}
 {"key": "cyclonian", "word": "Cyclonian", "translation": "Cyclonian", "note": "elemental creature", "status": "ignored"}
-{"key": "curgle", "word": "Curgle", "translation": "Curgle", "note": "gnomish trader"}
+{"key": "curgle", "word": "Curgle", "translation": "Curgle", "note": "gnomish trader", "status": "ignored"}
 {"key": "dalars", "word": "Dalars", "translation": "Dalar's", "note": "possessive"}
 {"key": "dalin", "word": "Dalin", "translation": "Dalin", "note": "character name (Forgewright)", "status": "ignored"}
 {"key": "dadanga", "word": "Dadanga", "translation": "Dadanga", "note": "elemental creature", "status": "ignored"}
@@ -75316,8 +75316,8 @@
 {"key": "danuvin", "word": "Danuvin", "translation": "Danuvin", "note": "character name (Captain)", "status": "ignored"}
 {"key": "darbringung", "word": "Darbringung", "translation": "offering", "note": "religious gift; lowercase"}
 {"key": "darkbargainer", "word": "Darkbargainer", "translation": "Darkbargainer", "note": "NPC name (Lokhtos)", "status": "ignored"}
-{"key": "darkhorn", "word": "Darkhorn", "translation": "Darkhorn", "note": "ancestor name"}
-{"key": "darkcore", "word": "Darkcore", "translation": "Darkcore", "note": "ancestor name"}
+{"key": "darkhorn", "word": "Darkhorn", "translation": "Darkhorn", "note": "ancestor name", "status": "ignored"}
+{"key": "darkcore", "word": "Darkcore", "translation": "Darkcore", "note": "ancestor name", "status": "ignored"}
 {"key": "darren", "word": "Darren", "translation": "Darren", "note": "character name (Malvew)", "status": "ignored"}
 {"key": "darkvire", "word": "Darkvire", "translation": "Darkvire", "note": "NPC name (Fineous)", "status": "ignored"}
 {"key": "darkwood", "word": "Darkwood", "translation": "Darkwood", "note": "druid character (Taneel)", "status": "ignored"}
@@ -75789,7 +75789,7 @@
 {"key": "gustaf", "word": "Gustaf", "translation": "Gustaf", "note": "NPC name; doctor", "status": "ignored"}
 {"key": "gyro", "word": "Gyro", "translation": "Gyro", "note": "engineering item or name reference"}
 {"key": "gyrobohrmatische", "word": "Gyrobohrmatische", "translation": "gyro-drillmatic", "note": "gyro (spinning) + bohr (drill) + matisch (automatic); engineering spell"}
-{"key": "gyrochronatom", "word": "Gyrochronatom", "translation": "Gyrochronatom", "note": "gyro (spinning) + chrono (time) + atom; engineering component"}
+{"key": "gyrochronatom", "word": "Gyrochronatom", "translation": "Gyrochronatom", "note": "gyro (spinning) + chrono (time) + atom; engineering component", "status": "ignored"}
 {"key": "gyromast", "word": "Gyromast", "translation": "Gyromast", "note": "NPC name; gnomish suffix", "status": "ignored"}
 {"key": "gyromechanische", "word": "gyromechanische", "translation": "gyromechanical", "note": "gyro (spinning) + mechanical; technical descriptor"}
 {"key": "gürteltaschen", "word": "Gürteltaschen", "translation": "belt pouches", "note": "gürtel (belt) + taschen (pouches/bags); armor type"}
@@ -76207,7 +76207,7 @@
 {"key": "nilzlix", "word": "Nilzlix", "translation": "Nilzlix", "note": "first mate nilzlix; npc ship crew untranslated", "status": "ignored"}
 {"key": "nissas", "word": "Nissas", "translation": "Nissas", "note": "npc remains quest; untranslated", "status": "ignored"}
 {"key": "nimmersattfesseln", "word": "Nimmersattfesseln", "translation": "never-full shackles", "note": "nimmersatt (insatiable/never-full) + fesseln (shackles); not never-saddle"}
-{"key": "nitromirglyceronium", "word": "Nitromirglyceronium", "translation": "Nitromirglyceronium", "note": "alchemical compound; invented fantasy term, keep as-is"}
+{"key": "nitromirglyceronium", "word": "Nitromirglyceronium", "translation": "Nitromirglyceronium", "note": "alchemical compound; invented fantasy term, keep as-is", "status": "ignored"}
 {"key": "nitroglyzerin", "word": "Nitroglyzerin", "translation": "nitroglycerin", "note": "german spelling nitroglyzerin vs english nitroglycerin; explosive"}
 {"key": "noboru", "word": "Noboru", "translation": "Noboru", "note": "noboru the cudgel; npc untranslated", "status": "ignored"}
 {"key": "noborus", "word": "Noborus", "translation": "Noboru's", "note": "genitive of noboru; refers to the cudgel weapon"}
@@ -76232,9 +76232,9 @@
 {"key": "okarr", "word": "Okarr", "translation": "Okarr", "note": "locke okarr; npc at warsong base untranslated", "status": "ignored"}
 {"key": "oilfist", "word": "Oilfist", "translation": "Oilfist", "note": "overseer oilfist; npc in searing gorge untranslated", "status": "ignored"}
 {"key": "ol", "word": "Ol", "translation": "Ol'", "note": "ol' is short for old; ol' rustlocke is a named npc, should be ol' not oil"}
-{"key": "okothos", "word": "Okothos", "translation": "Okothos", "note": "quest recipient for armor smithing; untranslated"}
+{"key": "okothos", "word": "Okothos", "translation": "Okothos", "note": "quest recipient for armor smithing; untranslated", "status": "ignored"}
 {"key": "onin", "word": "Onin", "translation": "Onin", "note": "onin machammar; npc near gnomeregan untranslated", "status": "ignored"}
-{"key": "ongeku", "word": "Ongeku", "translation": "Ongeku", "note": "name without context; untranslated"}
+{"key": "ongeku", "word": "Ongeku", "translation": "Ongeku", "note": "name without context; untranslated", "status": "ignored"}
 {"key": "one-eye", "word": "One-Eye", "translation": "One-Eye", "note": "dizzy one-eye is npc; proper name with hyphen for one-eyed pirate", "status": "ignored"}
 {"key": "orakelkristall", "word": "Orakelkristall", "translation": "oracle crystal", "note": "orakel (oracle) + kristall (crystal); item lowercase as generic"}
 {"key": "orans", "word": "Orans", "translation": "Orans", "note": "orans' gratitude; npc quest title untranslated", "status": "ignored"}
@@ -76242,9 +76242,9 @@
 {"key": "orcbane", "word": "Orcbane", "translation": "Orcbane", "note": "lok orcbane; creature/npc name untranslated", "status": "ignored"}
 {"key": "ormak", "word": "Ormak", "translation": "Ormak", "note": "ormak grimshot; orgrimmar npc untranslated", "status": "ignored"}
 {"key": "orwin", "word": "Orwin", "translation": "Orwin", "note": "orwin gizzmick; npc quest giver untranslated", "status": "ignored"}
-{"key": "osprey", "word": "OSPREY", "translation": "OSPREY", "note": "flying osprey; ship name in capitals, no translation available"}
+{"key": "osprey", "word": "OSPREY", "translation": "OSPREY", "note": "flying osprey; ship name in capitals, no translation available", "status": "ignored"}
 {"key": "ost-west-strasse", "word": "Ost-West-Straße", "translation": "east-west road", "note": "ost (east) + west + strasse (street/road); location road name"}
-{"key": "owatanka", "word": "Owatanka", "translation": "Owatanka", "note": "tauren name; untranslated"}
+{"key": "owatanka", "word": "Owatanka", "translation": "Owatanka", "note": "tauren name; untranslated", "status": "ignored"}
 {"key": "owatankas", "word": "Owatankas", "translation": "Owatanka's", "note": "genitive of owatanka; refers to owatanka's tail barb"}
 {"key": "paledust", "word": "Paledust", "translation": "Paledust", "note": "librarian mae paledust; ironforge npc untranslated", "status": "ignored"}
 {"key": "palominos", "word": "Palominos", "translation": "palominos", "note": "horse breed; exchange quest objective"}
@@ -76252,7 +76252,7 @@
 {"key": "panzerfisch", "word": "Panzerfisch", "translation": "armored fish", "note": "panzer (armor) + fisch (fish); craftable item lowercase"}
 {"key": "parkviertel", "word": "Parkviertel", "translation": "park district", "note": "park + viertel (district/quarter); stormwind location, lowercase as descriptor"}
 {"key": "patrouillen-pläne", "word": "Patrouillen-Pläne", "translation": "patrol plans", "note": "patrouille (patrol) + pläne (plans); military documents lowercase"}
-{"key": "pawne", "word": "Pawne", "translation": "Pawne", "note": "washte pawne; tauren quest giver untranslated"}
+{"key": "pawne", "word": "Pawne", "translation": "Pawne", "note": "washte pawne; tauren quest giver untranslated", "status": "ignored"}
 {"key": "pawnes", "word": "Pawnes", "translation": "Pawne's", "note": "genitive of pawne; refers to pawne's feather"}
 {"key": "payson", "word": "Payson", "translation": "Payson", "note": "jeremiah payson; undercity npc untranslated", "status": "ignored"}
 {"key": "perlentauchen", "word": "Perlentauchen", "translation": "pearl diving", "note": "perle (pearl) + tauchen (diving); activity name lowercase"}
@@ -76363,7 +76363,7 @@
 {"key": "rennsteckenleiter", "word": "Rennsteckenleiter", "translation": "racing circuit commander", "note": "rennstecken (racing pole/marker) + leiter (leader); rank or title"}
 {"key": "repariersets", "word": "Repariersets", "translation": "repair kits", "note": "from reparieren (to repair) + sets; maintenance tools"}
 {"key": "resonitfässlein", "word": "Resonitfässlein", "translation": "Resonite barrel", "note": "resonit (magical crystal) + fässlein (small barrel); container"}
-{"key": "requiliar", "word": "Requiliar", "translation": "Requiliar", "note": "magical container name"}
+{"key": "requiliar", "word": "Requiliar", "translation": "Requiliar", "note": "magical container name", "status": "ignored"}
 {"key": "restabilisationszahnräder", "word": "Restabilisationszahnräder", "translation": "Restabilization gears", "note": "restabilisation + zahnräder (gears); gnomish parts"}
 {"key": "resonitkristalle", "word": "Resonitkristalle", "translation": "Resonite crystals", "note": "resonit + kristalle (crystals); magical mineral"}
 {"key": "rethban-spiessrutenlauf", "word": "Rethban-Spießrutenlauf", "translation": "Rethban gauntlet", "note": "rethban + spießrutenlauf (running the gauntlet); challenge or location"}
@@ -76422,7 +76422,7 @@
 {"key": "ruzan", "word": "Ruzan", "translation": "Ruzan", "note": "warlock NPC in Grom'gol", "status": "ignored"}
 {"key": "ryedols", "word": "Ryedols", "translation": "Ryedols", "note": "proper noun; archologist's equipment", "status": "ignored"}
 {"key": "rynthariel", "word": "Rynthariel", "translation": "Rynthariel", "note": "dragon NPC; elite creature name", "status": "ignored"}
-{"key": "ryun'eh", "word": "Ryun'eh", "translation": "Ryun'eh", "note": "ancient name from tablet or inscription"}
+{"key": "ryun'eh", "word": "Ryun'eh", "translation": "Ryun'eh", "note": "ancient name from tablet or inscription", "status": "ignored"}
 {"key": "rüstungsgutschein", "word": "Rüstungsgutschein", "translation": "armor voucher", "note": "Rüstung (armor) + Gutschein (voucher); military supply certificate"}
 {"key": "sabbernde", "word": "sabbernde", "translation": "drooling", "note": "present participle of sabbern (to drool); describes monsters"}
 {"key": "sackleinenkopftücher", "word": "Sackleinenkopftücher", "translation": "burlap headscarves", "note": "Sackleinen (burlap) + Kopftücher (headscarves); rough cloth headwear"}
