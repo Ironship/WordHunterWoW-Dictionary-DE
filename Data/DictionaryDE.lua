@@ -15126,7 +15126,7 @@ WordHunterWoW_Dictionary_DE["chutneys"] = { word = "Chutneys", translation = "ch
 WordHunterWoW_Dictionary_DE["chyrus"] = { word = "Chyrus", translation = "Chyrus", note = "" }
 WordHunterWoW_Dictionary_DE["chässlichen"] = { word = "chässlichen", translation = "ugly", note = "likely a typo for hässlichen, the inflected form of hässlich (ugly)" }
 WordHunterWoW_Dictionary_DE["chöhle"] = { word = "Chöhle", translation = "cave", note = "likely a typo for Höhle, cave; the leading c is not standard German" }
-WordHunterWoW_Dictionary_DE["chöle"] = { word = "Chöle", translation = "Chöle", note = "appears to be a name or corrupted token; the truncated context cannot confirm a translation" }
+WordHunterWoW_Dictionary_DE["chöle"] = { word = "Chöle", translation = "Chöle", note = "appears to be a name or corrupted token; the truncated context cannot confirm a translation", status = "ignored" }
 WordHunterWoW_Dictionary_DE["chören"] = { word = "Chören", translation = "choirs", note = "plural of choir; multiple singing groups" }
 WordHunterWoW_Dictionary_DE["ci"] = { word = "ci", translation = "ci", note = "an internal quest-data marker, not a German vocabulary word" }
 WordHunterWoW_Dictionary_DE["ciao"] = { word = "Ciao", translation = "ciao", note = "Italian greeting/farewell" }
@@ -24937,7 +24937,7 @@ WordHunterWoW_Dictionary_DE["etymologie"] = { word = "Etymologie", translation =
 WordHunterWoW_Dictionary_DE["eu-heuch"] = { word = "Eu-heuch", translation = "Eu-heuch", note = "a character name or sound-play; no separate English rendering is confirmed", status = "ignored" }
 WordHunterWoW_Dictionary_DE["euch"] = { word = "Euch", translation = "you", note = "acc./dat. of ihr (you pl.); Euch = formal capitalized form" }
 WordHunterWoW_Dictionary_DE["euch'n"] = { word = "Euch'n", translation = "you", note = "contracted form of euch (accusative you) + -n; dialectal or colloquial" }
-WordHunterWoW_Dictionary_DE["euchz"] = { word = "Euchz", translation = "Euchz", note = "corrupted or dialectal form; unintelligible" }
+WordHunterWoW_Dictionary_DE["euchz"] = { word = "Euchz", translation = "Euchz", note = "corrupted or dialectal form; unintelligible", status = "ignored" }
 WordHunterWoW_Dictionary_DE["euer"] = { word = "Euer", translation = "your; yours", note = "informal plural; capitalized in WoW as formal Your" }
 WordHunterWoW_Dictionary_DE["euereins"] = { word = "Euereins", translation = "yours", note = "archaic or formal second person possessive; belonging to you" }
 WordHunterWoW_Dictionary_DE["euerm"] = { word = "Euerm", translation = "yours", note = "archaic or dialectal form of euer; your possession" }
@@ -29541,7 +29541,7 @@ WordHunterWoW_Dictionary_DE["frostzwerge"] = { word = "Frostzwerge", translation
 WordHunterWoW_Dictionary_DE["frostöl"] = { word = "Frostöl", translation = "frost oil", note = "magical substance or alchemical material infused with frost" }
 WordHunterWoW_Dictionary_DE["frostöls"] = { word = "Frostöls", translation = "frost oil", note = "possessive or variant form" }
 WordHunterWoW_Dictionary_DE["frotzeleien"] = { word = "Frotzeleien", translation = "teasing; mockery", note = "Frotzel (joke/tease) + -eien; acts of playful ridicule" }
-WordHunterWoW_Dictionary_DE["frrg"] = { word = "Frrg", translation = "Frrg", note = "Murloc gibberish; no reliable English word can be recovered" }
+WordHunterWoW_Dictionary_DE["frrg"] = { word = "Frrg", translation = "Frrg", note = "Murloc gibberish; no reliable English word can be recovered", status = "ignored" }
 WordHunterWoW_Dictionary_DE["frucht"] = { word = "Frucht", translation = "fruit", note = "fruit or produce" }
 WordHunterWoW_Dictionary_DE["fruchtbar"] = { word = "fruchtbar", translation = "fertile", note = "frucht (fruit) + -bar (bearing); capable of producing crops or offspring" }
 WordHunterWoW_Dictionary_DE["fruchtbare"] = { word = "fruchtbare", translation = "fertile", note = "capable of producing fruit" }
@@ -59164,7 +59164,7 @@ WordHunterWoW_Dictionary_DE["mpf"] = { word = "mpf", translation = "mpf", note =
 WordHunterWoW_Dictionary_DE["mr"] = { word = "Mr", translation = "Mr", note = "title abbreviation" }
 WordHunterWoW_Dictionary_DE["mragesh"] = { word = "Mragesh", translation = "Mragesh", note = "proper name; hydra or dangerous creature", status = "ignored" }
 WordHunterWoW_Dictionary_DE["mrg"] = { word = "Mrg", translation = "Mrg", note = "murloc speech", status = "ignored" }
-WordHunterWoW_Dictionary_DE["mrgggl"] = { word = "Mrgggl", translation = "Mrgggl", note = "murloc-style gibberish; no reliable English word can be inferred" }
+WordHunterWoW_Dictionary_DE["mrgggl"] = { word = "Mrgggl", translation = "Mrgggl", note = "murloc-style gibberish; no reliable English word can be inferred", status = "ignored" }
 WordHunterWoW_Dictionary_DE["mrgglmmmr"] = { word = "mrgglmmmr", translation = "mrgglmmmr", note = "murloc language; untranslatable sound" }
 WordHunterWoW_Dictionary_DE["mrgglrr"] = { word = "Mrgglrr", translation = "Mrgglrr", note = "murloc proper name or greeting", status = "ignored" }
 WordHunterWoW_Dictionary_DE["mrgl"] = { word = "mrgl", translation = "mrgl", note = "murloc language; basic utterance" }
@@ -59206,7 +59206,7 @@ WordHunterWoW_Dictionary_DE["mu'gra"] = { word = "Mu'gra", translation = "Mu'gra
 WordHunterWoW_Dictionary_DE["mu'gras"] = { word = "Mu'gras", translation = "Mu'gra's", note = "possessive form of the name Mu'gra" }
 WordHunterWoW_Dictionary_DE["mu'shas"] = { word = "Mu'shas", translation = "Mu'shas", note = "" }
 WordHunterWoW_Dictionary_DE["mua'kin"] = { word = "Mua'kin", translation = "Mua'kin", note = "" }
-WordHunterWoW_Dictionary_DE["muahahahaaaa"] = { word = "Muahahahaaaa", translation = "Muahahahaaaa", note = "evil laughter onomatopoeia; untranslatable" }
+WordHunterWoW_Dictionary_DE["muahahahaaaa"] = { word = "Muahahahaaaa", translation = "Muahahahaaaa", note = "evil laughter onomatopoeia; untranslatable", status = "ignored" }
 WordHunterWoW_Dictionary_DE["muahit"] = { word = "Muahit", translation = "Muahit", note = "" }
 WordHunterWoW_Dictionary_DE["muahits"] = { word = "Muahits", translation = "Muahit's", note = "possessive form" }
 WordHunterWoW_Dictionary_DE["mubbeliges"] = { word = "mubbeliges", translation = "plump; chubby", note = "mubbelich/mubbelig = chubby/pudgy; -es nominalization; context 'Baby Chi-Chi' (as was); 'musky' is wrong" }
@@ -59247,8 +59247,8 @@ WordHunterWoW_Dictionary_DE["mugglrgl"] = { word = "Mugglrgl", translation = "Mu
 WordHunterWoW_Dictionary_DE["mugh'thols"] = { word = "Mugh'thols", translation = "Mugh'thols", note = "" }
 WordHunterWoW_Dictionary_DE["mugjabu"] = { word = "Mugjabu", translation = "Mugjabu", note = "" }
 WordHunterWoW_Dictionary_DE["muglash"] = { word = "Muglash", translation = "Muglash", note = "npc escorted in npc; untranslated" , status = "ignored" }
-WordHunterWoW_Dictionary_DE["muhahaha"] = { word = "Muhahaha", translation = "Muhahaha", note = "evil laughter; untranslatable onomatopoeia" }
-WordHunterWoW_Dictionary_DE["muhahahahahahaha"] = { word = "Muhahahahahahaha", translation = "Muhahahahahahaha", note = "extended laughter; onomatopoeia; untranslatable" }
+WordHunterWoW_Dictionary_DE["muhahaha"] = { word = "Muhahaha", translation = "Muhahaha", note = "evil laughter; untranslatable onomatopoeia", status = "ignored" }
+WordHunterWoW_Dictionary_DE["muhahahahahahaha"] = { word = "Muhahahahahahaha", translation = "Muhahahahahahaha", note = "extended laughter; onomatopoeia; untranslatable", status = "ignored" }
 WordHunterWoW_Dictionary_DE["muhen"] = { word = "muhen", translation = "moo; low", note = "muhen = to moo (cattle sound); 'low' is an archaic English equivalent" }
 WordHunterWoW_Dictionary_DE["muhtoo"] = { word = "Muhtoo", translation = "Muhtoo", note = "" }
 WordHunterWoW_Dictionary_DE["muigin"] = { word = "Muigin", translation = "Muigin", note = "NPC name; part of 'Muigin and Larion' quest pair", status = "ignored" }
@@ -59454,7 +59454,7 @@ WordHunterWoW_Dictionary_DE["murlocversion"] = { word = "Murlocversion", transla
 WordHunterWoW_Dictionary_DE["murlocwahnsinn"] = { word = "Murlocwahnsinn", translation = "Murloc madness", note = "" }
 WordHunterWoW_Dictionary_DE["murlocwelt"] = { word = "Murlocwelt", translation = "murloc world", note = "compound: murloc + welt (world); exists only in player imagination" }
 WordHunterWoW_Dictionary_DE["murlocwilderer"] = { word = "Murlocwilderer", translation = "murloc poachers", note = "wilderer means poacher; creature hunters on coastline" }
-WordHunterWoW_Dictionary_DE["murlurulurls"] = { word = "Murlurulurls", translation = "Murlurulurls", note = "onomatopoeia: the characteristic sound murlocs make in-game" }
+WordHunterWoW_Dictionary_DE["murlurulurls"] = { word = "Murlurulurls", translation = "Murlurulurls", note = "onomatopoeia: the characteristic sound murlocs make in-game", status = "ignored" }
 WordHunterWoW_Dictionary_DE["murmeln"] = { word = "Murmeln", translation = "marbles", note = "small glass or stone spheres used as toys or gaming pieces" }
 WordHunterWoW_Dictionary_DE["murmelnde"] = { word = "murmelnde", translation = "muttering", note = "adjective: murmelnde = murmuring/muttering; present participle form describing Friedensbewahrer guards" }
 WordHunterWoW_Dictionary_DE["murmelt"] = { word = "murmelt", translation = "murmurs", note = "" }
@@ -65878,7 +65878,7 @@ WordHunterWoW_Dictionary_DE["potenziert"] = { word = "potenziert", translation =
 WordHunterWoW_Dictionary_DE["pott"] = { word = "Pott", translation = "pot", note = "German colloquial; treasure/bounty in dwarf dialect" }
 WordHunterWoW_Dictionary_DE["potthässlich"] = { word = "potthässlich", translation = "ugly as hell", note = "pot (archaic oath) + hässlich (ugly), colloquial intensifier" }
 WordHunterWoW_Dictionary_DE["potz"] = { word = "Potz", translation = "Potz", note = "part of 'Potz Blitz' (German oath-like exclamation)" }
-WordHunterWoW_Dictionary_DE["potzblitz"] = { word = "Potzblitz", translation = "Potzblitz", note = "German exclamation of surprise, untranslatable; preserve as-is" }
+WordHunterWoW_Dictionary_DE["potzblitz"] = { word = "Potzblitz", translation = "Potzblitz", note = "German exclamation of surprise, untranslatable; preserve as-is", status = "ignored" }
 WordHunterWoW_Dictionary_DE["potzig"] = { word = "potzig", translation = "cheeky; impudent", note = "not 'potty'; means sassy or disrespectful" }
 WordHunterWoW_Dictionary_DE["power"] = { word = "power", translation = "power", note = "here power means magical energy rather than authority or physical strength" }
 WordHunterWoW_Dictionary_DE["pozzik"] = { word = "Pozzik", translation = "Pozzik", note = "proper noun; NPC name", status = "ignored" }
@@ -68932,7 +68932,7 @@ WordHunterWoW_Dictionary_DE["reserveenergiepylon"] = { word = "Reserveenergiepyl
 WordHunterWoW_Dictionary_DE["reservefilme"] = { word = "Reservefilme", translation = "reserve films", note = "compound: Reserve (reserve) + filme (films); backup film supply in the cataloguer's kit" }
 WordHunterWoW_Dictionary_DE["reservekräfte"] = { word = "Reservekräfte", translation = "reserve forces", note = "compound: reserve + kräfte (forces, troops); backup military units" }
 WordHunterWoW_Dictionary_DE["reserven"] = { word = "Reserven", translation = "reserves", note = "" }
-WordHunterWoW_Dictionary_DE["reservenremmidemmi"] = { word = "Reservenremmidemmi", translation = "Reservenremmidemmi", note = "appears to be goblin nonsense or corrupted name; keeping as-is since meaning is unclear" }
+WordHunterWoW_Dictionary_DE["reservenremmidemmi"] = { word = "Reservenremmidemmi", translation = "Reservenremmidemmi", note = "appears to be goblin nonsense or corrupted name; keeping as-is since meaning is unclear", status = "ignored" }
 WordHunterWoW_Dictionary_DE["reservepylonen"] = { word = "Reservepylonen", translation = "reserve pylons", note = "reserve + pylonen; magical structures that serve as backup power sources in Auchindoun" }
 WordHunterWoW_Dictionary_DE["reserveraketenrucksack"] = { word = "Reserveraketenrucksack", translation = "spare rocket backpack", note = "compound: Reserve (spare) + raketen (rocket) + rucksack (backpack); portable rocket device" }
 WordHunterWoW_Dictionary_DE["reservesystem"] = { word = "Reservesystem", translation = "reserve system", note = "compound: system for managing reserves" }
@@ -68958,7 +68958,7 @@ WordHunterWoW_Dictionary_DE["resignierend"] = { word = "resignierend", translati
 WordHunterWoW_Dictionary_DE["resistent"] = { word = "resistent", translation = "resistant", note = "" }
 WordHunterWoW_Dictionary_DE["resistenter"] = { word = "resistenter", translation = "more resistant", note = "comparative adjective; harder to affect or damage" }
 WordHunterWoW_Dictionary_DE["resistenz"] = { word = "Resistenz", translation = "resistance", note = "ability to withstand; from Latin" }
-WordHunterWoW_Dictionary_DE["reskkversetck"] = { word = "Reskkversetck", translation = "Reskkversetck", note = "unclear name or corrupted text; the context does not establish a translation" }
+WordHunterWoW_Dictionary_DE["reskkversetck"] = { word = "Reskkversetck", translation = "Reskkversetck", note = "unclear name or corrupted text; the context does not establish a translation", status = "ignored" }
 WordHunterWoW_Dictionary_DE["reskkversteck"] = { word = "Reskkversteck", translation = "Reskk's hiding place", note = "compound: Reskk + Versteck (hiding place)" }
 WordHunterWoW_Dictionary_DE["reskkverstecks"] = { word = "Reskkverstecks", translation = "Reskk hideout", note = "genitive -s appears in the phrase; Versteck means hideout" }
 WordHunterWoW_Dictionary_DE["resolution"] = { word = "Resolution", translation = "resolution", note = "from Latin; formal decision, determination" }
@@ -72720,7 +72720,7 @@ WordHunterWoW_Dictionary_DE["scheue"] = { word = "scheue", translation = "fear; 
 WordHunterWoW_Dictionary_DE["scheuen"] = { word = "scheuen", translation = "shy away", note = "" }
 WordHunterWoW_Dictionary_DE["scheuerschuh"] = { word = "Scheuerschuh", translation = "scrub shoe", note = "compound: scrub + shoe" }
 WordHunterWoW_Dictionary_DE["scheues"] = { word = "scheues", translation = "shy; timid", note = "adjective; wary or easily frightened" }
-WordHunterWoW_Dictionary_DE["scheugs"] = { word = "Scheugs", translation = "Scheugs", note = "likely a name or nonsense word in the context; kept as-is" }
+WordHunterWoW_Dictionary_DE["scheugs"] = { word = "Scheugs", translation = "Scheugs", note = "likely a name or nonsense word in the context; kept as-is", status = "ignored" }
 WordHunterWoW_Dictionary_DE["scheulibelle"] = { word = "Scheulibelle", translation = "Scheulibelle", note = "creature name; scheu (shy/timid) + libelle (dragonfly); do not invent" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["scheulibellen"] = { word = "Scheulibellen", translation = "Bull flies", note = "creature type; compound creature name" }
 WordHunterWoW_Dictionary_DE["scheune"] = { word = "Scheune", translation = "barn", note = "agricultural building; from Old High German" }
@@ -84483,7 +84483,7 @@ WordHunterWoW_Dictionary_DE["teuersten"] = { word = "teuersten", translation = "
 WordHunterWoW_Dictionary_DE["teufel"] = { word = "Teufel", translation = "devil", note = "noun; means devil or demon; the abstract concept, not demons as creatures" }
 WordHunterWoW_Dictionary_DE["teufelei"] = { word = "Teufelei", translation = "devilry", note = "teufel (devil) + ei suffix for abstract nouns; mischievous machinations" }
 WordHunterWoW_Dictionary_DE["teufeln"] = { word = "Teufeln", translation = "devils", note = "" }
-WordHunterWoW_Dictionary_DE["teufelrglrglrglrgl"] = { word = "Teufelrglrglrglrgl", translation = "Teufelrglrglrglrgl", note = "nonsense string; likely corrupted game text" }
+WordHunterWoW_Dictionary_DE["teufelrglrglrglrgl"] = { word = "Teufelrglrglrglrgl", translation = "Teufelrglrglrglrgl", note = "nonsense string; likely corrupted game text", status = "ignored" }
 WordHunterWoW_Dictionary_DE["teufels"] = { word = "Teufels", translation = "devil's; demon's", note = "possessive form of teufel (devil); part of creature or artifact names" }
 WordHunterWoW_Dictionary_DE["teufelsanbeter"] = { word = "Teufelsanbeter", translation = "demon cultist", note = "Teufel (demon) + Anbeter; false friend: demon not devil" }
 WordHunterWoW_Dictionary_DE["teufelsang"] = { word = "Teufelsang", translation = "Devil's Song; Devilsong", note = "Teufel (devil) + Sang (song); NPC name Cordana Devilsong" }

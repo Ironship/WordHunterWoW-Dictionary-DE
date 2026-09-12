@@ -46693,7 +46693,7 @@
 {"key": "mu'fah", "word": "Mu'fah", "translation": "Mu'fah", "note": "proper name; wind trader or NPC", "status": "ignored"}
 {"key": "muckis", "word": "Muckis", "translation": "Muckis", "note": "proper name; NPC or creature identifier", "status": "ignored"}
 {"key": "mugambala", "word": "Mugambala", "translation": "Mugambala", "note": "proper name; location or destination marker", "status": "ignored"}
-{"key": "mugurlglrlgl", "word": "Mugurlglrlgl", "translation": "Mugurlglrlgl", "note": "murloc battle cry or exclamation"}
+{"key": "mugurlglrlgl", "word": "Mugurlglrlgl", "translation": "Mugurlglrlgl", "note": "murloc battle cry or exclamation", "status": "ignored"}
 {"key": "mullby", "word": "Mullby", "translation": "Mullby", "note": "proper name; arena champion NPC", "status": "ignored"}
 {"key": "mulvericks", "word": "Mulvericks", "translation": "Mulvericks", "note": "proper name; character or location identifier", "status": "ignored"}
 {"key": "mumienmann", "word": "Mumienmann", "translation": "Mummy", "note": "mumien (mummies) + mann (man); undead or curse creature"}
@@ -56262,7 +56262,7 @@
 {"key": "etwaiger", "word": "etwaiger", "translation": "any", "note": "potential or prospective; should any arise"}
 {"key": "eu", "word": "eu", "translation": "eu", "note": "appears to be non-German or corrupted data"}
 {"key": "euch'n", "word": "Euch'n", "translation": "you", "note": "contracted form of euch (accusative you) + -n; dialectal or colloquial"}
-{"key": "euchz", "word": "Euchz", "translation": "Euchz", "note": "corrupted or dialectal form; unintelligible"}
+{"key": "euchz", "word": "Euchz", "translation": "Euchz", "note": "corrupted or dialectal form; unintelligible", "status": "ignored"}
 {"key": "euereins", "word": "Euereins", "translation": "yours", "note": "archaic or formal second person possessive; belonging to you"}
 {"key": "euerm", "word": "Euerm", "translation": "yours", "note": "archaic or dialectal form of euer; your possession"}
 {"key": "eulenbär", "word": "Eulenbär", "translation": "Owlbear", "note": "eule (owl) + bär (bear); WoW creature type with features of both"}
@@ -84052,7 +84052,7 @@
 {"key": "frostzorn", "word": "Frostzorn", "translation": "Frostfury", "note": "literal surname: Frost + Zorn, fury"}
 {"key": "fruit", "word": "Fruit", "translation": "Fruit", "note": ""}
 {"key": "frozen", "word": "Frozen", "translation": "Frozen", "note": ""}
-{"key": "frrg", "word": "Frrg", "translation": "Frrg", "note": "Murloc gibberish; no reliable English word can be recovered"}
+{"key": "frrg", "word": "Frrg", "translation": "Frrg", "note": "Murloc gibberish; no reliable English word can be recovered", "status": "ignored"}
 {"key": "frühlingszwiebelsamen", "word": "Frühlingszwiebelsamen", "translation": "spring onion seeds", "note": "Frühling = spring; Zwiebel = onion; Samen = seeds"}
 {"key": "fu'jin", "word": "Fu'jin", "translation": "Fu'jin", "note": ""}
 {"key": "fuchsblumenbüschel", "word": "Fuchsblumenbüschel", "translation": "foxflower clusters", "note": "Büschel means cluster or tuft; Fuchsblume is foxflower"}
@@ -85469,7 +85469,7 @@
 {"key": "mittendrin", "word": "Mittendrin", "translation": "right in the middle", "note": "Mittendrin statt nur dabei means involved rather than merely present"}
 {"key": "mixes", "word": "mixes", "translation": "mixes", "note": "mix A with B = combine the two; here martial skill with calm"}
 {"key": "mixture", "word": "mixture", "translation": "mixture", "note": "in the quest text it refers to a prepared potion mixture"}
-{"key": "mlrgmlrg", "word": "Mlrgmlrg", "translation": "Mlrgmlrg", "note": "gibberish or nonstandard speech; no reliable English word can be inferred"}
+{"key": "mlrgmlrg", "word": "Mlrgmlrg", "translation": "Mlrgmlrg", "note": "gibberish or nonstandard speech; no reliable English word can be inferred", "status": "ignored"}
 {"key": "mmf", "word": "Mmf", "translation": "Mmf", "note": "a muffled sound of eating or approval; the context shows Barnabas chewing"}
 {"key": "mmmmm", "word": "Mmmmm", "translation": "Mmmmm", "note": "a satisfied hum, here reacting to delicious grain"}
 {"key": "moaning", "word": "moaning", "translation": "moaning", "note": "the -ing form of moan, describing repeated groaning sounds"}
@@ -85539,7 +85539,7 @@
 {"key": "mosarn's", "word": "Mosarn's", "translation": "Mosarn's", "note": "apostrophe-s marks possession: the shield bears Mosarn's mark"}
 {"key": "moss", "word": "Moss", "translation": "Moss", "note": "proper name in the tracking title; moss is also a small leafy plant", "status": "ignored"}
 {"key": "mosh", "word": "Mosh", "translation": "Mosh", "note": ""}
-{"key": "mrgggl", "word": "Mrgggl", "translation": "Mrgggl", "note": "murloc-style gibberish; no reliable English word can be inferred"}
+{"key": "mrgggl", "word": "Mrgggl", "translation": "Mrgggl", "note": "murloc-style gibberish; no reliable English word can be inferred", "status": "ignored"}
 {"key": "mrggr'marr", "word": "Mrggr'marr", "translation": "Mrggr'marr", "note": ""}
 {"key": "mrgl-mrgls", "word": "Mrgl-Mrgls", "translation": "Mrgl-Mrgls", "note": ""}
 {"key": "mu'fahs", "word": "Mu'fahs", "translation": "Mu'fahs", "note": ""}
@@ -86082,7 +86082,7 @@
 {"key": "represent", "word": "represent", "translation": "represent", "note": "represent can mean stand for or act on behalf of"}
 {"key": "requirierte", "word": "requirierte", "translation": "requisitioned", "note": "requirieren means requisition or commandeer; here it means taken for official use"}
 {"key": "reservesysteme", "word": "Reservesysteme", "translation": "reserve systems", "note": "reserve = reserve and Systeme = systems"}
-{"key": "reskkversetck", "word": "Reskkversetck", "translation": "Reskkversetck", "note": "unclear name or corrupted text; the context does not establish a translation"}
+{"key": "reskkversetck", "word": "Reskkversetck", "translation": "Reskkversetck", "note": "unclear name or corrupted text; the context does not establish a translation", "status": "ignored"}
 {"key": "restaurant", "word": "Restaurant", "translation": "restaurant", "note": "borrowed from French; German uses Restaurant for a place serving meals"}
 {"key": "restaurierten", "word": "restaurierten", "translation": "restored", "note": "restaurieren means restore; -ten is the inflected past participle"}
 {"key": "resting", "word": "Resting", "translation": "Resting", "note": "resting in Pieces puns on the phrase resting in peace"}
@@ -90784,7 +90784,7 @@
 {"key": "chyrus", "word": "Chyrus", "translation": "Chyrus", "note": ""}
 {"key": "chöhle", "word": "Chöhle", "translation": "cave", "note": "likely a typo for Höhle, cave; the leading c is not standard German"}
 {"key": "ci", "word": "ci", "translation": "ci", "note": "an internal quest-data marker, not a German vocabulary word"}
-{"key": "chöle", "word": "Chöle", "translation": "Chöle", "note": "appears to be a name or corrupted token; the truncated context cannot confirm a translation"}
+{"key": "chöle", "word": "Chöle", "translation": "Chöle", "note": "appears to be a name or corrupted token; the truncated context cannot confirm a translation", "status": "ignored"}
 {"key": "chässlichen", "word": "chässlichen", "translation": "ugly", "note": "likely a typo for hässlichen, the inflected form of hässlich (ugly)"}
 {"key": "cinch", "word": "Cinch", "translation": "Cinch", "note": "a cinch is a fastening strap; here it is part of an item name"}
 {"key": "cindral", "word": "Cindral", "translation": "Cindral", "note": ""}
@@ -101137,7 +101137,7 @@
 {"key": "movements", "word": "movements", "translation": "movements", "note": "English word; silithid hive activity"}
 {"key": "moxo", "word": "Moxo", "translation": "Moxo", "note": ""}
 {"key": "moxx", "word": "Moxx", "translation": "Moxx", "note": "NPC: Overseer Moxx; military rank title", "status": "ignored"}
-{"key": "mrgg", "word": "Mrgg", "translation": "Mrgg", "note": "murloc speech; onomatopoeia; do not translate"}
+{"key": "mrgg", "word": "Mrgg", "translation": "Mrgg", "note": "murloc speech; onomatopoeia; do not translate", "status": "ignored"}
 {"key": "mrgglrmr", "word": "Mrgglrmr", "translation": "Mrgglrmr", "note": "murloc language; untranslatable", "status": "ignored"}
 {"key": "mrgl-rgml", "word": "Mrgl-rgml", "translation": "Mrgl-rgml", "note": "murloc speech pattern; character dialogue, not translatable", "status": "ignored"}
 {"key": "mrlgmlglr", "word": "mrlgmlglr", "translation": "mrlgmlglr", "note": "murloc sound-speech; do not translate"}
@@ -101150,7 +101150,7 @@
 {"key": "mrrklr", "word": "Mrrklr", "translation": "Mrrklr", "note": "murloc sound; untranslatable", "status": "ignored"}
 {"key": "mrrgrl", "word": "Mrrgrl", "translation": "Mrrgrl", "note": "murloc name; 'the Tide Reaver' is descriptive title", "status": "ignored"}
 {"key": "mu'shas", "word": "Mu'shas", "translation": "Mu'shas", "note": ""}
-{"key": "muahahahaaaa", "word": "Muahahahaaaa", "translation": "Muahahahaaaa", "note": "evil laughter onomatopoeia; untranslatable"}
+{"key": "muahahahaaaa", "word": "Muahahahaaaa", "translation": "Muahahahaaaa", "note": "evil laughter onomatopoeia; untranslatable", "status": "ignored"}
 {"key": "mubbeliges", "word": "mubbeliges", "translation": "plump; chubby", "note": "mubbelich/mubbelig = chubby/pudgy; -es nominalization; context 'Baby Chi-Chi' (as was); 'musky' is wrong"}
 {"key": "mua'kin", "word": "Mua'kin", "translation": "Mua'kin", "note": ""}
 {"key": "mucksnout", "word": "Mucksnout", "translation": "Mucksnout", "note": "English compound; location/treasure name"}
@@ -101165,8 +101165,8 @@
 {"key": "mugabu", "word": "Mugabu", "translation": "Mugabu", "note": ""}
 {"key": "mugh'thols", "word": "Mugh'thols", "translation": "Mugh'thols", "note": ""}
 {"key": "mugg", "word": "Mugg", "translation": "Mugg", "note": ""}
-{"key": "muhahaha", "word": "Muhahaha", "translation": "Muhahaha", "note": "evil laughter; untranslatable onomatopoeia"}
-{"key": "muhahahahahahaha", "word": "Muhahahahahahaha", "translation": "Muhahahahahahaha", "note": "extended laughter; onomatopoeia; untranslatable"}
+{"key": "muhahaha", "word": "Muhahaha", "translation": "Muhahaha", "note": "evil laughter; untranslatable onomatopoeia", "status": "ignored"}
+{"key": "muhahahahahahaha", "word": "Muhahahahahahaha", "translation": "Muhahahahahahaha", "note": "extended laughter; onomatopoeia; untranslatable", "status": "ignored"}
 {"key": "muka", "word": "Muka", "translation": "Muka", "note": ""}
 {"key": "muk'luk", "word": "Muk'luk", "translation": "Muk'luk", "note": ""}
 {"key": "mukkral", "word": "Mukkral", "translation": "Mukkral", "note": "current 'Mucral' is OCR/transcription error; should be Mukkral"}
@@ -101223,7 +101223,7 @@
 {"key": "murlocsender", "word": "Murlocsender", "translation": "murloc transmitter", "note": "compound: murloc + sender (transmitter/broadcaster)"}
 {"key": "murlocstämme", "word": "Murlocstämme", "translation": "murloc tribes", "note": "compound: murloc + stämme (tribes); plural form"}
 {"key": "murlocwelt", "word": "Murlocwelt", "translation": "murloc world", "note": "compound: murloc + welt (world); exists only in player imagination"}
-{"key": "murlurulurls", "word": "Murlurulurls", "translation": "Murlurulurls", "note": "onomatopoeia: the characteristic sound murlocs make in-game"}
+{"key": "murlurulurls", "word": "Murlurulurls", "translation": "Murlurulurls", "note": "onomatopoeia: the characteristic sound murlocs make in-game", "status": "ignored"}
 {"key": "murmelnde", "word": "murmelnde", "translation": "muttering", "note": "adjective: murmelnde = murmuring/muttering; present participle form describing Friedensbewahrer guards"}
 {"key": "murrblutaasfresser", "word": "Murrblutaasfresser", "translation": "Murrblood scavenger", "note": "compound creature type: murrblut (proper name) + aasfresser (scavenger); singular"}
 {"key": "murrbet", "word": "Murrbet", "translation": "Murrbet", "note": "proper name of NPC Priorin Haelsey Murrbet", "status": "ignored"}
@@ -102589,7 +102589,7 @@
 {"key": "potentials", "word": "Potentials", "translation": "potential", "note": "nominalized plural; should match singular form"}
 {"key": "pott", "word": "Pott", "translation": "pot", "note": "German colloquial; treasure/bounty in dwarf dialect"}
 {"key": "potzig", "word": "potzig", "translation": "cheeky; impudent", "note": "not 'potty'; means sassy or disrespectful"}
-{"key": "potzblitz", "word": "Potzblitz", "translation": "Potzblitz", "note": "German exclamation of surprise, untranslatable; preserve as-is"}
+{"key": "potzblitz", "word": "Potzblitz", "translation": "Potzblitz", "note": "German exclamation of surprise, untranslatable; preserve as-is", "status": "ignored"}
 {"key": "pouring", "word": "pouring", "translation": "pouring", "note": ""}
 {"key": "pp", "word": "pp", "translation": "pp", "note": ""}
 {"key": "prachtmeerstreitross", "word": "Prachtmeerstreitross", "translation": "Proudmoore Warhorse", "note": "compound: pracht (splendid) + meer (sea) + streitross (warhorse); official WoW mount name"}
@@ -103245,7 +103245,7 @@
 {"key": "reservatreinigung", "word": "Reservatreinigung", "translation": "reservoir cleaning", "note": "compound: Reservoir (reservoir) + reinigung (cleaning); maintenance task"}
 {"key": "reservebatterie", "word": "Reservebatterie", "translation": "reserve battery", "note": "compound: Reserve (reserve) + batterie (battery); backup power supply"}
 {"key": "reservefilme", "word": "Reservefilme", "translation": "reserve films", "note": "compound: Reserve (reserve) + filme (films); backup film supply in the cataloguer's kit"}
-{"key": "reservenremmidemmi", "word": "Reservenremmidemmi", "translation": "Reservenremmidemmi", "note": "appears to be goblin nonsense or corrupted name; keeping as-is since meaning is unclear"}
+{"key": "reservenremmidemmi", "word": "Reservenremmidemmi", "translation": "Reservenremmidemmi", "note": "appears to be goblin nonsense or corrupted name; keeping as-is since meaning is unclear", "status": "ignored"}
 {"key": "reserveraketenrucksack", "word": "Reserveraketenrucksack", "translation": "spare rocket backpack", "note": "compound: Reserve (spare) + raketen (rocket) + rucksack (backpack); portable rocket device"}
 {"key": "reservieren", "word": "reservieren", "translation": "reserve", "note": "verb meaning to set aside or hold; hunter sets aside dogs for a specific tracking task"}
 {"key": "reservoirschutze", "word": "Reservoirschutze", "translation": "reservoir protections", "note": "compound likely misspelled; should be Schutzeinrichtungen (protection devices); devices to repair and activate"}
@@ -104088,7 +104088,7 @@
 {"key": "scherenpfotendingern", "word": "Scherenpfotendingern", "translation": "Scissorpaw Creatures", "note": "corrected from 'things'; schere (scissors) + pfote (paw) + dinger (things); creature type"}
 {"key": "scherwindtiefland", "word": "Scherwindtiefland", "translation": "Wind Shear Lowlands", "note": "proper name: scheerwind (wind shear) + tiefland (lowlands); zone name, do not invent"}
 {"key": "scheuche", "word": "Scheuche", "translation": "Scarecrow", "note": "noun: from scheuchen (to drive away/shoo); a figure to scare"}
-{"key": "scheugs", "word": "Scheugs", "translation": "Scheugs", "note": "likely a name or nonsense word in the context; kept as-is"}
+{"key": "scheugs", "word": "Scheugs", "translation": "Scheugs", "note": "likely a name or nonsense word in the context; kept as-is", "status": "ignored"}
 {"key": "scheulibelle", "word": "Scheulibelle", "translation": "Scheulibelle", "note": "creature name; scheu (shy/timid) + libelle (dragonfly); do not invent", "status": "ignored"}
 {"key": "schh", "word": "Schh", "translation": "Shh", "note": "interjection: sound to signal silence or quiet"}
 {"key": "schickeriahosen", "word": "Schickeriahosen", "translation": "Chic Trousers", "note": "corrected from 'Chic trousers'; schickeria (fancy/chic crowd) + hosen (trousers); item name"}
@@ -106655,7 +106655,7 @@
 {"key": "tetrahydropartikelanalysierer", "word": "Tetrahydropartikelanalysierer", "translation": "Tetrahydroparticle Analyzer", "note": "compound of tetrahydro + partikel + analysierer (analyzer); gnomish device"}
 {"key": "tetsos", "word": "Tetsos", "translation": "Tetsos", "note": ""}
 {"key": "teufelei", "word": "Teufelei", "translation": "devilry", "note": "teufel (devil) + ei suffix for abstract nouns; mischievous machinations"}
-{"key": "teufelrglrglrglrgl", "word": "Teufelrglrglrglrgl", "translation": "Teufelrglrglrglrgl", "note": "nonsense string; likely corrupted game text"}
+{"key": "teufelrglrglrglrgl", "word": "Teufelrglrglrglrgl", "translation": "Teufelrglrglrglrgl", "note": "nonsense string; likely corrupted game text", "status": "ignored"}
 {"key": "teufelsbasilisken", "word": "Teufelsbasilisken", "translation": "Devil basilisks", "note": "teufel (devil/fel) + basilisken (basilisks); demonic creatures"}
 {"key": "teufelsbesudelten", "word": "teufelsbesudelten", "translation": "fel-tainted", "note": "teufel (fel) + besudelten (soiled/tainted); particle adjective"}
 {"key": "teufelsbesoffenen", "word": "teufelsbesoffenen", "translation": "damned drunk", "note": "teufel + besoffenen (drunk); intensifier; context needs stronger idiom"}
