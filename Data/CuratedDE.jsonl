@@ -24390,12 +24390,12 @@
 {"key": "plagen", "word": "plagen", "translation": "plague", "note": ""}
 {"key": "plündert", "word": "plündert", "translation": "loots", "note": ""}
 {"key": "positionen", "word": "Positionen", "translation": "positions", "note": ""}
-{"key": "quel'dorei", "word": "Quel'dorei", "translation": "Quel'dorei", "note": ""}
+{"key": "quel'dorei", "word": "Quel'dorei", "translation": "Quel'dorei", "note": "", "status": "ignored"}
 {"key": "rabenkrone", "word": "Rabenkrone", "translation": "Raven Crown", "note": ""}
 {"key": "rates", "word": "Rates", "translation": "councils", "note": "plural form"}
 {"key": "rechnung", "word": "Rechnung", "translation": "invoice", "note": ""}
 {"key": "reiner", "word": "reiner", "translation": "pure", "note": "false friend: in 'reiner Selbstmord' means sheer/pure, not cleaner"}
-{"key": "ren'dorei", "word": "Ren'dorei", "translation": "Ren'dorei", "note": ""}
+{"key": "ren'dorei", "word": "Ren'dorei", "translation": "Ren'dorei", "note": "", "status": "ignored"}
 {"key": "revier", "word": "Revier", "translation": "Territory", "note": ""}
 {"key": "riechenden", "word": "riechenden", "translation": "smelling", "note": ""}
 {"key": "rissen", "word": "Rissen", "translation": "tore", "note": "past tense of reißen (to tear); risse is the noun form"}
@@ -24403,7 +24403,7 @@
 {"key": "ruhmestrophäe", "word": "Ruhmestrophäe", "translation": "Glory trophy", "note": ""}
 {"key": "ruinieren", "word": "ruinieren", "translation": "ruin", "note": ""}
 {"key": "runenmetzes", "word": "Runenmetzes", "translation": "Runesmith", "note": "singular possessive form"}
-{"key": "ruuanwald", "word": "Ruuanwald", "translation": "Ruuanwald", "note": ""}
+{"key": "ruuanwald", "word": "Ruuanwald", "translation": "Ruuanwald", "note": "", "status": "ignored"}
 {"key": "rylaks", "word": "Rylaks", "translation": "Rylaks", "note": ""}
 {"key": "rückweg", "word": "Rückweg", "translation": "way back", "note": ""}
 {"key": "schaffe", "word": "schaffe", "translation": "create", "note": ""}
@@ -24415,12 +24415,12 @@
 {"key": "schotlinge", "word": "Schotlinge", "translation": "Podlings", "note": ""}
 {"key": "seltenes", "word": "seltenes", "translation": "rare", "note": ""}
 {"key": "sendet", "word": "sendet", "translation": "sends", "note": ""}
-{"key": "sha'tar", "word": "Sha'tar", "translation": "Sha'tar", "note": ""}
+{"key": "sha'tar", "word": "Sha'tar", "translation": "Sha'tar", "note": "", "status": "ignored"}
 {"key": "shang", "word": "Shang", "translation": "Shang", "note": ""}
 {"key": "sicheres", "word": "sicheres", "translation": "safe", "note": ""}
 {"key": "simpel", "word": "simpel", "translation": "simple", "note": ""}
 {"key": "simple", "word": "simple", "translation": "simple", "note": ""}
-{"key": "socrethar", "word": "Socrethar", "translation": "Socrethar", "note": ""}
+{"key": "socrethar", "word": "Socrethar", "translation": "Socrethar", "note": "", "status": "ignored"}
 {"key": "sogenannte", "word": "sogenannte", "translation": "so-called", "note": ""}
 {"key": "solle", "word": "solle", "translation": "should", "note": ""}
 {"key": "speeren", "word": "Speeren", "translation": "spears", "note": ""}
@@ -24442,7 +24442,7 @@
 {"key": "traumpfad", "word": "Traumpfad", "translation": "Dream path", "note": ""}
 {"key": "trottmann", "word": "Trottmann", "translation": "Trottman", "note": ""}
 {"key": "tränken", "word": "tränken", "translation": "soak", "note": ""}
-{"key": "tubbins", "word": "Tubbins", "translation": "Tubbins", "note": ""}
+{"key": "tubbins", "word": "Tubbins", "translation": "Tubbins", "note": "", "status": "ignored"}
 {"key": "ufern", "word": "Ufern", "translation": "banks", "note": ""}
 {"key": "umherstreifen", "word": "umherstreifen", "translation": "roam", "note": ""}
 {"key": "umzugehen", "word": "umzugehen", "translation": "to deal with", "note": ""}
@@ -24452,7 +24452,7 @@
 {"key": "unterbrecht", "word": "unterbrecht", "translation": "interrupts", "note": ""}
 {"key": "unterkönig", "word": "Unterkönig", "translation": "Underking", "note": ""}
 {"key": "valkyra", "word": "Valkyra", "translation": "Valkyra", "note": ""}
-{"key": "vargoth", "word": "Vargoth", "translation": "Vargoth", "note": ""}
+{"key": "vargoth", "word": "Vargoth", "translation": "Vargoth", "note": "", "status": "ignored"}
 {"key": "varzok", "word": "Varzok", "translation": "Varzok", "note": ""}
 {"key": "velhans", "word": "Velhans", "translation": "Velhans", "note": ""}
 {"key": "verblasst", "word": "verblasst", "translation": "faded", "note": ""}
@@ -24472,7 +24472,7 @@
 {"key": "vorbild", "word": "Vorbild", "translation": "Example", "note": ""}
 {"key": "vorgefallen", "word": "vorgefallen", "translation": "occurred", "note": ""}
 {"key": "vorherrschaft", "word": "Vorherrschaft", "translation": "supremacy", "note": ""}
-{"key": "vyranoth", "word": "Vyranoth", "translation": "Vyranoth", "note": ""}
+{"key": "vyranoth", "word": "Vyranoth", "translation": "Vyranoth", "note": "", "status": "ignored"}
 {"key": "waffenkammer", "word": "Waffenkammer", "translation": "Armory", "note": ""}
 {"key": "war's", "word": "war's", "translation": "it was", "note": ""}
 {"key": "warnt", "word": "Warnt", "translation": "Warn", "note": "imperative form"}
@@ -24490,12 +24490,12 @@
 {"key": "wüssten", "word": "wüssten", "translation": "would know", "note": ""}
 {"key": "y'mera", "word": "Y'mera", "translation": "Y’mera", "note": ""}
 {"key": "yak", "word": "Yak", "translation": "yak", "note": ""}
-{"key": "zalamar", "word": "Zalamar", "translation": "Zalamar", "note": ""}
+{"key": "zalamar", "word": "Zalamar", "translation": "Zalamar", "note": "", "status": "ignored"}
 {"key": "zeichnen", "word": "zeichnen", "translation": "draw", "note": ""}
 {"key": "zeitlosen", "word": "Zeitlosen", "translation": "Timeless", "note": ""}
 {"key": "zeitläufer", "word": "Zeitläufer", "translation": "Time Runner", "note": ""}
 {"key": "zellenblock", "word": "Zellenblock", "translation": "Cell block", "note": ""}
-{"key": "zev'kall", "word": "Zev'kall", "translation": "Zev'kall", "note": ""}
+{"key": "zev'kall", "word": "Zev'kall", "translation": "Zev'kall", "note": "", "status": "ignored"}
 {"key": "zuge", "word": "Zuge", "translation": "course", "note": "'im Zuge' = in the course of; not by train"}
 {"key": "zugestimmt", "word": "zugestimmt", "translation": "agreed", "note": ""}
 {"key": "zusammenrufen", "word": "zusammenrufen", "translation": "call together", "note": ""}
@@ -24513,13 +24513,13 @@
 {"key": "abtrünnigen", "word": "abtrünnigen", "translation": "apostate", "note": ""}
 {"key": "abyssische", "word": "Abyssische", "translation": "abyssal", "note": ""}
 {"key": "abzuholen", "word": "abzuholen", "translation": "to pick up", "note": ""}
-{"key": "aggonar", "word": "Aggonar", "translation": "Aggonar", "note": ""}
+{"key": "aggonar", "word": "Aggonar", "translation": "Aggonar", "note": "", "status": "ignored"}
 {"key": "aggressive", "word": "aggressive", "translation": "aggressive", "note": ""}
 {"key": "akamas", "word": "Akamas", "translation": "Akamas", "note": ""}
 {"key": "akt", "word": "Akt", "translation": "act", "note": ""}
 {"key": "altmodische", "word": "altmodische", "translation": "old-fashioned", "note": ""}
 {"key": "analyse", "word": "Analyse", "translation": "analysis", "note": ""}
-{"key": "andestrasz", "word": "Andestrasz", "translation": "Andestrasz", "note": ""}
+{"key": "andestrasz", "word": "Andestrasz", "translation": "Andestrasz", "note": "", "status": "ignored"}
 {"key": "angespannt", "word": "angespannt", "translation": "tense", "note": ""}
 {"key": "angetrieben", "word": "angetrieben", "translation": "driven", "note": ""}
 {"key": "angriffsplan", "word": "Angriffsplan", "translation": "attack plan", "note": "angriff (attack) + plan; or use: plan of attack"}
@@ -24668,7 +24668,7 @@
 {"key": "jüngste", "word": "jüngste", "translation": "youngest", "note": "superlative of jung (young)"}
 {"key": "kap", "word": "Kap", "translation": "cape", "note": "geographical promontory or coastal feature"}
 {"key": "karam", "word": "Karam", "translation": "Karam", "note": ""}
-{"key": "kargath", "word": "Kargath", "translation": "Kargath", "note": ""}
+{"key": "kargath", "word": "Kargath", "translation": "Kargath", "note": "", "status": "ignored"}
 {"key": "keinesfalls", "word": "keinesfalls", "translation": "no way", "note": "kein (no) + falls (case); in no case, absolutely"}
 {"key": "khadgars", "word": "Khadgars", "translation": "Khadgars", "note": "possessive of Khadgar; wizard"}
 {"key": "kil'jaedens", "word": "Kil'jaedens", "translation": "Kil'jaedens", "note": "possessive; demon lord name"}
@@ -24714,7 +24714,7 @@
 {"key": "nekromantie", "word": "Nekromantie", "translation": "necromancy", "note": "magic with dead; raising spirits"}
 {"key": "nekrorochen", "word": "Nekrorochen", "translation": "Necrorays", "note": "WoW undead creature type"}
 {"key": "niederstossen", "word": "niederstoßen", "translation": "swoop down; strike down", "note": "nieder (down) + stoßen (strike)"}
-{"key": "niffelvar", "word": "Niffelvar", "translation": "Niffelvar", "note": ""}
+{"key": "niffelvar", "word": "Niffelvar", "translation": "Niffelvar", "note": "", "status": "ignored"}
 {"key": "ogar", "word": "ogar", "translation": "Ogar", "note": "Orcish battle cry Lok'tar Ogar; untranslated"}
 {"key": "ordentliches", "word": "ordentliches", "translation": "decent", "note": "of acceptable quality or standard"}
 {"key": "orgrimmars", "word": "Orgrimmars", "translation": "Orgrimmar's", "note": "possessive of orc capital"}
@@ -24818,7 +24818,7 @@
 {"key": "versessen", "word": "versessen", "translation": "obsessed", "note": ""}
 {"key": "vertragen", "word": "vertragen", "translation": "digest", "note": "in context of handling food: to digest or tolerate"}
 {"key": "vertrautheit", "word": "Vertrautheit", "translation": "familiarity", "note": ""}
-{"key": "voldrune", "word": "Voldrune", "translation": "Voldrune", "note": ""}
+{"key": "voldrune", "word": "Voldrune", "translation": "Voldrune", "note": "", "status": "ignored"}
 {"key": "vollbringen", "word": "vollbringen", "translation": "accomplish", "note": ""}
 {"key": "vorantreiben", "word": "vorantreiben", "translation": "advance", "note": ""}
 {"key": "vorbeikommt", "word": "vorbeikommt", "translation": "comes by", "note": "passes by or comes around; not comes over"}
@@ -24842,7 +24842,7 @@
 {"key": "wracks", "word": "Wracks", "translation": "wrecks", "note": ""}
 {"key": "währung", "word": "Währung", "translation": "currency", "note": ""}
 {"key": "wär'n", "word": "wär'n", "translation": "would be", "note": ""}
-{"key": "ymirheim", "word": "Ymirheim", "translation": "Ymirheim", "note": ""}
+{"key": "ymirheim", "word": "Ymirheim", "translation": "Ymirheim", "note": "", "status": "ignored"}
 {"key": "zahllosen", "word": "zahllosen", "translation": "countless", "note": ""}
 {"key": "zehntausend", "word": "zehntausend", "translation": "ten thousand", "note": ""}
 {"key": "zeitlose", "word": "Zeitlose", "translation": "Timeless One", "note": "refers to a bronze dragon; proper noun/title"}
