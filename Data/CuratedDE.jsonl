@@ -31485,13 +31485,13 @@
 {"key": "signalisiert", "word": "signalisiert", "translation": "signaled", "note": ""}
 {"key": "sik'vess", "word": "Sik'vess", "translation": "Sik'vess", "note": "location name", "status": "ignored"}
 {"key": "sin'dane", "word": "Sin'dane", "translation": "Sin'dane", "note": "Lich Warden NPC name", "status": "ignored"}
-{"key": "singularis", "word": "Singularis", "translation": "Singularis", "note": "Praetor name in bounty titles"}
+{"key": "singularis", "word": "Singularis", "translation": "Singularis", "note": "Praetor name in bounty titles", "status": "ignored"}
 {"key": "sinnlosen", "word": "sinnlosen", "translation": "pointless", "note": ""}
-{"key": "sironas", "word": "Sironas", "translation": "Sironas", "note": "Blood Elf leader"}
+{"key": "sironas", "word": "Sironas", "translation": "Sironas", "note": "Blood Elf leader", "status": "ignored"}
 {"key": "sitzes", "word": "Sitzes", "translation": "seat", "note": "seat of power or position"}
 {"key": "skarabäus", "word": "Skarabäus", "translation": "scarab", "note": ""}
 {"key": "skorpiden", "word": "Skorpiden", "translation": "Scorpids", "note": "WoW creature type"}
-{"key": "skulloc", "word": "Skulloc", "translation": "Skulloc", "note": "Gronn (giant) name"}
+{"key": "skulloc", "word": "Skulloc", "translation": "Skulloc", "note": "Gronn (giant) name", "status": "ignored"}
 {"key": "snacks", "word": "Snacks", "translation": "Snacks", "note": ""}
 {"key": "sockel", "word": "Sockel", "translation": "base", "note": "pedestal, socket, or foundation"}
 {"key": "sognadel", "word": "Sognadel", "translation": "suction needle", "note": "magical device; lit. suck-needle"}
@@ -31885,9 +31885,9 @@
 {"key": "adepten", "word": "Adepten", "translation": "adepts", "note": ""}
 {"key": "adlige", "word": "Adlige", "translation": "nobles", "note": ""}
 {"key": "admirals", "word": "Admirals", "translation": "Admirals", "note": "title/rank"}
-{"key": "aegrims", "word": "Aegrims", "translation": "Aegrims", "note": "dwarf ancestor name"}
+{"key": "aegrims", "word": "Aegrims", "translation": "Aegrims", "note": "dwarf ancestor name", "status": "ignored"}
 {"key": "aeire", "word": "Aeire", "translation": "Aeire", "note": "location name", "status": "ignored"}
-{"key": "aggramar", "word": "Aggramar", "translation": "Aggramar", "note": "WoW titan; also means shield (aegis)"}
+{"key": "aggramar", "word": "Aggramar", "translation": "Aggramar", "note": "WoW titan; also means shield (aegis)", "status": "ignored"}
 {"key": "aggressives", "word": "aggressives", "translation": "aggressive", "note": ""}
 {"key": "ahne", "word": "Ahne", "translation": "ancestor", "note": ""}
 {"key": "aisha", "word": "Aisha", "translation": "Aisha", "note": "proper name", "status": "ignored"}
@@ -31909,7 +31909,7 @@
 {"key": "amoklauf", "word": "Amoklauf", "translation": "rampage", "note": "from Amok (amok) + Lauf (run)"}
 {"key": "amt", "word": "Amt", "translation": "office; position", "note": ""}
 {"key": "amüsiert", "word": "amüsiert", "translation": "amused", "note": ""}
-{"key": "anachronos", "word": "Anachronos", "translation": "Anachronos", "note": "bronze dragon in WoW"}
+{"key": "anachronos", "word": "Anachronos", "translation": "Anachronos", "note": "bronze dragon in WoW", "status": "ignored"}
 {"key": "andaris", "word": "Andaris", "translation": "Andaris", "note": "NPC name", "status": "ignored"}
 {"key": "andauernden", "word": "andauernden", "translation": "ongoing", "note": ""}
 {"key": "anderson", "word": "Anderson", "translation": "Anderson", "note": "proper name", "status": "ignored"}
@@ -31956,7 +31956,7 @@
 {"key": "arelions", "word": "Arelions", "translation": "Arelion's", "note": "possessive form (NPC name)"}
 {"key": "ares", "word": "Ares", "translation": "Ares", "note": "NPC name", "status": "ignored"}
 {"key": "argelmach", "word": "Argelmach", "translation": "Argelmach", "note": "golem lord NPC", "status": "ignored"}
-{"key": "argoram", "word": "Argoram", "translation": "Argoram", "note": "ogre shaman; Gronnfangs means gronnfang"}
+{"key": "argoram", "word": "Argoram", "translation": "Argoram", "note": "ogre shaman; Gronnfangs means gronnfang", "status": "ignored"}
 {"key": "arkanenergie", "word": "Arkanenergie", "translation": "arcane energy", "note": "compound: Arkan (arcane) + Energie (energy)"}
 {"key": "arklon", "word": "Arklon", "translation": "Arklon", "note": "proper name", "status": "ignored"}
 {"key": "armes", "word": "armes", "translation": "poor; wretched", "note": ""}
@@ -32232,7 +32232,7 @@
 {"key": "donnerschlag", "word": "Donnerschlag", "translation": "Thunderclap", "note": "compound: donner + schlag (clap)"}
 {"key": "donnerschrei", "word": "Donnerschrei", "translation": "Thundercry", "note": "compound: donner + schrei (cry)"}
 {"key": "dosis", "word": "Dosis", "translation": "dose", "note": "measured quantity; arcane energy exposure"}
-{"key": "drak'mabwa", "word": "Drak'Mabwa", "translation": "Drak'Mabwa", "note": "elemental name; captured and enslaved"}
+{"key": "drak'mabwa", "word": "Drak'Mabwa", "translation": "Drak'Mabwa", "note": "elemental name; captured and enslaved", "status": "ignored"}
 {"key": "drastische", "word": "drastische", "translation": "drastic", "note": "severe or extreme; measures"}
 {"key": "drauss'n", "word": "drauß'n", "translation": "outside", "note": "colloquial form of draußen; informal"}
 {"key": "drazzit", "word": "Drazzit", "translation": "Drazzit", "note": "NPC name; supply recipient", "status": "ignored"}
@@ -32346,7 +32346,7 @@
 {"key": "er's", "word": "er's", "translation": "he's", "note": "dialectal contraction of 'er ist' (he is)"}
 {"key": "erachten", "word": "erachten", "translation": "consider; deem", "note": "erachten = to regard as; judge; consider"}
 {"key": "eraka", "word": "Eraka", "translation": "Eraka", "note": "proper noun; location/creature name in WoW lore", "status": "ignored"}
-{"key": "eranikus", "word": "Eranikus", "translation": "Eranikus", "note": "dragon name; the current 'Eranicus' is misspelled"}
+{"key": "eranikus", "word": "Eranikus", "translation": "Eranikus", "note": "dragon name; the current 'Eranicus' is misspelled", "status": "ignored"}
 {"key": "erbeuteten", "word": "erbeuteten", "translation": "captured; plundered", "note": "to seize as spoils; capture in battle"}
 {"key": "erbitte", "word": "Erbitte", "translation": "request", "note": "imperative form of erbitten = to request formally"}
 {"key": "erbitterte", "word": "erbitterte", "translation": "fierce; bitter", "note": "erbittert = embittered; fierce resistance"}
@@ -32514,7 +32514,7 @@
 {"key": "garantie", "word": "Garantie", "translation": "guarantee", "note": "from French garantie; promise or warranty of assurance"}
 {"key": "garstige", "word": "garstige", "translation": "nasty", "note": "garstig (archaic/poetic for foul); unpleasant or vile creatures"}
 {"key": "gassen", "word": "Gassen", "translation": "alleys", "note": "gasse (alley/lane) in plural; narrow urban passages"}
-{"key": "gatamatos", "word": "Gatamatos", "translation": "Gatamatos", "note": "WoW mechanical construct or golem name"}
+{"key": "gatamatos", "word": "Gatamatos", "translation": "Gatamatos", "note": "WoW mechanical construct or golem name", "status": "ignored"}
 {"key": "gaudi", "word": "Gaudi", "translation": "Gaudi", "note": "proper name or object descriptor; greenish variant in context", "status": "ignored"}
 {"key": "geahnt", "word": "geahnt", "translation": "suspected", "note": "ahnen (forebode/suspect) + ge-; sensed or intuited something"}
 {"key": "gebliebenen", "word": "gebliebenen", "translation": "remained", "note": "bleiben (remain) + ge-; those who stayed or persisted"}
@@ -32601,7 +32601,7 @@
 {"key": "gewünscht", "word": "gewünscht", "translation": "desired", "note": "wünschen (wish) + ge-; longed for or eagerly wanted"}
 {"key": "gewürdigt", "word": "gewürdigt", "translation": "honored", "note": "würdigen (appreciate/honor) + ge-; recognized the value of actions"}
 {"key": "gezackten", "word": "gezackten", "translation": "jagged", "note": "zacke (point/prong) + ge-; having sharp uneven points or teeth"}
-{"key": "gichtdarm", "word": "Gichtdarm", "translation": "Gichtdarm", "note": "ogre character name; gicht (malady/gout) + darm (intestine)"}
+{"key": "gichtdarm", "word": "Gichtdarm", "translation": "Gichtdarm", "note": "ogre character name; gicht (malady/gout) + darm (intestine)", "status": "ignored"}
 {"key": "giften", "word": "Giften", "translation": "poisons", "note": "gift (poison) in dative plural; deadly toxins or venoms"}
 {"key": "giftfischen", "word": "Giftfischen", "translation": "poison fishing", "note": "gift (poison) + fischen (fish); using toxins to stun fish"}
 {"key": "giftigem", "word": "giftigem", "translation": "poisonous", "note": "giftig (toxic/venomous); deadly or toxic brew or substance"}
@@ -32619,7 +32619,7 @@
 {"key": "glitschis", "word": "Glitschis", "translation": "Glitchies", "note": "glitschig=slimy, -is=diminutive; creatures covered in ooze"}
 {"key": "glitzernden", "word": "glitzernden", "translation": "glittering", "note": "from glitzern (to sparkle/gleam); describes shimmering surfaces"}
 {"key": "glop", "word": "Glop", "translation": "Glop", "note": "WoW NPC name; onomatopoeia suggesting something amorphous", "status": "ignored"}
-{"key": "gluk", "word": "Gluk", "translation": "Gluk", "note": "WoW NPC title phrase 'Gluk der Verräter' means Gluk the Betrayer"}
+{"key": "gluk", "word": "Gluk", "translation": "Gluk", "note": "WoW NPC title phrase 'Gluk der Verräter' means Gluk the Betrayer", "status": "ignored"}
 {"key": "glutbienen", "word": "Glutbienen", "translation": "Ember bees", "note": "compound: Glut (embers/glow) + Bienen (bees); fire elementals shaped as insects"}
 {"key": "glutnarbe", "word": "Glutnarbe", "translation": "Ember Scar", "note": "compound: Glut (embers) + Narbe (scar); volcanic damage scar location"}
 {"key": "glutorden", "word": "Glutorden", "translation": "Ember Order", "note": "compound: Glut (fire/embers) + Orden (order/brotherhood); faction name"}
@@ -32640,7 +32640,7 @@
 {"key": "gor'krosh", "word": "Gor'krosh", "translation": "Gor'krosh", "note": "WoW creature; literally 'long knives' in orc language", "status": "ignored"}
 {"key": "gorgorek", "word": "Gorgorek", "translation": "Gorgorek", "note": "WoW creature lore name; heart is prized artifact", "status": "ignored"}
 {"key": "gorgrom", "word": "Gorgrom", "translation": "Gorgrom", "note": "WoW orc NPC; 'der Drachenfresser' (dragon-eater) epithet", "status": "ignored"}
-{"key": "gossenheim", "word": "Gossenheim", "translation": "Gossenheim", "note": "WoW settlement; compound: Gasse (street/alley) + -heim (home/settlement)"}
+{"key": "gossenheim", "word": "Gossenheim", "translation": "Gossenheim", "note": "WoW settlement; compound: Gasse (street/alley) + -heim (home/settlement)", "status": "ignored"}
 {"key": "gottkönigs", "word": "Gottkönigs", "translation": "God King", "note": "compound: Gott (god) + König (king); ruler claiming divine authority"}
 {"key": "grabmals", "word": "Grabmals", "translation": "tomb", "note": "compound: Grab (grave) + -mal (monument); burial structure"}
 {"key": "grabstelle", "word": "Grabstelle", "translation": "grave site", "note": "compound: Grab (grave) + Stelle (place); archaeological location"}
@@ -32666,7 +32666,7 @@
 {"key": "grössenänderer", "word": "Größenänderer", "translation": "size shifter", "note": "compound: Größen (size) + Änder (changer); magical transformation device"}
 {"key": "grüssen", "word": "Grüßen", "translation": "greet", "note": "from grüßen (to greet); infinitive form capitalized as task name"}
 {"key": "gucken", "word": "gucken", "translation": "look", "note": "informal for 'sehen' (to see); colloquial in quest dialogue"}
-{"key": "gurok", "word": "Gurok", "translation": "Gurok", "note": "WoW orc NPC; 'der Thronräuber' means throne usurper"}
+{"key": "gurok", "word": "Gurok", "translation": "Gurok", "note": "WoW orc NPC; 'der Thronräuber' means throne usurper", "status": "ignored"}
 {"key": "gurthan", "word": "Gurthan", "translation": "Gurthan", "note": "WoW terrace location; where fear-spinner creatures are found", "status": "ignored"}
 {"key": "gwen", "word": "Gwen", "translation": "Gwen", "note": "WoW NPC name (Gwen Armstead); human character in alliance", "status": "ignored"}
 {"key": "gönnt", "word": "gönnt", "translation": "grants", "note": "from gönnen (to grant); 'jemandem etwas gönnen'=to wish someone something"}
@@ -32813,12 +32813,12 @@
 {"key": "jedermanns", "word": "jedermanns", "translation": "everyone's", "note": "archaic/formal possessive"}
 {"key": "jegliches", "word": "jegliches", "translation": "anything", "note": "means anything, everything; emphatic form"}
 {"key": "jenes", "word": "jenes", "translation": "that", "note": "demonstrative pronoun; means that one, that"}
-{"key": "jin'do", "word": "Jin'do", "translation": "Jin'do", "note": "troll warlord name"}
+{"key": "jin'do", "word": "Jin'do", "translation": "Jin'do", "note": "troll warlord name", "status": "ignored"}
 {"key": "jo'chunga", "word": "Jo'chunga", "translation": "Jo'chunga", "note": "creature name from quest text", "status": "ignored"}
 {"key": "joe", "word": "Joe", "translation": "Joe", "note": "personal name; Tommy Joe Steinfeld", "status": "ignored"}
 {"key": "jokkum", "word": "Jokkum", "translation": "Jokkum", "note": "NPC or proper name", "status": "ignored"}
 {"key": "jordan", "word": "Jordan", "translation": "Jordan", "note": "personal name; Commander Jordan", "status": "ignored"}
-{"key": "jorunmine", "word": "Jorunmine", "translation": "Jorunmine", "note": "location name; Jorun + Mine"}
+{"key": "jorunmine", "word": "Jorunmine", "translation": "Jorunmine", "note": "location name; Jorun + Mine", "status": "ignored"}
 {"key": "jubeka", "word": "Jubeka", "translation": "Jubeka", "note": "NPC name; Jubeka Shadowbreak", "status": "ignored"}
 {"key": "juwelier", "word": "Juwelier", "translation": "jeweler", "note": ""}
 {"key": "jüngere", "word": "jüngere", "translation": "younger", "note": "comparative adjective"}
