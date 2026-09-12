@@ -42935,13 +42935,13 @@
 {"key": "bürgt", "word": "bürgt", "translation": "vouches", "note": "present tense of bürgen (to vouch/guarantee)"}
 {"key": "bürschchen", "word": "Bürschchen", "translation": "Boy", "note": "diminutive: Bursche (lad/boy) + -chen"}
 {"key": "büsst", "word": "büßt", "translation": "atones", "note": "present tense of büßen (to atone/do penance)"}
-{"key": "c'thraxxi", "word": "C'Thraxxi", "translation": "C'Thraxxi", "note": ""}
-{"key": "c'thun", "word": "C'Thun", "translation": "C'Thun", "note": ""}
+{"key": "c'thraxxi", "word": "C'Thraxxi", "translation": "C'Thraxxi", "note": "", "status": "ignored"}
+{"key": "c'thun", "word": "C'Thun", "translation": "C'Thun", "note": "", "status": "ignored"}
 {"key": "caice", "word": "Caice", "translation": "Caice", "note": ""}
-{"key": "caidanis", "word": "Caidanis", "translation": "Caidanis", "note": ""}
+{"key": "caidanis", "word": "Caidanis", "translation": "Caidanis", "note": "", "status": "ignored"}
 {"key": "cairn", "word": "Cairn", "translation": "Cairn", "note": ""}
 {"key": "calcis", "word": "Calcis", "translation": "Calcis", "note": ""}
-{"key": "caleesy", "word": "Caleesy", "translation": "Caleesy", "note": ""}
+{"key": "caleesy", "word": "Caleesy", "translation": "Caleesy", "note": "", "status": "ignored"}
 {"key": "calli", "word": "Calli", "translation": "Calli", "note": ""}
 {"key": "camberon", "word": "Camberon", "translation": "Camberon", "note": ""}
 {"key": "camps", "word": "Camps", "translation": "Camps", "note": ""}
@@ -43021,14 +43021,14 @@
 {"key": "cylania", "word": "Cylania", "translation": "Cylania", "note": ""}
 {"key": "cymre", "word": "Cymre", "translation": "Cymre", "note": ""}
 {"key": "cyrille", "word": "Cyrille", "translation": "Cyril", "note": "German name Cyrille translates to English NPC name Cyril"}
-{"key": "d'bynn", "word": "D'Bynn", "translation": "D'Bynn", "note": ""}
-{"key": "da'kani", "word": "Da'kani", "translation": "Da'kani", "note": ""}
+{"key": "d'bynn", "word": "D'Bynn", "translation": "D'Bynn", "note": "", "status": "ignored"}
+{"key": "da'kani", "word": "Da'kani", "translation": "Da'kani", "note": "", "status": "ignored"}
 {"key": "daalo", "word": "Daalo", "translation": "Daalo", "note": ""}
-{"key": "dabir'ee", "word": "Dabir'ee", "translation": "Dabir'ee", "note": ""}
+{"key": "dabir'ee", "word": "Dabir'ee", "translation": "Dabir'ee", "note": "", "status": "ignored"}
 {"key": "daela", "word": "Daela", "translation": "Daela", "note": ""}
 {"key": "daemonica", "word": "Daemonica", "translation": "Daemonica", "note": "from Latin daemonicus (demonic)"}
 {"key": "daetan", "word": "Daetan", "translation": "Daetan", "note": ""}
-{"key": "dagg'thol", "word": "Dagg'thol", "translation": "Dagg'thol", "note": ""}
+{"key": "dagg'thol", "word": "Dagg'thol", "translation": "Dagg'thol", "note": "", "status": "ignored"}
 {"key": "daglir", "word": "Daglir", "translation": "Daglir", "note": ""}
 {"key": "dagoda", "word": "Dagoda", "translation": "Dagoda", "note": ""}
 {"key": "dahaka", "word": "Dahaka", "translation": "Dahaka", "note": ""}
@@ -43036,7 +43036,7 @@
 {"key": "dahingestellt", "word": "dahingestellt", "translation": "left undecided", "note": "idiom: bleibt dahingestellt = remains to be seen / is left undecided"}
 {"key": "dahinsiechen", "word": "dahinsiechen", "translation": "languish", "note": "to waste away, decline; from dahin (away) + siechen (to sicken)"}
 {"key": "dahlia", "word": "Dahlia", "translation": "Dahlia", "note": ""}
-{"key": "dak'zor", "word": "Dak'zor", "translation": "Dak'zor", "note": ""}
+{"key": "dak'zor", "word": "Dak'zor", "translation": "Dak'zor", "note": "", "status": "ignored"}
 {"key": "dalsons", "word": "Dalsons", "translation": "Dalsons", "note": ""}
 {"key": "damaligen", "word": "damaligen", "translation": "back then", "note": "adjective form of damals (then/at that time)"}
 {"key": "damek", "word": "Damek", "translation": "Damek", "note": ""}
@@ -43052,10 +43052,10 @@
 {"key": "dankes", "word": "Dankes", "translation": "thanks", "note": "noun from Dank (gratitude/thanks)"}
 {"key": "dap", "word": "dap", "translation": "dap", "note": ""}
 {"key": "danwe", "word": "Danwe", "translation": "Danwe", "note": ""}
-{"key": "dar'guds", "word": "Dar'guds", "translation": "Dar'guds", "note": ""}
-{"key": "dar'gud", "word": "Dar'gud", "translation": "Dar'gud", "note": ""}
+{"key": "dar'guds", "word": "Dar'guds", "translation": "Dar'guds", "note": "", "status": "ignored"}
+{"key": "dar'gud", "word": "Dar'gud", "translation": "Dar'gud", "note": "", "status": "ignored"}
 {"key": "darbringt", "word": "darbringt", "translation": "offers", "note": "separable verb: dar- (forth) + bringt (brings)"}
-{"key": "dardosh", "word": "Dardosh", "translation": "Dardosh", "note": ""}
+{"key": "dardosh", "word": "Dardosh", "translation": "Dardosh", "note": "", "status": "ignored"}
 {"key": "darean", "word": "Darean", "translation": "Darean", "note": ""}
 {"key": "darfst", "word": "darfst", "translation": "may", "note": "second person singular of dürfen (to be allowed)"}
 {"key": "dargeboten", "word": "dargeboten", "translation": "presented", "note": "past participle of darbringen (to present/offer)"}
@@ -43064,13 +43064,13 @@
 {"key": "darmquetsch", "word": "Darmquetsch", "translation": "Intestinal crush", "note": "Darm (intestine) + Quetsch (squeeze); likely a creature name"}
 {"key": "darmuk", "word": "Darmuk", "translation": "Darmuk", "note": ""}
 {"key": "dartol", "word": "Dartol", "translation": "Dartol", "note": ""}
-{"key": "daruukhan", "word": "Daruukhan", "translation": "Daruukhan", "note": ""}
+{"key": "daruukhan", "word": "Daruukhan", "translation": "Daruukhan", "note": "", "status": "ignored"}
 {"key": "dasch", "word": "Dasch", "translation": "Dash", "note": ""}
 {"key": "dash", "word": "dash", "translation": "dash", "note": ""}
 {"key": "dasitzen", "word": "dasitzen", "translation": "sit there", "note": "separable verb: da- (there) + sitzen (sit)"}
 {"key": "datenkonsolen", "word": "Datenkonsolen", "translation": "Data consoles", "note": "Daten (data) + Konsolen (consoles)"}
-{"key": "dath'remar", "word": "Dath'Remar", "translation": "Dath'Remar", "note": ""}
-{"key": "dathrics", "word": "Dathrics", "translation": "Dathrics", "note": ""}
+{"key": "dath'remar", "word": "Dath'Remar", "translation": "Dath'Remar", "note": "", "status": "ignored"}
+{"key": "dathrics", "word": "Dathrics", "translation": "Dathrics", "note": "", "status": "ignored"}
 {"key": "datiert", "word": "datiert", "translation": "dated", "note": "past participle of datieren (to date)"}
 {"key": "datum", "word": "Datum", "translation": "Date", "note": "Latin origin; refers to calendar date or point in time"}
 {"key": "dauerhaftes", "word": "dauerhaftes", "translation": "permanent", "note": "Dauer (duration) + -haft (having quality of); means lasting or permanent"}
@@ -43086,7 +43086,7 @@
 {"key": "deaktivierung", "word": "Deaktivierung", "translation": "Deactivation", "note": "noun from deaktivieren (to deactivate)"}
 {"key": "deckmatrose", "word": "Deckmatrose", "translation": "deckhand", "note": "Deck (deck) + Matrose (sailor); refers to a ship's deckhand"}
 {"key": "deema", "word": "Deema", "translation": "Deema", "note": ""}
-{"key": "deethuk", "word": "Deethuk", "translation": "Deethuk", "note": ""}
+{"key": "deethuk", "word": "Deethuk", "translation": "Deethuk", "note": "", "status": "ignored"}
 {"key": "defensiver", "word": "defensiver", "translation": "more defensive", "note": "comparative adjective; more defensive or intensified defensive"}
 {"key": "deftiges", "word": "deftiges", "translation": "hearty", "note": "adjective meaning substantial, hefty, or hearty (of food or portions)"}
 {"key": "dehnt", "word": "dehnt", "translation": "stretches", "note": "present tense of dehnen (to stretch)"}

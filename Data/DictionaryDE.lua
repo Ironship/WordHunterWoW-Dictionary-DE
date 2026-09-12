@@ -14635,8 +14635,8 @@ WordHunterWoW_Dictionary_DE["büsserjagd"] = { word = "Büßerjagd", translation
 WordHunterWoW_Dictionary_DE["büsst"] = { word = "büßt", translation = "atones", note = "present tense of büßen (to atone/do penance)" }
 WordHunterWoW_Dictionary_DE["büttel"] = { word = "Büttel", translation = "Büttel", note = "town officer title" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["büttner"] = { word = "Büttner", translation = "Büttner", note = "NPC name; likely a surname; not translated in game" , status = "ignored" }
-WordHunterWoW_Dictionary_DE["c'thraxxi"] = { word = "C'Thraxxi", translation = "C'Thraxxi", note = "" }
-WordHunterWoW_Dictionary_DE["c'thun"] = { word = "C'Thun", translation = "C'Thun", note = "" }
+WordHunterWoW_Dictionary_DE["c'thraxxi"] = { word = "C'Thraxxi", translation = "C'Thraxxi", note = "", status = "ignored" }
+WordHunterWoW_Dictionary_DE["c'thun"] = { word = "C'Thun", translation = "C'Thun", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["c'thuns"] = { word = "C'Thuns", translation = "C'Thuns", note = "" }
 WordHunterWoW_Dictionary_DE["c'tolgar"] = { word = "c'tolgar", translation = "c'tolgar", note = "proper name, magical construct or entity" }
 WordHunterWoW_Dictionary_DE["c-o-o"] = { word = "C-O-O", translation = "C-O-O", note = "spelled as individual letters in the text" }
@@ -14653,7 +14653,7 @@ WordHunterWoW_Dictionary_DE["caelestrasz"] = { word = "Caelestrasz", translation
 WordHunterWoW_Dictionary_DE["caer"] = { word = "Caer", translation = "Caer", note = "Welsh place name element meaning 'fortress'; part of 'Caer Darrow' in Scholomance" }
 WordHunterWoW_Dictionary_DE["caeris"] = { word = "Caeris", translation = "Caeris", note = "proper name, court official", status = "ignored" }
 WordHunterWoW_Dictionary_DE["caice"] = { word = "Caice", translation = "Caice", note = "" }
-WordHunterWoW_Dictionary_DE["caidanis"] = { word = "Caidanis", translation = "Caidanis", note = "" }
+WordHunterWoW_Dictionary_DE["caidanis"] = { word = "Caidanis", translation = "Caidanis", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["cailin"] = { word = "Cailin", translation = "Cailin", note = "proper name, character", status = "ignored" }
 WordHunterWoW_Dictionary_DE["cailyn"] = { word = "Cailyn", translation = "Cailyn", note = "" }
 WordHunterWoW_Dictionary_DE["caimas"] = { word = "Caimas", translation = "Caimas", note = "proper name, location or figure", status = "ignored" }
@@ -14678,7 +14678,7 @@ WordHunterWoW_Dictionary_DE["caldis"] = { word = "Caldis", translation = "Caldis
 WordHunterWoW_Dictionary_DE["caleb"] = { word = "Caleb", translation = "Caleb", note = "proper name, embroidered on stuffed toy", status = "ignored" }
 WordHunterWoW_Dictionary_DE["caledis"] = { word = "Caledis", translation = "Caledis", note = "" }
 WordHunterWoW_Dictionary_DE["caledon"] = { word = "Caledon", translation = "Caledon", note = "character name (Surena)" , status = "ignored" }
-WordHunterWoW_Dictionary_DE["caleesy"] = { word = "Caleesy", translation = "Caleesy", note = "" }
+WordHunterWoW_Dictionary_DE["caleesy"] = { word = "Caleesy", translation = "Caleesy", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["calen"] = { word = "Calen", translation = "Calen", note = "proper name, character", status = "ignored" }
 WordHunterWoW_Dictionary_DE["caleras"] = { word = "Caleras", translation = "Caleras", note = "proper name, likely NPC or location", status = "ignored" }
 WordHunterWoW_Dictionary_DE["calesthris"] = { word = "Calesthris", translation = "Calesthris", note = "" }
@@ -15450,7 +15450,7 @@ WordHunterWoW_Dictionary_DE["cyrixia"] = { word = "Cyrixia", translation = "Cyri
 WordHunterWoW_Dictionary_DE["cyrukh"] = { word = "Cyrukh", translation = "Cyrukh", note = "" }
 WordHunterWoW_Dictionary_DE["cyrukhs"] = { word = "Cyrukhs", translation = "Cyrukhs", note = "" }
 WordHunterWoW_Dictionary_DE["cyrus"] = { word = "Cyrus", translation = "Cyrus", note = "NPC name; Greek origin (κῦρος)" , status = "ignored" }
-WordHunterWoW_Dictionary_DE["d'bynn"] = { word = "D'Bynn", translation = "D'Bynn", note = "" }
+WordHunterWoW_Dictionary_DE["d'bynn"] = { word = "D'Bynn", translation = "D'Bynn", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["d'bynns"] = { word = "D'Bynns", translation = "D'Bynns", note = "" }
 WordHunterWoW_Dictionary_DE["d'kaan"] = { word = "D'kaan", translation = "D'kaan", note = "proper name; military rank title; keep unchanged", status = "ignored" }
 WordHunterWoW_Dictionary_DE["d'lom"] = { word = "D'lom", translation = "D'lom", note = "" }
@@ -15466,7 +15466,7 @@ WordHunterWoW_Dictionary_DE["da"] = { word = "da", translation = "there; then", 
 WordHunterWoW_Dictionary_DE["da'jul"] = { word = "Da'jul", translation = "Da'jul", note = "" }
 WordHunterWoW_Dictionary_DE["da'juls"] = { word = "Da'juls", translation = "Da'juls", note = "" }
 WordHunterWoW_Dictionary_DE["da'ka"] = { word = "Da'ka", translation = "Da'ka", note = "proper name; king; keep unchanged", status = "ignored" }
-WordHunterWoW_Dictionary_DE["da'kani"] = { word = "Da'kani", translation = "Da'kani", note = "" }
+WordHunterWoW_Dictionary_DE["da'kani"] = { word = "Da'kani", translation = "Da'kani", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["da'kaninappel"] = { word = "Da'kaninappel", translation = "Da'kaninappel", note = "" }
 WordHunterWoW_Dictionary_DE["da'kash"] = { word = "Da'kash", translation = "Da’kash", note = "" }
 WordHunterWoW_Dictionary_DE["da'rai"] = { word = "Da'rai", translation = "Da'rai", note = "proper name; the straight apostrophe follows the source spelling", status = "ignored" }
@@ -15481,7 +15481,7 @@ WordHunterWoW_Dictionary_DE["dabeihabt"] = { word = "dabeihabt", translation = "
 WordHunterWoW_Dictionary_DE["dabeisein"] = { word = "dabeisein", translation = "be there", note = "dabei sein = be present or take part" }
 WordHunterWoW_Dictionary_DE["dabeistehen"] = { word = "dabeistehen", translation = "stand by", note = "dabeistehen = stand by, usually without intervening" }
 WordHunterWoW_Dictionary_DE["dabeizuhaben"] = { word = "dabeizuhaben", translation = "to have with you", note = "separable prefix verb; bring rope for safety" }
-WordHunterWoW_Dictionary_DE["dabir'ee"] = { word = "Dabir'ee", translation = "Dabir'ee", note = "" }
+WordHunterWoW_Dictionary_DE["dabir'ee"] = { word = "Dabir'ee", translation = "Dabir'ee", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["dabiri"] = { word = "Dabiri", translation = "Dabiri", note = "" }
 WordHunterWoW_Dictionary_DE["dableiben"] = { word = "dableiben", translation = "stay there", note = "from 'da' (there) + 'bleiben' (to stay); remain in that location" }
 WordHunterWoW_Dictionary_DE["dabyrie"] = { word = "Dabyrie", translation = "Dabyrie", note = "" }
@@ -15526,7 +15526,7 @@ WordHunterWoW_Dictionary_DE["dagewesen"] = { word = "dagewesen", translation = "
 WordHunterWoW_Dictionary_DE["dagewesenen"] = { word = "dagewesenen", translation = "unprecedented; never before seen", note = "never dagewesener (superlative adjective) = unprecedented/unheard of" }
 WordHunterWoW_Dictionary_DE["dagewesener"] = { word = "dagewesener", translation = "unprecedented", note = "dagewesen (past participle of dasein) = unprecedented; superlative sense" }
 WordHunterWoW_Dictionary_DE["dagg"] = { word = "Dagg", translation = "Dagg", note = "" }
-WordHunterWoW_Dictionary_DE["dagg'thol"] = { word = "Dagg'thol", translation = "Dagg'thol", note = "" }
+WordHunterWoW_Dictionary_DE["dagg'thol"] = { word = "Dagg'thol", translation = "Dagg'thol", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["daggs"] = { word = "Daggs", translation = "Daggs", note = "" }
 WordHunterWoW_Dictionary_DE["daglir"] = { word = "Daglir", translation = "Daglir", note = "" }
 WordHunterWoW_Dictionary_DE["daglirs"] = { word = "Daglirs", translation = "Daglirs", note = "" }
@@ -15595,7 +15595,7 @@ WordHunterWoW_Dictionary_DE["daisylein"] = { word = "Daisylein", translation = "
 WordHunterWoW_Dictionary_DE["dajik"] = { word = "Dajik", translation = "Dajik", note = "" }
 WordHunterWoW_Dictionary_DE["dajiks"] = { word = "Dajiks", translation = "Dajik's", note = "possessive form of the name Dajik; the -s means belonging to Dajik" }
 WordHunterWoW_Dictionary_DE["dak"] = { word = "Dak", translation = "Dak", note = "" }
-WordHunterWoW_Dictionary_DE["dak'zor"] = { word = "Dak'zor", translation = "Dak'zor", note = "" }
+WordHunterWoW_Dictionary_DE["dak'zor"] = { word = "Dak'zor", translation = "Dak'zor", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["dal"] = { word = "Dal", translation = "Dal", note = "proper name (furbolg or location)", status = "ignored" }
 WordHunterWoW_Dictionary_DE["dalar"] = { word = "Dalar", translation = "Dalar", note = "" }
 WordHunterWoW_Dictionary_DE["dalaran"] = { word = "Dalaran", translation = "Dalaran", note = "official WoW proper noun; major arcane city", status = "ignored" }
@@ -15778,8 +15778,8 @@ WordHunterWoW_Dictionary_DE["dao"] = { word = "Dao", translation = "Dao", note =
 WordHunterWoW_Dictionary_DE["dap"] = { word = "dap", translation = "dap", note = "" }
 WordHunterWoW_Dictionary_DE["daphne"] = { word = "Daphne", translation = "Daphne", note = "NPC name" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["dar"] = { word = "dar", translation = "there; (darstellen: to represent)", note = "particle of separable verb darstellen" }
-WordHunterWoW_Dictionary_DE["dar'gud"] = { word = "Dar'gud", translation = "Dar'gud", note = "" }
-WordHunterWoW_Dictionary_DE["dar'guds"] = { word = "Dar'guds", translation = "Dar'guds", note = "" }
+WordHunterWoW_Dictionary_DE["dar'gud"] = { word = "Dar'gud", translation = "Dar'gud", note = "", status = "ignored" }
+WordHunterWoW_Dictionary_DE["dar'guds"] = { word = "Dar'guds", translation = "Dar'guds", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["dar'kahns"] = { word = "Dar'kahns", translation = "Dar'kahns", note = "" }
 WordHunterWoW_Dictionary_DE["dar'khan"] = { word = "Dar'Khan", translation = "Dar'Khan", note = "WoW proper name", status = "ignored" }
 WordHunterWoW_Dictionary_DE["dar'khans"] = { word = "Dar'Khans", translation = "Dar'Khans", note = "" }
@@ -15806,7 +15806,7 @@ WordHunterWoW_Dictionary_DE["darbringt"] = { word = "darbringt", translation = "
 WordHunterWoW_Dictionary_DE["darbringung"] = { word = "Darbringung", translation = "offering", note = "religious gift; lowercase" }
 WordHunterWoW_Dictionary_DE["darbt"] = { word = "darbt", translation = "starves; suffers want", note = "3rd person singular of darben; archaic/poetic" }
 WordHunterWoW_Dictionary_DE["darcy"] = { word = "Darcy", translation = "Darcy", note = "proper name (NPC corpse)", status = "ignored" }
-WordHunterWoW_Dictionary_DE["dardosh"] = { word = "Dardosh", translation = "Dardosh", note = "" }
+WordHunterWoW_Dictionary_DE["dardosh"] = { word = "Dardosh", translation = "Dardosh", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["darean"] = { word = "Darean", translation = "Darean", note = "" }
 WordHunterWoW_Dictionary_DE["darenis"] = { word = "Darenis", translation = "Darenis", note = "" }
 WordHunterWoW_Dictionary_DE["darf"] = { word = "darf", translation = "may", note = "modal verb: permission or allowance" }
@@ -15898,7 +15898,7 @@ WordHunterWoW_Dictionary_DE["darunga"] = { word = "Darunga", translation = "Daru
 WordHunterWoW_Dictionary_DE["darunter"] = { word = "darunter", translation = "underneath; beneath; among them", note = "darunter can mean physically under or figuratively 'among those'" }
 WordHunterWoW_Dictionary_DE["daruntergemischt"] = { word = "daruntergemischt", translation = "mixed in", note = "darunter (in/among it) + gemischt (mixed)" }
 WordHunterWoW_Dictionary_DE["darunterlaufen"] = { word = "darunterlaufen", translation = "run underneath; catch", note = "under (darunter) + run (laufen)" }
-WordHunterWoW_Dictionary_DE["daruukhan"] = { word = "Daruukhan", translation = "Daruukhan", note = "" }
+WordHunterWoW_Dictionary_DE["daruukhan"] = { word = "Daruukhan", translation = "Daruukhan", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["daryl"] = { word = "Daryl", translation = "Daryl", note = "proper name; NPC hunter; keep unchanged", status = "ignored" }
 WordHunterWoW_Dictionary_DE["daryn"] = { word = "Daryn", translation = "Daryn", note = "NPC name" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["darzubieten"] = { word = "darzubieten", translation = "to present; to offer", note = "dar (there) + zu (to) + bieten (offer); infinitive form" }
@@ -15970,9 +15970,9 @@ WordHunterWoW_Dictionary_DE["datenwiederherstellungsprozess"] = { word = "Datenw
 WordHunterWoW_Dictionary_DE["datenzelle"] = { word = "Datenzelle", translation = "data cell; data core", note = "daten (data) + zelle (cell); technical storage unit" }
 WordHunterWoW_Dictionary_DE["datenzylinder"] = { word = "Datenzylinder", translation = "data cylinder", note = "daten (data) + Zylinder (cylinder)" }
 WordHunterWoW_Dictionary_DE["datenübermittlung"] = { word = "Datenübermittlung", translation = "data transmission", note = "Daten (data) + Übermittlung (transmission)" }
-WordHunterWoW_Dictionary_DE["dath'remar"] = { word = "Dath'Remar", translation = "Dath'Remar", note = "" }
+WordHunterWoW_Dictionary_DE["dath'remar"] = { word = "Dath'Remar", translation = "Dath'Remar", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["dathric"] = { word = "Dathric", translation = "Dathric", note = "combat mage NPC" , status = "ignored" }
-WordHunterWoW_Dictionary_DE["dathrics"] = { word = "Dathrics", translation = "Dathrics", note = "" }
+WordHunterWoW_Dictionary_DE["dathrics"] = { word = "Dathrics", translation = "Dathrics", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["dathris"] = { word = "Dathris", translation = "Dathris", note = "" }
 WordHunterWoW_Dictionary_DE["dathrohan"] = { word = "Dathrohan", translation = "Dathrohan", note = "proper name (orc warlord, Scarlet Crusade)", status = "ignored" }
 WordHunterWoW_Dictionary_DE["datiert"] = { word = "datiert", translation = "dated", note = "past participle of datieren (to date)" }
@@ -16168,7 +16168,7 @@ WordHunterWoW_Dictionary_DE["deepshadow"] = { word = "Deepshadow", translation =
 WordHunterWoW_Dictionary_DE["deesak"] = { word = "Deesak", translation = "Deesak", note = "" }
 WordHunterWoW_Dictionary_DE["deeskalation"] = { word = "Deeskalation", translation = "de-escalation", note = "reduction of tension or conflict; from English loanword" }
 WordHunterWoW_Dictionary_DE["deeskalieren"] = { word = "deeskalieren", translation = "de-escalate", note = "to reduce the intensity of a conflict" }
-WordHunterWoW_Dictionary_DE["deethuk"] = { word = "Deethuk", translation = "Deethuk", note = "" }
+WordHunterWoW_Dictionary_DE["deethuk"] = { word = "Deethuk", translation = "Deethuk", note = "", status = "ignored" }
 WordHunterWoW_Dictionary_DE["deez"] = { word = "Deez", translation = "Deez", note = "dwarf NPC; name pun" , status = "ignored" }
 WordHunterWoW_Dictionary_DE["defeat"] = { word = "Defeat", translation = "Defeat", note = "as a quest objective, defeat is an imperative meaning overcome or kill" }
 WordHunterWoW_Dictionary_DE["defekt"] = { word = "defekt", translation = "defective", note = "broken or malfunctioning" }
