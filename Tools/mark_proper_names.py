@@ -85,6 +85,18 @@ COMMON_SAME_TRANSLATION_DENY = {
     "aldrachi", "infernals",
     # Batch-8 audit FPs (issue #1): common noun / creature type, not names.
     "king", "val'kyr",
+    # Manual curator passes 20: fragments/generics kept learnable.
+    "god", "titan", "run", "song", "broken", "highlands",
+    "foothills", "glades", "booty", "harbor", "gorge", "grotto",
+    # Audit 30-50: materials + inflected plurals, not standalone names.
+    "argunite", "azerite", "vol'jins", "saurfangs", "dar'guds",
+    # Audit 30-52 dual-agent: material + base+s plurals (skill: flag plural
+    # only when singular base exists; zones suramar/azsuna and sarkareths kept).
+    "kaja'mit", "gilblins", "larions", "zanzils", "shadras", "krennas",
+    "adarrahs", "akareks", "arikaras", "dathrics", "fareeyas", "gaardouns",
+    "galaens", "grimkors", "issliruks", "ja'kuls", "velhans", "pa'kus",
+    # Audit 30-61: material + title/inflected/demonym, not standalone names.
+    "empyrium", "dromanin", "krazzwerken", "azerother",
 }
 
 PROPER_PATTERN = re.compile(r"^[A-ZÄÖÜ].*[A-Za-zÄÖÜäöüß'’\-]*$")
