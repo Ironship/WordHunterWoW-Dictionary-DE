@@ -90,11 +90,10 @@ COMMON_SAME_TRANSLATION_DENY = {
     "foothills", "glades", "booty", "harbor", "gorge", "grotto",
     # Audit 30-50: materials + inflected plurals, not standalone names.
     "argunite", "azerite", "vol'jins", "saurfangs", "dar'guds",
-    # Audit 30-52 dual-agent: material + base+s plurals (skill: flag plural
-    # only when singular base exists; zones suramar/azsuna and sarkareths kept).
-    "kaja'mit", "gilblins", "larions", "zanzils", "shadras", "krennas",
-    "adarrahs", "akareks", "arikaras", "dathrics", "fareeyas", "gaardouns",
-    "galaens", "grimkors", "issliruks", "ja'kuls", "velhans", "pa'kus",
+    # Audit 30-52: hard-evidence only. kaja'mit (material), gilblins/larions
+    # (countable species plurals). Base+s of unique NPCs/zones are names:
+    # -s alone is not plural proof (narvirs, sarkareths, suramars, azsunas).
+    "kaja'mit", "gilblins", "larions",
     # Audit 30-61: material + title/inflected/demonym, not standalone names.
     "empyrium", "dromanin", "krazzwerken", "azerother",
 }
