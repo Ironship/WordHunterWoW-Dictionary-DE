@@ -24454,7 +24454,7 @@
 {"key": "valkyra", "word": "Valkyra", "translation": "Valkyra", "note": "", "status": "ignored"}
 {"key": "vargoth", "word": "Vargoth", "translation": "Vargoth", "note": "", "status": "ignored"}
 {"key": "varzok", "word": "Varzok", "translation": "Varzok", "note": ""}
-{"key": "velhans", "word": "Velhans", "translation": "Velhans", "note": ""}
+{"key": "velhans", "word": "Velhans", "translation": "Velhans", "note": "", "status": "ignored"}
 {"key": "verblasst", "word": "verblasst", "translation": "faded", "note": ""}
 {"key": "verdorbene", "word": "verdorbene", "translation": "corrupted", "note": ""}
 {"key": "verdorren", "word": "verdorren", "translation": "wither", "note": ""}
@@ -26151,7 +26151,7 @@
 {"key": "zaela", "word": "Zaela", "translation": "Zaela", "note": ""}
 {"key": "zahlreicher", "word": "zahlreicher", "translation": "more numerous", "note": ""}
 {"key": "zanchul", "word": "Zanchul", "translation": "Zanchul", "note": "", "status": "ignored"}
-{"key": "zanzils", "word": "Zanzils", "translation": "Zanzils", "note": ""}
+{"key": "zanzils", "word": "Zanzils", "translation": "Zanzils", "note": "", "status": "ignored"}
 {"key": "zeilen", "word": "Zeilen", "translation": "lines", "note": ""}
 {"key": "zerquetschen", "word": "zerquetschen", "translation": "crush", "note": ""}
 {"key": "zovaal", "word": "Zovaal", "translation": "Zovaal", "note": ""}
@@ -27214,7 +27214,7 @@
 {"key": "verhängnis", "word": "Verhängnis", "translation": "Doom", "note": "from hängen (to hang) + -nis suffix; what hangs over one's head as fate"}
 {"key": "verschwendung", "word": "Verschwendung", "translation": "waste", "note": ""}
 {"key": "sha'naar", "word": "Sha'naar", "translation": "Sha'naar", "note": "", "status": "ignored"}
-{"key": "shadras", "word": "Shadras", "translation": "Shadras", "note": ""}
+{"key": "shadras", "word": "Shadras", "translation": "Shadras", "note": "", "status": "ignored"}
 {"key": "sinnlos", "word": "sinnlos", "translation": "pointless; futile", "note": ""}
 {"key": "skeptisch", "word": "skeptisch", "translation": "skeptical", "note": ""}
 {"key": "sklave", "word": "Sklave", "translation": "slave", "note": ""}
@@ -33174,7 +33174,7 @@
 {"key": "osul", "word": "Osul", "translation": "Osul", "note": "WoW location/area", "status": "ignored"}
 {"key": "oubliette", "word": "Oubliette", "translation": "oubliette", "note": "from French: a secret dungeon accessible only from above"}
 {"key": "outfit", "word": "Outfit", "translation": "outfit", "note": "English loanword (clothing ensemble)"}
-{"key": "pa'kus", "word": "Pa'kus", "translation": "Pa'kus", "note": ""}
+{"key": "pa'kus", "word": "Pa'kus", "translation": "Pa'kus", "note": "", "status": "ignored"}
 {"key": "pal'ea", "word": "Pal'ea", "translation": "Pal'ea", "note": "WoW location (ruined settlement)", "status": "ignored"}
 {"key": "paladins", "word": "Paladins", "translation": "Paladins", "note": "WoW class; English loanword"}
 {"key": "panthara", "word": "Panthara", "translation": "Panthara", "note": "WoW creature type", "status": "ignored"}
@@ -39293,7 +39293,7 @@
 {"key": "kreide", "word": "Kreide", "translation": "chalk", "note": "used for marking or writing"}
 {"key": "kreischende", "word": "Kreischende", "translation": "Screecher", "note": "singular; one who shrieks or screeches"}
 {"key": "krelnor", "word": "Krelnor", "translation": "Krelnor", "note": "", "status": "ignored"}
-{"key": "krennas", "word": "Krennas", "translation": "Krennas", "note": ""}
+{"key": "krennas", "word": "Krennas", "translation": "Krennas", "note": "", "status": "ignored"}
 {"key": "kreuzfahrerin", "word": "Kreuzfahrerin", "translation": "Crusader", "note": "feminine form of crusader"}
 {"key": "kribbeln", "word": "Kribbeln", "translation": "tingle", "note": "sensation of tingling or prickling"}
 {"key": "kriegsdruidin", "word": "Kriegsdruidin", "translation": "War Druid", "note": "compound noun: krieg (war) + druidin (female druid)"}
@@ -41762,7 +41762,7 @@
 {"key": "acteon", "word": "Acteon", "translation": "Acteon", "note": "NPC proper name; no translation needed", "status": "ignored"}
 {"key": "adalin", "word": "Adalin", "translation": "Adalin", "note": "NPC proper name (Adalin Hüfthoch); no translation needed", "status": "ignored"}
 {"key": "adana", "word": "Adana", "translation": "Adana", "note": ""}
-{"key": "adarrahs", "word": "Adarrahs", "translation": "Adarrahs", "note": ""}
+{"key": "adarrahs", "word": "Adarrahs", "translation": "Adarrahs", "note": "", "status": "ignored"}
 {"key": "addition", "word": "addition", "translation": "addition", "note": ""}
 {"key": "ade", "word": "Ade", "translation": "farewell", "note": "archaic or poetic farewell; Ade is often capitalized in German titles or place names"}
 {"key": "addles", "word": "Addles", "translation": "Addles", "note": ""}
@@ -41801,7 +41801,7 @@
 {"key": "airwyn", "word": "Airwyn", "translation": "Airwyn", "note": ""}
 {"key": "ak'zeloth", "word": "Ak'zeloth", "translation": "Ak'zeloth", "note": "", "status": "ignored"}
 {"key": "akarek", "word": "Akarek", "translation": "Akarek", "note": ""}
-{"key": "akareks", "word": "Akareks", "translation": "Akareks", "note": ""}
+{"key": "akareks", "word": "Akareks", "translation": "Akareks", "note": "", "status": "ignored"}
 {"key": "akhenet", "word": "Akhenet", "translation": "Akhenet", "note": "", "status": "ignored"}
 {"key": "aki", "word": "Aki", "translation": "Aki", "note": ""}
 {"key": "akintunde", "word": "Akintunde", "translation": "Akintunde", "note": "", "status": "ignored"}
@@ -42079,7 +42079,7 @@
 {"key": "arhdas", "word": "Arhdas", "translation": "Arhdas", "note": ""}
 {"key": "arik", "word": "Arik", "translation": "Arik", "note": ""}
 {"key": "arikara", "word": "Arikara", "translation": "Arikara", "note": "", "status": "ignored"}
-{"key": "arikaras", "word": "Arikaras", "translation": "Arikaras", "note": ""}
+{"key": "arikaras", "word": "Arikaras", "translation": "Arikaras", "note": "", "status": "ignored"}
 {"key": "arinor", "word": "Arinor", "translation": "Arinor", "note": ""}
 {"key": "aristokratie", "word": "Aristokratie", "translation": "aristocracy", "note": ""}
 {"key": "arkananomalie", "word": "Arkananomalie", "translation": "Arcane anomaly", "note": "arkan (arcane) + anomalie (anomaly); magical phenomenon"}
@@ -43070,7 +43070,7 @@
 {"key": "dasitzen", "word": "dasitzen", "translation": "sit there", "note": "separable verb: da- (there) + sitzen (sit)"}
 {"key": "datenkonsolen", "word": "Datenkonsolen", "translation": "Data consoles", "note": "Daten (data) + Konsolen (consoles)"}
 {"key": "dath'remar", "word": "Dath'Remar", "translation": "Dath'Remar", "note": "", "status": "ignored"}
-{"key": "dathrics", "word": "Dathrics", "translation": "Dathrics", "note": ""}
+{"key": "dathrics", "word": "Dathrics", "translation": "Dathrics", "note": "", "status": "ignored"}
 {"key": "datiert", "word": "datiert", "translation": "dated", "note": "past participle of datieren (to date)"}
 {"key": "datum", "word": "Datum", "translation": "Date", "note": "Latin origin; refers to calendar date or point in time"}
 {"key": "dauerhaftes", "word": "dauerhaftes", "translation": "permanent", "note": "Dauer (duration) + -haft (having quality of); means lasting or permanent"}
@@ -43882,7 +43882,7 @@
 {"key": "farbbäder", "word": "Farbbäder", "translation": "Color baths", "note": "can also mean dye baths"}
 {"key": "farbenfrohen", "word": "farbenfrohen", "translation": "colorful", "note": "adjective, plural accusative form"}
 {"key": "farbgebung", "word": "Farbgebung", "translation": "Coloring", "note": "or color scheme, design"}
-{"key": "fareeyas", "word": "Fareeyas", "translation": "Fareeyas", "note": ""}
+{"key": "fareeyas", "word": "Fareeyas", "translation": "Fareeyas", "note": "", "status": "ignored"}
 {"key": "farley", "word": "Farley", "translation": "Farley", "note": "NPC name", "status": "ignored"}
 {"key": "farmland", "word": "Farmland", "translation": "Farmland", "note": "English word in German text"}
 {"key": "farnees", "word": "Farnees", "translation": "Farnees", "note": ""}
@@ -44225,7 +44225,7 @@
 {"key": "füsschen", "word": "Füßchen", "translation": "little feet", "note": "füßchen: diminutive of fuß (foot); small or delicate feet"}
 {"key": "ga", "word": "ga", "translation": "ga", "note": ""}
 {"key": "gaaanz", "word": "Gaaanz", "translation": "very", "note": "gaaanz: emphatic elongated form of ganz (very/quite); intensifier"}
-{"key": "gaardouns", "word": "Gaardouns", "translation": "Gaardouns", "note": ""}
+{"key": "gaardouns", "word": "Gaardouns", "translation": "Gaardouns", "note": "", "status": "ignored"}
 {"key": "gabeln", "word": "Gabeln", "translation": "forks", "note": "gabeln: plural of gabel (fork); but context suggests combat/pikes not utensils"}
 {"key": "gabi", "word": "Gabi", "translation": "Gabi", "note": ""}
 {"key": "gackerbox", "word": "Gackerbox", "translation": "cackle box", "note": "gackerbox: gackern (to cackle) + box; amusing/noisy device"}
@@ -44233,7 +44233,7 @@
 {"key": "gahruj", "word": "Gahruj", "translation": "Gahruj", "note": ""}
 {"key": "gai", "word": "Gai", "translation": "Gai", "note": ""}
 {"key": "gaivan", "word": "Gaivan", "translation": "Gaivan", "note": ""}
-{"key": "galaens", "word": "Galaens", "translation": "Galaens", "note": ""}
+{"key": "galaens", "word": "Galaens", "translation": "Galaens", "note": "", "status": "ignored"}
 {"key": "galan", "word": "Galan", "translation": "Galan", "note": ""}
 {"key": "galana", "word": "Galana", "translation": "Galana", "note": ""}
 {"key": "galens", "word": "Galens", "translation": "Galen", "note": ""}
@@ -44786,7 +44786,7 @@
 {"key": "grillfleisch", "word": "Grillfleisch", "translation": "grilled meat", "note": "grill (grilled) + fleisch (meat)"}
 {"key": "grillenseele", "word": "Grillenseele", "translation": "cricket soul", "note": "grille (cricket) + seele (soul); spirit form"}
 {"key": "grillsen", "word": "Grillsen", "translation": "Grillsen", "note": ""}
-{"key": "grimkors", "word": "Grimkors", "translation": "Grimkors", "note": ""}
+{"key": "grimkors", "word": "Grimkors", "translation": "Grimkors", "note": "", "status": "ignored"}
 {"key": "grimmfeder", "word": "Grimmfeder", "translation": "Grimfeather", "note": "grimm (grim/stern) + feder (feather)"}
 {"key": "grimmfang", "word": "Grimmfang", "translation": "Grimmfang", "note": "grimm (grim) + fang (fang/tooth)", "status": "ignored"}
 {"key": "grimmhauers", "word": "Grimmhauers", "translation": "Grimmhauer", "note": ""}
@@ -45452,7 +45452,7 @@
 {"key": "isfar", "word": "Isfar", "translation": "Isfar", "note": ""}
 {"key": "ishas", "word": "Ishas", "translation": "Ishas", "note": ""}
 {"key": "iskars", "word": "Iskars", "translation": "Iskars'", "note": "possessive form"}
-{"key": "issliruks", "word": "Issliruks", "translation": "Issliruks", "note": ""}
+{"key": "issliruks", "word": "Issliruks", "translation": "Issliruks", "note": "", "status": "ignored"}
 {"key": "iteration", "word": "Iteration", "translation": "iteration", "note": ""}
 {"key": "ith'rix", "word": "Ith'rix", "translation": "Ith'rix", "note": "", "status": "ignored"}
 {"key": "itoka", "word": "Itoka", "translation": "Itoka", "note": ""}
@@ -45461,7 +45461,7 @@
 {"key": "ix'lar", "word": "Ix'lar", "translation": "Ix'lar", "note": "", "status": "ignored"}
 {"key": "iz'ken", "word": "Iz'ken", "translation": "Iz'ken", "note": "", "status": "ignored"}
 {"key": "izzy", "word": "Izzy", "translation": "Izzy", "note": ""}
-{"key": "ja'kuls", "word": "Ja'kuls", "translation": "Ja'kuls", "note": ""}
+{"key": "ja'kuls", "word": "Ja'kuls", "translation": "Ja'kuls", "note": "", "status": "ignored"}
 {"key": "jabari", "word": "Jabari", "translation": "Jabari", "note": ""}
 {"key": "jabra'kan", "word": "Jabra'kan", "translation": "Jabra'kan", "note": "", "status": "ignored"}
 {"key": "jackson", "word": "Jackson", "translation": "Jackson", "note": "", "status": "ignored"}
