@@ -1,0 +1,14 @@
+## Interface: 11200
+## Title: QuestWordHunter - German Dictionary
+## Notes: Optional German-English quest dictionary. Vanilla 1.12 build.
+## Author: Ironship
+## Version: 1.4.6-vanilla
+## Dependencies: WordHunterWoW
+
+Data\DictionaryDE_000.lua
+Data\DictionaryDE_001.lua
+Data\DictionaryDE_002.lua
+Data\DictionaryDE_003.lua
+Data\DictionaryDE_004.lua
+Data\DictionaryDE_005.lua
+Bootstrap.lua

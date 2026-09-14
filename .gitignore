@@ -1,0 +1,17 @@
+/Tools/keys.env
+/Data/cache/
+/Data/quest_ids.csv
+/release/
+/curseforge/
+*.zip
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# A subagent once wrote a scratch file here with its whole absolute path
+# flattened into the filename. Keep that out of the repo.
+*scratchpad*
+*AppData*
+__pycache__/
+
+.claude/
