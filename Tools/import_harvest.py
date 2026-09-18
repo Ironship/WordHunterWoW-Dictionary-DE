@@ -69,8 +69,23 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--saved", required=True, help="path to SavedVariables/WordHunterWoW.lua")
     ap.add_argument("--locale", help="override the locale recorded in the export")
-    ap.add_argument("--flavor", default="retail", choices=("retail", "classic", "sod"),
+    # "forever" is World of Warcraft: Forever, a Classic-line game on a client
+    # built from Retail's code. It reported itself as retail until 2026-09-18,
+    # and thirteen of its passages were merged into the retail corpus before the
+    # addon was taught to tell them apart -- the exact failure the comment below
+    # about sharing a file describes.
+    ap.add_argument("--flavor", default="retail",
+                    choices=("retail", "classic", "sod", "forever"),
                     help="which game's passages to import; passages from the others are left alone")
+    # Which corpus the selected rows are written to, when that is not the game
+    # they claim. One use, and it is not hypothetical: the Forever client
+    # stamped its own passages "retail" until the addon was taught to tell the
+    # games apart, and the exports already written to disk still say so. Rather
+    # than edit a saved variable by hand, the mislabelling is named here, in the
+    # command, where it is visible in a shell history afterwards.
+    ap.add_argument("--as-game", dest="as_game",
+                    choices=("retail", "classic", "sod", "forever"),
+                    help="file the selected rows under this game instead of --flavor")
     ap.add_argument("--dry-run", action="store_true")
     args = ap.parse_args()
 
@@ -113,10 +128,13 @@ def main():
     # Retail's corpus stays exactly where it has always been. Another game gets
     # a directory of its own: the same quest id means different text there, and
     # letting the two share a file would quietly corrupt both.
-    if args.flavor == "retail":
+    destination = args.as_game or args.flavor
+    if destination != args.flavor:
+        print(f"  filing {args.flavor}-labelled rows under {destination}")
+    if destination == "retail":
         corpus_path = ROOT / f"Data/cache/quests_{locale}.jsonl"
     else:
-        corpus_path = ROOT / f"Data/cache/{args.flavor}/quests_{locale}.jsonl"
+        corpus_path = ROOT / f"Data/cache/{destination}/quests_{locale}.jsonl"
     if not corpus_path.exists():
         sys.exit(f"no corpus at {corpus_path}")
     quests = {}
