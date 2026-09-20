@@ -12,9 +12,25 @@ The original **73,863** Retail words were read against the quest sentence they a
 
 `Höllenhorde` is Fel Horde, not "Hell Horde". `bekommen` means to receive, never to become. `hinter'm` is "behind the", not "behind me".
 
+## It speaks, too
+
+Click a word and hear it said. **104,274 recordings**, one for every entry,
+read from German by a neural voice and checked one by one against the word
+they were asked for. The reader is in this addon — five Lua files and
+`sounds/` — so there is nothing else to install and no separate engine to
+find.
+
+If you have the older separate downloads, remove them: the *German Voiceover*
+engine addon and the *Voiceover: Words* pack are both inside this one now, and
+two packs claiming the same words is not defined.
+
+Quest narration is a different thing and still comes in its own packs, one per
+group of expansions — this covers single words only.
+
 ## Install
 
-Unzip into `_retail_\Interface\AddOns\` and restart the game.
+Unzip into `_retail_\Interface\AddOns\` and restart the game. It is about
+816 MB, nearly all of it the recordings.
 
 You need:
 
@@ -29,7 +45,22 @@ There are packs for [French](https://github.com/Ironship/WordHunterWoW-Dictionar
 
 Want English quest text beside the original as well? That is [English Quest Panel](https://github.com/Ironship/WordHunterWoW-ENPanel).
 
-Retail 12.1 and Classic Era. GPL v3 — see `LICENSE`.
+Retail 12.1, Classic Era and World of Warcraft: Forever. GPL v3 — see
+`LICENSE`; the audio carries CC BY-NC 4.0, which `NOTICE` sets out.
+
+## Where the audio comes from, and the one rule about it
+
+The master is [WordHunterWoW-Voice-DE-Words](https://github.com/Ironship/WordHunterWoW-Voice-DE-Words),
+which is what the repair passes write to. The copy here is assembled by
+`Tools/put_voice_in_dictionary.py` in the workspace, which also writes
+`Part.lua` and both manifests.
+
+So the same recordings live in two repositories, and a clip repaired in one
+and not the other is a fault nothing reports — the word simply says something
+other than the corpus says it should. **After any repair pass, run that tool
+again with `--sync`.** It copies only what differs, removes what the master no
+longer has, and checks 300 dictionary words against the path the engine would
+ask for before it finishes.
 
 ## Rebuild (maintainers)
 
