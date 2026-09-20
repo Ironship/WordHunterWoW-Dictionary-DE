@@ -1,10 +1,18 @@
-## Interface: 120100
-## Title: QuestWordHunter - German Dictionary
-## Notes: Optional German-English quest dictionary. Requires WordHunterWoW 1.6.0 or newer.
+## Interface: 120100, 16001
+## Title: QuestWordHunter - German Dictionary |cff59aefa+ Voice|r
+## Notes: German-English quest dictionary, and the German voice that speaks a word when you click it. The reader is built in.
 ## IconTexture: Interface\AddOns\WordHunterWoW-Dictionary-DE\icon
 ## Author: Ironship
-## Version: 1.5.0
+## Version: 2.0.0
+## SavedVariables: WordHunterWoWVoiceDB
 ## Dependencies: WordHunterWoW
 
 Data/DictionaryDE.lua
 Bootstrap.lua
+
+Naming.lua
+Talker.lua
+Voice.lua
+PlayButtons.lua
+Settings.lua
+Part.lua

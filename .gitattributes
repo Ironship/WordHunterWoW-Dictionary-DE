@@ -1,0 +1,6 @@
+# Audio is binary. Git works that out on its own -- an ogg has NUL bytes in the
+# first page -- but core.autocrlf is on globally on the machine this is built
+# from, and a line-ending conversion applied to 104,274 clips would be silent
+# and total. Said out loud rather than left to detection.
+*.ogg binary
+*.tga binary
