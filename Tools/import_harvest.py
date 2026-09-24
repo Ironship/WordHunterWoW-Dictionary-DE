@@ -34,9 +34,7 @@ def read_blob(saved_path):
     text = pathlib.Path(saved_path).read_text(encoding="utf-8", errors="replace")
     match = BLOB.search(text)
     if not match:
-        sys.exit(f"no WordHunterWoWCorpusExport in {saved_path}\n"
-                 "Run /whw harvest export in game, then log out or /reload so the "
-                 "file is written.")
+        return None, []
     # The value is a Lua string literal; only the escapes Lua itself emits matter.
     raw = match.group(1).replace('\\"', '"').replace("\\\\", "\\").replace("\\n", "\n")
     # WHC1 predates Classic and names no game: everything in one is Retail,
@@ -65,6 +63,44 @@ def read_blob(saved_path):
     return locale, entries
 
 
+# One collected row as Harvest.lua keeps it before any export: a brace block of
+# quoted keys holding kind, id, text and flavor.
+ROW = re.compile(r"\{([^{}]*)\}", re.S)
+FIELD = re.compile(r'\["(\w+)"\]\s*=\s*(?:"((?:[^"\\]|\\.)*)"|(-?\d+))')
+LOCALE = re.compile(r'\["byLocale"\]\s*=\s*\{\s*\["(\w+)"\]\s*=\s*\{')
+
+
+def read_table(saved_path):
+    """The same rows, read from WordHunterWoWCorpus itself.
+
+    The export is one step the player has to remember, and on Forever it may be
+    the only chance: that client has dropped account-wide saved variables at
+    load, so the table can be gone by the next session. What the game wrote to
+    disk is still the whole collection, so it is read directly when there is no
+    export. Only the first locale in the table is read -- the one the player was
+    learning -- and --locale does not change that.
+    """
+    text = pathlib.Path(saved_path).read_text(encoding="utf-8", errors="replace")
+    start = text.find("WordHunterWoWCorpus = {")
+    if start < 0:
+        return None, []
+    text = text[start:]
+    end = text.find("\nWordHunterWoWCorpusExport")
+    if end > 0:
+        text = text[:end]
+    locale = LOCALE.search(text)
+    entries = []
+    for block in ROW.finditer(text):
+        row = {}
+        for f in FIELD.finditer(block.group(1)):
+            row[f.group(1)] = f.group(2) if f.group(2) is not None else int(f.group(3))
+        if not {"kind", "id", "text"} <= set(row):
+            continue
+        passage = row["text"].replace('\\"', '"').replace("\\n", "\n").replace("\\\\", "\\")
+        entries.append((row["kind"], int(row["id"] or 0), row.get("flavor", "retail"), passage))
+    return (locale.group(1) if locale else None), entries
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--saved", required=True, help="path to SavedVariables/WordHunterWoW.lua")
@@ -90,6 +126,14 @@ def main():
     args = ap.parse_args()
 
     locale, entries = read_blob(args.saved)
+    if not entries:
+        locale, entries = read_table(args.saved)
+        if entries:
+            print("  no export in the file; reading the collection table instead")
+    if not entries:
+        sys.exit(f"nothing collected in {args.saved}\n"
+                 "Turn it on with /whw harvest on, play, then log out or /reload "
+                 "so the file is written.")
     if args.locale:
         locale = args.locale
 
@@ -99,8 +143,14 @@ def main():
     # import and became dictionary candidates. See harvest_filters for why each
     # check is as blunt as it is.
     names = character_names(args.saved)
+    folded_names = {n.casefold() for n in names}
     kept, dropped_lang, redacted = [], 0, 0
     for kind, quest_id, flavor, text in entries:
+        # A word row is the name itself when the addon's own guard missed it,
+        # which it did on Forever: "Aryo" and "ARYO" both arrived as vocabulary.
+        if kind == "word" and text.casefold() in folded_names:
+            redacted += 1
+            continue
         if kind != "word":
             if not looks_german(text):
                 dropped_lang += 1

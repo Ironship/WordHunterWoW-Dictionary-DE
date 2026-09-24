@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-import argparse, json, pathlib
+import argparse, json, pathlib, re
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 
@@ -30,6 +30,24 @@ if wordlist.exists() and not args.all:
     live = {json.loads(line)["key"]
             for line in wordlist.read_text(encoding="utf-8").splitlines()
             if line.strip()}
+    # Forever's quests are a corpus of their own -- import_harvest.py files them
+    # apart from Retail's, which the word list is built from -- and a word met
+    # only there is just as live. Without this a name from Forever (Gozwin is
+    # Gozwin) reads as an English leftover and never ships.
+    forever = ROOT / "Data/cache/forever"
+    token = re.compile(r"[^\W\d_]+(?:[-'’][^\W\d_]+)*", re.UNICODE)
+    corpus = forever / "quests_deDE.jsonl"
+    if corpus.exists():
+        for line in corpus.read_text(encoding="utf-8").splitlines():
+            if line.strip():
+                quest = json.loads(line)
+                for value in quest.values():
+                    if isinstance(value, str):
+                        live.update(w.casefold() for w in token.findall(value))
+    unknown = forever / "unknown_words_deDE.txt"
+    if unknown.exists():
+        live.update(w.strip().casefold()
+                    for w in unknown.read_text(encoding="utf-8").splitlines() if w.strip())
 
 
 def english_leftover(record):
@@ -44,7 +62,13 @@ for source in (ROOT / "Data/cache/translations_de_en.jsonl",
                ROOT / "Data/CuratedDE.jsonl"):
     for line in source.read_text(encoding="utf-8").splitlines():
         r = json.loads(line)
-        if english_leftover(r):
+        # The test decides whether a key ships, not which record it ships with.
+        # A curated proper name translates to itself -- Ak'tar is Ak'tar -- and
+        # so reads as a leftover, while the machine translation of the same key
+        # ("Ak’tar") does not. Skipping the curated one then shipped the machine
+        # one in its place, without the status: 34 names lost it on a rebuild.
+        # So once a key is in, the curated record replaces it regardless.
+        if english_leftover(r) and r.get("key") not in records:
             continue
         # Harvest can pick up another client's quest text. Cyrillic is not German.
         if any(0x0400 <= ord(c) <= 0x04FF for c in r.get("key") or ""):
