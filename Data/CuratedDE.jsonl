@@ -109172,3 +109172,24 @@
 {"key": "umsturzes", "word": "Umsturzes", "translation": "upheaval; overthrow", "note": "genitive of Umsturz; um- + Sturz (fall); Zeit des Umsturzes = time of upheaval"}
 {"key": "verbandstechniken", "word": "Verbandstechniken", "translation": "bandaging techniques", "note": "Verband (bandage) + Technik (technique); the First Aid skill"}
 {"key": "westsanktum", "word": "Westsanktum", "translation": "Western Sanctum", "note": "arcane sanctum in Eversong Woods; also written Sanktum des Westens"}
+{"key": "insekteninnereien", "word": "Insekteninnereien", "translation": "insect innards; insect guts", "note": "Insekten (insects) + Innereien (innards)"}
+{"key": "thendalhain", "word": "Thendalhain", "translation": "Thendalhain", "note": "place name in WoW: Forever; Hain means grove, so probably Thendal Grove in English", "status": "ignored"}
+{"key": "vuldren", "word": "Vuldren", "translation": "Vuldren", "note": "creature species in WoW: Forever, living in Thendalhain; plural here: die Vuldren", "status": "ignored"}
+{"key": "zirrusfliegenkönigin", "word": "Zirrusfliegenkönigin", "translation": "Cirrus Fly Queen", "note": "named creature in Thendalhain; Zirrus (cirrus) + Fliegen (flies) + Königin (queen); the English name is probably Cirrus Fly Queen", "status": "ignored"}
+{"key": "unverzichtbarer", "word": "unverzichtbarer", "translation": "indispensable; essential", "note": "inflected form of unverzichtbar: ein unverzichtbarer Teil = an indispensable part"}
+{"key": "yann", "word": "Yann", "translation": "Yann", "note": "NPC name; the miner to see in Steelgrill's Depot, Dun Morogh", "status": "ignored"}
+{"key": "gozwins", "word": "Gozwins", "translation": "Gozwin's", "note": "genitive of Gozwin (NPC name): Gozwins Mechanikerlogbuch = Gozwin's mechanic's logbook", "status": "ignored"}
+{"key": "bechers", "word": "Bechers", "translation": "mug's; of the mug", "note": "genitive singular of Becher (mug; cup)"}
+{"key": "tognus", "word": "Tognus", "translation": "Tognus", "note": "NPC name; a blacksmith in Dun Morogh who teaches blacksmithing", "status": "ignored"}
+{"key": "gnomenbeute", "word": "Gnomenbeute", "translation": "gnome prey", "note": "Gnom (gnome) + Beute (prey; loot): the snow leopard dragged off its gnome prey"}
+{"key": "verschwommenen", "word": "verschwommenen", "translation": "blurred; blurry", "note": "inflected form of verschwommen: einen verschwommenen Schemen = a blurred shape"}
+{"key": "zahnratsche", "word": "Zahnratsche", "translation": "gear ratchet; toothed ratchet", "note": "Zahn (tooth) + Ratsche (ratchet); met without its sentence, so the meaning comes from the parts"}
+{"key": "schneeleopardenpirscher", "word": "Schneeleopardenpirscher", "translation": "snow leopard stalker", "note": "Schneeleopard (snow leopard) + Pirscher (stalker); the beast to kill in the quest Grund und Gozwin"}
+{"key": "iceflowsee", "word": "Iceflowsee", "translation": "Iceflow Lake", "note": "Iceflow Lake in Dun Morogh; the German client keeps the English name and adds See (lake)", "status": "ignored"}
+{"key": "reitmech", "word": "Reitmech", "translation": "riding mech; mechanical mount", "note": "Reit- (riding) + Mech (mech): a gnome's mechanical mount"}
+{"key": "winzigkleine", "word": "winzigkleine", "translation": "tiny; teeny-tiny", "note": "inflected form of winzigklein: winzig (tiny) + klein (small), doubled for emphasis"}
+{"key": "lederkleidung", "word": "Lederkleidung", "translation": "leather clothing", "note": "Leder (leather) + Kleidung (clothing)"}
+{"key": "wegschmelzen", "word": "wegschmelzen", "translation": "melt away", "note": "weg (away) + schmelzen (melt); separable verb"}
+{"key": "mechanikerlogbuch", "word": "Mechanikerlogbuch", "translation": "mechanic's logbook", "note": "Mechaniker (mechanic) + Logbuch (logbook); the item to recover in the quest Grund und Gozwin"}
+{"key": "gozwin", "word": "Gozwin", "translation": "Gozwin", "note": "NPC name; a gnome in Dun Morogh, from the quest Grund und Gozwin", "status": "ignored"}
+{"key": "trollproblem", "word": "Trollproblem", "translation": "troll problem", "note": "Troll (troll) + Problem (problem)"}
