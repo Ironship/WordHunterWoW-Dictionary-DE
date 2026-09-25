@@ -8,13 +8,13 @@ This is a ready-made German→English glossary built from real quest text, so th
 
 ## Hand-checked core
 
-The original **73,863** Retail words were read against the quest sentence they appear in — not machine output. The pack now holds **104,274** entries: Classic-only vocabulary and words collected in game sit on top of that reviewed core.
+The original **73,863** Retail words were read against the quest sentence they appear in — not machine output. The pack now holds **104,295** entries: Classic-only vocabulary and words collected in game sit on top of that reviewed core.
 
 `Höllenhorde` is Fel Horde, not "Hell Horde". `bekommen` means to receive, never to become. `hinter'm` is "behind the", not "behind me".
 
 ## It speaks, too
 
-Click a word and hear it said. **104,274 recordings**, one for every entry,
+Click a word and hear it said. **104,295 recordings**, one for every entry,
 read from German by a neural voice and checked one by one against the word
 they were asked for. The reader is in this addon — five Lua files and
 `sounds/` — so there is nothing else to install and no separate engine to
