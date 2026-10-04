@@ -1,11 +1,12 @@
 ## Interface: 120100, 120105, 16001
-## Title: QuestWordHunter - German Dictionary |cff59aefa+ Voice|r
-## Notes: German-English quest dictionary, and the German voice that speaks a word when you click it. The reader is built in.
+## Title: QuestWordHunter - German Dictionary |cff59aefa+ Voice + Quests|r
+## Notes: German-English dictionary, German word voice, and DE/EN Classic/Forever quest texts.
 ## IconTexture: Interface\AddOns\WordHunterWoW-Dictionary-DE\icon
 ## Author: Ironship
 ## Version: 2.0.1
 ## SavedVariables: WordHunterWoWVoiceDB
 ## Dependencies: WordHunterWoW
+## OptionalDeps: WordHunterWoW-ENPanel
 
 Data/DictionaryDE.lua
 Bootstrap.lua
@@ -16,3 +17,42 @@ Voice.lua
 PlayButtons.lua
 Settings.lua
 Part.lua
+
+QuestData/Data/classic/deDE_000.lua
+QuestData/Data/classic/deDE_001.lua
+QuestData/Data/classic/deDE_002.lua
+QuestData/Data/classic/deDE_003.lua
+QuestData/Data/classic/deDE_004.lua
+QuestData/Data/classic/deDE_005.lua
+QuestData/Data/classic/deDE_006.lua
+QuestData/Data/classic/deDE_007.lua
+QuestData/Data/classic/deDE_008.lua
+QuestData/Data/classic/deDE_009.lua
+QuestData/Data/classic/deDE_010.lua
+QuestData/Data/classic/deDE_011.lua
+QuestData/Data/classic/deDE_012.lua
+QuestData/Data/classic/deDE_013.lua
+QuestData/Data/classic/deDE_014.lua
+QuestData/Data/classic/deDE_015.lua
+QuestData/Data/classic/deDE_016.lua
+QuestData/Data/classic/enUS_000.lua
+QuestData/Data/classic/enUS_001.lua
+QuestData/Data/classic/enUS_002.lua
+QuestData/Data/classic/enUS_003.lua
+QuestData/Data/classic/enUS_004.lua
+QuestData/Data/classic/enUS_005.lua
+QuestData/Data/classic/enUS_006.lua
+QuestData/Data/classic/enUS_007.lua
+QuestData/Data/classic/enUS_008.lua
+QuestData/Data/classic/enUS_009.lua
+QuestData/Data/classic/enUS_010.lua
+QuestData/Data/classic/enUS_011.lua
+QuestData/Data/classic/enUS_012.lua
+QuestData/Data/classic/enUS_013.lua
+QuestData/Data/classic/enUS_014.lua
+QuestData/Data/classic/enUS_015.lua
+QuestData/Data/classic/enUS_016.lua
+QuestData/SeedForever.lua
+QuestData/Data/forever/deDE_000.lua
+QuestData/Data/forever/enUS_000.lua
+QuestData/Loader.lua

@@ -27,6 +27,23 @@ two packs claiming the same words is not defined.
 Quest narration is a different thing and still comes in its own packs, one per
 group of expansions — this covers single words only.
 
+## German quest library
+
+Classic Era and Forever quest texts are included in `QuestData/`, in German
+and English for comparison. No separate QuestData addon is needed. With the
+base addon's quest library, completed quests can be reopened to click and
+learn their words; its DE/EN selector keeps vocabulary in the chosen language.
+
+Forever has 4,267 German titles, including 3,592 quests with German descriptions
+and/or objectives. Missing passages stay explicitly unavailable or labelled
+as English references. The pinned Classic texts are complemented by native
+Forever cache records; quest 783 uses the original version without the later
+Retail Deathwing text. The original native text collected by the base addon
+has priority. See `QuestData/NOTICE` for the MIT source attribution.
+
+The dictionary loads after an installed English Quest Panel, so its old quest
+chunks cannot overwrite the authoritative Classic/Forever English records.
+
 ## Install
 
 Unzip into `_retail_\Interface\AddOns\` and restart the game. It is about
