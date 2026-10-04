@@ -13,11 +13,8 @@ if Addon.host ~= ADDON_NAME then return end
 -- quest's name, which sentence of how many is being spoken, and one transport
 -- button in the corner -- pause while it is speaking, play when it is not.
 --
--- This wore a close cross in the corner at first, which reads as "hide this
--- window" and so was never pressed to stop a voice -- and there was no way at
--- all to hear a passage a second time, which is the thing somebody learning the
--- language wants most. A pair of media-transport icons answers both without
--- putting a word of German on the frame.
+-- The close button stops the voice and dismisses the window; the transport
+-- buttons pause/resume it or replay the passage from the beginning.
 --
 -- It appears only while something is being read and takes no clicks otherwise,
 -- so it costs a player who never notices it nothing.
@@ -50,7 +47,7 @@ local WIDTH, HEIGHT = 300, 96
 local PORTRAIT = 58
 local BUTTON = 24
 
-local frame, model, portrait, title, subtitle, play, pause, restart
+local frame, model, portrait, title, subtitle, play, pause, restart, closeButton
 
 -- Which of the two transport buttons is on screen. Never both: the icon showing
 -- is the thing a click will do, which is the whole reason a media player draws
@@ -119,22 +116,28 @@ local function layout()
   portrait:ClearAllPoints()
   portrait:SetPoint("LEFT", pad, 0)
   for _, text in ipairs({ title, subtitle }) do
-    -- Stopping exactly where the button starts. The two are never allowed to
+    -- Stopping exactly where the buttons start. The three are never allowed to
     -- overlap, because a truncated quest name is tidy and a quest name printed
     -- through a button is not.
-    text:SetPoint("RIGHT", frame, "RIGHT", -(corner + BUTTON * 2 + 2), 0)
+    text:SetPoint("RIGHT", frame, "RIGHT", -(corner + BUTTON * 3 + 4), 0)
   end
-  -- Play and pause share a corner because only one of them is ever up. Restart
-  -- is a third thing and is always up, so it sits beside them rather than on
-  -- top of them -- and to their left, so the corner keeps holding whichever of
-  -- the pair is showing and nothing moves as they swap.
+  -- Close lives in the corner where players look for it, and it stops the
+  -- voice rather than merely hiding the frame: the old close cross read as
+  -- "hide this window" and was never pressed to stop anything, so this one
+  -- calls Addon.Stop -- silence plus HideTalker -- instead of HideTalker.
+  -- Play and pause share the middle slot because only one of them is ever up,
+  -- restart sits to their left, so nothing moves as they swap.
+  if closeButton then
+    closeButton:ClearAllPoints()
+    closeButton:SetPoint("TOPRIGHT", -corner, -corner)
+  end
   for _, button in ipairs({ play, pause }) do
     button:ClearAllPoints()
-    button:SetPoint("TOPRIGHT", -corner, -corner)
+    button:SetPoint("TOPRIGHT", -(corner + BUTTON + 2), -corner)
   end
   if restart then
     restart:ClearAllPoints()
-    restart:SetPoint("TOPRIGHT", -(corner + BUTTON + 2), -corner)
+    restart:SetPoint("TOPRIGHT", -(corner + (BUTTON + 2) * 2), -corner)
   end
 end
 
@@ -196,6 +199,12 @@ local function build()
   frame:SetSize(WIDTH, HEIGHT)
   frame:SetScale(textScale())
   frame:SetFrameStrata("HIGH")
+  -- First playback can create this frame after the reader has already dimmed
+  -- the game. Reuse the base's lift/restore logic whenever it becomes visible.
+  frame:SetScript("OnShow", function()
+    local base = WordHunterWoW_Addon
+    if base and base.ApplyReadingDim then base.ApplyReadingDim() end
+  end)
   frame:SetClampedToScreen(true)
   frame:SetMovable(true)
   frame:EnableMouse(true)
@@ -242,10 +251,12 @@ local function build()
   -- glance where a label has to be read; these sit on a frame that appears
   -- while a voice is talking, and nobody wants to read at that moment. Both are
   -- anchored to the same corner, because only one of them is ever on screen.
-  local function transport(tip, action)
-    local button = CreateFrame("Button", nil, frame)
+  local function transport(tip, action, template)
+    local button = CreateFrame("Button", nil, frame, template)
     button:SetSize(BUTTON, BUTTON)
-    button:SetHighlightTexture("Interface\\Buttons\\UI-Common-MouseHilight", "ADD")
+    if not template then
+      button:SetHighlightTexture("Interface\\Buttons\\UI-Common-MouseHilight", "ADD")
+    end
     button:SetScript("OnClick", action)
     button:SetScript("OnEnter", function(self)
       if not GameTooltip then return end
@@ -269,6 +280,9 @@ local function build()
   local arrow = play:CreateTexture(nil, "ARTWORK")
   arrow:SetAllPoints()
   arrow:SetTexture("Interface\\Buttons\\UI-SpellbookIcon-NextPage-Up")
+  -- Native 32px bitmaps include transparent margins; crop them so their
+  -- visible button bodies fill the same 24px slot as the close-button atlas.
+  arrow:SetTexCoord(2 / 32, 29 / 32, 3 / 32, 29 / 32)
 
   -- Read it again from the top. Addon.Replay already existed for the slash
   -- command; what it never had was a way to reach it while listening, which is
@@ -292,6 +306,7 @@ local function build()
   local again = restart:CreateTexture(nil, "ARTWORK")
   again:SetAllPoints()
   again:SetTexture("Interface\\Buttons\\UI-RotationLeft-Button-Up")
+  again:SetTexCoord(3 / 32, 29 / 32, 3 / 32, 28 / 32)
 
   -- Pause is drawn rather than loaded, because no pause texture ships with
   -- every client. WHITE8X8 is a plain white square the client will stretch to
@@ -304,12 +319,33 @@ local function build()
   pause = transport("Vorlesen pausieren", function()
     if Addon.Pause then Addon.Pause() end
   end)
-  for _, offset in ipairs({ -4, 4 }) do
+  for _, offset in ipairs({ -5, 5 }) do
     local bar = pause:CreateTexture(nil, "ARTWORK")
     bar:SetTexture("Interface\\Buttons\\WHITE8X8")
     bar:SetVertexColor(1, 0.82, 0)
-    bar:SetSize(5, 14)
+    bar:SetSize(6, BUTTON - 4)
     bar:SetPoint("CENTER", pause, "CENTER", offset, 0)
+  end
+
+  -- Close: stop the voice and take the frame with it. Pause leaves the frame
+  -- up by design and RestTalker keeps it up after the last sentence so the
+  -- passage can be heard again -- which is exactly why a frame with no way to
+  -- dismiss it sits on screen saying "fertig vorgelesen" with nowhere to go.
+  -- Use the same native close artwork as the base reader and library.
+  closeButton = transport("Vorlesen stoppen und schließen", function()
+    if Addon.Stop then Addon.Stop() end
+  end, "UIPanelCloseButton")
+  -- Keep the client's close artwork. Classic uses padded bitmaps rather than
+  -- the tightly packed Mainline atlas, so normalize only those texture UVs.
+  for _, getter in ipairs({ "GetNormalTexture", "GetPushedTexture", "GetDisabledTexture", "GetHighlightTexture" }) do
+    local texture = closeButton[getter] and closeButton[getter](closeButton)
+    if texture then
+      texture:ClearAllPoints()
+      texture:SetAllPoints(closeButton)
+      if getter ~= "GetHighlightTexture" and (not texture.GetAtlas or not texture:GetAtlas()) then
+        texture:SetTexCoord(6 / 32, 25 / 32, 7 / 32, 25 / 32)
+      end
+    end
   end
 
   layout()

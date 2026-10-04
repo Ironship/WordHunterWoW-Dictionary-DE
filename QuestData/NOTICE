@@ -1,0 +1,18 @@
+Quest text source: pfQuest by Eric Mauser (Shagu).
+Pinned revision: 104f35678ca39ab1fb78b655f815cc7016f5e0c8
+https://github.com/shagu/pfQuest/tree/104f35678ca39ab1fb78b655f815cc7016f5e0c8
+German: db/deDE/quests.lua
+English: db/enUS/quests.lua
+The original MIT copyright and permission notice is preserved in LICENSE.
+
+pfQuest identifies its Vanilla dataset as powered by VMaNGOS and targeting
+World of Warcraft Vanilla 1.12. This is an explicit Classic compatibility
+fallback on Forever, not a claim that every old quest is unchanged on Forever.
+
+Native Forever overrides: local deDE/enUS questcache.wdb records, captured
+2026-10-03 from the _classic_beta_ client. Source build and SHA256 are retained
+per record and in source-manifest.json. Native data takes precedence only in
+the Forever buckets. Classic data remains separate and unchanged.
+
+All game names and quest text originate from World of Warcraft by Blizzard
+Entertainment. No quest text is generated or machine translated by this pack.

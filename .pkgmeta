@@ -13,6 +13,7 @@ ignore:
   - art
   - curseforge
   - Tools
+  - QuestData/Tools
   - Data/cache
   - Data/CuratedDE.jsonl
   - Data/quest_ids.csv
