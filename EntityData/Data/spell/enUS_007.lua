@@ -410,8 +410,8 @@ entries[10836] = { ["name"] = "Shackle Shatter" }
 entries[10837] = { ["name"] = "Goblin Land Mine" }
 entries[10838] = { ["name"] = "First Aid", ["text"] = "15 yd range\nChanneled (8 sec cast)\nHeals 800 damage over 8 sec." }
 entries[10839] = { ["name"] = "First Aid", ["text"] = "15 yd range\nChanneled (8 sec cast)\nHeals 1104 damage over 8 sec." }
-entries[10840] = { ["name"] = "Mageweave Bandage", ["text"] = "3 sec cast\nReagents:\nMageweave Cloth\nRequiresFirst Aid\n(150)\nUse: Heals 800 damage over 8 sec." }
-entries[10841] = { ["name"] = "Heavy Mageweave Bandage", ["text"] = "3 sec cast\nReagents:\nMageweave Cloth (2)\nRequiresFirst Aid\n(175)\nUse: Heals 1104 damage over 8 sec." }
+entries[10840] = { ["name"] = "Mageweave Bandage", ["text"] = "3 sec cast\nReagents:\nMageweave Cloth\nRequires First Aid\n(150)\nUse: Heals 800 damage over 8 sec." }
+entries[10841] = { ["name"] = "Heavy Mageweave Bandage", ["text"] = "3 sec cast\nReagents:\nMageweave Cloth (2)\nRequires First Aid\n(175)\nUse: Heals 1104 damage over 8 sec." }
 entries[10842] = { ["name"] = "Mageweave Bandage", ["text"] = "100 yd range\n3 sec cast\nTeaches you how to make a Mageweave Bandage." }
 entries[10843] = { ["name"] = "Heavy Mageweave Bandage" }
 entries[10844] = { ["name"] = "Powerful Smelling Salts", ["text"] = "3 sec cast\nReagents:\nDeeprock Salt (4)\nTeaches you how to make Powerful Smelling Salts." }

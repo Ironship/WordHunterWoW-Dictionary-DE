@@ -90,11 +90,14 @@ def clean(raw, locale):
     text = html.unescape(raw or "")
     text = re.sub(r"\|H[^|]*\|h(.*?)\|h", r"\1", text, flags=re.S)
     text = re.sub(r"\|T.*?\|t|\|A.*?\|a", "", text, flags=re.S)
-    text = re.sub(r"\|c[0-9a-fA-F]{8}|\|r|\[q\d*\]", "", text)
+    text = re.sub(r"\|c[0-9a-fA-F]{8}|\|r", "", text)
+    text = re.sub(r"\[q\d*\]", " ", text)
     text = re.sub(r"<(?:br\s*/?|/p)>", "\n", text, flags=re.I)
     text = re.sub(r"</?(?:b|i|em|strong|span|div|p)(?:\s+[^>]*)?>", "", text, flags=re.I)
     # Source braces lay out columns; preserve the standard personal-text placeholders.
     text = re.sub(r"\{([^{}]*)\}", lambda m: m[0] if m[1] in ("name","race","class") else m[1], text)
+    text = re.sub(r"\{(?:name|race|class)\}|[{}]", lambda m: m[0] if len(m[0]) > 1 else "", text)
+    text = re.sub(r"\b(Benötigt|Requires)(?=[A-ZÄÖÜ])", r"\1 ", text)
     text = re.sub(r"\$[gG]([^:;]+):([^;]+);", lambda m: m[1] + " / " + m[2], text)
     text = re.sub(r"\|3-\d+\(([^()]*)\)", r"\1", text)
     text = re.sub(r"\$[bB](?![A-Za-z])", "\n", text)
@@ -271,6 +274,8 @@ def build(source, lua_command, corpus_path=None):
 
 def checks():
     assert clean('[q2]{Waffenhand} {Schwert}\n\n\n[q]Text.',"deDE")[0] == "Waffenhand Schwert\n\nText."
+    assert clean('Benötigt[q]Ingenieurskunst Schildhand} Schild {name}', 'deDE')[0] == 'Benötigt Ingenieurskunst Schildhand Schild {name}'
+    assert clean('BenötigtRunenschnitzen RequiresEngineering', 'deDE')[0] == 'Benötigt Runenschnitzen Requires Engineering'
     assert clean('$gHeld:Heldin; $n |3-1(Name)',"deDE")[0] == "Held / Heldin {name} Name"
     assert clean('Deals [ 26 * 8 * ( 1 ) ] damage and $3826%.',"enUS") == ('Deals [source value] damage and [source value]%.',True)
     assert clean('$null\n$null',"enUS") == ('',True)

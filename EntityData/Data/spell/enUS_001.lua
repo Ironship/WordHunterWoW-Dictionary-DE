@@ -834,10 +834,10 @@ entries[3269] = { ["name"] = "Blessing of Thule", ["text"] = "Instant\nIncreases
 entries[3271] = { ["name"] = "Fatigued" }
 entries[3273] = { ["name"] = "First Aid", ["text"] = "Instant\nAllows the creation and use bandages up to a potential skill of 75. The cloth used to make those bandages are found on humanoids in the world." }
 entries[3274] = { ["name"] = "First Aid", ["text"] = "Instant\nAllows the creation and use of bandages up to a potential skill of 150. The cloth used to make those bandages are found on humanoids in the world." }
-entries[3275] = { ["name"] = "Linen Bandage", ["text"] = "3 sec cast\nReagents:\nLinen Cloth\nRequiresFirst Aid\n(1)\nUse: Heals 66 damage over 6 sec." }
-entries[3276] = { ["name"] = "Heavy Linen Bandage", ["text"] = "3 sec cast\nReagents:\nLinen Cloth (2)\nRequiresFirst Aid\n(20)\nUse: Heals 114 damage over 6 sec." }
-entries[3277] = { ["name"] = "Wool Bandage", ["text"] = "3 sec cast\nReagents:\nWool Cloth\nRequiresFirst Aid\n(50)\nUse: Heals 161 damage over 7 sec." }
-entries[3278] = { ["name"] = "Heavy Wool Bandage", ["text"] = "3 sec cast\nReagents:\nWool Cloth (2)\nRequiresFirst Aid\n(75)\nUse: Heals 301 damage over 7 sec." }
+entries[3275] = { ["name"] = "Linen Bandage", ["text"] = "3 sec cast\nReagents:\nLinen Cloth\nRequires First Aid\n(1)\nUse: Heals 66 damage over 6 sec." }
+entries[3276] = { ["name"] = "Heavy Linen Bandage", ["text"] = "3 sec cast\nReagents:\nLinen Cloth (2)\nRequires First Aid\n(20)\nUse: Heals 114 damage over 6 sec." }
+entries[3277] = { ["name"] = "Wool Bandage", ["text"] = "3 sec cast\nReagents:\nWool Cloth\nRequires First Aid\n(50)\nUse: Heals 161 damage over 7 sec." }
+entries[3278] = { ["name"] = "Heavy Wool Bandage", ["text"] = "3 sec cast\nReagents:\nWool Cloth (2)\nRequires First Aid\n(75)\nUse: Heals 301 damage over 7 sec." }
 entries[3279] = { ["name"] = "Apprentice First Aid" }
 entries[3280] = { ["name"] = "Journeyman First Aid" }
 entries[3281] = { ["name"] = "Heavy Linen Bandage" }

@@ -410,8 +410,8 @@ entries[10836] = { ["name"] = "Fesselzertrümmerung" }
 entries[10837] = { ["name"] = "Goblin-Landmine" }
 entries[10838] = { ["name"] = "Erste Hilfe", ["text"] = "15 Meter Reichweite\nKanalisiert (Wirken in 8 sek.)\nHeilt 8 Sek. lang 800 Punkt(e) Schaden." }
 entries[10839] = { ["name"] = "Erste Hilfe", ["text"] = "15 Meter Reichweite\nKanalisiert (Wirken in 8 sek.)\nHeilt 8 Sek. lang 1104 Punkt(e) Schaden." }
-entries[10840] = { ["name"] = "Magiestoffverband", ["text"] = "Wirken in 3 sek.\nReagenzien:\nMagiestoff\nBenötigtErste Hilfe\n(150)\nBenutzen: Heilt 8 Sek. lang 800 Punkt(e) Schaden." }
-entries[10841] = { ["name"] = "Schwerer Magiestoffverband", ["text"] = "Wirken in 3 sek.\nReagenzien:\nMagiestoff (2)\nBenötigtErste Hilfe\n(175)\nBenutzen: Heilt 8 Sek. lang 1104 Punkt(e) Schaden." }
+entries[10840] = { ["name"] = "Magiestoffverband", ["text"] = "Wirken in 3 sek.\nReagenzien:\nMagiestoff\nBenötigt Erste Hilfe\n(150)\nBenutzen: Heilt 8 Sek. lang 800 Punkt(e) Schaden." }
+entries[10841] = { ["name"] = "Schwerer Magiestoffverband", ["text"] = "Wirken in 3 sek.\nReagenzien:\nMagiestoff (2)\nBenötigt Erste Hilfe\n(175)\nBenutzen: Heilt 8 Sek. lang 1104 Punkt(e) Schaden." }
 entries[10842] = { ["name"] = "Magiestoffverband", ["text"] = "100 Meter Reichweite\nWirken in 3 sek.\nLehrt Euch, wie man einen Magiestoffverband herstellt." }
 entries[10843] = { ["name"] = "Schwerer Magiestoffverband" }
 entries[10844] = { ["name"] = "Mächtiges Riechsalz", ["text"] = "Wirken in 3 sek.\nReagenzien:\nTiefsteinsalz (4)\nLehrt Euch die Herstellung von mächtigem Riechsalz." }

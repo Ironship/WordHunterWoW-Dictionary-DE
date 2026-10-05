@@ -218,7 +218,7 @@ entries[932] = { ["name"] = "Fel Steed Saddlebags", ["text"] = "Unique\n10 Slot 
 entries[933] = { ["name"] = "Large Rucksack", ["text"] = "10 Slot Bag" }
 entries[934] = { ["name"] = "Stalvan's Reaper", ["text"] = "Binds when equipped\nOne-Hand Axe\n50 - 94 Damage Speed 2.90\n(24.83 damage per second)\nDurability 90 / 90\nRequires Level 32\nChance on hit: Lowers all attributes of target by 2 for 1 min." }
 entries[935] = { ["name"] = "Night Watch Shortsword", ["text"] = "Binds when equipped\nOne-Hand Sword\n24 - 46 Damage Speed 2.60\n(13.46 damage per second)\n+4 Stamina\nDurability 65 / 65\nRequires Level 15" }
-entries[936] = { ["name"] = "Midnight Mace", ["text"] = "Binds when equipped\nOne-Hand Mace\n{45 - 84 Damage Speed 2.50 + 1 - 10 Shadow Damage\n(28.00 damage per second)\n+10 Shadow Resistance\nDurability 90 / 90\nRequires Level 33" }
+entries[936] = { ["name"] = "Midnight Mace", ["text"] = "Binds when equipped\nOne-Hand Mace\n45 - 84 Damage Speed 2.50 + 1 - 10 Shadow Damage\n(28.00 damage per second)\n+10 Shadow Resistance\nDurability 90 / 90\nRequires Level 33" }
 entries[937] = { ["name"] = "Black Duskwood Staff", ["text"] = "Binds when equipped\nTwo-Hand Staff\n75 - 113 Damage Speed 2.80\n(33.57 damage per second)\nDurability 100 / 100\nRequires Level 33\nChance on hit: Sends a shadowy bolt at the enemy causing 110 to 140 Shadow damage." }
 entries[938] = { ["name"] = "Muddy Journal Pages", ["text"] = "Quest Item\nUnique\n\"Although the pages are covered in mud, some words can be read.\"\n<Right Click to Read>" }
 entries[939] = { ["name"] = "A Bloodstained Journal Page", ["text"] = "Quest Item\nUnique\n\"Through thick blood a few words still remain legible.\"\n<Right Click to Read>" }
@@ -335,7 +335,7 @@ entries[1156] = { ["name"] = "Lavishly Jeweled Ring", ["text"] = "Binds when pic
 entries[1158] = { ["name"] = "Solid Metal Club", ["text"] = "Binds when picked up\nMain Hand Mace\n8 - 16 Damage Speed 2.70\n(4.44 damage per second)\nDurability 40 / 40" }
 entries[1159] = { ["name"] = "Militia Quarterstaff", ["text"] = "Binds when picked up\nTwo-Hand Staff\n6 - 9 Damage Speed 2.80\n(2.68 damage per second)\nDurability 35 / 35" }
 entries[1161] = { ["name"] = "Militia Shortsword", ["text"] = "Binds when picked up\nMain Hand Sword\n3 - 7 Damage Speed 2.50\n(2.00 damage per second)\nDurability 30 / 30" }
-entries[1164] = { ["name"] = "Sam's Tome", ["text"] = "Duration: 5 min (real time)\nRequiresArgent Dawn\n- Honored\n<Right Click to Read>" }
+entries[1164] = { ["name"] = "Sam's Tome", ["text"] = "Duration: 5 min (real time)\nRequires Argent Dawn\n- Honored\n<Right Click to Read>" }
 entries[1166] = { ["name"] = "Dented Buckler", ["text"] = "Off Hand Shield\n55 Armor\n1 Block\nDurability 35 / 35" }
 entries[1167] = { ["name"] = "Small Targe", ["text"] = "Off Hand Shield\n161 Armor\n3 Block\nDurability 45 / 45\nRequires Level 5" }
 entries[1168] = { ["name"] = "Skullflame Shield", ["text"] = "Binds when equipped\nOff Hand Shield\n2256 Armor\n40 Block\n+10 Fire Resistance\n+10 Shadow Resistance\nDurability 120 / 120\nRequires Level 54\nEquip: When struck in combat has a 3% chance of stealing 35 life from target enemy. (Proc chance: 3%)\nEquip: When struck in combat has a 1% chance of dealing 75 to 125 Fire damage to all targets around you. (Proc chance: 1%)" }
@@ -436,7 +436,7 @@ entries[1310] = { ["name"] = "Smith's Trousers", ["text"] = "Binds when picked u
 entries[1314] = { ["name"] = "Ghoul Fingers", ["text"] = "Binds when equipped\nHands Leather\n48 Armor\n+3 Strength\n+3 Agility\nDurability 25 / 25\nRequires Level 15" }
 entries[1315] = { ["name"] = "Lei of Lilies", ["text"] = "Binds when equipped\nNeck\n+10 Stamina\n+15 Spirit\nRequires Level 46\nUse: Conjures a Lily Root that restores health and mana when eaten. (1 Hour Cooldown)" }
 entries[1317] = { ["name"] = "Hardened Root Staff", ["text"] = "Binds when picked up\nTwo-Hand Staff\n44 - 67 Damage Speed 3.30\n(16.82 damage per second)\n+1 Strength\n+8 Spirit\nDurability 75 / 75" }
-entries[1318] = { ["name"] = "Night Reaver", ["text"] = "Binds when equipped\nTwo-Hand Axe\n{52 - 78 Damage Speed 3.30 + 1 - 5 Shadow Damage\n(20.61 damage per second)\nDurability 80 / 80\nRequires Level 18\nChance on hit: Sends a shadowy bolt at the enemy causing 60 to 90 Shadow damage." }
+entries[1318] = { ["name"] = "Night Reaver", ["text"] = "Binds when equipped\nTwo-Hand Axe\n52 - 78 Damage Speed 3.30 + 1 - 5 Shadow Damage\n(20.61 damage per second)\nDurability 80 / 80\nRequires Level 18\nChance on hit: Sends a shadowy bolt at the enemy causing 60 to 90 Shadow damage." }
 entries[1319] = { ["name"] = "Ring of Iron Will", ["text"] = "Binds when picked up\nFinger\n+4 Stamina\n+2 Spirit" }
 entries[1322] = { ["name"] = "Fishliver Oil", ["text"] = "Binds when picked up\nUse: Increases your attack speed by 10% for 30 sec. (2 Min Cooldown)" }
 entries[1325] = { ["name"] = "Daffodil Bouquet", ["text"] = "Quest Item\nUnique" }
@@ -548,7 +548,7 @@ entries[1478] = { ["name"] = "Scroll of Protection II", ["text"] = "Requires Lev
 entries[1479] = { ["name"] = "Salma's Oven Mitts", ["text"] = "Binds when picked up\nHands Cloth\n13 Armor\nDurability 16 / 16" }
 entries[1480] = { ["name"] = "Fist of the People's Militia", ["text"] = "Binds when picked up\nMain Hand Mace\n9 - 18 Damage Speed 1.60\n(8.44 damage per second)\n+2 Strength\nDurability 50 / 50" }
 entries[1481] = { ["name"] = "Grimclaw", ["text"] = "Binds when equipped\nOne-Hand Axe\n22 - 42 Damage Speed 2.00\n(16.00 damage per second)\nDurability 75 / 75\nRequires Level 20\nChance on hit: Sends a shadowy bolt at the enemy causing 30 Shadow damage." }
-entries[1482] = { ["name"] = "Shadowfang", ["text"] = "Binds when equipped\nMain Hand Sword\n{29 - 55 Damage Speed 2.70 + 4 - 8 Shadow Damage\n(17.78 damage per second)\nDurability 75 / 75\nRequires Level 19\nChance on hit: Sends a shadowy bolt at the enemy causing 30 Shadow damage." }
+entries[1482] = { ["name"] = "Shadowfang", ["text"] = "Binds when equipped\nMain Hand Sword\n29 - 55 Damage Speed 2.70 + 4 - 8 Shadow Damage\n(17.78 damage per second)\nDurability 75 / 75\nRequires Level 19\nChance on hit: Sends a shadowy bolt at the enemy causing 30 Shadow damage." }
 entries[1483] = { ["name"] = "Face Smasher", ["text"] = "Binds when equipped\nOne-Hand Mace\n25 - 48 Damage Speed 2.60\n(14.04 damage per second)\n+3 Strength\n+3 Stamina\nDurability 70 / 70\nRequires Level 16" }
 entries[1484] = { ["name"] = "Witching Stave", ["text"] = "Binds when equipped\nTwo-Hand Staff\n55 - 83 Damage Speed 3.60\n(19.17 damage per second)\n+8 Intellect\nDurability 80 / 80\nRequires Level 17\nEquip: Increases damage done by Shadow spells and effects by up to 11." }
 entries[1485] = { ["name"] = "Pitchfork", ["text"] = "Two-Hand Polearm\n29 - 45 Damage Speed 3.70\n(10.00 damage per second)\nDurability 75 / 75\nRequires Level 20" }
@@ -811,7 +811,7 @@ entries[1951] = { ["name"] = "Blackwater Cutlass", ["text"] = "Binds when equipp
 entries[1955] = { ["name"] = "Dragonmaw Chain Boots", ["text"] = "Binds when equipped\nFeet Mail\n130 Armor\n+3 Agility\n+6 Stamina\nDurability 50 / 50\nRequires Level 22" }
 entries[1956] = { ["name"] = "Faded Shadowhide Pendant", ["text"] = "Quest Item\nUnique\n\"The spell on this pendant has faded.\"" }
 entries[1958] = { ["name"] = "Petrified Shinbone", ["text"] = "Binds when equipped\nMain Hand Mace\n12 - 23 Damage Speed 2.00\n(8.75 damage per second)\n+2 Stamina\nDurability 50 / 50\nRequires Level 12" }
-entries[1959] = { ["name"] = "Cold Iron Pick", ["text"] = "Binds when equipped\nTwo-Hand Axe\n{27 - 41 Damage Speed 3.00 + 1 - 5 Frost Damage\n(12.33 damage per second)\n+2 Stamina\n+4 Spirit\nDurability 60 / 60\nRequires Level 12" }
+entries[1959] = { ["name"] = "Cold Iron Pick", ["text"] = "Binds when equipped\nTwo-Hand Axe\n27 - 41 Damage Speed 3.00 + 1 - 5 Frost Damage\n(12.33 damage per second)\n+2 Stamina\n+4 Spirit\nDurability 60 / 60\nRequires Level 12" }
 entries[1962] = { ["name"] = "Glowing Shadowhide Pendant", ["text"] = "Binds when picked up\nUnique\nThis Item Begins a Quest\nRequires Level 15\n\"This pendant glows with magic.\"" }
 entries[1965] = { ["name"] = "White Wolf Gloves", ["text"] = "Hands Leather\n33 Armor\nDurability 20 / 20\nRequires Level 5" }
 entries[1968] = { ["name"] = "Ogre's Monocle", ["text"] = "Quest Item\nUnique" }

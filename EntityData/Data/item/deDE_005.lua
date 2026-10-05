@@ -43,8 +43,8 @@ entries[7100] = { ["name"] = "Klebriges Sekret" }
 entries[7101] = { ["name"] = "Käferauge" }
 entries[7106] = { ["name"] = "Tierkreishandschuhe", ["text"] = "Wird beim Aufheben gebunden\nHände Stoff\n28 Rüstung\n+4 Intelligenz\n+7 Willenskraft\nHaltbarkeit 25 / 25" }
 entries[7107] = { ["name"] = "Gürtel der Sterne", ["text"] = "Wird beim Aufheben gebunden\nTaille Kette\n117 Rüstung\n+6 Stärke\n+6 Ausdauer\nHaltbarkeit 35 / 35" }
-entries[7108] = { ["name"] = "Infanterieschild", ["text"] = "Wird beim Anlegen gebunden\nSchildhand} Schild\n207 Rüstung\n4 Blocken\n<Zufällige Verzauberung>\nHaltbarkeit 45 / 45\nBenötigt Stufe 6" }
-entries[7109] = { ["name"] = "Pionierrundschild", ["text"] = "Schildhand} Schild\n135 Rüstung\n3 Blocken\nHaltbarkeit 40 / 40\nBenötigt Stufe 4" }
+entries[7108] = { ["name"] = "Infanterieschild", ["text"] = "Wird beim Anlegen gebunden\nSchildhand Schild\n207 Rüstung\n4 Blocken\n<Zufällige Verzauberung>\nHaltbarkeit 45 / 45\nBenötigt Stufe 6" }
+entries[7109] = { ["name"] = "Pionierrundschild", ["text"] = "Schildhand Schild\n135 Rüstung\n3 Blocken\nHaltbarkeit 40 / 40\nBenötigt Stufe 4" }
 entries[7110] = { ["name"] = "Silberfadenrüstung", ["text"] = "Wird beim Anlegen gebunden\nBrust Stoff\n44 Rüstung\n+4 Intelligenz\n+11 Willenskraft\nHaltbarkeit 70 / 70\nBenötigt Stufe 26" }
 entries[7111] = { ["name"] = "Nachthauchrüstung", ["text"] = "Wird beim Anlegen gebunden\nBrust Stoff\n49 Rüstung\n+8 Ausdauer\n+8 Intelligenz\n+8 Willenskraft\nHaltbarkeit 70 / 70\nBenötigt Stufe 32" }
 entries[7112] = { ["name"] = "Aurorarüstung", ["text"] = "Wird beim Anlegen gebunden\nBrust Stoff\n54 Rüstung\n+4 Ausdauer\n+15 Willenskraft\nHaltbarkeit 70 / 70\nBenötigt Stufe 36" }
@@ -55,7 +55,7 @@ entries[7116] = { ["name"] = "Erbstückdolch", ["text"] = "Wird beim Aufheben ge
 entries[7117] = { ["name"] = "Erbstückhammer", ["text"] = "Wird beim Aufheben gebunden\nWaffenhand Streitkolben\n12 - 23 Schaden Tempo 2.30\n(7.61 Schaden pro Sekunde)\n+1 Ausdauer\nHaltbarkeit 50 / 50\nKlassen: Krieger" }
 entries[7118] = { ["name"] = "Erbstückschwert", ["text"] = "Wird beim Aufheben gebunden\nWaffenhand Schwert\n11 - 21 Schaden Tempo 2.10\n(7.62 Schaden pro Sekunde)\n+1 Ausdauer\nHaltbarkeit 50 / 50\nKlassen: Krieger" }
 entries[7119] = { ["name"] = "Zuckender Fühler", ["text"] = "Questgegenstand\nDauer: 15 min\n\"Dieser Fühler zuckt nicht mehr lange.\"" }
-entries[7120] = { ["name"] = "Rugas Bollwerk", ["text"] = "Wird beim Aufheben gebunden\nSchildhand} Schild\n411 Rüstung\n7 Blocken\n+3 Stärke\nHaltbarkeit 65 / 65\nKlassen: Krieger" }
+entries[7120] = { ["name"] = "Rugas Bollwerk", ["text"] = "Wird beim Aufheben gebunden\nSchildhand Schild\n411 Rüstung\n7 Blocken\n+3 Stärke\nHaltbarkeit 65 / 65\nKlassen: Krieger" }
 entries[7126] = { ["name"] = "Rauchiger Eisenblock", ["text"] = "Questgegenstand" }
 entries[7127] = { ["name"] = "Pulverisierter Azurit", ["text"] = "Questgegenstand" }
 entries[7128] = { ["name"] = "Ungespaltener Satyrhuf", ["text"] = "Questgegenstand" }
@@ -71,7 +71,7 @@ entries[7148] = { ["name"] = "Goblin-Überbrückungskabel", ["text"] = "Schmuck\
 entries[7166] = { ["name"] = "Kupferdolch", ["text"] = "Einhändig Dolch\n5 - 10 Schaden Tempo 1.50\n(5.00 Schaden pro Sekunde)\nHaltbarkeit 30 / 30\nBenötigt Stufe 6" }
 entries[7170] = { ["name"] = "Twain Random Sword FOO", ["text"] = "Wird beim Anlegen gebunden\nZweihändig\n50 - 100 Schaden Tempo 0.50\n(150.00 Schaden pro Sekunde)\nBenötigt Stufe 15" }
 entries[7187] = { ["name"] = "Van Cleefs Stiefel", ["text"] = "Wird beim Aufheben gebunden\nFüße Leder\n59 Rüstung\n+6 Beweglichkeit\nHaltbarkeit 40 / 40\nBenötigt Stufe 20" }
-entries[7188] = { ["name"] = "Schild der Wache von Stormwind", ["text"] = "Wird beim Anlegen gebunden\nSchildhand} Schild\n478 Rüstung\n9 Blocken\n+2 Stärke\n+4 Ausdauer\nHaltbarkeit 75 / 75\nBenötigt Stufe 19" }
+entries[7188] = { ["name"] = "Schild der Wache von Stormwind", ["text"] = "Wird beim Anlegen gebunden\nSchildhand Schild\n478 Rüstung\n9 Blocken\n+2 Stärke\n+4 Ausdauer\nHaltbarkeit 75 / 75\nBenötigt Stufe 19" }
 entries[7189] = { ["name"] = "Goblin-Raketenstiefel", ["text"] = "Wird beim Anlegen gebunden\nFüße Stoff\n41 Rüstung\nHaltbarkeit 35 / 35\nBenutzen: Diese gefährlich aussehenden Stiefel erhöhen Euer Lauftempo 20 Sek. lang erheblich. Sie explodieren allerdings leicht, sind also mit Vorsicht zu verwenden. (5 Min Abklingzeit)" }
 entries[7190] = { ["name"] = "Versengte Raketenstiefel", ["text"] = "<Zum Öffnen rechtsklicken>" }
 entries[7191] = { ["name"] = "Verschmorte Verkabelung" }
@@ -129,8 +129,8 @@ entries[7326] = { ["name"] = "Thun'grims Axt", ["text"] = "Wird beim Aufheben ge
 entries[7327] = { ["name"] = "Thun'grims Dolch", ["text"] = "Wird beim Aufheben gebunden\nEinhändig Dolch\n9 - 17 Schaden Tempo 1.70\n(7.65 Schaden pro Sekunde)\n+1 Ausdauer\nHaltbarkeit 35 / 35\nKlassen: Krieger" }
 entries[7328] = { ["name"] = "Thun'grims Streitkolben", ["text"] = "Wird beim Aufheben gebunden\nWaffenhand Streitkolben\n12 - 23 Schaden Tempo 2.30\n(7.61 Schaden pro Sekunde)\n+1 Ausdauer\nHaltbarkeit 50 / 50\nKlassen: Krieger" }
 entries[7329] = { ["name"] = "Thun'grims Schwert", ["text"] = "Wird beim Aufheben gebunden\nWaffenhand Schwert\n11 - 21 Schaden Tempo 2.10\n(7.62 Schaden pro Sekunde)\n+1 Ausdauer\nHaltbarkeit 50 / 50\nKlassen: Krieger" }
-entries[7330] = { ["name"] = "Spitzelrundschild", ["text"] = "Wird beim Anlegen gebunden\nSchildhand} Schild\n628 Rüstung\n13 Blocken\n<Zufällige Verzauberung>\nHaltbarkeit 85 / 85\nBenötigt Stufe 28" }
-entries[7331] = { ["name"] = "Phalanxschild", ["text"] = "Wird beim Anlegen gebunden\nSchildhand} Schild\n645 Rüstung\n13 Blocken\n<Zufällige Verzauberung>\nHaltbarkeit 85 / 85\nBenötigt Stufe 29" }
+entries[7330] = { ["name"] = "Spitzelrundschild", ["text"] = "Wird beim Anlegen gebunden\nSchildhand Schild\n628 Rüstung\n13 Blocken\n<Zufällige Verzauberung>\nHaltbarkeit 85 / 85\nBenötigt Stufe 28" }
+entries[7331] = { ["name"] = "Phalanxschild", ["text"] = "Wird beim Anlegen gebunden\nSchildhand Schild\n645 Rüstung\n13 Blocken\n<Zufällige Verzauberung>\nHaltbarkeit 85 / 85\nBenötigt Stufe 29" }
 entries[7332] = { ["name"] = "Königliche Rüstung", ["text"] = "Wird beim Anlegen gebunden\nBrust Stoff\n59 Rüstung\n<Zufällige Verzauberung>\nHaltbarkeit 70 / 70\nBenötigt Stufe 40" }
 entries[7333] = { ["name"] = "Vorarbeiterpfeife", ["text"] = "Questgegenstand\nEinzigartig" }
 entries[7334] = { ["name"] = "Aufblühende Robe", ["text"] = "Wird beim Aufheben gebunden\nBrust Stoff\n41 Rüstung\n+9 Ausdauer\n+2 Intelligenz\nHaltbarkeit 70 / 70" }
@@ -242,9 +242,9 @@ entries[7459] = { ["name"] = "Ritterschulterstücke", ["text"] = "Wird beim Anle
 entries[7460] = { ["name"] = "Ritterumhang", ["text"] = "Wird beim Anlegen gebunden\nRücken\n23 Rüstung\n<Zufällige Verzauberung>\nBenötigt Stufe 29" }
 entries[7461] = { ["name"] = "Ritterarmschienen", ["text"] = "Wird beim Anlegen gebunden\nHandgelenke Kette\n95 Rüstung\n<Zufällige Verzauberung>\nHaltbarkeit 35 / 35\nBenötigt Stufe 31" }
 entries[7462] = { ["name"] = "Rittergurt", ["text"] = "Wird beim Anlegen gebunden\nTaille Kette\n123 Rüstung\n<Zufällige Verzauberung>\nHaltbarkeit 35 / 35\nBenötigt Stufe 32" }
-entries[7463] = { ["name"] = "Schildwachenrundschild", ["text"] = "Wird beim Anlegen gebunden\nSchildhand} Schild\n711 Rüstung\n15 Blocken\n<Zufällige Verzauberung>\nHaltbarkeit 85 / 85\nBenötigt Stufe 33" }
+entries[7463] = { ["name"] = "Schildwachenrundschild", ["text"] = "Wird beim Anlegen gebunden\nSchildhand Schild\n711 Rüstung\n15 Blocken\n<Zufällige Verzauberung>\nHaltbarkeit 85 / 85\nBenötigt Stufe 33" }
 entries[7464] = { ["name"] = "Glyphe der Beschwörung", ["text"] = "Questgegenstand\nEinzigartig\nBenutzen: Ruft mit dem Beschwörungskreis einen Leerwandler herbei. (3 Min Abklingzeit)" }
-entries[7465] = { ["name"] = "Ritterwappen", ["text"] = "Wird beim Anlegen gebunden\nSchildhand} Schild\n728 Rüstung\n16 Blocken\n<Zufällige Verzauberung>\nHaltbarkeit 85 / 85\nBenötigt Stufe 34" }
+entries[7465] = { ["name"] = "Ritterwappen", ["text"] = "Wird beim Anlegen gebunden\nSchildhand Schild\n728 Rüstung\n16 Blocken\n<Zufällige Verzauberung>\nHaltbarkeit 85 / 85\nBenötigt Stufe 34" }
 entries[7466] = { ["name"] = "Zinnoberband", ["text"] = "Wird beim Anlegen gebunden\nFinger\n<Zufällige Verzauberung>\nBenötigt Stufe 32" }
 entries[7467] = { ["name"] = "Zinnoberhalskette", ["text"] = "Wird beim Anlegen gebunden\nHals\n<Zufällige Verzauberung>\nBenötigt Stufe 30" }
 entries[7468] = { ["name"] = "Königliche Robe", ["text"] = "Wird beim Anlegen gebunden\nBrust Stoff\n59 Rüstung\n<Zufällige Verzauberung>\nHaltbarkeit 70 / 70\nBenötigt Stufe 40" }
@@ -274,8 +274,8 @@ entries[7491] = { ["name"] = "Hauptmannschulterschutz", ["text"] = "Wird beim An
 entries[7492] = { ["name"] = "Hauptmanns-Umhang", ["text"] = "Wird beim Anlegen gebunden\nRücken\n26 Rüstung\n<Zufällige Verzauberung>\nBenötigt Stufe 34" }
 entries[7493] = { ["name"] = "Hauptmanns-Armschienen", ["text"] = "Wird beim Anlegen gebunden\nHandgelenke Kette\n101 Rüstung\n<Zufällige Verzauberung>\nHaltbarkeit 35 / 35\nBenötigt Stufe 35" }
 entries[7494] = { ["name"] = "Kapitäns Taillenschutz", ["text"] = "Wird beim Anlegen gebunden\nTaille Kette\n132 Rüstung\n<Zufällige Verzauberung>\nHaltbarkeit 35 / 35\nBenötigt Stufe 36" }
-entries[7495] = { ["name"] = "Hauptmanns-Rundschild", ["text"] = "Wird beim Anlegen gebunden\nSchildhand} Schild\n1380 Rüstung\n20 Blocken\n<Zufällige Verzauberung>\nHaltbarkeit 85 / 85\nBenötigt Stufe 39" }
-entries[7496] = { ["name"] = "Feldplattenschild", ["text"] = "Wird beim Anlegen gebunden\nSchildhand} Schild\n1257 Rüstung\n19 Blocken\n<Zufällige Verzauberung>\nHaltbarkeit 85 / 85\nBenötigt Stufe 38" }
+entries[7495] = { ["name"] = "Hauptmanns-Rundschild", ["text"] = "Wird beim Anlegen gebunden\nSchildhand Schild\n1380 Rüstung\n20 Blocken\n<Zufällige Verzauberung>\nHaltbarkeit 85 / 85\nBenötigt Stufe 39" }
+entries[7496] = { ["name"] = "Feldplattenschild", ["text"] = "Wird beim Anlegen gebunden\nSchildhand Schild\n1257 Rüstung\n19 Blocken\n<Zufällige Verzauberung>\nHaltbarkeit 85 / 85\nBenötigt Stufe 38" }
 entries[7497] = { ["name"] = "Elfenbeinband", ["text"] = "Wird beim Anlegen gebunden\nFinger\n<Zufällige Verzauberung>\nBenötigt Stufe 35" }
 entries[7498] = { ["name"] = "Spitze von Gelkaks Schlüssel", ["text"] = "Questgegenstand\nEinzigartig" }
 entries[7499] = { ["name"] = "Mitte von Gelkaks Schlüssel", ["text"] = "Questgegenstand\nEinzigartig" }
@@ -310,8 +310,8 @@ entries[7532] = { ["name"] = "Kabalisten-Schiftung", ["text"] = "Wird beim Anleg
 entries[7533] = { ["name"] = "Kabalisten-Umhang", ["text"] = "Wird beim Anlegen gebunden\nRücken\n29 Rüstung\n<Zufällige Verzauberung>\nBenötigt Stufe 39" }
 entries[7534] = { ["name"] = "Kabalisten-Armschienen", ["text"] = "Wird beim Anlegen gebunden\nHandgelenke Leder\n53 Rüstung\n<Zufällige Verzauberung>\nHaltbarkeit 30 / 30\nBenötigt Stufe 40" }
 entries[7535] = { ["name"] = "Kabalisten-Gürtel", ["text"] = "Wird beim Anlegen gebunden\nTaille Leder\n70 Rüstung\n<Zufällige Verzauberung>\nHaltbarkeit 30 / 30\nBenötigt Stufe 41" }
-entries[7536] = { ["name"] = "Championwallschild", ["text"] = "Wird beim Anlegen gebunden\nSchildhand} Schild\n1493 Rüstung\n23 Blocken\n<Zufällige Verzauberung>\nHaltbarkeit 85 / 85\nBenötigt Stufe 43" }
-entries[7537] = { ["name"] = "Gotischer Schild", ["text"] = "Wird beim Anlegen gebunden\nSchildhand} Schild\n1521 Rüstung\n23 Blocken\n<Zufällige Verzauberung>\nHaltbarkeit 85 / 85\nBenötigt Stufe 44" }
+entries[7536] = { ["name"] = "Championwallschild", ["text"] = "Wird beim Anlegen gebunden\nSchildhand Schild\n1493 Rüstung\n23 Blocken\n<Zufällige Verzauberung>\nHaltbarkeit 85 / 85\nBenötigt Stufe 43" }
+entries[7537] = { ["name"] = "Gotischer Schild", ["text"] = "Wird beim Anlegen gebunden\nSchildhand Schild\n1521 Rüstung\n23 Blocken\n<Zufällige Verzauberung>\nHaltbarkeit 85 / 85\nBenötigt Stufe 44" }
 entries[7538] = { ["name"] = "Championrüstung", ["text"] = "Wird beim Anlegen gebunden\nBrust Kette\n263 Rüstung\n<Zufällige Verzauberung>\nHaltbarkeit 100 / 100\nBenötigt Stufe 43" }
 entries[7539] = { ["name"] = "Championgamaschen", ["text"] = "Wird beim Anlegen gebunden\nBeine Kette\n230 Rüstung\n<Zufällige Verzauberung>\nHaltbarkeit 75 / 75\nBenötigt Stufe 43" }
 entries[7540] = { ["name"] = "Championhelm", ["text"] = "Wird beim Anlegen gebunden\nKopf Kette\n210 Rüstung\n<Zufällige Verzauberung>\nHaltbarkeit 60 / 60\nBenötigt Stufe 42" }
@@ -369,7 +369,7 @@ entries[7678] = { ["name"] = "Rezept: Disteltee", ["text"] = "Benötigt Kochkuns
 entries[7679] = { ["name"] = "Würgerfledermaus-Fangzahn", ["text"] = "Questgegenstand" }
 entries[7680] = { ["name"] = "Jaderückenbasiliskenschuppe", ["text"] = "Questgegenstand" }
 entries[7681] = { ["name"] = "Obsidiangolemsplitter", ["text"] = "Questgegenstand" }
-entries[7682] = { ["name"] = "Quälerschüreisen", ["text"] = "Wird beim Aufheben gebunden\nEinhändig Dolch\n{21 - 39 Schaden Tempo 1.70 + 5 - 7 Feuerschaden\n(21.18 Schaden pro Sekunde)\nHaltbarkeit 65 / 65\nBenötigt Stufe 29" }
+entries[7682] = { ["name"] = "Quälerschüreisen", ["text"] = "Wird beim Aufheben gebunden\nEinhändig Dolch\n21 - 39 Schaden Tempo 1.70 + 5 - 7 Feuerschaden\n(21.18 Schaden pro Sekunde)\nHaltbarkeit 65 / 65\nBenötigt Stufe 29" }
 entries[7683] = { ["name"] = "Blutiger Messingschlagring", ["text"] = "Einhändig Faustwaffe\n18 - 35 Schaden Tempo 1.60\n(16.56 Schaden pro Sekunde)\nHaltbarkeit 55 / 55\nBenötigt Stufe 29" }
 entries[7684] = { ["name"] = "Blutmagier-Mantel", ["text"] = "Wird beim Aufheben gebunden\nSchulter Stoff\n35 Rüstung\n+8 Intelligenz\n+4 Willenskraft\nHaltbarkeit 45 / 45\nBenötigt Stufe 30" }
 entries[7685] = { ["name"] = "Kugel des vergessenen Sehers", ["text"] = "Wird beim Aufheben gebunden\nIn Schildhand geführt\nBenötigt Stufe 33\nAnlegen: Erhöht durch Zauber und magische Effekte zugefügten Schaden und Heilung um bis zu 12." }
@@ -396,11 +396,11 @@ entries[7721] = { ["name"] = "Hand der Rechtschaffenheit", ["text"] = "Wird beim
 entries[7722] = { ["name"] = "Triunen-Amulett", ["text"] = "Wird beim Aufheben gebunden\nHals\n+7 Ausdauer\n+7 Intelligenz\n+7 Willenskraft\nBenötigt Stufe 39" }
 entries[7723] = { ["name"] = "Mograines Macht", ["text"] = "Wird beim Aufheben gebunden\nZweihändig Streitkolben\n87 - 131 Schaden Tempo 2.80\n(38.93 Schaden pro Sekunde)\n+17 Ausdauer\n+16 Willenskraft\nHaltbarkeit 100 / 100\nBenötigt Stufe 39" }
 entries[7724] = { ["name"] = "Stulpen der Offenbarung", ["text"] = "Wird beim Aufheben gebunden\nHände Kette\n168 Rüstung\n+7 Ausdauer\nHaltbarkeit 40 / 40\nBenötigt Stufe 39\nAnlegen: +32 Angriffskraft." }
-entries[7726] = { ["name"] = "Aegis des Scharlachroten Kommandanten", ["text"] = "Wird beim Aufheben gebunden\nSchildhand} Schild\n1548 Rüstung\n23 Blocken\n+7 Stärke\n+8 Ausdauer\n+7 Willenskraft\nHaltbarkeit 100 / 100\nBenötigt Stufe 39" }
+entries[7726] = { ["name"] = "Aegis des Scharlachroten Kommandanten", ["text"] = "Wird beim Aufheben gebunden\nSchildhand Schild\n1548 Rüstung\n23 Blocken\n+7 Stärke\n+8 Ausdauer\n+7 Willenskraft\nHaltbarkeit 100 / 100\nBenötigt Stufe 39" }
 entries[7727] = { ["name"] = "Wachmann-Schulterstücke", ["text"] = "Wird beim Anlegen gebunden\nSchulter Leder\n80 Rüstung\n+3 Stärke\n+11 Ausdauer\n+4 Willenskraft\nHaltbarkeit 60 / 60\nBenötigt Stufe 27" }
 entries[7728] = { ["name"] = "Täuscher-Roben", ["text"] = "Wird beim Anlegen gebunden\nBrust Stoff\n50 Rüstung\n+7 Ausdauer\n+12 Intelligenz\n+8 Willenskraft\nHaltbarkeit 80 / 80\nBenötigt Stufe 29" }
 entries[7729] = { ["name"] = "Chesterfall-Muskete", ["text"] = "Wird beim Anlegen gebunden\nDistanz Schusswaffe\n26 - 50 Schaden Tempo 2.30\n(16.52 Schaden pro Sekunde)\nHaltbarkeit 75 / 75\nBenötigt Stufe 28" }
-entries[7730] = { ["name"] = "Kobaltzermalmer", ["text"] = "Wird beim Anlegen gebunden\nZweihändig Streitkolben\n{74 - 111 Schaden Tempo 3.20 + 5 Frostschaden\n(30.47 Schaden pro Sekunde)\nHaltbarkeit 100 / 100\nBenötigt Stufe 29\nTrefferchance: Überzieht ein Ziel mit 110 bis 120 Punkt(en) Frostschaden." }
+entries[7730] = { ["name"] = "Kobaltzermalmer", ["text"] = "Wird beim Anlegen gebunden\nZweihändig Streitkolben\n74 - 111 Schaden Tempo 3.20 + 5 Frostschaden\n(30.47 Schaden pro Sekunde)\nHaltbarkeit 100 / 100\nBenötigt Stufe 29\nTrefferchance: Überzieht ein Ziel mit 110 bis 120 Punkt(en) Frostschaden." }
 entries[7731] = { ["name"] = "Geistsplitter-Talisman", ["text"] = "Wird beim Aufheben gebunden\nHals\n+9 Ausdauer\n+4 Willenskraft\nBenötigt Stufe 30" }
 entries[7733] = { ["name"] = "Stab der Prähistorie", ["text"] = "Questgegenstand\nEinzigartig\nBenutzen: In den Uldaman-Kartenraum legen." }
 entries[7734] = { ["name"] = "Sechsdämonentasche", ["text"] = "Wird beim Anlegen gebunden\nEinzigartig\nSchmuck\nBenötigt Stufe 46\nBenutzen: Überzieht den Feind mit der Macht des Windes, des Feuers und all solchen Dingen! (30 Min Abklingzeit)" }
@@ -413,8 +413,8 @@ entries[7740] = { ["name"] = "Gni'kiv-Medaillon", ["text"] = "Einzigartig\nBenut
 entries[7741] = { ["name"] = "Der Schaft von Tsol", ["text"] = "Benutzen: Am Gni'kiv-Medaillon anbringen." }
 entries[7742] = { ["name"] = "Bauplan: Gnomisches Verbergungsgerät", ["text"] = "Benötigt Ingenieurskunst (200)\nBenutzen: Lehrt Euch die Herstellung eines gnomischen Verbergungsgeräts.\nGnomisches Verbergungsgerät\nWird beim Anlegen gebunden\nSchmuck\nBenötigt Ingenieurskunst (200)\nBenutzen: Gewährt 10 Sek. lang Unsichtbarkeit. Kann nur alle 60 Minuten gewirkt werden. (1 Stunde Abklingzeit)\nBenötigt Gyrochronatom (4), Jade (2), Geringer Mondstein (2), Citrin (2), Verschmorte Verkabelung" }
 entries[7746] = { ["name"] = "Forscherliga-Empfehlung", ["text"] = "Wird beim Aufheben gebunden\nHals\n+6 Ausdauer\n+6 Willenskraft" }
-entries[7747] = { ["name"] = "Grässlicher Beschützer", ["text"] = "Wird beim Aufheben gebunden\nSchildhand} Schild\n1051 Rüstung\n17 Blocken\n+4 Stärke\nHaltbarkeit 85 / 85\nAnlegen: Bei einem Treffer im Kampf besteht eine Chance von 1%, dem Angreifer 105 bis 175 Punkt(e) Schattenschaden zuzufügen. (Procchance: 1%)" }
-entries[7748] = { ["name"] = "Zwingstein-Rundschild", ["text"] = "Wird beim Aufheben gebunden\nSchildhand} Schild\n1408 Rüstung\n20 Blocken\n+3 Ausdauer\n+9 Willenskraft\nHaltbarkeit 85 / 85" }
+entries[7747] = { ["name"] = "Grässlicher Beschützer", ["text"] = "Wird beim Aufheben gebunden\nSchildhand Schild\n1051 Rüstung\n17 Blocken\n+4 Stärke\nHaltbarkeit 85 / 85\nAnlegen: Bei einem Treffer im Kampf besteht eine Chance von 1%, dem Angreifer 105 bis 175 Punkt(e) Schattenschaden zuzufügen. (Procchance: 1%)" }
+entries[7748] = { ["name"] = "Zwingstein-Rundschild", ["text"] = "Wird beim Aufheben gebunden\nSchildhand Schild\n1408 Rüstung\n20 Blocken\n+3 Ausdauer\n+9 Willenskraft\nHaltbarkeit 85 / 85" }
 entries[7749] = { ["name"] = "Omegakugel", ["text"] = "Wird beim Aufheben gebunden\nIn Schildhand geführt\nAnlegen: Erhöht durch Zauber und magische Effekte zugefügten Schaden und Heilung um bis zu 11." }
 entries[7750] = { ["name"] = "Mantel des Jammers", ["text"] = "Wird beim Aufheben gebunden\nSchulter Stoff\n34 Rüstung\n+7 Intelligenz\n+4 Willenskraft\nHaltbarkeit 45 / 45" }
 entries[7751] = { ["name"] = "Vorrels Stiefel", ["text"] = "Wird beim Aufheben gebunden\nFüße Leder\n64 Rüstung\n+8 Beweglichkeit\n+2 Ausdauer\nHaltbarkeit 45 / 45" }
@@ -435,7 +435,7 @@ entries[7769] = { ["name"] = "Voller brauner Wasserschlauch", ["text"] = "Questg
 entries[7770] = { ["name"] = "Voller blauer Wasserschlauch", ["text"] = "Questgegenstand\nEinzigartig" }
 entries[7771] = { ["name"] = "Voller roter Wasserschlauch", ["text"] = "Questgegenstand\nEinzigartig" }
 entries[7786] = { ["name"] = "Kopfspalter", ["text"] = "Wird beim Anlegen gebunden\nEinhändig Axt\n30 - 57 Schaden Tempo 2.30\n(18.91 Schaden pro Sekunde)\n+3 Stärke\n+5 Ausdauer\nHaltbarkeit 90 / 90\nBenötigt Stufe 25" }
-entries[7787] = { ["name"] = "Prächtiger Wächter", ["text"] = "Wird beim Anlegen gebunden\nSchildhand} Schild\n680 Rüstung\n14 Blocken\n+7 Ausdauer\nHaltbarkeit 100 / 100\nBenötigt Stufe 26\nAnlegen: Erhöht Eure Chance, Angriffe mit einem Schild zu blocken, um 1%." }
+entries[7787] = { ["name"] = "Prächtiger Wächter", ["text"] = "Wird beim Anlegen gebunden\nSchildhand Schild\n680 Rüstung\n14 Blocken\n+7 Ausdauer\nHaltbarkeit 100 / 100\nBenötigt Stufe 26\nAnlegen: Erhöht Eure Chance, Angriffe mit einem Schild zu blocken, um 1%." }
 entries[7806] = { ["name"] = "Lutscher", ["text"] = "Benutzen: Stellt im Verlauf von 18 Sek. 61.2 Punkt(e) Gesundheit wieder her. Ihr müsst beim Essen sitzen bleiben. Wenn Ihr mindestens 10 Sekunden lang mit Essen verbringt, werdet Ihr satt und erhaltet 15 Min. lang 2 Punkt(e) Ausdauer und Willenskraft." }
 entries[7807] = { ["name"] = "Schokoriegel", ["text"] = "Benutzen: Stellt im Verlauf von 18 Sek. 61.2 Punkt(e) Gesundheit wieder her. Ihr müsst beim Essen sitzen bleiben. Wenn Ihr mindestens 10 Sekunden lang mit Essen verbringt, werdet Ihr satt und erhaltet 15 Min. lang 2 Punkt(e) Ausdauer und Willenskraft." }
 entries[7808] = { ["name"] = "Schokoladentafel", ["text"] = "Benutzen: Stellt im Verlauf von 18 Sek. 61.2 Punkt(e) Gesundheit wieder her. Ihr müsst beim Essen sitzen bleiben. Wenn Ihr mindestens 10 Sekunden lang mit Essen verbringt, werdet Ihr satt und erhaltet 15 Min. lang 2 Punkt(e) Ausdauer und Willenskraft." }
@@ -622,8 +622,8 @@ entries[8130] = { ["name"] = "Myrmidonenschienbeinschützer", ["text"] = "Wird b
 entries[8131] = { ["name"] = "Myrmidonenhelm", ["text"] = "Wird beim Anlegen gebunden\nKopf Kette\n222 Rüstung\n+7 Beweglichkeit\n+11 Intelligenz\n+14 Willenskraft\nHaltbarkeit 60 / 60\nBenötigt Stufe 45" }
 entries[8132] = { ["name"] = "Myrmidonengamaschen", ["text"] = "Wird beim Anlegen gebunden\nBeine Kette\n243 Rüstung\n+14 Beweglichkeit\n+14 Willenskraft\nHaltbarkeit 75 / 75\nBenötigt Stufe 46" }
 entries[8133] = { ["name"] = "Myrmidonenschulterstücke", ["text"] = "Wird beim Anlegen gebunden\nSchulter Kette\n205 Rüstung\n+11 Intelligenz\n+10 Willenskraft\nHaltbarkeit 60 / 60\nBenötigt Stufe 45" }
-entries[8134] = { ["name"] = "Myrmidonenverteidiger", ["text"] = "Wird beim Anlegen gebunden\nSchildhand} Schild\n1578 Rüstung\n25 Blocken\n+2 Beweglichkeit\n+2 Ausdauer\n+11 Willenskraft\nHaltbarkeit 85 / 85\nBenötigt Stufe 46" }
-entries[8135] = { ["name"] = "Chromitschild", ["text"] = "Wird beim Anlegen gebunden\nSchildhand} Schild\n1436 Rüstung\n21 Blocken\n+3 Stärke\n+10 Ausdauer\nHaltbarkeit 85 / 85\nBenötigt Stufe 41" }
+entries[8134] = { ["name"] = "Myrmidonenverteidiger", ["text"] = "Wird beim Anlegen gebunden\nSchildhand Schild\n1578 Rüstung\n25 Blocken\n+2 Beweglichkeit\n+2 Ausdauer\n+11 Willenskraft\nHaltbarkeit 85 / 85\nBenötigt Stufe 46" }
+entries[8135] = { ["name"] = "Chromitschild", ["text"] = "Wird beim Anlegen gebunden\nSchildhand Schild\n1436 Rüstung\n21 Blocken\n+3 Stärke\n+10 Ausdauer\nHaltbarkeit 85 / 85\nBenötigt Stufe 41" }
 entries[8136] = { ["name"] = "Riesengroßer Tumor", ["text"] = "Questgegenstand" }
 entries[8137] = { ["name"] = "Chromitarmschienen", ["text"] = "Wird beim Anlegen gebunden\nHandgelenke Platte\n167 Rüstung\n+4 Beweglichkeit\n+8 Ausdauer\nHaltbarkeit 40 / 40\nBenötigt Stufe 40" }
 entries[8138] = { ["name"] = "Chromitbrustplatte", ["text"] = "Wird beim Anlegen gebunden\nBrust Platte\n454 Rüstung\n+11 Stärke\n+11 Ausdauer\n+10 Willenskraft\nHaltbarkeit 115 / 115\nBenötigt Stufe 42" }
@@ -740,14 +740,14 @@ entries[8271] = { ["name"] = "Ebenholzgamaschen", ["text"] = "Wird beim Anlegen 
 entries[8272] = { ["name"] = "Ebenholzschulterpolster", ["text"] = "Wird beim Anlegen gebunden\nSchulter Kette\n220 Rüstung\n+12 Intelligenz\n+11 Willenskraft\nHaltbarkeit 60 / 60\nBenötigt Stufe 49" }
 entries[8273] = { ["name"] = "Wackerer Handgelenksschutz", ["text"] = "Wird beim Anlegen gebunden\nHandgelenke Platte\n195 Rüstung\n+9 Stärke\n+4 Ausdauer\nHaltbarkeit 40 / 40\nBenötigt Stufe 41" }
 entries[8274] = { ["name"] = "Wackerer Brustschutz", ["text"] = "Wird beim Anlegen gebunden\nBrust Platte\n489 Rüstung\n+20 Stärke\n+3 Willenskraft\nHaltbarkeit 115 / 115\nBenötigt Stufe 46" }
-entries[8275] = { ["name"] = "Ebenholzrundschild", ["text"] = "Wird beim Anlegen gebunden\nSchildhand} Schild\n1720 Rüstung\n30 Blocken\n+4 Ausdauer\n+12 Willenskraft\nHaltbarkeit 85 / 85\nBenötigt Stufe 51" }
+entries[8275] = { ["name"] = "Ebenholzrundschild", ["text"] = "Wird beim Anlegen gebunden\nSchildhand Schild\n1720 Rüstung\n30 Blocken\n+4 Ausdauer\n+12 Willenskraft\nHaltbarkeit 85 / 85\nBenötigt Stufe 51" }
 entries[8276] = { ["name"] = "Wackere Stulpen", ["text"] = "Wird beim Anlegen gebunden\nHände Platte\n284 Rüstung\n+14 Stärke\n+2 Ausdauer\nHaltbarkeit 40 / 40\nBenötigt Stufe 42" }
 entries[8277] = { ["name"] = "Wackerer Gurt", ["text"] = "Wird beim Anlegen gebunden\nTaille Platte\n251 Rüstung\n+13 Stärke\n+3 Ausdauer\nHaltbarkeit 40 / 40\nBenötigt Stufe 41" }
 entries[8278] = { ["name"] = "Wackere Schienbeinschützer", ["text"] = "Wird beim Anlegen gebunden\nFüße Platte\n312 Rüstung\n+4 Beweglichkeit\n+10 Ausdauer\n+7 Willenskraft\nHaltbarkeit 55 / 55\nBenötigt Stufe 42" }
 entries[8279] = { ["name"] = "Wackerer Helm", ["text"] = "Wird beim Anlegen gebunden\nKopf Platte\n376 Rüstung\n+14 Beweglichkeit\n+13 Ausdauer\nHaltbarkeit 70 / 70\nBenötigt Stufe 43" }
 entries[8280] = { ["name"] = "Wackere Beinschützer", ["text"] = "Wird beim Anlegen gebunden\nBeine Platte\n413 Rüstung\n+14 Stärke\n+13 Willenskraft\nHaltbarkeit 85 / 85\nBenötigt Stufe 44" }
 entries[8281] = { ["name"] = "Wackere Schulterstücke", ["text"] = "Wird beim Anlegen gebunden\nSchulter Platte\n347 Rüstung\n+10 Stärke\n+10 Willenskraft\nHaltbarkeit 70 / 70\nBenötigt Stufe 43" }
-entries[8282] = { ["name"] = "Wackerer Schild", ["text"] = "Wird beim Anlegen gebunden\nSchildhand} Schild\n1578 Rüstung\n25 Blocken\n+6 Stärke\n+9 Ausdauer\nHaltbarkeit 85 / 85\nBenötigt Stufe 46" }
+entries[8282] = { ["name"] = "Wackerer Schild", ["text"] = "Wird beim Anlegen gebunden\nSchildhand Schild\n1578 Rüstung\n25 Blocken\n+6 Stärke\n+9 Ausdauer\nHaltbarkeit 85 / 85\nBenötigt Stufe 46" }
 entries[8283] = { ["name"] = "Arkane Rüstung", ["text"] = "Wird beim Anlegen gebunden\nBrust Stoff\n79 Rüstung\n+7 Ausdauer\n+23 Intelligenz\nHaltbarkeit 70 / 70\nBenötigt Stufe 56" }
 entries[8284] = { ["name"] = "Arkane Stiefel", ["text"] = "Wird beim Anlegen gebunden\nFüße Stoff\n51 Rüstung\n+3 Ausdauer\n+4 Intelligenz\n+16 Willenskraft\nHaltbarkeit 35 / 35\nBenötigt Stufe 52" }
 entries[8285] = { ["name"] = "Arkane Bänder", ["text"] = "Wird beim Anlegen gebunden\nHandgelenke Stoff\n32 Rüstung\n+6 Ausdauer\n+11 Intelligenz\nHaltbarkeit 25 / 25\nBenötigt Stufe 51" }
@@ -778,14 +778,14 @@ entries[8309] = { ["name"] = "Helden-Gamaschen", ["text"] = "Wird beim Anlegen g
 entries[8310] = { ["name"] = "Helden-Schulterstücke", ["text"] = "Wird beim Anlegen gebunden\nSchulter Kette\n242 Rüstung\n+13 Intelligenz\n+13 Willenskraft\nHaltbarkeit 60 / 60\nBenötigt Stufe 55" }
 entries[8311] = { ["name"] = "Alabasterplattenunterarmschienen", ["text"] = "Wird beim Anlegen gebunden\nHandgelenke Platte\n222 Rüstung\n+3 Stärke\n+2 Beweglichkeit\n+12 Ausdauer\nHaltbarkeit 40 / 40\nBenötigt Stufe 48" }
 entries[8312] = { ["name"] = "Alabasterbrustplatte", ["text"] = "Wird beim Anlegen gebunden\nBrust Platte\n543 Rüstung\n+17 Stärke\n+3 Ausdauer\n+3 Willenskraft\nHaltbarkeit 115 / 115\nBenötigt Stufe 52" }
-entries[8313] = { ["name"] = "Helden-Rundschild", ["text"] = "Wird beim Anlegen gebunden\nSchildhand} Schild\n1890 Rüstung\n36 Blocken\n+7 Stärke\n+12 Intelligenz\nHaltbarkeit 85 / 85\nBenötigt Stufe 57" }
+entries[8313] = { ["name"] = "Helden-Rundschild", ["text"] = "Wird beim Anlegen gebunden\nSchildhand Schild\n1890 Rüstung\n36 Blocken\n+7 Stärke\n+12 Intelligenz\nHaltbarkeit 85 / 85\nBenötigt Stufe 57" }
 entries[8314] = { ["name"] = "Alabasterplattenstulpen", ["text"] = "Wird beim Anlegen gebunden\nHände Platte\n317 Rüstung\n+14 Stärke\n+7 Beweglichkeit\nHaltbarkeit 40 / 40\nBenötigt Stufe 48" }
 entries[8315] = { ["name"] = "Alabasterplattengurt", ["text"] = "Wird beim Anlegen gebunden\nTaille Platte\n280 Rüstung\n+15 Stärke\n+4 Ausdauer\nHaltbarkeit 40 / 40\nBenötigt Stufe 47" }
 entries[8316] = { ["name"] = "Alabasterplattenschienbeinschützer", ["text"] = "Wird beim Anlegen gebunden\nFüße Platte\n348 Rüstung\n+12 Stärke\n+11 Ausdauer\nHaltbarkeit 55 / 55\nBenötigt Stufe 48" }
 entries[8317] = { ["name"] = "Alabasterplattenhelm", ["text"] = "Wird beim Anlegen gebunden\nKopf Platte\n419 Rüstung\n+16 Ausdauer\n+15 Willenskraft\nHaltbarkeit 70 / 70\nBenötigt Stufe 49" }
 entries[8318] = { ["name"] = "Alabasterplattengamaschen", ["text"] = "Wird beim Anlegen gebunden\nBeine Platte\n467 Rüstung\n+15 Stärke\n+3 Ausdauer\n+16 Willenskraft\nHaltbarkeit 85 / 85\nBenötigt Stufe 51" }
 entries[8319] = { ["name"] = "Alabasterplattenschiftung", ["text"] = "Wird beim Anlegen gebunden\nSchulter Platte\n393 Rüstung\n+12 Stärke\n+12 Willenskraft\nHaltbarkeit 70 / 70\nBenötigt Stufe 50" }
-entries[8320] = { ["name"] = "Alabasterschild", ["text"] = "Wird beim Anlegen gebunden\nSchildhand} Schild\n1748 Rüstung\n31 Blocken\n+3 Stärke\n+13 Ausdauer\nHaltbarkeit 85 / 85\nBenötigt Stufe 52" }
+entries[8320] = { ["name"] = "Alabasterschild", ["text"] = "Wird beim Anlegen gebunden\nSchildhand Schild\n1748 Rüstung\n31 Blocken\n+3 Stärke\n+13 Ausdauer\nHaltbarkeit 85 / 85\nBenötigt Stufe 52" }
 entries[8343] = { ["name"] = "Schwerer Seidenfaden" }
 entries[8344] = { ["name"] = "Silbrige Spinndrüsen", ["text"] = "Questgegenstand" }
 entries[8345] = { ["name"] = "Wolfskopfhelm", ["text"] = "Wird beim Anlegen gebunden\nKopf Leder\n109 Rüstung\n+10 Willenskraft\nHaltbarkeit 60 / 60\nKlassen: Druide\nBenötigt Stufe 40\nAnlegen: Bei Gestaltwandlung in Katzengestalt erhält der Druide 20 Punkte Energie. Bei Gestaltwandlung in Bärengestalt erhält der Druide 5 Wutpunkte." }
@@ -882,33 +882,33 @@ entries[8545] = { ["name"] = "Schwerer Magiestoffverband", ["text"] = "Benötigt
 entries[8546] = { ["name"] = "Mächtiges Riechsalz", ["text"] = "Einzigartig\nBenötigt Erste Hilfe (200)\nBenutzen: Bringt einen toten Spieler mit 15% Gesundheit und Mana wieder ins Leben zurück. Kann nicht im Kampf verwendet werden." }
 entries[8547] = { ["name"] = "Formel: Mächtiges Riechsalz", ["text"] = "Benötigt Erste Hilfe (250)\nBenutzen: Lehrt Euch die Herstellung von mächtigem Riechsalz.\nMächtiges Riechsalz\nEinzigartig\nBenötigt Erste Hilfe (200)\nBenutzen: Bringt einen toten Spieler mit 15% Gesundheit und Mana wieder ins Leben zurück. Kann nicht im Kampf verwendet werden.\nBenötigt Tiefsteinsalz (4)" }
 entries[8548] = { ["name"] = "Wünschel-mato-Rute", ["text"] = "Questgegenstand\nEinzigartig" }
-entries[8563] = { ["name"] = "Roter Roboschreiter", ["text"] = "Wird bei Benutzung gebunden\nReittier\nVölker: Zwerg , Gnom\nBenötigt Stufe 40\nBenötigtRoboschreiterlenken\n(1)\nBenutzen: Beschwört einen reitbaren roten Roboschreiter oder gibt ihn frei. (3 Sek. Abklingzeit)" }
+entries[8563] = { ["name"] = "Roter Roboschreiter", ["text"] = "Wird bei Benutzung gebunden\nReittier\nVölker: Zwerg , Gnom\nBenötigt Stufe 40\nBenötigt Roboschreiterlenken\n(1)\nBenutzen: Beschwört einen reitbaren roten Roboschreiter oder gibt ihn frei. (3 Sek. Abklingzeit)" }
 entries[8564] = { ["name"] = "Hippogryphen-Ei", ["text"] = "Wird beim Aufheben gebunden\nEinzigartig\n\"Absolut gewaltig!\"" }
-entries[8583] = { ["name"] = "Horn des Skelettreittiers", ["text"] = "Wird bei Benutzung gebunden\nReittier\nVölker: Mensch , Orc , Zwerg , Nachtelf , Untoter , Gnom , Troll\nBenötigt Stufe 40\nBenötigtUntoten-Reitkunst\n(1)\nBenutzen: Beschwört ein reitbares untotes Skelettpferd oder gibt es frei. (3 Sek. Abklingzeit)" }
+entries[8583] = { ["name"] = "Horn des Skelettreittiers", ["text"] = "Wird bei Benutzung gebunden\nReittier\nVölker: Mensch , Orc , Zwerg , Nachtelf , Untoter , Gnom , Troll\nBenötigt Stufe 40\nBenötigt Untoten-Reitkunst\n(1)\nBenutzen: Beschwört ein reitbares untotes Skelettpferd oder gibt es frei. (3 Sek. Abklingzeit)" }
 entries[8584] = { ["name"] = "Unangezapfter Wünschelrutenapparat", ["text"] = "Questgegenstand\nEinzigartig\nBenutzen: Füllt den unangezapften Wünschelrutenapparat am Wasserloch von Sandsorrowwatch." }
 entries[8585] = { ["name"] = "Angezapfter Wünschelrutenapparat", ["text"] = "Questgegenstand" }
-entries[8586] = { ["name"] = "Pfeife des scheckigen roten Raptors", ["text"] = "Wird bei Benutzung gebunden\nReittier\nVölker: Orc , Untoter , Troll\nBenötigt Stufe 60\nBenötigtRaptorreiten\n(1)\nBenutzen: Beschwört einen reitbaren rotgescheckten Raptor oder gibt ihn frei. Das ist ein sehr schnelles Reittier. (3 Sek. Abklingzeit)" }
+entries[8586] = { ["name"] = "Pfeife des scheckigen roten Raptors", ["text"] = "Wird bei Benutzung gebunden\nReittier\nVölker: Orc , Untoter , Troll\nBenötigt Stufe 60\nBenötigt Raptorreiten\n(1)\nBenutzen: Beschwört einen reitbaren rotgescheckten Raptor oder gibt ihn frei. Das ist ein sehr schnelles Reittier. (3 Sek. Abklingzeit)" }
 entries[8587] = { ["name"] = "Centipaarinsektenteile", ["text"] = "Questgegenstand" }
-entries[8588] = { ["name"] = "Pfeife des smaragdfarbenen Raptors", ["text"] = "Wird bei Benutzung gebunden\nReittier\nVölker: Orc , Untoter , Troll\nBenötigt Stufe 40\nBenötigtRaptorreiten\n(1)\nBenutzen: Beschwört einen reitbaren smaragdfarbenen Raptor oder gibt ihn frei. (3 Sek. Abklingzeit)" }
-entries[8589] = { ["name"] = "Alte Pfeife des elfenbeinfarbenen Raptors", ["text"] = "Wird bei Benutzung gebunden\nReittier\nVölker: Mensch , Orc , Zwerg , Nachtelf , Untoter , Gnom , Troll\nBenötigt Stufe 40\nBenötigtRaptorreiten\n(1)\nBenutzen: Beschwört einen reitbaren elfenbeinfarbenen Raptor oder gibt ihn frei. (3 Sek. Abklingzeit)" }
-entries[8590] = { ["name"] = "Alte Pfeife des obsidianschwarzen Raptors", ["text"] = "Wird bei Benutzung gebunden\nReittier\nVölker: Mensch , Orc , Zwerg , Nachtelf , Untoter , Gnom , Troll\nBenötigt Stufe 40\nBenötigtRaptorreiten\n(1)\nBenutzen: Beschwört einen reitbaren obsidianschwarzen Raptor oder gibt ihn frei. (3 Sek. Abklingzeit)" }
-entries[8591] = { ["name"] = "Pfeife des türkisfarbenen Raptors", ["text"] = "Wird bei Benutzung gebunden\nReittier\nVölker: Orc , Untoter , Troll\nBenötigt Stufe 40\nBenötigtRaptorreiten\n(1)\nBenutzen: Beschwört einen reitbaren türkisfarbenen Raptor oder gibt ihn frei. (3 Sek. Abklingzeit)" }
-entries[8592] = { ["name"] = "Pfeife des violetten Raptors", ["text"] = "Wird bei Benutzung gebunden\nReittier\nVölker: Orc , Untoter , Troll\nBenötigt Stufe 40\nBenötigtRaptorreiten\n(1)\nBenutzen: Beschwört einen reitbaren violetten Raptor oder gibt ihn frei. (3 Sek. Abklingzeit)" }
+entries[8588] = { ["name"] = "Pfeife des smaragdfarbenen Raptors", ["text"] = "Wird bei Benutzung gebunden\nReittier\nVölker: Orc , Untoter , Troll\nBenötigt Stufe 40\nBenötigt Raptorreiten\n(1)\nBenutzen: Beschwört einen reitbaren smaragdfarbenen Raptor oder gibt ihn frei. (3 Sek. Abklingzeit)" }
+entries[8589] = { ["name"] = "Alte Pfeife des elfenbeinfarbenen Raptors", ["text"] = "Wird bei Benutzung gebunden\nReittier\nVölker: Mensch , Orc , Zwerg , Nachtelf , Untoter , Gnom , Troll\nBenötigt Stufe 40\nBenötigt Raptorreiten\n(1)\nBenutzen: Beschwört einen reitbaren elfenbeinfarbenen Raptor oder gibt ihn frei. (3 Sek. Abklingzeit)" }
+entries[8590] = { ["name"] = "Alte Pfeife des obsidianschwarzen Raptors", ["text"] = "Wird bei Benutzung gebunden\nReittier\nVölker: Mensch , Orc , Zwerg , Nachtelf , Untoter , Gnom , Troll\nBenötigt Stufe 40\nBenötigt Raptorreiten\n(1)\nBenutzen: Beschwört einen reitbaren obsidianschwarzen Raptor oder gibt ihn frei. (3 Sek. Abklingzeit)" }
+entries[8591] = { ["name"] = "Pfeife des türkisfarbenen Raptors", ["text"] = "Wird bei Benutzung gebunden\nReittier\nVölker: Orc , Untoter , Troll\nBenötigt Stufe 40\nBenötigt Raptorreiten\n(1)\nBenutzen: Beschwört einen reitbaren türkisfarbenen Raptor oder gibt ihn frei. (3 Sek. Abklingzeit)" }
+entries[8592] = { ["name"] = "Pfeife des violetten Raptors", ["text"] = "Wird bei Benutzung gebunden\nReittier\nVölker: Orc , Untoter , Troll\nBenötigt Stufe 40\nBenötigt Raptorreiten\n(1)\nBenutzen: Beschwört einen reitbaren violetten Raptor oder gibt ihn frei. (3 Sek. Abklingzeit)" }
 entries[8593] = { ["name"] = "Scrimshanks Feldmesser-Ausstattung", ["text"] = "Questgegenstand" }
 entries[8594] = { ["name"] = "Insekten-Analysebericht", ["text"] = "Questgegenstand\nEinzigartig" }
-entries[8595] = { ["name"] = "Blauer Roboschreiter", ["text"] = "Wird bei Benutzung gebunden\nReittier\nVölker: Zwerg , Gnom\nBenötigt Stufe 40\nBenötigtRoboschreiterlenken\n(1)\nBenutzen: Beschwört einen reitbaren blauen Roboschreiter oder gibt ihn frei. (3 Sek. Abklingzeit)" }
+entries[8595] = { ["name"] = "Blauer Roboschreiter", ["text"] = "Wird bei Benutzung gebunden\nReittier\nVölker: Zwerg , Gnom\nBenötigt Stufe 40\nBenötigt Roboschreiterlenken\n(1)\nBenutzen: Beschwört einen reitbaren blauen Roboschreiter oder gibt ihn frei. (3 Sek. Abklingzeit)" }
 entries[8603] = { ["name"] = "Disteltau", ["text"] = "Questgegenstand\nEinzigartig" }
 entries[8623] = { ["name"] = "OOX-17/TN-Notsignalgeber", ["text"] = "Wird beim Aufheben gebunden\nEinzigartig\nDieser Gegenstand startet eine Quest.\nBenötigt Stufe 43" }
 entries[8624] = { ["name"] = "Roter Funkler", ["text"] = "In Schildhand geführt" }
 entries[8625] = { ["name"] = "Weißer Funkler", ["text"] = "In Schildhand geführt" }
 entries[8626] = { ["name"] = "Blauer Funkler", ["text"] = "In Schildhand geführt" }
-entries[8627] = { ["name"] = "Zügel des Nachtsäblers", ["text"] = "Wird bei Benutzung gebunden\nReittier\nVölker: Mensch , Orc , Zwerg , Nachtelf , Untoter , Gnom , Troll\nBenötigt Stufe 40\nBenötigtTigerreiten\n(1)\nBenutzen: Beschwört eine reitbare Säblerkatze oder gibt sie frei. (3 Sek. Abklingzeit)" }
-entries[8628] = { ["name"] = "Zügel des gefleckten Nachtsäblers", ["text"] = "Wird bei Benutzung gebunden\nReittier\nVölker: Mensch , Orc , Zwerg , Nachtelf , Untoter , Gnom , Troll\nBenötigt Stufe 40\nBenötigtTigerreiten\n(1)\nBenutzen: Beschwört eine reitbare Säblerkatze oder gibt sie frei. (3 Sek. Abklingzeit)" }
-entries[8629] = { ["name"] = "Zügel des gestreiften Nachtsäblers", ["text"] = "Wird bei Benutzung gebunden\nReittier\nBenötigt eine Allianz-Rasse\nBenötigt Stufe 40\nBenötigtTigerreiten\n(1)\nBenutzen: Beschwört eine reitbare gestreifte Säblerkatze oder gibt sie frei. (3 Sek. Abklingzeit)" }
-entries[8630] = { ["name"] = "Zügel des bengalischen Tigers", ["text"] = "Wird bei Benutzung gebunden\nReittier\nVölker: Mensch , Orc , Zwerg , Nachtelf , Untoter , Gnom , Troll\nBenötigt Stufe 40\nBenötigtTigerreiten\n(1)\nBenutzen: Beschwört eine reitbare Säblerkatze oder gibt sie frei. (3 Sek. Abklingzeit)" }
-entries[8631] = { ["name"] = "Zügel des gestreiften Frostsäblers", ["text"] = "Wird bei Benutzung gebunden\nReittier\nBenötigt eine Allianz-Rasse\nBenötigt Stufe 40\nBenötigtTigerreiten\n(1)\nBenutzen: Beschwört einen reitbaren gestreiften Frostsäbler oder gibt ihn frei. (3 Sek. Abklingzeit)" }
-entries[8632] = { ["name"] = "Zügel des gefleckten Frostsäblers", ["text"] = "Wird bei Benutzung gebunden\nReittier\nBenötigt eine Allianz-Rasse\nBenötigt Stufe 40\nBenötigtTigerreiten\n(1)\nBenutzen: Beschwört einen reitbaren gefleckten Frostsäbler oder gibt ihn frei. (3 Sek. Abklingzeit)" }
-entries[8633] = { ["name"] = "Zügel des Leoparden", ["text"] = "Wird bei Benutzung gebunden\nReittier\nVölker: Mensch , Orc , Zwerg , Nachtelf , Untoter , Gnom , Troll\nBenötigt Stufe 40\nBenötigtTigerreiten\n(1)\nBenutzen: Beschwört eine reitbare Säblerkatze oder gibt sie frei. (3 Sek. Abklingzeit)" }
+entries[8627] = { ["name"] = "Zügel des Nachtsäblers", ["text"] = "Wird bei Benutzung gebunden\nReittier\nVölker: Mensch , Orc , Zwerg , Nachtelf , Untoter , Gnom , Troll\nBenötigt Stufe 40\nBenötigt Tigerreiten\n(1)\nBenutzen: Beschwört eine reitbare Säblerkatze oder gibt sie frei. (3 Sek. Abklingzeit)" }
+entries[8628] = { ["name"] = "Zügel des gefleckten Nachtsäblers", ["text"] = "Wird bei Benutzung gebunden\nReittier\nVölker: Mensch , Orc , Zwerg , Nachtelf , Untoter , Gnom , Troll\nBenötigt Stufe 40\nBenötigt Tigerreiten\n(1)\nBenutzen: Beschwört eine reitbare Säblerkatze oder gibt sie frei. (3 Sek. Abklingzeit)" }
+entries[8629] = { ["name"] = "Zügel des gestreiften Nachtsäblers", ["text"] = "Wird bei Benutzung gebunden\nReittier\nBenötigt eine Allianz-Rasse\nBenötigt Stufe 40\nBenötigt Tigerreiten\n(1)\nBenutzen: Beschwört eine reitbare gestreifte Säblerkatze oder gibt sie frei. (3 Sek. Abklingzeit)" }
+entries[8630] = { ["name"] = "Zügel des bengalischen Tigers", ["text"] = "Wird bei Benutzung gebunden\nReittier\nVölker: Mensch , Orc , Zwerg , Nachtelf , Untoter , Gnom , Troll\nBenötigt Stufe 40\nBenötigt Tigerreiten\n(1)\nBenutzen: Beschwört eine reitbare Säblerkatze oder gibt sie frei. (3 Sek. Abklingzeit)" }
+entries[8631] = { ["name"] = "Zügel des gestreiften Frostsäblers", ["text"] = "Wird bei Benutzung gebunden\nReittier\nBenötigt eine Allianz-Rasse\nBenötigt Stufe 40\nBenötigt Tigerreiten\n(1)\nBenutzen: Beschwört einen reitbaren gestreiften Frostsäbler oder gibt ihn frei. (3 Sek. Abklingzeit)" }
+entries[8632] = { ["name"] = "Zügel des gefleckten Frostsäblers", ["text"] = "Wird bei Benutzung gebunden\nReittier\nBenötigt eine Allianz-Rasse\nBenötigt Stufe 40\nBenötigt Tigerreiten\n(1)\nBenutzen: Beschwört einen reitbaren gefleckten Frostsäbler oder gibt ihn frei. (3 Sek. Abklingzeit)" }
+entries[8633] = { ["name"] = "Zügel des Leoparden", ["text"] = "Wird bei Benutzung gebunden\nReittier\nVölker: Mensch , Orc , Zwerg , Nachtelf , Untoter , Gnom , Troll\nBenötigt Stufe 40\nBenötigt Tigerreiten\n(1)\nBenutzen: Beschwört eine reitbare Säblerkatze oder gibt sie frei. (3 Sek. Abklingzeit)" }
 entries[8643] = { ["name"] = "Außergewöhnliches Ei", ["text"] = "Wird beim Aufheben gebunden\nEinzigartig\n\"Dieses Ei hat etwas Besonderes an sich...\"" }
 entries[8644] = { ["name"] = "Gutes Ei", ["text"] = "Wird beim Aufheben gebunden\nEinzigartig" }
 entries[8645] = { ["name"] = "Gewöhnliches Ei", ["text"] = "Wird beim Aufheben gebunden\nEinzigartig" }

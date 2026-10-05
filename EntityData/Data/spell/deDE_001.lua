@@ -834,10 +834,10 @@ entries[3269] = { ["name"] = "Thules Segen", ["text"] = "Sofort\nErhöht 8 Sek. 
 entries[3271] = { ["name"] = "Erschöpft" }
 entries[3273] = { ["name"] = "Erste Hilfe", ["text"] = "Sofort\nErmöglicht Herstellung und Nutzung von Verbänden mit einer maximalen potenziellen Fertigkeit von 75. Der Stoff zum Herstellen dieser Verbände ist bei den Humanoiden in der Welt zu finden." }
 entries[3274] = { ["name"] = "Erste Hilfe", ["text"] = "Sofort\nErmöglicht Herstellung und Nutzung von Verbänden mit einer maximalen potenziellen Fertigkeit von 150. Der Stoff zum Herstellen dieser Verbände ist bei den Humanoiden in der Welt zu finden." }
-entries[3275] = { ["name"] = "Leinenverband", ["text"] = "Wirken in 3 sek.\nReagenzien:\nLeinenstoff\nBenötigtErste Hilfe\n(1)\nBenutzen: Heilt 6 Sek. lang 66 Punkt(e) Schaden." }
-entries[3276] = { ["name"] = "Schwerer Leinenverband", ["text"] = "Wirken in 3 sek.\nReagenzien:\nLeinenstoff (2)\nBenötigtErste Hilfe\n(20)\nBenutzen: Heilt 6 Sek. lang 114 Punkt(e) Schaden." }
-entries[3277] = { ["name"] = "Wollverband", ["text"] = "Wirken in 3 sek.\nReagenzien:\nWollstoff\nBenötigtErste Hilfe\n(50)\nBenutzen: Heilt 7 Sek. lang 161 Punkt(e) Schaden." }
-entries[3278] = { ["name"] = "Schwerer Wollverband", ["text"] = "Wirken in 3 sek.\nReagenzien:\nWollstoff (2)\nBenötigtErste Hilfe\n(75)\nBenutzen: Heilt 7 Sek. lang 301 Punkt(e) Schaden." }
+entries[3275] = { ["name"] = "Leinenverband", ["text"] = "Wirken in 3 sek.\nReagenzien:\nLeinenstoff\nBenötigt Erste Hilfe\n(1)\nBenutzen: Heilt 6 Sek. lang 66 Punkt(e) Schaden." }
+entries[3276] = { ["name"] = "Schwerer Leinenverband", ["text"] = "Wirken in 3 sek.\nReagenzien:\nLeinenstoff (2)\nBenötigt Erste Hilfe\n(20)\nBenutzen: Heilt 6 Sek. lang 114 Punkt(e) Schaden." }
+entries[3277] = { ["name"] = "Wollverband", ["text"] = "Wirken in 3 sek.\nReagenzien:\nWollstoff\nBenötigt Erste Hilfe\n(50)\nBenutzen: Heilt 7 Sek. lang 161 Punkt(e) Schaden." }
+entries[3278] = { ["name"] = "Schwerer Wollverband", ["text"] = "Wirken in 3 sek.\nReagenzien:\nWollstoff (2)\nBenötigt Erste Hilfe\n(75)\nBenutzen: Heilt 7 Sek. lang 301 Punkt(e) Schaden." }
 entries[3279] = { ["name"] = "Lehrling für Erste Hilfe" }
 entries[3280] = { ["name"] = "Geselle für Erste Hilfe" }
 entries[3281] = { ["name"] = "Schwerer Leinenverband" }

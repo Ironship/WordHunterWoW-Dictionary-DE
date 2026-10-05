@@ -421,11 +421,11 @@ entries[9265] = { ["name"] = "Increased Stamina 14", ["text"] = "+14 Stamina." }
 entries[9266] = { ["name"] = "Increased Strength 13", ["text"] = "+13 Strength." }
 entries[9267] = { ["name"] = "Increased Strength 14", ["text"] = "+14 Strength." }
 entries[9268] = { ["name"] = "Teleport to Darnassus - Event", ["text"] = "20 yd range\n1 sec cast\nSends player to Darnassus" }
-entries[9269] = { ["name"] = "Gnomish Universal Remote", ["text"] = "12.5 sec cast\nTools: Blacksmith Hammer , Arclight Spanner\nReagents:\nBronze Bar (6), Whirring Bronze Gizmo , Flask of Oil (2), Tigerseye , Malachite\nGnomish Universal Remote\nBinds when equipped\nTrinket\nRequiresEngineering\n(125)\nUse: Allows control of a mechanical target for a short time. It may not always work and may just root the machine or make it very very angry. Gnomish engineering at its finest. (3 Min Cooldown)" }
+entries[9269] = { ["name"] = "Gnomish Universal Remote", ["text"] = "12.5 sec cast\nTools: Blacksmith Hammer , Arclight Spanner\nReagents:\nBronze Bar (6), Whirring Bronze Gizmo , Flask of Oil (2), Tigerseye , Malachite\nGnomish Universal Remote\nBinds when equipped\nTrinket\nRequires Engineering\n(125)\nUse: Allows control of a mechanical target for a short time. It may not always work and may just root the machine or make it very very angry. Gnomish engineering at its finest. (3 Min Cooldown)" }
 entries[9270] = { ["name"] = "Schematic: Gnomish Universal Remote", ["text"] = "100 yd range\n3 sec cast\nTeaches you how to make a Gnomish Universal Remote." }
-entries[9271] = { ["name"] = "Aquadynamic Fish Attractor", ["text"] = "8 sec cast\nReagents:\nBronze Bar (2), Nightcrawlers , Coarse Blasting Powder\n(3)\nRequiresFishing\n(100)\nUse: When applied to your fishing pole, increases Fishing by 100 for 5 minutes." }
+entries[9271] = { ["name"] = "Aquadynamic Fish Attractor", ["text"] = "8 sec cast\nReagents:\nBronze Bar (2), Nightcrawlers , Coarse Blasting Powder\n(3)\nRequires Fishing\n(100)\nUse: When applied to your fishing pole, increases Fishing by 100 for 5 minutes." }
 entries[9272] = { ["name"] = "Aquadynamic Fish Attractor" }
-entries[9273] = { ["name"] = "Goblin Jumper Cables", ["text"] = "12.5 sec cast\nReagents:\nIron Bar (6), Whirring Bronze Gizmo (2), Flask of Oil (2), Silk Cloth (2), Shadowgem (2), Fused Wiring\nTrinket\nRequiresEngineering\n(165)\nUse: Jumper Cables will sometimes be able to shock a dead player back to life. Cannot be used when in combat. (30 Min Cooldown)" }
+entries[9273] = { ["name"] = "Goblin Jumper Cables", ["text"] = "12.5 sec cast\nReagents:\nIron Bar (6), Whirring Bronze Gizmo (2), Flask of Oil (2), Silk Cloth (2), Shadowgem (2), Fused Wiring\nTrinket\nRequires Engineering\n(165)\nUse: Jumper Cables will sometimes be able to shock a dead player back to life. Cannot be used when in combat. (30 Min Cooldown)" }
 entries[9274] = { ["name"] = "Schematic: Goblin Jumper Cables", ["text"] = "100 yd range\n3 sec cast\nTeaches you how to make Goblin Jumper Cables." }
 entries[9275] = { ["name"] = "Immolate", ["text"] = "30 yd range\nInstant\nBurns an enemy, then inflicts additional Fire damage every 3 sec. for 21 sec." }
 entries[9276] = { ["name"] = "Immolate", ["text"] = "(Proc chance: 10%)" }
@@ -768,7 +768,7 @@ entries[9935] = { ["name"] = "Steel Plate Helm", ["text"] = "45 sec cast\nTools:
 entries[9936] = { ["name"] = "Steel Plate Helm" }
 entries[9937] = { ["name"] = "Mithril Scale Bracers", ["text"] = "1 min cast\nTools: Blacksmith Hammer\nReagents:\nMithril Bar (8), Citrine (2)\nMithril Scale Bracers\nBinds when equipped\nWrist Mail\n106 Armor\n+6 Stamina\n+7 Spirit\nDurability 35 / 35\n38" }
 entries[9938] = { ["name"] = "Plans: Mithril Scale Bracers", ["text"] = "100 yd range\n3 sec cast\nTeaches you how to make Mithril Scale Bracers." }
-entries[9939] = { ["name"] = "Mithril Shield Spike", ["text"] = "45 sec cast\nTools: Blacksmith Hammer\nReagents:\nMithril Bar (4), Truesilver Bar (2), Solid Grinding Stone (4)\nMithril Shield Spike\nRequiresBlacksmithing\n(215)\nUse: Attaches a Mithril Spike to your shield that deals damage every time you block with it." }
+entries[9939] = { ["name"] = "Mithril Shield Spike", ["text"] = "45 sec cast\nTools: Blacksmith Hammer\nReagents:\nMithril Bar (4), Truesilver Bar (2), Solid Grinding Stone (4)\nMithril Shield Spike\nRequires Blacksmithing\n(215)\nUse: Attaches a Mithril Spike to your shield that deals damage every time you block with it." }
 entries[9940] = { ["name"] = "Plans: Mithril Shield Spike", ["text"] = "100 yd range\n3 sec cast\nTeaches you how to make a Mithril Shield Spike." }
 entries[9941] = { ["name"] = "Spell Reflection" }
 entries[9942] = { ["name"] = "Mithril Scale Gloves", ["text"] = "1 min cast\nTools: Blacksmith Hammer\nReagents:\nMithril Bar (8), Heavy Leather (6), Mageweave Cloth (4)" }
@@ -790,7 +790,7 @@ entries[9959] = { ["name"] = "Heavy Mithril Breastplate", ["text"] = "1 min cast
 entries[9960] = { ["name"] = "Heavy Mithril Breastplate" }
 entries[9961] = { ["name"] = "Mithril Coif", ["text"] = "1 min cast\nTools: Blacksmith Hammer\nReagents:\nMithril Bar (10), Mageweave Cloth (6)\nMithril Coif\nBinds when equipped\nHead Mail\n206 Armor\n+12 Stamina\n+13 Spirit\nDurability 60 / 60\n41" }
 entries[9962] = { ["name"] = "Mithril Coif" }
-entries[9964] = { ["name"] = "Mithril Spurs", ["text"] = "1 min cast\nTools: Blacksmith Hammer\nReagents:\nMithril Bar (4), Solid Grinding Stone (3)\nMithril Spurs\nRequiresBlacksmithing\n(215)\nUse: Attaches spurs to your boots that increase your mounted movement speed slightly." }
+entries[9964] = { ["name"] = "Mithril Spurs", ["text"] = "1 min cast\nTools: Blacksmith Hammer\nReagents:\nMithril Bar (4), Solid Grinding Stone (3)\nMithril Spurs\nRequires Blacksmithing\n(215)\nUse: Attaches spurs to your boots that increase your mounted movement speed slightly." }
 entries[9965] = { ["name"] = "Plans: Mithril Spurs", ["text"] = "100 yd range\n3 sec cast\nTeaches you how to make Mithril Spurs." }
 entries[9966] = { ["name"] = "Mithril Scale Shoulders", ["text"] = "1 min cast\nTools: Blacksmith Hammer\nReagents:\nMithril Bar (14), Thick Leather (4), Citrine (4)\nMithril Scale Shoulders\nBinds when equipped\nShoulder Mail\n194 Armor\n+10 Stamina\n+10 Spirit\nDurability 60 / 60\n42" }
 entries[9967] = { ["name"] = "Plans: Mithril Scale Shoulders", ["text"] = "100 yd range\n3 sec cast\nTeaches you how to make Mithril Scale Shoulders." }

@@ -289,7 +289,7 @@ entries[6179] = { ["name"] = "Privateer's Cape", ["text"] = "Binds when equipped
 entries[6180] = { ["name"] = "Slarkskin", ["text"] = "Binds when equipped\nChest Mail\n144 Armor\n+3 Agility\n+2 Stamina\nDurability 75 / 75\nRequires Level 10" }
 entries[6181] = { ["name"] = "Fetish of Hakkar", ["text"] = "Quest Item" }
 entries[6182] = { ["name"] = "Dim Torch", ["text"] = "Duration: 1 hourHeld In Off-hand\nRequires Level 5\nEquip: Increase the Spirit of nearby party members by 4." }
-entries[6183] = { ["name"] = "Unlit Poor Torch", ["text"] = "RequiresSurvival\n(25)" }
+entries[6183] = { ["name"] = "Unlit Poor Torch", ["text"] = "Requires Survival\n(25)" }
 entries[6184] = { ["name"] = "Monstrous Crawler Leg", ["text"] = "Quest Item" }
 entries[6185] = { ["name"] = "Bear Shawl", ["text"] = "Binds when picked up\nBack\n5 Armor" }
 entries[6186] = { ["name"] = "Trogg Slicer", ["text"] = "Binds when picked up\nTwo-Hand Sword\n32 - 49 Damage Speed 3.40\n(11.91 damage per second)\n+5 Spirit\nDurability 60 / 60" }

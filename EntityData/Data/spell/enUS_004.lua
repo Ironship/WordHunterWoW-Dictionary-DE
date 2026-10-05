@@ -917,10 +917,10 @@ entries[7217] = { ["name"] = "Weapon Counterweight" }
 entries[7218] = { ["name"] = "Weapon Counterweight", ["text"] = "3 sec cast\nAttaches a counterweight to a two-handed sword, mace, axe or polearm making it 3% faster." }
 entries[7219] = { ["name"] = "Immune to Disarm", ["text"] = "Immune to Disarm." }
 entries[7220] = { ["name"] = "Weapon Chain", ["text"] = "3 sec cast\nRequires Melee Weapon\nAttaches a chain to your weapon, making it impossible to disarm." }
-entries[7221] = { ["name"] = "Iron Shield Spike", ["text"] = "25 sec cast\nTools: Blacksmith Hammer\nReagents:\nIron Bar (6), Coarse Grinding Stone (4)\nRequiresBlacksmithing\n(150)\nUse: Attaches an Iron Spike to your shield that deals damage every time you block with it." }
-entries[7222] = { ["name"] = "Iron Counterweight", ["text"] = "25 sec cast\nTools: Blacksmith Hammer\nReagents:\nIron Bar (4), Coarse Grinding Stone (2), Lesser Moonstone\nRequiresBlacksmithing\n(165)\nUse: Attaches a counterweight to a two-handed sword, mace, axe or polearm making it 3% faster." }
+entries[7221] = { ["name"] = "Iron Shield Spike", ["text"] = "25 sec cast\nTools: Blacksmith Hammer\nReagents:\nIron Bar (6), Coarse Grinding Stone (4)\nRequires Blacksmithing\n(150)\nUse: Attaches an Iron Spike to your shield that deals damage every time you block with it." }
+entries[7222] = { ["name"] = "Iron Counterweight", ["text"] = "25 sec cast\nTools: Blacksmith Hammer\nReagents:\nIron Bar (4), Coarse Grinding Stone (2), Lesser Moonstone\nRequires Blacksmithing\n(165)\nUse: Attaches a counterweight to a two-handed sword, mace, axe or polearm making it 3% faster." }
 entries[7223] = { ["name"] = "Golden Scale Bracers", ["text"] = "25 sec cast\nTools: Blacksmith Hammer\nReagents:\nSteel Bar (5), Heavy Grinding Stone (2)\nWrist Mail\n91 Armor\nDurability 35 / 35\n32" }
-entries[7224] = { ["name"] = "Steel Weapon Chain", ["text"] = "25 sec cast\nTools: Blacksmith Hammer\nReagents:\nSteel Bar (8), Heavy Grinding Stone (2), Heavy Leather (4)\nRequiresBlacksmithing\n(190)\nUse: Attaches a chain to your weapon, making it impossible to disarm." }
+entries[7224] = { ["name"] = "Steel Weapon Chain", ["text"] = "25 sec cast\nTools: Blacksmith Hammer\nReagents:\nSteel Bar (8), Heavy Grinding Stone (2), Heavy Leather (4)\nRequires Blacksmithing\n(190)\nUse: Attaches a chain to your weapon, making it impossible to disarm." }
 entries[7225] = { ["name"] = "Golden Scale Bracers" }
 entries[7226] = { ["name"] = "Plans: Iron Shield Spike", ["text"] = "100 yd range\n3 sec cast\nTeaches you how to make an Iron Shield Spike." }
 entries[7227] = { ["name"] = "Plans: Iron Counterweight", ["text"] = "100 yd range\n3 sec cast\nTeaches you how to make an Iron Counterweight to help balance a two-handed weapon." }

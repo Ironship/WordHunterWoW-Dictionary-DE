@@ -14,7 +14,7 @@
     "version": 1,
     "formulas": "Retain prose and substitute unevaluated numeric formulas/macros with [Quellwert] / [source value].",
     "scope": "Static learning references; no native gameplay statistics or ENPanel tables are overwritten.",
-    "changedFieldValues": 107758,
+    "changedFieldValues": 107778,
     "recordsWithUnresolvedValues": 564
   },
   "sourceFiles": [
@@ -285,188 +285,188 @@
   ],
   "generatedFiles": {
     "EntityData/Data/item/deDE_000.lua": {
-      "sha256": "e186267f22801043b2c28a17b660cfe36e8be913d9f425ba01f2a73e48c1474c",
-      "bytes": 166259
+      "sha256": "08dcecfd6e118d3bb3f28775952dde563014d5268056066d19acb3dc3df0860d",
+      "bytes": 166228
     },
     "EntityData/Data/item/deDE_001.lua": {
-      "sha256": "9d8a47c1646541aed76904cce23cd6f33befc00db1b493310bc5e9ee9e43e911",
-      "bytes": 156470
+      "sha256": "ac58a515525d0dea7765d9d4de37f79df6da0eaa45c5f3fdc30d5b5d3b6612d7",
+      "bytes": 156459
     },
     "EntityData/Data/item/deDE_002.lua": {
-      "sha256": "a8dd3b788ad5d96671041b8403b948499b93011f1fc8f4acdba83da90aa18a99",
-      "bytes": 167698
+      "sha256": "08c8a1116baffa12e2d89de7bcac4e82f21e5b2af268135a42909cc31553aa28",
+      "bytes": 167663
     },
     "EntityData/Data/item/deDE_003.lua": {
-      "sha256": "0cb30acfca57c2d6a841dc03bae031ee6bdc0cb870ededc2a4c14c5a2a46cfdd",
-      "bytes": 146484
+      "sha256": "f4358471d453305a96f32b3be0ec8f6e00ac3853b8d4e2619174ca9b9de6fe1d",
+      "bytes": 146476
     },
     "EntityData/Data/item/deDE_004.lua": {
-      "sha256": "c9b6ee101a36143eb35340121c760f4f3af569ab7a27b6c8e08a379b9800ff0d",
-      "bytes": 165056
+      "sha256": "57fef4e16925c4e28e24ea3bfd44816b536710cd252243b5743aa70df1d509c0",
+      "bytes": 165037
     },
     "EntityData/Data/item/deDE_005.lua": {
-      "sha256": "03e78ff980be8ac48e37c46b00ef7389a562809c64a53e78cfcfbad15b1ae1b2",
-      "bytes": 192691
+      "sha256": "82c72a7102fe59a7cedfa9e08ffe2914d435631e7c0cb8928a6e3d90cfef1c53",
+      "bytes": 192683
     },
     "EntityData/Data/item/deDE_006.lua": {
-      "sha256": "76b4d1c0c354edad111323ff08f12edf8585635f5cfe2c7497995197eeedbca1",
-      "bytes": 176466
+      "sha256": "902ff46fc49741411569405151da4655a98cefd8e6307cd3aef0755dbeefbf36",
+      "bytes": 176442
     },
     "EntityData/Data/item/deDE_007.lua": {
-      "sha256": "a7ba81459abf936c8d0785387ee77d4aa1d33c641f14bd7e928de9e1072ab652",
-      "bytes": 193721
+      "sha256": "a9dfd7473b5b63b2d95f4d04c2893b9c5036b2803ca23c3d3ec9ae355340e5e6",
+      "bytes": 193704
     },
     "EntityData/Data/item/deDE_008.lua": {
-      "sha256": "e540245f2338253a2ed4e7dd43fe3ebbb3014cb98f70e0ea59ebfaa449d304a1",
-      "bytes": 223085
+      "sha256": "c2f744589ba7572c7f7a97f2f0b876677f30566f5895e0ea61110b82009b2a8d",
+      "bytes": 223116
     },
     "EntityData/Data/item/deDE_009.lua": {
-      "sha256": "185b5538ba274ca9acfd2b6963b8893ba4a0eae12cda4614f13f3b15217b9ab2",
-      "bytes": 225063
+      "sha256": "3972688281f8abd707949e1c8d3ec5de0e4bf8dbd4bae8697692d257aa4175e2",
+      "bytes": 225066
     },
     "EntityData/Data/item/deDE_010.lua": {
-      "sha256": "6ed716d8ecdc3e542012b5dc373c736e279eaa980896ce33608d9494dae9f242",
-      "bytes": 214859
+      "sha256": "e0fdaa80a39abb600c55b4c268482d421db6fc2282cf2ce01ec07e54c9b79eb6",
+      "bytes": 214840
     },
     "EntityData/Data/item/deDE_011.lua": {
-      "sha256": "7576abb3eb9befcd35007ed0442405a891862c1ae1b1f554f911b65d1d1dafad",
-      "bytes": 429981
+      "sha256": "3f7ea8de67d8e98a1027d5f91f49392f180cfae95e8f5fdcd256a1c8d6160197",
+      "bytes": 429967
     },
     "EntityData/Data/item/deDE_012.lua": {
-      "sha256": "c33bbbd303913f57269938a306bff59e8ea2a6e5def34305ee6b3009186f532e",
-      "bytes": 272340
+      "sha256": "adabae2b68332e6697a21df89ce220ffee2804f177d7c34fa0618910f147a6d3",
+      "bytes": 272363
     },
     "EntityData/Data/item/deDE_013.lua": {
-      "sha256": "d7cc7078e47f2be0bfed8fb7ba53aafd860ccf30db9019f8899c8ac1b05efa9e",
-      "bytes": 306406
+      "sha256": "556e7f755af8c5df85454c951ea2d3f0bce76652a4435ae139b7eb30818c807e",
+      "bytes": 306623
     },
     "EntityData/Data/item/deDE_014.lua": {
-      "sha256": "97ab23ffadcb0f927b6a6f601dd71b7c5587a0b5a90f3c19842d61fe33d98527",
-      "bytes": 258156
+      "sha256": "47d9961a27de4544b4ba14c9f74e06bc36c006455fab623ac2f590a1fd557998",
+      "bytes": 258185
     },
     "EntityData/Data/item/deDE_015.lua": {
-      "sha256": "0a85683d75b585c4e46a2f4de93efb1ecc418f2fe08d6e24b7b22b9601e77705",
-      "bytes": 418103
+      "sha256": "afc33fa48ea3f93ca95aa178152af9a21bda6665bee85ee95ce55223fdce33ba",
+      "bytes": 418128
     },
     "EntityData/Data/item/deDE_016.lua": {
-      "sha256": "dd207c601228e046c895251dde721b9cd89e3f5123668d6d2196fd5e950a1876",
-      "bytes": 319565
+      "sha256": "30bf76cfc0417ed37003c0f556b649620d68b8a7b5895e2f34780d2978b9c30e",
+      "bytes": 319564
     },
     "EntityData/Data/item/deDE_017.lua": {
-      "sha256": "edccadd962747c423add0ed07859f30ddecf749aa0d2b3cbbd92ad66e71bd27c",
-      "bytes": 391576
+      "sha256": "45fc87bd25fcf810646a9da61e5a88bd31ebe44f4f4c8de332493557be3a877c",
+      "bytes": 391643
     },
     "EntityData/Data/item/deDE_018.lua": {
-      "sha256": "20674baa76a115c9a0b1858b02dda984090d73c807ff8be650c875ad306f0e54",
-      "bytes": 689307
+      "sha256": "ac2f5a3dfbe8da0af6d09cb0bbf0f21e01eb664fbdfbb67e2386b02341b4091b",
+      "bytes": 689302
     },
     "EntityData/Data/item/deDE_019.lua": {
-      "sha256": "1a1f78bdbcf1c2f26e7b1b8f889096366b20e213d1df55e293b2ba1737f10f4b",
-      "bytes": 414665
+      "sha256": "c3a304b619fbd04f627e9519995d6610519ed22d903ad19ab5d82da8b0f603ec",
+      "bytes": 414698
     },
     "EntityData/Data/item/deDE_020.lua": {
-      "sha256": "61205156e31d59051a823f2393a4069d0fee5a57d5d8cdda06cab50b2966e3de",
-      "bytes": 704990
+      "sha256": "d78680292dcde90881d89fe2b1058bf93cd76fb38259e97415ac76c15cfe288e",
+      "bytes": 704987
     },
     "EntityData/Data/item/deDE_021.lua": {
-      "sha256": "4338d5db5e2d18f20ea2e09890a55dd6e10ef8a2b4a3f7a36a13df0c0803b7f1",
-      "bytes": 580983
+      "sha256": "deb6ca075c4ef7033eaa3e8acbd89b2de07ea23063ff36f88203a66de09a13f4",
+      "bytes": 581049
     },
     "EntityData/Data/item/deDE_022.lua": {
-      "sha256": "be5a0611b14067e41a01432b40689846967617a16bcd5fd684bccb89ffddaf5e",
-      "bytes": 499448
+      "sha256": "225652a8cd9205288e9b2a74263da6baf0c592506a1782f000aaabdd4f712161",
+      "bytes": 499442
     },
     "EntityData/Data/item/enUS_000.lua": {
-      "sha256": "fa9291e26987f703f262bc72b35cf5436f9e6729a044e18f431abfdd3efec060",
-      "bytes": 148278
+      "sha256": "ee289e9f2e8ad1f1fcd3119357fd771bef9a2b83ed8558401135d9b2b93c0ac7",
+      "bytes": 148275
     },
     "EntityData/Data/item/enUS_001.lua": {
-      "sha256": "8733ab7d2f1fef8f77a9382765744b3939993c65d5c4075218267df00136af94",
-      "bytes": 139736
+      "sha256": "64921e432f89da23074453fe85c817dfe4d6250cc14f3783c61367f374a8a36a",
+      "bytes": 139738
     },
     "EntityData/Data/item/enUS_002.lua": {
-      "sha256": "e02ee80c2288528741b83743dabab124e2ed342eb45c0ce1cf4af8dd5eb5f915",
-      "bytes": 147272
+      "sha256": "2a0a89961d762e45c103ac0ffe8751054ba6c609e768d11f70ab0e1389ee618c",
+      "bytes": 147271
     },
     "EntityData/Data/item/enUS_003.lua": {
-      "sha256": "f25d3d4a3225d095f494e03f68ce1cc9efc842403b002a49adc0189b0498f0ab",
-      "bytes": 128805
+      "sha256": "108f39673681db4e617bc1663e82d7c46f513c6781559e898bceb01861ad4b85",
+      "bytes": 128807
     },
     "EntityData/Data/item/enUS_004.lua": {
-      "sha256": "8aa8c1c12c91ab98872c43a09f10194bb263a0c2f12d332acd838d80d84568d6",
-      "bytes": 145726
+      "sha256": "5fb842f6361ef06d20aa00cddb59f06ec048839b7a123e530d95718f9126cf2e",
+      "bytes": 145727
     },
     "EntityData/Data/item/enUS_005.lua": {
-      "sha256": "04e90206546a00c9f0430fa16b75d79ad465217450fa5626779722823df1803e",
-      "bytes": 169500
+      "sha256": "0b706561f94be4810f71b5fec49994b12b7fffc71f2712040596534328d419b5",
+      "bytes": 169501
     },
     "EntityData/Data/item/enUS_006.lua": {
-      "sha256": "7b4f4da8ed303efbb3f1d6d0b376d2da9b8bd3bb55b0d0f173b09a8ffc4a4312",
-      "bytes": 155742
+      "sha256": "31f0344d5f525be6928c23aeabd972c9d5f6e1f6b20e2b8a98b2b4b21589ce17",
+      "bytes": 155741
     },
     "EntityData/Data/item/enUS_007.lua": {
-      "sha256": "9e4d53aa044c385dbe1fb7b29dad27cca0f20b371b5bcb22becf2b2a44efe8b8",
-      "bytes": 169419
+      "sha256": "d97ef061ce3b38d1bbebd940bd0aceccb5062119ddd1ceff58ccc8ec9536d900",
+      "bytes": 169422
     },
     "EntityData/Data/item/enUS_008.lua": {
-      "sha256": "b12492dfd7e8a6eca0f0d00726ca387734d3fc2c07f00291cbbe8019e8e008b5",
-      "bytes": 195731
+      "sha256": "e808d160fc18d0b867e37ab3aeb772337fb04314798bcb4d26522645ab70fbe9",
+      "bytes": 195760
     },
     "EntityData/Data/item/enUS_009.lua": {
-      "sha256": "6edb32cc54fe1a050a02636ae97210591a7f607624f8a0009c3ca6dd4fb4f9a5",
-      "bytes": 197161
+      "sha256": "8847ea3f72829c0363ee0bbfaad48be2af23f90dce224f99e5b6bd6dbc2888f9",
+      "bytes": 197173
     },
     "EntityData/Data/item/enUS_010.lua": {
       "sha256": "db5e4c66d4ecb786dc785ce464810ceef861aad5dbf1631a6d61d98fa4fdce94",
       "bytes": 189790
     },
     "EntityData/Data/item/enUS_011.lua": {
-      "sha256": "3a7e6eb1c7e3e2765859ef7ee9436d44b04a4b81d2815c9cc032d9c33c8d5a90",
-      "bytes": 370197
+      "sha256": "c91cf32b711719afc097bd6b7e989c9e945f7a5962ecf4152ab07c3196e3b9fb",
+      "bytes": 370201
     },
     "EntityData/Data/item/enUS_012.lua": {
-      "sha256": "6c49b20be129da33c9b8bfeb1372a96c5131e9abaa15ad50f742c0d76786b996",
-      "bytes": 236399
+      "sha256": "29787dff48c47fa3b3e0fe7cc7600c758aa021b65f6901fb4571839956727212",
+      "bytes": 236411
     },
     "EntityData/Data/item/enUS_013.lua": {
-      "sha256": "7f4adc35d96a16bc1a11f6da886a7928199f5cc11a116fedb5c0b8fb70da5e54",
-      "bytes": 263979
+      "sha256": "defba53d9da485606b3c0e018488c605f60419805613ee6693ae76fc1fe1a261",
+      "bytes": 264193
     },
     "EntityData/Data/item/enUS_014.lua": {
-      "sha256": "3f6e79f2de8965f0fec65a2658d588494038ae26d7f9a34ee82c6aa18fe21aa5",
-      "bytes": 223760
+      "sha256": "2c4c6797eb958697255a3c06bd3117c6e85402a1c5ec9fead8f38b1a87c2c2ef",
+      "bytes": 223793
     },
     "EntityData/Data/item/enUS_015.lua": {
-      "sha256": "3442781d5935f787140ef304b57a3c686c037866dcfac2bd652f78470ddc5f46",
-      "bytes": 357093
+      "sha256": "22319e1f16bd266bcdc912081dd6266a80ec087ab05bfb98a4205ee0c07b4153",
+      "bytes": 357127
     },
     "EntityData/Data/item/enUS_016.lua": {
-      "sha256": "0f86b907bd2d15d02256fe7dc8ac3a71b9874fd938ef5a44c667c2a8f72ff9ac",
-      "bytes": 272700
+      "sha256": "5ae857079030a530bc785f0b2a943e308fbca00a7cbd67ab3a0d8aafe325bd8f",
+      "bytes": 272705
     },
     "EntityData/Data/item/enUS_017.lua": {
-      "sha256": "4d740b0b45335af6ad6d7f29f9f74f6c70f52dc6f0fc2ce2409d1cfb0ef836e7",
-      "bytes": 343655
+      "sha256": "eeb10ad5cd2d90cd53a0ceab49b2c342a2f481fd9fab80075e0c3930ba575e6f",
+      "bytes": 343726
     },
     "EntityData/Data/item/enUS_018.lua": {
-      "sha256": "43925023d9546c8662fdfa8ceeeca063b94d7aa2539e4d050d5a6d1b149a4528",
-      "bytes": 593306
+      "sha256": "ad049c2bb823443e1e3e19656076043e4c24d0557cb04ceeef3d65607032e696",
+      "bytes": 593310
     },
     "EntityData/Data/item/enUS_019.lua": {
-      "sha256": "747bb1f40771c0039b1b5c07cca2104282b4bba7ea344e4ecb2fd13e4a9d936a",
-      "bytes": 359833
+      "sha256": "0405ea38d56fefe4155795b2facee5b875fd006c71c0fe0c215008d1fd813db8",
+      "bytes": 359863
     },
     "EntityData/Data/item/enUS_020.lua": {
-      "sha256": "774e6327b336862faa353a95732dfccafc5c20fd4addf8bf39a910d49ba9701a",
-      "bytes": 602848
+      "sha256": "f9b8e1485e45ad78d4392436ffd170494175eabee0afb0aac834db3880fde785",
+      "bytes": 602849
     },
     "EntityData/Data/item/enUS_021.lua": {
-      "sha256": "5be953b55c566aa7fddc031a5dcc4c538c7903f88ae6842b52d98dfdc23241d2",
-      "bytes": 504654
+      "sha256": "d52d625b83c72c6f0d0d7c71f8f575ea02330e8b4a3b9328c24e1a92a1425bb9",
+      "bytes": 504733
     },
     "EntityData/Data/item/enUS_022.lua": {
-      "sha256": "279fd84c16740320a826a15947290bf2e5f3f8211e9584b790e14e1120ee4da4",
-      "bytes": 426542
+      "sha256": "e3bd0384f46e3b3f6f671c7abcc24145c124915b1facb18ac9f30ecffd4cfc35",
+      "bytes": 426541
     },
     "EntityData/Data/npc/deDE_000.lua": {
       "sha256": "6b5b68c71336ea51deb704b74315bfb596a882efb3635c3b45845e3531453208",
@@ -569,72 +569,72 @@
       "bytes": 119903
     },
     "EntityData/Data/spell/deDE_001.lua": {
-      "sha256": "8d24d7c06d882996f77734f34a090912f9575fa78435bcb9f1e9bc667d48a87c",
-      "bytes": 129718
+      "sha256": "8f401edb9450c4380392b8fcd8bb79c45ffc3716469a92d8e830798cae6beeb0",
+      "bytes": 129722
     },
     "EntityData/Data/spell/deDE_002.lua": {
-      "sha256": "9640cf6754fb4932f40349911d0f0e07f2c2b0c40fc190412c5cef465b650a36",
-      "bytes": 151200
+      "sha256": "4c600a448ba6c5c7e4bb4bd0db728e0746436bb430cfc77e5700e90190dd230f",
+      "bytes": 151224
     },
     "EntityData/Data/spell/deDE_003.lua": {
       "sha256": "6e70d2a71c253c42ac4b79de57d57f71b6fa95bc28ca246e3e55a659aa7e999d",
       "bytes": 140731
     },
     "EntityData/Data/spell/deDE_004.lua": {
-      "sha256": "d93f62819de9478cddd3bb05cad6703e0c87bada3f995e52c086af2a3d4adf0d",
-      "bytes": 139691
+      "sha256": "8f1c5cfa1a313459acbc89dead2d17413d68ebb749de5e32c27ddf25fa18add0",
+      "bytes": 139694
     },
     "EntityData/Data/spell/deDE_005.lua": {
-      "sha256": "f7a23a5ef957d38e4037e6ea9f4488e753647d6182cd0f4e7d8e0792109d47a0",
-      "bytes": 137887
+      "sha256": "6558624b502f011dba30f596cac41b40327464d179be2b30e53ada20d3f9d402",
+      "bytes": 137890
     },
     "EntityData/Data/spell/deDE_006.lua": {
-      "sha256": "e61b9cffd404fe477bdd7562b8c3cd6e3d5b0d9abf8218d64d7d0187fe0ac7bf",
-      "bytes": 156204
+      "sha256": "dc8738ce1086ce3daa5ca22278781d365f7b97b099ec4f7d970c1b0ac2c5a94b",
+      "bytes": 156209
     },
     "EntityData/Data/spell/deDE_007.lua": {
-      "sha256": "0c502fddfe02ce01a4e8a3aa413bc4b8a18e999c68d3e97427f7b5cc92dbe092",
-      "bytes": 154243
+      "sha256": "aa1d64424b5e6dcf5975bd67f58d22279f96b7066f270ac01b86931737b85bb2",
+      "bytes": 154245
     },
     "EntityData/Data/spell/deDE_008.lua": {
-      "sha256": "1e285a0319cb882c808f62b7036e3d53bca988ffea0027bc830fd39d8b3dba19",
-      "bytes": 164877
+      "sha256": "95a0234962bd3d322d220476cd1fd93c3d5edac844f2c58dd75d8f43ec568178",
+      "bytes": 164906
     },
     "EntityData/Data/spell/deDE_009.lua": {
       "sha256": "efb12e89538bff20e3035020cfc55488fb57dce25b96cbf30bcde95735c47087",
       "bytes": 142625
     },
     "EntityData/Data/spell/deDE_010.lua": {
-      "sha256": "c20e50f6c872ff25ecd5a4c0d210da2b9b33c9ce9a6c1738eb9015bbb1bdbd17",
-      "bytes": 144604
+      "sha256": "8059ff36c04911fd746ce82d68c514120f8131984f350374e163181f50fa4ee7",
+      "bytes": 144605
     },
     "EntityData/Data/spell/deDE_011.lua": {
-      "sha256": "44c32a98c9092bc2dbd09fd1919cfa7d0a9ade5bd95c78ccf074f61f96312b1f",
-      "bytes": 175046
+      "sha256": "5af793fc7c1a32cf713a82ae5d618abc9b94fc2e1c2cc9cee85d3cd98cf73a7b",
+      "bytes": 175047
     },
     "EntityData/Data/spell/deDE_012.lua": {
-      "sha256": "eb3d5228628b68466d00f559ade88d4b8a6c4070d6e25a7998564fc4425a79be",
-      "bytes": 159216
+      "sha256": "e727df8da44c55ab8ba333b95b66fafb99dc9beba1d6ed412d4cd73d0aaa4336",
+      "bytes": 159217
     },
     "EntityData/Data/spell/deDE_013.lua": {
-      "sha256": "fd844e79c0460094f7cbed4e3581bc52913e0130ba32973bb6480298b5c70b98",
-      "bytes": 170234
+      "sha256": "de1277ccadefa3828032a574fae5ba0ac45bc5cec2a0f0379cff968ea2f6093b",
+      "bytes": 170248
     },
     "EntityData/Data/spell/deDE_014.lua": {
       "sha256": "3be2cf9b9952deabcc0dba98ce7dcf8ffbe1e0d994481ceb64c2e598160c71ef",
       "bytes": 164722
     },
     "EntityData/Data/spell/deDE_015.lua": {
-      "sha256": "9b301e8165c375a908e02c4d9c567a8ac32126063c38e1702a81c159f4051dd2",
-      "bytes": 137007
+      "sha256": "cdd9b93bf9721d1429e679b76d177fd684fcf824bb7f36df3dab6f66bb614188",
+      "bytes": 137010
     },
     "EntityData/Data/spell/deDE_016.lua": {
-      "sha256": "7770829268f19fbbc6334d778293eca12701228b575071cd919e0049680ac89d",
-      "bytes": 139945
+      "sha256": "ed6724573715980390f191d16187f2622ede3898d23133d9c9dd0d952997cc9e",
+      "bytes": 139982
     },
     "EntityData/Data/spell/deDE_017.lua": {
-      "sha256": "bdd63f54dc3e4ddb5e0259ec326cd4912230b9ee332d1a4a47f3424972f73d9a",
-      "bytes": 149394
+      "sha256": "b32c9ed2a5f8c78bb6dbc08d16cbae984c0586dc2232d758eeffc53d01da5301",
+      "bytes": 149396
     },
     "EntityData/Data/spell/deDE_018.lua": {
       "sha256": "b3f6b7b0c6fe8de64bb48db1595d25b406b046430cf095df6e97e9dc91b2e3c5",
@@ -653,32 +653,32 @@
       "bytes": 246939
     },
     "EntityData/Data/spell/deDE_022.lua": {
-      "sha256": "7f90e4e7b26113fe490306edc779d9d3936c87df9e03f3b96d958b27b73ffdec",
-      "bytes": 189275
+      "sha256": "c872f7904765c77a9ef3c901410ecfbbbe3fec353712dc95b8f0cac309ec8afb",
+      "bytes": 189279
     },
     "EntityData/Data/spell/deDE_023.lua": {
-      "sha256": "17ea032dfe40a35b0dc0015690863a028dfaa04125a73828dce8846b5623ce3f",
-      "bytes": 173440
+      "sha256": "e6421e730d9a23f72015019838b974f5cd3fd949ac667bf7223be6067638d9a6",
+      "bytes": 173451
     },
     "EntityData/Data/spell/deDE_024.lua": {
-      "sha256": "c254821d3674d74c1d2c480aea00b3a21dd427e5773c9b2d9c253a7da16deffd",
-      "bytes": 152334
+      "sha256": "28c88162900f33e5ce005ebc93661c64fa648005c1ecadb2d74dd9f9360766e1",
+      "bytes": 152352
     },
     "EntityData/Data/spell/deDE_025.lua": {
-      "sha256": "a2f3b1f10eb6c75beb900f6a1a246e892814d450c67561545b84fa26ffd35183",
-      "bytes": 158467
+      "sha256": "f79b02e7a00bebcdc9edc7964727de59214b3840b56a520f7650f2d8d25a2661",
+      "bytes": 158468
     },
     "EntityData/Data/spell/deDE_026.lua": {
-      "sha256": "ac0bd7749c644cea07b9b199bc8b36d89b5c8e32184574c467ecd4b1529d0de7",
-      "bytes": 192834
+      "sha256": "b04e1786cf615be7d74d0d63eeb5f57c2178216a2e617cd6184198ae32164bb7",
+      "bytes": 192836
     },
     "EntityData/Data/spell/deDE_027.lua": {
       "sha256": "ab0c43d81854377c893e28fbe2b16ac3634789168b024c1a49783b6f6d920bd6",
       "bytes": 205811
     },
     "EntityData/Data/spell/deDE_028.lua": {
-      "sha256": "e0d8131aac33154aaa1930d17d4e7b2f93c3b969810c83e09ea07fdd8f33501a",
-      "bytes": 149195
+      "sha256": "6a70c142e8703902e8746bebb94f3a940699c47ee6e5e1dff51846bab1802397",
+      "bytes": 149197
     },
     "EntityData/Data/spell/deDE_029.lua": {
       "sha256": "04463971925cd391e40207b4afbe0ee5d97ee30df39b30ced008c1d93f57aa77",
@@ -689,72 +689,72 @@
       "bytes": 104020
     },
     "EntityData/Data/spell/enUS_001.lua": {
-      "sha256": "f6acbc599b8ac880f0ae21357b84bdb5d3a6d98d5e217304e62ba40e12b29c48",
-      "bytes": 112640
+      "sha256": "746c61b0e555a3e6d13e793f786828f54aff5b9f81f105a1fd0020efbff6c0f9",
+      "bytes": 112644
     },
     "EntityData/Data/spell/enUS_002.lua": {
-      "sha256": "8b9a5327f3a84b8bda24cba47c049d0462ced8b4323b67a2950418da19f2570a",
-      "bytes": 132646
+      "sha256": "dbc94e2db6e7696d8885e92be4678f21abe8b0688ee92e4120be23a232da45fd",
+      "bytes": 132670
     },
     "EntityData/Data/spell/enUS_003.lua": {
       "sha256": "c51c3639c8b576beee85feb6c1daf80f4db6f86b5da2cb13d354bb506ae9892d",
       "bytes": 123520
     },
     "EntityData/Data/spell/enUS_004.lua": {
-      "sha256": "a6083d4e9ef52ecde2966a9439455be2abaacc3d2ec842bbc6cf116bb7209f71",
-      "bytes": 119986
+      "sha256": "2b3b81878644edd31525d71f23c81fe64838e0cd0d951ca8c6e38ff96583ed79",
+      "bytes": 119989
     },
     "EntityData/Data/spell/enUS_005.lua": {
-      "sha256": "24696874747d1100f0e614aaa541d2867a5ea3c66f3623056e2fef6d51c640ff",
-      "bytes": 120513
+      "sha256": "930caeed3d6d24bd9aa301bb8eac98cb7e37247e10b80c6ffdce27a624103242",
+      "bytes": 120516
     },
     "EntityData/Data/spell/enUS_006.lua": {
-      "sha256": "9431e6a08d5c390510b8974a36b9daddd36d1aa57a924424ef134a47a3da693f",
-      "bytes": 135912
+      "sha256": "5cf38920966e4cbfdfc2ddd8af07fe2456ca5a42f63aa6453af4e0b14f05eada",
+      "bytes": 135917
     },
     "EntityData/Data/spell/enUS_007.lua": {
-      "sha256": "fee8c8209a03e6bea18d5fb38114ac101791b3654b0a2ed9c16f3f20a727e953",
-      "bytes": 133079
+      "sha256": "83a0bbd74ffcbbbca60dd20a5fde120e9f9ddf5acfa42c46d6db78901d505de2",
+      "bytes": 133081
     },
     "EntityData/Data/spell/enUS_008.lua": {
-      "sha256": "62735fe4582445d0ae59a3aed7d775349e1dd84079329332473bfa395eb831a6",
-      "bytes": 144566
+      "sha256": "1317e1044dfbcf4ebb51a75455574bbd89fc8a72b2684b03b07ec09ba0499c38",
+      "bytes": 144595
     },
     "EntityData/Data/spell/enUS_009.lua": {
       "sha256": "d068742a87783739fd2bc8d39a7c2bb9705da3d5129561376e00f0cadcb07fb2",
       "bytes": 126533
     },
     "EntityData/Data/spell/enUS_010.lua": {
-      "sha256": "a5b26df6fcfed844df422d4ef8e1d6cd2b3202de1a072612c22a7a23a9ce5ac0",
-      "bytes": 126881
+      "sha256": "e54c09407bb09be63653f6f64259d086b5e5ad1b634d61f278b7b2a531f3d3ef",
+      "bytes": 126882
     },
     "EntityData/Data/spell/enUS_011.lua": {
-      "sha256": "20766e9ab9a283483d0539e9b2f1d44ff03f4e69461603b6d019f4b514b2c313",
-      "bytes": 152333
+      "sha256": "aed8792eb8260788e545833141a4c9691e6feee985595f62a0f43adf6c8c6bdf",
+      "bytes": 152334
     },
     "EntityData/Data/spell/enUS_012.lua": {
-      "sha256": "b9b5b8a411ed6554c5adb7dbd53efe62e07734d1f0b47e8fad4a33df260f7dd9",
-      "bytes": 138282
+      "sha256": "f414b70f9c576224ab0978e81159bc17a74963ce17b81eb91ba9986ed2583097",
+      "bytes": 138283
     },
     "EntityData/Data/spell/enUS_013.lua": {
-      "sha256": "cb4ae58ede8b36e846c08e0a8580bdef36a69e5ec77af004736626e58aab7a3a",
-      "bytes": 147354
+      "sha256": "15f67783638b134d2301d28a4f78cead5c49c2606b62a8c9aa2f13052151e06c",
+      "bytes": 147368
     },
     "EntityData/Data/spell/enUS_014.lua": {
       "sha256": "0cf2142d4f8c02ffe4af2da5d6d46617ad135e14d41cbceadc0ce714c91958b0",
       "bytes": 141747
     },
     "EntityData/Data/spell/enUS_015.lua": {
-      "sha256": "03867e4716b144374498ae8cc9f7bb5e3d1dc7b085d330715d68c0c06e6c13c2",
-      "bytes": 120576
+      "sha256": "d01eecf62b3c49bef2301286d0fbdf1749efce8c8425c12a90dc81e666760be7",
+      "bytes": 120579
     },
     "EntityData/Data/spell/enUS_016.lua": {
-      "sha256": "84d3956f0a2af7d417b2dbead56c810be66ac2782fe220845052b14ba1465eab",
-      "bytes": 124269
+      "sha256": "c040e8a3f7d8e1ff5d4d0526b805475aef9db4dce65a1cd221eb8ccdab243f36",
+      "bytes": 124306
     },
     "EntityData/Data/spell/enUS_017.lua": {
-      "sha256": "6e8b01bd3e88d8a0194af208a3dea13f71f62426cf8c6d60b0f46cfea052e40c",
-      "bytes": 130977
+      "sha256": "76d2e1dd85ed8359370d483cf6e25e83bdb5c34020e16ec30558ec1d2651d9ce",
+      "bytes": 130979
     },
     "EntityData/Data/spell/enUS_018.lua": {
       "sha256": "202343d0a2fd5f3f8e07289122919978047d8b2370a956be2ac53050adbcf605",
@@ -773,32 +773,32 @@
       "bytes": 225980
     },
     "EntityData/Data/spell/enUS_022.lua": {
-      "sha256": "1e26df82b301c9b047815212a936fae8136e823fbba5c25f5c7b6f155c4e2844",
-      "bytes": 174542
+      "sha256": "244fd3205ff5fdafc72788614f94c63042f794721fea4b40ce041bdd3c11fc1f",
+      "bytes": 174546
     },
     "EntityData/Data/spell/enUS_023.lua": {
-      "sha256": "1ea5a2738a5007d6c27c29db5a262a5ed69e4360db491dacf8d99e57416473b6",
-      "bytes": 149437
+      "sha256": "34c7a5fa01206a568ac1aea4024493e57b42b5f8e29963f03ed0e6a7cd4e9eac",
+      "bytes": 149448
     },
     "EntityData/Data/spell/enUS_024.lua": {
-      "sha256": "1413e041e3aac960d28d59255313a9f87b42adfc938d5ec84e1c68192f78f93c",
-      "bytes": 135263
+      "sha256": "ced9b2f8d319207fee4e8dc1a5f4aaab78b29a8e5b687c26d5e675ef6a056fe9",
+      "bytes": 135282
     },
     "EntityData/Data/spell/enUS_025.lua": {
-      "sha256": "8f72212546e876d79b60fbf58a40ab823e8587b8df3b542e73b93cdd139010be",
-      "bytes": 139269
+      "sha256": "508a4a8025a05f2bce194ec7302f5d59f447c75323d51e0890f53076ecde74ab",
+      "bytes": 139270
     },
     "EntityData/Data/spell/enUS_026.lua": {
-      "sha256": "c01e16a0edc1219efa898f4d020935a86ed299626a5f11b7264b3542e340c59f",
-      "bytes": 170289
+      "sha256": "0aca93c7fbff66f849832b7104e23238f4b002cd0c5e1407eb4a26efd2ab2305",
+      "bytes": 170291
     },
     "EntityData/Data/spell/enUS_027.lua": {
       "sha256": "6ffab8be6bc226ec5584ed6ae779263493cd8c90f0ea5ff5892d82d029d2229b",
       "bytes": 185242
     },
     "EntityData/Data/spell/enUS_028.lua": {
-      "sha256": "af9595e7866fd2ef3052724f9e27cfa90c9595997c0123d49b969933c83a56cf",
-      "bytes": 132675
+      "sha256": "321f0d45863aea5d620dd267dd90ef0d02022dceebaa5bb5a19735eb395b967c",
+      "bytes": 132677
     },
     "EntityData/Data/spell/enUS_029.lua": {
       "sha256": "1931510e158c358dcb2de519b58ba128e6be42052d023de694222c8bd411186d",
@@ -12438,8 +12438,8 @@
   },
   "normalizedCorpus": {
     "file": "reference-entity-corpus.jsonl",
-    "sha256": "0b7c769133b7f2304b8cd76c779e9bc03ca0ead43325dd60359100a1b2d1ea3a",
-    "bytes": 41538533,
+    "sha256": "fd1703590c395ef460981f86edb53abbf81d91a67e19edf16d2061c0dc5d8abe",
+    "bytes": 41539692,
     "rows": 215336,
     "rowsByLocale": {
       "deDE": 107264,

@@ -179,7 +179,7 @@ entries[871] = { ["name"] = "Wirbelwindaxt", ["text"] = "Wird beim Anlegen gebun
 entries[872] = { ["name"] = "Steinschneider", ["text"] = "Wird beim Aufheben gebunden\nZweihändig Axt\n36 - 55 Schaden Tempo 3.30\n(13.79 Schaden pro Sekunde)\n+7 Stärke\nHaltbarkeit 65 / 65\nBenötigt Stufe 16" }
 entries[873] = { ["name"] = "Stab des Jordan", ["text"] = "Wird beim Anlegen gebunden\nZweihändig Stab\n119 - 180 Schaden Tempo 3.70\n(40.41 Schaden pro Sekunde)\n+11 Intelligenz\n+11 Willenskraft\nHaltbarkeit 120 / 120\nBenötigt Stufe 35\nAnlegen: Erhöht durch Zauber und magische Effekte zugefügten Schaden und Heilung um bis zu 26." }
 entries[875] = { ["name"] = "Beschwörung des braunen Pferdes", ["text"] = "Reittier\nBenutzen: Beschwört ein reitbares braunes Pferd oder gibt es frei." }
-entries[876] = { ["name"] = "Abgenutzter Holz-Rundschild", ["text"] = "Schildhand} Schild\n5 Rüstung\n1 Blocken\nHaltbarkeit 20 / 20" }
+entries[876] = { ["name"] = "Abgenutzter Holz-Rundschild", ["text"] = "Schildhand Schild\n5 Rüstung\n1 Blocken\nHaltbarkeit 20 / 20" }
 entries[878] = { ["name"] = "Faustgroße Spinndrüse" }
 entries[880] = { ["name"] = "Stab des Schreckens", ["text"] = "Wird beim Anlegen gebunden\nZweihändig Stab\n41 - 62 Schaden Tempo 3.40\n(15.15 Schaden pro Sekunde)\nHaltbarkeit 70 / 70\nBenötigt Stufe 18\nTrefferchance: Verringert den vom Ziel verursachten Schaden 2 Min. lang um 5." }
 entries[884] = { ["name"] = "Ghulrippe", ["text"] = "Questgegenstand" }
@@ -217,7 +217,7 @@ entries[932] = { ["name"] = "Satteltaschen für ein Teufelsross", ["text"] = "Ei
 entries[933] = { ["name"] = "Großer Rucksack", ["text"] = "10 Platz Behälter" }
 entries[934] = { ["name"] = "Stalvans Schneide", ["text"] = "Wird beim Anlegen gebunden\nEinhändig Axt\n50 - 94 Schaden Tempo 2.90\n(24.83 Schaden pro Sekunde)\nHaltbarkeit 90 / 90\nBenötigt Stufe 32\nTrefferchance: Verringert 1 Min. lang alle Attribute des Ziels um 2." }
 entries[935] = { ["name"] = "Kurzschwert der Nachtwache", ["text"] = "Wird beim Anlegen gebunden\nEinhändig Schwert\n24 - 46 Schaden Tempo 2.60\n(13.46 Schaden pro Sekunde)\n+4 Ausdauer\nHaltbarkeit 65 / 65\nBenötigt Stufe 15" }
-entries[936] = { ["name"] = "Mitternachtsstreitkolben", ["text"] = "Wird beim Anlegen gebunden\nEinhändig Streitkolben\n{45 - 84 Schaden Tempo 2.50 + 1 - 10 Schattenschaden\n(28.00 Schaden pro Sekunde)\n+10 Schattenwiderstand\nHaltbarkeit 90 / 90\nBenötigt Stufe 33" }
+entries[936] = { ["name"] = "Mitternachtsstreitkolben", ["text"] = "Wird beim Anlegen gebunden\nEinhändig Streitkolben\n45 - 84 Schaden Tempo 2.50 + 1 - 10 Schattenschaden\n(28.00 Schaden pro Sekunde)\n+10 Schattenwiderstand\nHaltbarkeit 90 / 90\nBenötigt Stufe 33" }
 entries[937] = { ["name"] = "Schwarzer Dämmerwaldstab", ["text"] = "Wird beim Anlegen gebunden\nZweihändig Stab\n75 - 113 Schaden Tempo 2.80\n(33.57 Schaden pro Sekunde)\nHaltbarkeit 100 / 100\nBenötigt Stufe 33\nTrefferchance: Schleudert einen Schattenblitz auf den Feind und verursacht 110 bis 140 Punkt(e) Schattenschaden." }
 entries[938] = { ["name"] = "Schlammverschmierte Tagebuchseiten", ["text"] = "Questgegenstand\nEinzigartig\n\"Obwohl die Seiten von Schlamm verschmiert sind, kann man einige Worte entziffern.\"\n<Zum Lesen rechtsklicken>" }
 entries[939] = { ["name"] = "Eine blutbefleckte Tagebuchseite", ["text"] = "Questgegenstand\nEinzigartig\n\"Durch das dicke Blut hindurch sind einige Worte immer noch lesbar.\"\n<Zum Lesen rechtsklicken>" }
@@ -269,7 +269,7 @@ entries[1035] = { ["name"] = "Schrifttafel des Geist rufens", ["text"] = "Klasse
 entries[1036] = { ["name"] = "Schrifttafel der Krankheit-Neutralisierung", ["text"] = "Klassen: Schamane\nBenötigt Stufe 16\nBenutzen: Lehrt 'Krankheit neutralisieren' (Rang 1)." }
 entries[1037] = { ["name"] = "Schrifttafel des Blitzschlags II", ["text"] = "Klassen: Schamane\nBenötigt Stufe 10\nBenutzen: Lehrt 'Blitzschlag' (Rang 2)." }
 entries[1038] = { ["name"] = "Schrifttafel der Wiederherstellung II", ["text"] = "Klassen: Schamane\nBenötigt Stufe 8\nBenutzen: Lehrt 'Welle der Heilung' (Rang 2)." }
-entries[1041] = { ["name"] = "Horn des schwarzen Wolfs", ["text"] = "Wird bei Benutzung gebunden\nReittier\nBenötigt eine Horde-Rasse\nBenötigt Stufe 40\nBenötigtWolfreiten\n(1)\nBenutzen: Beschwört einen reitbaren schwarzen Wolf oder gibt ihn frei. (3 Sek. Abklingzeit)" }
+entries[1041] = { ["name"] = "Horn des schwarzen Wolfs", ["text"] = "Wird bei Benutzung gebunden\nReittier\nBenötigt eine Horde-Rasse\nBenötigt Stufe 40\nBenötigt Wolfreiten\n(1)\nBenutzen: Beschwört einen reitbaren schwarzen Wolf oder gibt ihn frei. (3 Sek. Abklingzeit)" }
 entries[1048] = { ["name"] = "Schrifttafel des Blitzschlagschildes II", ["text"] = "Klassen: Schamane\nBenötigt Stufe 16\nBenutzen: Lehrt 'Blitzschlagschild' (Rang 2)." }
 entries[1049] = { ["name"] = "Schrifttafel der Reinigung", ["text"] = "Klassen: Schamane\nBenötigt Stufe 12\nBenutzen: Lehrt 'Reinigen'." }
 entries[1052] = { ["name"] = "Schrifttafel der Geistrüstung II", ["text"] = "Klassen: Schamane\nBenötigt Stufe 14\nBenutzen: Lehrt 'Geisterrüstung' (Rang 2)." }
@@ -316,9 +316,9 @@ entries[1127] = { ["name"] = "Blitzstrahlbündel", ["text"] = "Wird beim Aufhebe
 entries[1129] = { ["name"] = "Ghulfangzahn", ["text"] = "Questgegenstand" }
 entries[1130] = { ["name"] = "Phiole mit Spinnengift", ["text"] = "Questgegenstand" }
 entries[1131] = { ["name"] = "Totem des Gegenschlages", ["text"] = "Wird beim Aufheben gebunden\nIn Schildhand geführt\n50 Rüstung\nAnlegen: Bei einem Treffer im Kampf besteht eine Chance von 1%, dem Angreifer 75 bis 125 Punkt(e) Schattenschaden zuzufügen. (Procchance: 1%)" }
-entries[1132] = { ["name"] = "Horn des Waldwolfs", ["text"] = "Wird bei Benutzung gebunden\nReittier\nBenötigt eine Horde-Rasse\nBenötigt Stufe 40\nBenötigtWolfreiten\n(1)\nBenutzen: Beschwört einen reitbaren Waldwolf oder gibt ihn frei. (3 Sek. Abklingzeit)" }
-entries[1133] = { ["name"] = "Horn des Winterwolfs", ["text"] = "Wird bei Benutzung gebunden\nReittier\nVölker: Mensch , Orc , Zwerg , Nachtelf , Untoter , Gnom , Troll\nBenötigt Stufe 40\nBenötigtWolfreiten\n(1)\nBenutzen: Beschwört einen reitbaren Winterwolf oder gibt ihn frei. (3 Sek. Abklingzeit)" }
-entries[1134] = { ["name"] = "Horn des grauen Wolfs", ["text"] = "Wird bei Benutzung gebunden\nReittier\nBenötigt eine Horde-Rasse\nBenötigt Stufe 40\nBenötigtWolfreiten\n(1)\nBenutzen: Beschwört einen reitbaren grauen Wolf oder gibt ihn frei. (3 Sek. Abklingzeit)" }
+entries[1132] = { ["name"] = "Horn des Waldwolfs", ["text"] = "Wird bei Benutzung gebunden\nReittier\nBenötigt eine Horde-Rasse\nBenötigt Stufe 40\nBenötigt Wolfreiten\n(1)\nBenutzen: Beschwört einen reitbaren Waldwolf oder gibt ihn frei. (3 Sek. Abklingzeit)" }
+entries[1133] = { ["name"] = "Horn des Winterwolfs", ["text"] = "Wird bei Benutzung gebunden\nReittier\nVölker: Mensch , Orc , Zwerg , Nachtelf , Untoter , Gnom , Troll\nBenötigt Stufe 40\nBenötigt Wolfreiten\n(1)\nBenutzen: Beschwört einen reitbaren Winterwolf oder gibt ihn frei. (3 Sek. Abklingzeit)" }
+entries[1134] = { ["name"] = "Horn des grauen Wolfs", ["text"] = "Wird bei Benutzung gebunden\nReittier\nBenötigt eine Horde-Rasse\nBenötigt Stufe 40\nBenötigt Wolfreiten\n(1)\nBenutzen: Beschwört einen reitbaren grauen Wolf oder gibt ihn frei. (3 Sek. Abklingzeit)" }
 entries[1136] = { ["name"] = "Buchband: Göttliche Gunst II", ["text"] = "Klassen: Paladin\nBenötigt Stufe 18\nBenutzen: Lehrt 'Göttlicher Schutz' (Rang 2)." }
 entries[1138] = { ["name"] = "Buchband: Göttliche Gunst", ["text"] = "Klassen: Paladin\nBenötigt Stufe 4\nBenutzen: Lehrt 'Göttlicher Schutz' (Rang 1)." }
 entries[1139] = { ["name"] = "Buchband: Reinigung des Glaubens", ["text"] = "Klassen: Paladin\nBenötigt Stufe 30\nBenutzen: Lehrt 'Reinigung des Glaubens'." }
@@ -334,11 +334,11 @@ entries[1156] = { ["name"] = "Reich mit Juwelen besetzter Ring", ["text"] = "Wir
 entries[1158] = { ["name"] = "Robuste Metallkeule", ["text"] = "Wird beim Aufheben gebunden\nWaffenhand Streitkolben\n8 - 16 Schaden Tempo 2.70\n(4.44 Schaden pro Sekunde)\nHaltbarkeit 40 / 40" }
 entries[1159] = { ["name"] = "Milizsstecken", ["text"] = "Wird beim Aufheben gebunden\nZweihändig Stab\n6 - 9 Schaden Tempo 2.80\n(2.68 Schaden pro Sekunde)\nHaltbarkeit 35 / 35" }
 entries[1161] = { ["name"] = "Milizkurzschwert", ["text"] = "Wird beim Aufheben gebunden\nWaffenhand Schwert\n3 - 7 Schaden Tempo 2.50\n(2.00 Schaden pro Sekunde)\nHaltbarkeit 30 / 30" }
-entries[1164] = { ["name"] = "Sams Foliant", ["text"] = "Dauer: 5 min (Realzeit)\nBenötigtArgentumdämmerung\n- Wohlwollend\n<Zum Lesen rechtsklicken>" }
-entries[1166] = { ["name"] = "Zerbeulter Rundschild", ["text"] = "Schildhand} Schild\n55 Rüstung\n1 Blocken\nHaltbarkeit 35 / 35" }
-entries[1167] = { ["name"] = "Kleine Tartsche", ["text"] = "Schildhand} Schild\n161 Rüstung\n3 Blocken\nHaltbarkeit 45 / 45\nBenötigt Stufe 5" }
-entries[1168] = { ["name"] = "Schädelflammenschild", ["text"] = "Wird beim Anlegen gebunden\nSchildhand} Schild\n2256 Rüstung\n40 Blocken\n+10 Feuerwiderstand\n+10 Schattenwiderstand\nHaltbarkeit 120 / 120\nBenötigt Stufe 54\nAnlegen: Bei einem Treffer im Kampf besteht eine Chance von 3%, 35 Punkt(e) Leben vom feindlichen Ziel zu stehlen. (Procchance: 3%)\nAnlegen: Bei einem Treffer im Kampf besteht eine Chance von 1%, allen Zielen um Euch herum 75 bis 125 Punkt(e) Feuerschaden zuzufügen. (Procchance: 1%)" }
-entries[1169] = { ["name"] = "Schwarzschädel-Schild", ["text"] = "Wird beim Anlegen gebunden\nSchildhand} Schild\n1895 Rüstung\n30 Blocken\n+5 Ausdauer\n+10 Willenskraft\n+10 Schattenwiderstand\nHaltbarkeit 120 / 120\nBenötigt Stufe 41" }
+entries[1164] = { ["name"] = "Sams Foliant", ["text"] = "Dauer: 5 min (Realzeit)\nBenötigt Argentumdämmerung\n- Wohlwollend\n<Zum Lesen rechtsklicken>" }
+entries[1166] = { ["name"] = "Zerbeulter Rundschild", ["text"] = "Schildhand Schild\n55 Rüstung\n1 Blocken\nHaltbarkeit 35 / 35" }
+entries[1167] = { ["name"] = "Kleine Tartsche", ["text"] = "Schildhand Schild\n161 Rüstung\n3 Blocken\nHaltbarkeit 45 / 45\nBenötigt Stufe 5" }
+entries[1168] = { ["name"] = "Schädelflammenschild", ["text"] = "Wird beim Anlegen gebunden\nSchildhand Schild\n2256 Rüstung\n40 Blocken\n+10 Feuerwiderstand\n+10 Schattenwiderstand\nHaltbarkeit 120 / 120\nBenötigt Stufe 54\nAnlegen: Bei einem Treffer im Kampf besteht eine Chance von 3%, 35 Punkt(e) Leben vom feindlichen Ziel zu stehlen. (Procchance: 3%)\nAnlegen: Bei einem Treffer im Kampf besteht eine Chance von 1%, allen Zielen um Euch herum 75 bis 125 Punkt(e) Feuerschaden zuzufügen. (Procchance: 1%)" }
+entries[1169] = { ["name"] = "Schwarzschädel-Schild", ["text"] = "Wird beim Anlegen gebunden\nSchildhand Schild\n1895 Rüstung\n30 Blocken\n+5 Ausdauer\n+10 Willenskraft\n+10 Schattenwiderstand\nHaltbarkeit 120 / 120\nBenötigt Stufe 41" }
 entries[1171] = { ["name"] = "Gut vernähte Robe", ["text"] = "Wird beim Aufheben gebunden\nBrust Stoff\n18 Rüstung\nHaltbarkeit 45 / 45" }
 entries[1172] = { ["name"] = "Graysons Fackel", ["text"] = "Wird beim Aufheben gebunden\nIn Schildhand geführt\n15 Rüstung\n+4 Willenskraft" }
 entries[1173] = { ["name"] = "Wettergegerbte Stiefel", ["text"] = "Wird beim Aufheben gebunden\nFüße Leder\n36 Rüstung\nHaltbarkeit 25 / 25" }
@@ -355,18 +355,18 @@ entries[1187] = { ["name"] = "Stachelhalsband", ["text"] = "Wird beim Aufheben g
 entries[1189] = { ["name"] = "Vorarbeiterring", ["text"] = "Wird beim Anlegen gebunden\nEinzigartig\nFinger\n+3 Stärke\nBenötigt Stufe 15" }
 entries[1190] = { ["name"] = "Vorarbeiter-Umhang", ["text"] = "Wird beim Anlegen gebunden\nRücken\n17 Rüstung\n+3 Ausdauer\nBenötigt Stufe 15" }
 entries[1191] = { ["name"] = "Tasche mit Murmeln", ["text"] = "Wird beim Aufheben gebunden\nBenutzen: Verringert die Chance des Ziels zu treffen 10 Sek. lang um 25%. (1 Min Abklingzeit)\n10 Aufladungen" }
-entries[1193] = { ["name"] = "Bebänderter Rundschild", ["text"] = "Schildhand} Schild\n336 Rüstung\n5 Blocken\nHaltbarkeit 60 / 60\nBenötigt Stufe 12" }
+entries[1193] = { ["name"] = "Bebänderter Rundschild", ["text"] = "Schildhand Schild\n336 Rüstung\n5 Blocken\nHaltbarkeit 60 / 60\nBenötigt Stufe 12" }
 entries[1194] = { ["name"] = "Bastardschwert", ["text"] = "Zweihändig Schwert\n5 - 8 Schaden Tempo 3.00\n(2.17 Schaden pro Sekunde)\nHaltbarkeit 30 / 30" }
 entries[1195] = { ["name"] = "Bergbauschaufel eines Kobolds", ["text"] = "Zweihändig Streitkolben\n6 - 10 Schaden Tempo 2.70\n(2.96 Schaden pro Sekunde)\nHaltbarkeit 35 / 35\nBenötigt Stufe 3" }
 entries[1196] = { ["name"] = "Tabar", ["text"] = "Zweihändig Axt\n21 - 32 Schaden Tempo 3.20\n(8.28 Schaden pro Sekunde)\nHaltbarkeit 50 / 50\nBenötigt Stufe 9" }
 entries[1197] = { ["name"] = "Riesiger Streitkolben", ["text"] = "Zweihändig Streitkolben\n25 - 38 Schaden Tempo 3.50\n(9.00 Schaden pro Sekunde)\nHaltbarkeit 55 / 55\nBenötigt Stufe 10" }
 entries[1198] = { ["name"] = "Claymore", ["text"] = "Zweihändig Schwert\n23 - 35 Schaden Tempo 3.20\n(9.06 Schaden pro Sekunde)\nHaltbarkeit 55 / 55\nBenötigt Stufe 10" }
 entries[1199] = { ["name"] = "Aufgeladener Seelenstein", ["text"] = "Herbeigezauberter Gegenstand\nWird beim Aufheben gebunden\nEinzigartig" }
-entries[1200] = { ["name"] = "Großer Holzschild", ["text"] = "Schildhand} Schild\n55 Rüstung\n1 Blocken\nHaltbarkeit 35 / 35" }
-entries[1201] = { ["name"] = "Glanzloser Langschild", ["text"] = "Schildhand} Schild\n161 Rüstung\n3 Blocken\nHaltbarkeit 45 / 45\nBenötigt Stufe 5" }
-entries[1202] = { ["name"] = "Wallschild", ["text"] = "Schildhand} Schild\n336 Rüstung\n5 Blocken\nHaltbarkeit 60 / 60\nBenötigt Stufe 12" }
-entries[1203] = { ["name"] = "Aegis von Stormwind", ["text"] = "Wird beim Anlegen gebunden\nSchildhand} Schild\n1867 Rüstung\n33 Blocken\n+6 Stärke\n+15 Ausdauer\nHaltbarkeit 100 / 100\nBenötigt Stufe 49" }
-entries[1204] = { ["name"] = "Der grüne Turm", ["text"] = "Wird beim Anlegen gebunden\nSchildhand} Schild\n1308 Rüstung\n25 Blocken\n+13 Ausdauer\n+7 Willenskraft\nHaltbarkeit 120 / 120\nBenötigt Stufe 36\nAnlegen: Bei erlittenem Treffer im Gefecht besteht eine Chance von 1%, einen Dornenschild aufzubauen, der Angreifern beim Treffer 3 Punkt(e) Naturschaden zufügt und den Naturwiderstand 30 Sek. lang um 50 erhöht. (Procchance: 1%)" }
+entries[1200] = { ["name"] = "Großer Holzschild", ["text"] = "Schildhand Schild\n55 Rüstung\n1 Blocken\nHaltbarkeit 35 / 35" }
+entries[1201] = { ["name"] = "Glanzloser Langschild", ["text"] = "Schildhand Schild\n161 Rüstung\n3 Blocken\nHaltbarkeit 45 / 45\nBenötigt Stufe 5" }
+entries[1202] = { ["name"] = "Wallschild", ["text"] = "Schildhand Schild\n336 Rüstung\n5 Blocken\nHaltbarkeit 60 / 60\nBenötigt Stufe 12" }
+entries[1203] = { ["name"] = "Aegis von Stormwind", ["text"] = "Wird beim Anlegen gebunden\nSchildhand Schild\n1867 Rüstung\n33 Blocken\n+6 Stärke\n+15 Ausdauer\nHaltbarkeit 100 / 100\nBenötigt Stufe 49" }
+entries[1204] = { ["name"] = "Der grüne Turm", ["text"] = "Wird beim Anlegen gebunden\nSchildhand Schild\n1308 Rüstung\n25 Blocken\n+13 Ausdauer\n+7 Willenskraft\nHaltbarkeit 120 / 120\nBenötigt Stufe 36\nAnlegen: Bei erlittenem Treffer im Gefecht besteht eine Chance von 1%, einen Dornenschild aufzubauen, der Angreifern beim Treffer 3 Punkt(e) Naturschaden zufügt und den Naturwiderstand 30 Sek. lang um 50 erhöht. (Procchance: 1%)" }
 entries[1205] = { ["name"] = "Melonensaft", ["text"] = "Benötigt Stufe 15\nBenutzen: Stellt im Verlauf von 24 Sek. 835.2 Punkt(e) Mana wieder her. Ihr müsst beim Trinken sitzen bleiben." }
 entries[1206] = { ["name"] = "Moosachat" }
 entries[1207] = { ["name"] = "Zackenstreitkolben", ["text"] = "Wird beim Anlegen gebunden\nEinhändig Streitkolben\n31 - 59 Schaden Tempo 2.10\n(21.43 Schaden pro Sekunde)\n<Zufällige Verzauberung>\nHaltbarkeit 75 / 75\nBenötigt Stufe 34" }
@@ -411,7 +411,7 @@ entries[1270] = { ["name"] = "Fein gewebter Umhang", ["text"] = "Wird beim Aufhe
 entries[1273] = { ["name"] = "Waldkettenpanzer", ["text"] = "Wird beim Aufheben gebunden\nBrust Kette\n183 Rüstung\n+2 Ausdauer\n+8 Willenskraft\nHaltbarkeit 90 / 90" }
 entries[1274] = { ["name"] = "Hopfen" }
 entries[1275] = { ["name"] = "Kettenmantel des Deputys", ["text"] = "Wird beim Aufheben gebunden\nBrust Kette\n183 Rüstung\n+4 Ausdauer\n+7 Willenskraft\nHaltbarkeit 90 / 90" }
-entries[1276] = { ["name"] = "Feuergehärteter Rundschild", ["text"] = "Wird beim Aufheben gebunden\nSchildhand} Schild\n528 Rüstung\n10 Blocken\n+5 Willenskraft\nHaltbarkeit 80 / 80" }
+entries[1276] = { ["name"] = "Feuergehärteter Rundschild", ["text"] = "Wird beim Aufheben gebunden\nSchildhand Schild\n528 Rüstung\n10 Blocken\n+5 Willenskraft\nHaltbarkeit 80 / 80" }
 entries[1280] = { ["name"] = "Kapuzenmantel", ["text"] = "Wird beim Anlegen gebunden\nKopf Leder\n86 Rüstung\n+10 Beweglichkeit\n+10 Ausdauer\nHaltbarkeit 50 / 50\nBenötigt Stufe 33" }
 entries[1282] = { ["name"] = "Glanzmetallhelmkappe", ["text"] = "Wird beim Aufheben gebunden\nKopf Kette\n168 Rüstung\n+9 Stärke\n+8 Willenskraft\nHaltbarkeit 60 / 60" }
 entries[1283] = { ["name"] = "Verners Notiz", ["text"] = "Questgegenstand\nEinzigartig\n<Zum Lesen rechtsklicken>" }
@@ -435,7 +435,7 @@ entries[1310] = { ["name"] = "Hose des Schmieds", ["text"] = "Wird beim Aufheben
 entries[1314] = { ["name"] = "Ghulfinger", ["text"] = "Wird beim Anlegen gebunden\nHände Leder\n48 Rüstung\n+3 Stärke\n+3 Beweglichkeit\nHaltbarkeit 25 / 25\nBenötigt Stufe 15" }
 entries[1315] = { ["name"] = "Lilienkranz", ["text"] = "Wird beim Anlegen gebunden\nHals\n+10 Ausdauer\n+15 Willenskraft\nBenötigt Stufe 46\nBenutzen: Zaubert eine Lilienwurzel herbei, die Gesundheit und Mana wiederherstellt, wenn sie gegessen wird. (1 Stunde Abklingzeit)" }
 entries[1317] = { ["name"] = "Gehärteter Wurzelstab", ["text"] = "Wird beim Aufheben gebunden\nZweihändig Stab\n44 - 67 Schaden Tempo 3.30\n(16.82 Schaden pro Sekunde)\n+1 Stärke\n+8 Willenskraft\nHaltbarkeit 75 / 75" }
-entries[1318] = { ["name"] = "Nachthäscher", ["text"] = "Wird beim Anlegen gebunden\nZweihändig Axt\n{52 - 78 Schaden Tempo 3.30 + 1 - 5 Schattenschaden\n(20.61 Schaden pro Sekunde)\nHaltbarkeit 80 / 80\nBenötigt Stufe 18\nTrefferchance: Schleudert einen Schattenblitz auf den Feind und verursacht 60 bis 90 Punkt(e) Schattenschaden." }
+entries[1318] = { ["name"] = "Nachthäscher", ["text"] = "Wird beim Anlegen gebunden\nZweihändig Axt\n52 - 78 Schaden Tempo 3.30 + 1 - 5 Schattenschaden\n(20.61 Schaden pro Sekunde)\nHaltbarkeit 80 / 80\nBenötigt Stufe 18\nTrefferchance: Schleudert einen Schattenblitz auf den Feind und verursacht 60 bis 90 Punkt(e) Schattenschaden." }
 entries[1319] = { ["name"] = "Ring des eisernen Willens", ["text"] = "Wird beim Aufheben gebunden\nFinger\n+4 Ausdauer\n+2 Willenskraft" }
 entries[1322] = { ["name"] = "Lebertran", ["text"] = "Wird beim Aufheben gebunden\nBenutzen: Verstärkt Eurer Angriffstempo 30 Sek. lang um 10%. (2 Min Abklingzeit)" }
 entries[1325] = { ["name"] = "Narzissenstrauß", ["text"] = "Questgegenstand\nEinzigartig" }
@@ -514,7 +514,7 @@ entries[1431] = { ["name"] = "Flickwerkhose", ["text"] = "Beine Stoff\n12 Rüstu
 entries[1433] = { ["name"] = "Flickwerkrüstung", ["text"] = "Brust Stoff\n13 Rüstung\nHaltbarkeit 40 / 40\nBenötigt Stufe 2" }
 entries[1434] = { ["name"] = "Glimmender Wachsstecken", ["text"] = "Wird beim Aufheben gebunden\nBenutzen: Verringert die Rüstung des Ziels 30 Sek. lang um 50. Während der Wirkungsdauer kann das Ziel weder Verstohlenheit anwenden noch unsichtbar werden. (1 Min Abklingzeit)" }
 entries[1436] = { ["name"] = "Grenzer-Kniehosen", ["text"] = "Wird beim Aufheben gebunden\nBeine Leder\n64 Rüstung\n+3 Stärke\n+3 Beweglichkeit\nHaltbarkeit 50 / 50" }
-entries[1438] = { ["name"] = "Kriegerschild", ["text"] = "Schildhand} Schild\n135 Rüstung\n3 Blocken\nHaltbarkeit 40 / 40\nBenötigt Stufe 4" }
+entries[1438] = { ["name"] = "Kriegerschild", ["text"] = "Schildhand Schild\n135 Rüstung\n3 Blocken\nHaltbarkeit 40 / 40\nBenötigt Stufe 4" }
 entries[1440] = { ["name"] = "Gnollschädelberster", ["text"] = "Wird beim Anlegen gebunden\nWaffenhand Streitkolben\n18 - 34 Schaden Tempo 2.70\n(9.63 Schaden pro Sekunde)\n+2 Stärke\n+2 Ausdauer\nHaltbarkeit 55 / 55\nBenötigt Stufe 14" }
 entries[1443] = { ["name"] = "Juwelenbesetztes Amulett von Cainwyn", ["text"] = "Wird beim Anlegen gebunden\nHals\n+8 Ausdauer\n+18 Intelligenz\n+10 Willenskraft\nBenötigt Stufe 55" }
 entries[1445] = { ["name"] = "Blackrockschulterstücke", ["text"] = "Schulter Kette\n126 Rüstung\nHaltbarkeit 55 / 55\nBenötigt Stufe 18" }
@@ -547,7 +547,7 @@ entries[1478] = { ["name"] = "Rolle des Schutzes II", ["text"] = "Benötigt Stuf
 entries[1479] = { ["name"] = "Salmas Topfhandschuhe", ["text"] = "Wird beim Aufheben gebunden\nHände Stoff\n13 Rüstung\nHaltbarkeit 16 / 16" }
 entries[1480] = { ["name"] = "Faust der Volksmiliz", ["text"] = "Wird beim Aufheben gebunden\nWaffenhand Streitkolben\n9 - 18 Schaden Tempo 1.60\n(8.44 Schaden pro Sekunde)\n+2 Stärke\nHaltbarkeit 50 / 50" }
 entries[1481] = { ["name"] = "Grimmklaue", ["text"] = "Wird beim Anlegen gebunden\nEinhändig Axt\n22 - 42 Schaden Tempo 2.00\n(16.00 Schaden pro Sekunde)\nHaltbarkeit 75 / 75\nBenötigt Stufe 20\nTrefferchance: Schleudert einen Schattenblitz auf den Feind und verursacht 30 Punkt(e) Schattenschaden." }
-entries[1482] = { ["name"] = "Klinge von Shadowfang", ["text"] = "Wird beim Anlegen gebunden\nWaffenhand Schwert\n{29 - 55 Schaden Tempo 2.70 + 4 - 8 Schattenschaden\n(17.78 Schaden pro Sekunde)\nHaltbarkeit 75 / 75\nBenötigt Stufe 19\nTrefferchance: Schleudert einen Schattenblitz auf den Feind und verursacht 30 Punkt(e) Schattenschaden." }
+entries[1482] = { ["name"] = "Klinge von Shadowfang", ["text"] = "Wird beim Anlegen gebunden\nWaffenhand Schwert\n29 - 55 Schaden Tempo 2.70 + 4 - 8 Schattenschaden\n(17.78 Schaden pro Sekunde)\nHaltbarkeit 75 / 75\nBenötigt Stufe 19\nTrefferchance: Schleudert einen Schattenblitz auf den Feind und verursacht 30 Punkt(e) Schattenschaden." }
 entries[1483] = { ["name"] = "Gesichtzerkracher", ["text"] = "Wird beim Anlegen gebunden\nEinhändig Streitkolben\n25 - 48 Schaden Tempo 2.60\n(14.04 Schaden pro Sekunde)\n+3 Stärke\n+3 Ausdauer\nHaltbarkeit 70 / 70\nBenötigt Stufe 16" }
 entries[1484] = { ["name"] = "Hexenstock", ["text"] = "Wird beim Anlegen gebunden\nZweihändig Stab\n55 - 83 Schaden Tempo 3.60\n(19.17 Schaden pro Sekunde)\n+8 Intelligenz\nHaltbarkeit 80 / 80\nBenötigt Stufe 17\nAnlegen: Erhöht durch Schattenzauber und Schatteneffekte zugefügten Schaden um bis zu 11." }
 entries[1485] = { ["name"] = "Heugabel", ["text"] = "Zweihändig Stangenwaffe\n29 - 45 Schaden Tempo 3.70\n(10.00 Schaden pro Sekunde)\nHaltbarkeit 75 / 75\nBenötigt Stufe 20" }
@@ -591,9 +591,9 @@ entries[1534] = { ["name"] = "Buchband: Heiliges Licht IV", ["text"] = "Klassen:
 entries[1536] = { ["name"] = "Buchband: Siegel des Zorns", ["text"] = "Klassen: Paladin\nBenötigt Stufe 30\nBenutzen: Lehrt 'Siegel der Abrechnung' (Rang 1)." }
 entries[1537] = { ["name"] = "Graumähnes Futtersack", ["text"] = "Wird beim Aufheben gebunden\nEinzigartig\n4 Platz Behälter" }
 entries[1539] = { ["name"] = "Knorriger Einsiedlerstab", ["text"] = "Wird beim Anlegen gebunden\nZweihändig Stab\n28 - 42 Schaden Tempo 2.80\n(12.50 Schaden pro Sekunde)\n+6 Willenskraft\nHaltbarkeit 65 / 65\nBenötigt Stufe 14" }
-entries[1547] = { ["name"] = "Schild des Glaubens", ["text"] = "Wird beim Aufheben gebunden\nSchildhand} Schild\n578 Rüstung\n11 Blocken\n+6 Willenskraft\nHaltbarkeit 85 / 85" }
+entries[1547] = { ["name"] = "Schild des Glaubens", ["text"] = "Wird beim Aufheben gebunden\nSchildhand Schild\n578 Rüstung\n11 Blocken\n+6 Willenskraft\nHaltbarkeit 85 / 85" }
 entries[1554] = { ["name"] = "Foliant des Frostblitzes III", ["text"] = "Klassen: Magier\nBenötigt Stufe 14\nBenutzen: Lehrt 'Frostblitz' (Rang 3)." }
-entries[1557] = { ["name"] = "Rundschild der Meere", ["text"] = "Wird beim Aufheben gebunden\nSchildhand} Schild\n411 Rüstung\n7 Blocken\n+3 Willenskraft\nHaltbarkeit 65 / 65" }
+entries[1557] = { ["name"] = "Rundschild der Meere", ["text"] = "Wird beim Aufheben gebunden\nSchildhand Schild\n411 Rüstung\n7 Blocken\n+3 Willenskraft\nHaltbarkeit 65 / 65" }
 entries[1559] = { ["name"] = "Foliant der arkanen Geschosse II", ["text"] = "Klassen: Magier\nBenötigt Stufe 16\nBenutzen: Lehrt 'Arkane Geschosse' (Rang 2)." }
 entries[1560] = { ["name"] = "Sandalen der Blaukiemen", ["text"] = "Wird beim Anlegen gebunden\nFüße Stoff\n24 Rüstung\n+2 Intelligenz\n+4 Willenskraft\nHaltbarkeit 30 / 30\nBenötigt Stufe 16" }
 entries[1561] = { ["name"] = "Robe des Erntearbeiters", ["text"] = "Wird beim Aufheben gebunden\nBrust Stoff\n28 Rüstung\n+2 Ausdauer\n+2 Willenskraft\nHaltbarkeit 50 / 50" }
@@ -810,7 +810,7 @@ entries[1951] = { ["name"] = "Schwarzmeerentersäbel", ["text"] = "Wird beim Anl
 entries[1955] = { ["name"] = "Kettenstiefel der Dragonmaw", ["text"] = "Wird beim Anlegen gebunden\nFüße Kette\n130 Rüstung\n+3 Beweglichkeit\n+6 Ausdauer\nHaltbarkeit 50 / 50\nBenötigt Stufe 22" }
 entries[1956] = { ["name"] = "Verblasster Schattenfellanhänger", ["text"] = "Questgegenstand\nEinzigartig\n\"Der Zauber auf diesem Anhänger ist verblasst.\"" }
 entries[1958] = { ["name"] = "Versteinerter Schienbeinknochen", ["text"] = "Wird beim Anlegen gebunden\nWaffenhand Streitkolben\n12 - 23 Schaden Tempo 2.00\n(8.75 Schaden pro Sekunde)\n+2 Ausdauer\nHaltbarkeit 50 / 50\nBenötigt Stufe 12" }
-entries[1959] = { ["name"] = "Kalteisenhacke", ["text"] = "Wird beim Anlegen gebunden\nZweihändig Axt\n{27 - 41 Schaden Tempo 3.00 + 1 - 5 Frostschaden\n(12.33 Schaden pro Sekunde)\n+2 Ausdauer\n+4 Willenskraft\nHaltbarkeit 60 / 60\nBenötigt Stufe 12" }
+entries[1959] = { ["name"] = "Kalteisenhacke", ["text"] = "Wird beim Anlegen gebunden\nZweihändig Axt\n27 - 41 Schaden Tempo 3.00 + 1 - 5 Frostschaden\n(12.33 Schaden pro Sekunde)\n+2 Ausdauer\n+4 Willenskraft\nHaltbarkeit 60 / 60\nBenötigt Stufe 12" }
 entries[1962] = { ["name"] = "Leuchtender Schattenfellanhänger", ["text"] = "Wird beim Aufheben gebunden\nEinzigartig\nDieser Gegenstand startet eine Quest.\nBenötigt Stufe 15\n\"Dieser Anhänger leuchet vor Magie.\"" }
 entries[1965] = { ["name"] = "Weiße Wolfsfellhandschuhe", ["text"] = "Hände Leder\n33 Rüstung\nHaltbarkeit 20 / 20\nBenötigt Stufe 5" }
 entries[1968] = { ["name"] = "Ogermonokel", ["text"] = "Questgegenstand\nEinzigartig" }
@@ -823,7 +823,7 @@ entries[1975] = { ["name"] = "Pysans altes Großschwert", ["text"] = "Wird beim 
 entries[1976] = { ["name"] = "Schlackenhammer", ["text"] = "Wird beim Anlegen gebunden\nZweihändig Streitkolben\n53 - 80 Schaden Tempo 2.80\n(23.75 Schaden pro Sekunde)\n+11 Stärke\n+10 Ausdauer\nHaltbarkeit 100 / 100\nBenötigt Stufe 24" }
 entries[1977] = { ["name"] = "20-Platz-Tasche", ["text"] = "20 Platz Behälter" }
 entries[1978] = { ["name"] = "Wolfklauen-Handschuhe", ["text"] = "Wird beim Anlegen gebunden\nHände Leder\n61 Rüstung\n+5 Stärke\n+6 Beweglichkeit\n+6 Ausdauer\nHaltbarkeit 35 / 35\nBenötigt Stufe 22" }
-entries[1979] = { ["name"] = "Mauer der Toten", ["text"] = "Wird beim Anlegen gebunden\nSchildhand} Schild\n1937 Rüstung\n34 Blocken\n+10 Stärke\n+15 Ausdauer\nHaltbarkeit 120 / 120\nBenötigt Stufe 45\nAnlegen: Bei einem Treffer im Kampf besteht eine Chance von 3%, den Zaubernden in Knochen einzuhüllen und die Rüstung 20 Sek. lang um 150 Punkt(e) zu erhöhen. (Procchance: 3%)" }
+entries[1979] = { ["name"] = "Mauer der Toten", ["text"] = "Wird beim Anlegen gebunden\nSchildhand Schild\n1937 Rüstung\n34 Blocken\n+10 Stärke\n+15 Ausdauer\nHaltbarkeit 120 / 120\nBenötigt Stufe 45\nAnlegen: Bei einem Treffer im Kampf besteht eine Chance von 3%, den Zaubernden in Knochen einzuhüllen und die Rüstung 20 Sek. lang um 150 Punkt(e) zu erhöhen. (Procchance: 3%)" }
 entries[1980] = { ["name"] = "Unterweltband", ["text"] = "Wird beim Anlegen gebunden\nFinger\n+10 Ausdauer\n+6 Willenskraft\nBenötigt Stufe 38\nAnlegen: Erhöht durch Schattenzauber und Schatteneffekte zugefügten Schaden um bis zu 14." }
 entries[1981] = { ["name"] = "Eispanzerwams", ["text"] = "Wird beim Anlegen gebunden\nBrust Kette\n294 Rüstung\n+5 Beweglichkeit\n+15 Ausdauer\n+24 Willenskraft\n+10 Frostwiderstand\nHaltbarkeit 140 / 140\nBenötigt Stufe 39" }
 entries[1982] = { ["name"] = "Nachtklinge", ["text"] = "Wird beim Anlegen gebunden\nZweihändig Schwert\n97 - 146 Schaden Tempo 2.80\n(43.39 Schaden pro Sekunde)\nHaltbarkeit 120 / 120\nBenötigt Stufe 39\nTrefferchance: Schleudert einen Schattenblitz auf den Feind und verursacht 125 bis 275 Punkt(e) Schattenschaden." }
@@ -852,7 +852,7 @@ entries[2016] = { ["name"] = "Verstaubte Kettenrüstung", ["text"] = "Wird beim 
 entries[2017] = { ["name"] = "Leuchtende Lederarmschienen", ["text"] = "Wird beim Anlegen gebunden\nHandgelenke Leder\n40 Rüstung\n+2 Beweglichkeit\n+5 Ausdauer\nHaltbarkeit 30 / 30\nBenötigt Stufe 23" }
 entries[2018] = { ["name"] = "Skelettlangschwert", ["text"] = "Wird beim Anlegen gebunden\nWaffenhand Schwert\n21 - 40 Schaden Tempo 2.20\n(13.86 Schaden pro Sekunde)\n+4 Ausdauer\nHaltbarkeit 70 / 70\nBenötigt Stufe 22" }
 entries[2020] = { ["name"] = "Hohlzahnklinge", ["text"] = "Wird beim Anlegen gebunden\nEinhändig Dolch\n8 - 17 Schaden Tempo 1.40\n(8.93 Schaden pro Sekunde)\n+2 Stärke\nHaltbarkeit 40 / 40\nBenötigt Stufe 13" }
-entries[2021] = { ["name"] = "Grüner Knochenpanzer-Schild", ["text"] = "Wird beim Anlegen gebunden\nSchildhand} Schild\n428 Rüstung\n7 Blocken\n+4 Naturwiderstand\nHaltbarkeit 65 / 65\nBenötigt Stufe 16" }
+entries[2021] = { ["name"] = "Grüner Knochenpanzer-Schild", ["text"] = "Wird beim Anlegen gebunden\nSchildhand Schild\n428 Rüstung\n7 Blocken\n+4 Naturwiderstand\nHaltbarkeit 65 / 65\nBenötigt Stufe 16" }
 entries[2024] = { ["name"] = "Espandon", ["text"] = "Zweihändig Schwert\n29 - 44 Schaden Tempo 2.90\n(12.59 Schaden pro Sekunde)\nHaltbarkeit 65 / 65\nBenötigt Stufe 16" }
 entries[2025] = { ["name"] = "Hakenaxt", ["text"] = "Zweihändig Axt\n31 - 47 Schaden Tempo 3.30\n(11.82 Schaden pro Sekunde)\nHaltbarkeit 65 / 65\nBenötigt Stufe 15" }
 entries[2026] = { ["name"] = "Steinhammer", ["text"] = "Zweihändig Streitkolben\n37 - 56 Schaden Tempo 3.70\n(12.57 Schaden pro Sekunde)\nHaltbarkeit 65 / 65\nBenötigt Stufe 16" }
@@ -867,7 +867,7 @@ entries[2035] = { ["name"] = "Schwert des Nachthimmels", ["text"] = "Wird beim A
 entries[2036] = { ["name"] = "Verstaubte Bergbau-Handschuhe", ["text"] = "Wird beim Aufheben gebunden\nHände Leder\n46 Rüstung\n+3 Stärke\n+2 Beweglichkeit\nHaltbarkeit 20 / 20" }
 entries[2037] = { ["name"] = "Stiefel des Tunnelgräbers", ["text"] = "Wird beim Aufheben gebunden\nFüße Kette\n111 Rüstung\n+3 Ausdauer\n+2 Willenskraft\nHaltbarkeit 40 / 40" }
 entries[2039] = { ["name"] = "Flachlandring", ["text"] = "Wird beim Anlegen gebunden\nEinzigartig\nFinger\n+8 Ausdauer\n+3 Intelligenz\nBenötigt Stufe 24" }
-entries[2040] = { ["name"] = "Trollbeschützer", ["text"] = "Wird beim Anlegen gebunden\nSchildhand} Schild\n1676 Rüstung\n27 Blocken\n+10 Ausdauer\nHaltbarkeit 100 / 100\nBenötigt Stufe 43\nAnlegen: Erhöht Eure Chance, Angriffe mit einem Schild zu blocken, um 2%." }
+entries[2040] = { ["name"] = "Trollbeschützer", ["text"] = "Wird beim Anlegen gebunden\nSchildhand Schild\n1676 Rüstung\n27 Blocken\n+10 Ausdauer\nHaltbarkeit 100 / 100\nBenötigt Stufe 43\nAnlegen: Erhöht Eure Chance, Angriffe mit einem Schild zu blocken, um 2%." }
 entries[2041] = { ["name"] = "Tunika von Westfall", ["text"] = "Wird beim Aufheben gebunden\nBrust Leder\n92 Rüstung\n+11 Beweglichkeit\n+5 Ausdauer\nHaltbarkeit 90 / 90" }
 entries[2042] = { ["name"] = "Stab von Westfall", ["text"] = "Wird beim Aufheben gebunden\nZweihändig Stab\n49 - 74 Schaden Tempo 3.00\n(20.50 Schaden pro Sekunde)\n+5 Intelligenz\n+11 Willenskraft\nHaltbarkeit 90 / 90" }
 entries[2043] = { ["name"] = "Ring der unglückseligen Geister", ["text"] = "Wird beim Aufheben gebunden\nFinger\n+2 Ausdauer\n+7 Willenskraft" }
@@ -926,11 +926,11 @@ entries[2125] = { ["name"] = "Gesprungene Lederhandschuhe", ["text"] = "Hände L
 entries[2126] = { ["name"] = "Gesprungene Lederhose", ["text"] = "Beine Leder\n29 Rüstung\nHaltbarkeit 35 / 35" }
 entries[2127] = { ["name"] = "Gesprungene Lederweste", ["text"] = "Brust Leder\n33 Rüstung\nHaltbarkeit 45 / 45" }
 entries[2128] = { ["name"] = "Zerkratztes Claymore", ["text"] = "Zweihändig Schwert\n4 - 7 Schaden Tempo 2.80\n(1.96 Schaden pro Sekunde)\nHaltbarkeit 30 / 30" }
-entries[2129] = { ["name"] = "Großer runder Schild", ["text"] = "Schildhand} Schild\n55 Rüstung\n1 Blocken\nHaltbarkeit 35 / 35" }
+entries[2129] = { ["name"] = "Großer runder Schild", ["text"] = "Schildhand Schild\n55 Rüstung\n1 Blocken\nHaltbarkeit 35 / 35" }
 entries[2130] = { ["name"] = "Keule", ["text"] = "Einhändig Streitkolben\n1 - 3 Schaden Tempo 1.90\n(1.05 Schaden pro Sekunde)\nHaltbarkeit 20 / 20" }
 entries[2131] = { ["name"] = "Kurzschwert", ["text"] = "Einhändig Schwert\n2 - 4 Schaden Tempo 2.60\n(1.15 Schaden pro Sekunde)\nHaltbarkeit 20 / 20" }
 entries[2132] = { ["name"] = "Kurzstab", ["text"] = "Zweihändig Stab\n5 - 8 Schaden Tempo 3.20\n(2.03 Schaden pro Sekunde)\nHaltbarkeit 30 / 30" }
-entries[2133] = { ["name"] = "Kleiner Schild", ["text"] = "Schildhand} Schild\n55 Rüstung\n1 Blocken\nHaltbarkeit 35 / 35" }
+entries[2133] = { ["name"] = "Kleiner Schild", ["text"] = "Schildhand Schild\n55 Rüstung\n1 Blocken\nHaltbarkeit 35 / 35" }
 entries[2134] = { ["name"] = "Handaxt", ["text"] = "Einhändig Axt\n2 - 4 Schaden Tempo 2.00\n(1.50 Schaden pro Sekunde)\nHaltbarkeit 25 / 25" }
 entries[2136] = { ["name"] = "Herbeigezaubertes geläutertes Wasser", ["text"] = "Herbeigezauberter Gegenstand\nBenötigt Stufe 15\nBenutzen: Stellt im Verlauf von 24 Sek. 835.2 Punkt(e) Mana wieder her. Ihr müsst beim Trinken sitzen bleiben." }
 entries[2137] = { ["name"] = "Schnippelmesser", ["text"] = "Wird beim Aufheben gebunden\nEinhändig Dolch\n2 - 4 Schaden Tempo 1.50\n(2.00 Schaden pro Sekunde)\nHaltbarkeit 20 / 20" }
@@ -977,19 +977,19 @@ entries[2205] = { ["name"] = "Dämmerbringer", ["text"] = "Wird beim Anlegen geb
 entries[2207] = { ["name"] = "Jambiya", ["text"] = "Einhändig Dolch\n7 - 13 Schaden Tempo 1.40\n(7.14 Schaden pro Sekunde)\nHaltbarkeit 35 / 35\nBenötigt Stufe 11" }
 entries[2208] = { ["name"] = "Poignard", ["text"] = "Einhändig Dolch\n7 - 15 Schaden Tempo 1.30\n(8.46 Schaden pro Sekunde)\nHaltbarkeit 40 / 40\nBenötigt Stufe 14" }
 entries[2209] = { ["name"] = "Kris", ["text"] = "Einhändig Dolch\n12 - 23 Schaden Tempo 1.60\n(10.94 Schaden pro Sekunde)\nHaltbarkeit 45 / 45\nBenötigt Stufe 19" }
-entries[2210] = { ["name"] = "Ramponierter Rundschild", ["text"] = "Schildhand} Schild\n12 Rüstung\n1 Blocken\nHaltbarkeit 25 / 25" }
-entries[2211] = { ["name"] = "Gebogener großer Schild", ["text"] = "Schildhand} Schild\n32 Rüstung\n1 Blocken\nHaltbarkeit 30 / 30" }
-entries[2212] = { ["name"] = "Gesprungener Rundschild", ["text"] = "Schildhand} Schild\n61 Rüstung\n1 Blocken\nHaltbarkeit 35 / 35" }
-entries[2213] = { ["name"] = "Abgenutzter großer Schild", ["text"] = "Schildhand} Schild\n79 Rüstung\n1 Blocken\nHaltbarkeit 35 / 35\nBenötigt Stufe 2" }
-entries[2214] = { ["name"] = "Holz-Rundschild", ["text"] = "Schildhand} Schild\n282 Rüstung\n3 Blocken\nHaltbarkeit 55 / 55\nBenötigt Stufe 10" }
-entries[2215] = { ["name"] = "Holzschild", ["text"] = "Schildhand} Schild\n172 Rüstung\n2 Blocken\nHaltbarkeit 45 / 45\nBenötigt Stufe 6" }
-entries[2216] = { ["name"] = "Einfacher Rundschild", ["text"] = "Schildhand} Schild\n297 Rüstung\n3 Blocken\nHaltbarkeit 55 / 55\nBenötigt Stufe 11" }
-entries[2217] = { ["name"] = "Rechteckiger Schild", ["text"] = "Schildhand} Schild\n311 Rüstung\n4 Blocken\nHaltbarkeit 60 / 60\nBenötigt Stufe 12" }
+entries[2210] = { ["name"] = "Ramponierter Rundschild", ["text"] = "Schildhand Schild\n12 Rüstung\n1 Blocken\nHaltbarkeit 25 / 25" }
+entries[2211] = { ["name"] = "Gebogener großer Schild", ["text"] = "Schildhand Schild\n32 Rüstung\n1 Blocken\nHaltbarkeit 30 / 30" }
+entries[2212] = { ["name"] = "Gesprungener Rundschild", ["text"] = "Schildhand Schild\n61 Rüstung\n1 Blocken\nHaltbarkeit 35 / 35" }
+entries[2213] = { ["name"] = "Abgenutzter großer Schild", ["text"] = "Schildhand Schild\n79 Rüstung\n1 Blocken\nHaltbarkeit 35 / 35\nBenötigt Stufe 2" }
+entries[2214] = { ["name"] = "Holz-Rundschild", ["text"] = "Schildhand Schild\n282 Rüstung\n3 Blocken\nHaltbarkeit 55 / 55\nBenötigt Stufe 10" }
+entries[2215] = { ["name"] = "Holzschild", ["text"] = "Schildhand Schild\n172 Rüstung\n2 Blocken\nHaltbarkeit 45 / 45\nBenötigt Stufe 6" }
+entries[2216] = { ["name"] = "Einfacher Rundschild", ["text"] = "Schildhand Schild\n297 Rüstung\n3 Blocken\nHaltbarkeit 55 / 55\nBenötigt Stufe 11" }
+entries[2217] = { ["name"] = "Rechteckiger Schild", ["text"] = "Schildhand Schild\n311 Rüstung\n4 Blocken\nHaltbarkeit 60 / 60\nBenötigt Stufe 12" }
 entries[2218] = { ["name"] = "Handwerkerdolch", ["text"] = "Wird beim Aufheben gebunden\nEinhändig Dolch\n8 - 15 Schaden Tempo 1.70\n(6.76 Schaden pro Sekunde)\n+1 Beweglichkeit\nHaltbarkeit 30 / 30" }
-entries[2219] = { ["name"] = "Kleiner runder Schild", ["text"] = "Schildhand} Schild\n383 Rüstung\n5 Blocken\nHaltbarkeit 70 / 70\nBenötigt Stufe 17" }
-entries[2220] = { ["name"] = "Kastenschild", ["text"] = "Schildhand} Schild\n397 Rüstung\n6 Blocken\nHaltbarkeit 70 / 70\nBenötigt Stufe 18" }
-entries[2221] = { ["name"] = "Tartschenschild", ["text"] = "Schildhand} Schild\n469 Rüstung\n7 Blocken\nHaltbarkeit 80 / 80\nBenötigt Stufe 23" }
-entries[2222] = { ["name"] = "Turmschild", ["text"] = "Schildhand} Schild\n483 Rüstung\n8 Blocken\nHaltbarkeit 85 / 85\nBenötigt Stufe 24" }
+entries[2219] = { ["name"] = "Kleiner runder Schild", ["text"] = "Schildhand Schild\n383 Rüstung\n5 Blocken\nHaltbarkeit 70 / 70\nBenötigt Stufe 17" }
+entries[2220] = { ["name"] = "Kastenschild", ["text"] = "Schildhand Schild\n397 Rüstung\n6 Blocken\nHaltbarkeit 70 / 70\nBenötigt Stufe 18" }
+entries[2221] = { ["name"] = "Tartschenschild", ["text"] = "Schildhand Schild\n469 Rüstung\n7 Blocken\nHaltbarkeit 80 / 80\nBenötigt Stufe 23" }
+entries[2222] = { ["name"] = "Turmschild", ["text"] = "Schildhand Schild\n483 Rüstung\n8 Blocken\nHaltbarkeit 85 / 85\nBenötigt Stufe 24" }
 entries[2223] = { ["name"] = "Der Zeitplan des Sammlers", ["text"] = "Questgegenstand\nEinzigartig\n<Zum Lesen rechtsklicken>" }
 entries[2224] = { ["name"] = "Milizdolch", ["text"] = "Wird beim Aufheben gebunden\nEinhändig Dolch\n2 - 4 Schaden Tempo 1.50\n(2.00 Schaden pro Sekunde)\nHaltbarkeit 20 / 20" }
 entries[2225] = { ["name"] = "Scharfes Küchenmesser", ["text"] = "Wird beim Aufheben gebunden\nEinhändig Dolch\n5 - 10 Schaden Tempo 1.50\n(5.00 Schaden pro Sekunde)\nHaltbarkeit 30 / 30" }
