@@ -54,6 +54,16 @@ Modifications made by Ironship, 2 September 2026:
 The import is performed by Tools/import_multilanguage.py, which is part of the
 corresponding source of this work.
 
+New bundled quest text, 5 October 2026:
+
+The earlier vocabulary-only imports above describe their historical output.
+This addon now also carries the separately attributed Classic/Forever DE/EN
+quest corpus in QuestData. Its additive MultiLanguage passages are used under
+author permission reported by the project owner on 5 October 2026; the exact
+pinned revision, changes, source/input hashes, and accepted IDs are documented
+in QuestData/NOTICE and QuestData/source-manifest.json. The German word dictionary
+was not translated or rebuilt as part of this text import.
+
 World of Warcraft content and materials are trademarks and copyrights of
 Blizzard Entertainment or its licensors. This addon is not affiliated with or
 endorsed by Blizzard Entertainment, and the GNU General Public License above

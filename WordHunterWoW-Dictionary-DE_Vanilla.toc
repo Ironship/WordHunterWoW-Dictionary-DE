@@ -55,4 +55,15 @@ QuestData/Data/classic/enUS_016.lua
 QuestData/SeedForever.lua
 QuestData/Data/forever/deDE_000.lua
 QuestData/Data/forever/enUS_000.lua
+QuestData/MultiLanguage/000.lua
+QuestData/MultiLanguage/001.lua
+QuestData/MultiLanguage/002.lua
+QuestData/MultiLanguage/003.lua
+QuestData/MultiLanguage/004.lua
+QuestData/MultiLanguage/005.lua
+QuestData/MultiLanguage/006.lua
+QuestData/MultiLanguage/007.lua
+QuestData/MultiLanguage/008.lua
+QuestData/MultiLanguage/009.lua
+QuestData/MultiLanguage/010.lua
 QuestData/Loader.lua
