@@ -336,7 +336,7 @@ entries[15250] = { ["name"] = "Setup" }
 entries[15252] = { ["name"] = "Keg Trap" }
 entries[15253] = { ["name"] = "Arcane Explosion", ["text"] = "120 Mana\n1.5 sec cast\nSends out a blast wave of magic, inflicting Arcane damage to nearby enemies." }
 entries[15254] = { ["name"] = "Arcane Bolt", ["text"] = "90 Mana 40 yd range\n1 sec cast\nHurls a magical bolt at an enemy, inflicting Arcane damage." }
-entries[15255] = { ["name"] = "Mechanical Repair Kit", ["text"] = "8 sec cast\nTools: Blacksmith Hammer , Arclight Spanner\nReagents:\nMithril Bar , Mageweave Cloth , Solid Blasting Powder\nRequiresEngineering\n(200)\nUse: Restores 700 health to a friendly mechanical target (2 Min Cooldown)" }
+entries[15255] = { ["name"] = "Mechanical Repair Kit", ["text"] = "8 sec cast\nTools: Blacksmith Hammer , Arclight Spanner\nReagents:\nMithril Bar , Mageweave Cloth , Solid Blasting Powder\nRequires Engineering\n(200)\nUse: Restores 700 health to a friendly mechanical target (2 Min Cooldown)" }
 entries[15256] = { ["name"] = "Mechanical Repair Kit" }
 entries[15257] = { ["name"] = "Shadow Weaving", ["text"] = "Your Shadow damage spells have a 20% chance to cause your target to be vulnerable to Shadow damage. This vulnerability increases the Shadow damage dealt to your target by 3% and lasts 15 sec. Stacks up to 5 times." }
 entries[15258] = { ["name"] = "Shadow Vulnerability" }

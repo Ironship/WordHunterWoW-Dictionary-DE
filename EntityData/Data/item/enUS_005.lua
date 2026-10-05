@@ -364,7 +364,7 @@ entries[7678] = { ["name"] = "Recipe: Thistle Tea", ["text"] = "Requires Cooking
 entries[7679] = { ["name"] = "Shrike Bat Fang", ["text"] = "Quest Item" }
 entries[7680] = { ["name"] = "Jadespine Basilisk Scale", ["text"] = "Quest Item" }
 entries[7681] = { ["name"] = "Obsidian Golem Shard", ["text"] = "Quest Item" }
-entries[7682] = { ["name"] = "Torturing Poker", ["text"] = "Binds when picked up\nOne-Hand Dagger\n{21 - 39 Damage Speed 1.70 + 5 - 7 Fire Damage\n(21.18 damage per second)\nDurability 65 / 65\nRequires Level 29" }
+entries[7682] = { ["name"] = "Torturing Poker", ["text"] = "Binds when picked up\nOne-Hand Dagger\n21 - 39 Damage Speed 1.70 + 5 - 7 Fire Damage\n(21.18 damage per second)\nDurability 65 / 65\nRequires Level 29" }
 entries[7683] = { ["name"] = "Bloody Brass Knuckles", ["text"] = "One-Hand Fist Weapon\n18 - 35 Damage Speed 1.60\n(16.56 damage per second)\nDurability 55 / 55\nRequires Level 29" }
 entries[7684] = { ["name"] = "Bloodmage Mantle", ["text"] = "Binds when picked up\nShoulder Cloth\n35 Armor\n+8 Intellect\n+4 Spirit\nDurability 45 / 45\nRequires Level 30" }
 entries[7685] = { ["name"] = "Orb of the Forgotten Seer", ["text"] = "Binds when picked up\nHeld In Off-hand\nRequires Level 33\nEquip: Increases damage and healing done by magical spells and effects by up to 12." }
@@ -395,7 +395,7 @@ entries[7726] = { ["name"] = "Aegis of the Scarlet Commander", ["text"] = "Binds
 entries[7727] = { ["name"] = "Watchman Pauldrons", ["text"] = "Binds when equipped\nShoulder Leather\n80 Armor\n+3 Strength\n+11 Stamina\n+4 Spirit\nDurability 60 / 60\nRequires Level 27" }
 entries[7728] = { ["name"] = "Beguiler Robes", ["text"] = "Binds when equipped\nChest Cloth\n50 Armor\n+7 Stamina\n+12 Intellect\n+8 Spirit\nDurability 80 / 80\nRequires Level 29" }
 entries[7729] = { ["name"] = "Chesterfall Musket", ["text"] = "Binds when equipped\nRanged Gun\n26 - 50 Damage Speed 2.30\n(16.52 damage per second)\nDurability 75 / 75\nRequires Level 28" }
-entries[7730] = { ["name"] = "Cobalt Crusher", ["text"] = "Binds when equipped\nTwo-Hand Mace\n{74 - 111 Damage Speed 3.20 +5 Frost Damage\n(30.47 damage per second)\nDurability 100 / 100\nRequires Level 29\nChance on hit: Blasts a target for 110 to 120 Frost damage." }
+entries[7730] = { ["name"] = "Cobalt Crusher", ["text"] = "Binds when equipped\nTwo-Hand Mace\n74 - 111 Damage Speed 3.20 +5 Frost Damage\n(30.47 damage per second)\nDurability 100 / 100\nRequires Level 29\nChance on hit: Blasts a target for 110 to 120 Frost damage." }
 entries[7731] = { ["name"] = "Ghostshard Talisman", ["text"] = "Binds when picked up\nNeck\n+9 Stamina\n+4 Spirit\nRequires Level 30" }
 entries[7733] = { ["name"] = "Staff of Prehistoria", ["text"] = "Quest Item\nUnique\nUse: Place in the Uldaman map room." }
 entries[7734] = { ["name"] = "Six Demon Bag", ["text"] = "Binds when equipped\nUnique\nTrinket\nRequires Level 46\nUse: Blasts enemies in front of you with the power of wind, fire, all that kind of thing! (30 Min Cooldown)" }
@@ -875,9 +875,9 @@ entries[8545] = { ["name"] = "Heavy Mageweave Bandage", ["text"] = "Requires Fir
 entries[8546] = { ["name"] = "Powerful Smelling Salts", ["text"] = "Unique\nRequires First Aid (200)\nUse: Brings a dead player back to life with 15% of their health and mana. Cannot be used when in combat." }
 entries[8547] = { ["name"] = "Formula: Powerful Smelling Salts", ["text"] = "Requires First Aid (250)\nUse: Teaches you how to make Powerful Smelling Salts.\nPowerful Smelling Salts\nUnique\nRequires First Aid (200)\nUse: Brings a dead player back to life with 15% of their health and mana. Cannot be used when in combat.\nRequires Deeprock Salt (4)" }
 entries[8548] = { ["name"] = "Divino-matic Rod", ["text"] = "Quest Item\nUnique" }
-entries[8563] = { ["name"] = "Red Mechanostrider", ["text"] = "Binds when used\nMount\nRaces: Dwarf , Gnome\nRequires Level 40\nRequiresMechanostrider Piloting\n(1)\nUse: Summons and dismisses a rideable mechanical tallstrider. (3 Sec Cooldown)" }
+entries[8563] = { ["name"] = "Red Mechanostrider", ["text"] = "Binds when used\nMount\nRaces: Dwarf , Gnome\nRequires Level 40\nRequires Mechanostrider Piloting\n(1)\nUse: Summons and dismisses a rideable mechanical tallstrider. (3 Sec Cooldown)" }
 entries[8564] = { ["name"] = "Hippogryph Egg", ["text"] = "Binds when picked up\nUnique\n\"It's huge!\"" }
-entries[8583] = { ["name"] = "Horn of the Skeletal Mount", ["text"] = "Binds when used\nMount\nRaces: Human , Orc , Dwarf , Night Elf , Undead , Gnome , Troll\nRequires Level 40\nRequiresUndead Horsemanship\n(1)\nUse: Summons and dismisses a rideable skeletal horse. (3 Sec Cooldown)" }
+entries[8583] = { ["name"] = "Horn of the Skeletal Mount", ["text"] = "Binds when used\nMount\nRaces: Human , Orc , Dwarf , Night Elf , Undead , Gnome , Troll\nRequires Level 40\nRequires Undead Horsemanship\n(1)\nUse: Summons and dismisses a rideable skeletal horse. (3 Sec Cooldown)" }
 entries[8584] = { ["name"] = "Untapped Dowsing Widget", ["text"] = "Quest Item\nUnique\nUse: Fill the Untapped Dowsing Widget at the Sandsorrow Watch water hole." }
 entries[8585] = { ["name"] = "Tapped Dowsing Widget", ["text"] = "Quest Item" }
 entries[8586] = { ["name"] = "Whistle of the Mottled Red Raptor", ["text"] = "Binds when used\nMount\nRaces: Orc , Undead , Troll\nRequires Level 60\nRequires Raptor Riding (1)\nUse: Summons and dismisses a rideable Raptor. This is a very fast mount. (3 Sec Cooldown)" }
@@ -889,7 +889,7 @@ entries[8591] = { ["name"] = "Whistle of the Turquoise Raptor", ["text"] = "Bind
 entries[8592] = { ["name"] = "Whistle of the Violet Raptor", ["text"] = "Binds when used\nMount\nRaces: Orc , Undead , Troll\nRequires Level 40\nRequires Raptor Riding (1)\nUse: Summons and dismisses a rideable Raptor. (3 Sec Cooldown)" }
 entries[8593] = { ["name"] = "Scrimshank's Surveying Gear", ["text"] = "Quest Item" }
 entries[8594] = { ["name"] = "Insect Analysis Report", ["text"] = "Quest Item\nUnique" }
-entries[8595] = { ["name"] = "Blue Mechanostrider", ["text"] = "Binds when used\nMount\nRaces: Dwarf , Gnome\nRequires Level 40\nRequiresMechanostrider Piloting\n(1)\nUse: Summons and dismisses a rideable mechanical tallstrider. (3 Sec Cooldown)" }
+entries[8595] = { ["name"] = "Blue Mechanostrider", ["text"] = "Binds when used\nMount\nRaces: Dwarf , Gnome\nRequires Level 40\nRequires Mechanostrider Piloting\n(1)\nUse: Summons and dismisses a rideable mechanical tallstrider. (3 Sec Cooldown)" }
 entries[8603] = { ["name"] = "Thistleshrub Dew", ["text"] = "Quest Item\nUnique" }
 entries[8623] = { ["name"] = "OOX-17/TN Distress Beacon", ["text"] = "Binds when picked up\nUnique\nThis Item Begins a Quest\nRequires Level 43" }
 entries[8624] = { ["name"] = "Red Sparkler", ["text"] = "Held In Off-hand" }

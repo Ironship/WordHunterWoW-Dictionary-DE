@@ -336,7 +336,7 @@ entries[15250] = { ["name"] = "Reinlegen" }
 entries[15252] = { ["name"] = "Fässchenfalle" }
 entries[15253] = { ["name"] = "Arkane Explosion", ["text"] = "120 Mana\nWirken in 1.5 sek.\nLässt eine Druckwelle aus Magie entstehen und fügt in der Nähe befindlichen Feinden Arkanschaden zu." }
 entries[15254] = { ["name"] = "Arkanblitz", ["text"] = "90 Mana 40 Meter Reichweite\nWirken in 1 sek.\nSchleudert einen magischen Blitz auf einen Feind und verursacht Arkanschaden." }
-entries[15255] = { ["name"] = "Mechanisches Reparierset", ["text"] = "Wirken in 8 sek.\nTools: Schmiedehammer , Bogenlichtschraubenschlüssel\nReagenzien:\nMithrilbarren , Magiestoff , Robustes Sprengpulver\nBenötigtIngenieurskunst\n(200)\nBenutzen: Stellt bei befreundeten mechanischen Zielen 700 Punkt(e) Gesundheit wieder her. (2 Min Abklingzeit)" }
+entries[15255] = { ["name"] = "Mechanisches Reparierset", ["text"] = "Wirken in 8 sek.\nTools: Schmiedehammer , Bogenlichtschraubenschlüssel\nReagenzien:\nMithrilbarren , Magiestoff , Robustes Sprengpulver\nBenötigt Ingenieurskunst\n(200)\nBenutzen: Stellt bei befreundeten mechanischen Zielen 700 Punkt(e) Gesundheit wieder her. (2 Min Abklingzeit)" }
 entries[15256] = { ["name"] = "Mechanisches Reparierset" }
 entries[15257] = { ["name"] = "Schattenwirken", ["text"] = "Gewährt Euren Schattenschadenzaubern eine Chance von 20%, das Ziel für Schattenschaden verwundbarer zu machen. Diese Verwundbarkeit erhöht den Schattenschaden, der Eurem Ziel zugefügt wird, um 3% und hält 15 Sek. lang an. Ergänzt sich bis zu 5 Mal." }
 entries[15258] = { ["name"] = "Schattenverwundbarkeit" }

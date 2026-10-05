@@ -65,7 +65,7 @@ entries[7426] = { ["name"] = "Brust - Schwache Absorption", ["text"] = "Wirken i
 entries[7427] = { ["name"] = "Schwache Ablenkung" }
 entries[7428] = { ["name"] = "Armschiene - Schwache Abwehr", ["text"] = "Wirken in 5 sek.\nBenötigt Armschienen\nTools: Runenverzierte Kupferrute\nReagenzien:\nGeringe Magieessenz , Seltsamer Staub\nArmschienen dauerhaft verzaubern, sodass die Verteidigungsfertigkeit des Trägers um 1 erhöht wird." }
 entries[7429] = { ["name"] = "Armschiene - Schwache Abwehr" }
-entries[7430] = { ["name"] = "Bogenlichtschraubenschlüssel", ["text"] = "Wirken in 8 sek.\nTools: Schmiedehammer\nReagenzien:\nKupferbarren (6)\nWaffenhand\n5 - 8 Schaden Tempo 2.40\n(2.71 Schaden pro Sekunde)\nBenötigtIngenieurskunst\n(50)" }
+entries[7430] = { ["name"] = "Bogenlichtschraubenschlüssel", ["text"] = "Wirken in 8 sek.\nTools: Schmiedehammer\nReagenzien:\nKupferbarren (6)\nWaffenhand\n5 - 8 Schaden Tempo 2.40\n(2.71 Schaden pro Sekunde)\nBenötigt Ingenieurskunst\n(50)" }
 entries[7431] = { ["name"] = "Bogenlichtschraubenschlüssel" }
 entries[7433] = { ["name"] = "Schwacher Wildtiertöter" }
 entries[7434] = { ["name"] = "Waffe erfüllen - Wildtiertöter", ["text"] = "Wirken in 5 sek.\nBenötigt Nahkampfwaffe\nReagenzien:\nErdwurzel , Silberblatt\nEine Nahkampfwaffe erfüllen, sodass Wildtieren 30 Minuten lang zusätzlich 4 Punkte Schaden zugefügt wird." }
@@ -482,8 +482,8 @@ entries[7924] = { ["name"] = "Erste Hilfe", ["text"] = "Sofort\nErmöglicht eine
 entries[7925] = { ["name"] = "Experte für Erste Hilfe" }
 entries[7926] = { ["name"] = "Erste Hilfe", ["text"] = "15 Meter Reichweite\nKanalisiert (Wirken in 8 sek.)\nHeilt 8 Sek. lang 400 Punkt(e) Schaden." }
 entries[7927] = { ["name"] = "Erste Hilfe", ["text"] = "15 Meter Reichweite\nKanalisiert (Wirken in 8 sek.)\nHeilt 8 Sek. lang 640 Punkt(e) Schaden." }
-entries[7928] = { ["name"] = "Seidenverband", ["text"] = "Wirken in 3 sek.\nReagenzien:\nSeidenstoff\nBenötigtErste Hilfe\n(100)\nBenutzen: Heilt 8 Sek. lang 400 Punkt(e) Schaden." }
-entries[7929] = { ["name"] = "Schwerer Seidenverband", ["text"] = "Wirken in 3 sek.\nReagenzien:\nSeidenstoff (2)\nBenötigtErste Hilfe\n(125)\nBenutzen: Heilt 8 Sek. lang 640 Punkt(e) Schaden." }
+entries[7928] = { ["name"] = "Seidenverband", ["text"] = "Wirken in 3 sek.\nReagenzien:\nSeidenstoff\nBenötigt Erste Hilfe\n(100)\nBenutzen: Heilt 8 Sek. lang 400 Punkt(e) Schaden." }
+entries[7929] = { ["name"] = "Schwerer Seidenverband", ["text"] = "Wirken in 3 sek.\nReagenzien:\nSeidenstoff (2)\nBenötigt Erste Hilfe\n(125)\nBenutzen: Heilt 8 Sek. lang 640 Punkt(e) Schaden." }
 entries[7930] = { ["name"] = "Seidenverband" }
 entries[7931] = { ["name"] = "Schwerer Seidenverband", ["text"] = "100 Meter Reichweite\nWirken in 3 sek.\nLehrt Euch, wie man einen schweren Seidenverband herstellt." }
 entries[7932] = { ["name"] = "Gegengift", ["text"] = "60 Mana 30 Meter Reichweite\nSofort 1 sek. Abklingzeit" }

@@ -34,6 +34,9 @@ local function counts(rows)
         assert(not text:find("%$[%w_]+"), "source macro survived")
         assert(not text:find("%[%s*[%d%.%s%+%-%*%/]+%]"), "unevaluated formula survived")
         assert(not text:find("{[^{}]+}%s*{"), "column braces survived")
+        local withoutPlayerTokens = text:gsub("{name}", ""):gsub("{race}", ""):gsub("{class}", "")
+        assert(not withoutPlayerTokens:find("[{}]"), "stray column brace survived")
+        assert(not text:find("Benötigt[A-ZÄÖÜ]"), "profession heading joined to vocabulary")
       end
     end
   end

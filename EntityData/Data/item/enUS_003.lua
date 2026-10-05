@@ -418,7 +418,7 @@ entries[5045] = { ["name"] = "Skull Gift", ["text"] = "Requires Level 35" }
 entries[5046] = { ["name"] = "Locked Gift", ["text"] = "Locked\nRequires Lockpicking (70)" }
 entries[5047] = { ["name"] = "Skull Wrapping Paper", ["text"] = "Requires Level 40\n\"Only 40th level or higher players will be able to open this gift.\"" }
 entries[5048] = { ["name"] = "Blue Ribboned Wrapping Paper" }
-entries[5049] = { ["name"] = "Self-locking Ironpaper", ["text"] = "RequiresSubtlety\n(150)\n\"This gift will require 150 lockpicking to open.\"" }
+entries[5049] = { ["name"] = "Self-locking Ironpaper", ["text"] = "Requires Subtlety\n(150)\n\"This gift will require 150 lockpicking to open.\"" }
 entries[5050] = { ["name"] = "Ignition Key", ["text"] = "Quest Item\nUnique" }
 entries[5051] = { ["name"] = "Dig Rat" }
 entries[5052] = { ["name"] = "Unconscious Dig Rat", ["text"] = "Unique\nUse: This dig rat is still struggling, why don't you let it go?" }
@@ -913,7 +913,7 @@ entries[5650] = { ["name"] = "Tome of Conjure Water III", ["text"] = "Classes: M
 entries[5654] = { ["name"] = "Instant Toxin", ["text"] = "Classes: Rogue\nRequires Level 24\nUse: Coats a sword or dagger with poison that lasts for 30 minutes.\nEach strike has a chance of poisoning the enemy which instantly inflicts 10-30 damage." }
 entries[5655] = { ["name"] = "Chestnut Mare Bridle", ["text"] = "Binds when used\nMount\nRequires any Alliance race\nRequires Level 40\nRequires Horse Riding (1)\nUse: Summons and dismisses a rideable Chestnut Mare. (3 Sec Cooldown)" }
 entries[5656] = { ["name"] = "Brown Horse Bridle", ["text"] = "Binds when used\nMount\nRequires any Alliance race\nRequires Level 40\nRequires Horse Riding (1)\nUse: Summons and dismisses a rideable brown horse. (3 Sec Cooldown)" }
-entries[5657] = { ["name"] = "Recipe: Instant Toxin", ["text"] = "RequiresPoisons\n(120)\nUse: Teaches you how to make an Instant Toxin.\nInstant Toxin\nClasses: Rogue\nRequires Level 24\nUse: Coats a sword or dagger with poison that lasts for 30 minutes.\nEach strike has a chance of poisoning the enemy which instantly inflicts 10-30 damage.\nRequires Large Venom Sac , Leaded Vial" }
+entries[5657] = { ["name"] = "Recipe: Instant Toxin", ["text"] = "Requires Poisons\n(120)\nUse: Teaches you how to make an Instant Toxin.\nInstant Toxin\nClasses: Rogue\nRequires Level 24\nUse: Coats a sword or dagger with poison that lasts for 30 minutes.\nEach strike has a chance of poisoning the enemy which instantly inflicts 10-30 damage.\nRequires Large Venom Sac , Leaded Vial" }
 entries[5658] = { ["name"] = "Libram: Seal of Might", ["text"] = "Classes: Paladin\nRequires Level 8\nUse: Teaches Seal of Might (Rank 1)." }
 entries[5659] = { ["name"] = "Smoldering Embers", ["text"] = "Quest Item" }
 entries[5660] = { ["name"] = "Libram: Seal of Righteousness", ["text"] = "Classes: Paladin\nRequires Level 16\nUse: Teaches Seal of Righteousness (Rank 1)." }

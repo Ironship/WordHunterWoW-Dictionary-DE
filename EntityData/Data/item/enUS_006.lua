@@ -763,7 +763,7 @@ entries[9703] = { ["name"] = "Scorched Cape", ["text"] = "Binds when picked up\n
 entries[9704] = { ["name"] = "Rustler Gloves", ["text"] = "Binds when picked up\nHands Leather\n73 Armor\n+9 Strength\n+9 Intellect\nDurability 30 / 30" }
 entries[9705] = { ["name"] = "Tharg's Shoelace", ["text"] = "Binds when picked up\nWaist Leather\n66 Armor\n+13 Strength\nDurability 30 / 30" }
 entries[9706] = { ["name"] = "Tharg's Disk", ["text"] = "Binds when picked up\nOff Hand Shield\n1257 Armor\n19 Block\n+10 Stamina\nDurability 85 / 85" }
-entries[9718] = { ["name"] = "Reforged Blade of Heroes", ["text"] = "Binds when equipped\nOne-Hand Sword\n{31 - 59 Damage Speed 2.20 + 5 - 10 Fire Damage\n(23.86 damage per second)\n+3 Strength\n+8 Stamina\nDurability 90 / 90\nRequires Level 33" }
+entries[9718] = { ["name"] = "Reforged Blade of Heroes", ["text"] = "Binds when equipped\nOne-Hand Sword\n31 - 59 Damage Speed 2.20 + 5 - 10 Fire Damage\n(23.86 damage per second)\n+3 Strength\n+8 Stamina\nDurability 90 / 90\nRequires Level 33" }
 entries[9719] = { ["name"] = "Broken Blade of Heroes", ["text"] = "37 - 50 Damage Speed 2.20\n(19.77 damage per second)\nRequires Blacksmithing (190)\nUse: The sword must be reforged before it can be used. Reforging the sword requires 4 Steel Bars, 4 Strong Flux , 2 Elemental Fire and 2 Heavy Grinding Stones." }
 entries[9738] = { ["name"] = "Gem of Cobrahn", ["text"] = "Quest Item" }
 entries[9739] = { ["name"] = "Gem of Anacondra", ["text"] = "Quest Item" }

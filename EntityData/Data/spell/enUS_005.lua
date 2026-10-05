@@ -65,7 +65,7 @@ entries[7426] = { ["name"] = "Enchant Chest - Minor Absorption", ["text"] = "5 s
 entries[7427] = { ["name"] = "Minor Deflection" }
 entries[7428] = { ["name"] = "Enchant Bracer - Minor Deflect", ["text"] = "5 sec cast\nRequires Bracers\nTools: Runed Copper Rod\nReagents:\nLesser Magic Essence , Strange Dust\nPermanently enchant bracers so that the defense skill of the wearer is increased by 1." }
 entries[7429] = { ["name"] = "Enchant Bracer - Minor Deflection" }
-entries[7430] = { ["name"] = "Arclight Spanner", ["text"] = "8 sec cast\nTools: Blacksmith Hammer\nReagents:\nCopper Bar (6)\nMain Hand\n5 - 8 Damage Speed 2.40\n(2.71 damage per second)\nRequiresEngineering\n(50)" }
+entries[7430] = { ["name"] = "Arclight Spanner", ["text"] = "8 sec cast\nTools: Blacksmith Hammer\nReagents:\nCopper Bar (6)\nMain Hand\n5 - 8 Damage Speed 2.40\n(2.71 damage per second)\nRequires Engineering\n(50)" }
 entries[7431] = { ["name"] = "Arclight Spanner" }
 entries[7433] = { ["name"] = "Minor Beast Slayer" }
 entries[7434] = { ["name"] = "Imbue Weapon - Beastslayer", ["text"] = "5 sec cast\nRequires Melee Weapon\nReagents:\nEarthroot , Silverleaf\nImbue a melee weapon to do 4 points of additional damage to beasts for 30 minutes." }
@@ -482,8 +482,8 @@ entries[7924] = { ["name"] = "First Aid", ["text"] = "Instant\nAllows a physicia
 entries[7925] = { ["name"] = "Expert First Aid" }
 entries[7926] = { ["name"] = "First Aid", ["text"] = "15 yd range\nChanneled (8 sec cast)\nHeals 400 damage over 8 sec." }
 entries[7927] = { ["name"] = "First Aid", ["text"] = "15 yd range\nChanneled (8 sec cast)\nHeals 640 damage over 8 sec." }
-entries[7928] = { ["name"] = "Silk Bandage", ["text"] = "3 sec cast\nReagents:\nSilk Cloth\nRequiresFirst Aid\n(100)\nUse: Heals 400 damage over 8 sec." }
-entries[7929] = { ["name"] = "Heavy Silk Bandage", ["text"] = "3 sec cast\nReagents:\nSilk Cloth (2)\nRequiresFirst Aid\n(125)\nUse: Heals 640 damage over 8 sec." }
+entries[7928] = { ["name"] = "Silk Bandage", ["text"] = "3 sec cast\nReagents:\nSilk Cloth\nRequires First Aid\n(100)\nUse: Heals 400 damage over 8 sec." }
+entries[7929] = { ["name"] = "Heavy Silk Bandage", ["text"] = "3 sec cast\nReagents:\nSilk Cloth (2)\nRequires First Aid\n(125)\nUse: Heals 640 damage over 8 sec." }
 entries[7930] = { ["name"] = "Silk Bandage" }
 entries[7931] = { ["name"] = "Heavy Silk Bandage", ["text"] = "100 yd range\n3 sec cast\nTeaches you how to make a Heavy Silk Bandage." }
 entries[7932] = { ["name"] = "Anti-Venom", ["text"] = "60 Mana 30 yd range\nInstant 1 sec cooldown\nTarget is cured of poisons up to level 25." }

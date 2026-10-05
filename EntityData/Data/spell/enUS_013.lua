@@ -1,8 +1,8 @@
 -- Generated static MultiLanguage Classic reference; see EntityData/source-manifest.json.
 local entries = WordHunterWoW_EntityDataBySource["multilanguage-classic"].kinds["spell"]["enUS"]
 entries[18628] = { ["name"] = "Breath" }
-entries[18629] = { ["name"] = "Runecloth Bandage", ["text"] = "3 sec cast\nReagents:\nRunecloth\nRequiresFirst Aid\n(200)\nUse: Heals 1360 damage over 8 sec." }
-entries[18630] = { ["name"] = "Heavy Runecloth Bandage", ["text"] = "3 sec cast\nReagents:\nRunecloth (2)\nRequiresFirst Aid\n(225)\nUse: Heals 2000 damage over 8 sec." }
+entries[18629] = { ["name"] = "Runecloth Bandage", ["text"] = "3 sec cast\nReagents:\nRunecloth\nRequires First Aid\n(200)\nUse: Heals 1360 damage over 8 sec." }
+entries[18630] = { ["name"] = "Heavy Runecloth Bandage", ["text"] = "3 sec cast\nReagents:\nRunecloth (2)\nRequires First Aid\n(225)\nUse: Heals 2000 damage over 8 sec." }
 entries[18631] = { ["name"] = "Runecloth Bandage" }
 entries[18632] = { ["name"] = "Heavy Runecloth Bandage" }
 entries[18633] = { ["name"] = "Weakening Disease", ["text"] = "Melee Range\nInstant\nDeals 8 Shadow damage every 2 sec for 30 sec and lowers their Strength for the duration of the disease." }
@@ -670,7 +670,7 @@ entries[19561] = { ["name"] = "Summon Gnashjaw" }
 entries[19564] = { ["name"] = "Draw Water Sample", ["text"] = "5 yd range\n3 sec cast\nDraw a sample of water from the waterfall at the mouth of the Cliffspring Falls cave ." }
 entries[19565] = { ["name"] = "Draw Water Sample", ["text"] = "5 yd range\n3 sec cast\nDraw a sample of water from the pool of water at the top of Dreadmist Peak." }
 entries[19566] = { ["name"] = "Salt Shaker", ["text"] = "25 sec cast 3 days cooldown\nReagents:\nDeeprock Salt\nAllows an experienced leatherworker to turn Deeprock Salt into Refined Deeprock Salt. Use of the device exposes the user to sub-core micro radiation and should not be used more than once every few days." }
-entries[19567] = { ["name"] = "Salt Shaker", ["text"] = "45 sec cast\nTools: Blacksmith Hammer\nReagents:\nMithril Casing , Thorium Bar (6), Gold Power Core , Unstable Trigger (4)\nRequiresLeatherworking\n(250)\nUse: Allows an experienced leatherworker to turn Deeprock Salt into Refined Deeprock Salt. Use of the device exposes the user to sub-core micro radiation and should not be used more than once every few days. (3 Days Cooldown)" }
+entries[19567] = { ["name"] = "Salt Shaker", ["text"] = "45 sec cast\nTools: Blacksmith Hammer\nReagents:\nMithril Casing , Thorium Bar (6), Gold Power Core , Unstable Trigger (4)\nRequires Leatherworking\n(250)\nUse: Allows an experienced leatherworker to turn Deeprock Salt into Refined Deeprock Salt. Use of the device exposes the user to sub-core micro radiation and should not be used more than once every few days. (3 Days Cooldown)" }
 entries[19568] = { ["name"] = "Salt Shaker" }
 entries[19569] = { ["name"] = "Split" }
 entries[19570] = { ["name"] = "Split" }
@@ -761,10 +761,10 @@ entries[19662] = { ["name"] = "Tainted Blood" }
 entries[19663] = { ["name"] = "Tainted Blood" }
 entries[19664] = { ["name"] = "Tainted Blood" }
 entries[19665] = { ["name"] = "Ignite Mana" }
-entries[19666] = { ["name"] = "Silver Skeleton Key", ["text"] = "8 sec cast\nTools: Blacksmith Hammer\nReagents:\nSilver Bar , Rough Grinding Stone\nSilver Skeleton Key\n(2)\nRequiresBlacksmithing\n(100)\nUse: Allows opening of simple locks. The skeleton key is consumed in the process." }
-entries[19667] = { ["name"] = "Golden Skeleton Key", ["text"] = "8 sec cast\nTools: Blacksmith Hammer\nReagents:\nGold Bar , Heavy Grinding Stone\nGolden Skeleton Key\n(2)\nRequiresBlacksmithing\n(150)\nUse: Allows opening of standard locks. The skeleton key is consumed in the process." }
-entries[19668] = { ["name"] = "Truesilver Skeleton Key", ["text"] = "8 sec cast\nTools: Blacksmith Hammer\nReagents:\nTruesilver Bar , Solid Grinding Stone\nTruesilver Skeleton Key\n(2)\nRequiresBlacksmithing\n(200)\nUse: Allows opening of difficult locks. The skeleton key is consumed in the process." }
-entries[19669] = { ["name"] = "Arcanite Skeleton Key", ["text"] = "8 sec cast\nTools: Blacksmith Hammer\nReagents:\nArcanite Bar , Dense Grinding Stone\nAllows opening of hard locks. The skeleton key is consumed in the process.\nArcanite Skeleton Key\n(2)\nRequiresBlacksmithing\n(275)\nUse: Allows opening of hard locks. The skeleton key is consumed in the process." }
+entries[19666] = { ["name"] = "Silver Skeleton Key", ["text"] = "8 sec cast\nTools: Blacksmith Hammer\nReagents:\nSilver Bar , Rough Grinding Stone\nSilver Skeleton Key\n(2)\nRequires Blacksmithing\n(100)\nUse: Allows opening of simple locks. The skeleton key is consumed in the process." }
+entries[19667] = { ["name"] = "Golden Skeleton Key", ["text"] = "8 sec cast\nTools: Blacksmith Hammer\nReagents:\nGold Bar , Heavy Grinding Stone\nGolden Skeleton Key\n(2)\nRequires Blacksmithing\n(150)\nUse: Allows opening of standard locks. The skeleton key is consumed in the process." }
+entries[19668] = { ["name"] = "Truesilver Skeleton Key", ["text"] = "8 sec cast\nTools: Blacksmith Hammer\nReagents:\nTruesilver Bar , Solid Grinding Stone\nTruesilver Skeleton Key\n(2)\nRequires Blacksmithing\n(200)\nUse: Allows opening of difficult locks. The skeleton key is consumed in the process." }
+entries[19669] = { ["name"] = "Arcanite Skeleton Key", ["text"] = "8 sec cast\nTools: Blacksmith Hammer\nReagents:\nArcanite Bar , Dense Grinding Stone\nAllows opening of hard locks. The skeleton key is consumed in the process.\nArcanite Skeleton Key\n(2)\nRequires Blacksmithing\n(275)\nUse: Allows opening of hard locks. The skeleton key is consumed in the process." }
 entries[19670] = { ["name"] = "Silver Skeleton Key" }
 entries[19671] = { ["name"] = "Golden Skeleton Key" }
 entries[19672] = { ["name"] = "Truesilver Skeleton Key" }
@@ -867,16 +867,16 @@ entries[19785] = { ["name"] = "Throw", ["text"] = "8 - 40 yd range\nInstant\nThr
 entries[19786] = { ["name"] = "Resist Silence", ["text"] = "Increases your resistance to silence effects by 7%." }
 entries[19787] = { ["name"] = "Increased Armor 110", ["text"] = "+110 Armor." }
 entries[19788] = { ["name"] = "Dense Blasting Powder", ["text"] = "8 sec cast\nReagents:\nDense Stone (2)" }
-entries[19790] = { ["name"] = "Thorium Grenade", ["text"] = "8 sec cast\nTools: Blacksmith Hammer\nReagents:\nThorium Widget , Thorium Bar (3), Dense Blasting Powder (3), Runecloth (3)\n(3)\nRequiresEngineering\n(260)\nUse: Inflicts 300 to 500 Fire damage and stuns targets for 3 sec in a 3 yard radius. Any damage will break the effect. (1 Min Cooldown)" }
+entries[19790] = { ["name"] = "Thorium Grenade", ["text"] = "8 sec cast\nTools: Blacksmith Hammer\nReagents:\nThorium Widget , Thorium Bar (3), Dense Blasting Powder (3), Runecloth (3)\n(3)\nRequires Engineering\n(260)\nUse: Inflicts 300 to 500 Fire damage and stuns targets for 3 sec in a 3 yard radius. Any damage will break the effect. (1 Min Cooldown)" }
 entries[19791] = { ["name"] = "Thorium Widget", ["text"] = "8 sec cast\nTools: Blacksmith Hammer , Arclight Spanner\nReagents:\nThorium Bar (3), Runecloth" }
 entries[19792] = { ["name"] = "Thorium Rifle", ["text"] = "45 sec cast\nTools: Blacksmith Hammer , Arclight Spanner\nReagents:\nMithril Tube (2), Mithril Casing (2), Thorium Widget (2), Thorium Bar (4), Deadly Scope\nThorium Rifle\nBinds when equipped\nRanged Gun\n42 - 79 Damage Speed 2.50\n(24.20 damage per second)\nDurability 65 / 65\n47\nEquip: +17 ranged Attack Power." }
 entries[19793] = { ["name"] = "Lifelike Mechanical Toad", ["text"] = "8 sec cast\nTools: Blacksmith Hammer , Arclight Spanner\nReagents:\nLiving Essence , Thorium Widget (4), Gold Power Core , Rugged Leather\nBinds when used\nUse: Right Click to summon and dismiss your lifelike mechanical toad." }
-entries[19794] = { ["name"] = "Spellpower Goggles Xtreme Plus", ["text"] = "45 sec cast\nTools: Arclight Spanner , Gyromatic Micro-Adjustor\nReagents:\nSpellpower Goggles Xtreme , Star Ruby (4), Enchanted Leather (2), Runecloth (8)\nSpellpower Goggles Xtreme Plus\nBinds when equipped\nHead Cloth\n57 Armor\nDurability 45 / 45\nRequiresEngineering\n(270)\nEquip: Increases damage and healing done by magical spells and effects by up to 27." }
+entries[19794] = { ["name"] = "Spellpower Goggles Xtreme Plus", ["text"] = "45 sec cast\nTools: Arclight Spanner , Gyromatic Micro-Adjustor\nReagents:\nSpellpower Goggles Xtreme , Star Ruby (4), Enchanted Leather (2), Runecloth (8)\nSpellpower Goggles Xtreme Plus\nBinds when equipped\nHead Cloth\n57 Armor\nDurability 45 / 45\nRequires Engineering\n(270)\nEquip: Increases damage and healing done by magical spells and effects by up to 27." }
 entries[19795] = { ["name"] = "Thorium Tube", ["text"] = "8 sec cast\nTools: Blacksmith Hammer , Arclight Spanner\nReagents:\nThorium Bar (6)" }
 entries[19796] = { ["name"] = "Dark Iron Rifle", ["text"] = "45 sec cast\nTools: Blacksmith Hammer , Arclight Spanner\nReagents:\nThorium Tube (2), Dark Iron Bar (6), Deadly Scope (2), Blue Sapphire (2), Large Opal (2), Rugged Leather (4)\nDark Iron Rifle\nBinds when equipped\nRanged Gun\n53 - 100 Damage Speed 2.70\n(28.33 damage per second)\nDurability 75 / 75\n50\nEquip: Chance to strike your ranged target with Shadow Shot for 18 to 26 Shadow damage." }
 entries[19797] = { ["name"] = "Conjure Torch of Retribution" }
 entries[19798] = { ["name"] = "Earthquake", ["text"] = "Instant\nInflicts 1388 to 1612 damage to nearby enemies." }
-entries[19799] = { ["name"] = "Dark Iron Bomb", ["text"] = "8 sec cast\nTools: Blacksmith Hammer\nReagents:\nThorium Widget (2), Dark Iron Bar , Dense Blasting Powder (3), Runecloth (3)\n(3)\nRequiresEngineering\n(285)\nUse: Inflicts 225 to 675 Fire damage and stuns targets in a 5 yard radius for 4 sec. Any damage will break the effect. (1 Min Cooldown)" }
+entries[19799] = { ["name"] = "Dark Iron Bomb", ["text"] = "8 sec cast\nTools: Blacksmith Hammer\nReagents:\nThorium Widget (2), Dark Iron Bar , Dense Blasting Powder (3), Runecloth (3)\n(3)\nRequires Engineering\n(285)\nUse: Inflicts 225 to 675 Fire damage and stuns targets in a 5 yard radius for 4 sec. Any damage will break the effect. (1 Min Cooldown)" }
 entries[19800] = { ["name"] = "Thorium Shells", ["text"] = "8 sec cast\nTools: Blacksmith Hammer\nReagents:\nThorium Bar (2), Dense Blasting Powder\nThorium Shells\n(200)Ammo Bullet\nAdds 17.5 damage per second\n52" }
 entries[19801] = { ["name"] = "Tranquilizing Shot", ["text"] = "270 Mana 8 - 35 yd range\n20 sec cooldown\nRequires Ranged Weapon\nAttempts to remove 1 Frenzy effect from an enemy creature." }
 entries[19802] = { ["name"] = "Summon Arcanite Dragonling", ["text"] = "Instant 1 hour cooldown\nThe Arcanite Dragonling comes to life and defends you for 1 min." }
@@ -889,7 +889,7 @@ entries[19810] = { ["name"] = "Injure Self on Spawn", ["text"] = "Instant\nInjur
 entries[19811] = { ["name"] = "Annihilate" }
 entries[19812] = { ["name"] = "Frenzy" }
 entries[19813] = { ["name"] = "Knockback" }
-entries[19814] = { ["name"] = "Masterwork Target Dummy", ["text"] = "12.5 sec cast\nTools: Blacksmith Hammer , Arclight Spanner\nReagents:\nMithril Casing , Thorium Tube , Thorium Widget (2), Truesilver Bar , Rugged Leather (2), Runecloth (4)\nRequiresEngineering\n(275)\nUse: Drops a target dummy on the ground that attracts nearby monsters to attack it. Lasts for 15 seconds or until killed. (2 Min Cooldown)" }
+entries[19814] = { ["name"] = "Masterwork Target Dummy", ["text"] = "12.5 sec cast\nTools: Blacksmith Hammer , Arclight Spanner\nReagents:\nMithril Casing , Thorium Tube , Thorium Widget (2), Truesilver Bar , Rugged Leather (2), Runecloth (4)\nRequires Engineering\n(275)\nUse: Drops a target dummy on the ground that attracts nearby monsters to attack it. Lasts for 15 seconds or until killed. (2 Min Cooldown)" }
 entries[19815] = { ["name"] = "Delicate Arcanite Converter", ["text"] = "8 sec cast\nTools: Blacksmith Hammer , Arclight Spanner\nReagents:\nArcanite Bar , Ironweb Spider Silk" }
 entries[19816] = { ["name"] = "Fireball", ["text"] = "90 Mana 40 yd range\n3 sec cast\nInflicts Fire damage to an enemy." }
 entries[19817] = { ["name"] = "Double Attack", ["text"] = "Gives the caster 0 extra attacks.\n(Proc chance: 10%, 3s cooldown)" }
@@ -900,13 +900,13 @@ entries[19821] = { ["name"] = "Arcane Bomb", ["text"] = "15 yd range\n1.5 sec ca
 entries[19822] = { ["name"] = "Play Dead" }
 entries[19823] = { ["name"] = "Fire Nova Visual" }
 entries[19824] = { ["name"] = "Summon Blackwing Legionnaires" }
-entries[19825] = { ["name"] = "Master Engineer's Goggles", ["text"] = "1 min cast\nTools: Arclight Spanner , Gyromatic Micro-Adjustor\nReagents:\nFire Goggles , Huge Emerald (2), Enchanted Leather (4)\nMaster Engineer's Goggles\nBinds when equipped\nHead Cloth\n61 Armor\n+16 Stamina\n+17 Spirit\nDurability 45 / 45\nRequiresEngineering\n(280)" }
+entries[19825] = { ["name"] = "Master Engineer's Goggles", ["text"] = "1 min cast\nTools: Arclight Spanner , Gyromatic Micro-Adjustor\nReagents:\nFire Goggles , Huge Emerald (2), Enchanted Leather (4)\nMaster Engineer's Goggles\nBinds when equipped\nHead Cloth\n61 Armor\n+16 Stamina\n+17 Spirit\nDurability 45 / 45\nRequires Engineering\n(280)" }
 entries[19826] = { ["name"] = "Summon Blackwing Legionnaire", ["text"] = "Instant" }
 entries[19827] = { ["name"] = "Summon Blackwing Mage", ["text"] = "Instant" }
 entries[19828] = { ["name"] = "Summon Death Talon Dragonspawn", ["text"] = "Instant" }
 entries[19829] = { ["name"] = "Summon Guardian of Nefarian" }
-entries[19830] = { ["name"] = "Arcanite Dragonling", ["text"] = "1 min cast\nTools: Blacksmith Hammer , Arclight Spanner\nReagents:\nMithril Mechanical Dragonling , Delicate Arcanite Converter (8), Enchanted Thorium Bar (10), Thorium Widget (6), Gold Power Core (4), Enchanted Leather (6)\nArcanite Dragonling\nBinds when equipped\nUniqueTrinket\n50\nRequiresEngineering\n(300)\nUse: Activates your Arcanite Dragonling to fight for you for 1 min. It requires an hour to cool down before it can be used again. (1 Hour Cooldown)" }
-entries[19831] = { ["name"] = "Arcane Bomb", ["text"] = "8 sec cast\nTools: Blacksmith Hammer\nReagents:\nDelicate Arcanite Converter , Thorium Bar (3), Runecloth\n(3)\nRequiresEngineering\n(300)\nUse: Drains 675 to 1125 mana from those in the blast radius and does 50% of the mana drained in damage to the target. Also Silences targets in the blast for 5 sec. (1 Min Cooldown)" }
+entries[19830] = { ["name"] = "Arcanite Dragonling", ["text"] = "1 min cast\nTools: Blacksmith Hammer , Arclight Spanner\nReagents:\nMithril Mechanical Dragonling , Delicate Arcanite Converter (8), Enchanted Thorium Bar (10), Thorium Widget (6), Gold Power Core (4), Enchanted Leather (6)\nArcanite Dragonling\nBinds when equipped\nUniqueTrinket\n50\nRequires Engineering\n(300)\nUse: Activates your Arcanite Dragonling to fight for you for 1 min. It requires an hour to cool down before it can be used again. (1 Hour Cooldown)" }
+entries[19831] = { ["name"] = "Arcane Bomb", ["text"] = "8 sec cast\nTools: Blacksmith Hammer\nReagents:\nDelicate Arcanite Converter , Thorium Bar (3), Runecloth\n(3)\nRequires Engineering\n(300)\nUse: Drains 675 to 1125 mana from those in the blast radius and does 50% of the mana drained in damage to the target. Also Silences targets in the blast for 5 sec. (1 Min Cooldown)" }
 entries[19832] = { ["name"] = "Possess" }
 entries[19833] = { ["name"] = "Flawless Arcanite Rifle", ["text"] = "1 min cast\nTools: Blacksmith Hammer , Arclight Spanner\nReagents:\nArcanite Bar (10), Thorium Tube (2), Essence of Fire (2), Essence of Earth (2), Azerothian Diamond (2), Enchanted Leather (2)\nFlawless Arcanite Rifle\nBinds when equipped\nRanged Gun\n65 - 122 Damage Speed 3.00\n(31.17 damage per second)\nDurability 75 / 75\n56\nEquip: Increased Guns +4.\nEquip: +10 ranged Attack Power." }
 entries[19834] = { ["name"] = "Blessing of Might", ["text"] = "30 Mana 30 yd range\nInstant\nPlaces a Blessing on the friendly target, increasing melee attack power by 35 for 5 min. Players may only have one Blessing on them per Paladin at any one time." }

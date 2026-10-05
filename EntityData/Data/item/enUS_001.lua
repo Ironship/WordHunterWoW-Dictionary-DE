@@ -501,8 +501,8 @@ entries[2891] = { ["name"] = "Letter to the City Architect", ["text"] = "Quest I
 entries[2892] = { ["name"] = "Deadly Poison", ["text"] = "Classes: Rogue\nRequires Level 30\nUse: Coats a weapon with poison that lasts for 30 minutes.\nEach strike has a 30% chance of poisoning the enemy for 36 Nature damage over 12 sec. Stacks up to 5 times on a single target. 60 charges. (Proc chance: 30%)" }
 entries[2893] = { ["name"] = "Deadly Poison II", ["text"] = "Classes: Rogue\nRequires Level 38\nUse: Coats a weapon with poison that lasts for 30 minutes.\nEach strike has a 30% chance of poisoning the enemy for 52 Nature damage over 12 sec. Stacks up to 5 times on a single target. 75 charges. (Proc chance: 30%)" }
 entries[2894] = { ["name"] = "Rhapsody Malt", ["text"] = "Use: A fairly weak alcoholic beverage." }
-entries[2895] = { ["name"] = "Creeping Pain", ["text"] = "Classes: Rogue\nRequiresPoisons\n(100)" }
-entries[2896] = { ["name"] = "Creeping Anguish", ["text"] = "Classes: Rogue\nRequiresPoisons\n(150)" }
+entries[2895] = { ["name"] = "Creeping Pain", ["text"] = "Classes: Rogue\nRequires Poisons\n(100)" }
+entries[2896] = { ["name"] = "Creeping Anguish", ["text"] = "Classes: Rogue\nRequires Poisons\n(150)" }
 entries[2898] = { ["name"] = "Mountaineer Chestpiece", ["text"] = "Chest Mail\n81 Armor\nDurability 60 / 60\nRequires Level 2" }
 entries[2899] = { ["name"] = "Wendigo Collar", ["text"] = "Binds when equipped\nWaist Leather\n39 Armor\n+3 Strength\nDurability 20 / 20\nRequires Level 10" }
 entries[2900] = { ["name"] = "Stone Buckler", ["text"] = "Binds when picked up\nOff Hand Shield\n161 Armor\n3 Block\nDurability 45 / 45" }
@@ -530,7 +530,7 @@ entries[2923] = { ["name"] = "Relic of Righteousness", ["text"] = "Unique\nTrink
 entries[2924] = { ["name"] = "Crocolisk Meat" }
 entries[2925] = { ["name"] = "Crocolisk Skin", ["text"] = "Quest Item" }
 entries[2926] = { ["name"] = "Head of Bazil Thredd", ["text"] = "Quest Item\nUnique" }
-entries[2927] = { ["name"] = "Creeping Torment", ["text"] = "Classes: Rogue\nRequiresPoisons\n(190)" }
+entries[2927] = { ["name"] = "Creeping Torment", ["text"] = "Classes: Rogue\nRequires Poisons\n(190)" }
 entries[2928] = { ["name"] = "Dust of Decay", ["text"] = "Classes: Rogue\n\"Used by rogues to brew poison.\"" }
 entries[2929] = { ["name"] = "Tomb Rot", ["text"] = "Classes: Rogue\n\"Used by rogues to brew poison.\"" }
 entries[2930] = { ["name"] = "Essence of Pain", ["text"] = "Classes: Rogue\n\"Used by rogues to brew poison.\"" }
@@ -750,7 +750,7 @@ entries[3190] = { ["name"] = "Beatstick", ["text"] = "Two-Hand Mace\n9 - 14 Dama
 entries[3191] = { ["name"] = "Arced War Axe", ["text"] = "Binds when picked up\nTwo-Hand Axe\n46 - 70 Damage Speed 3.30\n(17.58 damage per second)\n+6 Strength\n+6 Stamina\nDurability 80 / 80\nRequires Level 21" }
 entries[3192] = { ["name"] = "Short Bastard Sword", ["text"] = "Binds when equipped\nTwo-Hand Sword\n20 - 30 Damage Speed 3.00\n(8.33 damage per second)\n<Random enchantment>\nDurability 50 / 50\nRequires Level 7" }
 entries[3193] = { ["name"] = "Oak Mallet", ["text"] = "Binds when equipped\nTwo-Hand Mace\n38 - 58 Damage Speed 3.50\n(13.71 damage per second)\n<Random enchantment>\nDurability 65 / 65\nRequires Level 16" }
-entries[3194] = { ["name"] = "Black Malice", ["text"] = "Binds when equipped\nTwo-Hand Mace\n{48 - 73 Damage Speed 3.30 + 1 - 6 Shadow Damage\n(19.39 damage per second)\nDurability 75 / 75\nRequires Level 16\nChance on hit: Sends a shadowy bolt at the enemy causing 55 to 85 Shadow damage." }
+entries[3194] = { ["name"] = "Black Malice", ["text"] = "Binds when equipped\nTwo-Hand Mace\n48 - 73 Damage Speed 3.30 + 1 - 6 Shadow Damage\n(19.39 damage per second)\nDurability 75 / 75\nRequires Level 16\nChance on hit: Sends a shadowy bolt at the enemy causing 55 to 85 Shadow damage." }
 entries[3195] = { ["name"] = "Barbaric Battle Axe", ["text"] = "Binds when equipped\nTwo-Hand Axe\n34 - 52 Damage Speed 3.60\n(11.94 damage per second)\n<Random enchantment>\nDurability 60 / 60\nRequires Level 13" }
 entries[3196] = { ["name"] = "Edged Bastard Sword", ["text"] = "Binds when equipped\nTwo-Hand Sword\n29 - 44 Damage Speed 3.10\n(11.77 damage per second)\n<Random enchantment>\nDurability 60 / 60\nRequires Level 13" }
 entries[3197] = { ["name"] = "Stonecutter Claymore", ["text"] = "Binds when equipped\nTwo-Hand Sword\n59 - 89 Damage Speed 3.10\n(23.87 damage per second)\n<Random enchantment>\nDurability 85 / 85\nRequires Level 30" }
