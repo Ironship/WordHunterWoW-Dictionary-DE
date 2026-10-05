@@ -44,6 +44,15 @@ has priority. See `QuestData/NOTICE` for the MIT source attribution.
 The dictionary loads after an installed English Quest Panel, so its old quest
 chunks cannot overwrite the authoritative Classic/Forever English records.
 
+The library's source button also opens separate MultiLanguage quest editions
+and Classic item, spell and NPC references, all inside this dictionary addon.
+The current client's quest edition loads; Forever does not retain the Retail
+or TBC source tables. Source editions include historical and seasonal material
+and may differ between DE/EN. They remain separate from game observations.
+Items/spells show static source prose, and NPCs provide names and roles.
+Use DE/EN and click German words in the same learning reader. See QuestData
+and EntityData notices/manifests for provenance and omitted fields.
+
 ## Install
 
 Unzip into `_retail_\Interface\AddOns\` and restart the game. It is about
@@ -90,7 +99,9 @@ python Tools/translate_google.py --workers 4 --interval 0.25
 python Tools/build_dictionary_lua.py
 ```
 
-Hand-checked entries live in `Data/CuratedDE.jsonl` and override the machine output. Commit the generated `Data/DictionaryDE.lua`; do not commit `Data/cache/`.
+Reviewed entries live in `Data/CuratedDE.jsonl` and override the machine output. Commit the generated `Data/DictionaryDE.lua`; do not commit `Data/cache/`.
+
+For an incremental public-corpus run, `Tools/translate_incremental.py` extracts missing keys with the addon's actual Lua tokenizer. Classify names, English residue and ambiguous legacy self-glosses before running `translate --allow-network`. Publish all source/code updates first. The resumable translation cache and review queue stay outside the addon. `merge` appends accepted/revised entries after checking runtime keys; it preserves existing dictionary bytes and refuses conflicting curated replacements. New machine glosses still need contextual quality review and do not create new voice clips.
 
 ## Classic Era words
 

@@ -1,0 +1,17 @@
+MultiLanguage Classic item, spell and NPC source references, imported 5 October 2026.
+
+Source author: Ruben Zantingh.
+Repository: https://github.com/rubenzantingh/MultiLanguage
+Pinned master revision: c51dc2e5141f070f5b92de190521d79e8dccaeab.
+The project owner reported permission from the author to reuse quest, item and
+other data on 5 October 2026. Upstream's All rights reserved statement remains
+unchanged; this notice does not claim a broader source licence.
+
+The manifest records the exact raw source hashes, deterministic archives,
+normalization and runtime files. These are static Classic/master learning
+references, including seasonal content and source values, not authoritative
+current-client item/spell statistics. Native game tables are not replaced.
+
+World of Warcraft content and materials are copyrights and trademarks of
+Blizzard Entertainment or its licensors. This project is not affiliated with
+or endorsed by Blizzard Entertainment.
