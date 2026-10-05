@@ -14,5 +14,32 @@ Native Forever overrides: local deDE/enUS questcache.wdb records, captured
 per record and in source-manifest.json. Native data takes precedence only in
 the Forever buckets. Classic data remains separate and unchanged.
 
+Additive quest passages: MultiLanguage by Ruben Zantingh.
+Pinned revision: c51dc2e5141f070f5b92de190521d79e8dccaeab
+https://github.com/rubenzantingh/MultiLanguage/tree/c51dc2e5141f070f5b92de190521d79e8dccaeab
+German: Database/Quests/deDE.lua
+English: Database/Quests/enUS.lua
+The project owner reported the author's permission to reuse these databases
+on 2026-10-05. MultiLanguage's repository licence states "All rights reserved";
+reuse here relies on that permission and does not relicense upstream material.
+
+Modifications made by Ironship, 5 October 2026:
+  * Added bilingual progress/hand-in text only to known IDs whose opening
+    passages match in both languages and whose candidate dialogue is unflagged.
+    Classic receives 1,873 progress and 2,707 hand-in passages; Forever receives
+    1,872 progress and 2,706 hand-in passages as Classic compatibility fallbacks.
+  * Filled seven missing DE descriptions and seven DE objective lines, removing
+    audited empty reward headings or exact duplicate description tails.
+  * Decoded HTML and name/class/race placeholders, normalized nonbreaking spaces,
+    and repaired two individually reviewed missing sentence spaces.
+    NPC emotes and gender alternatives were preserved.
+  * Kept existing wording, native Forever metadata, and dictionary words intact.
+    No source-only quest ID, DE-only progress passage, or Retail corpus was added.
+
+The per-field provenance, accepted IDs, source/input hashes, and generated file
+hashes are recorded in source-manifest.json. Raw source remains retrievable from
+the pinned revision; these are static compatibility candidates, not live-certified
+Forever quest variants.
+
 All game names and quest text originate from World of Warcraft by Blizzard
 Entertainment. No quest text is generated or machine translated by this pack.
