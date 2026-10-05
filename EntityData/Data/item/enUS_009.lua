@@ -1,0 +1,1002 @@
+-- Generated static MultiLanguage Classic reference; see EntityData/source-manifest.json.
+local entries = WordHunterWoW_EntityDataBySource["multilanguage-classic"].kinds["item"]["enUS"]
+entries[13209] = { ["name"] = "Seal of the Dawn", ["text"] = "Binds when picked up\nUnique\nTrinket\nEquip: +81 Attack Power when fighting Undead. It also allows the acquisition of Scourgestones on behalf of the Argent Dawn." }
+entries[13210] = { ["name"] = "Pads of the Dread Wolf", ["text"] = "Binds when picked up\nFeet Leather\n116 Armor\n+14 Stamina\nDurability 50 / 50\nRequires Level 55\nEquip: +40 Attack Power." }
+entries[13211] = { ["name"] = "Slashclaw Bracers", ["text"] = "Binds when picked up\nWrist Mail\n155 Armor\n+7 Agility\n+7 Stamina\n+6 Spirit\nDurability 40 / 40\nRequires Level 55\nEquip: Improves your chance to hit by 1%." }
+entries[13212] = { ["name"] = "Halycon's Spiked Collar", ["text"] = "Binds when picked up\nNeck\n+7 Stamina\nRequires Level 55\nEquip: +48 Attack Power when fighting Beasts." }
+entries[13213] = { ["name"] = "Smolderweb's Eye", ["text"] = "Binds when picked up\nTrinket\nRequires Level 55\nUse: Poisons target for 20 Nature damage every 2 sec for 20 sec. (2 Min Cooldown)" }
+entries[13214] = { ["name"] = "TestBoots - Puffed Mail Green", ["text"] = "Feet Plate\n27 Armor\nDurability 25 / 25" }
+entries[13216] = { ["name"] = "Crown of the Penitent", ["text"] = "Binds when picked up\nHead Cloth\n64 Armor\n+20 Intellect\nDurability 45 / 45\nEquip: Restores 6 mana per 5 sec." }
+entries[13217] = { ["name"] = "Band of the Penitent", ["text"] = "Binds when picked up\nFinger\nEquip: Improves your chance to get a critical strike by 1%." }
+entries[13218] = { ["name"] = "Fang of the Crystal Spider", ["text"] = "Binds when picked up\nUnique\nOne-Hand Dagger\n45 - 84 Damage Speed 1.60\n(40.31 damage per second)\nDurability 65 / 65\nRequires Level 56\nChance on hit: Slows target enemy's casting speed and increases the time between melee and ranged attacks by 10% for 10 sec.\n\nSpider's Kiss (0/2)\nFang of the Crystal Spider\nVenomspitter\n(2) Set : Chance on Hit: Immobilizes the target and lowers their armor by 100 for 10 sec. (Proc chance: 5%)" }
+entries[13223] = { ["name"] = "Stratholme Courier's Pouch" }
+entries[13243] = { ["name"] = "Argent Defender", ["text"] = "Binds when picked up\nOff Hand Shield\n2121 Armor\n39 Block\nDurability 100 / 100\nEquip: Has a 1% chance when struck in combat of increasing chance to block by 50% for 10 sec. (Proc chance: 1%)" }
+entries[13244] = { ["name"] = "Gilded Gauntlets", ["text"] = "Binds when picked up\nHands Mail\n221 Armor\n+14 Stamina\n+15 Intellect\nDurability 40 / 40\nRequires Level 55\nEquip: Restores 4 mana per 5 sec." }
+entries[13245] = { ["name"] = "Kresh's Back", ["text"] = "Binds when picked up\nOff Hand Shield\n471 Armor\n9 Block\nDurability 75 / 75\nRequires Level 15\nEquip: Increased Defense +4." }
+entries[13246] = { ["name"] = "Argent Avenger", ["text"] = "Binds when picked up\nOne-Hand Sword\n71 - 108 Damage Speed 2.20\n(40.68 damage per second)\nDurability 90 / 90\nChance on hit: Increases Attack Power against Undead by 200 for 10 sec." }
+entries[13247] = { ["name"] = "Quartermaster Zigris' Footlocker", ["text"] = "Binds when picked up\nUnique\n<Right Click to Open>" }
+entries[13248] = { ["name"] = "Burstshot Harquebus", ["text"] = "Binds when picked up\nRanged Gun\n52 - 98 Damage Speed 2.60\n(28.85 damage per second)\n+8 Stamina\nDurability 75 / 75\nRequires Level 51\nEquip: +10 Attack Power." }
+entries[13249] = { ["name"] = "Argent Crusader", ["text"] = "Binds when picked up\nTwo-Hand Staff\n127 - 191 Damage Speed 3.00\n(53.00 damage per second)\n+6 Stamina\n+30 Intellect\n+10 Spirit\nDurability 100 / 100" }
+entries[13250] = { ["name"] = "Head of Balnazzar", ["text"] = "Binds when picked up\nUnique\nThis Item Begins a Quest" }
+entries[13251] = { ["name"] = "Head of Baron Rivendare", ["text"] = "Quest Item" }
+entries[13252] = { ["name"] = "Cloudrunner Girdle", ["text"] = "Binds when picked up\nWaist Leather\n185 Armor\n+14 Strength\n+15 Agility\nDurability 35 / 35\nRequires Level 55" }
+entries[13253] = { ["name"] = "Hands of Power", ["text"] = "Binds when picked up\nHands Cloth\n53 Armor\n+6 Intellect\n+6 Spirit\nDurability 30 / 30\nRequires Level 55\nEquip: Increases damage and healing done by magical spells and effects by up to 26." }
+entries[13254] = { ["name"] = "Astral Guard", ["text"] = "Binds when picked up\nOff Hand Shield\n1930 Armor\n35 Block\n<Random enchantment>\n+6 Stamina\nDurability 100 / 100\nRequires Level 51" }
+entries[13255] = { ["name"] = "Trueaim Gauntlets", ["text"] = "Binds when picked up\nHands Mail\n218 Armor\nDurability 40 / 40\nRequires Level 54\nEquip: Increased Bows +8.\nEquip: Improves your chance to hit by 1%.\nEquip: Increased Guns +8.\nEquip: Increased Crossbows +8." }
+entries[13257] = { ["name"] = "Demonic Runed Spaulders", ["text"] = "Binds when picked up\nShoulder Leather\n126 Armor\n+12 Strength\n+12 Stamina\n+14 Intellect\nDurability 60 / 60\nRequires Level 54" }
+entries[13258] = { ["name"] = "Slaghide Gauntlets", ["text"] = "Binds when picked up\nHands Leather\n207 Armor\n<Random enchantment>\nDurability 35 / 35\nRequires Level 56" }
+entries[13259] = { ["name"] = "Ribsteel Footguards", ["text"] = "Binds when picked up\nFeet Plate\n438 Armor\n+10 Strength\n+10 Agility\n+17 Stamina\nDurability 65 / 65\nRequires Level 56" }
+entries[13260] = { ["name"] = "Wind Dancer Boots", ["text"] = "Binds when equipped\nFeet Mail\n247 Armor\n+9 Intellect\n+16 Spirit\nDurability 60 / 60\nRequires Level 56\nEquip: Increases your chance to dodge an attack by 1%." }
+entries[13261] = { ["name"] = "Globe of D'sak", ["text"] = "Binds when picked up\nHeld In Off-hand\n+5 Stamina\n+16 Intellect\n+7 Shadow Resistance\nRequires Level 54\n\"Glows with the power of magiskull.\"" }
+entries[13262] = { ["name"] = "Ashbringer", ["text"] = "Binds when picked up\nUnique\nTwo-Hand Sword\n{201 - 247 Damage Speed 3.00 + 30 - 50 Holy Damage\n(88.00 damage per second)\nDurability 145 / 145\nRequires Level 60\nChance on hit: Blasts a target for 700 Fire damage.\n\"Blade of the Scarlet Highlord\"" }
+entries[13282] = { ["name"] = "Ogreseer Tower Boots", ["text"] = "Binds when picked up\nFeet Cloth\n58 Armor\n+13 Stamina\n+13 Intellect\n+13 Spirit\nDurability 40 / 40\nRequires Level 54" }
+entries[13283] = { ["name"] = "Magus Ring", ["text"] = "Binds when picked up\nUnique\nFinger\n+8 Stamina\n+12 Intellect\n+7 Spirit\nRequires Level 54" }
+entries[13284] = { ["name"] = "Swiftdart Battleboots", ["text"] = "Binds when picked up\nFeet Mail\n236 Armor\n+17 Agility\n+9 Stamina\n+10 Intellect\nDurability 60 / 60\nRequires Level 53" }
+entries[13285] = { ["name"] = "The Blackrock Slicer", ["text"] = "Binds when picked up\nTwo-Hand Axe\n159 - 239 Damage Speed 4.00\n(49.75 damage per second)\nDurability 100 / 100\nRequires Level 53\nChance on hit: Wounds the target for 50 to 150 damage and deals an additional 6 damage every 1 sec for 25 sec." }
+entries[13286] = { ["name"] = "Rivenspike", ["text"] = "Binds when picked up\nOne-Hand Axe\n77 - 144 Damage Speed 2.90\n(38.10 damage per second)\nDurability 90 / 90\nRequires Level 53\nChance on hit: Punctures target's armor lowering it by 200. Can be applied up to 3 times." }
+entries[13287] = { ["name"] = "Pattern: Raptor Hide Harness", ["text"] = "Requires Leatherworking (165)\nUse: Teaches you how to craft a Raptor Hide Harness.\nRaptor Hide Harness\nBinds when equipped\nChest Leather\n98 Armor\n+13 Stamina\nDurability 85 / 85\nRequires Level 28\nRequires Raptor Hide (6), Heavy Leather (4), Fine Thread (2)" }
+entries[13288] = { ["name"] = "Pattern: Raptor Hide Belt", ["text"] = "Requires Leatherworking (165)\nUse: Teaches you how to craft a Raptor Hide Belt.\nRaptor Hide Belt\nBinds when equipped\nWaist Leather\n55 Armor\n+6 Strength\n+6 Stamina\nDurability 30 / 30\nRequires Level 28\nRequires Raptor Hide (4), Heavy Leather (4), Fine Thread (2)" }
+entries[13289] = { ["name"] = "Egan's Blaster", ["text"] = "Quest Item\nUnique\nRanged\nUse: Use to free Spectral and Ghostly Citizens." }
+entries[13302] = { ["name"] = "Market Row Postbox Key", ["text"] = "Use: Opens a Stratholme postbox." }
+entries[13303] = { ["name"] = "Crusaders' Square Postbox Key", ["text"] = "Use: Opens a Stratholme postbox." }
+entries[13304] = { ["name"] = "Festival Lane Postbox Key", ["text"] = "Use: Opens a Stratholme postbox." }
+entries[13305] = { ["name"] = "Elders' Square Postbox Key", ["text"] = "Use: Opens a Stratholme postbox." }
+entries[13306] = { ["name"] = "King's Square Postbox Key", ["text"] = "Use: Opens a Stratholme postbox." }
+entries[13307] = { ["name"] = "Ezra Grimm's Postbox Key", ["text"] = "Use: Opens a Stratholme postbox." }
+entries[13308] = { ["name"] = "Schematic: Ice Deflector", ["text"] = "Requires Engineering (155)\nUse: Teaches you how to make an Ice Deflector.\nIce Deflector\nRequires Level 21\nUse: Absorbs 600 frost damage. Lasts 1 min. (15 Min Cooldown)\n5 Charges\nRequires Whirring Bronze Gizmo , Frost Oil" }
+entries[13309] = { ["name"] = "Schematic: Lovingly Crafted Boomstick", ["text"] = "Requires Engineering (120)\nUse: Teaches you how to make a Lovingly Crafted Boomstick.\nLovingly Crafted Boomstick\nBinds when equipped\nRanged Gun\n12 - 23 Damage Speed 1.80\n(9.72 damage per second)\nDurability 55 / 55\nRequires Level 19\nRequires Bronze Tube (2), Handful of Copper Bolts (2), Heavy Stock , Moss Agate (3)" }
+entries[13310] = { ["name"] = "Schematic: Accurate Scope", ["text"] = "Requires Engineering (180)\nUse: Teaches you how to make an Accurate Scope.\nAccurate Scope\nRequires Level 20\nUse: Attaches a permanent scope to a bow or gun that increases its damage by 3.\nRequires Bronze Tube , Jade , Citrine" }
+entries[13311] = { ["name"] = "Schematic: Mechanical Dragonling", ["text"] = "Requires Engineering (200)\nUse: Teaches you how to make a Mechanical Dragonling.\nMechanical Dragonling\nBinds when equipped\nUnique\nTrinket\nRequires Level 30\nRequires Engineering (200)\nUse: Activates your Mechanical Dragonling to fight for you for 1 min. It requires an hour to cool down before it can be used again. (1 Hour Cooldown)\nRequires Bronze Framework , Iron Strut (4), Gyrochronatom (4), Citrine (2), Fused Wiring" }
+entries[13313] = { ["name"] = "Sacred Highborne Writings", ["text"] = "Quest Item\nUnique\n\"The pages are tattered and worn...\"" }
+entries[13314] = { ["name"] = "Alanna's Embrace", ["text"] = "Binds when picked up\nChest Cloth\n96 Armor\n+20 Stamina\n+20 Intellect\n+20 Spirit\nDurability 100 / 100\nRequires Level 57\nEquip: Increases damage and healing done by magical spells and effects by up to 20." }
+entries[13315] = { ["name"] = "Testament of Hope", ["text"] = "Binds when picked up\nHeld In Off-hand\n+10 Spirit\nUse: Restores 500 health. Can only be used at 10% health. (30 Min Cooldown)" }
+entries[13317] = { ["name"] = "Whistle of the Ivory Raptor", ["text"] = "Binds when used\nMount\nRaces: Orc , Undead , Troll\nRequires Level 60\nRequires Raptor Riding (1)\nUse: Summons and dismisses a rideable Raptor. This is a very fast mount. (3 Sec Cooldown)" }
+entries[13320] = { ["name"] = "Arcane Quickener", ["text"] = "Quest Item\nDuration: 30 min\n\"This is used as a catalyst in transforming the toxins of the Scourge's cauldrons.\"" }
+entries[13321] = { ["name"] = "Green Mechanostrider", ["text"] = "Binds when used\nMount\nRaces: Dwarf , Gnome\nRequires Level 40\nRequiresMechanostrider Piloting\n(1)\nUse: Summons and dismisses a rideable mechanical tallstrider. (3 Sec Cooldown)" }
+entries[13322] = { ["name"] = "Unpainted Mechanostrider", ["text"] = "Binds when used\nMount\nRaces: Dwarf , Gnome\nRequires Level 40\nRequiresMechanostrider Piloting\n(1)\nUse: Summons and dismisses a rideable mechanical tallstrider. (3 Sec Cooldown)" }
+entries[13323] = { ["name"] = "Purple Mechanostrider", ["text"] = "Binds when used\nMount\nRaces: Dwarf , Gnome\nRequires Level 40\nRequiresMechanostrider Piloting\n(1)\nUse: Summons and dismisses a rideable mechanical tallstrider. (3 Sec Cooldown)" }
+entries[13324] = { ["name"] = "Red & Blue Mechanostrider", ["text"] = "Binds when used\nMount\nRaces: Dwarf , Gnome\nRequires Level 40\nRequiresMechanostrider Piloting\n(1)\nUse: Summons and dismisses a rideable mechanical tallstrider. (3 Sec Cooldown)" }
+entries[13325] = { ["name"] = "Fluorescent Green Mechanostrider", ["text"] = "Binds when picked up\nMount\nRequires Level 40\nUse: Summons and dismisses a rideable mechanical tallstrider. (3 Sec Cooldown)" }
+entries[13326] = { ["name"] = "White Mechanostrider Mod A", ["text"] = "Binds when used\nMount\nRaces: Dwarf , Gnome\nRequires Level 60\nRequiresMechanostrider Piloting\n(1)\nUse: Summons and dismisses a rideable mechanical tallstrider. This is a very fast mount. (3 Sec Cooldown)" }
+entries[13327] = { ["name"] = "Icy Blue Mechanostrider Mod A", ["text"] = "Binds when used\nMount\nRaces: Dwarf , Gnome\nRequires Level 60\nRequiresMechanostrider Piloting\n(1)\nUse: Summons and dismisses a rideable mechanical tallstrider. This is a very fast mount. (3 Sec Cooldown)" }
+entries[13328] = { ["name"] = "Black Ram", ["text"] = "Binds when used\nMount\nRequires any Alliance race\nRequires Level 60\nRequires Ram Riding (1)\nUse: Summons and dismisses a rideable black ram. This is a very fast mount. (3 Sec Cooldown)" }
+entries[13329] = { ["name"] = "Frost Ram", ["text"] = "Binds when used\nMount\nRequires any Alliance race\nRequires Level 60\nRequires Ram Riding (1)\nUse: Summons and dismisses a rideable frost ram. This is a very fast mount. (3 Sec Cooldown)" }
+entries[13330] = { ["name"] = "Dereks Radish Bag", ["text"] = "18 Slot Bag\n\"Derek keeps all his Radish Pals here\"" }
+entries[13331] = { ["name"] = "Red Skeletal Horse", ["text"] = "Binds when used\nMount\nRaces: Orc , Undead , Troll\nRequires Level 40\nRequiresUndead Horsemanship\n(1)\nUse: Summons and dismisses a rideable skeletal horse. (3 Sec Cooldown)" }
+entries[13332] = { ["name"] = "Blue Skeletal Horse", ["text"] = "Binds when used\nMount\nRaces: Orc , Undead , Troll\nRequires Level 40\nRequiresUndead Horsemanship\n(1)\nUse: Summons and dismisses a rideable skeletal horse. (3 Sec Cooldown)" }
+entries[13333] = { ["name"] = "Brown Skeletal Horse", ["text"] = "Binds when used\nMount\nRaces: Orc , Undead , Troll\nRequires Level 40\nRequiresUndead Horsemanship\n(1)\nUse: Summons and dismisses a rideable skeletal horse. (3 Sec Cooldown)" }
+entries[13334] = { ["name"] = "Green Skeletal Warhorse", ["text"] = "Binds when used\nMount\nRaces: Orc , Undead , Troll\nRequires Level 60\nRequiresUndead Horsemanship\n(1)\nUse: Summons and dismisses a rideable skeletal warhorse. This is a very fast mount. (3 Sec Cooldown)" }
+entries[13335] = { ["name"] = "Deathcharger's Reins", ["text"] = "Binds when picked up\nUnique\nMount\nRequires Level 60\nUse: Summons and dismisses Baron Rivendare's steed. This is a very fast mount. (3 Sec Cooldown)" }
+entries[13340] = { ["name"] = "Cape of the Black Baron", ["text"] = "Binds when picked up\nBack\n45 Armor\n+15 Agility\nRequires Level 58\nEquip: +20 Attack Power." }
+entries[13342] = { ["name"] = "Pet Fish", ["text"] = "Binds when used\nUse: Summons your pet fish. He used to look healthier.... (3 Min Cooldown)" }
+entries[13343] = { ["name"] = "Pet Stone", ["text"] = "Binds when used\nUse: Summons your pet stone. It doesn't seem very active though... (3 Min Cooldown)" }
+entries[13344] = { ["name"] = "Dracorian Gauntlets", ["text"] = "Binds when picked up\nHands Mail\n231 Armor\n+10 Stamina\n+11 Intellect\n+9 Spirit\nDurability 40 / 40\nRequires Level 58\nEquip: Increases damage and healing done by magical spells and effects by up to 16." }
+entries[13345] = { ["name"] = "Seal of Rivendare", ["text"] = "Binds when picked up\nFinger\n+17 Intellect\n+7 Spirit\nRequires Level 58" }
+entries[13346] = { ["name"] = "Robes of the Exalted", ["text"] = "Binds when picked up\nChest Cloth\n89 Armor\n+5 Intellect\n+11 Spirit\nDurability 80 / 80\nRequires Level 58\nEquip: Increases healing done by spells and effects by up to 68." }
+entries[13347] = { ["name"] = "Crystal of Zin-Malor", ["text"] = "Quest Item\nUnique\nTrinket\nEquip: Deals damage and drains 100 to 500 mana every second if you are not worthy." }
+entries[13348] = { ["name"] = "Demonshear", ["text"] = "Binds when picked up\nTwo-Hand Sword\n163 - 246 Damage Speed 3.80\n(53.82 damage per second)\nDurability 100 / 100\nRequires Level 58\nChance on hit: Sends a shadowy bolt at the enemy causing 150 Shadow damage and dealing 40 damage every 2 sec for 6 sec." }
+entries[13349] = { ["name"] = "Scepter of the Unholy", ["text"] = "Binds when picked up\nMain Hand Mace\n69 - 129 Damage Speed 2.40\n(41.25 damage per second)\n+5 Stamina\nDurability 90 / 90\nRequires Level 58\nEquip: Increases damage done by Shadow spells and effects by up to 19." }
+entries[13350] = { ["name"] = "Insignia of the Black Guard", ["text"] = "Quest Item\nUnique" }
+entries[13351] = { ["name"] = "Crimson Hammersmith's Apron", ["text"] = "Quest Item\nUnique" }
+entries[13352] = { ["name"] = "Vosh'gajin's Snakestone", ["text"] = "Quest Item\nUnique" }
+entries[13353] = { ["name"] = "Book of the Dead", ["text"] = "Binds when picked up\nHeld In Off-hand\n+8 Stamina\n+15 Intellect\n+10 Spirit\nRequires Level 58\nUse: Summons a Skeleton that will protect you for 1 min. (15 Min Cooldown)" }
+entries[13354] = { ["name"] = "Ectoplasmic Resonator", ["text"] = "Binds when picked up" }
+entries[13356] = { ["name"] = "Somatic Intensifier", ["text"] = "Binds when picked up" }
+entries[13357] = { ["name"] = "Osseous Agitator", ["text"] = "Binds when picked up" }
+entries[13358] = { ["name"] = "Wyrmtongue Shoulders", ["text"] = "Binds when picked up\nShoulder Leather\n132 Armor\n+23 Agility\n+10 Stamina\nDurability 60 / 60\nRequires Level 58" }
+entries[13359] = { ["name"] = "Crown of Tyranny", ["text"] = "Binds when picked up\nHead Mail\n301 Armor\n+20 Stamina\n-10 Spirit\nDurability 70 / 70\nRequires Level 58\nEquip: +40 Attack Power.\nEquip: Improves your chance to get a critical strike by 1%." }
+entries[13360] = { ["name"] = "Gift of the Elven Magi", ["text"] = "Binds when picked up\nOne-Hand Dagger\n43 - 81 Damage Speed 1.50\n(41.33 damage per second)\n+5 Stamina\n+10 Intellect\n+6 Spirit\nDurability 65 / 65\nRequires Level 58" }
+entries[13361] = { ["name"] = "Skullforge Reaver", ["text"] = "Binds when picked up\nOne-Hand Sword\n72 - 135 Damage Speed 2.50\n(41.40 damage per second)\nDurability 90 / 90\nRequires Level 58\nChance on hit: Drains target for 2 Shadow damage every 1 sec and transfers it to the caster. Lasts for 30 sec." }
+entries[13362] = { ["name"] = "Letter from the Front" }
+entries[13363] = { ["name"] = "Municipal Proclamation" }
+entries[13364] = { ["name"] = "Ezra Grimm's Advertisement" }
+entries[13365] = { ["name"] = "Town Meeting Notice" }
+entries[13366] = { ["name"] = "Ingenious Toy" }
+entries[13367] = { ["name"] = "Wrapped Gift" }
+entries[13368] = { ["name"] = "Bonescraper", ["text"] = "Binds when picked up\nOne-Hand Dagger\n40 - 74 Damage Speed 1.40\n(40.71 damage per second)\nDurability 65 / 65\nRequires Level 57\nEquip: +30 Attack Power." }
+entries[13369] = { ["name"] = "Fire Striders", ["text"] = "Binds when picked up\nFeet Cloth\n61 Armor\n+5 Spirit\n+15 Fire Resistance\nDurability 40 / 40\nRequires Level 58\nEquip: Increases damage done by Fire spells and effects by up to 29." }
+entries[13370] = { ["name"] = "Vitreous Focuser", ["text"] = "Quest Item\nUnique\n\"A device used to identify arcane components found in the body.\"" }
+entries[13371] = { ["name"] = "Father Flame", ["text"] = "Binds when picked up\nUnique\nHeld In Off-hand\n+10 Fire Resistance" }
+entries[13372] = { ["name"] = "Slavedriver's Cane", ["text"] = "Binds when picked up\nTwo-Hand Staff\n160 - 241 Damage Speed 3.90\n(51.41 damage per second)\n+29 Strength\n+12 Stamina\nDurability 100 / 100\nRequires Level 55" }
+entries[13373] = { ["name"] = "Band of Flesh", ["text"] = "Binds when picked up\nUnique\nFinger\n+6 Strength\n+3 Agility\n+16 Stamina\nRequires Level 55" }
+entries[13374] = { ["name"] = "Soulstealer Mantle", ["text"] = "Binds when picked up\nShoulder Cloth\n64 Armor\n+22 Intellect\n+9 Spirit\nDurability 50 / 50\nRequires Level 55" }
+entries[13375] = { ["name"] = "Crest of Retribution", ["text"] = "Binds when picked up\nOff Hand Shield\n2057 Armor\n38 Block\nDurability 100 / 100\nRequires Level 55\nEquip: Deals 5 to 35 damage every time you block." }
+entries[13376] = { ["name"] = "Royal Tribunal Cloak", ["text"] = "Binds when picked up\nBack\n42 Armor\n+7 Stamina\n+16 Intellect\nRequires Level 54" }
+entries[13377] = { ["name"] = "Miniature Cannon Balls", ["text"] = "Binds when picked up\nAmmo Bullet\nAdds 20.5 damage per second\nRequires Level 56" }
+entries[13378] = { ["name"] = "Songbird Blouse", ["text"] = "Binds when picked up\nChest Leather\n165 Armor\n+13 Strength\n+13 Agility\n+13 Stamina\n+13 Intellect\n+13 Spirit\nDurability 100 / 100\nRequires Level 53" }
+entries[13379] = { ["name"] = "Piccolo of the Flaming Fire", ["text"] = "Binds when picked up\nTrinket\nRequires Level 53\nUse: Causes nearby players to dance. (1 Min Cooldown)" }
+entries[13380] = { ["name"] = "Willey's Portable Howitzer", ["text"] = "Binds when picked up\nRanged Gun\n63 - 118 Damage Speed 2.90\n(31.21 damage per second)\n+9 Stamina\nDurability 75 / 75\nRequires Level 56\nEquip: +8 Attack Power." }
+entries[13381] = { ["name"] = "Master Cannoneer Boots", ["text"] = "Binds when picked up\nFeet Plate\n438 Armor\n+10 Strength\n+21 Stamina\nDurability 65 / 65\nRequires Level 56" }
+entries[13382] = { ["name"] = "Cannonball Runner", ["text"] = "Binds when picked up\nTrinket\nRequires Level 56\nUse: Summons a cannon that will fire at enemies in front of it that are attacking you. (5 Min Cooldown)" }
+entries[13383] = { ["name"] = "Woollies of the Prancing Minstrel", ["text"] = "Binds when picked up\nLegs Mail\n301 Armor\n+12 Stamina\n+10 Intellect\nDurability 90 / 90\nRequires Level 53\nEquip: Restores 10 mana per 5 sec." }
+entries[13384] = { ["name"] = "Rainbow Girdle", ["text"] = "Binds when picked up\nWaist Plate\n341 Armor\n+10 Strength\n+9 Agility\n+10 Stamina\n+10 Intellect\n+9 Spirit\nDurability 45 / 45\nRequires Level 53" }
+entries[13385] = { ["name"] = "Tome of Knowledge", ["text"] = "Binds when picked up\nHeld In Off-hand\n+8 Strength\n+8 Agility\n+8 Stamina\n+8 Intellect\n+8 Spirit\nRequires Level 56" }
+entries[13386] = { ["name"] = "Archivist Cape", ["text"] = "Binds when picked up\nBack\n43 Armor\n<Random enchantment>\nRequires Level 56\nEquip: Restores 4 mana per 5 sec." }
+entries[13387] = { ["name"] = "Foresight Girdle", ["text"] = "Binds when picked up\nWaist Mail\n202 Armor\n<Random enchantment>\nDurability 40 / 40\nRequires Level 56\nEquip: Restores 5 health per 5 sec." }
+entries[13388] = { ["name"] = "The Postmaster's Tunic", ["text"] = "Binds when picked up\nChest Cloth\n87 Armor\n+13 Stamina\n+20 Intellect\n+10 Spirit\nDurability 80 / 80\nRequires Level 56\nEquip: Increases damage and healing done by magical spells and effects by up to 15.\n\nThe Postmaster (0/5)\nThe Postmaster's Band\nThe Postmaster's Tunic\nThe Postmaster's Treads\nThe Postmaster's Seal\nThe Postmaster's Trousers\n(2) Set : +50 Armor.\n(3) Set : +10 Fire Resistance.\n(3) Set : +10 Arcane Resistance.\n(4) Set : Increases damage and healing done by magical spells and effects by up to 12.\n(5) Set : Increases run speed by 5%.\n(5) Set : +10 Intellect." }
+entries[13389] = { ["name"] = "The Postmaster's Trousers", ["text"] = "Binds when picked up\nLegs Cloth\n76 Armor\n+12 Stamina\n+20 Intellect\n+20 Spirit\nDurability 65 / 65\nRequires Level 56\n\nThe Postmaster (0/5)\nThe Postmaster's Band\nThe Postmaster's Tunic\nThe Postmaster's Treads\nThe Postmaster's Seal\nThe Postmaster's Trousers\n(2) Set : +50 Armor.\n(3) Set : +10 Fire Resistance.\n(3) Set : +10 Arcane Resistance.\n(4) Set : Increases damage and healing done by magical spells and effects by up to 12.\n(5) Set : Increases run speed by 5%.\n(5) Set : +10 Intellect." }
+entries[13390] = { ["name"] = "The Postmaster's Band", ["text"] = "Binds when picked up\nHead Cloth\n70 Armor\n+10 Stamina\n+25 Intellect\n+10 Spirit\nDurability 50 / 50\nRequires Level 56\nEquip: Increases damage and healing done by magical spells and effects by up to 14.\n\nThe Postmaster (0/5)\nThe Postmaster's Band\nThe Postmaster's Tunic\nThe Postmaster's Treads\nThe Postmaster's Seal\nThe Postmaster's Trousers\n(2) Set : +50 Armor.\n(3) Set : +10 Fire Resistance.\n(3) Set : +10 Arcane Resistance.\n(4) Set : Increases damage and healing done by magical spells and effects by up to 12.\n(5) Set : Increases run speed by 5%.\n(5) Set : +10 Intellect." }
+entries[13391] = { ["name"] = "The Postmaster's Treads", ["text"] = "Binds when picked up\nFeet Cloth\n60 Armor\n+14 Stamina\n+15 Intellect\n+6 Spirit\nDurability 40 / 40\nRequires Level 56\nEquip: Increases damage and healing done by magical spells and effects by up to 7.\n\nThe Postmaster (0/5)\nThe Postmaster's Band\nThe Postmaster's Tunic\nThe Postmaster's Treads\nThe Postmaster's Seal\nThe Postmaster's Trousers\n(2) Set : +50 Armor.\n(3) Set : +10 Fire Resistance.\n(3) Set : +10 Arcane Resistance.\n(4) Set : Increases damage and healing done by magical spells and effects by up to 12.\n(5) Set : Increases run speed by 5%.\n(5) Set : +10 Intellect." }
+entries[13392] = { ["name"] = "The Postmaster's Seal", ["text"] = "Binds when picked up\nUnique\nFinger\n+6 Stamina\n+3 Intellect\n+17 Spirit\nRequires Level 56\n\nThe Postmaster (0/5)\nThe Postmaster's Band\nThe Postmaster's Tunic\nThe Postmaster's Treads\nThe Postmaster's Seal\nThe Postmaster's Trousers\n(2) Set : +50 Armor.\n(3) Set : +10 Fire Resistance.\n(3) Set : +10 Arcane Resistance.\n(4) Set : Increases damage and healing done by magical spells and effects by up to 12.\n(5) Set : Increases run speed by 5%.\n(5) Set : +10 Intellect." }
+entries[13393] = { ["name"] = "Malown's Slam", ["text"] = "Binds when picked up\nTwo-Hand Mace\n158 - 238 Damage Speed 3.80\n(52.11 damage per second)\nDurability 100 / 100\nRequires Level 56\nChance on hit: Knocks target silly for 2 sec and increases Strength by 50 for 30 sec." }
+entries[13394] = { ["name"] = "Skul's Cold Embrace", ["text"] = "Binds when picked up\nChest Plate\n617 Armor\n+19 Strength\n+20 Stamina\n+10 Frost Resistance\nDurability 135 / 135\nRequires Level 54\nEquip: Increased Defense +6." }
+entries[13395] = { ["name"] = "Skul's Fingerbone Claws", ["text"] = "Binds when picked up\nHands Leather\n105 Armor\n+10 Stamina\nDurability 35 / 35\nRequires Level 54\nEquip: +40 Attack Power." }
+entries[13396] = { ["name"] = "Skul's Ghastly Touch", ["text"] = "Binds when picked up\nRanged Wand\n70 - 131 Shadow Damage Speed 1.80\n(55.83 damage per second)\nDurability 65 / 65\nRequires Level 52\nEquip: Increases damage done by Shadow spells and effects by up to 14." }
+entries[13397] = { ["name"] = "Stoneskin Gargoyle Cape", ["text"] = "Binds when picked up\nBack\n43 Armor\n+7 Strength\n+8 Agility\n+14 Stamina\nRequires Level 56" }
+entries[13398] = { ["name"] = "Boots of the Shrieker", ["text"] = "Binds when picked up\nFeet Leather\n120 Armor\n+10 Stamina\n+10 Intellect\n+10 Spirit\n+10 Shadow Resistance\nDurability 50 / 50\nRequires Level 57\nEquip: Increases damage and healing done by magical spells and effects by up to 12." }
+entries[13399] = { ["name"] = "Gargoyle Shredder Talons", ["text"] = "Binds when picked up\nOff Hand Fist Weapon\n49 - 91 Damage Speed 1.80\n(38.89 damage per second)\nDurability 65 / 65\nRequires Level 54\nChance on hit: Wounds the target causing them to bleed for 110 damage over 30 sec." }
+entries[13400] = { ["name"] = "Vambraces of the Sadist", ["text"] = "Binds when picked up\nWrist Plate\n270 Armor\n+6 Strength\n+7 Stamina\nDurability 45 / 45\nRequires Level 54\nEquip: Improves your chance to get a critical strike by 1%." }
+entries[13401] = { ["name"] = "The Cruel Hand of Timmy", ["text"] = "Binds when picked up\nOne-Hand Mace\n50 - 94 Damage Speed 1.80\n(40.00 damage per second)\nDurability 90 / 90\nRequires Level 56\nChance on hit: Lowers all attributes of target by 15 for 1 min." }
+entries[13402] = { ["name"] = "Timmy's Galoshes", ["text"] = "Binds when picked up\nFeet Mail\n240 Armor\n+17 Agility\n+11 Stamina\n+11 Intellect\nDurability 60 / 60\nRequires Level 54" }
+entries[13403] = { ["name"] = "Grimgore Noose", ["text"] = "Binds when picked up\nWaist Cloth\n47 Armor\n+9 Stamina\n+17 Intellect\n+10 Spirit\nDurability 30 / 30\nRequires Level 54" }
+entries[13404] = { ["name"] = "Mask of the Unforgiven", ["text"] = "Binds when picked up\nHead Leather\n132 Armor\n+12 Stamina\nDurability 60 / 60\nRequires Level 52\nEquip: Improves your chance to hit by 2%.\nEquip: Improves your chance to get a critical strike by 1%." }
+entries[13405] = { ["name"] = "Wailing Nightbane Pauldrons", ["text"] = "Binds when picked up\nShoulder Plate\n448 Armor\n+14 Strength\n+14 Stamina\n+10 Shadow Resistance\nDurability 80 / 80\nRequires Level 52\nEquip: Increased Defense +3." }
+entries[13408] = { ["name"] = "Soul Breaker", ["text"] = "Binds when picked up\nMain Hand Axe\n42 - 78 Damage Speed 1.60\n(37.50 damage per second)\nDurability 90 / 90\nRequires Level 52\nChance on hit: Target enemy loses 12 health and mana every 3 sec for 30 sec." }
+entries[13409] = { ["name"] = "Tearfall Bracers", ["text"] = "Binds when picked up\nWrist Cloth\n35 Armor\n<Random enchantment>\nDurability 30 / 30\nRequires Level 52" }
+entries[13422] = { ["name"] = "Stonescale Eel" }
+entries[13423] = { ["name"] = "Stonescale Oil" }
+entries[13442] = { ["name"] = "Mighty Rage Potion", ["text"] = "Classes: Warrior\nRequires Level 46\nUse: Increases Rage by 45 to 75 and increases Strength by 60 for 20 sec. (2 Min Cooldown)" }
+entries[13443] = { ["name"] = "Superior Mana Potion", ["text"] = "Requires Level 41\nUse: Restores 900 to 1500 mana. (2 Min Cooldown)" }
+entries[13444] = { ["name"] = "Major Mana Potion", ["text"] = "Requires Level 49\nUse: Restores 1350 to 2250 mana. (2 Min Cooldown)" }
+entries[13445] = { ["name"] = "Elixir of Superior Defense", ["text"] = "Requires Level 43\nUse: Increases armor by 450 for 1 hour. (3 Sec Cooldown)" }
+entries[13446] = { ["name"] = "Major Healing Potion", ["text"] = "Requires Level 45\nUse: Restores 1050 to 1750 health. (2 Min Cooldown)" }
+entries[13447] = { ["name"] = "Elixir of the Sages", ["text"] = "Requires Level 44\nUse: Increases Intellect and Spirit by 18 for 1 hour. (3 Sec Cooldown)" }
+entries[13448] = { ["name"] = "The Deed to Caer Darrow", ["text"] = "Quest Item\nUnique\n\"Carries the Seal of Barov.\"" }
+entries[13450] = { ["name"] = "The Deed to Southshore", ["text"] = "Quest Item\nUnique\n\"Carries the Seal of Barov.\"" }
+entries[13451] = { ["name"] = "The Deed to Tarren Mill", ["text"] = "Quest Item\nUnique\n\"Carries the Seal of Barov.\"" }
+entries[13452] = { ["name"] = "Elixir of the Mongoose", ["text"] = "Requires Level 46\nUse: Increases Agility by 25 and chance to get a critical hit by 2% for 1 hour. (3 Sec Cooldown)" }
+entries[13453] = { ["name"] = "Elixir of Brute Force", ["text"] = "Requires Level 45\nUse: Increases Strength and Stamina by 18 for 1 hour. (3 Sec Cooldown)" }
+entries[13454] = { ["name"] = "Greater Arcane Elixir", ["text"] = "Requires Level 47\nUse: Increases spell damage by up to 35 for 1 hour. (3 Sec Cooldown)" }
+entries[13455] = { ["name"] = "Greater Stoneshield Potion", ["text"] = "Requires Level 46\nUse: Increases armor by 2000 for 2 min. (2 Min Cooldown)" }
+entries[13456] = { ["name"] = "Greater Frost Protection Potion", ["text"] = "Requires Level 48\nUse: Absorbs 1950 to 3250 frost damage. Lasts 1 hour. (2 Min Cooldown)" }
+entries[13457] = { ["name"] = "Greater Fire Protection Potion", ["text"] = "Requires Level 48\nUse: Absorbs 1950 to 3250 fire damage. Lasts 1 hour. (2 Min Cooldown)" }
+entries[13458] = { ["name"] = "Greater Nature Protection Potion", ["text"] = "Requires Level 48\nUse: Absorbs 1950 to 3250 nature damage. Lasts 1 hour. (2 Min Cooldown)" }
+entries[13459] = { ["name"] = "Greater Shadow Protection Potion", ["text"] = "Requires Level 48\nUse: Absorbs 1950 to 3250 shadow damage. Lasts 1 hour. (2 Min Cooldown)" }
+entries[13460] = { ["name"] = "Greater Holy Protection Potion", ["text"] = "Requires Level 48\nUse: Absorbs 1950 to 3250 holy damage. Lasts 1 hour. (2 Min Cooldown)" }
+entries[13461] = { ["name"] = "Greater Arcane Protection Potion", ["text"] = "Requires Level 48\nUse: Absorbs 1950 to 3250 arcane damage. Lasts 1 hour. (2 Min Cooldown)" }
+entries[13462] = { ["name"] = "Purification Potion", ["text"] = "Requires Level 47\nUse: Attempts to remove one Curse, one Disease and one Poison from the Imbiber. (2 Min Cooldown)" }
+entries[13463] = { ["name"] = "Dreamfoil" }
+entries[13464] = { ["name"] = "Golden Sansam" }
+entries[13465] = { ["name"] = "Mountain Silversage" }
+entries[13466] = { ["name"] = "Plaguebloom" }
+entries[13467] = { ["name"] = "Icecap" }
+entries[13468] = { ["name"] = "Black Lotus" }
+entries[13469] = { ["name"] = "Head of Weldon Barov", ["text"] = "Quest Item\nUnique" }
+entries[13470] = { ["name"] = "Head of Alexi Barov", ["text"] = "Quest Item\nUnique" }
+entries[13471] = { ["name"] = "The Deed to Brill", ["text"] = "Quest Item\nUnique\n\"Carries the Seal of Barov.\"" }
+entries[13473] = { ["name"] = "Felstone Good Luck Charm", ["text"] = "Binds when picked up\nNeck\n+13 Shadow Resistance" }
+entries[13474] = { ["name"] = "Farmer Dalson's Shotgun", ["text"] = "Binds when picked up\nRanged Gun\n34 - 64 Damage Speed 1.90\n(25.79 damage per second)\nDurability 65 / 65" }
+entries[13475] = { ["name"] = "Dalson Family Wedding Ring", ["text"] = "Binds when picked up\nFinger\n+13 Stamina" }
+entries[13476] = { ["name"] = "Recipe: Mighty Rage Potion", ["text"] = "Requires Alchemy (255)\nUse: Teaches you how to make a Mighty Rage Potion.\nMighty Rage Potion\nClasses: Warrior\nRequires Level 46\nUse: Increases Rage by 45 to 75 and increases Strength by 60 for 20 sec. (2 Min Cooldown)\nRequires Gromsblood (3), Crystal Vial" }
+entries[13477] = { ["name"] = "Recipe: Superior Mana Potion", ["text"] = "Requires Alchemy (260)\nUse: Teaches you how to make a Superior Mana Potion.\nSuperior Mana Potion\nRequires Level 41\nUse: Restores 900 to 1500 mana. (2 Min Cooldown)\nRequires Sungrass (2), Blindweed (2), Crystal Vial" }
+entries[13478] = { ["name"] = "Recipe: Elixir of Superior Defense", ["text"] = "Requires Alchemy (265)\nUse: Teaches you how to make an Elixir of Superior Defense.\nElixir of Superior Defense\nRequires Level 43\nUse: Increases armor by 450 for 1 hour. (3 Sec Cooldown)\nRequires Stonescale Oil (2), Sungrass , Crystal Vial" }
+entries[13479] = { ["name"] = "Recipe: Elixir of the Sages", ["text"] = "Requires Alchemy (270)\nUse: Teaches you how to make an Elixir of the Sages.\nElixir of the Sages\nRequires Level 44\nUse: Increases Intellect and Spirit by 18 for 1 hour. (3 Sec Cooldown)\nRequires Dreamfoil , Plaguebloom (2), Crystal Vial" }
+entries[13480] = { ["name"] = "Recipe: Major Healing Potion", ["text"] = "Requires Alchemy (275)\nUse: Teaches you how to make a Major Healing Potion.\nMajor Healing Potion\nRequires Level 45\nUse: Restores 1050 to 1750 health. (2 Min Cooldown)\nRequires Golden Sansam (2), Mountain Silversage , Crystal Vial" }
+entries[13481] = { ["name"] = "Recipe: Elixir of Brute Force", ["text"] = "Requires Alchemy (275)\nUse: Teaches you how to make an Elixir of Brute Force.\nElixir of Brute Force\nRequires Level 45\nUse: Increases Strength and Stamina by 18 for 1 hour. (3 Sec Cooldown)\nRequires Gromsblood (2), Plaguebloom (2), Crystal Vial" }
+entries[13482] = { ["name"] = "Recipe: Transmute Air to Fire", ["text"] = "Binds when picked up\nRequires Alchemy (275)\nRequiresArgent Dawn\n- Honored\nUse: Teaches you how to transmute Essence of Air into Essence of Fire.\n\nEssence of Fire\nRequires Essence of Air" }
+entries[13483] = { ["name"] = "Recipe: Transmute Fire to Earth", ["text"] = "Binds when picked up\nRequires Alchemy (275)\nUse: Teaches you how to transmute Essence of Fire into Essence of Earth.\n\nEssence of Earth\nRequires Essence of Fire" }
+entries[13484] = { ["name"] = "Recipe: Transmute Earth to Water", ["text"] = "Binds when picked up\nRequires Alchemy (275)\nRequiresTimbermaw Hold\n- Friendly\nUse: Teaches you how to transmute Essence of Earth into Essence of Water.\n\nEssence of Water\nRequires Essence of Earth" }
+entries[13485] = { ["name"] = "Recipe: Transmute Water to Air", ["text"] = "Binds when picked up\nRequires Alchemy (275)\nUse: Teaches you how to transmute Essence of Water into Essence of Air.\n\nEssence of Air\nRequires Essence of Water" }
+entries[13486] = { ["name"] = "Recipe: Transmute Undeath to Water", ["text"] = "Requires Alchemy (275)\nUse: Teaches you how to transmute Essence of Undeath into Essence of Water.\nEssence of Water\nRequires Essence of Undeath" }
+entries[13487] = { ["name"] = "Recipe: Transmute Water to Undeath", ["text"] = "Requires Alchemy (275)\nUse: Teaches you how to transmute Essence of Water into Essence of Undeath.\nEssence of Undeath\nRequires Essence of Water" }
+entries[13488] = { ["name"] = "Recipe: Transmute Life to Earth", ["text"] = "Requires Alchemy (275)\nUse: Teaches you how to transmute Living Essence into Essence of Earth.\nEssence of Earth\nRequires Living Essence" }
+entries[13489] = { ["name"] = "Recipe: Transmute Earth to Life", ["text"] = "Requires Alchemy (275)\nUse: Teaches you how to transmute Essence of Earth into Living Essence.\nLiving Essence\nRequires Essence of Earth" }
+entries[13490] = { ["name"] = "Recipe: Greater Stoneshield Potion", ["text"] = "Requires Alchemy (280)\nUse: Teaches you how to make a Greater Stoneshield Potion.\nGreater Stoneshield Potion\nRequires Level 46\nUse: Increases armor by 2000 for 2 min. (2 Min Cooldown)\nRequires Stonescale Oil (3), Thorium Ore , Crystal Vial" }
+entries[13491] = { ["name"] = "Recipe: Elixir of the Mongoose", ["text"] = "Requires Alchemy (280)\nUse: Teaches you how to make an Elixir of the Mongoose.\nElixir of the Mongoose\nRequires Level 46\nUse: Increases Agility by 25 and chance to get a critical hit by 2% for 1 hour. (3 Sec Cooldown)\nRequires Mountain Silversage (2), Plaguebloom (2), Crystal Vial" }
+entries[13492] = { ["name"] = "Recipe: Purification Potion", ["text"] = "Requires Alchemy (285)\nUse: Teaches you how to make a Purification Potion.\nPurification Potion\nRequires Level 47\nUse: Attempts to remove one Curse, one Disease and one Poison from the Imbiber. (2 Min Cooldown)\nRequires Icecap (2), Plaguebloom (2), Crystal Vial" }
+entries[13493] = { ["name"] = "Recipe: Greater Arcane Elixir", ["text"] = "Requires Alchemy (285)\nUse: Teaches you how to make a Greater Arcane Elixir.\nGreater Arcane Elixir\nRequires Level 47\nUse: Increases spell damage by up to 35 for 1 hour. (3 Sec Cooldown)\nRequires Dreamfoil (3), Mountain Silversage , Crystal Vial" }
+entries[13494] = { ["name"] = "Recipe: Greater Fire Protection Potion", ["text"] = "Requires Alchemy (290)\nUse: Teaches you how to make a Greater Fire Protection Potion.\nGreater Fire Protection Potion\nRequires Level 48\nUse: Absorbs 1950 to 3250 fire damage. Lasts 1 hour. (2 Min Cooldown)\nRequires Elemental Fire , Dreamfoil , Crystal Vial" }
+entries[13495] = { ["name"] = "Recipe: Greater Frost Protection Potion", ["text"] = "Requires Alchemy (290)\nUse: Teaches you how to make a Greater Frost Protection Potion.\nGreater Frost Protection Potion\nRequires Level 48\nUse: Absorbs 1950 to 3250 frost damage. Lasts 1 hour. (2 Min Cooldown)\nRequires Elemental Water , Dreamfoil , Crystal Vial" }
+entries[13496] = { ["name"] = "Recipe: Greater Nature Protection Potion", ["text"] = "Requires Alchemy (290)\nUse: Teaches you how to make a Greater Nature Protection Potion.\nGreater Nature Protection Potion\nRequires Level 48\nUse: Absorbs 1950 to 3250 nature damage. Lasts 1 hour. (2 Min Cooldown)\nRequires Elemental Earth , Dreamfoil , Crystal Vial" }
+entries[13497] = { ["name"] = "Recipe: Greater Arcane Protection Potion", ["text"] = "Requires Alchemy (290)\nUse: Teaches you how to make a Greater Arcane Protection Potion.\nGreater Arcane Protection Potion\nRequires Level 48\nUse: Absorbs 1950 to 3250 arcane damage. Lasts 1 hour. (2 Min Cooldown)\nRequires Dream Dust , Dreamfoil , Crystal Vial" }
+entries[13498] = { ["name"] = "Handcrafted Mastersmith Leggings", ["text"] = "Binds when picked up\nLegs Plate\n548 Armor\n+29 Strength\n+12 Stamina\nDurability 100 / 100\nRequires Level 55" }
+entries[13499] = { ["name"] = "Recipe: Greater Shadow Protection Potion", ["text"] = "Requires Alchemy (290)\nUse: Teaches you how to make a Greater Shadow Protection Potion.\nGreater Shadow Protection Potion\nRequires Level 48\nUse: Absorbs 1950 to 3250 shadow damage. Lasts 1 hour. (2 Min Cooldown)\nRequires Shadow Oil , Dreamfoil , Crystal Vial" }
+entries[13500] = { ["name"] = "Recipe: Greater Holy Protection Potion", ["text"] = "Requires Alchemy (290)\nUse: Teaches you how to make a Greater Holy Protection Potion.\nGreater Holy Protection Potion\nRequires Level 48\nUse: Absorbs 1950 to 3250 holy damage. Lasts 1 hour. (2 Min Cooldown)\nRequires Elemental Air , Dreamfoil , Crystal Vial" }
+entries[13501] = { ["name"] = "Recipe: Major Mana Potion", ["text"] = "Binds when picked up\nRequires Alchemy (295)\nUse: Teaches you how to make a Major Mana Potion.\nMajor Mana Potion\nRequires Level 49\nUse: Restores 1350 to 2250 mana. (2 Min Cooldown)\nRequires Dreamfoil (3), Icecap (2), Crystal Vial" }
+entries[13502] = { ["name"] = "Handcrafted Mastersmith Girdle", ["text"] = "Binds when picked up\nWaist Plate\n519 Armor\n+11 Strength\n+10 Agility\n+10 Stamina\nDurability 45 / 45\nRequires Level 58" }
+entries[13503] = { ["name"] = "Alchemists' Stone", ["text"] = "Binds when picked up\nUnique\nTrinket\n+8 Spirit\nRequires Alchemy (300)\nEquip: Increases the effects that healing and mana potions have on the wearer by 33%." }
+entries[13505] = { ["name"] = "Runeblade of Baron Rivendare", ["text"] = "Binds when picked up\nTwo-Hand Sword\n171 - 257 Damage Speed 3.60\n(59.44 damage per second)\nDurability 120 / 120\nRequires Level 58\nEquip: Increases movement speed and life regeneration rate." }
+entries[13506] = { ["name"] = "Flask of Petrification", ["text"] = "Requires Level 50\nUse: You turn to stone, protecting you from all physical attacks and spells for 1 min, but during that time you cannot attack, move or cast spells. You can only have the effect of one flask at a time. (3 Sec Cooldown)" }
+entries[13507] = { ["name"] = "Cliffwatcher Longhorn Report", ["text"] = "Quest Item\nUnique\n<Right Click to Read>" }
+entries[13508] = { ["name"] = "Eye of Arachnida", ["text"] = "Binds when picked up\nUnique\nRequires Level 55\nUse: Summons an Eye of Kilrogg and binds your vision to it. The eye moves quickly but is very fragile. (1 Min Cooldown)\n3 Charges" }
+entries[13509] = { ["name"] = "Clutch of Foresight", ["text"] = "Binds when picked up\nUnique\nRequires Level 55\nUse: Counters the enemy's spellcast, preventing any spell from that school of magic from being cast for 10 sec. Generates a high amount of threat. (1 Min Cooldown)" }
+entries[13510] = { ["name"] = "Flask of the Titans", ["text"] = "Requires Level 50\nUse: Increases the player's maximum health by 1200 for 2 hrs. You can only have the effect of one flask at a time. This effect persists through death. (3 Sec Cooldown)" }
+entries[13511] = { ["name"] = "Flask of Distilled Wisdom", ["text"] = "Requires Level 50\nUse: Increases the player's maximum mana by 2000 for 2 hrs. You can only have the effect of one flask at a time. This effect persists through death. (3 Sec Cooldown)" }
+entries[13512] = { ["name"] = "Flask of Supreme Power", ["text"] = "Requires Level 50\nUse: Increases damage done by magical spells and effects by up to 150 for 2 hrs. You can only have the effect of one flask at a time. This effect persists through death. (3 Sec Cooldown)" }
+entries[13513] = { ["name"] = "Flask of Chromatic Resistance", ["text"] = "Requires Level 50\nUse: Increases your resistance to all schools of magic by 25 for 2 hrs. You can only have the effect of one flask at a time. This effect persists through death and stacks with all other resistance spells and items. (3 Sec Cooldown)" }
+entries[13514] = { ["name"] = "Wail of the Banshee", ["text"] = "Binds when picked up\nUnique\nRequires Level 55\nUse: Reduces an enemy's chance to hit by 10% for 12 sec. (1 Min Cooldown)\n3 Charges" }
+entries[13515] = { ["name"] = "Ramstein's Lightning Bolts", ["text"] = "Binds when picked up\nUnique\nTrinket\nRequires Level 55\nUse: Harness the power of lightning to strike down all enemies around you for 200 Nature damage. (5 Min Cooldown)" }
+entries[13517] = { ["name"] = "Recipe: Alchemists' Stone", ["text"] = "Binds when picked up\nRequires Alchemy (300)\nUse: Teaches you how to make an Alchemist's Stone.\n\nAlchemists' Stone\nBinds when picked up\nUnique\nTrinket\n+8 Spirit\nRequires Alchemy (300)\nEquip: Increases the effects that healing and mana potions have on the wearer by 33%.\nRequires Essence of Fire (8), Essence of Earth (8), Essence of Air (8), Essence of Water (8), Living Essence (8), Black Vitriol (2), Black Lotus (4)" }
+entries[13518] = { ["name"] = "Recipe: Flask of Petrification", ["text"] = "Requires Alchemy (300)\nUse: Teaches you how to make a Flask of Petrification.\nFlask of Petrification\nRequires Level 50\nUse: You turn to stone, protecting you from all physical attacks and spells for 1 min, but during that time you cannot attack, move or cast spells. You can only have the effect of one flask at a time. (3 Sec Cooldown)\nRequires Stonescale Oil (30), Mountain Silversage (10), Black Lotus , Crystal Vial" }
+entries[13519] = { ["name"] = "Recipe: Flask of the Titans", ["text"] = "Requires Alchemy (300)\nUse: Teaches you how to make a Flask of the Titans.\nFlask of the Titans\nRequires Level 50\nUse: Increases the player's maximum health by 1200 for 2 hrs. You can only have the effect of one flask at a time. This effect persists through death. (3 Sec Cooldown)\nRequires Gromsblood (30), Stonescale Oil (10), Black Lotus , Crystal Vial" }
+entries[13520] = { ["name"] = "Recipe: Flask of Distilled Wisdom", ["text"] = "Requires Alchemy (300)\nUse: Teaches you how to make a Flask of Distilled Wisdom.\nFlask of Distilled Wisdom\nRequires Level 50\nUse: Increases the player's maximum mana by 2000 for 2 hrs. You can only have the effect of one flask at a time. This effect persists through death. (3 Sec Cooldown)\nRequires Dreamfoil (30), Icecap (10), Black Lotus , Crystal Vial" }
+entries[13521] = { ["name"] = "Recipe: Flask of Supreme Power", ["text"] = "Requires Alchemy (300)\nUse: Teaches you how to make a Flask of Supreme Power.\nFlask of Supreme Power\nRequires Level 50\nUse: Increases damage done by magical spells and effects by up to 150 for 2 hrs. You can only have the effect of one flask at a time. This effect persists through death. (3 Sec Cooldown)\nRequires Dreamfoil (30), Mountain Silversage (10), Black Lotus , Crystal Vial" }
+entries[13522] = { ["name"] = "Recipe: Flask of Chromatic Resistance", ["text"] = "Requires Alchemy (300)\nUse: Teaches you how to make a Flask of Chromatic Resistance.\nFlask of Chromatic Resistance\nRequires Level 50\nUse: Increases your resistance to all schools of magic by 25 for 2 hrs. You can only have the effect of one flask at a time. This effect persists through death and stacks with all other resistance spells and items. (3 Sec Cooldown)\nRequires Icecap (30), Mountain Silversage (10), Black Lotus , Crystal Vial" }
+entries[13523] = { ["name"] = "Blood of Innocents", ["text"] = "Binds when picked up\nUnique\n\"The blood is still fresh.\"" }
+entries[13524] = { ["name"] = "Skull of Burning Shadows", ["text"] = "Binds when picked up\nHeld In Off-hand\n+15 Fire Resistance\n+10 Shadow Resistance\nRequires Level 57" }
+entries[13525] = { ["name"] = "Darkbind Fingers", ["text"] = "Binds when picked up\nHands Cloth\n50 Armor\n+20 Shadow Resistance\nDurability 25 / 25\nRequires Level 57" }
+entries[13526] = { ["name"] = "Flamescarred Girdle", ["text"] = "Binds when picked up\nWaist Leather\n89 Armor\n+20 Fire Resistance\nDurability 30 / 30\nRequires Level 57" }
+entries[13527] = { ["name"] = "Lavawalker Greaves", ["text"] = "Binds when picked up\nFeet Plate\n404 Armor\n+20 Fire Resistance\nDurability 55 / 55\nRequires Level 57" }
+entries[13528] = { ["name"] = "Twilight Void Bracers", ["text"] = "Binds when picked up\nWrist Mail\n145 Armor\n+15 Shadow Resistance\nDurability 35 / 35\nRequires Level 57" }
+entries[13529] = { ["name"] = "Husk of Nerub'enkan", ["text"] = "Binds when picked up\nOff Hand Shield\n2089 Armor\n38 Block\n+10 Stamina\n+15 Nature Resistance\nDurability 100 / 100\nRequires Level 56" }
+entries[13530] = { ["name"] = "Fangdrip Runners", ["text"] = "Binds when picked up\nFeet Cloth\n54 Armor\n+20 Nature Resistance\nDurability 35 / 35\nRequires Level 56" }
+entries[13531] = { ["name"] = "Crypt Stalker Leggings", ["text"] = "Binds when picked up\nLegs Leather\n136 Armor\n+18 Nature Resistance\n+18 Shadow Resistance\nDurability 65 / 65\nRequires Level 56" }
+entries[13532] = { ["name"] = "Darkspinner Claws", ["text"] = "Binds when picked up\nHands Mail\n204 Armor\n+13 Nature Resistance\n+13 Shadow Resistance\nDurability 35 / 35\nRequires Level 56" }
+entries[13533] = { ["name"] = "Acid-etched Pauldrons", ["text"] = "Binds when picked up\nShoulder Plate\n434 Armor\n+20 Nature Resistance\nDurability 70 / 70\nRequires Level 56" }
+entries[13534] = { ["name"] = "Banshee Finger", ["text"] = "Binds when picked up\nRanged Wand\n79 - 148 Frost Damage Speed 1.90\n(59.74 damage per second)\n+10 Frost Resistance\nDurability 65 / 65\nRequires Level 55" }
+entries[13535] = { ["name"] = "Coldtouch Phantom Wraps", ["text"] = "Binds when picked up\nChest Cloth\n77 Armor\n+13 Arcane Resistance\n+20 Frost Resistance\nDurability 70 / 70\nRequires Level 55" }
+entries[13536] = { ["name"] = "Horn of Awakening", ["text"] = "Quest Item\nUnique\nDuration: 25 min\nUse: Awaken the sleeping druid. (30 Sec Cooldown)" }
+entries[13537] = { ["name"] = "Chillhide Bracers", ["text"] = "Binds when picked up\nWrist Leather\n67 Armor\n+15 Frost Resistance\nDurability 30 / 30\nRequires Level 55" }
+entries[13538] = { ["name"] = "Windshrieker Pauldrons", ["text"] = "Binds when picked up\nShoulder Mail\n242 Armor\n+20 Arcane Resistance\nDurability 60 / 60\nRequires Level 55" }
+entries[13539] = { ["name"] = "Banshee's Touch", ["text"] = "Binds when picked up\nHands Plate\n356 Armor\n+13 Arcane Resistance\n+13 Frost Resistance\nDurability 40 / 40\nRequires Level 55" }
+entries[13542] = { ["name"] = "Demon Box", ["text"] = "Quest Item\nUnique" }
+entries[13544] = { ["name"] = "Spectral Essence", ["text"] = "Binds when picked up\nUnique\nTrinket\n\"Allows communication with the deceased of Caer Darrow.\"" }
+entries[13545] = { ["name"] = "Shellfish" }
+entries[13546] = { ["name"] = "Bloodbelly Fish", ["text"] = "Requires Level 25\nUse: Restores 1392 health over 30 sec. Must remain seated while eating." }
+entries[13562] = { ["name"] = "Remains of Trey Lightforge", ["text"] = "Quest Item\nUnique" }
+entries[13582] = { ["name"] = "Zergling Leash", ["text"] = "Binds when picked up\nUse: Right Click to summon and dismiss your zergling." }
+entries[13583] = { ["name"] = "Panda Collar", ["text"] = "Binds when picked up\nUse: Right Click to summon and dismiss your panda cub." }
+entries[13584] = { ["name"] = "Diablo Stone", ["text"] = "Binds when picked up\nUse: Right Click to summon and dismiss Diablo." }
+entries[13585] = { ["name"] = "Keepsake of Remembrance", ["text"] = "Quest Item\nUnique\n\"All of the pages are torn out.\"" }
+entries[13602] = { ["name"] = "Greater Spellstone", ["text"] = "Conjured Item\nBinds when picked up\nUnique\nHeld In Off-hand\nRequires Level 43\nUse: Removes all magic effects from the caster and will absorb 650 magic damage for 1 min.\nEquip: Improves your chance to get a critical strike with spells by 1%." }
+entries[13603] = { ["name"] = "Major Spellstone", ["text"] = "Conjured Item\nBinds when picked up\nUnique\nHeld In Off-hand\nRequires Level 55\nUse: Removes all magic effects from the caster and will absorb 900 magic damage for 1 min.\nEquip: Improves your chance to get a critical strike with spells by 1%." }
+entries[13624] = { ["name"] = "Soulbound Keepsake", ["text"] = "Quest Item\nUnique" }
+entries[13626] = { ["name"] = "Human Head of Ras Frostwhisper", ["text"] = "Quest Item\nUnique" }
+entries[13699] = { ["name"] = "Firestone", ["text"] = "Conjured Item\nBinds when picked up\nUnique\nHeld In Off-hand\nEquip: Enchants the main hand weapon with fire, granting each attack a chance to deal 40 to 60 additional fire damage.\nEquip: Increases damage done by Fire spells and effects by up to 14." }
+entries[13700] = { ["name"] = "Greater Firestone", ["text"] = "Conjured Item\nBinds when picked up\nUnique\nHeld In Off-hand\nEquip: Enchants the main hand weapon with fire, granting each attack a chance to deal 60 to 90 additional fire damage.\nEquip: Increases damage done by Fire spells and effects by up to 17." }
+entries[13701] = { ["name"] = "Major Firestone", ["text"] = "Conjured Item\nBinds when picked up\nUnique\nHeld In Off-hand\nEquip: Enchants the main hand weapon with fire, granting each attack a chance to deal 80 to 120 additional fire damage.\nEquip: Increases damage done by Fire spells and effects by up to 21." }
+entries[13702] = { ["name"] = "Doom Weed", ["text"] = "Quest Item" }
+entries[13703] = { ["name"] = "Kodo Bone", ["text"] = "Quest Item" }
+entries[13704] = { ["name"] = "Skeleton Key", ["text"] = "Quest Item\nUnique" }
+entries[13724] = { ["name"] = "Enriched Manna Biscuit", ["text"] = "Requires Level 45\nRequiresArgent Dawn\n- Friendly\nUse: Restores 2148 health and 4410 mana over 30 sec. Must remain seated while eating." }
+entries[13725] = { ["name"] = "Krastinov's Bag of Horrors", ["text"] = "Quest Item\nUnique" }
+entries[13752] = { ["name"] = "Soulbound Keepsake", ["text"] = "Quest Item\nUnique\nUse: Use on Ras Frostwhisper, the lich, to make him mortal." }
+entries[13754] = { ["name"] = "Raw Glossy Mightfish", ["text"] = "Requires Level 35\nUse: Restores 874.8 health over 27 sec. Must remain seated while eating." }
+entries[13755] = { ["name"] = "Winter Squid", ["text"] = "Requires Level 35\nUse: Restores 874.8 health over 27 sec. Must remain seated while eating." }
+entries[13756] = { ["name"] = "Raw Summer Bass", ["text"] = "Requires Level 35\nUse: Restores 874.8 health over 27 sec. Must remain seated while eating." }
+entries[13757] = { ["name"] = "Lightning Eel" }
+entries[13758] = { ["name"] = "Raw Redgill", ["text"] = "Requires Level 35\nUse: Restores 874.8 health over 27 sec. Must remain seated while eating." }
+entries[13759] = { ["name"] = "Raw Nightfin Snapper", ["text"] = "Requires Level 35\nUse: Restores 874.8 health over 27 sec. Must remain seated while eating." }
+entries[13760] = { ["name"] = "Raw Sunscale Salmon", ["text"] = "Requires Level 35\nUse: Restores 874.8 health over 27 sec. Must remain seated while eating." }
+entries[13761] = { ["name"] = "Frozen Eggs", ["text"] = "Quest Item" }
+entries[13810] = { ["name"] = "Blessed Sunfruit", ["text"] = "Binds when picked up\nRequires Level 45\nRequiresArgent Dawn\n- Revered\nUse: Restores 1933.2 health over 27 sec. Must remain seated while eating. Also increases your Strength by 10 for 10 min." }
+entries[13811] = { ["name"] = "Necklace of the Dawn", ["text"] = "Binds when picked up\nNeck\n+15 Stamina" }
+entries[13812] = { ["name"] = "Ring of the Dawn", ["text"] = "Binds when picked up\nFinger\n+14 Stamina" }
+entries[13813] = { ["name"] = "Blessed Sunfruit Juice", ["text"] = "Binds when picked up\nRequires Level 45\nRequiresArgent Dawn\n- Revered\nUse: Restores 4410 mana over 30 sec. Must remain seated while drinking. Also increases your Spirit by 10 for 10 min." }
+entries[13815] = { ["name"] = "Some Rune", ["text"] = "Quest Item\nUnique" }
+entries[13816] = { ["name"] = "Fine Longsword", ["text"] = "Main Hand Sword\n28 - 53 Damage Speed 2.20\n(18.41 damage per second)\nDurability 75 / 75\nRequires Level 47" }
+entries[13817] = { ["name"] = "Tapered Greatsword", ["text"] = "Two-Hand Sword\n62 - 94 Damage Speed 2.90\n(26.90 damage per second)\nDurability 85 / 85\nRequires Level 53" }
+entries[13818] = { ["name"] = "Jagged Axe", ["text"] = "Main Hand Axe\n26 - 50 Damage Speed 1.90\n(20.00 damage per second)\nDurability 75 / 75\nRequires Level 51" }
+entries[13819] = { ["name"] = "Balanced War Axe", ["text"] = "Two-Hand Axe\n55 - 83 Damage Speed 2.50\n(27.60 damage per second)\nDurability 85 / 85\nRequires Level 54" }
+entries[13820] = { ["name"] = "Clout Mace", ["text"] = "Main Hand Mace\n31 - 58 Damage Speed 2.30\n(19.35 damage per second)\nDurability 75 / 75\nRequires Level 49" }
+entries[13821] = { ["name"] = "Bulky Maul", ["text"] = "Two-Hand Mace\n76 - 115 Damage Speed 3.60\n(26.53 damage per second)\nDurability 85 / 85\nRequires Level 52" }
+entries[13822] = { ["name"] = "Spiked Dagger", ["text"] = "One-Hand Dagger\n21 - 40 Damage Speed 1.60\n(19.06 damage per second)\nDurability 55 / 55\nRequires Level 48" }
+entries[13823] = { ["name"] = "Stout War Staff", ["text"] = "Two-Hand Staff\n59 - 89 Damage Speed 3.10\n(23.87 damage per second)\nDurability 85 / 85\nRequires Level 46" }
+entries[13824] = { ["name"] = "Recurve Long Bow", ["text"] = "Ranged Bow\n26 - 50 Damage Speed 2.50\n(15.20 damage per second)\nDurability 65 / 65\nRequires Level 45" }
+entries[13825] = { ["name"] = "Primed Musket", ["text"] = "Ranged Gun\n20 - 37 Damage Speed 1.80\n(15.83 damage per second)\nDurability 65 / 65\nRequires Level 52" }
+entries[13842] = { ["name"] = "Fall/Winter Morning", ["text"] = "Held In Off-hand" }
+entries[13843] = { ["name"] = "Fall/Winter Afternoon", ["text"] = "Held In Off-hand" }
+entries[13844] = { ["name"] = "Fall/Winter Evening", ["text"] = "Held In Off-hand" }
+entries[13845] = { ["name"] = "Fall/Winter Night", ["text"] = "Held In Off-hand" }
+entries[13846] = { ["name"] = "Spring/Summer Morning", ["text"] = "Held In Off-hand" }
+entries[13847] = { ["name"] = "Spring/Summer Afternoon", ["text"] = "Held In Off-hand" }
+entries[13848] = { ["name"] = "Spring/Summer Evening", ["text"] = "Held In Off-hand" }
+entries[13849] = { ["name"] = "Spring/Summer Night", ["text"] = "Held In Off-hand" }
+entries[13850] = { ["name"] = "Rumbleshot's Ammo", ["text"] = "Quest Item" }
+entries[13851] = { ["name"] = "Hot Wolf Ribs", ["text"] = "Requires Level 25\nUse: Restores 874.8 health over 27 sec. Must remain seated while eating. If you spend at least 10 seconds eating you will become well fed and gain 8 Stamina and Spirit for 15 min." }
+entries[13852] = { ["name"] = "The Grand Crusader's Command", ["text"] = "Quest Item\n\"Bears the mark of the Grand Crusader.\"" }
+entries[13853] = { ["name"] = "Slab of Carrion Worm Meat", ["text"] = "Quest Item" }
+entries[13856] = { ["name"] = "Runecloth Belt", ["text"] = "Binds when equipped\nWaist Cloth\n37 Armor\n+12 Intellect\n+8 Spirit\nDurability 25 / 25\nRequires Level 46" }
+entries[13857] = { ["name"] = "Runecloth Tunic", ["text"] = "Binds when equipped\nChest Cloth\n68 Armor\n+11 Intellect\n+17 Spirit\nDurability 70 / 70\nRequires Level 47" }
+entries[13858] = { ["name"] = "Runecloth Robe", ["text"] = "Binds when equipped\nChest Cloth\n68 Armor\n+17 Intellect\n+11 Spirit\nDurability 70 / 70\nRequires Level 47" }
+entries[13860] = { ["name"] = "Runecloth Cloak", ["text"] = "Binds when equipped\nBack\n34 Armor\n+8 Intellect\n+9 Spirit\nRequires Level 48" }
+entries[13863] = { ["name"] = "Runecloth Gloves", ["text"] = "Binds when equipped\nHands Cloth\n45 Armor\n+9 Intellect\n+9 Spirit\nDurability 25 / 25\nRequires Level 50\nEquip: Increases damage and healing done by magical spells and effects by up to 12." }
+entries[13864] = { ["name"] = "Runecloth Boots", ["text"] = "Binds when equipped\nFeet Cloth\n50 Armor\n+9 Intellect\n+14 Spirit\nDurability 35 / 35\nRequires Level 51" }
+entries[13865] = { ["name"] = "Runecloth Pants", ["text"] = "Binds when equipped\nLegs Cloth\n65 Armor\n+12 Intellect\n+20 Spirit\nDurability 55 / 55\nRequires Level 52" }
+entries[13866] = { ["name"] = "Runecloth Headband", ["text"] = "Binds when equipped\nHead Cloth\n62 Armor\n+20 Intellect\n+13 Spirit\nDurability 45 / 45\nRequires Level 54" }
+entries[13867] = { ["name"] = "Runecloth Shoulders", ["text"] = "Binds when equipped\nShoulder Cloth\n59 Armor\n+15 Intellect\n+10 Spirit\nDurability 45 / 45\nRequires Level 56" }
+entries[13868] = { ["name"] = "Frostweave Robe", ["text"] = "Binds when equipped\nChest Cloth\n66 Armor\n+11 Spirit\nDurability 70 / 70\nRequires Level 46\nEquip: Increases damage done by Frost spells and effects by up to 24." }
+entries[13869] = { ["name"] = "Frostweave Tunic", ["text"] = "Binds when equipped\nChest Cloth\n66 Armor\n+11 Intellect\nDurability 70 / 70\nRequires Level 46\nEquip: Increases damage done by Frost spells and effects by up to 24." }
+entries[13870] = { ["name"] = "Frostweave Gloves", ["text"] = "Binds when equipped\nHands Cloth\n43 Armor\n+6 Intellect\nDurability 25 / 25\nRequires Level 47\nEquip: Increases damage done by Frost spells and effects by up to 21." }
+entries[13871] = { ["name"] = "Frostweave Pants", ["text"] = "Binds when equipped\nLegs Cloth\n63 Armor\n+12 Spirit\nDurability 55 / 55\nRequires Level 51\nEquip: Increases damage done by Frost spells and effects by up to 26." }
+entries[13872] = { ["name"] = "Bundle of Wood", ["text"] = "Quest Item" }
+entries[13873] = { ["name"] = "Viewing Room Key", ["text"] = "Binds when picked up\nUnique" }
+entries[13874] = { ["name"] = "Heavy Crate", ["text"] = "\"Venture Company Supplies\"\n<Right Click to Open>" }
+entries[13875] = { ["name"] = "Ironbound Locked Chest", ["text"] = "Locked\nRequires Lockpicking (175)" }
+entries[13876] = { ["name"] = "40 Pound Grouper" }
+entries[13877] = { ["name"] = "47 Pound Grouper" }
+entries[13878] = { ["name"] = "53 Pound Grouper" }
+entries[13879] = { ["name"] = "59 Pound Grouper" }
+entries[13880] = { ["name"] = "68 Pound Grouper" }
+entries[13881] = { ["name"] = "Bloated Redgill", ["text"] = "<Right Click to Open>" }
+entries[13882] = { ["name"] = "42 Pound Redgill", ["text"] = "Held In Off-hand" }
+entries[13883] = { ["name"] = "45 Pound Redgill", ["text"] = "Held In Off-hand" }
+entries[13884] = { ["name"] = "49 Pound Redgill", ["text"] = "Held In Off-hand" }
+entries[13885] = { ["name"] = "34 Pound Redgill", ["text"] = "Held In Off-hand" }
+entries[13886] = { ["name"] = "37 Pound Redgill", ["text"] = "Held In Off-hand" }
+entries[13887] = { ["name"] = "52 Pound Redgill", ["text"] = "Held In Off-hand" }
+entries[13888] = { ["name"] = "Darkclaw Lobster", ["text"] = "Requires Level 45\nUse: Restores 1392 health over 30 sec. Must remain seated while eating." }
+entries[13889] = { ["name"] = "Raw Whitescale Salmon", ["text"] = "Requires Level 45\nUse: Restores 1392 health over 30 sec. Must remain seated while eating." }
+entries[13890] = { ["name"] = "Plated Armorfish" }
+entries[13891] = { ["name"] = "Bloated Salmon", ["text"] = "<Right Click to Open>" }
+entries[13892] = { ["name"] = "Kodo Kombobulator", ["text"] = "Quest Item\nUnique\nRequires Level 15\nUse: Kodo Kombobulator on any Ancient, Aged, or Dying Kodo to lure the Kodo to follow (one at a time)." }
+entries[13893] = { ["name"] = "Large Raw Mightfish", ["text"] = "Requires Level 45\nUse: Restores 1392 health over 30 sec. Must remain seated while eating." }
+entries[13895] = { ["name"] = "Formal Dangui", ["text"] = "Chest" }
+entries[13896] = { ["name"] = "Dark Green Wedding Hanbok", ["text"] = "Chest" }
+entries[13897] = { ["name"] = "White Traditional Hanbok", ["text"] = "Chest" }
+entries[13898] = { ["name"] = "Royal Dangui", ["text"] = "Chest" }
+entries[13899] = { ["name"] = "Red Traditional Hanbok", ["text"] = "Chest" }
+entries[13900] = { ["name"] = "Green Wedding Hanbok", ["text"] = "Chest" }
+entries[13901] = { ["name"] = "15 Pound Salmon", ["text"] = "Held In Off-hand" }
+entries[13902] = { ["name"] = "18 Pound Salmon", ["text"] = "Held In Off-hand" }
+entries[13903] = { ["name"] = "22 Pound Salmon", ["text"] = "Held In Off-hand" }
+entries[13904] = { ["name"] = "25 Pound Salmon", ["text"] = "Held In Off-hand" }
+entries[13905] = { ["name"] = "29 Pound Salmon", ["text"] = "Held In Off-hand" }
+entries[13906] = { ["name"] = "32 Pound Salmon", ["text"] = "Held In Off-hand" }
+entries[13907] = { ["name"] = "7 Pound Lobster" }
+entries[13908] = { ["name"] = "9 Pound Lobster" }
+entries[13909] = { ["name"] = "12 Pound Lobster" }
+entries[13910] = { ["name"] = "15 Pound Lobster" }
+entries[13911] = { ["name"] = "19 Pound Lobster" }
+entries[13912] = { ["name"] = "21 Pound Lobster" }
+entries[13913] = { ["name"] = "22 Pound Lobster" }
+entries[13914] = { ["name"] = "70 Pound Mightfish", ["text"] = "Held In Off-hand" }
+entries[13915] = { ["name"] = "85 Pound Mightfish", ["text"] = "Held In Off-hand" }
+entries[13916] = { ["name"] = "92 Pound Mightfish", ["text"] = "Held In Off-hand" }
+entries[13917] = { ["name"] = "103 Pound Mightfish", ["text"] = "Held In Off-hand" }
+entries[13918] = { ["name"] = "Reinforced Locked Chest", ["text"] = "Locked\nRequires Lockpicking (250)" }
+entries[13920] = { ["name"] = "Healthy Dragon Scale", ["text"] = "Binds when picked up\nThis Item Begins a Quest\nRequires Level 55" }
+entries[13926] = { ["name"] = "Golden Pearl" }
+entries[13927] = { ["name"] = "Cooked Glossy Mightfish", ["text"] = "Requires Level 35\nUse: Restores 874.8 health over 27 sec. Must remain seated while eating. Also increases your Stamina by 10 for 10 min." }
+entries[13928] = { ["name"] = "Grilled Squid", ["text"] = "Requires Level 35\nUse: Restores 874.8 health over 27 sec. Must remain seated while eating. If you eat for 10 seconds will also increase your Agility by 10 for 10 min." }
+entries[13929] = { ["name"] = "Hot Smoked Bass", ["text"] = "Requires Level 35\nUse: Restores 874.8 health over 27 sec. Must remain seated while eating. Also increases your Spirit by 10 for 10 min." }
+entries[13930] = { ["name"] = "Filet of Redgill", ["text"] = "Requires Level 35\nUse: Restores 1392 health over 30 sec. Must remain seated while eating." }
+entries[13931] = { ["name"] = "Nightfin Soup", ["text"] = "Requires Level 35\nUse: Restores 874.8 health over 27 sec. Must remain seated while eating. Also restores 8 Mana every 5 seconds for 10 min." }
+entries[13932] = { ["name"] = "Poached Sunscale Salmon", ["text"] = "Requires Level 35\nUse: Restores 874.8 health over 27 sec. Must remain seated while eating. Also restores 6 health every 5 seconds for 10 min." }
+entries[13933] = { ["name"] = "Lobster Stew", ["text"] = "Requires Level 45\nUse: Restores 2148 health over 30 sec. Must remain seated while eating." }
+entries[13934] = { ["name"] = "Mightfish Steak", ["text"] = "Requires Level 45\nUse: Restores 1933.2 health over 27 sec. Must remain seated while eating. Also increases your Stamina by 10 for 10 min." }
+entries[13935] = { ["name"] = "Baked Salmon", ["text"] = "Requires Level 45\nUse: Restores 2148 health over 30 sec. Must remain seated while eating." }
+entries[13937] = { ["name"] = "Headmaster's Charge", ["text"] = "Binds when picked up\nTwo-Hand Staff\n135 - 204 Damage Speed 2.90\n(58.45 damage per second)\n+30 Stamina\n+20 Spirit\nDurability 120 / 120\nRequires Level 57\nUse: Gives 20 additional intellect to party members within 30 yards. (10 Min Cooldown)" }
+entries[13938] = { ["name"] = "Bonecreeper Stylus", ["text"] = "Binds when picked up\nRanged Wand\n83 - 155 Arcane Damage Speed 1.90\n(62.63 damage per second)\n+4 Intellect\nDurability 65 / 65\nRequires Level 57\nEquip: Increases damage and healing done by magical spells and effects by up to 11." }
+entries[13939] = { ["name"] = "Recipe: Spotted Yellowtail", ["text"] = "Requires Cooking (225)\nUse: Teaches you how to cook Spotted Yellowtail.\nSpotted Yellowtail\nRequires Level 35\nUse: Restores 1392 health over 30 sec. Must remain seated while eating.\nRequires Raw Spotted Yellowtail" }
+entries[13940] = { ["name"] = "Recipe: Cooked Glossy Mightfish", ["text"] = "Requires Cooking (225)\nUse: Teaches you how to cook Cooked Glossy Mightfish.\nCooked Glossy Mightfish\nRequires Level 35\nUse: Restores 874.8 health over 27 sec. Must remain seated while eating. Also increases your Stamina by 10 for 10 min.\nRequires Raw Glossy Mightfish , Soothing Spices" }
+entries[13941] = { ["name"] = "Recipe: Filet of Redgill", ["text"] = "Requires Cooking (225)\nUse: Teaches you how to cook Filet of Redgill.\nFilet of Redgill\nRequires Level 35\nUse: Restores 1392 health over 30 sec. Must remain seated while eating.\nRequires Raw Redgill" }
+entries[13942] = { ["name"] = "Recipe: Grilled Squid", ["text"] = "Requires Cooking (240)\nUse: Teaches you how to cook Grilled Squid.\nGrilled Squid\nRequires Level 35\nUse: Restores 874.8 health over 27 sec. Must remain seated while eating. If you eat for 10 seconds will also increase your Agility by 10 for 10 min.\nRequires Winter Squid , Soothing Spices" }
+entries[13943] = { ["name"] = "Recipe: Hot Smoked Bass", ["text"] = "Requires Cooking (240)\nUse: Teaches you how to cook Hot Smoked Bass.\nHot Smoked Bass\nRequires Level 35\nUse: Restores 874.8 health over 27 sec. Must remain seated while eating. Also increases your Spirit by 10 for 10 min.\nRequires Raw Summer Bass , Hot Spices (2)" }
+entries[13944] = { ["name"] = "Tombstone Breastplate", ["text"] = "Binds when picked up\nChest Leather\n174 Armor\n+10 Strength\n+10 Stamina\nDurability 100 / 100\nRequires Level 57\nEquip: Improves your chance to get a critical strike by 2%." }
+entries[13945] = { ["name"] = "Recipe: Nightfin Soup", ["text"] = "Requires Cooking (250)\nUse: Teaches you how to cook Nightfin Soup.\nNightfin Soup\nRequires Level 35\nUse: Restores 874.8 health over 27 sec. Must remain seated while eating. Also restores 8 Mana every 5 seconds for 10 min.\nRequires Raw Nightfin Snapper , Refreshing Spring Water" }
+entries[13946] = { ["name"] = "Recipe: Poached Sunscale Salmon", ["text"] = "Requires Cooking (250)\nUse: Teaches you how to cook Poached Sunscale Salmon.\nPoached Sunscale Salmon\nRequires Level 35\nUse: Restores 874.8 health over 27 sec. Must remain seated while eating. Also restores 6 health every 5 seconds for 10 min.\nRequires Raw Sunscale Salmon" }
+entries[13947] = { ["name"] = "Recipe: Lobster Stew", ["text"] = "Requires Cooking (275)\nUse: Teaches you how to cook Lobster Stew.\nLobster Stew\nRequires Level 45\nUse: Restores 2148 health over 30 sec. Must remain seated while eating.\nRequires Darkclaw Lobster , Refreshing Spring Water" }
+entries[13948] = { ["name"] = "Recipe: Mightfish Steak", ["text"] = "Requires Cooking (275)\nUse: Teaches you how to cook Mightfish Steak.\nMightfish Steak\nRequires Level 45\nUse: Restores 1933.2 health over 27 sec. Must remain seated while eating. Also increases your Stamina by 10 for 10 min.\nRequires Large Raw Mightfish , Hot Spices , Soothing Spices" }
+entries[13949] = { ["name"] = "Recipe: Baked Salmon", ["text"] = "Requires Cooking (275)\nUse: Teaches you how to cook Baked Salmon.\nBaked Salmon\nRequires Level 45\nUse: Restores 2148 health over 30 sec. Must remain seated while eating.\nRequires Raw Whitescale Salmon , Soothing Spices" }
+entries[13950] = { ["name"] = "Detention Strap", ["text"] = "Binds when picked up\nWaist Mail\n205 Armor\n+10 Stamina\n+17 Intellect\n+11 Spirit\nDurability 40 / 40\nRequires Level 57" }
+entries[13951] = { ["name"] = "Vigorsteel Vambraces", ["text"] = "Binds when picked up\nWrist Plate\n283 Armor\n+7 Agility\n+17 Stamina\nDurability 45 / 45\nRequires Level 57" }
+entries[13952] = { ["name"] = "Iceblade Hacker", ["text"] = "Binds when picked up\nMain Hand Axe\n{57 - 106 Damage Speed 2.00 + 1 - 5 Frost Damage\n(42.25 damage per second)\nDurability 90 / 90\nRequires Level 57" }
+entries[13953] = { ["name"] = "Silent Fang", ["text"] = "Binds when picked up\nMain Hand Sword\n45 - 85 Damage Speed 1.60\n(40.63 damage per second)\nDurability 90 / 90\nRequires Level 57\nChance on hit: Silences an enemy preventing it from casting spells for 6 sec." }
+entries[13954] = { ["name"] = "Verdant Footpads", ["text"] = "Binds when picked up\nFeet Leather\n118 Armor\nDurability 50 / 50\nRequires Level 56\nEquip: Increases healing done by spells and effects by up to 37.\nEquip: Increases damage done by Nature spells and effects by up to 24." }
+entries[13955] = { ["name"] = "Stoneform Shoulders", ["text"] = "Binds when picked up\nShoulder Plate\n688 Armor\nDurability 80 / 80\nRequires Level 56\nEquip: Increased Defense +7." }
+entries[13956] = { ["name"] = "Clutch of Andros", ["text"] = "Binds when picked up\nWaist Cloth\n49 Armor\n+9 Stamina\n+19 Intellect\nDurability 30 / 30\nRequires Level 56\nEquip: Improves your chance to hit with spells by 1%." }
+entries[13957] = { ["name"] = "Gargoyle Slashers", ["text"] = "Binds when picked up\nHands Leather\n107 Armor\n+10 Strength\n+5 Agility\n+12 Stamina\nDurability 35 / 35\nRequires Level 56\nEquip: Improves your chance to get a critical strike by 1%." }
+entries[13958] = { ["name"] = "Wyrmthalak's Shackles", ["text"] = "Binds when picked up\nWrist Cloth\n37 Armor\n+9 Intellect\n+15 Spirit\nDurability 30 / 30" }
+entries[13959] = { ["name"] = "Omokk's Girth Restrainer", ["text"] = "Binds when picked up\nWaist Plate\n353 Armor\n+15 Strength\n+9 Stamina\nDurability 45 / 45\nEquip: Improves your chance to get a critical strike by 1%." }
+entries[13960] = { ["name"] = "Heart of the Fiend", ["text"] = "Binds when picked up\nNeck\n+5 Stamina\n+5 Intellect\n+15 Spirit\nRequires Level 56" }
+entries[13961] = { ["name"] = "Halycon's Muzzle", ["text"] = "Binds when picked up\nShoulder Leather\n127 Armor\n+22 Intellect\n+5 Spirit\n+10 Arcane Resistance\nDurability 60 / 60" }
+entries[13962] = { ["name"] = "Vosh'gajin's Strand", ["text"] = "Binds when picked up\nWaist Leather\n95 Armor\n+9 Strength\n+6 Stamina\nDurability 35 / 35\nEquip: Improves your chance to get a critical strike by 1%.\nEquip: Increases your chance to dodge an attack by 1%." }
+entries[13963] = { ["name"] = "Voone's Vice Grips", ["text"] = "Binds when picked up\nHands Mail\n221 Armor\n+9 Agility\n+6 Stamina\nDurability 40 / 40\nEquip: Improves your chance to hit by 2%." }
+entries[13964] = { ["name"] = "Witchblade", ["text"] = "Binds when picked up\nOne-Hand Dagger\n45 - 85 Damage Speed 1.60\n(40.63 damage per second)\n+8 Intellect\nDurability 65 / 65\nRequires Level 57\nEquip: Increases damage and healing done by magical spells and effects by up to 14." }
+entries[13965] = { ["name"] = "Blackhand's Breadth", ["text"] = "Binds when picked up\nTrinket\nEquip: Improves your chance to get a critical strike by 2%." }
+entries[13966] = { ["name"] = "Mark of Tyranny", ["text"] = "Binds when picked up\nTrinket\n180 Armor\n+10 Arcane Resistance\nEquip: Increases your chance to dodge an attack by 1%." }
+entries[13967] = { ["name"] = "Windreaver Greaves", ["text"] = "Binds when picked up\nFeet Mail\n247 Armor\n+20 Agility\nDurability 60 / 60\nRequires Level 56\nEquip: Improves your chance to hit by 1%." }
+entries[13968] = { ["name"] = "Eye of the Beast", ["text"] = "Binds when picked up\nTrinket\nClasses: Priest , Shaman , Mage , Warlock , Druid\nEquip: Improves your chance to get a critical strike with spells by 2%." }
+entries[13969] = { ["name"] = "Loomguard Armbraces", ["text"] = "Binds when picked up\nWrist Mail\n157 Armor\n+6 Stamina\n+7 Intellect\nDurability 40 / 40\nRequires Level 56\nEquip: Increases healing done by spells and effects by up to 33." }
+entries[13982] = { ["name"] = "Warblade of Caer Darrow", ["text"] = "Binds when picked up\nTwo-Hand Sword\n{142 - 214 Damage Speed 3.30 + 1 - 22 Frost Damage\n(57.42 damage per second)\nDurability 100 / 100" }
+entries[13983] = { ["name"] = "Gravestone War Axe", ["text"] = "Binds when picked up\nTwo-Hand Axe\n144 - 217 Damage Speed 3.40\n(53.09 damage per second)\nDurability 100 / 100\nRequires Level 57\nChance on hit: Diseases target enemy for 55 Nature damage every 3 sec for 15 sec." }
+entries[13984] = { ["name"] = "Darrowspike", ["text"] = "Binds when picked up\nOne-Hand Dagger\n43 - 81 Damage Speed 1.50\n(41.33 damage per second)\nDurability 65 / 65\nChance on hit: Blasts a target for 90 Frost damage." }
+entries[13986] = { ["name"] = "Crown of Caer Darrow", ["text"] = "Binds when picked up\nHead Cloth\n73 Armor\n+8 Stamina\n+20 Intellect\n+20 Spirit\n+15 Frost Resistance\nDurability 50 / 50" }
+entries[14002] = { ["name"] = "Darrowshire Strongguard", ["text"] = "Binds when picked up\nOff Hand Shield\n2153 Armor\n40 Block\n+8 Stamina\n+8 Spirit\n+10 Nature Resistance\n+10 Frost Resistance\nDurability 100 / 100" }
+entries[14022] = { ["name"] = "Barov Peasant Caller", ["text"] = "Binds when picked up\nTrinket\nUse: Calls forth 3 servants of the House Barov that will fight, cook, and clean for you. (10 Min Cooldown)" }
+entries[14023] = { ["name"] = "Barov Peasant Caller", ["text"] = "Binds when picked up\nTrinket\nUse: Calls forth 3 servants of the House Barov that will fight, cook, and clean for you. (10 Min Cooldown)" }
+entries[14024] = { ["name"] = "Frightalon", ["text"] = "Binds when picked up\nOne-Hand Dagger\n39 - 73 Damage Speed 1.40\n(40.00 damage per second)\nDurability 65 / 65\nRequires Level 56\nChance on hit: Lowers all attributes of target by 10 for 1 min." }
+entries[14025] = { ["name"] = "Mystic's Belt", ["text"] = "Binds when equipped\nWaist Cloth\n17 Armor\n+2 Agility\n+2 Spirit\nDurability 20 / 20\nRequires Level 12" }
+entries[14042] = { ["name"] = "Cindercloth Vest", ["text"] = "Binds when equipped\nChest Cloth\n68 Armor\n+11 Spirit\nDurability 70 / 70\nRequires Level 47\nEquip: Increases damage done by Fire spells and effects by up to 24." }
+entries[14043] = { ["name"] = "Cindercloth Gloves", ["text"] = "Binds when equipped\nHands Cloth\n44 Armor\n+11 Spirit\nDurability 25 / 25\nRequires Level 49\nEquip: Increases damage done by Fire spells and effects by up to 17." }
+entries[14044] = { ["name"] = "Cindercloth Cloak", ["text"] = "Binds when equipped\nBack\n36 Armor\n+8 Intellect\nRequires Level 50\nEquip: Increases damage done by Fire spells and effects by up to 13." }
+entries[14045] = { ["name"] = "Cindercloth Pants", ["text"] = "Binds when equipped\nLegs Cloth\n63 Armor\n+12 Intellect\nDurability 55 / 55\nRequires Level 51\nEquip: Increases damage done by Fire spells and effects by up to 26." }
+entries[14046] = { ["name"] = "Runecloth Bag", ["text"] = "14 Slot Bag" }
+entries[14047] = { ["name"] = "Runecloth" }
+entries[14048] = { ["name"] = "Bolt of Runecloth" }
+entries[14062] = { ["name"] = "Kodo Mount", ["text"] = "Binds when used\nMount\nRequires Level 40\nUse: Summons and dismisses a rideable kodo. (3 Sec Cooldown)" }
+entries[14083] = { ["name"] = "Tyrande's Staff", ["text"] = "Two-Hand Staff\n4 - 6 Damage Speed 2.40\n(2.08 damage per second)\nDurability 30 / 30" }
+entries[14086] = { ["name"] = "Beaded Sandals", ["text"] = "Feet Cloth\n13 Armor\nDurability 25 / 25\nRequires Level 5" }
+entries[14087] = { ["name"] = "Beaded Cuffs", ["text"] = "Wrist Cloth\n7 Armor\nDurability 14 / 14\nRequires Level 3" }
+entries[14088] = { ["name"] = "Beaded Cloak", ["text"] = "Back\n7 Armor\nRequires Level 3" }
+entries[14089] = { ["name"] = "Beaded Gloves", ["text"] = "Hands Cloth\n11 Armor\nDurability 16 / 16\nRequires Level 5" }
+entries[14090] = { ["name"] = "Beaded Britches", ["text"] = "Binds when equipped\nLegs Cloth\n18 Armor\n<Random enchantment>\nDurability 35 / 35\nRequires Level 6" }
+entries[14091] = { ["name"] = "Beaded Robe", ["text"] = "Binds when equipped\nChest Cloth\n21 Armor\n<Random enchantment>\nDurability 45 / 45\nRequires Level 6" }
+entries[14093] = { ["name"] = "Beaded Cord", ["text"] = "Waist Cloth\n9 Armor\nDurability 16 / 16\nRequires Level 4" }
+entries[14094] = { ["name"] = "Beaded Wraps", ["text"] = "Binds when equipped\nChest Cloth\n21 Armor\n<Random enchantment>\nDurability 45 / 45\nRequires Level 6" }
+entries[14095] = { ["name"] = "Native Bands", ["text"] = "Wrist Cloth\n9 Armor\nDurability 16 / 16\nRequires Level 6" }
+entries[14096] = { ["name"] = "Native Vest", ["text"] = "Binds when equipped\nChest Cloth\n29 Armor\n<Random enchantment>\nDurability 55 / 55\nRequires Level 11" }
+entries[14097] = { ["name"] = "Native Pants", ["text"] = "Binds when equipped\nLegs Cloth\n23 Armor\n<Random enchantment>\nDurability 40 / 40\nRequires Level 9" }
+entries[14098] = { ["name"] = "Native Cloak", ["text"] = "Back\n9 Armor\nRequires Level 5" }
+entries[14099] = { ["name"] = "Native Sash", ["text"] = "Waist Cloth\n12 Armor\nDurability 16 / 16\nRequires Level 7" }
+entries[14100] = { ["name"] = "Brightcloth Robe", ["text"] = "Binds when equipped\nChest Cloth\n70 Armor\n+16 Frost Resistance\n+15 Shadow Resistance\nDurability 70 / 70\nRequires Level 49" }
+entries[14101] = { ["name"] = "Brightcloth Gloves", ["text"] = "Binds when equipped\nHands Cloth\n44 Armor\n+12 Frost Resistance\n+11 Shadow Resistance\nDurability 25 / 25\nRequires Level 49" }
+entries[14102] = { ["name"] = "Native Handwraps", ["text"] = "Hands Cloth\n15 Armor\nDurability 18 / 18\nRequires Level 8" }
+entries[14103] = { ["name"] = "Brightcloth Cloak", ["text"] = "Binds when equipped\nBack\n36 Armor\n+7 Frost Resistance\n+7 Shadow Resistance\nRequires Level 50\nEquip: Increases damage done by Frost spells and effects by up to 10." }
+entries[14104] = { ["name"] = "Brightcloth Pants", ["text"] = "Binds when equipped\nLegs Cloth\n66 Armor\n+17 Frost Resistance\n+16 Shadow Resistance\nDurability 55 / 55\nRequires Level 53" }
+entries[14106] = { ["name"] = "Felcloth Robe", ["text"] = "Binds when equipped\nChest Cloth\n79 Armor\n+7 Stamina\nDurability 70 / 70\nRequires Level 56\nEquip: Increases damage done by Shadow spells and effects by up to 36." }
+entries[14107] = { ["name"] = "Felcloth Pants", ["text"] = "Binds when equipped\nLegs Cloth\n62 Armor\n+12 Intellect\nDurability 55 / 55\nRequires Level 50\nEquip: Increases damage done by Shadow spells and effects by up to 26." }
+entries[14108] = { ["name"] = "Felcloth Boots", ["text"] = "Binds when equipped\nFeet Cloth\n51 Armor\n+12 Spirit\nDurability 35 / 35\nRequires Level 52\nEquip: Increases damage done by Fire spells and effects by up to 17." }
+entries[14109] = { ["name"] = "Native Robe", ["text"] = "Binds when equipped\nChest Cloth\n29 Armor\n<Random enchantment>\nDurability 55 / 55\nRequires Level 11" }
+entries[14110] = { ["name"] = "Native Sandals", ["text"] = "Feet Cloth\n16 Armor\nDurability 25 / 25\nRequires Level 8" }
+entries[14111] = { ["name"] = "Felcloth Hood", ["text"] = "Binds when equipped\nHead Cloth\n61 Armor\n+10 Intellect\nDurability 45 / 45\nRequires Level 53\nEquip: Increases damage done by Shadow spells and effects by up to 30." }
+entries[14112] = { ["name"] = "Felcloth Shoulders", ["text"] = "Binds when equipped\nShoulder Cloth\n60 Armor\n+5 Spirit\nDurability 45 / 45\nRequires Level 57\nEquip: Increases damage done by Shadow spells and effects by up to 26." }
+entries[14113] = { ["name"] = "Aboriginal Sash", ["text"] = "Binds when equipped\nWaist Cloth\n16 Armor\n<Random enchantment>\nDurability 18 / 18\nRequires Level 10" }
+entries[14114] = { ["name"] = "Aboriginal Footwraps", ["text"] = "Binds when equipped\nFeet Cloth\n20 Armor\n<Random enchantment>\nDurability 25 / 25\nRequires Level 11" }
+entries[14115] = { ["name"] = "Aboriginal Bands", ["text"] = "Wrist Cloth\n11 Armor\nDurability 18 / 18\nRequires Level 9" }
+entries[14116] = { ["name"] = "Aboriginal Cape", ["text"] = "Back\n12 Armor\nRequires Level 9" }
+entries[14117] = { ["name"] = "Aboriginal Gloves", ["text"] = "Binds when equipped\nHands Cloth\n18 Armor\n<Random enchantment>\nDurability 18 / 18\nRequires Level 11" }
+entries[14119] = { ["name"] = "Aboriginal Loincloth", ["text"] = "Binds when equipped\nLegs Cloth\n27 Armor\n<Random enchantment>\nDurability 40 / 40\nRequires Level 12" }
+entries[14120] = { ["name"] = "Aboriginal Robe", ["text"] = "Binds when equipped\nChest Cloth\n34 Armor\n<Random enchantment>\nDurability 60 / 60\nRequires Level 15" }
+entries[14121] = { ["name"] = "Aboriginal Vest", ["text"] = "Binds when equipped\nChest Cloth\n34 Armor\n<Random enchantment>\nDurability 60 / 60\nRequires Level 15" }
+entries[14122] = { ["name"] = "Ritual Bands", ["text"] = "Binds when equipped\nWrist Cloth\n14 Armor\n<Random enchantment>\nDurability 20 / 20\nRequires Level 13" }
+entries[14123] = { ["name"] = "Ritual Cape", ["text"] = "Binds when equipped\nBack\n15 Armor\n<Random enchantment>\nRequires Level 12" }
+entries[14124] = { ["name"] = "Ritual Gloves", ["text"] = "Binds when equipped\nHands Cloth\n21 Armor\n<Random enchantment>\nDurability 20 / 20\nRequires Level 15" }
+entries[14125] = { ["name"] = "Ritual Leggings", ["text"] = "Binds when equipped\nLegs Cloth\n30 Armor\n<Random enchantment>\nDurability 45 / 45\nRequires Level 16" }
+entries[14126] = { ["name"] = "Ritual Amice", ["text"] = "Shoulder Cloth\n26 Armor\nDurability 40 / 40\nRequires Level 18" }
+entries[14127] = { ["name"] = "Ritual Shroud", ["text"] = "Binds when equipped\nChest Cloth\n38 Armor\n<Random enchantment>\nDurability 65 / 65\nRequires Level 19" }
+entries[14128] = { ["name"] = "Wizardweave Robe", ["text"] = "Binds when equipped\nChest Cloth\n77 Armor\n+17 Arcane Resistance\n+18 Fire Resistance\nDurability 70 / 70\nRequires Level 55" }
+entries[14129] = { ["name"] = "Ritual Sandals", ["text"] = "Binds when equipped\nFeet Cloth\n23 Armor\n<Random enchantment>\nDurability 30 / 30\nRequires Level 15" }
+entries[14130] = { ["name"] = "Wizardweave Turban", ["text"] = "Binds when equipped\nHead Cloth\n64 Armor\n+18 Arcane Resistance\n+18 Fire Resistance\nDurability 45 / 45\nRequires Level 56" }
+entries[14131] = { ["name"] = "Ritual Belt", ["text"] = "Binds when equipped\nWaist Cloth\n18 Armor\n<Random enchantment>\nDurability 20 / 20\nRequires Level 14" }
+entries[14132] = { ["name"] = "Wizardweave Leggings", ["text"] = "Binds when equipped\nLegs Cloth\n62 Armor\n+16 Arcane Resistance\n+16 Fire Resistance\nDurability 55 / 55\nRequires Level 50" }
+entries[14133] = { ["name"] = "Ritual Tunic", ["text"] = "Binds when equipped\nChest Cloth\n38 Armor\n<Random enchantment>\nDurability 65 / 65\nRequires Level 19" }
+entries[14134] = { ["name"] = "Cloak of Fire", ["text"] = "Binds when equipped\nBack\n39 Armor\n+7 Stamina\n+6 Fire Resistance\nRequires Level 50\nUse: Deals 25 Fire damage every 5 sec to all nearby enemies for 15 sec. (2 Min Cooldown)" }
+entries[14136] = { ["name"] = "Robe of Winter Night", ["text"] = "Binds when equipped\nChest Cloth\n81 Armor\n+12 Intellect\nDurability 80 / 80\nRequires Level 52\nEquip: Increases damage done by Shadow spells and effects by up to 40.\nEquip: Increases damage done by Frost spells and effects by up to 40." }
+entries[14137] = { ["name"] = "Mooncloth Leggings", ["text"] = "Binds when equipped\nLegs Cloth\n72 Armor\n+12 Stamina\n+14 Intellect\n+21 Spirit\nDurability 65 / 65\nRequires Level 53" }
+entries[14138] = { ["name"] = "Mooncloth Vest", ["text"] = "Binds when equipped\nChest Cloth\n85 Armor\n+12 Stamina\n+20 Intellect\n+19 Spirit\nDurability 80 / 80\nRequires Level 55" }
+entries[14139] = { ["name"] = "Mooncloth Shoulders", ["text"] = "Binds when equipped\nShoulder Cloth\n65 Armor\n+9 Stamina\n+17 Intellect\n+11 Spirit\nDurability 50 / 50\nRequires Level 56" }
+entries[14140] = { ["name"] = "Mooncloth Circlet", ["text"] = "Binds when equipped\nHead Cloth\n71 Armor\n+13 Stamina\n+23 Intellect\n+15 Spirit\nDurability 50 / 50\nRequires Level 57" }
+entries[14141] = { ["name"] = "Ghostweave Vest", ["text"] = "Binds when equipped\nChest Cloth\n71 Armor\n+9 Intellect\nDurability 70 / 70\nRequires Level 50\nEquip: Restores 8 mana per 5 sec." }
+entries[14142] = { ["name"] = "Ghostweave Gloves", ["text"] = "Binds when equipped\nHands Cloth\n44 Armor\n+8 Intellect\nDurability 25 / 25\nRequires Level 49\nEquip: Restores 6 mana per 5 sec." }
+entries[14143] = { ["name"] = "Ghostweave Belt", ["text"] = "Binds when equipped\nWaist Cloth\n39 Armor\n+8 Intellect\nDurability 25 / 25\nRequires Level 48\nEquip: Restores 6 mana per 5 sec." }
+entries[14144] = { ["name"] = "Ghostweave Pants", ["text"] = "Binds when equipped\nLegs Cloth\n66 Armor\n+12 Intellect\nDurability 55 / 55\nRequires Level 53\nEquip: Restores 8 mana per 5 sec." }
+entries[14145] = { ["name"] = "Cursed Felblade", ["text"] = "Binds when picked up\nMain Hand Sword\n16 - 31 Damage Speed 2.60\n(9.04 damage per second)\nDurability 55 / 55\nRequires Level 13\nChance on hit: Reduces target enemy's attack power by 15 for 30 sec." }
+entries[14146] = { ["name"] = "Gloves of Spell Mastery", ["text"] = "Binds when equipped\nHands Cloth\n60 Armor\n+10 Intellect\n+8 Spirit\nDurability 35 / 35\nClasses: Priest , Mage , Warlock\nRequires Level 57\nEquip: Improves your chance to get a critical strike with spells by 2%." }
+entries[14147] = { ["name"] = "Cavedweller Bracers", ["text"] = "Binds when picked up\nWrist Mail\n71 Armor\n+1 Strength\n+2 Stamina\nDurability 25 / 25\nRequires Level 13" }
+entries[14148] = { ["name"] = "Crystalline Cuffs", ["text"] = "Binds when picked up\nWrist Cloth\n14 Armor\n+1 Intellect\n+2 Spirit\nDurability 20 / 20\nRequires Level 13" }
+entries[14149] = { ["name"] = "Subterranean Cape", ["text"] = "Binds when picked up\nBack\n16 Armor\n+2 Strength\n+2 Agility\nRequires Level 13" }
+entries[14150] = { ["name"] = "Robe of Evocation", ["text"] = "Binds when picked up\nChest Cloth\n32 Armor\n+3 Stamina\n+4 Intellect\nDurability 55 / 55\nRequires Level 13" }
+entries[14151] = { ["name"] = "Chanting Blade", ["text"] = "Binds when picked up\nOne-Hand Dagger\n9 - 18 Damage Speed 1.50\n(9.00 damage per second)\n+1 Agility\n+1 Stamina\nDurability 40 / 40\nRequires Level 13" }
+entries[14152] = { ["name"] = "Robe of the Archmage", ["text"] = "Binds when picked up\nChest Cloth\n96 Armor\n+12 Intellect\nDurability 100 / 100\nClasses: Mage\nRequires Level 57\nEquip: Increases damage and healing done by magical spells and effects by up to 40.\nEquip: Improves your chance to get a critical strike with spells by 1%.\nUse: Restores 375 to 625 mana. (5 Min Cooldown)" }
+entries[14153] = { ["name"] = "Robe of the Void", ["text"] = "Binds when picked up\nChest Cloth\n96 Armor\n+14 Stamina\nDurability 100 / 100\nClasses: Warlock\nRequires Level 57\nEquip: Increases damage and healing done by magical spells and effects by up to 46.\nUse: Heal your pet for 450 to 750. (10 Min Cooldown)" }
+entries[14154] = { ["name"] = "Truefaith Vestments", ["text"] = "Binds when picked up\nChest Cloth\n96 Armor\n+14 Stamina\nDurability 100 / 100\nClasses: Priest\nRequires Level 57\nEquip: Increases healing done by spells and effects by up to 73.\nEquip: Restores 6 mana per 5 sec.\nEquip: Reduces the cooldown of your Fade ability by 2 sec." }
+entries[14155] = { ["name"] = "Mooncloth Bag", ["text"] = "16 Slot Bag" }
+entries[14156] = { ["name"] = "Bottomless Bag", ["text"] = "Binds when equipped\n18 Slot Bag" }
+entries[14157] = { ["name"] = "Pagan Mantle", ["text"] = "Shoulder Cloth\n27 Armor\nDurability 40 / 40\nRequires Level 19" }
+entries[14158] = { ["name"] = "Pagan Vest", ["text"] = "Binds when equipped\nChest Cloth\n40 Armor\n<Random enchantment>\nDurability 65 / 65\nRequires Level 21" }
+entries[14159] = { ["name"] = "Pagan Shoes", ["text"] = "Binds when equipped\nFeet Cloth\n25 Armor\n<Random enchantment>\nDurability 30 / 30\nRequires Level 17" }
+entries[14160] = { ["name"] = "Pagan Bands", ["text"] = "Binds when equipped\nWrist Cloth\n14 Armor\n<Random enchantment>\nDurability 20 / 20\nRequires Level 14" }
+entries[14161] = { ["name"] = "Pagan Cape", ["text"] = "Binds when equipped\nBack\n16 Armor\n<Random enchantment>\nRequires Level 13" }
+entries[14162] = { ["name"] = "Pagan Mitts", ["text"] = "Binds when equipped\nHands Cloth\n23 Armor\n<Random enchantment>\nDurability 20 / 20\nRequires Level 18" }
+entries[14163] = { ["name"] = "Pagan Wraps", ["text"] = "Binds when equipped\nChest Cloth\n40 Armor\n<Random enchantment>\nDurability 65 / 65\nRequires Level 21" }
+entries[14164] = { ["name"] = "Pagan Belt", ["text"] = "Binds when equipped\nWaist Cloth\n20 Armor\n<Random enchantment>\nDurability 20 / 20\nRequires Level 16" }
+entries[14165] = { ["name"] = "Pagan Britches", ["text"] = "Binds when equipped\nLegs Cloth\n34 Armor\n<Random enchantment>\nDurability 50 / 50\nRequires Level 20" }
+entries[14166] = { ["name"] = "Buccaneer's Bracers", ["text"] = "Binds when equipped\nWrist Cloth\n14 Armor\n<Random enchantment>\nDurability 20 / 20\nRequires Level 14" }
+entries[14167] = { ["name"] = "Buccaneer's Cape", ["text"] = "Binds when equipped\nBack\n16 Armor\n<Random enchantment>\nRequires Level 14" }
+entries[14168] = { ["name"] = "Buccaneer's Gloves", ["text"] = "Binds when equipped\nHands Cloth\n21 Armor\n<Random enchantment>\nDurability 20 / 20\nRequires Level 15" }
+entries[14169] = { ["name"] = "Aboriginal Shoulder Pads", ["text"] = "Shoulder Cloth\n25 Armor\nDurability 35 / 35\nRequires Level 16" }
+entries[14170] = { ["name"] = "Buccaneer's Mantle", ["text"] = "Shoulder Cloth\n26 Armor\nDurability 35 / 35\nRequires Level 17" }
+entries[14171] = { ["name"] = "Buccaneer's Pants", ["text"] = "Binds when equipped\nLegs Cloth\n31 Armor\n<Random enchantment>\nDurability 45 / 45\nRequires Level 17" }
+entries[14172] = { ["name"] = "Buccaneer's Robes", ["text"] = "Binds when equipped\nChest Cloth\n37 Armor\n<Random enchantment>\nDurability 65 / 65\nRequires Level 18" }
+entries[14173] = { ["name"] = "Buccaneer's Cord", ["text"] = "Binds when equipped\nWaist Cloth\n19 Armor\n<Random enchantment>\nDurability 20 / 20\nRequires Level 15" }
+entries[14174] = { ["name"] = "Buccaneer's Boots", ["text"] = "Binds when equipped\nFeet Cloth\n22 Armor\n<Random enchantment>\nDurability 30 / 30\nRequires Level 14" }
+entries[14175] = { ["name"] = "Buccaneer's Vest", ["text"] = "Binds when equipped\nChest Cloth\n37 Armor\n<Random enchantment>\nDurability 65 / 65\nRequires Level 18" }
+entries[14176] = { ["name"] = "Watcher's Boots", ["text"] = "Binds when equipped\nFeet Cloth\n27 Armor\n<Random enchantment>\nDurability 35 / 35\nRequires Level 21" }
+entries[14177] = { ["name"] = "Watcher's Cuffs", ["text"] = "Binds when equipped\nWrist Cloth\n17 Armor\n<Random enchantment>\nDurability 25 / 25\nRequires Level 21" }
+entries[14178] = { ["name"] = "Watcher's Cap", ["text"] = "Binds when equipped\nHead Cloth\n36 Armor\n<Random enchantment>\nDurability 45 / 45\nRequires Level 26" }
+entries[14179] = { ["name"] = "Watcher's Cape", ["text"] = "Binds when equipped\nBack\n19 Armor\n<Random enchantment>\nRequires Level 19" }
+entries[14180] = { ["name"] = "Watcher's Jerkin", ["text"] = "Binds when equipped\nChest Cloth\n43 Armor\n<Random enchantment>\nDurability 70 / 70\nRequires Level 25" }
+entries[14181] = { ["name"] = "Watcher's Handwraps", ["text"] = "Binds when equipped\nHands Cloth\n26 Armor\n<Random enchantment>\nDurability 25 / 25\nRequires Level 23" }
+entries[14182] = { ["name"] = "Watcher's Mantle", ["text"] = "Binds when equipped\nShoulder Cloth\n31 Armor\n<Random enchantment>\nDurability 40 / 40\nRequires Level 23" }
+entries[14183] = { ["name"] = "Watcher's Leggings", ["text"] = "Binds when equipped\nLegs Cloth\n37 Armor\n<Random enchantment>\nDurability 55 / 55\nRequires Level 25" }
+entries[14184] = { ["name"] = "Watcher's Robes", ["text"] = "Binds when equipped\nChest Cloth\n43 Armor\n<Random enchantment>\nDurability 70 / 70\nRequires Level 25" }
+entries[14185] = { ["name"] = "Watcher's Cinch", ["text"] = "Binds when equipped\nWaist Cloth\n23 Armor\n<Random enchantment>\nDurability 25 / 25\nRequires Level 22" }
+entries[14186] = { ["name"] = "Raincaller Mantle", ["text"] = "Binds when equipped\nShoulder Cloth\n32 Armor\n<Random enchantment>\nDurability 45 / 45\nRequires Level 24" }
+entries[14187] = { ["name"] = "Raincaller Cuffs", ["text"] = "Binds when equipped\nWrist Cloth\n18 Armor\n<Random enchantment>\nDurability 25 / 25\nRequires Level 23" }
+entries[14188] = { ["name"] = "Raincaller Cloak", ["text"] = "Binds when equipped\nBack\n20 Armor\n<Random enchantment>\nRequires Level 22" }
+entries[14189] = { ["name"] = "Raincaller Cap", ["text"] = "Binds when equipped\nHead Cloth\n36 Armor\n<Random enchantment>\nDurability 45 / 45\nRequires Level 27" }
+entries[14190] = { ["name"] = "Raincaller Vest", ["text"] = "Binds when equipped\nChest Cloth\n44 Armor\n<Random enchantment>\nDurability 70 / 70\nRequires Level 26" }
+entries[14191] = { ["name"] = "Raincaller Mitts", ["text"] = "Binds when equipped\nHands Cloth\n27 Armor\n<Random enchantment>\nDurability 25 / 25\nRequires Level 25" }
+entries[14192] = { ["name"] = "Raincaller Robes", ["text"] = "Binds when equipped\nChest Cloth\n44 Armor\n<Random enchantment>\nDurability 70 / 70\nRequires Level 26" }
+entries[14193] = { ["name"] = "Raincaller Pants", ["text"] = "Binds when equipped\nLegs Cloth\n38 Armor\n<Random enchantment>\nDurability 55 / 55\nRequires Level 26" }
+entries[14194] = { ["name"] = "Raincaller Cord", ["text"] = "Binds when equipped\nWaist Cloth\n23 Armor\n<Random enchantment>\nDurability 25 / 25\nRequires Level 23" }
+entries[14195] = { ["name"] = "Raincaller Boots", ["text"] = "Binds when equipped\nFeet Cloth\n29 Armor\n<Random enchantment>\nDurability 35 / 35\nRequires Level 24" }
+entries[14196] = { ["name"] = "Thistlefur Sandals", ["text"] = "Binds when equipped\nFeet Cloth\n31 Armor\n<Random enchantment>\nDurability 35 / 35\nRequires Level 27" }
+entries[14197] = { ["name"] = "Thistlefur Bands", ["text"] = "Binds when equipped\nWrist Cloth\n19 Armor\n<Random enchantment>\nDurability 25 / 25\nRequires Level 25" }
+entries[14198] = { ["name"] = "Thistlefur Cloak", ["text"] = "Binds when equipped\nBack\n22 Armor\n<Random enchantment>\nRequires Level 26" }
+entries[14199] = { ["name"] = "Thistlefur Gloves", ["text"] = "Binds when equipped\nHands Cloth\n28 Armor\n<Random enchantment>\nDurability 25 / 25\nRequires Level 28" }
+entries[14200] = { ["name"] = "Thistlefur Cap", ["text"] = "Binds when equipped\nHead Cloth\n38 Armor\n<Random enchantment>\nDurability 45 / 45\nRequires Level 30" }
+entries[14201] = { ["name"] = "Thistlefur Mantle", ["text"] = "Binds when equipped\nShoulder Cloth\n34 Armor\n<Random enchantment>\nDurability 45 / 45\nRequires Level 29" }
+entries[14202] = { ["name"] = "Thistlefur Jerkin", ["text"] = "Binds when equipped\nChest Cloth\n48 Armor\n<Random enchantment>\nDurability 70 / 70\nRequires Level 31" }
+entries[14203] = { ["name"] = "Thistlefur Pants", ["text"] = "Binds when equipped\nLegs Cloth\n41 Armor\n<Random enchantment>\nDurability 55 / 55\nRequires Level 30" }
+entries[14204] = { ["name"] = "Thistlefur Robe", ["text"] = "Binds when equipped\nChest Cloth\n48 Armor\n<Random enchantment>\nDurability 70 / 70\nRequires Level 31" }
+entries[14205] = { ["name"] = "Thistlefur Belt", ["text"] = "Binds when equipped\nWaist Cloth\n25 Armor\n<Random enchantment>\nDurability 25 / 25\nRequires Level 27" }
+entries[14206] = { ["name"] = "Vital Bracelets", ["text"] = "Binds when equipped\nWrist Cloth\n19 Armor\n<Random enchantment>\nDurability 25 / 25\nRequires Level 27" }
+entries[14207] = { ["name"] = "Vital Leggings", ["text"] = "Binds when equipped\nLegs Cloth\n42 Armor\n<Random enchantment>\nDurability 55 / 55\nRequires Level 31" }
+entries[14208] = { ["name"] = "Vital Headband", ["text"] = "Binds when equipped\nHead Cloth\n39 Armor\n<Random enchantment>\nDurability 45 / 45\nRequires Level 31" }
+entries[14209] = { ["name"] = "Vital Sash", ["text"] = "Binds when equipped\nWaist Cloth\n25 Armor\n<Random enchantment>\nDurability 25 / 25\nRequires Level 28" }
+entries[14210] = { ["name"] = "Vital Cape", ["text"] = "Binds when equipped\nBack\n22 Armor\n<Random enchantment>\nRequires Level 27" }
+entries[14211] = { ["name"] = "Vital Handwraps", ["text"] = "Binds when equipped\nHands Cloth\n29 Armor\n<Random enchantment>\nDurability 25 / 25\nRequires Level 29" }
+entries[14212] = { ["name"] = "Vital Shoulders", ["text"] = "Binds when equipped\nShoulder Cloth\n35 Armor\n<Random enchantment>\nDurability 45 / 45\nRequires Level 30" }
+entries[14213] = { ["name"] = "Vital Raiment", ["text"] = "Binds when equipped\nChest Cloth\n49 Armor\n<Random enchantment>\nDurability 70 / 70\nRequires Level 32" }
+entries[14214] = { ["name"] = "Vital Boots", ["text"] = "Binds when equipped\nFeet Cloth\n32 Armor\n<Random enchantment>\nDurability 35 / 35\nRequires Level 29" }
+entries[14215] = { ["name"] = "Vital Tunic", ["text"] = "Binds when equipped\nChest Cloth\n49 Armor\n<Random enchantment>\nDurability 70 / 70\nRequires Level 32" }
+entries[14216] = { ["name"] = "Geomancer's Jerkin", ["text"] = "Binds when equipped\nChest Cloth\n54 Armor\n<Random enchantment>\nDurability 70 / 70\nRequires Level 36" }
+entries[14217] = { ["name"] = "Geomancer's Cord", ["text"] = "Binds when equipped\nWaist Cloth\n27 Armor\n<Random enchantment>\nDurability 25 / 25\nRequires Level 31" }
+entries[14218] = { ["name"] = "Geomancer's Boots", ["text"] = "Binds when equipped\nFeet Cloth\n34 Armor\n<Random enchantment>\nDurability 35 / 35\nRequires Level 32" }
+entries[14219] = { ["name"] = "Geomancer's Cloak", ["text"] = "Binds when equipped\nBack\n23 Armor\n<Random enchantment>\nRequires Level 29" }
+entries[14220] = { ["name"] = "Geomancer's Cap", ["text"] = "Binds when equipped\nHead Cloth\n43 Armor\n<Random enchantment>\nDurability 45 / 45\nRequires Level 35" }
+entries[14221] = { ["name"] = "Geomancer's Bracers", ["text"] = "Binds when equipped\nWrist Cloth\n20 Armor\n<Random enchantment>\nDurability 25 / 25\nRequires Level 30" }
+entries[14222] = { ["name"] = "Geomancer's Gloves", ["text"] = "Binds when equipped\nHands Cloth\n31 Armor\n<Random enchantment>\nDurability 25 / 25\nRequires Level 32" }
+entries[14223] = { ["name"] = "Geomancer's Spaulders", ["text"] = "Binds when equipped\nShoulder Cloth\n38 Armor\n<Random enchantment>\nDurability 45 / 45\nRequires Level 33" }
+entries[14224] = { ["name"] = "Geomancer's Trousers", ["text"] = "Binds when equipped\nLegs Cloth\n45 Armor\n<Random enchantment>\nDurability 55 / 55\nRequires Level 34" }
+entries[14225] = { ["name"] = "Geomancer's Wraps", ["text"] = "Binds when equipped\nChest Cloth\n54 Armor\n<Random enchantment>\nDurability 70 / 70\nRequires Level 36" }
+entries[14226] = { ["name"] = "Embersilk Bracelets", ["text"] = "Binds when equipped\nWrist Cloth\n21 Armor\n<Random enchantment>\nDurability 25 / 25\nRequires Level 32" }
+entries[14227] = { ["name"] = "Ironweb Spider Silk" }
+entries[14228] = { ["name"] = "Embersilk Coronet", ["text"] = "Binds when equipped\nHead Cloth\n44 Armor\n<Random enchantment>\nDurability 45 / 45\nRequires Level 36" }
+entries[14229] = { ["name"] = "Embersilk Cloak", ["text"] = "Binds when equipped\nBack\n24 Armor\n<Random enchantment>\nRequires Level 31" }
+entries[14230] = { ["name"] = "Embersilk Tunic", ["text"] = "Binds when equipped\nChest Cloth\n55 Armor\n<Random enchantment>\nDurability 70 / 70\nRequires Level 37" }
+entries[14231] = { ["name"] = "Embersilk Mitts", ["text"] = "Binds when equipped\nHands Cloth\n31 Armor\n<Random enchantment>\nDurability 25 / 25\nRequires Level 33" }
+entries[14232] = { ["name"] = "Embersilk Mantle", ["text"] = "Binds when equipped\nShoulder Cloth\n39 Armor\n<Random enchantment>\nDurability 45 / 45\nRequires Level 34" }
+entries[14233] = { ["name"] = "Embersilk Leggings", ["text"] = "Binds when equipped\nLegs Cloth\n46 Armor\n<Random enchantment>\nDurability 55 / 55\nRequires Level 35" }
+entries[14234] = { ["name"] = "Embersilk Robes", ["text"] = "Binds when equipped\nChest Cloth\n55 Armor\n<Random enchantment>\nDurability 70 / 70\nRequires Level 37" }
+entries[14235] = { ["name"] = "Embersilk Cord", ["text"] = "Binds when equipped\nWaist Cloth\n28 Armor\n<Random enchantment>\nDurability 25 / 25\nRequires Level 32" }
+entries[14236] = { ["name"] = "Embersilk Boots", ["text"] = "Binds when equipped\nFeet Cloth\n35 Armor\n<Random enchantment>\nDurability 35 / 35\nRequires Level 33" }
+entries[14237] = { ["name"] = "Darkmist Armor", ["text"] = "Binds when equipped\nChest Cloth\n60 Armor\n<Random enchantment>\nDurability 70 / 70\nRequires Level 41" }
+entries[14238] = { ["name"] = "Darkmist Boots", ["text"] = "Binds when equipped\nFeet Cloth\n37 Armor\n<Random enchantment>\nDurability 35 / 35\nRequires Level 36" }
+entries[14239] = { ["name"] = "Darkmist Cape", ["text"] = "Binds when equipped\nBack\n26 Armor\n<Random enchantment>\nRequires Level 34" }
+entries[14240] = { ["name"] = "Darkmist Bands", ["text"] = "Binds when equipped\nWrist Cloth\n23 Armor\n<Random enchantment>\nDurability 25 / 25\nRequires Level 35" }
+entries[14241] = { ["name"] = "Darkmist Handguards", ["text"] = "Binds when equipped\nHands Cloth\n34 Armor\n<Random enchantment>\nDurability 25 / 25\nRequires Level 36" }
+entries[14242] = { ["name"] = "Darkmist Pants", ["text"] = "Binds when equipped\nLegs Cloth\n49 Armor\n<Random enchantment>\nDurability 55 / 55\nRequires Level 38" }
+entries[14243] = { ["name"] = "Darkmist Mantle", ["text"] = "Binds when equipped\nShoulder Cloth\n42 Armor\n<Random enchantment>\nDurability 45 / 45\nRequires Level 38" }
+entries[14244] = { ["name"] = "Darkmist Wraps", ["text"] = "Binds when equipped\nChest Cloth\n60 Armor\n<Random enchantment>\nDurability 70 / 70\nRequires Level 41" }
+entries[14245] = { ["name"] = "Darkmist Girdle", ["text"] = "Binds when equipped\nWaist Cloth\n30 Armor\n<Random enchantment>\nDurability 25 / 25\nRequires Level 36" }
+entries[14246] = { ["name"] = "Darkmist Wizard Hat", ["text"] = "Binds when equipped\nHead Cloth\n47 Armor\n<Random enchantment>\nDurability 45 / 45\nRequires Level 39" }
+entries[14247] = { ["name"] = "Lunar Mantle", ["text"] = "Binds when equipped\nShoulder Cloth\n43 Armor\n<Random enchantment>\nDurability 45 / 45\nRequires Level 39" }
+entries[14248] = { ["name"] = "Lunar Bindings", ["text"] = "Binds when equipped\nWrist Cloth\n24 Armor\n<Random enchantment>\nDurability 25 / 25\nRequires Level 36" }
+entries[14249] = { ["name"] = "Lunar Vest", ["text"] = "Binds when equipped\nChest Cloth\n61 Armor\n<Random enchantment>\nDurability 70 / 70\nRequires Level 42" }
+entries[14250] = { ["name"] = "Lunar Slippers", ["text"] = "Binds when equipped\nFeet Cloth\n38 Armor\n<Random enchantment>\nDurability 35 / 35\nRequires Level 37" }
+entries[14251] = { ["name"] = "Lunar Cloak", ["text"] = "Binds when equipped\nBack\n26 Armor\n<Random enchantment>\nRequires Level 35" }
+entries[14252] = { ["name"] = "Lunar Coronet", ["text"] = "Binds when equipped\nHead Cloth\n48 Armor\n<Random enchantment>\nDurability 45 / 45\nRequires Level 40" }
+entries[14253] = { ["name"] = "Lunar Handwraps", ["text"] = "Binds when equipped\nHands Cloth\n35 Armor\n<Random enchantment>\nDurability 25 / 25\nRequires Level 38" }
+entries[14254] = { ["name"] = "Lunar Raiment", ["text"] = "Binds when equipped\nChest Cloth\n61 Armor\n<Random enchantment>\nDurability 70 / 70\nRequires Level 42" }
+entries[14255] = { ["name"] = "Lunar Belt", ["text"] = "Binds when equipped\nWaist Cloth\n31 Armor\n<Random enchantment>\nDurability 25 / 25\nRequires Level 36" }
+entries[14256] = { ["name"] = "Felcloth" }
+entries[14257] = { ["name"] = "Lunar Leggings", ["text"] = "Binds when equipped\nLegs Cloth\n52 Armor\n<Random enchantment>\nDurability 55 / 55\nRequires Level 40" }
+entries[14258] = { ["name"] = "Bloodwoven Cord", ["text"] = "Binds when equipped\nWaist Cloth\n33 Armor\n<Random enchantment>\nDurability 25 / 25\nRequires Level 40" }
+entries[14259] = { ["name"] = "Bloodwoven Boots", ["text"] = "Binds when equipped\nFeet Cloth\n41 Armor\n<Random enchantment>\nDurability 35 / 35\nRequires Level 41" }
+entries[14260] = { ["name"] = "Bloodwoven Bracers", ["text"] = "Binds when equipped\nWrist Cloth\n25 Armor\n<Random enchantment>\nDurability 25 / 25\nRequires Level 39" }
+entries[14261] = { ["name"] = "Bloodwoven Cloak", ["text"] = "Binds when equipped\nBack\n28 Armor\n<Random enchantment>\nRequires Level 38" }
+entries[14262] = { ["name"] = "Bloodwoven Mitts", ["text"] = "Binds when equipped\nHands Cloth\n37 Armor\n<Random enchantment>\nDurability 25 / 25\nRequires Level 40" }
+entries[14263] = { ["name"] = "Bloodwoven Mask", ["text"] = "Binds when equipped\nHead Cloth\n51 Armor\n<Random enchantment>\nDurability 45 / 45\nRequires Level 43" }
+entries[14264] = { ["name"] = "Bloodwoven Pants", ["text"] = "Binds when equipped\nLegs Cloth\n55 Armor\n<Random enchantment>\nDurability 55 / 55\nRequires Level 43" }
+entries[14265] = { ["name"] = "Bloodwoven Wraps", ["text"] = "Binds when equipped\nChest Cloth\n66 Armor\n<Random enchantment>\nDurability 70 / 70\nRequires Level 46" }
+entries[14266] = { ["name"] = "Bloodwoven Pads", ["text"] = "Binds when equipped\nShoulder Cloth\n46 Armor\n<Random enchantment>\nDurability 45 / 45\nRequires Level 42" }
+entries[14267] = { ["name"] = "Bloodwoven Jerkin", ["text"] = "Binds when equipped\nChest Cloth\n66 Armor\n<Random enchantment>\nDurability 70 / 70\nRequires Level 46" }
+entries[14268] = { ["name"] = "Gaea's Cuffs", ["text"] = "Binds when equipped\nWrist Cloth\n26 Armor\n<Random enchantment>\nDurability 25 / 25\nRequires Level 41" }
+entries[14269] = { ["name"] = "Gaea's Slippers", ["text"] = "Binds when equipped\nFeet Cloth\n42 Armor\n<Random enchantment>\nDurability 35 / 35\nRequires Level 42" }
+entries[14270] = { ["name"] = "Gaea's Cloak", ["text"] = "Binds when equipped\nBack\n30 Armor\n<Random enchantment>\nRequires Level 40" }
+entries[14271] = { ["name"] = "Gaea's Circlet", ["text"] = "Binds when equipped\nHead Cloth\n52 Armor\n<Random enchantment>\nDurability 45 / 45\nRequires Level 44" }
+entries[14272] = { ["name"] = "Gaea's Handwraps", ["text"] = "Binds when equipped\nHands Cloth\n38 Armor\n<Random enchantment>\nDurability 25 / 25\nRequires Level 42" }
+entries[14273] = { ["name"] = "Gaea's Amice", ["text"] = "Binds when equipped\nShoulder Cloth\n47 Armor\n<Random enchantment>\nDurability 45 / 45\nRequires Level 43" }
+entries[14274] = { ["name"] = "Gaea's Leggings", ["text"] = "Binds when equipped\nLegs Cloth\n58 Armor\n<Random enchantment>\nDurability 55 / 55\nRequires Level 46" }
+entries[14275] = { ["name"] = "Gaea's Raiment", ["text"] = "Binds when equipped\nChest Cloth\n68 Armor\n<Random enchantment>\nDurability 70 / 70\nRequires Level 47" }
+entries[14276] = { ["name"] = "Gaea's Belt", ["text"] = "Binds when equipped\nWaist Cloth\n35 Armor\n<Random enchantment>\nDurability 25 / 25\nRequires Level 42" }
+entries[14277] = { ["name"] = "Gaea's Tunic", ["text"] = "Binds when equipped\nChest Cloth\n68 Armor\n<Random enchantment>\nDurability 70 / 70\nRequires Level 47" }
+entries[14278] = { ["name"] = "Opulent Mantle", ["text"] = "Binds when equipped\nShoulder Cloth\n49 Armor\n<Random enchantment>\nDurability 45 / 45\nRequires Level 45" }
+entries[14279] = { ["name"] = "Opulent Bracers", ["text"] = "Binds when equipped\nWrist Cloth\n28 Armor\n<Random enchantment>\nDurability 25 / 25\nRequires Level 44" }
+entries[14280] = { ["name"] = "Opulent Cape", ["text"] = "Binds when equipped\nBack\n31 Armor\n<Random enchantment>\nRequires Level 43" }
+entries[14281] = { ["name"] = "Opulent Crown", ["text"] = "Binds when equipped\nHead Cloth\n56 Armor\n<Random enchantment>\nDurability 45 / 45\nRequires Level 48" }
+entries[14282] = { ["name"] = "Opulent Gloves", ["text"] = "Binds when equipped\nHands Cloth\n41 Armor\n<Random enchantment>\nDurability 25 / 25\nRequires Level 45" }
+entries[14283] = { ["name"] = "Opulent Leggings", ["text"] = "Binds when equipped\nLegs Cloth\n61 Armor\n<Random enchantment>\nDurability 55 / 55\nRequires Level 49" }
+entries[14284] = { ["name"] = "Opulent Robes", ["text"] = "Binds when equipped\nChest Cloth\n73 Armor\n<Random enchantment>\nDurability 70 / 70\nRequires Level 51" }
+entries[14285] = { ["name"] = "Opulent Boots", ["text"] = "Binds when equipped\nFeet Cloth\n45 Armor\n<Random enchantment>\nDurability 35 / 35\nRequires Level 45" }
+entries[14286] = { ["name"] = "Opulent Belt", ["text"] = "Binds when equipped\nWaist Cloth\n37 Armor\n<Random enchantment>\nDurability 25 / 25\nRequires Level 45" }
+entries[14287] = { ["name"] = "Opulent Tunic", ["text"] = "Binds when equipped\nChest Cloth\n73 Armor\n<Random enchantment>\nDurability 70 / 70\nRequires Level 51" }
+entries[14288] = { ["name"] = "Arachnidian Armor", ["text"] = "Binds when equipped\nChest Cloth\n74 Armor\n<Random enchantment>\nDurability 70 / 70\nRequires Level 52" }
+entries[14289] = { ["name"] = "Arachnidian Girdle", ["text"] = "Binds when equipped\nWaist Cloth\n37 Armor\n<Random enchantment>\nDurability 25 / 25\nRequires Level 46" }
+entries[14290] = { ["name"] = "Arachnidian Footpads", ["text"] = "Binds when equipped\nFeet Cloth\n46 Armor\n<Random enchantment>\nDurability 35 / 35\nRequires Level 46" }
+entries[14291] = { ["name"] = "Arachnidian Bracelets", ["text"] = "Binds when equipped\nWrist Cloth\n29 Armor\n<Random enchantment>\nDurability 25 / 25\nRequires Level 45" }
+entries[14292] = { ["name"] = "Arachnidian Cape", ["text"] = "Binds when equipped\nBack\n32 Armor\n<Random enchantment>\nRequires Level 44" }
+entries[14293] = { ["name"] = "Arachnidian Circlet", ["text"] = "Binds when equipped\nHead Cloth\n58 Armor\n<Random enchantment>\nDurability 45 / 45\nRequires Level 50" }
+entries[14294] = { ["name"] = "Arachnidian Gloves", ["text"] = "Binds when equipped\nHands Cloth\n41 Armor\n<Random enchantment>\nDurability 25 / 25\nRequires Level 46" }
+entries[14295] = { ["name"] = "Arachnidian Legguards", ["text"] = "Binds when equipped\nLegs Cloth\n62 Armor\n<Random enchantment>\nDurability 55 / 55\nRequires Level 50" }
+entries[14296] = { ["name"] = "Arachnidian Pauldrons", ["text"] = "Binds when equipped\nShoulder Cloth\n51 Armor\n<Random enchantment>\nDurability 45 / 45\nRequires Level 47" }
+entries[14297] = { ["name"] = "Arachnidian Robes", ["text"] = "Binds when equipped\nChest Cloth\n74 Armor\n<Random enchantment>\nDurability 70 / 70\nRequires Level 52" }
+entries[14298] = { ["name"] = "Bonecaster's Spaulders", ["text"] = "Binds when equipped\nShoulder Cloth\n54 Armor\n<Random enchantment>\nDurability 45 / 45\nRequires Level 51" }
+entries[14299] = { ["name"] = "Bonecaster's Boots", ["text"] = "Binds when equipped\nFeet Cloth\n48 Armor\n<Random enchantment>\nDurability 35 / 35\nRequires Level 49" }
+entries[14300] = { ["name"] = "Bonecaster's Cape", ["text"] = "Binds when equipped\nBack\n34 Armor\n<Random enchantment>\nRequires Level 47" }
+entries[14301] = { ["name"] = "Bonecaster's Bindings", ["text"] = "Binds when equipped\nWrist Cloth\n30 Armor\n<Random enchantment>\nDurability 25 / 25\nRequires Level 48" }
+entries[14302] = { ["name"] = "Bonecaster's Gloves", ["text"] = "Binds when equipped\nHands Cloth\n45 Armor\n<Random enchantment>\nDurability 25 / 25\nRequires Level 51" }
+entries[14303] = { ["name"] = "Bonecaster's Shroud", ["text"] = "Binds when equipped\nChest Cloth\n77 Armor\n<Random enchantment>\nDurability 70 / 70\nRequires Level 55" }
+entries[14304] = { ["name"] = "Bonecaster's Belt", ["text"] = "Binds when equipped\nWaist Cloth\n40 Armor\n<Random enchantment>\nDurability 25 / 25\nRequires Level 50" }
+entries[14305] = { ["name"] = "Bonecaster's Sarong", ["text"] = "Binds when equipped\nLegs Cloth\n65 Armor\n<Random enchantment>\nDurability 55 / 55\nRequires Level 52" }
+entries[14306] = { ["name"] = "Bonecaster's Vest", ["text"] = "Binds when equipped\nChest Cloth\n77 Armor\n<Random enchantment>\nDurability 70 / 70\nRequires Level 55" }
+entries[14307] = { ["name"] = "Bonecaster's Crown", ["text"] = "Binds when equipped\nHead Cloth\n62 Armor\n<Random enchantment>\nDurability 45 / 45\nRequires Level 54" }
+entries[14308] = { ["name"] = "Celestial Tunic", ["text"] = "Binds when equipped\nChest Cloth\n79 Armor\n<Random enchantment>\nDurability 70 / 70\nRequires Level 56" }
+entries[14309] = { ["name"] = "Celestial Belt", ["text"] = "Binds when equipped\nWaist Cloth\n41 Armor\n<Random enchantment>\nDurability 25 / 25\nRequires Level 51" }
+entries[14310] = { ["name"] = "Celestial Slippers", ["text"] = "Binds when equipped\nFeet Cloth\n52 Armor\n<Random enchantment>\nDurability 35 / 35\nRequires Level 53" }
+entries[14311] = { ["name"] = "Celestial Bindings", ["text"] = "Binds when equipped\nWrist Cloth\n31 Armor\n<Random enchantment>\nDurability 25 / 25\nRequires Level 50" }
+entries[14312] = { ["name"] = "Celestial Crown", ["text"] = "Binds when equipped\nHead Cloth\n64 Armor\n<Random enchantment>\nDurability 45 / 45\nRequires Level 56" }
+entries[14313] = { ["name"] = "Celestial Cape", ["text"] = "Binds when equipped\nBack\n35 Armor\n<Random enchantment>\nRequires Level 49" }
+entries[14314] = { ["name"] = "Celestial Handwraps", ["text"] = "Binds when equipped\nHands Cloth\n47 Armor\n<Random enchantment>\nDurability 25 / 25\nRequires Level 53" }
+entries[14315] = { ["name"] = "Celestial Kilt", ["text"] = "Binds when equipped\nLegs Cloth\n67 Armor\n<Random enchantment>\nDurability 55 / 55\nRequires Level 54" }
+entries[14316] = { ["name"] = "Celestial Pauldrons", ["text"] = "Binds when equipped\nShoulder Cloth\n57 Armor\n<Random enchantment>\nDurability 45 / 45\nRequires Level 54" }
+entries[14317] = { ["name"] = "Celestial Silk Robes", ["text"] = "Binds when equipped\nChest Cloth\n79 Armor\n<Random enchantment>\nDurability 70 / 70\nRequires Level 56" }
+entries[14318] = { ["name"] = "Resplendent Tunic", ["text"] = "Binds when equipped\nChest Cloth\n81 Armor\n<Random enchantment>\nDurability 70 / 70\nRequires Level 58" }
+entries[14319] = { ["name"] = "Resplendent Boots", ["text"] = "Binds when equipped\nFeet Cloth\n52 Armor\n<Random enchantment>\nDurability 35 / 35\nRequires Level 54" }
+entries[14320] = { ["name"] = "Resplendent Bracelets", ["text"] = "Binds when equipped\nWrist Cloth\n32 Armor\n<Random enchantment>\nDurability 25 / 25\nRequires Level 52" }
+entries[14321] = { ["name"] = "Resplendent Cloak", ["text"] = "Binds when equipped\nBack\n36 Armor\n<Random enchantment>\nRequires Level 50" }
+entries[14322] = { ["name"] = "Resplendent Circlet", ["text"] = "Binds when equipped\nHead Cloth\n65 Armor\n<Random enchantment>\nDurability 45 / 45\nRequires Level 57" }
+entries[14323] = { ["name"] = "Resplendent Gauntlets", ["text"] = "Binds when equipped\nHands Cloth\n48 Armor\n<Random enchantment>\nDurability 25 / 25\nRequires Level 55" }
+entries[14324] = { ["name"] = "Resplendent Sarong", ["text"] = "Binds when equipped\nLegs Cloth\n68 Armor\n<Random enchantment>\nDurability 55 / 55\nRequires Level 55" }
+entries[14325] = { ["name"] = "Resplendent Epaulets", ["text"] = "Binds when equipped\nShoulder Cloth\n59 Armor\n<Random enchantment>\nDurability 45 / 45\nRequires Level 56" }
+entries[14326] = { ["name"] = "Resplendent Robes", ["text"] = "Binds when equipped\nChest Cloth\n81 Armor\n<Random enchantment>\nDurability 70 / 70\nRequires Level 58" }
+entries[14327] = { ["name"] = "Resplendent Belt", ["text"] = "Binds when equipped\nWaist Cloth\n42 Armor\n<Random enchantment>\nDurability 25 / 25\nRequires Level 53" }
+entries[14328] = { ["name"] = "Eternal Chestguard", ["text"] = "Binds when equipped\nChest Cloth\n83 Armor\n<Random enchantment>\nDurability 70 / 70\nRequires Level 60" }
+entries[14329] = { ["name"] = "Eternal Boots", ["text"] = "Binds when equipped\nFeet Cloth\n55 Armor\n<Random enchantment>\nDurability 35 / 35\nRequires Level 57" }
+entries[14330] = { ["name"] = "Eternal Bindings", ["text"] = "Binds when equipped\nWrist Cloth\n34 Armor\n<Random enchantment>\nDurability 25 / 25\nRequires Level 56" }
+entries[14331] = { ["name"] = "Eternal Cloak", ["text"] = "Binds when equipped\nBack\n38 Armor\n<Random enchantment>\nRequires Level 53" }
+entries[14332] = { ["name"] = "Eternal Crown", ["text"] = "Binds when equipped\nHead Cloth\n67 Armor\n<Random enchantment>\nDurability 45 / 45\nRequires Level 59" }
+entries[14333] = { ["name"] = "Eternal Gloves", ["text"] = "Binds when equipped\nHands Cloth\n51 Armor\n<Random enchantment>\nDurability 25 / 25\nRequires Level 58" }
+entries[14334] = { ["name"] = "Eternal Sarong", ["text"] = "Binds when equipped\nLegs Cloth\n71 Armor\n<Random enchantment>\nDurability 55 / 55\nRequires Level 58" }
+entries[14335] = { ["name"] = "Eternal Spaulders", ["text"] = "Binds when equipped\nShoulder Cloth\n61 Armor\n<Random enchantment>\nDurability 45 / 45\nRequires Level 58" }
+entries[14336] = { ["name"] = "Eternal Wraps", ["text"] = "Binds when equipped\nChest Cloth\n83 Armor\n<Random enchantment>\nDurability 70 / 70\nRequires Level 60" }
+entries[14337] = { ["name"] = "Eternal Cord", ["text"] = "Binds when equipped\nWaist Cloth\n44 Armor\n<Random enchantment>\nDurability 25 / 25\nRequires Level 56" }
+entries[14338] = { ["name"] = "Empty Water Tube", ["text"] = "Quest Item\nUnique\nUse: Fill with water from the Auberdine moonwell." }
+entries[14339] = { ["name"] = "Moonwell Water Tube", ["text"] = "Quest Item\nUnique" }
+entries[14340] = { ["name"] = "Freezing Lich Robes", ["text"] = "Binds when picked up\nChest Cloth\n88 Armor\n+15 Stamina\nDurability 80 / 80\nRequires Level 57\nEquip: Increases damage done by Frost spells and effects by up to 43." }
+entries[14341] = { ["name"] = "Rune Thread" }
+entries[14342] = { ["name"] = "Mooncloth" }
+entries[14343] = { ["name"] = "Small Brilliant Shard" }
+entries[14344] = { ["name"] = "Large Brilliant Shard" }
+entries[14364] = { ["name"] = "Mystic's Slippers", ["text"] = "Binds when equipped\nFeet Cloth\n22 Armor\n+2 Stamina\n+2 Intellect\nDurability 30 / 30\nRequires Level 13" }
+entries[14365] = { ["name"] = "Mystic's Cape", ["text"] = "Binds when equipped\nBack\n14 Armor\n+1 Agility\n+1 Spirit\nRequires Level 10" }
+entries[14366] = { ["name"] = "Mystic's Bracelets", ["text"] = "Binds when equipped\nWrist Cloth\n13 Armor\n+1 Stamina\n+2 Intellect\nDurability 20 / 20\nRequires Level 12" }
+entries[14367] = { ["name"] = "Mystic's Gloves", ["text"] = "Binds when equipped\nHands Cloth\n20 Armor\n+4 Spirit\nDurability 20 / 20\nRequires Level 14" }
+entries[14368] = { ["name"] = "Mystic's Shoulder Pads", ["text"] = "Shoulder Cloth\n26 Armor\nDurability 35 / 35\nRequires Level 17" }
+entries[14369] = { ["name"] = "Mystic's Wrap", ["text"] = "Binds when equipped\nChest Cloth\n37 Armor\n+3 Agility\n+7 Intellect\nDurability 65 / 65\nRequires Level 18" }
+entries[14370] = { ["name"] = "Mystic's Woolies", ["text"] = "Binds when equipped\nLegs Cloth\n29 Armor\n+6 Spirit\nDurability 45 / 45\nRequires Level 14" }
+entries[14371] = { ["name"] = "Mystic's Robe", ["text"] = "Binds when equipped\nChest Cloth\n37 Armor\n+3 Agility\n+7 Intellect\nDurability 65 / 65\nRequires Level 18" }
+entries[14372] = { ["name"] = "Sanguine Armor", ["text"] = "Binds when equipped\nChest Cloth\n41 Armor\n+7 Stamina\n+6 Intellect\nDurability 70 / 70\nRequires Level 23" }
+entries[14373] = { ["name"] = "Sanguine Belt", ["text"] = "Binds when equipped\nWaist Cloth\n22 Armor\n+3 Stamina\n+5 Intellect\nDurability 25 / 25\nRequires Level 20" }
+entries[14374] = { ["name"] = "Sanguine Sandals", ["text"] = "Binds when equipped\nFeet Cloth\n26 Armor\n+4 Stamina\n+4 Intellect\nDurability 30 / 30\nRequires Level 19" }
+entries[14375] = { ["name"] = "Sanguine Cuffs", ["text"] = "Binds when equipped\nWrist Cloth\n17 Armor\n+4 Stamina\n+2 Spirit\nDurability 25 / 25\nRequires Level 20" }
+entries[14376] = { ["name"] = "Sanguine Cape", ["text"] = "Binds when equipped\nBack\n18 Armor\n+4 Intellect\nRequires Level 17" }
+entries[14377] = { ["name"] = "Sanguine Handwraps", ["text"] = "Binds when equipped\nHands Cloth\n25 Armor\n+5 Stamina\n+4 Intellect\nDurability 25 / 25\nRequires Level 21" }
+entries[14378] = { ["name"] = "Sanguine Mantle", ["text"] = "Binds when equipped\nShoulder Cloth\n30 Armor\n+3 Stamina\n+6 Intellect\nDurability 40 / 40\nRequires Level 22" }
+entries[14379] = { ["name"] = "Sanguine Trousers", ["text"] = "Binds when equipped\nLegs Cloth\n37 Armor\n+4 Strength\n+9 Spirit\nDurability 55 / 55\nRequires Level 24" }
+entries[14380] = { ["name"] = "Sanguine Robe", ["text"] = "Binds when equipped\nChest Cloth\n41 Armor\n+7 Stamina\n+6 Intellect\nDurability 70 / 70\nRequires Level 23" }
+entries[14381] = { ["name"] = "Grimtotem Satchel", ["text"] = "Quest Item\nUnique" }
+entries[14382] = { ["name"] = "Durability Chestpiece", ["text"] = "Chest Cloth\n3 Armor\nDurability 35 / 35" }
+entries[14383] = { ["name"] = "Durability Bracers", ["text"] = "Wrist Cloth\n1 Armor\nDurability 12 / 12" }
+entries[14384] = { ["name"] = "Durability Boots", ["text"] = "Feet Cloth\n2 Armor\nDurability 16 / 16" }
+entries[14385] = { ["name"] = "Durability Cloak", ["text"] = "Back\n1 Armor" }
+entries[14386] = { ["name"] = "Durability Hat", ["text"] = "Head Cloth\n2 Armor\nDurability 20 / 20" }
+entries[14387] = { ["name"] = "Durability Gloves", ["text"] = "Hands Cloth\n2 Armor\nDurability 12 / 12" }
+entries[14388] = { ["name"] = "Durability Leggings", ["text"] = "Legs Cloth\n2 Armor\nDurability 25 / 25" }
+entries[14389] = { ["name"] = "Durability Shoulderpads", ["text"] = "Shoulder Cloth\n2 Armor\nDurability 20 / 20" }
+entries[14390] = { ["name"] = "Durability Belt", ["text"] = "Waist Cloth\n2 Armor\nDurability 12 / 12" }
+entries[14391] = { ["name"] = "Durability Sword", ["text"] = "One-Hand Sword\n1 - 2 Damage Speed 2.30\n(0.65 damage per second)\nDurability 20 / 20" }
+entries[14392] = { ["name"] = "Durability Staff", ["text"] = "Two-Hand Staff\n2 - 3 Damage Speed 2.80\n(0.89 damage per second)\nDurability 20 / 20" }
+entries[14393] = { ["name"] = "Durability Shield", ["text"] = "Off Hand Shield\n10 Armor\n1 Block\nDurability 20 / 20" }
+entries[14394] = { ["name"] = "Durability Bow", ["text"] = "Ranged Bow\n1 - 3 Damage Speed 1.80\n(1.11 damage per second)\nDurability 18 / 18" }
+entries[14395] = { ["name"] = "Spells of Shadow", ["text"] = "Quest Item\nUnique\n\"You know opening this would be a terrible idea.\"" }
+entries[14396] = { ["name"] = "Incantations from the Nether", ["text"] = "Quest Item\nUnique\n\"You're glad you don't understand the runes inscribed on the cover.\"" }
+entries[14397] = { ["name"] = "Resilient Mantle", ["text"] = "Binds when equipped\nShoulder Cloth\n33 Armor\n+9 Intellect\nDurability 45 / 45\nRequires Level 27" }
+entries[14398] = { ["name"] = "Resilient Tunic", ["text"] = "Binds when equipped\nChest Cloth\n45 Armor\n+4 Agility\n+11 Intellect\nDurability 70 / 70\nRequires Level 28" }
+entries[14399] = { ["name"] = "Resilient Boots", ["text"] = "Binds when equipped\nFeet Cloth\n30 Armor\n+2 Agility\n+8 Spirit\nDurability 35 / 35\nRequires Level 26" }
+entries[14400] = { ["name"] = "Resilient Cape", ["text"] = "Binds when equipped\nBack\n21 Armor\n+6 Intellect\nRequires Level 24" }
+entries[14401] = { ["name"] = "Resilient Cap", ["text"] = "Binds when equipped\nHead Cloth\n37 Armor\n+2 Agility\n+11 Intellect\n+4 Spirit\nDurability 45 / 45\nRequires Level 28" }
+entries[14402] = { ["name"] = "Resilient Bands", ["text"] = "Binds when equipped\nWrist Cloth\n18 Armor\n+4 Stamina\n+4 Spirit\nDurability 25 / 25\nRequires Level 24" }
+entries[14403] = { ["name"] = "Resilient Handgrips", ["text"] = "Binds when equipped\nHands Cloth\n27 Armor\n+3 Agility\n+4 Stamina\n+6 Intellect\nDurability 25 / 25\nRequires Level 26" }
+entries[14404] = { ["name"] = "Resilient Leggings", ["text"] = "Binds when equipped\nLegs Cloth\n39 Armor\n+5 Agility\n+11 Spirit\nDurability 55 / 55\nRequires Level 28" }
+entries[14405] = { ["name"] = "Resilient Robe", ["text"] = "Binds when equipped\nChest Cloth\n45 Armor\n+4 Agility\n+11 Intellect\nDurability 70 / 70\nRequires Level 28" }
+entries[14406] = { ["name"] = "Resilient Cord", ["text"] = "Binds when equipped\nWaist Cloth\n24 Armor\n+1 Strength\n+6 Intellect\n+4 Spirit\nDurability 25 / 25\nRequires Level 25" }
+entries[14407] = { ["name"] = "Stonecloth Vest", ["text"] = "Binds when equipped\nChest Cloth\n52 Armor\n+2 Strength\n+2 Stamina\n+15 Spirit\nDurability 70 / 70\nRequires Level 34" }
+entries[14408] = { ["name"] = "Stonecloth Boots", ["text"] = "Binds when equipped\nFeet Cloth\n32 Armor\n+5 Stamina\n+8 Spirit\nDurability 35 / 35\nRequires Level 30" }
+entries[14409] = { ["name"] = "Stonecloth Cape", ["text"] = "Binds when equipped\nBack\n23 Armor\n+1 Strength\n+5 Stamina\n+3 Spirit\nRequires Level 28" }
+entries[14410] = { ["name"] = "Stonecloth Circlet", ["text"] = "Binds when equipped\nHead Cloth\n41 Armor\n+3 Strength\n+10 Intellect\nDurability 45 / 45\nRequires Level 33" }
+entries[14411] = { ["name"] = "Stonecloth Gloves", ["text"] = "Binds when equipped\nHands Cloth\n29 Armor\n+5 Stamina\n+8 Spirit\nDurability 25 / 25\nRequires Level 30" }
+entries[14412] = { ["name"] = "Stonecloth Epaulets", ["text"] = "Binds when equipped\nShoulder Cloth\n36 Armor\n+4 Stamina\n+9 Intellect\nDurability 45 / 45\nRequires Level 31" }
+entries[14413] = { ["name"] = "Stonecloth Robe", ["text"] = "Binds when equipped\nChest Cloth\n52 Armor\n+2 Strength\n+2 Stamina\n+15 Spirit\nDurability 70 / 70\nRequires Level 34" }
+entries[14414] = { ["name"] = "Stonecloth Belt", ["text"] = "Binds when equipped\nWaist Cloth\n26 Armor\n+3 Agility\n+6 Stamina\n+6 Spirit\nDurability 25 / 25\nRequires Level 29" }
+entries[14415] = { ["name"] = "Stonecloth Britches", ["text"] = "Binds when equipped\nLegs Cloth\n43 Armor\n+3 Stamina\n+5 Intellect\n+12 Spirit\nDurability 55 / 55\nRequires Level 32" }
+entries[14416] = { ["name"] = "Stonecloth Bindings", ["text"] = "Binds when equipped\nWrist Cloth\n20 Armor\n+4 Stamina\n+5 Intellect\nDurability 25 / 25\nRequires Level 29" }
+entries[14417] = { ["name"] = "Silksand Tunic", ["text"] = "Binds when equipped\nChest Cloth\n58 Armor\n+16 Intellect\n+5 Spirit\nDurability 70 / 70\nRequires Level 39" }
+entries[14418] = { ["name"] = "Silksand Boots", ["text"] = "Binds when equipped\nFeet Cloth\n35 Armor\n+3 Stamina\n+11 Spirit\nDurability 35 / 35\nRequires Level 34" }
+entries[14419] = { ["name"] = "Silksand Bracers", ["text"] = "Binds when equipped\nWrist Cloth\n22 Armor\n+6 Stamina\n+5 Spirit\nDurability 25 / 25\nRequires Level 33" }
+entries[14420] = { ["name"] = "Silksand Cape", ["text"] = "Binds when equipped\nBack\n25 Armor\n+6 Stamina\n+5 Intellect\nRequires Level 33" }
+entries[14421] = { ["name"] = "Silksand Circlet", ["text"] = "Binds when equipped\nHead Cloth\n45 Armor\n+6 Stamina\n+9 Intellect\n+10 Spirit\nDurability 45 / 45\nRequires Level 37" }
+entries[14422] = { ["name"] = "Silksand Gloves", ["text"] = "Binds when equipped\nHands Cloth\n33 Armor\n+5 Stamina\n+10 Spirit\nDurability 25 / 25\nRequires Level 35" }
+entries[14423] = { ["name"] = "Silksand Shoulder Pads", ["text"] = "Binds when equipped\nShoulder Cloth\n40 Armor\n+1 Strength\n+11 Intellect\n+3 Spirit\nDurability 45 / 45\nRequires Level 35" }
+entries[14424] = { ["name"] = "Silksand Legwraps", ["text"] = "Binds when equipped\nLegs Cloth\n48 Armor\n+9 Stamina\n+13 Spirit\nDurability 55 / 55\nRequires Level 37" }
+entries[14425] = { ["name"] = "Silksand Wraps", ["text"] = "Binds when equipped\nChest Cloth\n58 Armor\n+16 Intellect\n+5 Spirit\nDurability 70 / 70\nRequires Level 39" }
+entries[14426] = { ["name"] = "Silksand Girdle", ["text"] = "Binds when equipped\nWaist Cloth\n29 Armor\n+8 Stamina\n+8 Spirit\nDurability 25 / 25\nRequires Level 34" }
+entries[14427] = { ["name"] = "Windchaser Wraps", ["text"] = "Binds when equipped\nChest Cloth\n64 Armor\n+10 Stamina\n+17 Spirit\nDurability 70 / 70\nRequires Level 44" }
+entries[14428] = { ["name"] = "Windchaser Footpads", ["text"] = "Binds when equipped\nFeet Cloth\n40 Armor\n+3 Agility\n+2 Stamina\n+12 Spirit\nDurability 35 / 35\nRequires Level 39" }
+entries[14429] = { ["name"] = "Windchaser Cuffs", ["text"] = "Binds when equipped\nWrist Cloth\n25 Armor\n+2 Agility\n+9 Intellect\nDurability 25 / 25\nRequires Level 38" }
+entries[14430] = { ["name"] = "Windchaser Cloak", ["text"] = "Binds when equipped\nBack\n28 Armor\n+4 Stamina\n+6 Intellect\n+4 Spirit\nRequires Level 37" }
+entries[14431] = { ["name"] = "Windchaser Handguards", ["text"] = "Binds when equipped\nHands Cloth\n36 Armor\n+3 Agility\n+13 Spirit\nDurability 25 / 25\nRequires Level 39" }
+entries[14432] = { ["name"] = "Windchaser Amice", ["text"] = "Binds when equipped\nShoulder Cloth\n44 Armor\n+3 Agility\n+13 Intellect\nDurability 45 / 45\nRequires Level 40" }
+entries[14433] = { ["name"] = "Windchaser Woolies", ["text"] = "Binds when equipped\nLegs Cloth\n53 Armor\n+5 Strength\n+12 Intellect\n+10 Spirit\nDurability 55 / 55\nRequires Level 41" }
+entries[14434] = { ["name"] = "Windchaser Robes", ["text"] = "Binds when equipped\nChest Cloth\n64 Armor\n+10 Stamina\n+17 Spirit\nDurability 70 / 70\nRequires Level 44" }
+entries[14435] = { ["name"] = "Windchaser Cinch", ["text"] = "Binds when equipped\nWaist Cloth\n32 Armor\n+8 Intellect\n+9 Spirit\nDurability 25 / 25\nRequires Level 38" }
+entries[14436] = { ["name"] = "Windchaser Coronet", ["text"] = "Binds when equipped\nHead Cloth\n49 Armor\n+4 Agility\n+15 Intellect\n+7 Spirit\nDurability 45 / 45\nRequires Level 41" }
+entries[14437] = { ["name"] = "Venomshroud Vest", ["text"] = "Binds when equipped\nChest Cloth\n70 Armor\n+18 Stamina\n+9 Spirit\n+4 Nature Resistance\nDurability 70 / 70\nRequires Level 49" }
+entries[14438] = { ["name"] = "Venomshroud Boots", ["text"] = "Binds when equipped\nFeet Cloth\n43 Armor\n+13 Stamina\n+5 Intellect\nDurability 35 / 35\nRequires Level 43" }
+entries[14439] = { ["name"] = "Venomshroud Armguards", ["text"] = "Binds when equipped\nWrist Cloth\n27 Armor\n+4 Intellect\n+8 Spirit\n+3 Nature Resistance\nDurability 25 / 25\nRequires Level 42" }
+entries[14440] = { ["name"] = "Venomshroud Cape", ["text"] = "Binds when equipped\nBack\n30 Armor\n+6 Stamina\n+6 Spirit\n+4 Nature Resistance\nRequires Level 41" }
+entries[14441] = { ["name"] = "Venomshroud Mask", ["text"] = "Binds when equipped\nHead Cloth\n53 Armor\n+10 Stamina\n+16 Intellect\n+4 Nature Resistance\nDurability 45 / 45\nRequires Level 45" }
+entries[14442] = { ["name"] = "Venomshroud Mitts", ["text"] = "Binds when equipped\nHands Cloth\n40 Armor\n+6 Intellect\n+12 Spirit\n+3 Nature Resistance\nDurability 25 / 25\nRequires Level 44" }
+entries[14443] = { ["name"] = "Venomshroud Mantle", ["text"] = "Binds when equipped\nShoulder Cloth\n48 Armor\n+4 Stamina\n+12 Intellect\n+4 Nature Resistance\nDurability 45 / 45\nRequires Level 44" }
+entries[14444] = { ["name"] = "Venomshroud Leggings", ["text"] = "Binds when equipped\nLegs Cloth\n59 Armor\n+15 Intellect\n+12 Spirit\n+6 Nature Resistance\nDurability 55 / 55\nRequires Level 47" }
+entries[14445] = { ["name"] = "Venomshroud Silk Robes", ["text"] = "Binds when equipped\nChest Cloth\n70 Armor\n+20 Stamina\n+11 Spirit\n+4 Nature Resistance\nDurability 70 / 70\nRequires Level 49" }
+entries[14446] = { ["name"] = "Venomshroud Belt", ["text"] = "Binds when equipped\nWaist Cloth\n35 Armor\n+10 Stamina\n+8 Spirit\n+5 Nature Resistance\nDurability 25 / 25\nRequires Level 43" }
+entries[14447] = { ["name"] = "Highborne Footpads", ["text"] = "Binds when equipped\nFeet Cloth\n47 Armor\n+4 Agility\n+9 Stamina\n+12 Intellect\nDurability 35 / 35\nRequires Level 48" }
+entries[14448] = { ["name"] = "Highborne Bracelets", ["text"] = "Binds when equipped\nWrist Cloth\n30 Armor\n+6 Stamina\n+9 Intellect\nDurability 25 / 25\nRequires Level 47" }
+entries[14449] = { ["name"] = "Highborne Crown", ["text"] = "Binds when equipped\nHead Cloth\n60 Armor\n+3 Strength\n+22 Intellect\n+6 Spirit\nDurability 45 / 45\nRequires Level 52" }
+entries[14450] = { ["name"] = "Highborne Cloak", ["text"] = "Binds when equipped\nBack\n33 Armor\n+4 Stamina\n+9 Intellect\n+4 Spirit\nRequires Level 46" }
+entries[14451] = { ["name"] = "Highborne Gloves", ["text"] = "Binds when equipped\nHands Cloth\n43 Armor\n+3 Strength\n+5 Agility\n+10 Intellect\n+10 Spirit\nDurability 25 / 25\nRequires Level 48" }
+entries[14452] = { ["name"] = "Highborne Pauldrons", ["text"] = "Binds when equipped\nShoulder Cloth\n53 Armor\n+11 Stamina\n+12 Spirit\nDurability 45 / 45\nRequires Level 49" }
+entries[14453] = { ["name"] = "Highborne Robes", ["text"] = "Binds when equipped\nChest Cloth\n76 Armor\n+19 Intellect\n+15 Spirit\nDurability 70 / 70\nRequires Level 54" }
+entries[14454] = { ["name"] = "Highborne Cord", ["text"] = "Binds when equipped\nWaist Cloth\n39 Armor\n+5 Agility\n+9 Stamina\n+12 Intellect\nDurability 25 / 25\nRequires Level 48" }
+entries[14455] = { ["name"] = "Highborne Padded Armor", ["text"] = "Binds when equipped\nChest Cloth\n76 Armor\n+19 Intellect\n+15 Spirit\nDurability 70 / 70\nRequires Level 54" }
+entries[14456] = { ["name"] = "Elunarian Vest", ["text"] = "Binds when equipped\nChest Cloth\n82 Armor\n+5 Strength\n+12 Stamina\n+21 Spirit\nDurability 70 / 70\nRequires Level 59" }
+entries[14457] = { ["name"] = "Elunarian Cuffs", ["text"] = "Binds when equipped\nWrist Cloth\n33 Armor\n+9 Stamina\n+10 Spirit\nDurability 25 / 25\nRequires Level 53" }
+entries[14458] = { ["name"] = "Elunarian Boots", ["text"] = "Binds when equipped\nFeet Cloth\n53 Armor\n+6 Intellect\n+17 Spirit\nDurability 35 / 35\nRequires Level 55" }
+entries[14459] = { ["name"] = "Elunarian Cloak", ["text"] = "Binds when equipped\nBack\n37 Armor\n+2 Strength\n+6 Stamina\n+11 Spirit\nRequires Level 52" }
+entries[14460] = { ["name"] = "Elunarian Diadem", ["text"] = "Binds when equipped\nHead Cloth\n66 Armor\n+16 Stamina\n+20 Intellect\nDurability 45 / 45\nRequires Level 58" }
+entries[14461] = { ["name"] = "Elunarian Handgrips", ["text"] = "Binds when equipped\nHands Cloth\n50 Armor\n+8 Stamina\n+8 Intellect\n+12 Spirit\nDurability 25 / 25\nRequires Level 57" }
+entries[14462] = { ["name"] = "Elunarian Sarong", ["text"] = "Binds when equipped\nLegs Cloth\n70 Armor\n+11 Stamina\n+14 Intellect\n+14 Spirit\nDurability 55 / 55\nRequires Level 57" }
+entries[14463] = { ["name"] = "Elunarian Spaulders", ["text"] = "Binds when equipped\nShoulder Cloth\n60 Armor\n+10 Stamina\n+10 Intellect\n+10 Spirit\nDurability 45 / 45\nRequires Level 57" }
+entries[14464] = { ["name"] = "Elunarian Silk Robes", ["text"] = "Binds when equipped\nChest Cloth\n82 Armor\n+5 Strength\n+12 Stamina\n+21 Spirit\nDurability 70 / 70\nRequires Level 59" }
+entries[14465] = { ["name"] = "Elunarian Belt", ["text"] = "Binds when equipped\nWaist Cloth\n44 Armor\n+6 Strength\n+20 Intellect\n+10 Spirit\nDurability 25 / 25\nRequires Level 55" }
+entries[14466] = { ["name"] = "Pattern: Frostweave Tunic", ["text"] = "Requires Tailoring (255)\nUse: Teaches you how to sew a Frostweave Tunic.\nFrostweave Tunic\nBinds when equipped\nChest Cloth\n66 Armor\n+11 Intellect\nDurability 70 / 70\nRequires Level 46\nEquip: Increases damage done by Frost spells and effects by up to 24.\nRequires Bolt of Runecloth (5), Globe of Water (2), Rune Thread" }
+entries[14467] = { ["name"] = "Pattern: Frostweave Robe", ["text"] = "Requires Tailoring (255)\nUse: Teaches you how to sew a Frostweave Robe.\nFrostweave Robe\nBinds when equipped\nChest Cloth\n66 Armor\n+11 Spirit\nDurability 70 / 70\nRequires Level 46\nEquip: Increases damage done by Frost spells and effects by up to 24.\nRequires Bolt of Runecloth (5), Globe of Water (2), Rune Thread" }
+entries[14468] = { ["name"] = "Pattern: Runecloth Bag", ["text"] = "Requires Tailoring (260)\nUse: Teaches you how to sew a Runecloth Bag.\nRunecloth Bag\n14 Slot Bag\nRequires Bolt of Runecloth (5), Rugged Leather (2), Rune Thread" }
+entries[14469] = { ["name"] = "Pattern: Runecloth Robe", ["text"] = "Requires Tailoring (260)\nUse: Teaches you how to sew a Runecloth Robe.\nRunecloth Robe\nBinds when equipped\nChest Cloth\n68 Armor\n+17 Intellect\n+11 Spirit\nDurability 70 / 70\nRequires Level 47\nRequires Bolt of Runecloth (5), Ironweb Spider Silk , Rune Thread" }
+entries[14470] = { ["name"] = "Pattern: Runecloth Tunic", ["text"] = "Requires Tailoring (260)\nUse: Teaches you how to sew a Runecloth Tunic.\nRunecloth Tunic\nBinds when equipped\nChest Cloth\n68 Armor\n+11 Intellect\n+17 Spirit\nDurability 70 / 70\nRequires Level 47\nRequires Bolt of Runecloth (5), Ironweb Spider Silk , Rune Thread" }
+entries[14471] = { ["name"] = "Pattern: Cindercloth Vest", ["text"] = "Requires Tailoring (260)\nUse: Teaches you how to sew a Cindercloth Vest.\nCindercloth Vest\nBinds when equipped\nChest Cloth\n68 Armor\n+11 Spirit\nDurability 70 / 70\nRequires Level 47\nEquip: Increases damage done by Fire spells and effects by up to 24.\nRequires Bolt of Runecloth (5), Heart of Fire (3), Rune Thread" }
+entries[14472] = { ["name"] = "Pattern: Runecloth Cloak", ["text"] = "Binds when picked up\nRequires Tailoring (265)\nUse: Teaches you how to sew a Runecloth Cloak.\nRunecloth Cloak\nBinds when equipped\nBack\n34 Armor\n+8 Intellect\n+9 Spirit\nRequires Level 48\nRequires Bolt of Runecloth (4), Ironweb Spider Silk , Rune Thread" }
+entries[14473] = { ["name"] = "Pattern: Ghostweave Belt", ["text"] = "Requires Tailoring (265)\nUse: Teaches you how to sew a Ghostweave Belt.\nGhostweave Belt\nBinds when equipped\nWaist Cloth\n39 Armor\n+8 Intellect\nDurability 25 / 25\nRequires Level 48\nEquip: Restores 6 mana per 5 sec.\nRequires Bolt of Runecloth (3), Ghost Dye (2), Ironweb Spider Silk , Rune Thread" }
+entries[14474] = { ["name"] = "Pattern: Frostweave Gloves", ["text"] = "Requires Tailoring (265)\nUse: Teaches you how to sew Frostweave Gloves.\nFrostweave Gloves\nBinds when equipped\nHands Cloth\n43 Armor\n+6 Intellect\nDurability 25 / 25\nRequires Level 47\nEquip: Increases damage done by Frost spells and effects by up to 21.\nRequires Bolt of Runecloth (3), Essence of Water , Rune Thread" }
+entries[14476] = { ["name"] = "Pattern: Cindercloth Gloves", ["text"] = "Requires Tailoring (270)\nUse: Teaches you how to sew Cindercloth Gloves.\nCindercloth Gloves\nBinds when equipped\nHands Cloth\n44 Armor\n+11 Spirit\nDurability 25 / 25\nRequires Level 49\nEquip: Increases damage done by Fire spells and effects by up to 17.\nRequires Bolt of Runecloth (4), Heart of Fire (3), Rune Thread" }
+entries[14477] = { ["name"] = "Pattern: Ghostweave Gloves", ["text"] = "Requires Tailoring (270)\nUse: Teaches you how to sew Ghostweave Gloves.\nGhostweave Gloves\nBinds when equipped\nHands Cloth\n44 Armor\n+8 Intellect\nDurability 25 / 25\nRequires Level 49\nEquip: Restores 6 mana per 5 sec.\nRequires Bolt of Runecloth (4), Ghost Dye (2), Ironweb Spider Silk , Rune Thread" }
+entries[14478] = { ["name"] = "Pattern: Brightcloth Robe", ["text"] = "Requires Tailoring (270)\nUse: Teaches you how to sew a Brightcloth Robe.\nBrightcloth Robe\nBinds when equipped\nChest Cloth\n70 Armor\n+16 Frost Resistance\n+15 Shadow Resistance\nDurability 70 / 70\nRequires Level 49\nRequires Bolt of Runecloth (5), Gold Bar (2), Rune Thread" }
+entries[14479] = { ["name"] = "Pattern: Brightcloth Gloves", ["text"] = "Requires Tailoring (270)\nUse: Teaches you how to sew Brightcloth Gloves.\nBrightcloth Gloves\nBinds when equipped\nHands Cloth\n44 Armor\n+12 Frost Resistance\n+11 Shadow Resistance\nDurability 25 / 25\nRequires Level 49\nRequires Bolt of Runecloth (4), Gold Bar (2), Rune Thread" }
+entries[14480] = { ["name"] = "Pattern: Ghostweave Vest", ["text"] = "Requires Tailoring (275)\nUse: Teaches you how to sew a Ghostweave Vest.\nGhostweave Vest\nBinds when equipped\nChest Cloth\n71 Armor\n+9 Intellect\nDurability 70 / 70\nRequires Level 50\nEquip: Restores 8 mana per 5 sec.\nRequires Bolt of Runecloth (6), Ghost Dye (4), Ironweb Spider Silk , Rune Thread" }
+entries[14481] = { ["name"] = "Pattern: Runecloth Gloves", ["text"] = "Requires Tailoring (275)\nUse: Teaches you how to sew Runecloth Gloves.\nRunecloth Gloves\nBinds when equipped\nHands Cloth\n45 Armor\n+9 Intellect\n+9 Spirit\nDurability 25 / 25\nRequires Level 50\nEquip: Increases damage and healing done by magical spells and effects by up to 12.\nRequires Bolt of Runecloth (4), Rugged Leather (4), Rune Thread" }
+entries[14482] = { ["name"] = "Pattern: Cindercloth Cloak", ["text"] = "Requires Tailoring (275)\nUse: Teaches you how to sew a Cindercloth Cloak.\nCindercloth Cloak\nBinds when equipped\nBack\n36 Armor\n+8 Intellect\nRequires Level 50\nEquip: Increases damage done by Fire spells and effects by up to 13.\nRequires Bolt of Runecloth (5), Essence of Fire , Rune Thread" }
+entries[14483] = { ["name"] = "Pattern: Felcloth Pants", ["text"] = "Requires Tailoring (275)\nUse: Teaches you how to sew Felcloth Pants.\nFelcloth Pants\nBinds when equipped\nLegs Cloth\n62 Armor\n+12 Intellect\nDurability 55 / 55\nRequires Level 50\nEquip: Increases damage done by Shadow spells and effects by up to 26.\nRequires Bolt of Runecloth (5), Felcloth (4), Rune Thread" }
+entries[14484] = { ["name"] = "Pattern: Brightcloth Cloak", ["text"] = "Requires Tailoring (275)\nUse: Teaches you how to sew a Brightcloth Cloak.\nBrightcloth Cloak\nBinds when equipped\nBack\n36 Armor\n+7 Frost Resistance\n+7 Shadow Resistance\nRequires Level 50\nEquip: Increases damage done by Frost spells and effects by up to 10.\nRequires Bolt of Runecloth (4), Gold Bar (2), Rune Thread" }
+entries[14485] = { ["name"] = "Pattern: Wizardweave Leggings", ["text"] = "Requires Tailoring (275)\nUse: Teaches you how to sew Wizardweave Leggings.\nWizardweave Leggings\nBinds when equipped\nLegs Cloth\n62 Armor\n+16 Arcane Resistance\n+16 Fire Resistance\nDurability 55 / 55\nRequires Level 50\nRequires Bolt of Runecloth (6), Dream Dust , Rune Thread" }
+entries[14486] = { ["name"] = "Pattern: Cloak of Fire", ["text"] = "Binds when picked up\nRequires Tailoring (275)\nUse: Teaches you how to sew a Cloak of Fire.\nCloak of Fire\nBinds when equipped\nBack\n39 Armor\n+7 Stamina\n+6 Fire Resistance\nRequires Level 50\nUse: Deals 25 Fire damage every 5 sec to all nearby enemies for 15 sec. (2 Min Cooldown)\nRequires Bolt of Runecloth (6), Essence of Fire (4), Heart of Fire (4), Elemental Fire (4), Rune Thread" }
+entries[14487] = { ["name"] = "Bonechill Hammer", ["text"] = "Binds when picked up\nOne-Hand Mace\n68 - 127 Damage Speed 2.40\n(40.63 damage per second)\nDurability 90 / 90\nRequires Level 57\nChance on hit: Blasts a target for 90 Frost damage." }
+entries[14488] = { ["name"] = "Pattern: Runecloth Boots", ["text"] = "Requires Tailoring (280)\nUse: Teaches you how to sew Runecloth Boots.\nRunecloth Boots\nBinds when equipped\nFeet Cloth\n50 Armor\n+9 Intellect\n+14 Spirit\nDurability 35 / 35\nRequires Level 51\nRequires Bolt of Runecloth (4), Ironweb Spider Silk (2), Rugged Leather (4), Rune Thread" }
+entries[14489] = { ["name"] = "Pattern: Frostweave Pants", ["text"] = "Requires Tailoring (280)\nUse: Teaches you how to sew Frostweave Pants.\nFrostweave Pants\nBinds when equipped\nLegs Cloth\n63 Armor\n+12 Spirit\nDurability 55 / 55\nRequires Level 51\nEquip: Increases damage done by Frost spells and effects by up to 26.\nRequires Bolt of Runecloth (6), Essence of Water , Rune Thread" }
+entries[14490] = { ["name"] = "Pattern: Cindercloth Pants", ["text"] = "Requires Tailoring (280)\nUse: Teaches you how to sew Cindercloth Pants.\nCindercloth Pants\nBinds when equipped\nLegs Cloth\n63 Armor\n+12 Intellect\nDurability 55 / 55\nRequires Level 51\nEquip: Increases damage done by Fire spells and effects by up to 26.\nRequires Bolt of Runecloth (6), Essence of Fire , Rune Thread" }
+entries[14491] = { ["name"] = "Pattern: Runecloth Pants", ["text"] = "Requires Tailoring (285)\nUse: Teaches you how to sew Runecloth Pants.\nRunecloth Pants\nBinds when equipped\nLegs Cloth\n65 Armor\n+12 Intellect\n+20 Spirit\nDurability 55 / 55\nRequires Level 52\nRequires Bolt of Runecloth (6), Ironweb Spider Silk (2), Rune Thread" }
+entries[14492] = { ["name"] = "Pattern: Felcloth Boots", ["text"] = "Requires Tailoring (285)\nUse: Teaches you how to sew Felcloth Boots.\nFelcloth Boots\nBinds when equipped\nFeet Cloth\n51 Armor\n+12 Spirit\nDurability 35 / 35\nRequires Level 52\nEquip: Increases damage done by Fire spells and effects by up to 17.\nRequires Bolt of Runecloth (6), Felcloth (4), Rugged Leather (4), Rune Thread" }
+entries[14493] = { ["name"] = "Pattern: Robe of Winter Night", ["text"] = "Binds when picked up\nRequires Tailoring (285)\nUse: Teaches you how to sew a Robe of Winter Night.\nRobe of Winter Night\nBinds when equipped\nChest Cloth\n81 Armor\n+12 Intellect\nDurability 80 / 80\nRequires Level 52\nEquip: Increases damage done by Shadow spells and effects by up to 40.\nEquip: Increases damage done by Frost spells and effects by up to 40.\nRequires Bolt of Runecloth (10), Felcloth (12), Essence of Undeath (4), Essence of Water (4), Rune Thread" }
+entries[14494] = { ["name"] = "Pattern: Brightcloth Pants", ["text"] = "Requires Tailoring (290)\nUse: Teaches you how to sew Brightcloth Pants.\nBrightcloth Pants\nBinds when equipped\nLegs Cloth\n66 Armor\n+17 Frost Resistance\n+16 Shadow Resistance\nDurability 55 / 55\nRequires Level 53\nRequires Bolt of Runecloth (6), Gold Bar (4), Ironweb Spider Silk , Rune Thread" }
+entries[14495] = { ["name"] = "Pattern: Ghostweave Pants", ["text"] = "Requires Tailoring (290)\nUse: Teaches you how to sew Ghostweave Pants.\nGhostweave Pants\nBinds when equipped\nLegs Cloth\n66 Armor\n+12 Intellect\nDurability 55 / 55\nRequires Level 53\nEquip: Restores 8 mana per 5 sec.\nRequires Bolt of Runecloth (6), Ghost Dye (4), Rune Thread" }
+entries[14496] = { ["name"] = "Pattern: Felcloth Hood", ["text"] = "Requires Tailoring (290)\nUse: Teaches you how to sew a Felcloth Hood.\nFelcloth Hood\nBinds when equipped\nHead Cloth\n61 Armor\n+10 Intellect\nDurability 45 / 45\nRequires Level 53\nEquip: Increases damage done by Shadow spells and effects by up to 30.\nRequires Bolt of Runecloth (5), Felcloth (4), Rune Thread" }
+entries[14497] = { ["name"] = "Pattern: Mooncloth Leggings", ["text"] = "Requires Tailoring (290)\nUse: Teaches you how to sew Mooncloth Leggings.\nMooncloth Leggings\nBinds when equipped\nLegs Cloth\n72 Armor\n+12 Stamina\n+14 Intellect\n+21 Spirit\nDurability 65 / 65\nRequires Level 53\nRequires Bolt of Runecloth (6), Mooncloth (4), Rune Thread" }
+entries[14498] = { ["name"] = "Pattern: Runecloth Headband", ["text"] = "Requires Tailoring (295)\nUse: Teaches you how to sew a Runecloth Headband.\nRunecloth Headband\nBinds when equipped\nHead Cloth\n62 Armor\n+20 Intellect\n+13 Spirit\nDurability 45 / 45\nRequires Level 54\nRequires Bolt of Runecloth (4), Ironweb Spider Silk (2), Rune Thread" }
+entries[14499] = { ["name"] = "Pattern: Mooncloth Bag", ["text"] = "Requires Tailoring (300)\nUse: Teaches you how to sew a Mooncloth Bag.\nMooncloth Bag\n16 Slot Bag\nRequires Bolt of Runecloth (4), Mooncloth , Rune Thread" }
+entries[14500] = { ["name"] = "Pattern: Wizardweave Robe", ["text"] = "Requires Tailoring (300)\nUse: Teaches you how to sew a Wizardweave Robe.\nWizardweave Robe\nBinds when equipped\nChest Cloth\n77 Armor\n+17 Arcane Resistance\n+18 Fire Resistance\nDurability 70 / 70\nRequires Level 55\nRequires Bolt of Runecloth (8), Dream Dust (2), Rune Thread" }
+entries[14501] = { ["name"] = "Pattern: Mooncloth Vest", ["text"] = "Requires Tailoring (300)\nUse: Teaches you how to sew a Mooncloth Vest.\nMooncloth Vest\nBinds when equipped\nChest Cloth\n85 Armor\n+12 Stamina\n+20 Intellect\n+19 Spirit\nDurability 80 / 80\nRequires Level 55\nRequires Bolt of Runecloth (6), Mooncloth (4), Rune Thread" }
+entries[14502] = { ["name"] = "Frostbite Girdle", ["text"] = "Binds when picked up\nWaist Leather\n98 Armor\n+5 Strength\n+15 Agility\n+15 Stamina\n+10 Frost Resistance\nDurability 35 / 35\nRequires Level 57" }
+entries[14503] = { ["name"] = "Death's Clutch", ["text"] = "Binds when picked up\nShoulder Leather\n131 Armor\n+10 Strength\n+10 Agility\n+10 Stamina\n+10 Intellect\n+10 Spirit\nDurability 60 / 60\nRequires Level 57" }
+entries[14504] = { ["name"] = "Pattern: Runecloth Shoulders", ["text"] = "Requires Tailoring (300)\nUse: Teaches you how to sew Runecloth Shoulders.\nRunecloth Shoulders\nBinds when equipped\nShoulder Cloth\n59 Armor\n+15 Intellect\n+10 Spirit\nDurability 45 / 45\nRequires Level 56\nRequires Bolt of Runecloth (7), Ironweb Spider Silk (2), Rugged Leather (4), Rune Thread" }
+entries[14505] = { ["name"] = "Pattern: Wizardweave Turban", ["text"] = "Requires Tailoring (300)\nUse: Teaches you how to sew a Wizardweave Turban.\nWizardweave Turban\nBinds when equipped\nHead Cloth\n64 Armor\n+18 Arcane Resistance\n+18 Fire Resistance\nDurability 45 / 45\nRequires Level 56\nRequires Bolt of Runecloth (6), Dream Dust (4), Star Ruby , Rune Thread" }
+entries[14506] = { ["name"] = "Pattern: Felcloth Robe", ["text"] = "Requires Tailoring (300)\nUse: Teaches you how to sew a Felcloth Robe.\nFelcloth Robe\nBinds when equipped\nChest Cloth\n79 Armor\n+7 Stamina\nDurability 70 / 70\nRequires Level 56\nEquip: Increases damage done by Shadow spells and effects by up to 36.\nRequires Bolt of Runecloth (8), Felcloth (8), Demonic Rune (4), Rune Thread (2)" }
+entries[14507] = { ["name"] = "Pattern: Mooncloth Shoulders", ["text"] = "Requires Tailoring (300)\nUse: Teaches you how to sew Mooncloth Shoulders.\nMooncloth Shoulders\nBinds when equipped\nShoulder Cloth\n65 Armor\n+9 Stamina\n+17 Intellect\n+11 Spirit\nDurability 50 / 50\nRequires Level 56\nRequires Bolt of Runecloth (5), Mooncloth (5), Rune Thread" }
+entries[14508] = { ["name"] = "Pattern: Felcloth Shoulders", ["text"] = "Requires Tailoring (300)\nUse: Teaches you how to sew Felcloth Shoulders.\nFelcloth Shoulders\nBinds when equipped\nShoulder Cloth\n60 Armor\n+5 Spirit\nDurability 45 / 45\nRequires Level 57\nEquip: Increases damage done by Shadow spells and effects by up to 26.\nRequires Bolt of Runecloth (7), Felcloth (6), Demonic Rune (4), Rugged Leather (4), Rune Thread (2)" }
+entries[14509] = { ["name"] = "Pattern: Mooncloth Circlet", ["text"] = "Requires Tailoring (300)\nUse: Teaches you how to sew a Mooncloth Circlet.\nMooncloth Circlet\nBinds when equipped\nHead Cloth\n71 Armor\n+13 Stamina\n+23 Intellect\n+15 Spirit\nDurability 50 / 50\nRequires Level 57\nRequires Bolt of Runecloth (4), Mooncloth (6), Azerothian Diamond , Enchanted Leather (2), Rune Thread (2)" }
+entries[14510] = { ["name"] = "Pattern: Bottomless Bag", ["text"] = "Requires Tailoring (300)\nUse: Teaches you how to sew a Bottomless Bag.\nBottomless Bag\nBinds when equipped\n18 Slot Bag\nRequires Bolt of Runecloth (8), Mooncloth (12), Large Brilliant Shard (2), Core Leather (2), Rune Thread (2)" }
+entries[14511] = { ["name"] = "Pattern: Gloves of Spell Mastery", ["text"] = "Requires Tailoring (300)\nUse: Teaches you how to sew Gloves of Spell Mastery.\nGloves of Spell Mastery\nBinds when equipped\nHands Cloth\n60 Armor\n+10 Intellect\n+8 Spirit\nDurability 35 / 35\nClasses: Priest , Mage , Warlock\nRequires Level 57\nEquip: Improves your chance to get a critical strike with spells by 2%.\nRequires Bolt of Runecloth (10), Mooncloth (10), Ghost Dye (10), Golden Pearl (6), Huge Emerald (6), Enchanted Leather (8), Rune Thread (2)" }
+entries[14512] = { ["name"] = "Pattern: Truefaith Vestments", ["text"] = "Requires Tailoring (300)\nUse: Teaches you how to sew Truefaith Vestments.\nTruefaith Vestments\nBinds when picked up\nChest Cloth\n96 Armor\n+14 Stamina\nDurability 100 / 100\nClasses: Priest\nRequires Level 57\nEquip: Increases healing done by spells and effects by up to 73.\nEquip: Restores 6 mana per 5 sec.\nEquip: Reduces the cooldown of your Fade ability by 2 sec.\nRequires Bolt of Runecloth (12), Mooncloth (10), Righteous Orb (4), Golden Pearl (4), Ghost Dye (10), Rune Thread (2)" }
+entries[14513] = { ["name"] = "Pattern: Robe of the Archmage", ["text"] = "Requires Tailoring (300)\nUse: Teaches you how to sew a Robe of the Archmage.\nRobe of the Archmage\nBinds when picked up\nChest Cloth\n96 Armor\n+12 Intellect\nDurability 100 / 100\nClasses: Mage\nRequires Level 57\nEquip: Increases damage and healing done by magical spells and effects by up to 40.\nEquip: Improves your chance to get a critical strike with spells by 1%.\nUse: Restores 375 to 625 mana. (5 Min Cooldown)\nRequires Bolt of Runecloth (12), Essence of Fire (10), Essence of Air (10), Essence of Earth (10), Essence of Water (10), Rune Thread (2)" }
+entries[14514] = { ["name"] = "Pattern: Robe of the Void", ["text"] = "Requires Tailoring (300)\nUse: Teaches you how to sew a Robe of the Void.\nRobe of the Void\nBinds when picked up\nChest Cloth\n96 Armor\n+14 Stamina\nDurability 100 / 100\nClasses: Warlock\nRequires Level 57\nEquip: Increases damage and healing done by magical spells and effects by up to 46.\nUse: Heal your pet for 450 to 750. (10 Min Cooldown)\nRequires Bolt of Runecloth (12), Demonic Rune (20), Felcloth (40), Essence of Fire (12), Essence of Undeath (12), Rune Thread (2)" }
+entries[14522] = { ["name"] = "Maelstrom Leggings", ["text"] = "Binds when picked up\nLegs Mail\n320 Armor\n+20 Stamina\n+20 Intellect\n+10 Spirit\nDurability 90 / 90\nRequires Level 57\nEquip: Increases healing done by spells and effects by up to 13." }
+entries[14523] = { ["name"] = "Demon Pick", ["text"] = "Quest Item\nUnique\nUse: Demon Pick to Destroy Demon Crystal." }
+entries[14525] = { ["name"] = "Boneclenched Gauntlets", ["text"] = "Binds when picked up\nHands Plate\n404 Armor\n+15 Strength\n+14 Stamina\nDurability 45 / 45\nRequires Level 57\nEquip: Increased Defense +7." }
+entries[14526] = { ["name"] = "Pattern: Mooncloth", ["text"] = "Requires Tailoring (250)\nUse: Teaches you how to purify Felcloth and turn it into Mooncloth.\nMooncloth\nRequires Felcloth (2)" }
+entries[14528] = { ["name"] = "Rattlecage Buckler", ["text"] = "Binds when picked up\nOff Hand Shield\n2121 Armor\n39 Block\n+7 Stamina\n+12 Intellect\n+7 Spirit\n+7 Shadow Resistance\nDurability 100 / 100\nRequires Level 57" }
+entries[14529] = { ["name"] = "Runecloth Bandage", ["text"] = "Requires First Aid (200)\nUse: Heals 1360 damage over 8 sec." }
+entries[14530] = { ["name"] = "Heavy Runecloth Bandage", ["text"] = "Requires First Aid (225)\nUse: Heals 2000 damage over 8 sec." }
+entries[14531] = { ["name"] = "Frightskull Shaft", ["text"] = "Binds when picked up\nTwo-Hand Mace\n137 - 206 Damage Speed 3.40\n(50.44 damage per second)\nDurability 100 / 100\nRequires Level 54\nChance on hit: Deals 8 Shadow damage every 2 sec for 30 sec and lowers their Strength for the duration of the disease." }
+entries[14536] = { ["name"] = "Bonebrace Hauberk", ["text"] = "Binds when equipped\nChest Mail\n360 Armor\n+13 Intellect\n+4 Spirit\nDurability 120 / 120\nRequires Level 56\nEquip: +56 Attack Power." }
+entries[14537] = { ["name"] = "Corpselight Greaves", ["text"] = "Binds when picked up\nFeet Plate\n445 Armor\n+22 Stamina\n+10 Shadow Resistance\nDurability 65 / 65\nRequires Level 57" }
+entries[14538] = { ["name"] = "Deadwalker Mantle", ["text"] = "Binds when picked up\nShoulder Cloth\n66 Armor\n+19 Stamina\n+9 Intellect\nDurability 50 / 50\nRequires Level 57\nEquip: Increases damage done by Shadow spells and effects by up to 13." }
+entries[14539] = { ["name"] = "Bone Ring Helm", ["text"] = "Binds when picked up\nHead Leather\n141 Armor\n+6 Strength\n+5 Agility\n+30 Stamina\n+6 Intellect\n+6 Spirit\nDurability 60 / 60\nRequires Level 57" }
+entries[14540] = { ["name"] = "Taragaman the Hungerer's Heart", ["text"] = "Quest Item\nUnique" }
+entries[14541] = { ["name"] = "Barovian Family Sword", ["text"] = "Binds when picked up\nTwo-Hand Sword\n87 - 132 Damage Speed 2.10\n(52.14 damage per second)\nDurability 100 / 100\nRequires Level 56\nChance on hit: Deals 30 Shadow damage every 3 sec for 15 sec. All damage done is then transferred to the caster." }
+entries[14542] = { ["name"] = "Kravel's Crate", ["text"] = "Quest Item\nUnique" }
+entries[14543] = { ["name"] = "Darkshade Gloves", ["text"] = "Binds when picked up\nHands Cloth\n55 Armor\n+6 Stamina\n+7 Intellect\n+6 Spirit\n+15 Arcane Resistance\n+10 Shadow Resistance\nDurability 30 / 30\nRequires Level 57" }
+entries[14544] = { ["name"] = "Lieutenant's Insignia", ["text"] = "Quest Item\nUnique\n\"This small rune marks the bearer as a lieutenant in the Burning Blade.\"" }
+entries[14545] = { ["name"] = "Ghostloom Leggings", ["text"] = "Binds when picked up\nLegs Leather\n152 Armor\n+10 Stamina\n+18 Intellect\n+13 Spirit\nDurability 75 / 75\nRequires Level 57\nEquip: Restores 6 mana per 5 sec." }
+entries[14546] = { ["name"] = "Roon's Kodo Horn", ["text"] = "Quest Item\nUnique" }
+entries[14547] = { ["name"] = "Hand of Iruxos", ["text"] = "Quest Item\nUnique\nUse: Close Demon Portals." }
+entries[14548] = { ["name"] = "Royal Cap Spaulders", ["text"] = "Binds when picked up\nShoulder Mail\n274 Armor\n+8 Stamina\n+9 Intellect\n+13 Spirit\nDurability 70 / 70\nRequires Level 57\nEquip: Increases healing done by spells and effects by up to 26." }
+entries[14549] = { ["name"] = "Boots of Avoidance", ["text"] = "Binds when equipped\nFeet Plate\n360 Armor\n+14 Agility\n+11 Stamina\nDurability 75 / 75\nRequires Level 40\nEquip: Increases your chance to dodge an attack by 2%." }
+entries[14550] = { ["name"] = "Bladebane Armguards", ["text"] = "Binds when equipped\nWrist Leather\n69 Armor\n+6 Strength\n+10 Agility\n+10 Stamina\n+8 Spirit\nDurability 40 / 40\nRequires Level 44" }
+entries[14551] = { ["name"] = "Edgemaster's Handguards", ["text"] = "Binds when equipped\nHands Mail\n201 Armor\nDurability 50 / 50\nRequires Level 44\nEquip: Increased Axes +7.\nEquip: Increased Daggers +7.\nEquip: Increased Swords +7." }
+entries[14552] = { ["name"] = "Stockade Pauldrons", ["text"] = "Binds when equipped\nShoulder Plate\n472 Armor\n+20 Stamina\n+10 Spirit\nDurability 100 / 100\nRequires Level 50\nEquip: Increased Defense +10." }
+entries[14553] = { ["name"] = "Sash of Mercy", ["text"] = "Binds when equipped\nWaist Leather\n105 Armor\n+14 Stamina\n+10 Spirit\nDurability 40 / 40\nRequires Level 56\nEquip: Increases healing done by spells and effects by up to 53." }
+entries[14554] = { ["name"] = "Cloudkeeper Legplates", ["text"] = "Binds when equipped\nLegs Plate\n617 Armor\n+20 Strength\n+20 Agility\n+20 Stamina\nDurability 120 / 120\nRequires Level 57\nUse: Increases Attack Power by 100 for 30 sec. (15 Min Cooldown)" }
+entries[14555] = { ["name"] = "Alcor's Sunrazor", ["text"] = "Binds when equipped\nOne-Hand Dagger\n41 - 77 Damage Speed 1.30\n(45.38 damage per second)\n+10 Fire Resistance\nDurability 75 / 75\nRequires Level 58\nChance on hit: Blasts a target for 75 to 105 Fire damage." }
+entries[14557] = { ["name"] = "The Lion Horn of Stormwind", ["text"] = "Binds when equipped\nTrinket\nRequires Level 58\nEquip: When struck in combat has a 1% chance of increasing all party member's armor by 250 for 30 sec. (Proc chance: 1%)" }
+entries[14558] = { ["name"] = "Lady Maye's Pendant", ["text"] = "Binds when equipped\nNeck\n+10 Stamina\n+19 Intellect\n+10 Spirit\nRequires Level 59" }
+entries[14559] = { ["name"] = "Prospector's Sash", ["text"] = "Binds when equipped\nWaist Leather\n42 Armor\n+3 Stamina\n+2 Spirit\nDurability 20 / 20\nRequires Level 13" }
+entries[14560] = { ["name"] = "Prospector's Boots", ["text"] = "Binds when equipped\nFeet Leather\n52 Armor\n+2 Stamina\n+3 Spirit\nDurability 35 / 35\nRequires Level 14" }
+entries[14561] = { ["name"] = "Prospector's Cuffs", ["text"] = "Binds when equipped\nWrist Leather\n32 Armor\n+2 Agility\n+1 Stamina\nDurability 20 / 20\nRequires Level 12" }
+entries[14562] = { ["name"] = "Prospector's Chestpiece", ["text"] = "Binds when equipped\nChest Leather\n82 Armor\n+2 Strength\n+6 Agility\n+3 Stamina\nDurability 75 / 75\nRequires Level 18" }
+entries[14563] = { ["name"] = "Prospector's Cloak", ["text"] = "Binds when equipped\nBack\n15 Armor\n+1 Strength\n+2 Stamina\nRequires Level 12" }
+entries[14564] = { ["name"] = "Prospector's Mitts", ["text"] = "Binds when equipped\nHands Leather\n47 Armor\n+3 Strength\n+2 Agility\nDurability 25 / 25\nRequires Level 14" }
+entries[14565] = { ["name"] = "Prospector's Woolies", ["text"] = "Binds when equipped\nLegs Leather\n69 Armor\n+1 Strength\n+6 Agility\nDurability 55 / 55\nRequires Level 16" }
+entries[14566] = { ["name"] = "Prospector's Pads", ["text"] = "Binds when equipped\nShoulder Leather\n64 Armor\n+4 Stamina\n+4 Spirit\nDurability 45 / 45\nRequires Level 20" }
+entries[14567] = { ["name"] = "Bristlebark Belt", ["text"] = "Binds when equipped\nWaist Leather\n46 Armor\n+4 Agility\n+4 Stamina\nDurability 25 / 25\nRequires Level 18" }
+entries[14568] = { ["name"] = "Bristlebark Boots", ["text"] = "Binds when equipped\nFeet Leather\n57 Armor\n+5 Agility\n+3 Stamina\nDurability 40 / 40\nRequires Level 18" }
+entries[14569] = { ["name"] = "Bristlebark Bindings", ["text"] = "Binds when equipped\nWrist Leather\n35 Armor\n+2 Strength\n+3 Agility\nDurability 25 / 25\nRequires Level 17" }
+entries[14570] = { ["name"] = "Bristlebark Blouse", ["text"] = "Binds when equipped\nChest Leather\n90 Armor\n+7 Agility\n+6 Stamina\nDurability 85 / 85\nRequires Level 23" }
+entries[14571] = { ["name"] = "Bristlebark Cape", ["text"] = "Binds when equipped\nBack\n17 Armor\n+4 Agility\nRequires Level 16" }
+entries[14572] = { ["name"] = "Bristlebark Gloves", ["text"] = "Binds when equipped\nHands Leather\n52 Armor\n+4 Strength\n+4 Agility\nDurability 25 / 25\nRequires Level 19" }
+entries[14573] = { ["name"] = "Bristlebark Amice", ["text"] = "Binds when equipped\nShoulder Leather\n67 Armor\n+3 Strength\n+6 Agility\nDurability 50 / 50\nRequires Level 22" }
+entries[14574] = { ["name"] = "Bristlebark Britches", ["text"] = "Binds when equipped\nLegs Leather\n76 Armor\n+8 Agility\n+3 Spirit\nDurability 60 / 60\nRequires Level 21" }
+entries[14576] = { ["name"] = "Ebon Hilt of Marduk", ["text"] = "Binds when picked up\nMain Hand Sword\n73 - 137 Damage Speed 2.70\n(38.89 damage per second)\nDurability 90 / 90\nRequires Level 54\nChance on hit: Corrupts the target, causing 210 damage over 3 sec." }
+entries[14577] = { ["name"] = "Skullsmoke Pants", ["text"] = "Binds when picked up\nLegs Cloth\n76 Armor\n+20 Stamina\n+20 Intellect\n+10 Fire Resistance\n+5 Shadow Resistance\nDurability 65 / 65\nRequires Level 56" }
+entries[14578] = { ["name"] = "Dokebi Cord", ["text"] = "Binds when equipped\nWaist Leather\n52 Armor\n+1 Strength\n+4 Intellect\n+6 Spirit\nDurability 30 / 30\nRequires Level 24" }
+entries[14579] = { ["name"] = "Dokebi Boots", ["text"] = "Binds when equipped\nFeet Leather\n65 Armor\n+7 Stamina\n+4 Spirit\nDurability 45 / 45\nRequires Level 26" }
+entries[14580] = { ["name"] = "Dokebi Bracers", ["text"] = "Binds when equipped\nWrist Leather\n39 Armor\n+3 Intellect\n+4 Spirit\nDurability 30 / 30\nRequires Level 22" }
+entries[14581] = { ["name"] = "Dokebi Chestguard", ["text"] = "Binds when equipped\nChest Leather\n98 Armor\n+10 Stamina\n+6 Spirit\nDurability 85 / 85\nRequires Level 28" }
+entries[14582] = { ["name"] = "Dokebi Cape", ["text"] = "Binds when equipped\nBack\n21 Armor\n+5 Stamina\n+2 Intellect\nRequires Level 23" }
+entries[14583] = { ["name"] = "Dokebi Gloves", ["text"] = "Binds when equipped\nHands Leather\n60 Armor\n+6 Stamina\n+6 Intellect\nDurability 30 / 30\nRequires Level 27" }
+entries[14584] = { ["name"] = "Dokebi Hat", ["text"] = "Binds when equipped\nHead Leather\n83 Armor\n+4 Strength\n+11 Intellect\n+5 Spirit\nDurability 50 / 50\nRequires Level 30" }
+entries[14585] = { ["name"] = "Dokebi Leggings", ["text"] = "Binds when equipped\nLegs Leather\n85 Armor\n+3 Strength\n+7 Intellect\n+8 Spirit\nDurability 65 / 65\nRequires Level 27" }
+entries[14587] = { ["name"] = "Dokebi Mantle", ["text"] = "Binds when equipped\nShoulder Leather\n73 Armor\n+2 Strength\n+6 Stamina\n+5 Spirit\nDurability 50 / 50\nRequires Level 27" }
+entries[14588] = { ["name"] = "Hawkeye's Cord", ["text"] = "Binds when equipped\nWaist Leather\n58 Armor\n+4 Strength\n+6 Agility\n+6 Stamina\nDurability 30 / 30\nRequires Level 31" }
+entries[14589] = { ["name"] = "Hawkeye's Shoes", ["text"] = "Binds when equipped\nFeet Leather\n72 Armor\n+10 Agility\n+3 Stamina\nDurability 45 / 45\nRequires Level 32" }
+entries[14590] = { ["name"] = "Hawkeye's Bracers", ["text"] = "Binds when equipped\nWrist Leather\n44 Armor\n+4 Strength\n+6 Agility\nDurability 30 / 30\nRequires Level 30" }
+entries[14591] = { ["name"] = "Hawkeye's Helm", ["text"] = "Binds when equipped\nHead Leather\n90 Armor\n+4 Strength\n+11 Agility\n+8 Stamina\nDurability 50 / 50\nRequires Level 35" }
+entries[14592] = { ["name"] = "Hawkeye's Tunic", ["text"] = "Binds when equipped\nChest Leather\n110 Armor\n+12 Agility\n+8 Stamina\nDurability 85 / 85\nRequires Level 35" }
+entries[14593] = { ["name"] = "Hawkeye's Cloak", ["text"] = "Binds when equipped\nBack\n23 Armor\n+3 Strength\n+7 Agility\nRequires Level 30" }
+entries[14594] = { ["name"] = "Hawkeye's Gloves", ["text"] = "Binds when equipped\nHands Leather\n65 Armor\n+8 Agility\n+7 Stamina\nDurability 30 / 30\nRequires Level 32" }
+entries[14595] = { ["name"] = "Hawkeye's Breeches", ["text"] = "Binds when equipped\nLegs Leather\n93 Armor\n+14 Agility\n+3 Stamina\nDurability 65 / 65\nRequires Level 33" }
+entries[14596] = { ["name"] = "Hawkeye's Epaulets", ["text"] = "Binds when equipped\nShoulder Leather\n80 Armor\n+9 Agility\n+5 Stamina\nDurability 50 / 50\nRequires Level 33" }
+entries[14598] = { ["name"] = "Warden's Waistband", ["text"] = "Binds when equipped\nWaist Leather\n62 Armor\n+8 Agility\n+6 Stamina\n+4 Spirit\nDurability 30 / 30\nRequires Level 35" }
+entries[14599] = { ["name"] = "Warden's Footpads", ["text"] = "Binds when equipped\nFeet Leather\n79 Armor\n+3 Strength\n+7 Intellect\n+9 Spirit\nDurability 45 / 45\nRequires Level 37" }
+entries[14600] = { ["name"] = "Warden's Wristbands", ["text"] = "Binds when equipped\nWrist Leather\n48 Armor\n+3 Agility\n+8 Intellect\nDurability 30 / 30\nRequires Level 35" }
+entries[14601] = { ["name"] = "Warden's Wraps", ["text"] = "Binds when equipped\nChest Leather\n120 Armor\n+12 Agility\n+12 Stamina\nDurability 85 / 85\nRequires Level 39" }
+entries[14602] = { ["name"] = "Warden's Cloak", ["text"] = "Binds when equipped\nBack\n26 Armor\n+4 Strength\n+5 Stamina\n+4 Spirit\nRequires Level 34" }
+entries[14603] = { ["name"] = "Warden's Mantle", ["text"] = "Binds when equipped\nShoulder Leather\n84 Armor\n+4 Stamina\n+9 Intellect\n+4 Spirit\nDurability 50 / 50\nRequires Level 36" }
+entries[14604] = { ["name"] = "Warden's Wizard Hat", ["text"] = "Binds when equipped\nHead Leather\n99 Armor\n+13 Agility\n+11 Stamina\n+3 Intellect\nDurability 50 / 50\nRequires Level 40" }
+entries[14605] = { ["name"] = "Warden's Woolies", ["text"] = "Binds when equipped\nLegs Leather\n103 Armor\n+12 Stamina\n+12 Intellect\nDurability 65 / 65\nRequires Level 38" }
+entries[14606] = { ["name"] = "Warden's Gloves", ["text"] = "Binds when equipped\nHands Leather\n70 Armor\n+4 Intellect\n+11 Spirit\nDurability 30 / 30\nRequires Level 36" }
+entries[14607] = { ["name"] = "Hawkeye's Buckler", ["text"] = "Binds when equipped\nOff Hand Shield\n695 Armor\n15 Block\n+5 Strength\n+6 Intellect\nDurability 85 / 85\nRequires Level 32" }
+entries[14608] = { ["name"] = "Dokebi Buckler", ["text"] = "Binds when equipped\nOff Hand Shield\n595 Armor\n12 Block\n+3 Stamina\n+5 Intellect\nDurability 85 / 85\nRequires Level 26" }
+entries[14610] = { ["name"] = "Araj's Scarab", ["text"] = "Quest Item\nUnique" }
+entries[14611] = { ["name"] = "Bloodmail Hauberk", ["text"] = "Binds when picked up\nChest Mail\n360 Armor\n+10 Strength\n+15 Stamina\n+15 Intellect\n+10 Spirit\nDurability 120 / 120\nRequires Level 56\nEquip: Increases your chance to dodge an attack by 1%.\n\nBloodmail Regalia (0/5)\nBloodmail Belt\nBloodmail Boots\nBloodmail Gauntlets\nBloodmail Hauberk\nBloodmail Legguards\n(2) Set : Increased Defense +3.\n(3) Set : +10 Attack Power.\n(4) Set : +15 All Resistances.\n(5) Set : Increases your chance to parry an attack by 1%." }
+entries[14612] = { ["name"] = "Bloodmail Legguards", ["text"] = "Binds when picked up\nLegs Mail\n315 Armor\n+15 Strength\n+12 Agility\n+16 Stamina\n+15 Intellect\nDurability 90 / 90\nRequires Level 56\n\nBloodmail Regalia (0/5)\nBloodmail Belt\nBloodmail Boots\nBloodmail Gauntlets\nBloodmail Hauberk\nBloodmail Legguards\n(2) Set : Increased Defense +3.\n(3) Set : +10 Attack Power.\n(4) Set : +15 All Resistances.\n(5) Set : Increases your chance to parry an attack by 1%." }
+entries[14613] = { ["name"] = "Taelan's Hammer", ["text"] = "Quest Item\nUnique\n\"Engraved: To my dear boy, Taelan. With Love, Father.\"" }
+entries[14614] = { ["name"] = "Bloodmail Belt", ["text"] = "Binds when picked up\nWaist Mail\n202 Armor\n+12 Strength\n+12 Agility\n+11 Stamina\n+9 Intellect\nDurability 40 / 40\nRequires Level 56\n\nBloodmail Regalia (0/5)\nBloodmail Belt\nBloodmail Boots\nBloodmail Gauntlets\nBloodmail Hauberk\nBloodmail Legguards\n(2) Set : Increased Defense +3.\n(3) Set : +10 Attack Power.\n(4) Set : +15 All Resistances.\n(5) Set : Increases your chance to parry an attack by 1%." }
+entries[14615] = { ["name"] = "Bloodmail Gauntlets", ["text"] = "Binds when picked up\nHands Mail\n225 Armor\n+9 Strength\n+10 Stamina\n+10 Intellect\nDurability 40 / 40\nRequires Level 56\nEquip: Improves your chance to get a critical strike by 1%.\n\nBloodmail Regalia (0/5)\nBloodmail Belt\nBloodmail Boots\nBloodmail Gauntlets\nBloodmail Hauberk\nBloodmail Legguards\n(2) Set : Increased Defense +3.\n(3) Set : +10 Attack Power.\n(4) Set : +15 All Resistances.\n(5) Set : Increases your chance to parry an attack by 1%." }
+entries[14616] = { ["name"] = "Bloodmail Boots", ["text"] = "Binds when picked up\nFeet Mail\n247 Armor\n+9 Strength\n+9 Agility\n+10 Stamina\n+10 Intellect\nDurability 60 / 60\nRequires Level 56\nEquip: Improves your chance to hit by 1%.\n\nBloodmail Regalia (0/5)\nBloodmail Belt\nBloodmail Boots\nBloodmail Gauntlets\nBloodmail Hauberk\nBloodmail Legguards\n(2) Set : Increased Defense +3.\n(3) Set : +10 Attack Power.\n(4) Set : +15 All Resistances.\n(5) Set : Increases your chance to parry an attack by 1%." }
+entries[14617] = { ["name"] = "Sawbones Shirt", ["text"] = "Binds when picked up\nShirt" }
+entries[14619] = { ["name"] = "Skeletal Fragments", ["text"] = "Quest Item" }
+entries[14620] = { ["name"] = "Deathbone Girdle", ["text"] = "Binds when picked up\nWaist Plate\n358 Armor\n+15 Stamina\nDurability 45 / 45\nRequires Level 56\nEquip: Increased Defense +9.\nEquip: Restores 4 mana per 5 sec.\n\nDeathbone Guardian (0/5)\nDeathbone Chestplate\nDeathbone Gauntlets\nDeathbone Girdle\nDeathbone Legguards\nDeathbone Sabatons\n(2) Set : Increased Defense +3.\n(3) Set : +50 Armor.\n(4) Set : +15 All Resistances.\n(5) Set : Increases your chance to parry an attack by 1%." }
+entries[14621] = { ["name"] = "Deathbone Sabatons", ["text"] = "Binds when picked up\nFeet Plate\n438 Armor\n+9 Stamina\nDurability 65 / 65\nRequires Level 56\nEquip: Restores 6 mana per 5 sec.\nEquip: Increased Defense +10.\n\nDeathbone Guardian (0/5)\nDeathbone Chestplate\nDeathbone Gauntlets\nDeathbone Girdle\nDeathbone Legguards\nDeathbone Sabatons\n(2) Set : Increased Defense +3.\n(3) Set : +50 Armor.\n(4) Set : +15 All Resistances.\n(5) Set : Increases your chance to parry an attack by 1%." }
+entries[14622] = { ["name"] = "Deathbone Gauntlets", ["text"] = "Binds when picked up\nHands Plate\n398 Armor\n+14 Stamina\nDurability 45 / 45\nRequires Level 56\nEquip: Increased Defense +10.\nEquip: Restores 4 mana per 5 sec.\n\nDeathbone Guardian (0/5)\nDeathbone Chestplate\nDeathbone Gauntlets\nDeathbone Girdle\nDeathbone Legguards\nDeathbone Sabatons\n(2) Set : Increased Defense +3.\n(3) Set : +50 Armor.\n(4) Set : +15 All Resistances.\n(5) Set : Increases your chance to parry an attack by 1%." }
+entries[14623] = { ["name"] = "Deathbone Legguards", ["text"] = "Binds when picked up\nLegs Plate\n557 Armor\n+20 Stamina\nDurability 100 / 100\nRequires Level 56\nEquip: Restores 5 mana per 5 sec.\nEquip: Increased Defense +13.\n\nDeathbone Guardian (0/5)\nDeathbone Chestplate\nDeathbone Gauntlets\nDeathbone Girdle\nDeathbone Legguards\nDeathbone Sabatons\n(2) Set : Increased Defense +3.\n(3) Set : +50 Armor.\n(4) Set : +15 All Resistances.\n(5) Set : Increases your chance to parry an attack by 1%." }
+entries[14624] = { ["name"] = "Deathbone Chestplate", ["text"] = "Binds when picked up\nChest Plate\n637 Armor\n+12 Stamina\nDurability 135 / 135\nRequires Level 56\nEquip: Increased Defense +17.\nEquip: Restores 5 mana per 5 sec.\n\nDeathbone Guardian (0/5)\nDeathbone Chestplate\nDeathbone Gauntlets\nDeathbone Girdle\nDeathbone Legguards\nDeathbone Sabatons\n(2) Set : Increased Defense +3.\n(3) Set : +50 Armor.\n(4) Set : +15 All Resistances.\n(5) Set : Increases your chance to parry an attack by 1%." }
+entries[14625] = { ["name"] = "Symbol of Lost Honor", ["text"] = "Quest Item\nUnique\n\"Order of the Silver Hand\"" }
+entries[14626] = { ["name"] = "Necropile Robe", ["text"] = "Binds when picked up\nChest Cloth\n87 Armor\n+22 Stamina\n+12 Intellect\n+12 Spirit\nDurability 80 / 80\nRequires Level 56\nEquip: Increases damage and healing done by magical spells and effects by up to 8.\n\nNecropile Raiment (0/5)\nNecropile Boots\nNecropile Cuffs\nNecropile Leggings\nNecropile Mantle\nNecropile Robe\n(2) Set : Increased Defense +3.\n(3) Set : +5 Intellect.\n(4) Set : +15 All Resistances.\n(5) Set : Increases damage and healing done by magical spells and effects by up to 23." }
+entries[14627] = { ["name"] = "Pattern: Bright Yellow Shirt", ["text"] = "Requires Tailoring (135)\nUse: Teaches you how to sew a Bright Yellow Shirt.\nBright Yellow Shirt\nShirt\nRequires Bolt of Silk Cloth , Yellow Dye , Fine Thread" }
+entries[14628] = { ["name"] = "Imbued Skeletal Fragments", ["text"] = "Quest Item\nUnique" }
+entries[14629] = { ["name"] = "Necropile Cuffs", ["text"] = "Binds when picked up\nWrist Cloth\n38 Armor\n+12 Stamina\n+11 Intellect\n+7 Spirit\nDurability 30 / 30\nRequires Level 56\n\nNecropile Raiment (0/5)\nNecropile Boots\nNecropile Cuffs\nNecropile Leggings\nNecropile Mantle\nNecropile Robe\n(2) Set : Increased Defense +3.\n(3) Set : +5 Intellect.\n(4) Set : +15 All Resistances.\n(5) Set : Increases damage and healing done by magical spells and effects by up to 23." }
+entries[14630] = { ["name"] = "Pattern: Enchanter's Cowl", ["text"] = "Requires Tailoring (165)\nUse: Teaches you how to sew an Enchanter's Cowl.\nEnchanter's Cowl\nBinds when equipped\nHead Cloth\n37 Armor\n+10 Intellect\n+6 Spirit\nDurability 45 / 45\nRequires Level 28\nRequires Bolt of Silk Cloth (3), Fine Thread (2), Thick Spider's Silk (2)" }
+entries[14631] = { ["name"] = "Necropile Boots", ["text"] = "Binds when picked up\nFeet Cloth\n60 Armor\n+15 Stamina\n+10 Intellect\n+9 Spirit\nDurability 40 / 40\nRequires Level 56\nEquip: Increases damage and healing done by magical spells and effects by up to 11.\n\nNecropile Raiment (0/5)\nNecropile Boots\nNecropile Cuffs\nNecropile Leggings\nNecropile Mantle\nNecropile Robe\n(2) Set : Increased Defense +3.\n(3) Set : +5 Intellect.\n(4) Set : +15 All Resistances.\n(5) Set : Increases damage and healing done by magical spells and effects by up to 23." }
+entries[14632] = { ["name"] = "Necropile Leggings", ["text"] = "Binds when picked up\nLegs Cloth\n76 Armor\n+21 Stamina\n+18 Intellect\n+12 Spirit\nDurability 65 / 65\nRequires Level 56\n\nNecropile Raiment (0/5)\nNecropile Boots\nNecropile Cuffs\nNecropile Leggings\nNecropile Mantle\nNecropile Robe\n(2) Set : Increased Defense +3.\n(3) Set : +5 Intellect.\n(4) Set : +15 All Resistances.\n(5) Set : Increases damage and healing done by magical spells and effects by up to 23." }
+entries[14633] = { ["name"] = "Necropile Mantle", ["text"] = "Binds when picked up\nShoulder Cloth\n65 Armor\n+17 Stamina\n+11 Intellect\n+9 Spirit\nDurability 50 / 50\nRequires Level 56\n\nNecropile Raiment (0/5)\nNecropile Boots\nNecropile Cuffs\nNecropile Leggings\nNecropile Mantle\nNecropile Robe\n(2) Set : Increased Defense +3.\n(3) Set : +5 Intellect.\n(4) Set : +15 All Resistances.\n(5) Set : Increases damage and healing done by magical spells and effects by up to 23." }
+entries[14634] = { ["name"] = "Recipe: Frost Oil", ["text"] = "Requires Alchemy (200)\nUse: Teaches you how to make Frost Oil.\nFrost Oil\nRequires Level 30\nUse: When applied to a melee weapon it gives a 10% chance of casting Frostbolt at the opponent when it hits. Lasts 30 minutes.\nRequires Khadgar's Whisker (4), Wintersbite (2), Leaded Vial" }
+entries[14635] = { ["name"] = "Pattern: Gem-studded Leather Belt", ["text"] = "Requires Leatherworking (185)\nUse: Teaches you how to craft a Gem-studded Leather Belt.\nGem-studded Leather Belt\nBinds when equipped\nWaist Leather\n65 Armor\n+8 Stamina\n+6 Spirit\nDurability 35 / 35\nRequires Level 32\nUse: Heal yourself for 225 to 375. (1 Hour Cooldown)\nRequires Cured Heavy Hide (4), Iridescent Pearl (2), Jade (2), Citrine , Fine Thread" }
+entries[14636] = { ["name"] = "Cadaverous Belt", ["text"] = "Binds when picked up\nWaist Leather\n97 Armor\n+12 Stamina\nDurability 35 / 35\nRequires Level 56\nEquip: +40 Attack Power.\n\nCadaverous Garb (0/5)\nCadaverous Armor\nCadaverous Belt\nCadaverous Gloves\nCadaverous Leggings\nCadaverous Walkers\n(2) Set : Increased Defense +3.\n(3) Set : +10 Attack Power.\n(4) Set : +15 All Resistances.\n(5) Set : Improves your chance to hit by 2%." }
+entries[14637] = { ["name"] = "Cadaverous Armor", ["text"] = "Binds when picked up\nChest Leather\n172 Armor\n+8 Strength\n+8 Agility\nDurability 100 / 100\nRequires Level 56\nEquip: +60 Attack Power.\n\nCadaverous Garb (0/5)\nCadaverous Armor\nCadaverous Belt\nCadaverous Gloves\nCadaverous Leggings\nCadaverous Walkers\n(2) Set : Increased Defense +3.\n(3) Set : +10 Attack Power.\n(4) Set : +15 All Resistances.\n(5) Set : Improves your chance to hit by 2%." }
+entries[14638] = { ["name"] = "Cadaverous Leggings", ["text"] = "Binds when picked up\nLegs Leather\n150 Armor\n+18 Stamina\nDurability 75 / 75\nRequires Level 56\nEquip: +52 Attack Power.\n\nCadaverous Garb (0/5)\nCadaverous Armor\nCadaverous Belt\nCadaverous Gloves\nCadaverous Leggings\nCadaverous Walkers\n(2) Set : Increased Defense +3.\n(3) Set : +10 Attack Power.\n(4) Set : +15 All Resistances.\n(5) Set : Improves your chance to hit by 2%." }
+entries[14639] = { ["name"] = "Schematic: Minor Recombobulator", ["text"] = "Requires Engineering (140)\nUse: Teaches you how to make a Minor Recombobulator.\nMinor Recombobulator\nTrinket\nRequires Engineering (140)\nUse: Dispels Polymorph effects on a friendly target. Also restores 150 to 250 health and mana. (5 Min Cooldown)\n10 Charges\nRequires Bronze Tube , Whirring Bronze Gizmo (2), Medium Leather (2), Moss Agate" }
+entries[14640] = { ["name"] = "Cadaverous Gloves", ["text"] = "Binds when picked up\nHands Leather\n107 Armor\n+9 Stamina\nDurability 35 / 35\nRequires Level 56\nEquip: +44 Attack Power.\n\nCadaverous Garb (0/5)\nCadaverous Armor\nCadaverous Belt\nCadaverous Gloves\nCadaverous Leggings\nCadaverous Walkers\n(2) Set : Increased Defense +3.\n(3) Set : +10 Attack Power.\n(4) Set : +15 All Resistances.\n(5) Set : Improves your chance to hit by 2%." }
+entries[14641] = { ["name"] = "Cadaverous Walkers", ["text"] = "Binds when picked up\nFeet Leather\n118 Armor\n+20 Stamina\nDurability 50 / 50\nRequires Level 56\nEquip: +24 Attack Power.\n\nCadaverous Garb (0/5)\nCadaverous Armor\nCadaverous Belt\nCadaverous Gloves\nCadaverous Leggings\nCadaverous Walkers\n(2) Set : Increased Defense +3.\n(3) Set : +10 Attack Power.\n(4) Set : +15 All Resistances.\n(5) Set : Improves your chance to hit by 2%." }
+entries[14644] = { ["name"] = "Skeleton Key Mold", ["text"] = "Quest Item\nUnique\nUse: Fill with lava from the top of Fire Plume RIdge in Un'Goro and two Thorium Bars to create an Unfinished Skeleton Key." }
+entries[14645] = { ["name"] = "Unfinished Skeleton Key", ["text"] = "Quest Item\nUnique\n\"This key is missing its head.\"" }
+entries[14646] = { ["name"] = "Northshire Gift Voucher", ["text"] = "Quest Item\nThis Item Begins a Quest" }
+entries[14647] = { ["name"] = "Coldridge Valley Gift Voucher", ["text"] = "Quest Item\nThis Item Begins a Quest" }
+entries[14648] = { ["name"] = "Shadowglen Gift Voucher", ["text"] = "Quest Item\nThis Item Begins a Quest" }
+entries[14649] = { ["name"] = "Valley of Trials Gift Voucher", ["text"] = "Quest Item\nThis Item Begins a Quest" }
+entries[14650] = { ["name"] = "Camp Narache Gift Voucher", ["text"] = "Quest Item\nThis Item Begins a Quest" }
+entries[14651] = { ["name"] = "Deathknell Gift Voucher", ["text"] = "Quest Item\nThis Item Begins a Quest" }
+entries[14652] = { ["name"] = "Scorpashi Sash", ["text"] = "Binds when equipped\nWaist Leather\n68 Armor\n+4 Strength\n+10 Agility\n+7 Stamina\nDurability 30 / 30\nRequires Level 40" }
+entries[14653] = { ["name"] = "Scorpashi Slippers", ["text"] = "Binds when equipped\nFeet Leather\n85 Armor\n+13 Agility\n+3 Stamina\nDurability 45 / 45\nRequires Level 41" }
+entries[14654] = { ["name"] = "Scorpashi Wristbands", ["text"] = "Binds when equipped\nWrist Leather\n52 Armor\n+6 Agility\n+7 Stamina\n+1 Intellect\nDurability 30 / 30\nRequires Level 39" }
+entries[14655] = { ["name"] = "Scorpashi Breastplate", ["text"] = "Binds when equipped\nChest Leather\n131 Armor\n+17 Agility\n+8 Stamina\n+4 Spirit\nDurability 85 / 85\nRequires Level 44" }
+entries[14656] = { ["name"] = "Scorpashi Cape", ["text"] = "Binds when equipped\nBack\n29 Armor\n+2 Strength\n+5 Agility\n+7 Stamina\nRequires Level 39" }
+entries[14657] = { ["name"] = "Scorpashi Gloves", ["text"] = "Binds when equipped\nHands Leather\n77 Armor\n+4 Agility\n+12 Spirit\nDurability 30 / 30\nRequires Level 41" }
+entries[14658] = { ["name"] = "Scorpashi Skullcap", ["text"] = "Binds when equipped\nHead Leather\n106 Armor\n+3 Strength\n+14 Agility\n+13 Stamina\nDurability 50 / 50\nRequires Level 44" }
+entries[14659] = { ["name"] = "Scorpashi Leggings", ["text"] = "Binds when equipped\nLegs Leather\n110 Armor\n+15 Agility\n+10 Stamina\nDurability 65 / 65\nRequires Level 42" }
+entries[14660] = { ["name"] = "Scorpashi Shoulder Pads", ["text"] = "Binds when equipped\nShoulder Leather\n95 Armor\n+6 Strength\n+7 Agility\n+10 Stamina\nDurability 50 / 50\nRequires Level 42" }
+entries[14661] = { ["name"] = "Keeper's Cord", ["text"] = "Binds when equipped\nWaist Leather\n74 Armor\n+6 Strength\n+7 Intellect\n+9 Spirit\nDurability 30 / 30\nRequires Level 44" }
+entries[14662] = { ["name"] = "Keeper's Hooves", ["text"] = "Binds when equipped\nFeet Leather\n93 Armor\n+3 Strength\n+12 Agility\n+6 Stamina\nDurability 45 / 45\nRequires Level 46" }
+entries[14663] = { ["name"] = "Keeper's Bindings", ["text"] = "Binds when equipped\nWrist Leather\n56 Armor\n+9 Stamina\n+5 Spirit\nDurability 30 / 30\nRequires Level 43" }
+entries[14664] = { ["name"] = "Keeper's Armor", ["text"] = "Binds when equipped\nChest Leather\n142 Armor\n+5 Agility\n+9 Stamina\n+18 Spirit\nDurability 85 / 85\nRequires Level 49" }
+entries[14665] = { ["name"] = "Keeper's Cloak", ["text"] = "Binds when equipped\nBack\n31 Armor\n+3 Stamina\n+10 Intellect\nRequires Level 43" }
+entries[14666] = { ["name"] = "Keeper's Gloves", ["text"] = "Binds when equipped\nHands Leather\n84 Armor\n+11 Intellect\n+10 Spirit\nDurability 30 / 30\nRequires Level 46" }
+entries[14667] = { ["name"] = "Keeper's Wreath", ["text"] = "Binds when equipped\nHead Leather\n113 Armor\n+10 Stamina\n+10 Intellect\n+16 Spirit\nDurability 50 / 50\nRequires Level 48" }
+entries[14668] = { ["name"] = "Keeper's Woolies", ["text"] = "Binds when equipped\nLegs Leather\n120 Armor\n+19 Agility\n+7 Stamina\n+3 Spirit\nDurability 65 / 65\nRequires Level 47" }
+entries[14669] = { ["name"] = "Keeper's Mantle", ["text"] = "Binds when equipped\nShoulder Leather\n101 Armor\n+6 Stamina\n+14 Intellect\nDurability 50 / 50\nRequires Level 46" }
+entries[14670] = { ["name"] = "Pridelord Armor", ["text"] = "Binds when equipped\nChest Leather\n152 Armor\n+24 Agility\n+5 Stamina\nDurability 85 / 85\nRequires Level 54" }
+entries[14671] = { ["name"] = "Pridelord Boots", ["text"] = "Binds when equipped\nFeet Leather\n100 Armor\n+4 Strength\n+14 Stamina\n+7 Spirit\nDurability 45 / 45\nRequires Level 51" }
+entries[14672] = { ["name"] = "Pridelord Bands", ["text"] = "Binds when equipped\nWrist Leather\n61 Armor\n+5 Strength\n+10 Agility\n+3 Stamina\nDurability 30 / 30\nRequires Level 48" }
+entries[14673] = { ["name"] = "Pridelord Cape", ["text"] = "Binds when equipped\nBack\n34 Armor\n+3 Strength\n+9 Agility\n+5 Stamina\nRequires Level 47" }
+entries[14674] = { ["name"] = "Pridelord Girdle", ["text"] = "Binds when equipped\nWaist Leather\n81 Armor\n+4 Strength\n+12 Agility\n+8 Stamina\nDurability 30 / 30\nRequires Level 50" }
+entries[14675] = { ["name"] = "Pridelord Gloves", ["text"] = "Binds when equipped\nHands Leather\n91 Armor\n+7 Strength\n+12 Agility\n+8 Stamina\nDurability 30 / 30\nRequires Level 51" }
+entries[14676] = { ["name"] = "Pridelord Halo", ["text"] = "Binds when equipped\nHead Leather\n122 Armor\n+17 Agility\n+14 Stamina\n+6 Spirit\nDurability 50 / 50\nRequires Level 53" }
+entries[14677] = { ["name"] = "Pridelord Pants", ["text"] = "Binds when equipped\nLegs Leather\n131 Armor\n+3 Strength\n+23 Agility\n+4 Stamina\nDurability 65 / 65\nRequires Level 53" }
+entries[14678] = { ["name"] = "Pridelord Pauldrons", ["text"] = "Binds when equipped\nShoulder Leather\n111 Armor\n+16 Agility\n+2 Stamina\n+4 Spirit\nDurability 50 / 50\nRequires Level 52" }
+entries[14679] = { ["name"] = "Of Love and Family", ["text"] = "Quest Item\nUnique\n\"The picture brings a smile to your face.\"\n<Right Click to Read>" }
+entries[14680] = { ["name"] = "Indomitable Vest", ["text"] = "Binds when equipped\nChest Leather\n163 Armor\n+5 Stamina\n+9 Intellect\n+23 Spirit\nDurability 85 / 85\nRequires Level 59" }
+entries[14681] = { ["name"] = "Indomitable Boots", ["text"] = "Binds when equipped\nFeet Leather\n109 Armor\n+16 Agility\n+6 Stamina\n+5 Spirit\nDurability 45 / 45\nRequires Level 57" }
+entries[14682] = { ["name"] = "Indomitable Armguards", ["text"] = "Binds when equipped\nWrist Leather\n67 Armor\n+12 Intellect\n+5 Spirit\nDurability 30 / 30\nRequires Level 54" }
+entries[14683] = { ["name"] = "Indomitable Cloak", ["text"] = "Binds when equipped\nBack\n38 Armor\n+3 Stamina\n+13 Spirit\nRequires Level 54" }
+entries[14684] = { ["name"] = "Indomitable Belt", ["text"] = "Binds when equipped\nWaist Leather\n87 Armor\n+6 Stamina\n+17 Intellect\nDurability 30 / 30\nRequires Level 55" }
+entries[14685] = { ["name"] = "Indomitable Gauntlets", ["text"] = "Binds when equipped\nHands Leather\n99 Armor\n+13 Stamina\n+14 Intellect\nDurability 30 / 30\nRequires Level 57" }
+entries[14686] = { ["name"] = "Indomitable Headdress", ["text"] = "Binds when equipped\nHead Leather\n130 Armor\n+9 Stamina\n+15 Intellect\n+18 Spirit\nDurability 50 / 50\nRequires Level 58" }
+entries[14687] = { ["name"] = "Indomitable Leggings", ["text"] = "Binds when equipped\nLegs Leather\n138 Armor\n+15 Stamina\n+18 Intellect\n+7 Spirit\nDurability 65 / 65\nRequires Level 57" }
+entries[14688] = { ["name"] = "Indomitable Epaulets", ["text"] = "Binds when equipped\nShoulder Leather\n117 Armor\n+18 Intellect\n+5 Spirit\nDurability 50 / 50\nRequires Level 56" }
+entries[14722] = { ["name"] = "War Paint Anklewraps", ["text"] = "Binds when equipped\nFeet Mail\n109 Armor\n+2 Strength\n+2 Stamina\nDurability 40 / 40\nRequires Level 12" }
+entries[14723] = { ["name"] = "War Paint Bindings", ["text"] = "Binds when equipped\nWrist Mail\n69 Armor\n+3 Stamina\nDurability 25 / 25\nRequires Level 12" }
+entries[14724] = { ["name"] = "War Paint Cloak", ["text"] = "Binds when equipped\nBack\n15 Armor\n+1 Strength\n+1 Agility\n+1 Stamina\nRequires Level 11" }
+entries[14725] = { ["name"] = "War Paint Waistband", ["text"] = "Binds when equipped\nWaist Mail\n89 Armor\n+3 Strength\nDurability 25 / 25\nRequires Level 12" }
+entries[14726] = { ["name"] = "War Paint Gloves", ["text"] = "Binds when equipped\nHands Mail\n101 Armor\n+3 Strength\n+1 Stamina\nDurability 25 / 25\nRequires Level 13" }
+entries[14727] = { ["name"] = "War Paint Legguards", ["text"] = "Binds when equipped\nLegs Mail\n144 Armor\n+3 Strength\n+1 Agility\n+4 Stamina\nDurability 60 / 60\nRequires Level 14" }
+entries[14728] = { ["name"] = "War Paint Shoulder Pads", ["text"] = "Shoulder Mail\n124 Armor\nDurability 50 / 50\nRequires Level 17" }
+entries[14729] = { ["name"] = "War Paint Shield", ["text"] = "Binds when equipped\nOff Hand Shield\n411 Armor\n7 Block\n+2 Strength\n+2 Spirit\nDurability 65 / 65\nRequires Level 15" }
+entries[14730] = { ["name"] = "War Paint Chestpiece", ["text"] = "Binds when equipped\nChest Mail\n177 Armor\n+6 Strength\n+4 Stamina\nDurability 90 / 90\nRequires Level 18" }
+entries[14742] = { ["name"] = "Hulking Boots", ["text"] = "Binds when equipped\nFeet Mail\n124 Armor\n+4 Strength\n+4 Stamina\nDurability 45 / 45\nRequires Level 19" }
+entries[14743] = { ["name"] = "Hulking Bands", ["text"] = "Binds when equipped\nWrist Mail\n76 Armor\n+3 Stamina\n+2 Spirit\nDurability 30 / 30\nRequires Level 17" }
+entries[14744] = { ["name"] = "Hulking Chestguard", ["text"] = "Binds when equipped\nChest Mail\n192 Armor\n+5 Strength\n+8 Stamina\nDurability 100 / 100\nRequires Level 23" }
+entries[14745] = { ["name"] = "Hulking Cloak", ["text"] = "Binds when equipped\nBack\n17 Armor\n+1 Strength\n+3 Stamina\nRequires Level 15" }
+entries[14746] = { ["name"] = "Hulking Belt", ["text"] = "Binds when equipped\nWaist Mail\n98 Armor\n+5 Strength\nDurability 30 / 30\nRequires Level 17" }
+entries[14747] = { ["name"] = "Hulking Gauntlets", ["text"] = "Binds when equipped\nHands Mail\n110 Armor\n+5 Strength\n+2 Agility\n+1 Stamina\nDurability 30 / 30\nRequires Level 18" }
+entries[14748] = { ["name"] = "Hulking Leggings", ["text"] = "Binds when equipped\nLegs Mail\n160 Armor\n+8 Strength\n+3 Agility\nDurability 70 / 70\nRequires Level 20" }
+entries[14749] = { ["name"] = "Hulking Spaulders", ["text"] = "Binds when equipped\nShoulder Mail\n139 Armor\n+4 Strength\n+2 Spirit\nDurability 55 / 55\nRequires Level 21" }
+entries[14750] = { ["name"] = "Slayer's Cuffs", ["text"] = "Binds when equipped\nWrist Mail\n84 Armor\n+4 Strength\n+4 Stamina\nDurability 35 / 35\nRequires Level 23" }
+entries[14751] = { ["name"] = "Slayer's Surcoat", ["text"] = "Binds when equipped\nChest Mail\n207 Armor\n+10 Strength\n+3 Agility\n+5 Stamina\nDurability 100 / 100\nRequires Level 28" }
+entries[14752] = { ["name"] = "Slayer's Cape", ["text"] = "Binds when equipped\nBack\n20 Armor\n+4 Strength\n+3 Stamina\nRequires Level 22" }
+entries[14753] = { ["name"] = "Slayer's Skullcap", ["text"] = "Binds when equipped\nHead Mail\n168 Armor\n+9 Strength\n+3 Agility\n+7 Stamina\nDurability 60 / 60\nRequires Level 28" }
+entries[14754] = { ["name"] = "Slayer's Gloves", ["text"] = "Binds when equipped\nHands Mail\n122 Armor\n+6 Stamina\n+5 Spirit\nDurability 35 / 35\nRequires Level 24" }
+entries[14755] = { ["name"] = "Slayer's Sash", ["text"] = "Binds when equipped\nWaist Mail\n108 Armor\n+6 Strength\n+4 Stamina\nDurability 35 / 35\nRequires Level 23" }
+entries[14756] = { ["name"] = "Slayer's Slippers", ["text"] = "Binds when equipped\nFeet Mail\n134 Armor\n+6 Strength\n+4 Spirit\nDurability 50 / 50\nRequires Level 24" }
+entries[14757] = { ["name"] = "Slayer's Pants", ["text"] = "Binds when equipped\nLegs Mail\n179 Armor\n+11 Strength\n+3 Stamina\n+1 Spirit\nDurability 75 / 75\nRequires Level 27" }
+entries[14758] = { ["name"] = "Slayer's Shoulder Pads", ["text"] = "Binds when equipped\nShoulder Mail\n151 Armor\n+3 Strength\n+5 Stamina\nDurability 60 / 60\nRequires Level 26" }
+entries[14759] = { ["name"] = "Enduring Bracers", ["text"] = "Binds when equipped\nWrist Mail\n92 Armor\n+3 Strength\n+2 Agility\n+5 Stamina\nDurability 35 / 35\nRequires Level 29" }
+entries[14760] = { ["name"] = "Enduring Breastplate", ["text"] = "Binds when equipped\nChest Mail\n227 Armor\n+12 Strength\n+7 Stamina\n+3 Spirit\nDurability 100 / 100\nRequires Level 34" }
+entries[14761] = { ["name"] = "Enduring Belt", ["text"] = "Binds when equipped\nWaist Mail\n118 Armor\n+6 Strength\n+3 Stamina\nDurability 35 / 35\nRequires Level 29" }
+entries[14762] = { ["name"] = "Enduring Boots", ["text"] = "Binds when equipped\nFeet Mail\n151 Armor\n+4 Strength\n+8 Stamina\n+1 Spirit\nDurability 50 / 50\nRequires Level 32" }
+entries[14763] = { ["name"] = "Enduring Cape", ["text"] = "Binds when equipped\nBack\n22 Armor\n+2 Strength\n+2 Agility\n+7 Stamina\nRequires Level 27" }
+entries[14764] = { ["name"] = "Enduring Gauntlets", ["text"] = "Binds when equipped\nHands Mail\n133 Armor\n+7 Strength\n+3 Agility\n+5 Stamina\nDurability 35 / 35\nRequires Level 30" }
+entries[14765] = { ["name"] = "Enduring Circlet", ["text"] = "Binds when equipped\nHead Mail\n181 Armor\n+6 Strength\n+3 Agility\n+12 Stamina\nDurability 60 / 60\nRequires Level 33" }
+entries[14766] = { ["name"] = "Enduring Breeches", ["text"] = "Binds when equipped\nLegs Mail\n192 Armor\n+8 Strength\n+8 Agility\n+6 Stamina\nDurability 75 / 75\nRequires Level 32" }
+entries[14767] = { ["name"] = "Enduring Pauldrons", ["text"] = "Binds when equipped\nShoulder Mail\n167 Armor\n+8 Strength\n+7 Stamina\nDurability 60 / 60\nRequires Level 33" }

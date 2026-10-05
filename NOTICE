@@ -69,3 +69,16 @@ Blizzard Entertainment or its licensors. This addon is not affiliated with or
 endorsed by Blizzard Entertainment, and the GNU General Public License above
 applies to this addon's own code and to the material it received under that
 licence, not to Blizzard's underlying content.
+
+Additional source-reference imports, 5 October 2026:
+
+QuestData also carries separately selected Classic/master, TBC and Retail
+source editions. EntityData contains German/English item, spell and NPC names,
+static tooltip prose and roles from MultiLanguage Classic/master. These are
+source learning references, including seasonal records and historical values,
+not verified current-client data. They never replace native quest observations
+or game item/spell statistics. Attribution, author-permission basis reported by
+the project owner, pinned revisions, raw source hashes, normalization and
+exclusions are retained in QuestData/NOTICE and EntityData/NOTICE and their
+source-manifest.json files. Original copyright remains with the respective
+authors and Blizzard; no broader source licence is implied.

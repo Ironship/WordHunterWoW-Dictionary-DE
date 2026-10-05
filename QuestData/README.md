@@ -39,8 +39,9 @@ nonbreaking spaces to ordinary spaces, and repairs two reviewed missing sentence
 spaces (quests 8517 and 9002). Emotes and gender alternatives remain intact.
 
 Native quests archived by the base addon take precedence over the static pack.
-Native Forever cache data here affects only Forever. There is no Retail bucket,
-and the loader leaves the Retail English panel dataset unchanged.
+Native Forever cache data here affects only Forever. The default flavor-qualified
+catalog has no Retail bucket, and its loader leaves the Retail English panel
+dataset unchanged.
 
 Install WordHunterWoW-Dictionary-DE as usual. Its manifests load these files
 after WordHunterWoW and, when present, WordHunterWoW-ENPanel. The final loader
@@ -70,3 +71,49 @@ The importer checks every pinned input SHA256 before writing, keeps nonempty
 fields, writes the load order into both manifests, and can write the exact accepted
 payload outside the addon with `--selection PATH_TO_JSON`. It does not fetch data,
 run a dictionary translator, read player SavedVariables, or install into a client.
+
+The remaining usable source material is available through three separate
+reference libraries: MultiLanguage Classic master (including seasonal material),
+TBC, and Retail. They live in `WordHunterWoW_QuestSources[sourceKey].locales`,
+never in the native Classic/Forever tables. A reference must be explicitly
+selected by the base addon's quest library. Source versions, IDs, and locale
+revisions remain separate; a matching DE/EN ID does not certify matching passages.
+Source records carry `sourceVersionUnverified`, `bilingualPairVerified = false`,
+and `voiceUnavailable` metadata so a native audio clip cannot be presented as a
+verified recording of a different source variant.
+
+Client guards also apply to the source metadata. Classic master is available on
+non-Retail clients (including Forever and SoD), Retail only on Retail, and TBC
+only on clients reporting version 2.x. Unavailable source buckets are absent;
+their text tables are not retained in memory. The source manifest still records
+all packaged source files and input hashes across clients.
+
+Opening descriptions, progress, and hand-in text remain distinct phases.
+Objective text has an authentic `objectives` field only when the independently
+bundled corpus corroborates the exact text in the same flavor and locale.
+Other objective text is `sourceObjective`, an explicitly unverified source-field
+phase; it is not silently appended to an offer as an authentic instruction.
+If an objective exactly duplicates a displayed progress/completion/description
+phase, the duplicate field is omitted and that phase retains the text.
+
+Cleanup removes only an exact appended description or a trailing sequence of
+known empty reward headings. Ambiguous reward concatenations, development/test
+text, unresolved source controls, and German sentence fields identical to their
+English counterpart after the same cleanup are excluded individually. Standard
+`$gMale:Female;` gender macros remain literal for the shared reader's `UnitSex`
+resolution; nested unknown controls are still quarantined. A captured numeric German title
+is omitted while the record's usable German passages remain. Rewards/item lists
+are outside this quest-reading corpus. The full exclusion/recovery lists and
+counts are in `source-manifest.json.referenceSources`.
+
+Reproduce these libraries after the default compatibility import with:
+
+```
+python QuestData/Tools/import_multilanguage_references.py --audit PATH_TO_AUDIT --out QuestData
+```
+
+`--report PATH_TO_JSON` writes full source/exclusion evidence outside the addon;
+`--corpus PATH_TO_JSONL` writes accepted normalized fields for an incremental
+vocabulary-gap check. Neither option translates a word or modifies the existing
+dictionary. `referenceSources.files` provides the exact load order, with
+`ReferenceMetadata.lua` preceding guarded `References/*` chunks.

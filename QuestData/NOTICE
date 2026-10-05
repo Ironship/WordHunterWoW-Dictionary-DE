@@ -36,6 +36,25 @@ Modifications made by Ironship, 5 October 2026:
   * Kept existing wording, native Forever metadata, and dictionary words intact.
     No source-only quest ID, DE-only progress passage, or Retail corpus was added.
 
+Additional explicit source-reference libraries, 5 October 2026:
+  * Classic/seasonal master remains pinned at the revision above, with no
+    automatic inference of live Era or Forever compatibility from quest IDs.
+  * TBC: rubenzantingh/MultiLanguage, branch tbc-classic,
+    fe999319f2c9c4c3cdd1bc60c8ae711c079b175f.
+  * Retail EN: rubenzantingh/MultiLanguage, branch retail,
+    b2e3b0bf1251f30babdb44545adf3957e94d63f6.
+  * Retail DE: rubenzantingh/MultiLanguage-de, branch retail,
+    a54af98d3013271c6f2cac8c5c00bbf4d74185bd.
+
+These are explicitly selected source references, not native quest replacements.
+Their DE/EN passages may represent different versions despite sharing an ID.
+Uncorroborated objectives are a separate source-field phase; development/unused
+text, uncertain UI concatenations and unresolved controls are excluded per field.
+Only exact description suffixes and trailing empty reward headings are removed.
+Client guards retain only the applicable source libraries, without creating
+empty foreign-client buckets. Author permission reported by the project owner
+also covers these databases; upstream material is not relicensed by this addon.
+
 The per-field provenance, accepted IDs, source/input hashes, and generated file
 hashes are recorded in source-manifest.json. Raw source remains retrievable from
 the pinned revision; these are static compatibility candidates, not live-certified

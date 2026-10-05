@@ -14,6 +14,9 @@ ignore:
   - curseforge
   - Tools
   - QuestData/Tools
+  - EntityData/Tools
+  - EntityData/tests
+  - EntityData/Source
   - Data/cache
   - Data/CuratedDE.jsonl
   - Data/quest_ids.csv
