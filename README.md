@@ -8,17 +8,19 @@ This is a ready-made German→English glossary built from real quest text, so th
 
 ## Hand-checked core
 
-The original **73,863** Retail words were read against the quest sentence they appear in — not machine output. The pack now holds **104,295** entries: Classic-only vocabulary and words collected in game sit on top of that reviewed core.
+The original **73,863** Retail words were read against the quest sentence they appear in — not machine output. The pack now holds **121,853** entries. Its previous **104,295** entries are preserved, with **17,558** incremental entries from the expanded public corpus added on top. The new entries use filtered machine glosses, unambiguous DE/EN source names and contextual corrections; they have not all received individual human semantic review.
 
 `Höllenhorde` is Fel Horde, not "Hell Horde". `bekommen` means to receive, never to become. `hinter'm` is "behind the", not "behind me".
 
 ## It speaks, too
 
-Click a word and hear it said. **104,295 recordings**, one for every entry,
+Click a recorded word and hear it said. **104,295 recordings** cover the original entries,
 read from German by a neural voice and checked one by one against the word
 they were asked for. The reader is in this addon — five Lua files and
 `sounds/` — so there is nothing else to install and no separate engine to
 find.
+
+The 17,558 new glossary entries do not yet have generated word recordings. Adding dictionary translations does not generate audio.
 
 If you have the older separate downloads, remove them: the *German Voiceover*
 engine addon and the *Voiceover: Words* pack are both inside this one now, and
