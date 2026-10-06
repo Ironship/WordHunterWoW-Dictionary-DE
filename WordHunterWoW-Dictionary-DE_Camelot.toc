@@ -1,4 +1,4 @@
-## Interface: 120100, 120105, 16001
+## Interface: 16001
 ## Title: QuestWordHunter - German Dictionary |cff59aefa+ Voice + Quests|r
 ## Notes: German-English dictionary, German word voice, and DE/EN Classic/Forever quest texts.
 ## IconTexture: Interface\AddOns\WordHunterWoW-Dictionary-DE\icon
