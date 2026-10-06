@@ -1,0 +1,1469 @@
+[
+  {
+    "key": "kürassiers",
+    "word": "Kürassiers",
+    "path": "sounds/w/95/95d63bc3cfe09bb4.ogg",
+    "sha256": "f21dee847d031cd393c360e029a91c49ef3a07c256ba3fce580f4863037dc5e9",
+    "reason": [
+      "many"
+    ],
+    "heard": "Klara Cies"
+  },
+  {
+    "key": "dämmerpirschers",
+    "word": "Dämmerpirschers",
+    "path": "sounds/w/cc/cc2df7fac3cf52eb.ogg",
+    "sha256": "32d753f958e723badfc728c50ba78943f6be5e8e95bd7ae3cf0233e2d8b9f19a",
+    "reason": [
+      "many"
+    ],
+    "heard": "Demma Pierschas"
+  },
+  {
+    "key": "schimärenschuss",
+    "word": "Schimärenschuss",
+    "path": "sounds/w/90/9077e7ca23853433.ogg",
+    "sha256": "1fdaddd6c101ffa15fd8190e8491a6880bce944bd861c65b16734bdd49adeda0",
+    "reason": [
+      "clipped"
+    ],
+    "heard": "Chimärenschuss"
+  },
+  {
+    "key": "vipernbiss",
+    "word": "Vipernbiss",
+    "path": "sounds/w/43/435c01940fedb85d.ogg",
+    "sha256": "62198f69af669a57762e15acb75db42c3c3ca312b0f250ab09dabcba6b2adced",
+    "reason": [
+      "many"
+    ],
+    "heard": "Wie Panbis"
+  },
+  {
+    "key": "faulender",
+    "word": "Faulender",
+    "path": "sounds/w/9a/9a8be4e15bf97bda.ogg",
+    "sha256": "cd4f65f906ccac81ff13112f59da956280715ade4c61a853d1bd145bf458721d",
+    "reason": [
+      "many"
+    ],
+    "heard": "Saul and Julia"
+  },
+  {
+    "key": "alptraum-acht",
+    "word": "Alptraum-Acht",
+    "path": "sounds/w/c4/c4aaed2ac958f269.ogg",
+    "sha256": "8c591f5766a532cb71fe3323f5a2c1efeab7d1c0b652904d3c10c65423411211",
+    "reason": [
+      "many"
+    ],
+    "heard": "Albtraum 8"
+  },
+  {
+    "key": "bisses",
+    "word": "Bisses",
+    "path": "sounds/w/7c/7c9a77f2ceac9cff.ogg",
+    "sha256": "d69865f1b162905907ae1f942fb29ae9dd7e09dac6db2c18a7e808800bd3efa6",
+    "reason": [
+      "too_long",
+      "many"
+    ],
+    "heard": "Dieses nennt Wichita Spondanen den Fischen."
+  },
+  {
+    "key": "schimärenleder",
+    "word": "Schimärenleder",
+    "path": "sounds/w/bc/bcb7715dbd7b2226.ogg",
+    "sha256": "b5ed6f4998b54db2a69bc5aa488507b781563a0d694960ba542b0fdbda476dba",
+    "reason": [
+      "clipped"
+    ],
+    "heard": "Chimärenleder"
+  },
+  {
+    "key": "vilebranchtrolle",
+    "word": "Vilebranchtrolle",
+    "path": "sounds/w/81/81c869296615b028.ogg",
+    "sha256": "4e9aa754a18c4f21a9aa0624a5435d7dfed0e139f4981d9c61acb42edd9002bf",
+    "reason": [
+      "many"
+    ],
+    "heard": "Wie eine Brunstrolle."
+  },
+  {
+    "key": "ähhh",
+    "word": "Ähhh",
+    "path": "sounds/w/45/457835bef181f721.ogg",
+    "sha256": "2bf11daf34ec10f86ab5219131ada26ce00ee9086ad766b041434ef5324d8e99",
+    "reason": [
+      "clipped"
+    ],
+    "heard": "Äh."
+  },
+  {
+    "key": "crushridge-oger",
+    "word": "Crushridge-Oger",
+    "path": "sounds/w/d6/d63130abc2376500.ogg",
+    "sha256": "f6073e808f9b1734bc078ab09c66a0c81525748947cc51b1d7cf7347b0f7aeb1",
+    "reason": [
+      "many"
+    ],
+    "heard": "Crush Rich Uga"
+  },
+  {
+    "key": "i-i-ihr",
+    "word": "I-I-Ihr",
+    "path": "sounds/w/bf/bfdb91163405d7b1.ogg",
+    "sha256": "83533c8243ae32cb27946c60c42db5c89f6d65109381cf080e9a5cc7dc680628",
+    "reason": [
+      "too_long",
+      "many"
+    ],
+    "heard": "»Ei, ich halte dich, du kannst was nicht machen.«  »Lerner, wenn du nicht mehr so gut bist.«"
+  },
+  {
+    "key": "käpt’n",
+    "word": "Käpt’n",
+    "path": "sounds/w/b2/b2a985b0f3c2790b.ogg",
+    "sha256": "ff05e57e9890131085ebecb54a0d9e23a71e562332716f464e1f7be54a916a6d",
+    "reason": [
+      "many"
+    ],
+    "heard": "Kept N1-Bahn-Im."
+  },
+  {
+    "key": "erdriss",
+    "word": "Erdriss",
+    "path": "sounds/w/c4/c49eb8359cf222fa.ogg",
+    "sha256": "0303e72404dd4a1f15c2cdd60168d90d93d4f0b4dd8d202be179bd0cf708dbb4",
+    "reason": [
+      "clipped"
+    ],
+    "heard": "Erdris"
+  },
+  {
+    "key": "m-m-mich",
+    "word": "m-m-mich",
+    "path": "sounds/w/f2/f2d90d4cc87ab8e1.ogg",
+    "sha256": "531fd3082de56480ae6aa699acee80a97503e6e2afabdf296d44773d02f8dc45",
+    "reason": [
+      "many"
+    ],
+    "heard": "Im, im Miss, Miss."
+  },
+  {
+    "key": "murlocei",
+    "word": "Murlocei",
+    "path": "sounds/w/ee/eeb04c41403b2720.ogg",
+    "sha256": "1157a2d539b924e60ea99c7f033ac2e5fb32961d1dd6fd7f3f30a222b3eef382",
+    "reason": [
+      "many"
+    ],
+    "heard": "Mono zu Ei."
+  },
+  {
+    "key": "myrmidone",
+    "word": "Myrmidone",
+    "path": "sounds/w/33/33b1ea95af65484e.ogg",
+    "sha256": "5c716872793bf203320029296ed270d2e1f2e988fac0afa9b05d9674aaa662fe",
+    "reason": [
+      "clipped"
+    ],
+    "heard": "Myrmidon"
+  },
+  {
+    "key": "trogg-plage",
+    "word": "Trogg-Plage",
+    "path": "sounds/w/37/378b70188f40c12b.ogg",
+    "sha256": "71278aa9a7c46901ede65dbaca53ff2dcf9c42210707d60030327c5812f850f5",
+    "reason": [
+      "many"
+    ],
+    "heard": "Rock Plash."
+  },
+  {
+    "key": "voodooumhang",
+    "word": "Voodooumhang",
+    "path": "sounds/w/f2/f268f145642f4374.ogg",
+    "sha256": "63880b3699806a2122890a8553c8d5a33cfc5eca742fce5459c59ed00eebaed0",
+    "reason": [
+      "many"
+    ],
+    "heard": "Wut umhang."
+  },
+  {
+    "key": "w-w-wie",
+    "word": "w-w-wie",
+    "path": "sounds/w/2a/2ab65570408b7287.ogg",
+    "sha256": "0c1ff6dc09fe8e69902d19c0b6fb9256bee2cfbca46fb08c3323dc305665a5d0",
+    "reason": [
+      "many"
+    ],
+    "heard": "Wie? Wie wie?"
+  },
+  {
+    "key": "y-y-yetis",
+    "word": "Y-Y-Yetis",
+    "path": "sounds/w/19/1997ae69c3687a3e.ogg",
+    "sha256": "65898cadb08151c514853ac1c79f142eee356a1f90603f63ed63fed973c5a3b0",
+    "reason": [
+      "many"
+    ],
+    "heard": "y1.jtis"
+  },
+  {
+    "key": "thoriumerz",
+    "word": "Thoriumerz",
+    "path": "sounds/w/0e/0e09bc1c758665cd.ogg",
+    "sha256": "de391ec07143a46005df73e3c154c770a2e1fc8ca2d2835737ee42ac3e556622",
+    "reason": [
+      "many"
+    ],
+    "heard": "Huryo Matsut"
+  },
+  {
+    "key": "batet",
+    "word": "batet",
+    "path": "sounds/w/0a/0a0843f935972e6e.ogg",
+    "sha256": "b60e1a10c66693a7bdc714ee50eb03b18fe32fd423ae5807a9a3d9345d10b3ab",
+    "reason": [
+      "too_long",
+      "many"
+    ],
+    "heard": "Wartet von...  ...Déjà-Anne darauf, nicht zu nennen, die reiche da Attentäter.  Eier, da hält sie sich ja für kürzest."
+  },
+  {
+    "key": "beiassen",
+    "word": "beIassen",
+    "path": "sounds/w/78/7893479fe719ad12.ogg",
+    "sha256": "31422d470801d0748774a40b5f8f1c7fe91aeb6ca02e34f335f4e208de2458b6",
+    "reason": [
+      "too_long",
+      "different"
+    ],
+    "heard": "Erkissen muss er jetzt vielleicht,  wenn man hat sich schon zwei Mal  durch den Eindruck verstanden,  beeißen."
+  },
+  {
+    "key": "bitteeeeee",
+    "word": "Bitteeeeee",
+    "path": "sounds/w/5f/5f7d6b56cffef9cf.ogg",
+    "sha256": "e8c67ed90eed96c0022247dda3502d0723792bb01e92496fafddc29989ea50b2",
+    "reason": [
+      "clipped"
+    ],
+    "heard": "Bitte ee."
+  },
+  {
+    "key": "fürrrr",
+    "word": "Fürrrr",
+    "path": "sounds/w/31/310d135ee7b8e541.ogg",
+    "sha256": "e169197512ab759db3f7e52bf9a8cb5191d3abe8b3d6c1ce6646a8cace621401",
+    "reason": [
+      "clipped"
+    ],
+    "heard": "für"
+  },
+  {
+    "key": "geht‘s",
+    "word": "geht‘s",
+    "path": "sounds/w/fb/fbf784521909c7bf.ogg",
+    "sha256": "588ce122309487586b51348fc36e1bee8832e2f74a47feea619ffb54eaa46821",
+    "reason": [
+      "too_long",
+      "different"
+    ],
+    "heard": "Geht hin, steigen, wandelt, ich hab hier nicht die Zubehörmachpapier.  Geht hin, steigen, wandelt, ich hab hier nicht die Zubehörmachpapier."
+  },
+  {
+    "key": "gni'kiv-medaillon",
+    "word": "Gni'kiv-Medaillon",
+    "path": "sounds/w/5c/5c6302aadaa29481.ogg",
+    "sha256": "41f30956484e276fca7683c6074cbdaf7029ffa7884b8f4d83dc052ac879f932",
+    "reason": [
+      "many"
+    ],
+    "heard": "Die nächste Medaille."
+  },
+  {
+    "key": "golemarmee",
+    "word": "Golemarmee",
+    "path": "sounds/w/e9/e9f12559c92a7f50.ogg",
+    "sha256": "f7f12f452f6a80f51ae94e575b8f9a368e75b48f54fa08c8f6e4275e79691c98",
+    "reason": [
+      "many"
+    ],
+    "heard": "Gulli Mamey"
+  },
+  {
+    "key": "grunzers",
+    "word": "Grunzers",
+    "path": "sounds/w/62/62623fc51cb67b98.ogg",
+    "sha256": "4c2fea066c8b9ddbc2d137f97e7d5507a67c52560336144a6ad36f379d98ec18",
+    "reason": [
+      "too_long",
+      "many"
+    ],
+    "heard": "Grundsatz, Filio, Madim Sektivariao."
+  },
+  {
+    "key": "habt'er",
+    "word": "habt'er",
+    "path": "sounds/w/5a/5ab5b5ba4b5bd5c5.ogg",
+    "sha256": "882ed447f9664f3c7237489344da6e55ee783beff6f40122e73e43e76c24e4fa",
+    "reason": [
+      "many"
+    ],
+    "heard": "Hab da..."
+  },
+  {
+    "key": "hundertundzehnprozentig",
+    "word": "hundertundzehnprozentig",
+    "path": "sounds/w/1c/1c2d6a9793a09560.ogg",
+    "sha256": "0db16556530b4075eaff430386a65ce353c9f083078eb957b118d3248ac6d20a",
+    "reason": [
+      "many"
+    ],
+    "heard": "110%ig"
+  },
+  {
+    "key": "immmmerrrr",
+    "word": "immmmerrrr",
+    "path": "sounds/w/ac/accbadbf61b10a52.ogg",
+    "sha256": "6dd0129f9a47a8bf485a5428c96d9cebade505f6b793ee421f4e164e087b92e7",
+    "reason": [
+      "many"
+    ],
+    "heard": "Immer mehr."
+  },
+  {
+    "key": "miiiiiiiiich",
+    "word": "miiiiiiiiich",
+    "path": "sounds/w/0b/0bdb9aa0a4228055.ogg",
+    "sha256": "4ac02c4faf05dcf7022a58fb25092814aea1813cc750704127682f6009988de8",
+    "reason": [
+      "clipped"
+    ],
+    "heard": "I, I, I, I."
+  },
+  {
+    "key": "mmmmmmmmm",
+    "word": "Mmmmmmmmm",
+    "path": "sounds/w/4d/4d91fd50d2cafdab.ogg",
+    "sha256": "1d0aea3735f82fefb91338fa8a25ad16c650f74626a5e38fa98eb71f48f3a5a5",
+    "reason": [
+      "filler",
+      "different"
+    ],
+    "heard": "Mhm."
+  },
+  {
+    "key": "niichh",
+    "word": "niichh",
+    "path": "sounds/w/68/68e23060e956ff75.ogg",
+    "sha256": "37ffe94e7b5985fc372c02bb6a893eae5afa2308d8cce956b87de76d27ddbc18",
+    "reason": [
+      "many"
+    ],
+    "heard": "Nichts und nicht."
+  },
+  {
+    "key": "scheisser",
+    "word": "Scheißer",
+    "path": "sounds/w/2d/2d4a45c603a125e9.ogg",
+    "sha256": "f7d6fc1b482e11a62fe3a550304a00ab6f9e16188fed80fa06b7d7951e2cac94",
+    "reason": [
+      "clipped"
+    ],
+    "heard": "Scheiße!"
+  },
+  {
+    "key": "schimärenschaden",
+    "word": "Schimärenschaden",
+    "path": "sounds/w/89/89ae263fae3cb038.ogg",
+    "sha256": "fb4c4f8d8b39bb59bbada4b82cd31ac5858465c54d645934f67393654d2b78a7",
+    "reason": [
+      "clipped"
+    ],
+    "heard": "Chimärenschaden"
+  },
+  {
+    "key": "siieschte",
+    "word": "Siieschte",
+    "path": "sounds/w/4c/4cb17eec438dfa17.ogg",
+    "sha256": "8cca0adfbe0ce379378481f9038e2448d58eba84eb0bd8ae512bc7770dc8839a",
+    "reason": [
+      "many"
+    ],
+    "heard": "Sie steht C.U."
+  },
+  {
+    "key": "wollllt",
+    "word": "wollllt",
+    "path": "sounds/w/8f/8f33b9fd6e5b5c3a.ogg",
+    "sha256": "1ae4862bc648d8d5633735547bf908b2c198bd7feef9164baee5472dd3fc1661",
+    "reason": [
+      "many"
+    ],
+    "heard": "Woll' Geld."
+  },
+  {
+    "key": "wooohooo",
+    "word": "Wooohooo",
+    "path": "sounds/w/2a/2af99f0a75b11583.ogg",
+    "sha256": "81cf4f5fe67fcd92e87131171ab9925230cad5647b97aa50a1469dd0dd2f75d2",
+    "reason": [
+      "many"
+    ],
+    "heard": "Wuhu Tu!"
+  },
+  {
+    "key": "wurfdolch",
+    "word": "Wurfdolch",
+    "path": "sounds/w/56/5629636b17db1338.ogg",
+    "sha256": "e941a2d501a7d2c809d75240cfdf9f84689fc4be2c9e02af918373c5975e4b05",
+    "reason": [
+      "many"
+    ],
+    "heard": "Wurft euch!"
+  },
+  {
+    "key": "ziemen",
+    "word": "ziemen",
+    "path": "sounds/w/5a/5af3e1217055abb4.ogg",
+    "sha256": "2139e166db6d39c0abd19825951d6bcf59555dedccdfe38f268c1d8edf30b1c2",
+    "reason": [
+      "too_long",
+      "many"
+    ],
+    "heard": "Siemens und die zeitgleich verhärteten Fonten"
+  },
+  {
+    "key": "öder",
+    "word": "öder",
+    "path": "sounds/w/d0/d0b2180fdbc93744.ogg",
+    "sha256": "18b713334333c58f5fe1c8777144fbe00553cf3d1bf419c482a6207a3379acd2",
+    "reason": [
+      "too_long",
+      "different"
+    ],
+    "heard": "Oder nein, ich habe gar keinen Schirmstempel.  Wo war der Schirmstempel her?"
+  },
+  {
+    "key": "anderthalbhänder",
+    "word": "Anderthalbhänder",
+    "path": "sounds/w/0d/0d739c3c9dd0e42f.ogg",
+    "sha256": "fbfcd00315f769e7ea1db176c7e95052cb67b063a2455c272398a3d1c51cc297",
+    "reason": [
+      "many"
+    ],
+    "heard": "An der Talpenda"
+  },
+  {
+    "key": "bloodskalp-trophäen",
+    "word": "Bloodskalp-Trophäen",
+    "path": "sounds/w/d3/d300581a7871a3ab.ogg",
+    "sha256": "cfdb75af3b3f49183bfa6323dfab859b06c16c318b4eb5ac79809474863c5917",
+    "reason": [
+      "many"
+    ],
+    "heard": "Platz Kalbtrophäen?"
+  },
+  {
+    "key": "fäulnisaura",
+    "word": "Fäulnisaura",
+    "path": "sounds/w/f9/f9df09c4a4ee4be5.ogg",
+    "sha256": "ca2b3143f4020192d952ab54ca375dfc10ba80cf31172ea241c73264c4087b82",
+    "reason": [
+      "many"
+    ],
+    "heard": "Vollen Isaura"
+  },
+  {
+    "key": "ghullord",
+    "word": "Ghullord",
+    "path": "sounds/w/60/60f6a3286096a5d9.ogg",
+    "sha256": "6d013fb43e73932da8b0da9080c851ced17f4b9e10aee2b6a6ab2b4dad1cad97",
+    "reason": [
+      "filler",
+      "many"
+    ],
+    "heard": "Hm, oha Lord."
+  },
+  {
+    "key": "ohreule",
+    "word": "Ohreule",
+    "path": "sounds/w/4e/4e59d3392b31618a.ogg",
+    "sha256": "fe9e46c9d00fbc65e0fa9552d3aafecf175ec25b0a38c497c71a96a331fed235",
+    "reason": [
+      "many"
+    ],
+    "heard": "Und heute?"
+  },
+  {
+    "key": "wär’s",
+    "word": "wär’s",
+    "path": "sounds/w/14/14c5ecd747086dd2.ogg",
+    "sha256": "26cab6514804a68903ae40004e516a2f5d3128b4aab892a167aa7bf853f136d5",
+    "reason": [
+      "too_long",
+      "many"
+    ],
+    "heard": "Der Rerovianzy wäre ein..."
+  },
+  {
+    "key": "alptraum-drei",
+    "word": "Alptraum-Drei",
+    "path": "sounds/w/fc/fc764dda10f89d59.ogg",
+    "sha256": "c3a61bc855346abf62b6a93749dfb2716735e62e135441195697cde3fdddfd5f",
+    "reason": [
+      "many"
+    ],
+    "heard": "Albtraum 3"
+  },
+  {
+    "key": "alptraum-fünf",
+    "word": "Alptraum-Fünf",
+    "path": "sounds/w/a4/a4f2334b4534eaf2.ogg",
+    "sha256": "33449e332bfc73880a2ceabb3e2cca54b7bdead4f33b34e5f860517e81239f1a",
+    "reason": [
+      "many"
+    ],
+    "heard": "Albtraum 5"
+  },
+  {
+    "key": "alptraum-sechs",
+    "word": "Alptraum-Sechs",
+    "path": "sounds/w/cd/cd2ce48ebc033a1f.ogg",
+    "sha256": "32d107ddabe4c7178bb82e093775a135d8be4d5038cc63e18aa0bb162885d53e",
+    "reason": [
+      "many"
+    ],
+    "heard": "Albtraum 6"
+  },
+  {
+    "key": "alptraum-sieben",
+    "word": "Alptraum-Sieben",
+    "path": "sounds/w/13/13545e16bd5e3791.ogg",
+    "sha256": "6ef3cd68bb22a18a25e9504ff3d63e6abe6df1f4cb2a300bed35a7ee4628915c",
+    "reason": [
+      "many"
+    ],
+    "heard": "Albtraum 7"
+  },
+  {
+    "key": "alptraum-vier",
+    "word": "Alptraum-Vier",
+    "path": "sounds/w/ed/ed6b4fbc95f55eff.ogg",
+    "sha256": "3e8b27102ffad14437ec4b759a3872f0fd726db4a57b37d2837b5cfdc69c6a9b",
+    "reason": [
+      "many"
+    ],
+    "heard": "Halbtraum 4"
+  },
+  {
+    "key": "alptraum-zwei",
+    "word": "Alptraum-Zwei",
+    "path": "sounds/w/40/407349cbb3012de0.ogg",
+    "sha256": "c3fc17b1216fcab744684d08100ff7c047a4f23cc1de493fd14af19f32169d38",
+    "reason": [
+      "many"
+    ],
+    "heard": "Albtraum 2"
+  },
+  {
+    "key": "bronzepoignards",
+    "word": "Bronzepoignards",
+    "path": "sounds/w/8b/8b6cf25cbb65eb67.ogg",
+    "sha256": "0040b2dd036cddb01a8ad711df8c292dfd1507165ba21365d4ddd1ce9108f49b",
+    "reason": [
+      "many"
+    ],
+    "heard": "Langsamer Pucknärz."
+  },
+  {
+    "key": "draeneialtars",
+    "word": "Draeneialtars",
+    "path": "sounds/w/af/af29a33235c9f889.ogg",
+    "sha256": "821dab44f3f7f4c1b91a050fb6b695b7bd2d486db7ce9a9da6636f2d55bd34dd",
+    "reason": [
+      "many"
+    ],
+    "heard": "René Altaz"
+  },
+  {
+    "key": "dreschercape",
+    "word": "Dreschercape",
+    "path": "sounds/w/c1/c10cc22807b860d1.ogg",
+    "sha256": "8723749eaba3c4c1979130eca6447aa7f8f4797090fd23faadb56d4d44bf2045",
+    "reason": [
+      "many"
+    ],
+    "heard": "Dr. K."
+  },
+  {
+    "key": "euereiner",
+    "word": "Euereiner",
+    "path": "sounds/w/ed/ed002ff7b492880c.ogg",
+    "sha256": "c2a8c1d1422e6b1cbf42dfddfbdaa75e8f12dfb6f81439e5d1389c943eb41920",
+    "reason": [
+      "too_long",
+      "many"
+    ],
+    "heard": "Ich werde darüber auch noch drüber sprechen."
+  },
+  {
+    "key": "feuerwichtel",
+    "word": "Feuerwichtel",
+    "path": "sounds/w/a7/a75ae1c8e5d94c21.ogg",
+    "sha256": "0f6dc7e86fa2a4ad893f346df0585f453d09ea65bb5b2833aea7dc1a7da18740",
+    "reason": [
+      "clipped"
+    ],
+    "heard": "Feuerwichte"
+  },
+  {
+    "key": "gnomenorientierte",
+    "word": "gnomenorientierte",
+    "path": "sounds/w/d2/d2087bd9430c8056.ogg",
+    "sha256": "026547339d9864bf8aa8eab6b14d31048ec6341855cee430e438a1741edc5a4c",
+    "reason": [
+      "clipped"
+    ],
+    "heard": "nomenorientierte."
+  },
+  {
+    "key": "netherspitze",
+    "word": "Netherspitze",
+    "path": "sounds/w/c8/c860cb941256ba01.ogg",
+    "sha256": "ec47aefe126130cbcd3e677ee5cd75b95848926a8b9f6d865d8cae8c57c2ded8",
+    "reason": [
+      "many"
+    ],
+    "heard": "Nedda Spitze"
+  },
+  {
+    "key": "schimärenhandschuhen",
+    "word": "Schimärenhandschuhen",
+    "path": "sounds/w/64/643190d82d234ceb.ogg",
+    "sha256": "c7cb860743aa475a2fedd9737f3123276bbcf8821447d6706c8772dde23ddc2d",
+    "reason": [
+      "clipped"
+    ],
+    "heard": "Chimären, Handschuhen."
+  },
+  {
+    "key": "voodooumhangs",
+    "word": "Voodooumhangs",
+    "path": "sounds/w/d1/d133b802bd668405.ogg",
+    "sha256": "b9fe76b16181facce287ad2a5da5106f9a4f19e6c3c4c1d8d0abdf8998c1a359",
+    "reason": [
+      "many"
+    ],
+    "heard": "Wudu erhängs."
+  },
+  {
+    "key": "zerbeulter",
+    "word": "Zerbeulter",
+    "path": "sounds/w/72/72ef23ed5f17c79c.ogg",
+    "sha256": "9ed05142f3ca4ea09f72a32c23a9f5c8d7ec7646c0055d3986e6e584b0e1b332",
+    "reason": [
+      "too_long",
+      "different"
+    ],
+    "heard": "Zerbeulte einfach, die muss mich voranbringen.  Zerbeulte einfach, die muss mich voranbringen."
+  },
+  {
+    "key": "zerfledderter",
+    "word": "Zerfledderter",
+    "path": "sounds/w/8d/8d191933599525ac.ogg",
+    "sha256": "c06496387871bba58b85ca359a6c2f6785c365f046ffc7abc115c6209186efc6",
+    "reason": [
+      "clipped"
+    ],
+    "heard": "zerfledderte."
+  },
+  {
+    "key": "zwiespalts",
+    "word": "Zwiespalts",
+    "path": "sounds/w/0d/0da0ef5f345d127a.ogg",
+    "sha256": "9f6caaa9597a6879f02045d5bfbc45992291d3b73bde7dcc14c74f32188511ee",
+    "reason": [
+      "clipped"
+    ],
+    "heard": "Zwiespalt"
+  },
+  {
+    "key": "anvilmar-messer",
+    "word": "Anvilmar-Messer",
+    "path": "sounds/w/c5/c5ccd8e16db33c86.ogg",
+    "sha256": "9a47b2beeca3d4ec49c400a3762c9d033456239b6f297ec860fe470987602d9b",
+    "reason": [
+      "many"
+    ],
+    "heard": "Einfüller Messer"
+  },
+  {
+    "key": "argentumpferd",
+    "word": "Argentumpferd",
+    "path": "sounds/w/e4/e432cd716ab0d38a.ogg",
+    "sha256": "1b9012a3e367c1727097018308c5f83f957ac58dba29da9b05cd0c0cb1ad6256",
+    "reason": [
+      "many"
+    ],
+    "heard": "Akintum fährt."
+  },
+  {
+    "key": "bergyeti",
+    "word": "Bergyeti",
+    "path": "sounds/w/67/672d17c28055e53f.ogg",
+    "sha256": "3a9b29c0995b8c717abcbe49eead632aab7bf8a3be1edbd92a70d325d493f4f6",
+    "reason": [
+      "many"
+    ],
+    "heard": "Der Guillotine"
+  },
+  {
+    "key": "berserkereulenbestie",
+    "word": "Berserkereulenbestie",
+    "path": "sounds/w/4a/4ad518938f2df8ce.ogg",
+    "sha256": "6b6ed7a69089892fde5815e380b4e0c16e21d6318917f4dd2bdf32644b813b35",
+    "reason": [
+      "extra_word"
+    ],
+    "heard": "Berserker, Eulenbestier!"
+  },
+  {
+    "key": "coldmine-peon",
+    "word": "Coldmine-Peon",
+    "path": "sounds/w/89/895f8bf55a1dab3a.ogg",
+    "sha256": "f2193cc573dce0aab2d597dc2d58e0507f3bac6b695bb02d44d8037c52932059",
+    "reason": [
+      "many"
+    ],
+    "heard": "Cold Mean Appearance"
+  },
+  {
+    "key": "ders",
+    "word": "ders",
+    "path": "sounds/w/92/92ff47b9f2dd9234.ogg",
+    "sha256": "01becdcf1b295dfb2cf8ee98a8b56439ff7ea60c90da21b271c331b3ebf8057c",
+    "reason": [
+      "many"
+    ],
+    "heard": "Boah, das..."
+  },
+  {
+    "key": "despawnen",
+    "word": "despawnen",
+    "path": "sounds/w/e1/e17f3a9ede281231.ogg",
+    "sha256": "2e3786112707be65c914e15e28116180bcab794289823249e696fbfcd4e47fbf",
+    "reason": [
+      "many"
+    ],
+    "heard": "Sie sparen."
+  },
+  {
+    "key": "eisfurors",
+    "word": "Eisfurors",
+    "path": "sounds/w/eb/ebe78d5dc0818562.ogg",
+    "sha256": "fd72332114d889d96f798550ddebdb9db3e8c79b5aae2bf57371df7cfcfe7f22",
+    "reason": [
+      "many"
+    ],
+    "heard": "Eis vorras."
+  },
+  {
+    "key": "elunitdolch",
+    "word": "Elunitdolch",
+    "path": "sounds/w/e0/e059122226defc59.ogg",
+    "sha256": "b3b159cf6fcb98e68135c5da6749ef292df3113335f1581a94d272a8afd1c3ec",
+    "reason": [
+      "many"
+    ],
+    "heard": "Eluni Deutsch"
+  },
+  {
+    "key": "franclorns",
+    "word": "Franclorns",
+    "path": "sounds/w/1c/1cdf22678f85e392.ogg",
+    "sha256": "c17c181873ecadbf0485df08ae4fda199bea47a11b8d25dc612db941963a0a22",
+    "reason": [
+      "many"
+    ],
+    "heard": "Frank Launz"
+  },
+  {
+    "key": "grizzel",
+    "word": "Grizzel",
+    "path": "sounds/w/b3/b3c04096c8f1cb65.ogg",
+    "sha256": "9ffc22d4bce513c38f1bdccfbd38e94f565646ad8a99768f552217f4c0d29a58",
+    "reason": [
+      "many"
+    ],
+    "heard": "Und Grissel passt."
+  },
+  {
+    "key": "groddoc-donnerer",
+    "word": "Groddoc-Donnerer",
+    "path": "sounds/w/fd/fd80531b9986235e.ogg",
+    "sha256": "8d84ec73b59c24c4f59f78ce4986f812a95f744c03d61b99e3fd78b15f4e64b9",
+    "reason": [
+      "many"
+    ],
+    "heard": "Brodok Donora"
+  },
+  {
+    "key": "harpyienstachler",
+    "word": "Harpyienstachler",
+    "path": "sounds/w/91/911f5e0d19135d5c.ogg",
+    "sha256": "88f4a29eaf157ca99262931b285be57f79e6cfa48d556befc8e9365d08b8fe31",
+    "reason": [
+      "many"
+    ],
+    "heard": "Habien Schachla"
+  },
+  {
+    "key": "iceblood-garnison",
+    "word": "Iceblood-Garnison",
+    "path": "sounds/w/54/54e1a2e6129a7fed.ogg",
+    "sha256": "4d8536346d70343eb9d70e8863c0beee736a6a13ce2005e17d269c44bc6f17be",
+    "reason": [
+      "many"
+    ],
+    "heard": "Eisblatt Garnison"
+  },
+  {
+    "key": "iceblood-marshal",
+    "word": "Iceblood-Marshal",
+    "path": "sounds/w/5d/5d5fddcbf7de80ee.ogg",
+    "sha256": "a66ae266c33c5527ae63667abe952b8eaa989f64bb7b37ec1d78f4f1af80378b",
+    "reason": [
+      "many"
+    ],
+    "heard": "Eisblatt Marschall"
+  },
+  {
+    "key": "icewing-marshal",
+    "word": "Icewing-Marshal",
+    "path": "sounds/w/2b/2bf0d1b4287481ef.ogg",
+    "sha256": "a8440bdbfef2f56aee32bb09a11a23f6576c17c7671a48cdcea085758161bf9b",
+    "reason": [
+      "extra_word"
+    ],
+    "heard": "Icewing Marshall"
+  },
+  {
+    "key": "iihhh",
+    "word": "Iihhh",
+    "path": "sounds/w/fa/fa5c58d5bc2e2c7e.ogg",
+    "sha256": "9af392856bcf7fb17cc0dbadbc2c2078a4b5040fd574ac145771c19466d02077",
+    "reason": [
+      "too_long",
+      "many"
+    ],
+    "heard": "Die Torhelle.  Ich..."
+  },
+  {
+    "key": "irondeep-trogg",
+    "word": "Irondeep-Trogg",
+    "path": "sounds/w/86/8648fba540793810.ogg",
+    "sha256": "39c82a5d211d2ac87bb32fe2f76d2f6a801424af930d0cdfaf2364a87412f99e",
+    "reason": [
+      "clipped"
+    ],
+    "heard": "Iron Deep Trog"
+  },
+  {
+    "key": "jacksaat-gürtel",
+    "word": "Jacksaat-Gürtel",
+    "path": "sounds/w/77/77108f379c2a1216.ogg",
+    "sha256": "45e87242b44f57648516897c815115d0fbc12ed6ae93b8a90ce7d46db8771f46",
+    "reason": [
+      "clipped"
+    ],
+    "heard": "Jack Saatgürte"
+  },
+  {
+    "key": "jademirsee",
+    "word": "Jademirsee",
+    "path": "sounds/w/5e/5e3cd6880619b6c9.ogg",
+    "sha256": "80e66fffe5746b857b40de4ba4a85273553673f329fec9eb3ebaf6cf380bc1ad",
+    "reason": [
+      "many"
+    ],
+    "heard": "Jadimia Z."
+  },
+  {
+    "key": "jazeraintgürtel",
+    "word": "Jazeraintgürtel",
+    "path": "sounds/w/3f/3f90697eeedefeef.ogg",
+    "sha256": "73f18f72e1c8cfbe8dd69b64bd5edd432f5541d9eb7c8e2db6b3984c5dcf580a",
+    "reason": [
+      "many"
+    ],
+    "heard": "Jace Raine Goethe"
+  },
+  {
+    "key": "jazerainthelm",
+    "word": "Jazerainthelm",
+    "path": "sounds/w/9a/9aedcc718da7ae06.ogg",
+    "sha256": "6179320499913316b40df2abc67d1ad7aabce3e60ba1fe2a13f16702d0a41b73",
+    "reason": [
+      "many"
+    ],
+    "heard": "Cesar Antelm"
+  },
+  {
+    "key": "jazeraintschild",
+    "word": "Jazeraintschild",
+    "path": "sounds/w/31/314ce840b3f30b13.ogg",
+    "sha256": "839fbf2a53890bd2b98d9f354555824ebe91b9733551acdcfbf9200979ed990f",
+    "reason": [
+      "many"
+    ],
+    "heard": "Gisela ein Schild."
+  },
+  {
+    "key": "jazeraintstulpen",
+    "word": "Jazeraintstulpen",
+    "path": "sounds/w/cb/cbe2732e6e2b5d27.ogg",
+    "sha256": "739f58b4808a338d017cbf6e1f01856826c5a5714d7d115ce2134fbee24631dd",
+    "reason": [
+      "many"
+    ],
+    "heard": "Jays Range stolpen."
+  },
+  {
+    "key": "jeen'ras",
+    "word": "Jeen'ras",
+    "path": "sounds/w/53/53a4e40e96de317b.ogg",
+    "sha256": "af1e96136584c74120bdbbb5f0861d35af5173d6f6f9a547402d40531fb8ae1d",
+    "reason": [
+      "many"
+    ],
+    "heard": "Jean Russ"
+  },
+  {
+    "key": "jorunesees",
+    "word": "Jorunesees",
+    "path": "sounds/w/65/652fbace93404c23.ogg",
+    "sha256": "2cd621df97f0b93f9447b7c39a66e514209e820372a917811d34affedbbc5524",
+    "reason": [
+      "many"
+    ],
+    "heard": "Diorone Sais"
+  },
+  {
+    "key": "jüngerschärpe",
+    "word": "Jüngerschärpe",
+    "path": "sounds/w/df/df029e605e42b4eb.ogg",
+    "sha256": "184501252258968d29ad925bbb44191abc45b3e3fd6b98bfc06756b51ad58d78",
+    "reason": [
+      "many"
+    ],
+    "heard": "Jonas Scherpe"
+  },
+  {
+    "key": "kattuntunika",
+    "word": "Kattuntunika",
+    "path": "sounds/w/41/41b66004a3fecf31.ogg",
+    "sha256": "4912a86241317daef78a4396e40df64a73320d0d779baab60b242e2805430567",
+    "reason": [
+      "many"
+    ],
+    "heard": "Cartoon Tunica"
+  },
+  {
+    "key": "kobaltzermalmer",
+    "word": "Kobaltzermalmer",
+    "path": "sounds/w/93/9360f14d37fc0492.ogg",
+    "sha256": "8b842a4d444d5b8c23261cbc36dad3536b6bea0ca4a2b5857fa885ce53e28413",
+    "reason": [
+      "many"
+    ],
+    "heard": "Kobayaza Malma"
+  },
+  {
+    "key": "kodohaar",
+    "word": "Kodohaar",
+    "path": "sounds/w/aa/aa76931ae65d6593.ogg",
+    "sha256": "e5d9bf9341844e363a4d11534005e062cd06c1578abcb195f735a04d842cd61a",
+    "reason": [
+      "clipped"
+    ],
+    "heard": "Kodoha"
+  },
+  {
+    "key": "kriegsschlägel",
+    "word": "Kriegsschlägel",
+    "path": "sounds/w/3d/3dfc5a6b41a9f354.ogg",
+    "sha256": "d4ee553013735cd7194161465f93443712b8e3260be0cd785057e9c064c6d603",
+    "reason": [
+      "clipped"
+    ],
+    "heard": "Kriegsschläge"
+  },
+  {
+    "key": "leykugel",
+    "word": "Leykugel",
+    "path": "sounds/w/aa/aaf8f4839c4d7bee.ogg",
+    "sha256": "48d92a0b2eb6ee76cf080fa81891052e7b96615b844f128f792140b5ce12f4af",
+    "reason": [
+      "many"
+    ],
+    "heard": "Lake Hougel"
+  },
+  {
+    "key": "meuchelns",
+    "word": "Meuchelns",
+    "path": "sounds/w/58/580050376580e5d8.ogg",
+    "sha256": "cedb2b98ca2d3d3d427639a1a85ebd6af42e63d3feb3f0876aad95c3c047cdda",
+    "reason": [
+      "many"
+    ],
+    "heard": "Moinchen, zwei."
+  },
+  {
+    "key": "myrmidonenstulpen",
+    "word": "Myrmidonenstulpen",
+    "path": "sounds/w/df/df865a3246ccf179.ogg",
+    "sha256": "4d66b81d698edd2787f15b033e417d8acc301bec98b754d7270a4ac326414ca1",
+    "reason": [
+      "many"
+    ],
+    "heard": "Nur mit Unstülpen."
+  },
+  {
+    "key": "mähre",
+    "word": "Mähre",
+    "path": "sounds/w/1e/1ea5df002512d75d.ogg",
+    "sha256": "e5a1e69ed81028af62efd8d032700230b2a9b1bfeb6a1a5f666c35082f97fd7f",
+    "reason": [
+      "many"
+    ],
+    "heard": "Mehrere Ahnen."
+  },
+  {
+    "key": "ogerhorts",
+    "word": "Ogerhorts",
+    "path": "sounds/w/e5/e516c6d83ace06ff.ogg",
+    "sha256": "48580f5e04e9343cecf85652f7a55ee68d5168ec06448ac465818cfa6c5b35ce",
+    "reason": [
+      "many"
+    ],
+    "heard": "Uga Horz"
+  },
+  {
+    "key": "ogermojo",
+    "word": "Ogermojo",
+    "path": "sounds/w/e2/e2d1592328bf4c4e.ogg",
+    "sha256": "0f9e9ef15652a392b4f9fa55360b6c60d847b8d01e10d32502722649b18a0c77",
+    "reason": [
+      "many"
+    ],
+    "heard": "Uga Moyo"
+  },
+  {
+    "key": "oper",
+    "word": "Oper",
+    "path": "sounds/w/cf/cf5ebe7d2026f808.ogg",
+    "sha256": "ee68f66444d8d3b548d4ff7670558e02167daa7100f45d80b7b0e517be943d6f",
+    "reason": [
+      "too_long",
+      "many"
+    ],
+    "heard": "Opa, vor so einigen Samen dran und nimm."
+  },
+  {
+    "key": "pflugholz-schiftung",
+    "word": "Pflugholz-Schiftung",
+    "path": "sounds/w/85/8509aa42cbbf3071.ogg",
+    "sha256": "8a1f56ef12adc10bbeeb9f389e15b14ebd27798a124b9e530044551237902330",
+    "reason": [
+      "clipped"
+    ],
+    "heard": "Flugholzschiftung"
+  },
+  {
+    "key": "phalanx-umhang",
+    "word": "Phalanx-Umhang",
+    "path": "sounds/w/8e/8e9825be7048875f.ogg",
+    "sha256": "a79a6003aa473005b99683d42b2cf99ca6aab75727ee54f075c8ff7379f97d5e",
+    "reason": [
+      "many"
+    ],
+    "heard": "Verlangs Umhang"
+  },
+  {
+    "key": "poignard",
+    "word": "Poignard",
+    "path": "sounds/w/fd/fdf3360b7e42a63e.ogg",
+    "sha256": "7e102d468cdbd26283fea606b82e5e6aaa2b23ab59d71748414917b6f7d2830f",
+    "reason": [
+      "many"
+    ],
+    "heard": "Du ein Jahr."
+  },
+  {
+    "key": "puzzleaura",
+    "word": "Puzzleaura",
+    "path": "sounds/w/5b/5be5b4063e3309fb.ogg",
+    "sha256": "8454c454cae90ebb65cec7615202013449b079a73a4ec2106322ab0551940904",
+    "reason": [
+      "many"
+    ],
+    "heard": "Pussle Hurra!"
+  },
+  {
+    "key": "qirajipanzer",
+    "word": "Qirajipanzer",
+    "path": "sounds/w/1e/1ecc2f4fa4d23756.ogg",
+    "sha256": "2ec5874ba04dffcbc44f6817d60ae4561038f33c42cf1f9181d2db874aa56750",
+    "reason": [
+      "many"
+    ],
+    "heard": "Kari Preradjipansa"
+  },
+  {
+    "key": "rhombeardbeschützer",
+    "word": "Rhombeardbeschützer",
+    "path": "sounds/w/01/011be8f206e4fa2b.ogg",
+    "sha256": "a59559523c17d17a8847020ad6f1bcf066bc3420fef37242f82ea0e988d9a74d",
+    "reason": [
+      "too_long",
+      "different"
+    ],
+    "heard": "Wom...  Sch...  Hombird...  Beschützer..."
+  },
+  {
+    "key": "rubinessenz",
+    "word": "Rubinessenz",
+    "path": "sounds/w/91/9157c0c1d9bbad16.ogg",
+    "sha256": "f93c7ddec36d605622ffb4e49aed2cdcdcf58256f32be466ab9047353e90d2e6",
+    "reason": [
+      "many"
+    ],
+    "heard": "RIP in a Sense"
+  },
+  {
+    "key": "runenwahrsagers",
+    "word": "Runenwahrsagers",
+    "path": "sounds/w/1d/1dadd81002759607.ogg",
+    "sha256": "30e3c211e1e7bc2340787b27e10add9fe44281c5ff9b5cc3940290f6ada1a860",
+    "reason": [
+      "many"
+    ],
+    "heard": "HUN VASAGAS"
+  },
+  {
+    "key": "schlingerschusss",
+    "word": "Schlingerschusss",
+    "path": "sounds/w/8d/8df1f1125c5822fb.ogg",
+    "sha256": "d9ada3efe6b0dad6ddaf02b3e2af21bfda571ca1155bdb57d0e49d6b956b1bb3",
+    "reason": [
+      "clipped"
+    ],
+    "heard": "Schlingerschuss"
+  },
+  {
+    "key": "schmetterschlägel",
+    "word": "Schmetterschlägel",
+    "path": "sounds/w/de/ded02e47c349065e.ogg",
+    "sha256": "9e9afeae536619e1dfb131ae7de3968ac054bbb8fdefbe3b1c591fd6a44d91c0",
+    "reason": [
+      "clipped"
+    ],
+    "heard": "Schmetterschläge"
+  },
+  {
+    "key": "schnurrbarthaar",
+    "word": "Schnurrbarthaar",
+    "path": "sounds/w/c0/c0a7faffc43bcf48.ogg",
+    "sha256": "797fbcd4c4c522c268c87833aa4b5fed3eebf7c1d4c845341b072957e755764a",
+    "reason": [
+      "clipped"
+    ],
+    "heard": "Schnurrbartha"
+  },
+  {
+    "key": "silberskarabäus",
+    "word": "Silberskarabäus",
+    "path": "sounds/w/c2/c2b696953b755ec8.ogg",
+    "sha256": "73f053161c8a810bb602745ed901ac0f3aa3515a7e4b9b18480ee32948aff61c",
+    "reason": [
+      "many"
+    ],
+    "heard": "Silvas Karabeos."
+  },
+  {
+    "key": "silithidverheerer",
+    "word": "Silithidverheerer",
+    "path": "sounds/w/17/17deda2f21f762f0.ogg",
+    "sha256": "dfcd454a0d210025c8c571e00af72098f3386257164d74e65cbfae75d8657c11",
+    "reason": [
+      "many"
+    ],
+    "heard": "Seletit verheera."
+  },
+  {
+    "key": "skorpidhäscher",
+    "word": "Skorpidhäscher",
+    "path": "sounds/w/50/50865063d445b4e4.ogg",
+    "sha256": "5feb8a0b1837f2bb737ba7e2760ab4daf420eb8d324a3297f5d1ae416d49d10e",
+    "reason": [
+      "many"
+    ],
+    "heard": "Skopje Tescha"
+  },
+  {
+    "key": "steingrufttrogg",
+    "word": "Steingrufttrogg",
+    "path": "sounds/w/7e/7e400d5de74f6ab6.ogg",
+    "sha256": "645e50c21264807c579c13d4a66368751b42eb67f2234ec1447844a453f23bc1",
+    "reason": [
+      "clipped"
+    ],
+    "heard": "Steingruft trog."
+  },
+  {
+    "key": "steinschlägel",
+    "word": "Steinschlägel",
+    "path": "sounds/w/a1/a18cf2b9186efc0c.ogg",
+    "sha256": "ab0899a3363c446f31ec1a24406763e33128335175e2ca38c3dc79b62279fcba",
+    "reason": [
+      "clipped"
+    ],
+    "heard": "Steinschläge"
+  },
+  {
+    "key": "sukkubusdiener",
+    "word": "Sukkubusdiener",
+    "path": "sounds/w/b9/b9455f0b3bf5bad6.ogg",
+    "sha256": "ccdfed884b691737831322bc5a92450da005c1543f4a2cfcf1b88dab04a87f0b",
+    "reason": [
+      "many"
+    ],
+    "heard": "Sokobus Dina"
+  },
+  {
+    "key": "teerlauerer",
+    "word": "Teerlauerer",
+    "path": "sounds/w/7c/7cd76add1d872a56.ogg",
+    "sha256": "f57c8cabd12c8de0984dfc69063749981bc0f36279f07e0b1244fd1d5161cc11",
+    "reason": [
+      "many"
+    ],
+    "heard": "Hier lauere ich."
+  },
+  {
+    "key": "teslaspul",
+    "word": "Teslaspul",
+    "path": "sounds/w/c5/c5708076812c9dc9.ogg",
+    "sha256": "448ead68e7c731453fb8738bc61e90e4e2d6137a79c7e197593ff2aa6107acfc",
+    "reason": [
+      "extra_word"
+    ],
+    "heard": "Teslas Pull"
+  },
+  {
+    "key": "teufelspirscherhuf",
+    "word": "Teufelspirscherhuf",
+    "path": "sounds/w/69/6975625c552e3da1.ogg",
+    "sha256": "1a4b01735fcdf924efe090dab71cbe6e02c5877f6011e9d508c3631abd1c1673",
+    "reason": [
+      "many"
+    ],
+    "heard": "Heifisch Spörscherhof"
+  },
+  {
+    "key": "thuzadinmantel",
+    "word": "Thuzadinmantel",
+    "path": "sounds/w/5f/5f3848bd2393f0b0.ogg",
+    "sha256": "4aa90bc9f87e411bfaa4d0489dfed43f9cecd9b1a9a386aacb1ac05bfdac5d60",
+    "reason": [
+      "many"
+    ],
+    "heard": "Ruhe zu dem Mantel."
+  },
+  {
+    "key": "tjoster-stulpen",
+    "word": "Tjoster-Stulpen",
+    "path": "sounds/w/f5/f528f82c410f7507.ogg",
+    "sha256": "6ba8f44f49703b6dcb4ee3607389982cfccf1f6ebc5eabac473a6b4cd51b7c26",
+    "reason": [
+      "many"
+    ],
+    "heard": "Kirsta Stülpen"
+  },
+  {
+    "key": "tooltipp",
+    "word": "Tooltipp",
+    "path": "sounds/w/ca/ca6f284033f5eca5.ogg",
+    "sha256": "10911f313a7e6fc4a98889d26a52c1fafeb5f3995aecefab41e4d1858d011bb4",
+    "reason": [
+      "clipped"
+    ],
+    "heard": "Tooltip"
+  },
+  {
+    "key": "undercity-zählung",
+    "word": "Undercity-Zählung",
+    "path": "sounds/w/07/07d61dbe99f91c7f.ogg",
+    "sha256": "ac858e6912d75969517f4b6dbaba40e3844d03766358fc95aeafb1e769e707e2",
+    "reason": [
+      "many"
+    ],
+    "heard": "Anders steht die Zählung."
+  },
+  {
+    "key": "undercitys",
+    "word": "Undercitys",
+    "path": "sounds/w/4a/4a717b3b3b8f6baa.ogg",
+    "sha256": "5b4cd5637c3afb6f2d014961be079d5e374b4f1d67b2fe72f14cdb3c04fd2b2c",
+    "reason": [
+      "many"
+    ],
+    "heard": "An der Saitis"
+  },
+  {
+    "key": "verfinsterter",
+    "word": "Verfinsterter",
+    "path": "sounds/w/52/52a709ee56feb1fd.ogg",
+    "sha256": "1e2a277d22d120cd0b8fcd10474dd1c5a577b1fc7ff5ee65adc44e19feb90322",
+    "reason": [
+      "clipped"
+    ],
+    "heard": "verfinsterte."
+  },
+  {
+    "key": "vikarsrobe",
+    "word": "Vikarsrobe",
+    "path": "sounds/w/ea/ea77c931fb4b6084.ogg",
+    "sha256": "ade0000c99ddea1e0467bc1a1aaf479981358f4bf55214e491ad3bd02f9affb8",
+    "reason": [
+      "many"
+    ],
+    "heard": "Wie Karlsruhe"
+  },
+  {
+    "key": "voodoogefiederter",
+    "word": "Voodoogefiederter",
+    "path": "sounds/w/d7/d7f1e52ff2ab193c.ogg",
+    "sha256": "79b8adff367ba0e954a8e146afd895d508c6fc0958fa10137133f23fe042e247",
+    "reason": [
+      "many"
+    ],
+    "heard": "Wut o Befiederter"
+  },
+  {
+    "key": "voodoosklave",
+    "word": "Voodoosklave",
+    "path": "sounds/w/a3/a3ab6ee712e1f64e.ogg",
+    "sha256": "fc390fc6483aa4ebb2a44aafa8f38920cdeddac6d475aae12f8cdbee63189b1f",
+    "reason": [
+      "many"
+    ],
+    "heard": "Wut aus Sklave"
+  },
+  {
+    "key": "wachtel",
+    "word": "Wachtel",
+    "path": "sounds/w/f3/f37e46570df42194.ogg",
+    "sha256": "dc23905e5dc9c8404b05a8f297183fd9ba5159fe5e66a6bf549b575892dfaf2d",
+    "reason": [
+      "clipped"
+    ],
+    "heard": "Wachte!"
+  },
+  {
+    "key": "ätherurora",
+    "word": "Ätherurora",
+    "path": "sounds/w/15/15302caad3d37d39.ogg",
+    "sha256": "d9b351279a2ddbb91911729492e3d09e529a3651c3ba1f53c1abf09bf70e3618",
+    "reason": [
+      "many"
+    ],
+    "heard": "Eta Aurora"
+  },
+  {
+    "key": "tauens",
+    "word": "Tauens",
+    "path": "sounds/w/30/30fb52b7ff6d59de.ogg",
+    "sha256": "d29b8247cc3a7ec5ccc28f4262469392da614d218cf59b3e0782dd42ec7bd2c9",
+    "reason": [
+      "silent"
+    ],
+    "heard": ""
+  },
+  {
+    "key": "stele",
+    "word": "Stele",
+    "path": "sounds/w/1a/1a177fca5f839e65.ogg",
+    "sha256": "ce6975b3a0ebb99d85126abefa364ed1713c334ba4bdcc167ed8915565f933b7",
+    "reason": [
+      "many"
+    ],
+    "heard": "Stilles Jahr"
+  },
+  {
+    "key": "welker",
+    "word": "Welker",
+    "path": "sounds/w/ca/ca5f73ab08351aaa.ogg",
+    "sha256": "da9d1d840c2be6f377d640af0a1677b92eb073af081b12cd349ca575e44c4227",
+    "reason": [
+      "many"
+    ],
+    "heard": "Well cut."
+  },
+  {
+    "key": "wildebers",
+    "word": "Wildebers",
+    "path": "sounds/w/aa/aafbd01643d3f555.ogg",
+    "sha256": "c716cbaf84b861a9c1f06db8048bf7fd7a2ca91976250b4c3995ec0ffa4d6ec4",
+    "reason": [
+      "many"
+    ],
+    "heard": "ein und will dir was."
+  },
+  {
+    "key": "qirajiadels",
+    "word": "Qirajiadels",
+    "path": "sounds/w/f8/f8aa61c410211203.ogg",
+    "sha256": "03bfa2d42f02cd7931785ca27dec4fd0d8afc283fc82e2d3167fd3aae47087dd",
+    "reason": [
+      "many"
+    ],
+    "heard": "Hier hat sie alles."
+  },
+  {
+    "key": "qirajigenerals",
+    "word": "Qirajigenerals",
+    "path": "sounds/w/d2/d2a709ced71058ef.ogg",
+    "sha256": "c0f64b1ff8a664ae30fddbd684ff00dd6557a5ee227187160a19117fbba855fe",
+    "reason": [
+      "many"
+    ],
+    "heard": "Kreative Neurals"
+  },
+  {
+    "key": "hoodookilt",
+    "word": "Hoodookilt",
+    "path": "sounds/w/bf/bf40273d276c0530.ogg",
+    "sha256": "35100a01cb4bd17392a588d98131e0946c77f9bedc25f4636f8f599d502a9649",
+    "reason": [
+      "many"
+    ],
+    "heard": "Ach, Hut dukelt!"
+  },
+  {
+    "key": "ticks",
+    "word": "Ticks",
+    "path": "sounds/w/9f/9faee2757c811156.ogg",
+    "sha256": "940da066201f4a5fca7a3fe31166e9c2c731a49c28f696f89c8dda5e80f4f6a1",
+    "reason": [
+      "too_long",
+      "many"
+    ],
+    "heard": "»Tigstwerte, Tönne.«  »Na, schmeckt's, Tim?«"
+  }
+]

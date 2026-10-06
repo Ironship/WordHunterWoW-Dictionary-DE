@@ -54,7 +54,7 @@ import sys
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 CURATED = ROOT / "Data/CuratedDE.jsonl"
 LUA = ROOT / "Data/DictionaryDE.lua"
-EXPECTED_LUA_CHUNKS = 6
+MAX_LUA_CHUNK_ROWS = 20000  # Matches the Lua builder's constant-table budget.
 
 # Keep these as common words even if same translation (avoid marking ignored).
 # Extended in batch 2 (issue #1): English/loanword cognates and common nouns
@@ -332,6 +332,36 @@ def is_batch8_candidate(word: str, translation: str, note: str) -> bool:
     return True
 
 
+def lua_chunk_errors(text: str) -> list[str]:
+    """Validate bounded function chunks, including incremental append chunks."""
+    errors = []
+    current = None
+    chunks = 0
+    for line in text.splitlines():
+        if line == ";(function()":
+            if current is not None:
+                errors.append("nested dictionary chunk")
+            current = 0
+        elif line == "end)()":
+            if current is None:
+                errors.append("dictionary chunk closes without opening")
+            else:
+                chunks += 1
+                if not 1 <= current <= MAX_LUA_CHUNK_ROWS:
+                    errors.append(f"chunk {chunks} holds {current} rows; allowed 1..{MAX_LUA_CHUNK_ROWS}")
+            current = None
+        elif line.startswith("WordHunterWoW_Dictionary_DE["):
+            if current is None:
+                errors.append("dictionary assignment outside a function chunk")
+            else:
+                current += 1
+    if current is not None:
+        errors.append("unclosed dictionary chunk")
+    if not chunks:
+        errors.append("no dictionary chunks")
+    return errors
+
+
 def parse_lua_rows():
     """Parse DictionaryDE.lua rows: returns (lua_rows set, lua_ignored set, chunks int).
 
@@ -525,6 +555,7 @@ def main() -> int:
         if _r.get("status") == "ignored" and _r.get("key"):
             curated_ignored_keys.add(_r["key"])
     lua_rows, lua_ignored, lua_chunks = parse_lua_rows()
+    chunk_errors = lua_chunk_errors(LUA.read_text(encoding="utf-8")) if LUA.exists() else ["dictionary Lua is missing"]
     missing_from_lua = curated_ignored_keys - lua_rows
     in_lua_no_status = (curated_ignored_keys & lua_rows) - lua_ignored
     lua_not_in_cur = lua_ignored - curated_ignored_keys
@@ -540,16 +571,18 @@ def main() -> int:
     if check_only:
         print(f"would_mark={added} (batch1={batch1} batch2={batch2} batch3={batch3} batch4={batch4} batch5={batch5} batch6={batch6} batch7={batch7} batch8={batch8}) "
               f"already_ignored={already_ignored}")
-        print(f"lua_chunks={lua_chunks} (expected={EXPECTED_LUA_CHUNKS}) "
+        print(f"lua_chunks={lua_chunks} max_rows_per_chunk={MAX_LUA_CHUNK_ROWS} "
               f"lua_rows={len(lua_rows)} lua_ignored={len(lua_ignored)} "
               f"missing_from_lua={len(missing_from_lua)} "
               f"in_lua_no_status={len(in_lua_no_status)} "
               f"lua_not_in_cur={len(lua_not_in_cur)} "
-              f"deny_violations={deny_violations}")
+              f"deny_violations={deny_violations} chunk_errors={len(chunk_errors)}")
+        for error in chunk_errors:
+            print("chunk_error=" + error)
         fail = False
         if added:
             fail = True
-        if lua_chunks != EXPECTED_LUA_CHUNKS:
+        if chunk_errors:
             fail = True
         if in_lua_no_status:
             fail = True

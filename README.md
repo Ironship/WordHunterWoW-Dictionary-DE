@@ -22,7 +22,7 @@ find.
 
 Nine damaged text fragments or opaque rune names are marked ignored and have no new recording. Abbreviations such as `NSC`, `SGS` and `Std.` use their full German pronunciation. Audio is generated and checked separately from dictionary translation; recognizer spelling disagreements can remain for unusual names and compounds.
 
-All 17,754 planned new word paths were generated and checked. After three repair passes, 145 clips remain unconfirmed and are withheld from this download; their dictionary entries are available without new audio. The complete new clip inventory, uncertainty flags and withheld list are published in the [audio verification files](https://github.com/Ironship/WordHunterWoW-Voice-DE-Words/tree/work/multilanguage-import-20261005/verification). The source typo `Díe` reuses the original German `die` recording under its own key.
+All 17,754 planned new word paths were generated and checked. After three repair passes, 145 clips remain unconfirmed and are withheld from this download; their dictionary entries are available without new audio. The complete new clip inventory, uncertainty flags and withheld list are in `verification/audio/` in this repository. The source typo `Díe` reuses the original German `die` recording under its own key.
 
 If you have the older separate downloads, remove them: the *German Voiceover*
 engine addon and the *Voiceover: Words* pack are both inside this one now, and
@@ -80,17 +80,16 @@ Retail 12.1, Classic Era and World of Warcraft: Forever. GPL v3 — see
 
 ## Where the audio comes from, and the one rule about it
 
-The master is [WordHunterWoW-Voice-DE-Words](https://github.com/Ironship/WordHunterWoW-Voice-DE-Words),
-which is what the repair passes write to. The copy here is assembled by
-`Tools/put_voice_in_dictionary.py` in the workspace, which also writes
-`Part.lua` and both manifests.
+`sounds/w/` in this repository is the only active master of published word
+recordings. The old Words repository is retained as history. The dictionary
+builder reads this directory directly; no audio synchronization is required.
+`Tools/put_voice_in_dictionary.py` in the sibling Tools repository refreshes
+the embedded reader and manifests, leaving word recordings untouched.
 
-So the same recordings live in two repositories, and a clip repaired in one
-and not the other is a fault nothing reports — the word simply says something
-other than the corpus says it should. **After any repair pass, run that tool
-again with `--sync`.** It copies only what differs, removes what the master no
-longer has, and checks 300 dictionary words against the path the engine would
-ask for before it finishes.
+Keep unconfirmed repairs in the workspace staging folder until their text and
+audio are checked. Commit approved OGG recordings together with their dictionary
+updates; generator `.hash` checkpoints and verification reports are excluded
+from the CurseForge runtime download.
 
 ## Rebuild (maintainers)
 

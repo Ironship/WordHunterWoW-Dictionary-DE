@@ -20,3 +20,4 @@ ignore:
   - Data/cache
   - Data/CuratedDE.jsonl
   - Data/quest_ids.csv
+  - verification
