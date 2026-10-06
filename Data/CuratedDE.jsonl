@@ -109260,7 +109260,7 @@
 {"key": "reitbaren", "word": "reitbaren", "translation": "rideable", "note": "", "status": "new"}
 {"key": "distanzwaffe", "word": "Distanzwaffe", "translation": "ranged weapon", "note": "", "status": "new"}
 {"key": "zaubernde", "word": "Zaubernde", "translation": "Casters", "note": "", "status": "new"}
-{"key": "autom", "word": "autom", "translation": "automatic", "note": "", "status": "new"}
+{"key": "autom", "word": "autom", "translation": "automatic", "note": "Abbreviation of automatisch; used for automatic attacks.", "status": "new"}
 {"key": "frostblitz", "word": "Frostblitz", "translation": "Frostbolt", "note": "Game name: the English localization can differ from a literal German translation.", "status": "new"}
 {"key": "distanzangriffskraft", "word": "Distanzangriffskraft", "translation": "Ranged attack power", "note": "", "status": "new"}
 {"key": "unterarmschienen", "word": "Unterarmschienen", "translation": "Vambraces", "note": "", "status": "new"}
@@ -109521,7 +109521,7 @@
 {"key": "schulterplatten", "word": "Schulterplatten", "translation": "Shoulder plates", "note": "", "status": "new"}
 {"key": "schuppengamaschen", "word": "Schuppengamaschen", "translation": "Scale leggings", "note": "", "status": "new"}
 {"key": "spitzels", "word": "Spitzels", "translation": "Spy", "note": "", "status": "new"}
-{"key": "std", "word": "std", "translation": "hours", "note": "", "status": "new"}
+{"key": "std", "word": "std", "translation": "hours", "note": "Abbreviation Std. for Stunden (hours).", "status": "new"}
 {"key": "weiterläuft", "word": "weiterläuft", "translation": "continues", "note": "", "status": "new"}
 {"key": "zweihandschwertern", "word": "Zweihandschwertern", "translation": "Two-handed swords", "note": "", "status": "new"}
 {"key": "kniesehne", "word": "Kniesehne", "translation": "Hamstring", "note": "Game name: the English localization can differ from a literal German translation.", "status": "new"}
@@ -110177,7 +110177,7 @@
 {"key": "bluttigerbrustplatte", "word": "Bluttigerbrustplatte", "translation": "Blood Tiger Breastplate", "note": "Game name: the English localization can differ from a literal German translation.", "status": "new"}
 {"key": "bluttigerschultern", "word": "Bluttigerschultern", "translation": "Blood Tiger Shoulders", "note": "Game name: the English localization can differ from a literal German translation.", "status": "new"}
 {"key": "bogenschütze", "word": "Bogenschütze", "translation": "Archer", "note": "", "status": "new"}
-{"key": "bzw", "word": "bzw", "translation": "or", "note": "", "status": "new"}
+{"key": "bzw", "word": "bzw", "translation": "respectively; or rather; or", "note": "Abbreviation of beziehungsweise; means respectively in the quoted Homunculi effect.", "status": "new"}
 {"key": "distanzangriffskraftbonus", "word": "Distanzangriffskraftbonus", "translation": "Ranged attack power bonus", "note": "", "status": "new"}
 {"key": "drachenlederbrustplatte", "word": "Drachenlederbrustplatte", "translation": "Dragonhide Breastplate", "note": "", "status": "new"}
 {"key": "drachenlederhose", "word": "Drachenlederhose", "translation": "Dragon leather pants", "note": "", "status": "new"}
@@ -111010,7 +111010,7 @@
 {"key": "infernohandschuhe", "word": "Infernohandschuhe", "translation": "Inferno Gloves", "note": "Game name: the English localization can differ from a literal German translation.", "status": "new"}
 {"key": "ingenieursgeselle", "word": "Ingenieursgeselle", "translation": "Journeyman Engineer", "note": "Game name: the English localization can differ from a literal German translation.", "status": "new"}
 {"key": "ironforgebrustplatte", "word": "Ironforgebrustplatte", "translation": "Ironforge Breastplate", "note": "Game name: the English localization can differ from a literal German translation.", "status": "new"}
-{"key": "iss", "word": "iss", "translation": "eat", "note": "", "status": "new"}
+{"key": "iss", "word": "iss", "translation": "is (dialect); eat! (imperative)", "note": "Here drunken NPC speech writes ist as iss; standard iss is also an imperative of essen.", "status": "new"}
 {"key": "jadeschlangenklinge", "word": "Jadeschlangenklinge", "translation": "Jade Serpentblade", "note": "Game name: the English localization can differ from a literal German translation.", "status": "new"}
 {"key": "jüngelchen", "word": "Jüngelchen", "translation": "Little boy", "note": "", "status": "new"}
 {"key": "kampfhemd", "word": "Kampfhemd", "translation": "Combat shirt", "note": "", "status": "new"}
@@ -113265,7 +113265,7 @@
 {"key": "lederstirnbands", "word": "Lederstirnbands", "translation": "Leather headbands", "note": "", "status": "new"}
 {"key": "legung", "word": "Legung", "translation": "Laying", "note": "", "status": "new"}
 {"key": "lehrerinnen", "word": "Lehrerinnen", "translation": "teachers", "note": "", "status": "new"}
-{"key": "lehrl", "word": "Lehrl", "translation": "Teaching", "note": "", "status": "new"}
+{"key": "lehrl", "word": "Lehrl", "translation": "apprentice (fragment)", "note": "The speaker breaks off the word Lehrling (apprentice).", "status": "ignored"}
 {"key": "leinenkniehosen", "word": "Leinenkniehosen", "translation": "Linen breeches", "note": "", "status": "new"}
 {"key": "leinenschuhe", "word": "Leinenschuhe", "translation": "Canvas shoes", "note": "", "status": "new"}
 {"key": "lepraeffekt", "word": "Lepraeffekt", "translation": "Leprosy effect", "note": "", "status": "new"}
@@ -113712,7 +113712,7 @@
 {"key": "stintelpleuel", "word": "Stintelpleuel", "translation": "Stintel connecting rod", "note": "", "status": "new"}
 {"key": "stockblind", "word": "stockblind", "translation": "stone blind", "note": "", "status": "new"}
 {"key": "stoffschuhe", "word": "Stoffschuhe", "translation": "Cloth shoes", "note": "", "status": "new"}
-{"key": "stor", "word": "STOR", "translation": "STURGEON", "note": "", "status": "new"}
+{"key": "stor", "word": "STOR", "translation": "STOR...", "note": "Truncated place-name fragment in dialog; not a German vocabulary word.", "status": "ignored"}
 {"key": "stormpike-soldaten", "word": "Stormpike-Soldaten", "translation": "Stormpike soldiers", "note": "", "status": "new"}
 {"key": "strahlungsabschwächung", "word": "Strahlungsabschwächung", "translation": "Radiation attenuation", "note": "", "status": "new"}
 {"key": "strauch", "word": "Strauch", "translation": "shrub", "note": "", "status": "new"}
@@ -113911,7 +113911,7 @@
 {"key": "volkszählung", "word": "Volkszählung", "translation": "census", "note": "", "status": "new"}
 {"key": "volkszählungsbüro", "word": "Volkszählungsbüro", "translation": "Census Bureau", "note": "", "status": "new"}
 {"key": "vollmacht", "word": "Vollmacht", "translation": "Power of attorney", "note": "", "status": "new"}
-{"key": "vonöten", "word": "vonöten", "translation": "ofkill", "note": "", "status": "new"}
+{"key": "vonöten", "word": "vonöten", "translation": "necessary; needed", "note": "Source misspelling of vonnöten (necessary).", "status": "new"}
 {"key": "voraussagte", "word": "voraussagte", "translation": "predicted", "note": "", "status": "new"}
 {"key": "voraussehe", "word": "voraussehe", "translation": "foresee", "note": "", "status": "new"}
 {"key": "vorfahren-geburtsorten", "word": "Vorfahren-Geburtsorten", "translation": "Ancestral birthplaces", "note": "", "status": "new"}
@@ -113975,7 +113975,7 @@
 {"key": "wolfsgeheul", "word": "Wolfsgeheul", "translation": "Wolf howl", "note": "", "status": "new"}
 {"key": "wolfsjagd", "word": "Wolfsjagd", "translation": "Wolf hunting", "note": "", "status": "new"}
 {"key": "wolkenschläfer", "word": "Wolkenschläfer", "translation": "Cloud sleeper", "note": "", "status": "new"}
-{"key": "woll", "word": "Woll", "translation": "Wool", "note": "", "status": "new"}
+{"key": "woll", "word": "Woll", "translation": "yep; well (dialect)", "note": "Dialect interjection in NPC speech; not Wolle (wool).", "status": "new"}
 {"key": "wollhandschuhe", "word": "Wollhandschuhe", "translation": "Wool gloves", "note": "", "status": "new"}
 {"key": "wollhemd", "word": "Wollhemd", "translation": "Wool shirt", "note": "", "status": "new"}
 {"key": "wollhose", "word": "Wollhose", "translation": "Wool trousers", "note": "", "status": "new"}
@@ -114136,7 +114136,7 @@
 {"key": "belohungen", "word": "Belohungen", "translation": "Rewards", "note": "", "status": "new"}
 {"key": "bengaltiger", "word": "Bengaltiger", "translation": "Bengal Tiger", "note": "Game name: the English localization can differ from a literal German translation.", "status": "new"}
 {"key": "benommenheitsschuss", "word": "Benommenheitsschuss", "translation": "Dizzy Shot", "note": "Game name: the English localization can differ from a literal German translation.", "status": "new"}
-{"key": "beonders", "word": "beonders", "translation": "especially", "note": "", "status": "new"}
+{"key": "beonders", "word": "beonders", "translation": "especially", "note": "Source typo for besonders (especially).", "status": "new"}
 {"key": "bergbaubedarf", "word": "Bergbaubedarf", "translation": "Mining supplies", "note": "", "status": "new"}
 {"key": "bergquellwasser", "word": "Bergquellwasser", "translation": "Mountain Spring Water", "note": "Game name: the English localization can differ from a literal German translation.", "status": "new"}
 {"key": "berserkerarmschienen", "word": "Berserkerarmschienen", "translation": "Berserker Bracers", "note": "Game name: the English localization can differ from a literal German translation.", "status": "new"}
@@ -114229,7 +114229,7 @@
 {"key": "dämonenatem", "word": "Dämonenatem", "translation": "Demon Breath", "note": "Game name: the English localization can differ from a literal German translation.", "status": "new"}
 {"key": "dämonenentdeckung", "word": "Dämonenentdeckung", "translation": "Demon Discovery", "note": "", "status": "new"}
 {"key": "dämonenhunden", "word": "Dämonenhunden", "translation": "demon dogs", "note": "", "status": "new"}
-{"key": "díe", "word": "Díe", "translation": "The", "note": "", "status": "new"}
+{"key": "díe", "word": "Díe", "translation": "The", "note": "Source typo for Die (the).", "status": "new"}
 {"key": "dünenzerkracher", "word": "Dünenzerkracher", "translation": "Dune Smasher", "note": "Game name: the English localization can differ from a literal German translation.", "status": "new"}
 {"key": "düsterdrescher", "word": "Düsterdrescher", "translation": "Murk Thresher", "note": "Game name: the English localization can differ from a literal German translation.", "status": "new"}
 {"key": "ebergeist", "word": "Ebergeist", "translation": "Boar Spirit", "note": "Game name: the English localization can differ from a literal German translation.", "status": "new"}
@@ -114255,7 +114255,7 @@
 {"key": "elitewachposteneinheiten", "word": "Elitewachposteneinheiten", "translation": "Elite sentry units", "note": "", "status": "new"}
 {"key": "energieentzug", "word": "Energieentzug", "translation": "Energy Siphon", "note": "Game name: the English localization can differ from a literal German translation.", "status": "new"}
 {"key": "energieexplosion", "word": "Energieexplosion", "translation": "Burst of Energy", "note": "Game name: the English localization can differ from a literal German translation.", "status": "new"}
-{"key": "entd", "word": "Entd", "translation": "Dev", "note": "", "status": "new"}
+{"key": "entd", "word": "Entd", "translation": "detection", "note": "Abbreviation of Entdeckung in this elixir name.", "status": "new"}
 {"key": "entkräftender", "word": "Entkräftender", "translation": "More debilitating", "note": "", "status": "new"}
 {"key": "entladungsschild", "word": "Entladungsschild", "translation": "Discharge shield", "note": "", "status": "new"}
 {"key": "entlüftung", "word": "Entlüftung", "translation": "Venting", "note": "", "status": "new"}
@@ -114490,7 +114490,7 @@
 {"key": "kriegsstiefel", "word": "Kriegsstiefel", "translation": "War boots", "note": "", "status": "new"}
 {"key": "kristallkörper", "word": "Kristallkörper", "translation": "Crystal body", "note": "", "status": "new"}
 {"key": "kristallwasser", "word": "Kristallwasser", "translation": "Crystal water", "note": "", "status": "new"}
-{"key": "krit", "word": "Krit", "translation": "Crit", "note": "", "status": "new"}
+{"key": "krit", "word": "Krit", "translation": "critical", "note": "Abbreviation of kritisch; used for critical spell effects.", "status": "new"}
 {"key": "kritschen", "word": "kritschen", "translation": "crit", "note": "", "status": "new"}
 {"key": "kropfband", "word": "Kropfband", "translation": "Choker", "note": "", "status": "new"}
 {"key": "kräutergebackene", "word": "Kräutergebackene", "translation": "Herb baked ones", "note": "", "status": "new"}
@@ -117635,7 +117635,7 @@
 {"key": "angriffs-rundschild", "word": "Angriffs-Rundschild", "translation": "Charging Buckler", "note": "Game name: the English localization can differ from a literal German translation.", "status": "new"}
 {"key": "angriffsband", "word": "Angriffsband", "translation": "Assault Band", "note": "Game name: the English localization can differ from a literal German translation.", "status": "new"}
 {"key": "angriffshund", "word": "Angriffshund", "translation": "Attack Hound", "note": "Game name: the English localization can differ from a literal German translation.", "status": "new"}
-{"key": "angriffskraftt", "word": "Angriffskraftt", "translation": "Attack power", "note": "", "status": "new"}
+{"key": "angriffskraftt", "word": "Angriffskraftt", "translation": "Attack power", "note": "Source typo for Angriffskraft (attack power).", "status": "new"}
 {"key": "angriffsrate", "word": "Angriffsrate", "translation": "Attack rate", "note": "", "status": "new"}
 {"key": "anhäng-gürtel", "word": "Anhäng-Gürtel", "translation": "Latched Belt", "note": "Game name: the English localization can differ from a literal German translation.", "status": "new"}
 {"key": "animiertes", "word": "Animiertes", "translation": "Animated", "note": "", "status": "new"}
@@ -118109,7 +118109,7 @@
 {"key": "beschaulichkeits-gürtel", "word": "Beschaulichkeits-Gürtel", "translation": "Serenity Belt", "note": "Game name: the English localization can differ from a literal German translation.", "status": "new"}
 {"key": "beschenkte", "word": "beschenkte", "translation": "gifted", "note": "", "status": "new"}
 {"key": "beschlagenes", "word": "Beschlagenes", "translation": "Studded", "note": "", "status": "new"}
-{"key": "beschr", "word": "Beschr", "translation": "Description", "note": "", "status": "new"}
+{"key": "beschr", "word": "Beschr", "translation": "Beschr...", "note": "Uncertain word fragment on a damaged warranty label; not a complete vocabulary word.", "status": "ignored"}
 {"key": "beschriften", "word": "beschriften", "translation": "label", "note": "", "status": "new"}
 {"key": "beschusses", "word": "Beschusses", "translation": "shelling", "note": "", "status": "new"}
 {"key": "beschwerde", "word": "Beschwerde", "translation": "Complaint", "note": "", "status": "new"}
@@ -118226,7 +118226,7 @@
 {"key": "blanchards", "word": "Blanchards", "translation": "Blanchard's", "note": "", "status": "new"}
 {"key": "blasenstrahlpirscher", "word": "Blasenstrahlpirscher", "translation": "Bubble Beam Stalker", "note": "Game name: the English localization can differ from a literal German translation.", "status": "new"}
 {"key": "blasthorn-bogen", "word": "Blasthorn-Bogen", "translation": "Blasthorn Bow", "note": "Game name: the English localization can differ from a literal German translation.", "status": "new"}
-{"key": "blauberzorfstitz", "word": "BLAUBERZORFSTITZ", "translation": "BLAUBERZORFSHEITZ", "note": "", "status": "new"}
+{"key": "blauberzorfstitz", "word": "BLAUBERZORFSTITZ", "translation": "BLAUBERZORFSTITZ", "note": "Opaque rune/scroll name; not a standard German vocabulary word.", "status": "ignored"}
 {"key": "blaudrachenbrut", "word": "Blaudrachenbrut", "translation": "Blue Dragonspawn", "note": "Game name: the English localization can differ from a literal German translation.", "status": "new"}
 {"key": "blaugefiedertes", "word": "Blaugefiedertes", "translation": "Blue-feathered", "note": "", "status": "new"}
 {"key": "blaumoors", "word": "Blaumoors", "translation": "Bluemoors", "note": "", "status": "new"}
@@ -120603,7 +120603,7 @@
 {"key": "gutstahl", "word": "Gutstahl", "translation": "Good steel", "note": "", "status": "new"}
 {"key": "gyroskopische", "word": "Gyroskopische", "translation": "Gyroscopic", "note": "", "status": "new"}
 {"key": "gängerin", "word": "Gängerin", "translation": "walker", "note": "", "status": "new"}
-{"key": "gärt", "word": "gärt", "translation": "gardens", "note": "", "status": "new"}
+{"key": "gärt", "word": "gärt", "translation": "ferments; seethes", "note": "Form of gären; figuratively seethes with fel energy in this item description.", "status": "new"}
 {"key": "götzendienern", "word": "Götzendienern", "translation": "idolaters", "note": "", "status": "new"}
 {"key": "gürtelbeutel", "word": "Gürtelbeutel", "translation": "Belt pouch", "note": "", "status": "new"}
 {"key": "gürteltasche", "word": "Gürteltasche", "translation": "Belt bag", "note": "", "status": "new"}
@@ -122127,7 +122127,7 @@
 {"key": "lochkrokiliskenhaut", "word": "Lochkrokiliskenhaut", "translation": "Hole crocilisk skin", "note": "", "status": "new"}
 {"key": "loderflammen", "word": "Loderflammen", "translation": "Blazing flames", "note": "", "status": "new"}
 {"key": "loderflammenzauberstab", "word": "Loderflammenzauberstab", "translation": "Blazing Wand", "note": "Game name: the English localization can differ from a literal German translation.", "status": "new"}
-{"key": "logineffekt", "word": "LOGINEFFEKT", "translation": "LOGINEFFECT", "note": "Game name: the English localization can differ from a literal German translation.", "status": "new"}
+{"key": "logineffekt", "word": "LOGINEFFEKT", "translation": "login effect", "note": "Internal spell label; German compound Login + Effekt.", "status": "new"}
 {"key": "lohenwindbrustplatte", "word": "Lohenwindbrustplatte", "translation": "Blazewind Breastplate", "note": "Game name: the English localization can differ from a literal German translation.", "status": "new"}
 {"key": "lordrec-helm", "word": "Lordrec-Helm", "translation": "Lordrec Helmet", "note": "Game name: the English localization can differ from a literal German translation.", "status": "new"}
 {"key": "lordwappen", "word": "Lordwappen", "translation": "Lord's Crest", "note": "Game name: the English localization can differ from a literal German translation.", "status": "new"}
@@ -122536,7 +122536,7 @@
 {"key": "murlocspawner", "word": "Murlocspawner", "translation": "Murloc Spawner", "note": "Game name: the English localization can differ from a literal German translation.", "status": "new"}
 {"key": "murlocspäher", "word": "Murlocspäher", "translation": "Murloc Scout", "note": "Game name: the English localization can differ from a literal German translation.", "status": "new"}
 {"key": "murmelnder", "word": "Murmelnder", "translation": "Murmurer", "note": "", "status": "new"}
-{"key": "murächile", "word": "MURÄCHILE", "translation": "MURACHILE", "note": "", "status": "new"}
+{"key": "murächile", "word": "MURÄCHILE", "translation": "MURÄCHILE", "note": "Opaque rune/scroll name; not a standard German vocabulary word.", "status": "ignored"}
 {"key": "muschelschalenfragment", "word": "Muschelschalenfragment", "translation": "Mussel shell fragment", "note": "", "status": "new"}
 {"key": "muschelweben", "word": "Muschelweben", "translation": "Shell weaving", "note": "", "status": "new"}
 {"key": "muschelwebens", "word": "Muschelwebens", "translation": "Shell weaving", "note": "", "status": "new"}
@@ -122949,7 +122949,7 @@
 {"key": "paragleiter", "word": "Paragleiter", "translation": "Paraglider", "note": "", "status": "new"}
 {"key": "paralysierenden", "word": "paralysierenden", "translation": "paralyzing", "note": "", "status": "new"}
 {"key": "pardochandschutz", "word": "Pardochandschutz", "translation": "Pardoc Grips", "note": "Game name: the English localization can differ from a literal German translation.", "status": "new"}
-{"key": "parfürmierten", "word": "PARFÜRMIERTEN", "translation": "PERFUMED", "note": "", "status": "new"}
+{"key": "parfürmierten", "word": "PARFÜRMIERTEN", "translation": "PERFUMED", "note": "Source misspelling of parfümierten (perfumed).", "status": "new"}
 {"key": "parierdolchs", "word": "Parierdolchs", "translation": "parry dagger", "note": "", "status": "new"}
 {"key": "party-bot-nachricht", "word": "Party-Bot-Nachricht", "translation": "Party bot message", "note": "", "status": "new"}
 {"key": "partygranate", "word": "Partygranate", "translation": "Party Grenade", "note": "Game name: the English localization can differ from a literal German translation.", "status": "new"}
@@ -123231,7 +123231,7 @@
 {"key": "questgebrauch", "word": "Questgebrauch", "translation": "Quest use", "note": "", "status": "new"}
 {"key": "questgegenstandeinhändig", "word": "QuestgegenstandEinhändig", "translation": "Quest itemOne-handed", "note": "", "status": "new"}
 {"key": "questgegenstandhandgelenke", "word": "QuestgegenstandHandgelenke", "translation": "Quest itemWrists", "note": "", "status": "new"}
-{"key": "questzauber", "word": "QUESTZAUBER", "translation": "QUESTION SPELL", "note": "", "status": "new"}
+{"key": "questzauber", "word": "QUESTZAUBER", "translation": "quest spell", "note": "Internal quest-related spell label; Zauber means spell.", "status": "new"}
 {"key": "questzurücksetzung", "word": "Questzurücksetzung", "translation": "Quest reset", "note": "", "status": "new"}
 {"key": "quietscher", "word": "Quietscher", "translation": "Squeaker", "note": "", "status": "new"}
 {"key": "quietschers", "word": "Quietschers", "translation": "Squeakers", "note": "", "status": "new"}
@@ -123438,7 +123438,7 @@
 {"key": "revitalisierte", "word": "Revitalisierte", "translation": "Revitalized", "note": "", "status": "new"}
 {"key": "rhahk'zor-zerschmettern", "word": "Rhahk'Zor-Zerschmettern", "translation": "Rhahk'Zor Slam", "note": "Game name: the English localization can differ from a literal German translation.", "status": "new"}
 {"key": "rhahk'zors", "word": "Rhahk'Zors", "translation": "Rhak'Zors", "note": "", "status": "new"}
-{"key": "rhenzuckiter", "word": "RHENZUCKITER", "translation": "RHEN SUGAR ITER", "note": "", "status": "new"}
+{"key": "rhenzuckiter", "word": "RHENZUCKITER", "translation": "RHENZUCKITER", "note": "Opaque rune/scroll name; not a standard German vocabulary word.", "status": "ignored"}
 {"key": "rhombeardbeschützer", "word": "Rhombeardbeschützer", "translation": "Rhombeard Protector", "note": "Game name: the English localization can differ from a literal German translation.", "status": "new"}
 {"key": "rhombusbeschützer", "word": "Rhombusbeschützer", "translation": "Rhombeard Protector", "note": "Game name: the English localization can differ from a literal German translation.", "status": "new"}
 {"key": "richtich", "word": "richtich", "translation": "right", "note": "", "status": "new"}
@@ -124595,7 +124595,7 @@
 {"key": "sonnenwendfeuers", "word": "Sonnenwendfeuers", "translation": "Solstice fire", "note": "", "status": "new"}
 {"key": "sonnenwendstab", "word": "Sonnenwendstab", "translation": "Solstice Staff", "note": "Game name: the English localization can differ from a literal German translation.", "status": "new"}
 {"key": "sonnenwoge", "word": "Sonnenwoge", "translation": "Sunsurge", "note": "Game name: the English localization can differ from a literal German translation.", "status": "new"}
-{"key": "sonstwem", "word": "SONSTWEM", "translation": "ELSE", "note": "", "status": "new"}
+{"key": "sonstwem", "word": "SONSTWEM", "translation": "anyone else; someone else (dative)", "note": "Dative form of sonstwer; appears in a rune scroll title.", "status": "new"}
 {"key": "spaltbrut", "word": "Spaltbrut", "translation": "Rift Spawn", "note": "Game name: the English localization can differ from a literal German translation.", "status": "new"}
 {"key": "spaltender", "word": "Spaltender", "translation": "Splitter", "note": "", "status": "new"}
 {"key": "spaltendes", "word": "Spaltendes", "translation": "Cleavage ending", "note": "", "status": "new"}
@@ -125405,7 +125405,7 @@
 {"key": "topasring", "word": "Topasring", "translation": "Topaz Ring", "note": "Game name: the English localization can differ from a literal German translation.", "status": "new"}
 {"key": "topfhandschuhe", "word": "Topfhandschuhe", "translation": "Oven gloves", "note": "", "status": "new"}
 {"key": "tor-versagen", "word": "Tor-Versagen", "translation": "Gate Failure", "note": "Game name: the English localization can differ from a literal German translation.", "status": "new"}
-{"key": "torffristzbeule", "word": "TORFFRISTZBEULE", "translation": "PEAT FRAST BUMBLE", "note": "", "status": "new"}
+{"key": "torffristzbeule", "word": "TORFFRISTZBEULE", "translation": "TORFFRISTZBEULE", "note": "Opaque rune/scroll name; not a standard German vocabulary word.", "status": "ignored"}
 {"key": "torheiten", "word": "Torheiten", "translation": "Follies", "note": "", "status": "new"}
 {"key": "torkelnder", "word": "Torkelnder", "translation": "Staggering", "note": "", "status": "new"}
 {"key": "totembeherrschung", "word": "Totembeherrschung", "translation": "Totemic Mastery", "note": "Game name: the English localization can differ from a literal German translation.", "status": "new"}
@@ -125705,7 +125705,7 @@
 {"key": "unterdrückungsmaschinenfallen", "word": "Unterdrückungsmaschinenfallen", "translation": "Suppression machine traps", "note": "", "status": "new"}
 {"key": "untergrundratten-kebab", "word": "Untergrundratten-Kebab", "translation": "Deeprun Rat Kabob", "note": "Game name: the English localization can differ from a literal German translation.", "status": "new"}
 {"key": "unteroffzier", "word": "Unteroffzier", "translation": "Corporal", "note": "", "status": "new"}
-{"key": "unterping", "word": "UNTERPING", "translation": "UNDERPING", "note": "", "status": "new"}
+{"key": "unterping", "word": "UNTERPING", "translation": "UNTERPING", "note": "Opaque rune/scroll name; not a standard German vocabulary word.", "status": "ignored"}
 {"key": "unterschieden", "word": "Unterschieden", "translation": "Different", "note": "", "status": "new"}
 {"key": "unterschiedlichem", "word": "unterschiedlichem", "translation": "different", "note": "", "status": "new"}
 {"key": "unterschiedlosigkeit", "word": "Unterschiedlosigkeit", "translation": "indifference", "note": "", "status": "new"}
@@ -126490,7 +126490,7 @@
 {"key": "yetifell-umhang", "word": "Yetifell-Umhang", "translation": "Yeti Fur Cloak", "note": "Game name: the English localization can differ from a literal German translation.", "status": "new"}
 {"key": "zackenstahlkurzschwert", "word": "Zackenstahlkurzschwert", "translation": "Briarsteel Shortsword", "note": "Game name: the English localization can differ from a literal German translation.", "status": "new"}
 {"key": "zackenstreitkolben", "word": "Zackenstreitkolben", "translation": "Murphstar", "note": "Game name: the English localization can differ from a literal German translation.", "status": "new"}
-{"key": "zaehlez", "word": "ZAEHLEZ", "translation": "COUNTER", "note": "", "status": "new"}
+{"key": "zaehlez", "word": "ZAEHLEZ", "translation": "ZAEHLEZ", "note": "Opaque rune/scroll name; not a standard German vocabulary word.", "status": "ignored"}
 {"key": "zahnradmeisters", "word": "Zahnradmeisters", "translation": "Gear master", "note": "", "status": "new"}
 {"key": "zahnradumkehrer", "word": "Zahnradumkehrer", "translation": "Gear inverter", "note": "", "status": "new"}
 {"key": "zandalariseil", "word": "Zandalariseil", "translation": "Zandalari rope", "note": "", "status": "new"}
@@ -126751,3 +126751,208 @@
 {"key": "übungszeit", "word": "Übungszeit", "translation": "Practice time", "note": "", "status": "new"}
 {"key": "übungsziel", "word": "Übungsziel", "translation": "Practice Target", "note": "Game name: the English localization can differ from a literal German translation.", "status": "new"}
 {"key": "ückisch", "word": "Ückisch", "translation": "Uckish", "note": "", "status": "new"}
+{"key": "proc", "word": "Proc", "translation": "proc; triggered effect", "note": "Gaming term for an effect triggered by an event or chance.", "status": "new"}
+{"key": "rottenmeisters", "word": "Rottenmeisters", "translation": "squad leader's", "note": "Genitive of Rottenmeister. The English game rank is First Sergeant.", "status": "new"}
+{"key": "berserkers", "word": "Berserkers", "translation": "berserker's", "note": "Genitive singular of Berserker.", "status": "new"}
+{"key": "amicia", "word": "Amicia", "translation": "amice; shoulder mantle", "note": "A shoulder armor piece; the source uses the Latin-derived item term Amicia.", "status": "new"}
+{"key": "frostbrands", "word": "Frostbrands", "translation": "of frost-burn; of Frostbrand", "note": "The game effect is Frostbrand. The compound is Frost (frost) + Brand (burn).", "status": "new"}
+{"key": "wirkungsbereich", "word": "Wirkungsbereich", "translation": "area of effect", "note": "The region affected by a spell or ability.", "status": "new"}
+{"key": "panzerhalsberge", "word": "Panzerhalsberge", "translation": "mail hauberk; armored coat", "note": "A mail armor-piece name; the paired English item uses Mail Hauberk.", "status": "new"}
+{"key": "blockers", "word": "Blockers", "translation": "blocker's; defender's", "note": "Genitive singular of Blocker.", "status": "new"}
+{"key": "windhetzers", "word": "Windhetzers", "translation": "wind chaser's", "note": "Equipment-name compound: Wind + Hetzer. The English set is Windchaser.", "status": "new"}
+{"key": "furors", "word": "Furors", "translation": "of fury; of rage", "note": "Genitive singular of Furor.", "status": "new"}
+{"key": "phantoms", "word": "Phantoms", "translation": "phantom's", "note": "Genitive singular of Phantom.", "status": "new"}
+{"key": "bouquet", "word": "Bouquet", "translation": "aroma; bouquet", "note": "This passage describes the aroma of an alcoholic drink.", "status": "new"}
+{"key": "magmas", "word": "Magmas", "translation": "of magma", "note": "Genitive singular of Magma.", "status": "new"}
+{"key": "satinamicia", "word": "Satinamicia", "translation": "satin amice; satin shoulder mantle", "note": "Equipment compound: Satin + Amicia, a shoulder armor piece.", "status": "new"}
+{"key": "bluters", "word": "Bluters", "translation": "bleeder's", "note": "The paired English game class is Sanguinist; this is a blood-related class name.", "status": "new"}
+{"key": "humanoides", "word": "humanoides", "translation": "humanoid", "note": "An inflected adjective describing a human-shaped creature.", "status": "new"}
+{"key": "knüttel", "word": "Knüttel", "translation": "cudgel; club", "note": "A heavy stick used as a weapon.", "status": "new"}
+{"key": "schmetterers", "word": "Schmetterers", "translation": "smasher's", "note": "Genitive singular of Schmetterer.", "status": "new"}
+{"key": "wühlers", "word": "Wühlers", "translation": "burrower's", "note": "Genitive singular of Wühler.", "status": "new"}
+{"key": "zündlers", "word": "Zündlers", "translation": "fire-starter's; kindler's", "note": "Genitive singular of Zündler.", "status": "new"}
+{"key": "geschwindigkeitsbonus", "word": "Geschwindigkeitsbonus", "translation": "speed bonus", "note": "A bonus to movement speed in this spell name.", "status": "new"}
+{"key": "antitoxin", "word": "Antitoxin", "translation": "antidote; antitoxin", "note": "A substance that counteracts a toxin.", "status": "new"}
+{"key": "gambeson", "word": "Gambeson", "translation": "padded tunic; gambeson", "note": "A padded protective garment worn as armor.", "status": "new"}
+{"key": "landsknechts", "word": "Landsknechts", "translation": "mercenary's; foot soldier's", "note": "Genitive of Landsknecht, a historical mercenary foot soldier. The English game rank is Sergeant.", "status": "new"}
+{"key": "nagamachart", "word": "Nagamachart", "translation": "naga design; naga workmanship", "note": "Game-world compound: Naga + Machart.", "status": "new"}
+{"key": "nagaproblems", "word": "Nagaproblems", "translation": "of the naga problem", "note": "Genitive singular of the compound Nagaproblem.", "status": "new"}
+{"key": "oranger", "word": "Oranger", "translation": "orange; orange-colored", "note": "An inflected color adjective, as in oranger Farbstoff.", "status": "new"}
+{"key": "seminar", "word": "Seminar", "translation": "seminary; training college", "note": "This quest uses the seminary sense: an institution that trains paladins.", "status": "new"}
+{"key": "shuriken", "word": "Shuriken", "translation": "throwing star; shuriken", "note": "A small throwing weapon.", "status": "new"}
+{"key": "tartsche", "word": "Tartsche", "translation": "targe; small shield", "note": "A type of shield.", "status": "new"}
+{"key": "troggbräu", "word": "Troggbräu", "translation": "trogg brew", "note": "Game drink-name compound: Trogg + Bräu (brew).", "status": "new"}
+{"key": "tümpels", "word": "Tümpels", "translation": "of the pond; of the pool", "note": "Genitive singular of Tümpel.", "status": "new"}
+{"key": "unterlingen", "word": "Unterlingen", "translation": "underlings; subordinates", "note": "Dative plural of Unterling in this passage.", "status": "new"}
+{"key": "animation", "word": "Animation", "translation": "animation; movement sequence", "note": "Here, the animated movement sequence for a stealth action.", "status": "new"}
+{"key": "helmplatz", "word": "Helmplatz", "translation": "helmet slot; head slot", "note": "The inventory slot for a helmet.", "status": "new"}
+{"key": "kupferner", "word": "Kupferner", "translation": "copper; made of copper", "note": "An inflected material adjective.", "status": "new"}
+{"key": "tauens", "word": "Tauens", "translation": "of thawing", "note": "Genitive of Tauen (thawing), not Tau (rope or dew).", "status": "new"}
+{"key": "teleporters", "word": "Teleporters", "translation": "teleporter's", "note": "Genitive singular of Teleporter.", "status": "new"}
+{"key": "abstruse", "word": "abstruse", "translation": "absurd; bizarre; nonsensical", "note": "An inflected adjective describing strange forms of humor.", "status": "new"}
+{"key": "eulenbiesters", "word": "Eulenbiesters", "translation": "owlbeasts", "note": "Marked troll dialect in the source; the standard German plural is Eulenbiester.", "status": "new"}
+{"key": "haintalisman", "word": "Haintalisman", "translation": "grove talisman", "note": "Compound: Hain (grove) + Talisman.", "status": "new"}
+{"key": "hurtigkeitstranks", "word": "Hurtigkeitstranks", "translation": "swiftness potion (genitive)", "note": "Genitive singular of Hurtigkeitstrank.", "status": "new"}
+{"key": "jeschmack", "word": "Jeschmack", "translation": "taste; liking", "note": "Marked troll dialect spelling of Geschmack.", "status": "new"}
+{"key": "klippenebers", "word": "Klippenebers", "translation": "crag boar's; cliff boar's", "note": "Genitive singular of the creature-name compound Klippeneber.", "status": "new"}
+{"key": "leitsteins", "word": "Leitsteins", "translation": "guiding stone (genitive)", "note": "The paired English item name uses Lodestone. Genitive singular of Leitstein.", "status": "new"}
+{"key": "loageist", "word": "Loageist", "translation": "loa spirit", "note": "Game-world compound: Loa + Geist (spirit).", "status": "new"}
+{"key": "murlochaut", "word": "Murlochaut", "translation": "murloc hide; murloc skin", "note": "Game-world compound: Murloc + Haut (skin).", "status": "new"}
+{"key": "plumper", "word": "Plumper", "translation": "bulky; stout; clumsy", "note": "An inflected adjective; this item is a bulky battlehammer.", "status": "new"}
+{"key": "reifs", "word": "Reifs", "translation": "circlet; ring (genitive)", "note": "Genitive singular of Reif; the armor sense is used here.", "status": "new"}
+{"key": "schlurfers", "word": "Schlurfers", "translation": "shambler's", "note": "Genitive of Schlurfer, from schlurfen (to shuffle or shamble).", "status": "new"}
+{"key": "schrillers", "word": "Schrillers", "translation": "shrieker's", "note": "Genitive singular of Schriller.", "status": "new"}
+{"key": "spielmanns", "word": "Spielmanns", "translation": "minstrel's", "note": "Genitive singular of Spielmann.", "status": "new"}
+{"key": "stele", "word": "Stele", "translation": "stele; upright stone monument", "note": "The English quest calls this object a pedestal.", "status": "new"}
+{"key": "tempo-bonus", "word": "Tempo-Bonus", "translation": "speed bonus", "note": "A bonus to movement speed in this passage.", "status": "new"}
+{"key": "antagonist", "word": "Antagonist", "translation": "antagonist; opponent", "note": "The opposing character in a story.", "status": "new"}
+{"key": "arrangement", "word": "Arrangement", "translation": "musical arrangement", "note": "A composition or adaptation of music in this item description.", "status": "new"}
+{"key": "arthritis", "word": "Arthritis", "translation": "arthritis; joint inflammation", "note": "The disease name used in the dialogue.", "status": "new"}
+{"key": "blicks", "word": "Blicks", "translation": "of the look; of the glance", "note": "Genitive singular of Blick; böser Blick corresponds to evil eye here.", "status": "new"}
+{"key": "brands", "word": "Brands", "translation": "of burning; of the fire", "note": "Genitive singular of Brand; the paired item is Rune of Burn.", "status": "new"}
+{"key": "eichener", "word": "Eichener", "translation": "oaken; made of oak", "note": "An inflected material adjective.", "status": "new"}
+{"key": "hagerer", "word": "Hagerer", "translation": "gaunt; lean", "note": "An inflected adjective describing a refugee.", "status": "new"}
+{"key": "hurtiger", "word": "Hurtiger", "translation": "swift; quick", "note": "An inflected adjective describing the wind.", "status": "new"}
+{"key": "integration", "word": "Integration", "translation": "integration; incorporation", "note": "The incorporation of explosives into technology in this passage.", "status": "new"}
+{"key": "intus", "word": "intus", "translation": "inside; taken in", "note": "Etwas intus haben means to have consumed something; here, alcohol.", "status": "new"}
+{"key": "jägersmanns", "word": "Jägersmanns", "translation": "huntsman's", "note": "Genitive singular of Jägersmann.", "status": "new"}
+{"key": "künder", "word": "Künder", "translation": "herald; harbinger", "note": "A person who announces or proclaims something.", "status": "new"}
+{"key": "minimum", "word": "Minimum", "translation": "minimum; smallest amount", "note": "The lowest possible amount or distance.", "status": "new"}
+{"key": "mutagen", "word": "Mutagen", "translation": "mutation-causing agent; mutagen", "note": "A substance or agent that causes mutations.", "status": "new"}
+{"key": "prolog", "word": "Prolog", "translation": "prologue", "note": "An introductory section.", "status": "new"}
+{"key": "pudding", "word": "Pudding", "translation": "pudding; creamy dessert", "note": "The source uses the food word.", "status": "new"}
+{"key": "pulle", "word": "Pulle", "translation": "bottle", "note": "Colloquial German for a bottle.", "status": "new"}
+{"key": "rattiger", "word": "Rattiger", "translation": "ratty; shabby", "note": "Item-name usage translating Ratty Old Belt; this is a contextual game gloss, not the usual colloquial meaning.", "status": "new"}
+{"key": "regional", "word": "regional", "translation": "regional; local", "note": "Regional bezogen means locally sourced in this passage.", "status": "new"}
+{"key": "siechens", "word": "Siechens", "translation": "of wasting away; of decline", "note": "A noun formed from siechen (to waste away or languish).", "status": "new"}
+{"key": "spielmann", "word": "Spielmann", "translation": "minstrel; traveling musician", "note": "A musician or entertainer.", "status": "new"}
+{"key": "steinrufer", "word": "Steinrufer", "translation": "stone caller", "note": "Game role-name compound: Stein (stone) + Rufer (caller).", "status": "new"}
+{"key": "welker", "word": "Welker", "translation": "withered; wilted", "note": "An inflected adjective describing a treant.", "status": "new"}
+{"key": "wildebers", "word": "Wildebers", "translation": "wild boar's", "note": "Genitive singular of Wildeber.", "status": "new"}
+{"key": "zierats", "word": "Zierats", "translation": "of the adornment; of the trappings", "note": "Genitive singular of Zierat.", "status": "new"}
+{"key": "qirajiadels", "word": "Qirajiadels", "translation": "Qiraji nobility (genitive)", "note": "Game-world compound: Qiraji + Adel (nobility).", "status": "new"}
+{"key": "qirajilords", "word": "Qirajilords", "translation": "Qiraji lord's", "note": "Genitive singular of a game-world compound with Lord.", "status": "new"}
+{"key": "qirajigenerals", "word": "Qirajigenerals", "translation": "Qiraji general's", "note": "Genitive singular of Qirajigeneral.", "status": "new"}
+{"key": "qirajipugio", "word": "Qirajipugio", "translation": "Qiraji dagger", "note": "A game weapon-name compound; the item is a dagger.", "status": "new"}
+{"key": "gurubashiberserkers", "word": "Gurubashiberserkers", "translation": "Gurubashi berserker's", "note": "Genitive singular of the creature-name compound Gurubashiberserker.", "status": "new"}
+{"key": "waldweberlauerers", "word": "Waldweberlauerers", "translation": "forest web-weaver lurker's", "note": "Creature-name compound. The English localization is Webwood Lurker.", "status": "new"}
+{"key": "gordokgrog", "word": "Gordokgrog", "translation": "Gordok grog", "note": "Game drink-name compound: Gordok + Grog.", "status": "new"}
+{"key": "hoodookilt", "word": "Hoodookilt", "translation": "hoodoo kilt", "note": "Game clothing-name compound: Hoodoo + Kilt.", "status": "new"}
+{"key": "mondamicia", "word": "Mondamicia", "translation": "moon amice; moon shoulder mantle", "note": "Equipment-name compound: Mond (moon) + Amicia.", "status": "new"}
+{"key": "stoffamicia", "word": "Stoffamicia", "translation": "cloth amice; cloth shoulder mantle", "note": "Equipment-name compound: Stoff (cloth) + Amicia.", "status": "new"}
+{"key": "clinch", "word": "Clinch", "translation": "clinch; conflict", "note": "Im Clinch liegen means to be in conflict with someone.", "status": "new"}
+{"key": "didgeridoos", "word": "Didgeridoos", "translation": "didgeridoo (genitive)", "note": "Genitive singular of Didgeridoo, a musical instrument.", "status": "new"}
+{"key": "papyrus", "word": "Papyrus", "translation": "papyrus; writing material", "note": "A plant-derived writing material.", "status": "new"}
+{"key": "mango", "word": "Mango", "translation": "mango; tropical fruit", "note": "The fruit mentioned in this German passage.", "status": "new"}
+{"key": "muffin", "word": "Muffin", "translation": "muffin; small baked cake", "note": "The food mentioned in the item description.", "status": "new"}
+{"key": "muffins", "word": "Muffins", "translation": "muffins; small baked cakes", "note": "Plural of Muffin.", "status": "new"}
+{"key": "marshmallows", "word": "Marshmallows", "translation": "marshmallows; soft sugar sweets", "note": "The food mentioned in the item description.", "status": "new"}
+{"key": "allohol", "word": "Allohol", "translation": "alcohol", "note": "Marked drunken speech in the source; standard German is Alkohol.", "status": "new"}
+{"key": "nagas", "word": "Nagas", "translation": "nagas; serpentine humanoids", "note": "Plural of the WoW creature name Naga.", "status": "new"}
+{"key": "professors", "word": "Professors", "translation": "professor's", "note": "Genitive singular of Professor.", "status": "new"}
+{"key": "colonels", "word": "Colonels", "translation": "colonel's", "note": "Genitive singular of the foreign military title Colonel, corresponding to German Oberst.", "status": "new"}
+{"key": "chevaliers", "word": "Chevaliers", "translation": "cavaliers; knights", "note": "Plural of the borrowed title Chevalier in this quest objective.", "status": "new"}
+{"key": "designers", "word": "Designers", "translation": "designer's", "note": "Genitive singular of Designer.", "status": "new"}
+{"key": "eidolons", "word": "Eidolons", "translation": "apparitions; phantoms", "note": "Plural of Eidolon in this passage.", "status": "new"}
+{"key": "fraters", "word": "Fraters", "translation": "friar's", "note": "Genitive singular of Frater, a religious brother.", "status": "new"}
+{"key": "mastiff", "word": "Mastiff", "translation": "mastiff; large guard dog", "note": "The dog type in the NPC name.", "status": "new"}
+{"key": "pavese", "word": "Pavese", "translation": "pavise; large shield", "note": "A type of shield.", "status": "new"}
+{"key": "poncho", "word": "Poncho", "translation": "poncho; cloak-like garment", "note": "A garment worn over the shoulders.", "status": "new"}
+{"key": "nova", "word": "Nova", "translation": "nova; burst", "note": "The game uses Nova for a burst of area damage or healing.", "status": "new"}
+{"key": "ration", "word": "Ration", "translation": "ration; allotted food portion", "note": "A measured portion of provisions.", "status": "new"}
+{"key": "ankh", "word": "Ankh", "translation": "ankh; loop-topped cross", "note": "An Egyptian symbol used as a game item.", "status": "new"}
+{"key": "riposte", "word": "Riposte", "translation": "riposte; counter-thrust", "note": "A counterattack after a parry in this combat context.", "status": "new"}
+{"key": "bandana", "word": "Bandana", "translation": "bandana; headscarf", "note": "A cloth worn around the head or neck.", "status": "new"}
+{"key": "combo", "word": "Combo", "translation": "combination; combo", "note": "A sequence of linked actions in this game context.", "status": "new"}
+{"key": "geode", "word": "Geode", "translation": "geode; crystal-lined hollow rock", "note": "A type of rock.", "status": "new"}
+{"key": "panda", "word": "Panda", "translation": "panda; bear", "note": "The animal summoned by the spell.", "status": "new"}
+{"key": "sarong", "word": "Sarong", "translation": "sarong; wraparound garment", "note": "A cloth garment worn around the body.", "status": "new"}
+{"key": "augur", "word": "Augur", "translation": "augur; diviner", "note": "A person who interprets omens.", "status": "new"}
+{"key": "eidolon", "word": "Eidolon", "translation": "apparition; phantom", "note": "A spectral image or spirit.", "status": "new"}
+{"key": "hanbok", "word": "Hanbok", "translation": "hanbok; traditional Korean clothing", "note": "The garment in the item name.", "status": "new"}
+{"key": "brie", "word": "Brie", "translation": "Brie cheese", "note": "The cheese in the item name.", "status": "new"}
+{"key": "kukri", "word": "Kukri", "translation": "kukri; curved knife", "note": "A dagger-type weapon in this item context.", "status": "new"}
+{"key": "regent", "word": "Regent", "translation": "regent; governing ruler", "note": "A ruler who governs on another's behalf.", "status": "new"}
+{"key": "sadist", "word": "Sadist", "translation": "sadist; person who enjoys causing suffering", "note": "The ordinary noun used as an NPC role.", "status": "new"}
+{"key": "t-shirt", "word": "T-Shirt", "translation": "T-shirt; short-sleeved top", "note": "The garment in the item name.", "status": "new"}
+{"key": "tetanus", "word": "Tetanus", "translation": "tetanus; lockjaw", "note": "The disease name used as a spell name.", "status": "new"}
+{"key": "tornado", "word": "Tornado", "translation": "tornado; whirlwind", "note": "The weather term used as a spell name.", "status": "new"}
+{"key": "dispersion", "word": "Dispersion", "translation": "dispersion; scattering", "note": "The noun used by the priest rune that disperses the caster into shadow energy.", "status": "new"}
+{"key": "claymore", "word": "Claymore", "translation": "claymore; large sword", "note": "A two-handed sword type in this game item context.", "status": "new"}
+{"key": "armageddon", "word": "Armageddon", "translation": "Armageddon; apocalyptic destruction", "note": "The ordinary noun is also used as a weapon name here.", "status": "new"}
+{"key": "illumination", "word": "Illumination", "translation": "illumination; enlightenment", "note": "An ordinary noun used as a spell name.", "status": "new"}
+{"key": "pumpernickel", "word": "Pumpernickel", "translation": "pumpernickel; dark rye bread", "note": "The bread in the item name.", "status": "new"}
+{"key": "ultimatum", "word": "Ultimatum", "translation": "ultimatum; final demand", "note": "A final demand with consequences for refusing it.", "status": "new"}
+{"key": "tomahawk", "word": "Tomahawk", "translation": "tomahawk; small axe", "note": "An axe type in this item context.", "status": "new"}
+{"key": "reintegration", "word": "Reintegration", "translation": "reintegration; restoration to a whole", "note": "The noun used in the scroll name.", "status": "new"}
+{"key": "reservist", "word": "Reservist", "translation": "reservist; reserve soldier", "note": "A military role in the NPC name.", "status": "new"}
+{"key": "charisma", "word": "Charisma", "translation": "charisma; personal magnetism", "note": "The ordinary noun used as a spell name.", "status": "new"}
+{"key": "oranges", "word": "Oranges", "translation": "orange; orange-colored", "note": "An inflected color adjective, as in oranges Kampfhemd.", "status": "new"}
+{"key": "span", "word": "Span", "translation": "splinter; shaving; chip", "note": "A small fragment of material; the English quest uses shrapnel here.", "status": "new"}
+{"key": "elle", "word": "Elle", "translation": "cubit; historical length unit", "note": "An old measure of length, used to describe a fang in this passage.", "status": "new"}
+{"key": "desolate", "word": "desolate", "translation": "desolate; bleak; miserable", "note": "An inflected adjective describing a forsaken landscape.", "status": "new"}
+{"key": "morbid", "word": "morbid", "translation": "morbid; gruesome; unhealthy", "note": "Here, describing an unsettling interest in skeletal fragments.", "status": "new"}
+{"key": "variable", "word": "variable", "translation": "variable; varying", "note": "An inflected adjective describing an amount that can vary.", "status": "new"}
+{"key": "investigative", "word": "investigative", "translation": "investigative", "note": "An inflected adjective describing an assistant who makes inquiries.", "status": "new"}
+{"key": "kilo", "word": "Kilo", "translation": "kilogram; kilo", "note": "Colloquial short form of Kilogramm.", "status": "new"}
+{"key": "eisenhammers", "word": "Eisenhammers", "translation": "iron hammer (genitive)", "note": "Genitive singular of Eisenhammer; a smithing weapon in this passage.", "status": "new"}
+{"key": "eisenhelms", "word": "Eisenhelms", "translation": "iron helmet (genitive)", "note": "Genitive singular of Eisenhelm.", "status": "new"}
+{"key": "engels", "word": "Engels", "translation": "angel's", "note": "Genitive singular of Engel; the paired weapon name mentions a fallen seraph.", "status": "new"}
+{"key": "ale", "word": "Ale", "translation": "ale; a type of beer", "note": "A borrowed beer-style name used in this German dialogue.", "status": "new"}
+{"key": "artet", "word": "artet", "translation": "develops; turns out", "note": "In artet aus, gets out of hand or degenerates. Third-person singular of arten.", "status": "new"}
+{"key": "bimbam", "word": "Bimbam", "translation": "ding-dong; bell sound", "note": "In the colloquial phrase heiliger Bimbam!, expressing surprise: holy moly!", "status": "new"}
+{"key": "blocks", "word": "Blocks", "translation": "blocks; blocked attacks", "note": "A borrowed gaming plural in this German tooltip.", "status": "new"}
+{"key": "elfin", "word": "Elfin", "translation": "female elf", "note": "The feminine form of Elf used in this source.", "status": "new"}
+{"key": "emoticon", "word": "Emoticon", "translation": "emoticon; text-based facial symbol", "note": "This source label uses Emoticon for a game emote; its ordinary sense is a typed facial symbol.", "status": "new"}
+{"key": "facklers", "word": "Facklers", "translation": "torcher's; torch-bearer's", "note": "A game class term; the paired English localization is Torcher.", "status": "new"}
+{"key": "fluxe", "word": "Fluxe", "translation": "fluxes; smithing fluxes", "note": "Borrowed smithing term in this source; standard German usually uses Flussmittel.", "status": "new"}
+{"key": "gadgetzantransporters", "word": "Gadgetzantransporters", "translation": "Gadgetzan transporter's", "note": "Genitive of a game machine-name compound; Transporter is the ordinary noun.", "status": "new"}
+{"key": "gigaflops", "word": "Gigaflops", "translation": "gigaflops; computing performance unit", "note": "The computing term used in this German item description.", "status": "new"}
+{"key": "guerrillas", "word": "Guerrillas", "translation": "guerrilla fighter's", "note": "Genitive singular of Guerrilla in the rune name.", "status": "new"}
+{"key": "hadde", "word": "hadde", "translation": "had", "note": "Marked troll dialect spelling of hatte.", "status": "new"}
+{"key": "hau'n", "word": "Hau'n", "translation": "hit; beat; clear off with ab", "note": "Spoken contraction of hauen. Hau'n ab means to leave or clear off here.", "status": "new"}
+{"key": "hillsbradwache", "word": "Hillsbradwache", "translation": "Hillsbrad guard", "note": "Game role-name compound: Hillsbrad + Wache (guard).", "status": "new"}
+{"key": "hippogryphs", "word": "Hippogryphs", "translation": "hippogryph (genitive)", "note": "Genitive singular of the game creature name Hippogryph.", "status": "new"}
+{"key": "innovators", "word": "Innovators", "translation": "innovator's", "note": "Genitive singular of Innovator.", "status": "new"}
+{"key": "issja", "word": "issja", "translation": "it is; it's", "note": "Marked slurred contraction of ist ja in the drunken dialogue.", "status": "new"}
+{"key": "kankstein", "word": "Kankstein", "translation": "Kank stone", "note": "Game mineral-name compound with Stein (stone); Kank is the source name.", "status": "new"}
+{"key": "label", "word": "Label", "translation": "label; tag", "note": "The borrowed noun used for a marker in the spell name.", "status": "new"}
+{"key": "madiger", "word": "Madiger", "translation": "maggoty; maggot-infested", "note": "An inflected adjective describing a ghoul.", "status": "new"}
+{"key": "majors", "word": "Majors", "translation": "major's", "note": "Genitive of the military rank Major; here, part of the borrowed rank Sergeant Major.", "status": "new"}
+{"key": "manaformers", "word": "Manaformers", "translation": "mana shaper's", "note": "Game role-name compound from Mana + Former (shaper).", "status": "new"}
+{"key": "manatotems", "word": "Manatotems", "translation": "mana totem's", "note": "Genitive singular of the compound Manatotem.", "status": "new"}
+{"key": "marines", "word": "Marines", "translation": "marines; naval infantry", "note": "Borrowed military term for naval infantry in this source.", "status": "new"}
+{"key": "mechheilers", "word": "Mechheilers", "translation": "mechanical healer's", "note": "Game role-name compound: Mech + Heiler (healer).", "status": "new"}
+{"key": "mojostock", "word": "Mojostock", "translation": "mojo staff; mojo stick", "note": "Game item-name compound: Mojo + Stock (stick or staff).", "status": "new"}
+{"key": "moors", "word": "Moors", "translation": "of the moor; of the bog", "note": "Genitive singular of Moor.", "status": "new"}
+{"key": "murlocentbeiner", "word": "Murlocentbeiner", "translation": "murloc boning knife", "note": "Literal compound with Entbeiner (deboner); the English game weapon name is Murloc Shanker.", "status": "new"}
+{"key": "nagalords", "word": "Nagalords", "translation": "naga lord's", "note": "Genitive singular of a game-world compound with Lord.", "status": "new"}
+{"key": "netzer", "word": "Netzer", "translation": "netter; one who uses nets", "note": "A creature role formed from Netz (net).", "status": "new"}
+{"key": "nianfests", "word": "Nianfests", "translation": "Nian festival's", "note": "Genitive of a festival-name compound with Fest (festival).", "status": "new"}
+{"key": "nitropuster", "word": "Nitropuster", "translation": "nitro blower", "note": "Invented game pun contrasted with Nitrobooster; the English line contrasts nitro boots and boosts.", "status": "new"}
+{"key": "nsc", "word": "NSC", "translation": "NPC; non-player character", "note": "German abbreviation for Nichtspielercharakter.", "status": "new"}
+{"key": "okra", "word": "Okra", "translation": "okra; edible seed pods", "note": "The vegetable used to thicken soup in this dialogue.", "status": "new"}
+{"key": "orcrot", "word": "Orcrot", "translation": "orc red", "note": "A game color-name compound: Orc + Rot (red).", "status": "new"}
+{"key": "portet", "word": "portet", "translation": "teleports", "note": "Gaming usage: third-person singular of porten, short for teleportieren.", "status": "new"}
+{"key": "raptorhorn", "word": "Raptorhorn", "translation": "raptor horn", "note": "Game creature/body-part compound: Raptor + Horn.", "status": "new"}
+{"key": "robobauers", "word": "Robobauers", "translation": "robot builder's", "note": "Genitive of a game role-name compound: Robo + Bauer (builder).", "status": "new"}
+{"key": "schnitzler", "word": "Schnitzler", "translation": "carver; slicer", "note": "A noun from schnitzen (to carve); the paired weapon is Zulian Slicer.", "status": "new"}
+{"key": "sergeants", "word": "Sergeants", "translation": "sergeant's", "note": "Genitive of the borrowed military rank Sergeant.", "status": "new"}
+{"key": "sgs", "word": "SGS", "translation": "PvP; player versus player", "note": "The source abbreviates Spieler gegen Spieler.", "status": "new"}
+{"key": "siphons", "word": "Siphons", "translation": "siphon (genitive)", "note": "Genitive of Siphon, a tube or device that draws fluid; the spell uses the noun for siphoning.", "status": "new"}
+{"key": "sulfuronhammers", "word": "Sulfuronhammers", "translation": "Sulfuron hammer (genitive)", "note": "Genitive of a game weapon-name compound with Hammer.", "status": "new"}
+{"key": "ticks", "word": "Ticks", "translation": "tick (genitive); periodic damage pulse", "note": "Genitive singular of Tick; a borrowed gaming term for one pulse of periodic damage.", "status": "new"}
+{"key": "toxins", "word": "Toxins", "translation": "of a toxin", "note": "Genitive singular of Toxin.", "status": "new"}
+{"key": "unn", "word": "unn", "translation": "and", "note": "Marked drunken dialect spelling of und.", "status": "new"}
+{"key": "vitale", "word": "Vitale", "translation": "vital; vigorous; lively", "note": "An inflected adjective used in an equipment name.", "status": "new"}
+{"key": "vitales", "word": "Vitales", "translation": "vital; vigorous; lively", "note": "An inflected adjective used in an equipment name.", "status": "new"}
+{"key": "voila", "word": "voila", "translation": "there you are; there you go", "note": "French borrowing used in this German passage, usually written voilà.", "status": "new"}
+{"key": "wallender", "word": "Wallender", "translation": "surging; seething; bubbling", "note": "An inflected participle from wallen describing a swamp ooze.", "status": "new"}
+{"key": "stunts", "word": "Stunts", "translation": "stunts; daring feats", "note": "The borrowed plural used in this German dialogue.", "status": "new"}
+{"key": "sporling", "word": "Sporling", "translation": "sporeling; small spore creature", "note": "A game creature-name formation with the German diminutive suffix -ling.", "status": "new"}
+{"key": "getas", "word": "Getas", "translation": "geta sandals; wooden sandals", "note": "Plural of Geta, a Japanese sandal type, used as a game footwear term.", "status": "new"}
+{"key": "tabi", "word": "Tabi", "translation": "tabi; split-toed footwear", "note": "A Japanese footwear term used by this German equipment name.", "status": "new"}
+{"key": "milady", "word": "Milady", "translation": "my lady; madam", "note": "A borrowed form of address for a noblewoman in this German letter.", "status": "new"}
+{"key": "grizzly", "word": "Grizzly", "translation": "grizzly bear", "note": "The bear type in the NPC name.", "status": "new"}
+{"key": "port", "word": "Port", "translation": "teleport; teleportation", "note": "A borrowed gaming term for Teleportation in this spell label.", "status": "new"}
+{"key": "transparent", "word": "Transparent", "translation": "transparent; see-through", "note": "An ordinary adjective, also used as this standalone spell label.", "status": "new"}

@@ -8,19 +8,21 @@ This is a ready-made German→English glossary built from real quest text, so th
 
 ## Hand-checked core
 
-The original **73,863** Retail words were read against the quest sentence they appear in — not machine output. The pack now holds **121,853** entries. Its previous **104,295** entries are preserved, with **17,558** incremental entries from the expanded public corpus added on top. The new entries use filtered machine glosses, unambiguous DE/EN source names and contextual corrections; they have not all received individual human semantic review.
+The original **73,863** Retail words were read against the quest sentence they appear in — not machine output. The pack now holds **122,058** entries. Its original **104,295** entries are preserved, with **17,763** incremental entries from the expanded public corpus added on top. The additions include 205 entries reviewed in their source context and 25 corrections to the earlier import. Other new entries use filtered machine glosses and unambiguous DE/EN source names; they have not all received individual human semantic review.
 
 `Höllenhorde` is Fel Horde, not "Hell Horde". `bekommen` means to receive, never to become. `hinter'm` is "behind the", not "behind me".
 
 ## It speaks, too
 
-Click a recorded word and hear it said. **104,295 recordings** cover the original entries,
-read from German by a neural voice and checked one by one against the word
-they were asked for. The reader is in this addon — five Lua files and
+Click a recorded word and hear it said. **121,904 recordings** include **17,609 new clips**,
+read from German by a neural voice and decoded and checked individually with German speech recognition.
+Recognition uncertainty remains for some unusual words and names. The reader is in this addon — five Lua files and
 `sounds/` — so there is nothing else to install and no separate engine to
 find.
 
-The 17,558 new glossary entries do not yet have generated word recordings. Adding dictionary translations does not generate audio.
+Nine damaged text fragments or opaque rune names are marked ignored and have no new recording. Abbreviations such as `NSC`, `SGS` and `Std.` use their full German pronunciation. Audio is generated and checked separately from dictionary translation; recognizer spelling disagreements can remain for unusual names and compounds.
+
+All 17,754 planned new word paths were generated and checked. After three repair passes, 145 clips remain unconfirmed and are withheld from this download; their dictionary entries are available without new audio. The complete new clip inventory, uncertainty flags and withheld list are published in the [audio verification files](https://github.com/Ironship/WordHunterWoW-Voice-DE-Words/tree/work/multilanguage-import-20261005/verification). The source typo `Díe` reuses the original German `die` recording under its own key.
 
 If you have the older separate downloads, remove them: the *German Voiceover*
 engine addon and the *Voiceover: Words* pack are both inside this one now, and
@@ -57,8 +59,8 @@ and EntityData notices/manifests for provenance and omitted fields.
 
 ## Install
 
-Unzip into `_retail_\Interface\AddOns\` and restart the game. It is about
-816 MB, nearly all of it the recordings.
+Unzip into your client's `Interface\AddOns\` and restart the game: `_retail_`,
+`_classic_era_` or `_classic_beta_` (Forever). Recordings make up most of the download.
 
 You need:
 
@@ -69,7 +71,7 @@ Words stay in the pack and are not copied into your saved data. Change any trans
 
 ## Other languages
 
-There are packs for [French](https://github.com/Ironship/WordHunterWoW-Dictionary-FR), [Spanish](https://github.com/Ironship/WordHunterWoW-Dictionary-ES), [Italian](https://github.com/Ironship/WordHunterWoW-Dictionary-IT) and [Portuguese](https://github.com/Ironship/WordHunterWoW-Dictionary-PTBR) too. They are machine-translated — only this one has been checked by hand.
+There are packs for [French](https://github.com/Ironship/WordHunterWoW-Dictionary-FR), [Spanish](https://github.com/Ironship/WordHunterWoW-Dictionary-ES), [Italian](https://github.com/Ironship/WordHunterWoW-Dictionary-IT) and [Portuguese](https://github.com/Ironship/WordHunterWoW-Dictionary-PTBR) too. They are machine-translated; this German pack also has a large reviewed core.
 
 Want English quest text beside the original as well? That is [English Quest Panel](https://github.com/Ironship/WordHunterWoW-ENPanel).
 
