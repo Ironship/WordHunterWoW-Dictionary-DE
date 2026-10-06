@@ -11,8 +11,11 @@ sources["multilanguage-classic-master"] = { label = "MultiLanguage Classic maste
 end
 end
 do
+local addon = WordHunterWoW_Addon
+local compat = addon and addon.Compat
+local flavor = compat and compat.GameFlavor and compat.GameFlavor()
 local version = GetBuildInfo and GetBuildInfo()
-if type(version) == "string" and version:match("^2%.") then
+if (flavor == "classic" or flavor == "sod" or flavor == "forever") and type(version) == "string" and version:match("^2%.%d+%.%d+$") then
 sources["multilanguage-tbc"] = { label = "MultiLanguage TBC", sourceFlavor = "tbc", sourceVersionUnverified = true, bilingualPairVerified = false, voiceUnavailable = true, loaded = false, locales = { deDE = {}, enUS = {} }, localeSources = { deDE = { revision = "fe999319f2c9c4c3cdd1bc60c8ae711c079b175f", repository = "https://github.com/rubenzantingh/MultiLanguage", path = "Database/Quests/deDE.lua", sha256 = "cb0e2736097dd1cffcd49dac0a8c7a1884c1f9af97ac7136d5766a1cd51a6143" }, enUS = { revision = "fe999319f2c9c4c3cdd1bc60c8ae711c079b175f", repository = "https://github.com/rubenzantingh/MultiLanguage", path = "Database/Quests/enUS.lua", sha256 = "f910f2faa8a5bf2333ad3a1c077b71171516e10c71697a658666057d18d1c158" } } }
 end
 end
@@ -21,6 +24,41 @@ local addon = WordHunterWoW_Addon
 local compat = addon and addon.Compat
 local flavor = compat and compat.GameFlavor and compat.GameFlavor()
 if flavor == "retail" then
-sources["multilanguage-retail"] = { label = "MultiLanguage Retail", sourceFlavor = "retail", sourceVersionUnverified = true, bilingualPairVerified = false, voiceUnavailable = true, loaded = false, locales = { deDE = {}, enUS = {} }, localeSources = { deDE = { revision = "a54af98d3013271c6f2cac8c5c00bbf4d74185bd", repository = "https://github.com/rubenzantingh/MultiLanguage-de", path = "Database/Quests/quests.lua", sha256 = "b8492437d9d2cd26eb050f401c54dba0c6c982f79200fd452cab7bd9dd284ebd" }, enUS = { revision = "b2e3b0bf1251f30babdb44545adf3957e94d63f6", repository = "https://github.com/rubenzantingh/MultiLanguage", path = "Database/Quests/quests.lua", sha256 = "adb60075fa4b0223ce2d9a77139833c2417984f401e75ce7e28f2125d12b0a58" } } }
+sources["multilanguage-retail"] = { label = "MultiLanguage Retail", sourceFlavor = "retail", sourceVersionUnverified = true, bilingualPairVerified = false, voiceUnavailable = true, loaded = false, locales = { deDE = {}, enUS = {} }, localeSources = { deDE = { revision = "a54af98d3013271c6f2cac8c5c00bbf4d74185bd", repository = "https://github.com/rubenzantingh/MultiLanguage-de", path = "Database/Quests/quests.lua", sha256 = "b8492437d9d2cd26eb050f401c54dba0c6c982f79200fd452cab7bd9dd284ebd" }, enUS = { revision = "fb8e7e9117b5c99347d05ec8a30b0644fbef4fb8", repository = "https://github.com/rubenzantingh/MultiLanguage", path = "Database/Quests/quests.lua", sha256 = "cf747079982ce0ff3e0f6ce25f0380b25f8afb2d1e3a1e7fcc0704983f12b025" } } }
+end
+end
+do
+local addon = WordHunterWoW_Addon
+local compat = addon and addon.Compat
+local flavor = compat and compat.GameFlavor and compat.GameFlavor()
+local version = GetBuildInfo and GetBuildInfo()
+if (flavor == "classic" or flavor == "sod" or flavor == "forever") and type(version) == "string" and version:match("^3%.%d+%.%d+$") then
+sources["multilanguage-wrath"] = { label = "MultiLanguage Wrath", sourceFlavor = "wrath", sourceVersionUnverified = true, bilingualPairVerified = false, voiceUnavailable = true, loaded = false, viewLabel = "ML Wrath", locales = { deDE = {}, enUS = {} }, localeSources = { enUS = { revision = "108ede6c1fccfff2d41f291c49a032759a8a76c8", repository = "https://github.com/rubenzantingh/MultiLanguage", path = "Database/quests.lua", sha256 = "8ecc1cd4ca0f98c07b3c57dd72db5ec627675e9414fbe1eb42f77adb44bb45e5" }, deDE = { revision = "a0a5e66931a7f13f06e4f73d1dd472215c5da5a9", repository = "https://github.com/rubenzantingh/MultiLanguage-de", path = "Database/quests.lua", sha256 = "61b55c985c873d59b7abc28361ccfcf2b80534efea88b88b24aa07ee20fd3613" } } }
+end
+end
+do
+local addon = WordHunterWoW_Addon
+local compat = addon and addon.Compat
+local flavor = compat and compat.GameFlavor and compat.GameFlavor()
+local version = GetBuildInfo and GetBuildInfo()
+if (flavor == "classic" or flavor == "sod" or flavor == "forever") and type(version) == "string" and version:match("^4%.%d+%.%d+$") then
+sources["multilanguage-cata"] = { label = "MultiLanguage Cataclysm", sourceFlavor = "cata", sourceVersionUnverified = true, bilingualPairVerified = false, voiceUnavailable = true, loaded = false, viewLabel = "ML Cata", locales = { deDE = {}, enUS = {} }, localeSources = { enUS = { revision = "cc638509ca3347e4c22bf6187dac4c2443b9057d", repository = "https://github.com/rubenzantingh/MultiLanguage", path = "Database/Quests/quests.lua", sha256 = "8dd3c2297ea4e234d4527af7e188ed9ca0ace27711c428e4cf5e78277e13b1fe" }, deDE = { revision = "868743d847392a43bf3b353501432d64db8b8820", repository = "https://github.com/rubenzantingh/MultiLanguage-de", path = "Database/Quests/quests.lua", sha256 = "5fc23d578385e2b940e02f818724b7fb7b6944c1df0ae9445259eefe944f3984" } } }
+end
+end
+do
+local addon = WordHunterWoW_Addon
+local compat = addon and addon.Compat
+local flavor = compat and compat.GameFlavor and compat.GameFlavor()
+local version = GetBuildInfo and GetBuildInfo()
+if (flavor == "classic" or flavor == "sod" or flavor == "forever") and type(version) == "string" and version:match("^5%.%d+%.%d+$") then
+sources["multilanguage-mop-classic"] = { label = "MultiLanguage MoP Classic", sourceFlavor = "mop-classic", sourceVersionUnverified = true, bilingualPairVerified = false, voiceUnavailable = true, loaded = false, viewLabel = "ML MoP", locales = { deDE = {}, enUS = {} }, localeSources = { enUS = { revision = "ff01f8cbdd3bd8fd7644fb785dcf1e6f76a28c37", repository = "https://github.com/rubenzantingh/MultiLanguage", path = "Database/Quests/quests.lua", sha256 = "95016e006a75341a4a96d98c72534532792451e5f9aa36fa92d85f438f3ace27" }, deDE = { revision = "a9e7ba2d7b8654481abbd70f7190b341346c68eb", repository = "https://github.com/rubenzantingh/MultiLanguage-de", path = "Database/Quests/quests.lua", sha256 = "e26a6ea9dca5846a17701b6414a00162af37abd1e81ce98190384789ddd53867" } } }
+end
+end
+do
+local addon = WordHunterWoW_Addon
+local compat = addon and addon.Compat
+local flavor = compat and compat.GameFlavor and compat.GameFlavor()
+if flavor == "forever" then
+sources["multilanguage-forever"] = { label = "MultiLanguage Forever", sourceFlavor = "forever", sourceVersionUnverified = true, bilingualPairVerified = false, voiceUnavailable = true, loaded = false, viewLabel = "ML Forever", locales = { deDE = {}, enUS = {} }, localeSources = { deDE = { revision = "87d8e5f4c904291c24296205df97c9bc96aa6943", repository = "https://github.com/rubenzantingh/MultiLanguage", path = "Database/Quests/deDE.lua", sha256 = "b5d04ea17061d2acf86eb0dfef34d11e8b959aab14d68791de83ccfc43763780" }, enUS = { revision = "87d8e5f4c904291c24296205df97c9bc96aa6943", repository = "https://github.com/rubenzantingh/MultiLanguage", path = "Database/Quests/enUS.lua", sha256 = "b2a3ea55ed2838955d93b6a5fa48292c4491c5ca57be8c7b26cffce19a5973a4" } } }
 end
 end

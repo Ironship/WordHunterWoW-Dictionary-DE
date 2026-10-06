@@ -1,11 +1,12 @@
 """Build explicitly selected source-reference quest libraries, never native data.
 
-Reads the pinned 2026-10-05 audit snapshots. Locale/era versions remain separate;
+Reads pinned audit snapshots and optional 2026-10-06 additions. Locale/era versions remain separate;
 no dictionary translation, network access, SavedVariables or client installation.
 """
 import argparse
 import collections
 import json
+import hashlib
 from pathlib import Path
 import re
 
@@ -42,6 +43,65 @@ RAW_HASHES = {
     "MultiLanguage-retail/Database/Quests/quests.lua": "adb60075fa4b0223ce2d9a77139833c2417984f401e75ce7e28f2125d12b0a58",
     "MultiLanguage-de-retail/Database/Quests/quests.lua": "b8492437d9d2cd26eb050f401c54dba0c6c982f79200fd452cab7bd9dd284ebd",
 }
+# The optional next batch is additive: old snapshots remain immutable inputs.
+NEXT_SPECS = {
+    "wrath": {"key": "multilanguage-wrath", "label": "MultiLanguage Wrath",
+              "viewLabel": "ML Wrath", "sourceFlavor": "wrath",
+              "commits": {"enUS": "108ede6c1fccfff2d41f291c49a032759a8a76c8",
+                          "deDE": "a0a5e66931a7f13f06e4f73d1dd472215c5da5a9"}},
+    "cata": {"key": "multilanguage-cata", "label": "MultiLanguage Cataclysm",
+             "viewLabel": "ML Cata", "sourceFlavor": "cata",
+             "commits": {"enUS": "cc638509ca3347e4c22bf6187dac4c2443b9057d",
+                         "deDE": "868743d847392a43bf3b353501432d64db8b8820"}},
+    "mop-classic": {"key": "multilanguage-mop-classic", "label": "MultiLanguage MoP Classic",
+                    "viewLabel": "ML MoP", "sourceFlavor": "mop-classic",
+                    "commits": {"enUS": "ff01f8cbdd3bd8fd7644fb785dcf1e6f76a28c37",
+                                "deDE": "a9e7ba2d7b8654481abbd70f7190b341346c68eb"}},
+    "forever": {"key": "multilanguage-forever", "label": "MultiLanguage Forever",
+                "viewLabel": "ML Forever", "sourceFlavor": "forever",
+                "commits": {"deDE": "87d8e5f4c904291c24296205df97c9bc96aa6943",
+                            "enUS": "87d8e5f4c904291c24296205df97c9bc96aa6943"}},
+}
+NEXT_RETAIL_EN_REVISION = "fb8e7e9117b5c99347d05ec8a30b0644fbef4fb8"
+# flavor/locale: raw path relative to next inputs, immutable blob ID, export hash.
+NEXT_INPUTS = {
+    ("retail", "enUS"): ("raw/retail/Database/Quests/quests.lua", "b57893228bba167d84067973f6f61be90e4ec9be", "14c15d96e8509fa239d8e190471fe27f01e3f92d6953ead9f8c3bfbb1b66a289"),
+    ("retail", "deDE"): ("raw/de-retail/Database/Quests/quests.lua", "ffd0e8b6f9c9a52f80dd6d4e16d8bfce68afde15", "0d463ff816060ef117c1d803b469db405b2151329eddfeb5037d485db294b0fe"),
+    ("wrath", "enUS"): ("raw/wotlk/Database/quests.lua", "000257779a051c0d2293900b36e6d4eca725f4bc", "5300c21dd1d2db6fa8525025c05cfaab02468a18a462070e360e312985e6d662"),
+    ("wrath", "deDE"): ("raw/de-wrath/Database/quests.lua", "b7c51309849fe84b04337193dc9fddfae108a1d0", "3f236a3db5bee295a58dee6b1a2307afba6d72765692d07b920facbbea6ad866"),
+    ("cata", "deDE"): ("raw/de-cata/Database/Quests/quests.lua", "2eee164916b76734d43ae1673d2c13c2734167ea", "1a8d9e188b5be18e4c93121e085822bb0e9d7559a1a5a9c65a2db7f4370bae8f"),
+    ("cata", "enUS"): ("raw/cata/Database/Quests/quests.lua", "376f1aabd367b501b427e0aa6da91abf89dd9e96", "296fd0ed8063177d83f0d2e9b401c69f321442b4af8c580fedfb90d9e59b2582"),
+    ("mop-classic", "enUS"): ("raw/mop-classic/Database/Quests/quests.lua", "3f69049667ee53150184950fae5e4a820f3dabff", "fdb86c221652115e6e82c378951ff1e3ec6fd2983c2a32cfd3e9f2a5383bcf7b"),
+    ("mop-classic", "deDE"): ("raw/de-mop-classic/Database/Quests/quests.lua", "b9d990b83c16b89847f6e42eda5bad0993b79454", "f62b49cfbf30617ebc10cec00086a5e998bbb4f41ea2df5118b41e129b067e18"),
+    ("forever", "deDE"): ("raw/forever/Database/Quests/deDE.lua", "4cafc18f4cd7911f00b6062e88ae2337b7f6c04c", "2724d4fc562d7ff1f8d4efc67736ddbf1327ad72fe5d8531ae319e74297cc7d6"),
+    ("forever", "enUS"): ("raw/forever/Database/Quests/enUS.lua", "fd2aaa532d9f3f50bf224d7a29258cdbe6220ca4", "cb7f4d2eb1701b1c209ee3f867edbbbf75e281a42b6ee244a847c512baa7188f"),
+}
+
+
+def selected_specs(next_inputs):
+    specs = {flavor: {**spec, "commits": dict(spec["commits"])} for flavor, spec in SPECS.items()}
+    if next_inputs:
+        specs["retail"]["commits"]["enUS"] = NEXT_RETAIL_EN_REVISION
+        specs.update(NEXT_SPECS)
+    return specs
+
+
+def export_name(flavor, locale):
+    return f"ml-{'wotlk' if flavor == 'wrath' else flavor}-{'de' if locale == 'deDE' else 'en'}.jsonl"
+
+
+def source_details(flavor, locale, next_inputs):
+    if next_inputs and (flavor, locale) in NEXT_INPUTS:
+        relative, _, _ = NEXT_INPUTS[(flavor, locale)]
+        repo = "MultiLanguage-de" if relative.startswith("raw/de-") else "MultiLanguage"
+        return {"repository": "https://github.com/rubenzantingh/" + repo,
+                "path": relative.split("/", 2)[2], "sha256": digest(next_inputs / relative)}
+    relative = source_path(flavor, locale)
+    repo = "MultiLanguage-de" if flavor == "retail" and locale == "deDE" else "MultiLanguage"
+    return {"repository": "https://github.com/rubenzantingh/" + repo,
+            "path": relative.split("/", 1)[1], "sha256": RAW_HASHES[relative]}
+
+
 FIELDS = (("title", "title"), ("description", "description"), ("objective", "sourceObjective"),
           ("progress", "progress"), ("completion", "completion"))
 HEADINGS = ("Ihr bekommt", "Ihr bekommt außerdem", "Bei Abschluss dieser Quest erhaltet Ihr",
@@ -93,25 +153,37 @@ def unresolved_control(text):
     return re.search(r"\$[A-Za-z0-9]", probe)
 
 
-def prepare(audit):
+def prepare(audit, next_inputs=None):
     for name, expected in EXPORT_HASHES.items():
         assert digest(audit / "extracted" / name) == expected, "export changed: " + name
     for name, expected in RAW_HASHES.items():
         assert digest(audit / name) == expected, "pinned source changed: " + name
+    if next_inputs:
+        for (flavor, locale), (relative, blob, export_hash) in NEXT_INPUTS.items():
+            payload = (next_inputs / relative).read_bytes()
+            actual_blob = hashlib.sha1(f"blob {len(payload)}\0".encode() + payload).hexdigest()
+            assert actual_blob == blob, "pinned next source changed: " + relative
+            assert digest(next_inputs / "extracted" / export_name(flavor, locale)) == export_hash, "next export changed"
+        old_retail = read_rows(audit / "extracted/ml-retail-en.jsonl")
+        new_retail = read_rows(next_inputs / "extracted/ml-retail-en.jsonl")
+        assert all(new_retail.get(qid) == row for qid, row in old_retail.items()), "new Retail snapshot must preserve every prior raw row"
+        assert len(new_retail.keys() - old_retail.keys()) == 887, "unexpected pinned Retail delta"
+    specs = selected_specs(next_inputs)
     baseline = {"classic": {locale: read_rows(audit / f"extracted/wh-classic-{locale}.jsonl")
                             for locale in ("deDE", "enUS")},
                 "retail": {"enUS": read_rows(audit / "extracted/wh-retail-enUS.jsonl")}}
     libraries, report = {}, {}
-    for flavor, spec in SPECS.items():
-        originals = {locale: read_rows(audit / f"extracted/ml-{flavor}-{short}.jsonl")
-                     for locale, short in (("deDE", "de"), ("enUS", "en"))}
+    for flavor, spec in specs.items():
+        originals = {locale: read_rows((next_inputs if next_inputs and (flavor, locale) in NEXT_INPUTS else audit)
+                                      / "extracted" / export_name(flavor, locale))
+                     for locale in spec["commits"]}
         languages, stats = {}, {}
         for locale, rows in originals.items():
             kept, excluded, recovered = {}, [], []
             for qid, raw in sorted(rows.items()):
                 title = clean(raw.get("title"))
                 known_debug_record = qid == 1 and (
-                    flavor == "classic" and title == 'The "Chow" Quest (123)aa'
+                    flavor in ("classic", "forever") and title == 'The "Chow" Quest (123)aa'
                     or flavor == "tbc" and "world of Alexander craft" in (raw.get("description") or ""))
                 if known_debug_record or DEV.search(title) or DEV_TITLE.search(title):
                     excluded.append({"id": qid, "field": "record", "reason": "developer/test/unused title"})
@@ -174,18 +246,21 @@ def prepare(audit):
         libraries[spec["key"]] = languages
         report[spec["key"]] = {"label": spec["label"], "sourceFlavor": spec["sourceFlavor"],
                                "bilingualPairVerified": False, "sourceVersionUnverified": True,
-                               "pairedRetainedIds": len(languages["deDE"].keys() & languages["enUS"].keys()),
+                               "pairedRetainedIds": len(languages.get("deDE", {}).keys() & languages.get("enUS", {}).keys()),
                                "locales": stats}
     return libraries, report
 
 
 def context_and_condition(flavor):
-    if flavor == "tbc":
-        return ('local version = GetBuildInfo and GetBuildInfo()\n',
-                'type(version) == "string" and version:match("^2%.")')
-    test = 'flavor == "retail"' if flavor == "retail" else 'flavor and flavor ~= "retail"'
-    return ('local addon = WordHunterWoW_Addon\nlocal compat = addon and addon.Compat\n'
-            'local flavor = compat and compat.GameFlavor and compat.GameFlavor()\n', test)
+    context = ('local addon = WordHunterWoW_Addon\nlocal compat = addon and addon.Compat\n'
+               'local flavor = compat and compat.GameFlavor and compat.GameFlavor()\n')
+    versions = {"tbc": "2", "wrath": "3", "cata": "4", "mop-classic": "5"}
+    if flavor in versions:
+        return (context + 'local version = GetBuildInfo and GetBuildInfo()\n',
+                '(flavor == "classic" or flavor == "sod" or flavor == "forever") and type(version) == "string" and version:match("^' + versions[flavor] + '%.%d+%.%d+$")')
+    if flavor in ("retail", "forever"):
+        return context, 'flavor == "' + flavor + '"'
+    return context, 'flavor and flavor ~= "retail"'
 
 
 def guard(flavor):
@@ -193,24 +268,25 @@ def guard(flavor):
     return context + 'if not (' + condition + ') then return end\n'
 
 
-def write(out, libraries, report):
+def write(out, libraries, report, next_inputs=None):
     names = ["ReferenceMetadata.lua"]
     meta = ["-- Generated by QuestData/Tools/import_multilanguage_references.py.",
             "-- References require explicit selection; they never merge into native quest buckets.",
             "WordHunterWoW_QuestSources = WordHunterWoW_QuestSources or {}",
             "local sources = WordHunterWoW_QuestSources"]
-    for flavor, spec in SPECS.items():
+    for flavor, spec in selected_specs(next_inputs).items():
         key = spec["key"]
         metadata = {"label": spec["label"], "sourceFlavor": spec["sourceFlavor"], "sourceVersionUnverified": True,
                     "bilingualPairVerified": False, "voiceUnavailable": True, "loaded": False}
+        if spec.get("viewLabel"):
+            metadata["viewLabel"] = spec["viewLabel"]
         entries = [name + " = " + lua(value) for name, value in metadata.items()]
         entries.append("locales = { deDE = {}, enUS = {} }")
         locale_sources = []
         for locale, revision in spec["commits"].items():
-            path = source_path(flavor, locale)
-            repo = "https://github.com/rubenzantingh/" + ("MultiLanguage-de" if flavor == "retail" and locale == "deDE" else "MultiLanguage")
-            locale_sources.append(locale + " = { revision = " + quote(revision) + ", repository = " + quote(repo)
-                                  + ", path = " + quote(path.split("/", 1)[1]) + ", sha256 = " + quote(RAW_HASHES[path]) + " }")
+            details = {"revision": revision, **source_details(flavor, locale, next_inputs)}
+            locale_sources.append(locale + " = { " + ", ".join(name + " = " + lua(value)
+                                                               for name, value in details.items()) + " }")
         entries.append("localeSources = { " + ", ".join(locale_sources) + " }")
         context, condition = context_and_condition(flavor)
         meta.append("do\n" + context + "if " + condition + " then\nsources[" + quote(key)
@@ -239,16 +315,17 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--audit", type=Path, required=True)
     parser.add_argument("--out", type=Path, required=True)
+    parser.add_argument("--next-inputs", type=Path, help="Pinned 2026-10-06 batch; old audit remains required")
     parser.add_argument("--report", type=Path, help="Optional full exclusion/recovery artifact outside addon")
     parser.add_argument("--corpus", type=Path, help="Optional normalized accepted text JSONL outside addon")
     args = parser.parse_args()
-    libraries, report = prepare(args.audit)
+    libraries, report = prepare(args.audit, args.next_inputs)
     manifest_path = args.out / "source-manifest.json"
     manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
     for name, expected in manifest["files"].items():
         if not name.startswith("References/") and name != "ReferenceMetadata.lua":
             assert digest(args.out / name) == expected, "existing native/default pack changed: " + name
-    names = write(args.out, libraries, report)
+    names = write(args.out, libraries, report, args.next_inputs)
     # Remove only untouched stale chunks previously generated by this importer.
     # This keeps filesystem-discovered bundle manifests from resurrecting excluded data.
     for name in set(manifest.get("referenceSources", {}).get("files", [])) - set(names):
@@ -260,9 +337,19 @@ def main():
             target.unlink()
         manifest["files"].pop(name, None)
     manifest["files"].update({name: digest(args.out / name) for name in names})
+    next_provenance = {}
+    if args.next_inputs:
+        next_provenance = {"rawSourceSha256": {relative: digest(args.next_inputs / relative)
+                          for relative, _, _ in NEXT_INPUTS.values()},
+                          "inputExportsSha256": {export_name(flavor, locale): expected
+                          for (flavor, locale), (_, _, expected) in NEXT_INPUTS.items()},
+                          "retailDelta": {"previousRevision": SPECS["retail"]["commits"]["enUS"],
+                                          "revision": NEXT_RETAIL_EN_REVISION, "newRawIds": 887,
+                                          "changedPriorRawRows": 0, "removedPriorRawRows": 0}}
     manifest["referenceSources"] = {
         "files": names, "inputExportsSha256": EXPORT_HASHES, "rawSourceSha256": RAW_HASHES,
-        "policy": "Explicit source selection only. Client guards retain Classic master on non-Retail, Retail only on Retail, TBC only on version 2.x. Native catalogs and accepted compatibility overlays unchanged.",
+        "nextBatch": next_provenance,
+        "policy": "Explicit source selection only. Client guards retain Classic master on non-Retail, Retail only on Retail, TBC/Wrath/Cata/MoP only on matching non-Retail version 2/3/4/5.x; Forever only on Forever. Native catalogs and accepted compatibility overlays unchanged.",
         "objectivePolicy": "Independent same-flavor/same-locale corroboration required for objectives; otherwise sourceObjective is explicitly unverified. Exact phase duplicates are omitted because their text remains in the corresponding displayed phase.",
         "normalization": "Pinned decoded literals; HTML/scalar placeholders and NBSP normalization. Standard $gMale:Female; gender macros stay literal for the shared reader; nested unknown controls remain excluded. Deterministic empty reward-heading/exact-description-tail cleanup only. Unknown controls and uncertain reward concatenations are excluded per field.",
         "bilingualPairVerified": False, "sourceVersionUnverified": True,

@@ -72,9 +72,9 @@ fields, writes the load order into both manifests, and can write the exact accep
 payload outside the addon with `--selection PATH_TO_JSON`. It does not fetch data,
 run a dictionary translator, read player SavedVariables, or install into a client.
 
-The remaining usable source material is available through three separate
+The remaining usable source material is available through seven separate
 reference libraries: MultiLanguage Classic master (including seasonal material),
-TBC, and Retail. They live in `WordHunterWoW_QuestSources[sourceKey].locales`,
+TBC, Wrath, Cataclysm, MoP Classic, Forever, and Retail. They live in `WordHunterWoW_QuestSources[sourceKey].locales`,
 never in the native Classic/Forever tables. A reference must be explicitly
 selected by the base addon's quest library. Source versions, IDs, and locale
 revisions remain separate; a matching DE/EN ID does not certify matching passages.
@@ -84,7 +84,15 @@ verified recording of a different source variant.
 
 Client guards also apply to the source metadata. Classic master is available on
 non-Retail clients (including Forever and SoD), Retail only on Retail, and TBC
-only on clients reporting version 2.x. Unavailable source buckets are absent;
+only on non-Retail clients reporting version 2.x. Wrath, Cataclysm and MoP
+Classic similarly require non-Retail versions 3.x, 4.x and 5.x. The separate
+Forever branch is available only on Forever. Wrath German comes from the historical
+last-WOTLK snapshot of MultiLanguage-de, whose upstream manifest reports Interface
+30403. German text from a different edition is never relabeled as Wrath. The version
+guards require a known Classic/SoD/Forever flavor and a numeric three-component
+version; missing, numeric, malformed and unknown-flavor inputs leave these newer
+libraries absent. The historical Classic-master guard is retained unchanged and
+still admits a non-nil non-Retail flavor value. Unavailable source buckets are absent;
 their text tables are not retained in memory. The source manifest still records
 all packaged source files and input hashes across clients.
 
@@ -109,7 +117,9 @@ counts are in `source-manifest.json.referenceSources`.
 Reproduce these libraries after the default compatibility import with:
 
 ```
-python QuestData/Tools/import_multilanguage_references.py --audit PATH_TO_AUDIT --out QuestData
+python QuestData/Tools/export_multilanguage_references.py --inputs PATH_TO_NEXT_QUEST_INPUTS
+python QuestData/Tools/import_multilanguage_references.py --audit PATH_TO_AUDIT --next-inputs PATH_TO_NEXT_QUEST_INPUTS --out QuestData --report IMPORT_REPORT.json --corpus ACCEPTED_CORPUS.jsonl
+python QuestData/Tools/check_reference_import.py --audit PATH_TO_AUDIT --next-inputs PATH_TO_NEXT_QUEST_INPUTS --questdata QuestData --corpus ACCEPTED_CORPUS.jsonl
 ```
 
 `--report PATH_TO_JSON` writes full source/exclusion evidence outside the addon;
@@ -117,3 +127,31 @@ python QuestData/Tools/import_multilanguage_references.py --audit PATH_TO_AUDIT 
 vocabulary-gap check. Neither option translates a word or modifies the existing
 dictionary. `referenceSources.files` provides the exact load order, with
 `ReferenceMetadata.lua` preceding guarded `References/*` chunks.
+
+The 2026-10-06 batch keeps the original 2026-10-05 audit immutable. Its raw Lua,
+pinned trees, direct upstream TOC loader evidence, source/export provenance,
+branch comparison and accepted corpus live in the delivery folder's
+`development-inputs/multilanguage-next-20261006/quests`. The optional exporter
+requires `lupa` with Lua 5.1 and runs only hash-verified literals in a restricted
+environment without IO, OS, require or game APIs. The importer itself uses the
+Python standard library. Omitting `--next-inputs` reproduces the historical
+three-source snapshot; include it to build the current seven-source package.
+
+Retail English revision `fb8e7e9117b5c99347d05ec8a30b0644fbef4fb8` adds 887
+raw quest IDs to the prior 48,076: 48,963 total. Of those, 881 usable records
+enter the source library; six development/unused records remain excluded. No old raw row changed or
+vanished, and every previously accepted ID and passage is preserved. German
+Retail remains at its separate revision. The source revisions carry different
+upstream client interfaces and are not certified bilingual versions.
+
+Forever's German source is byte-identical to Classic master, while its English
+branch has distinct IDs and wording. Both retain their exact branch provenance;
+matching IDs never certify a native quest variant or an audio recording. New
+Cataclysm and MoP German sources come from their own matching-edition repositories.
+Wrath German uses revision `a0a5e66931a7f13f06e4f73d1dd472215c5da5a9`,
+dated 4 May 2024 and explicitly described upstream as the last WOTLK version
+before moving to Cataclysm. Its German and English revisions remain independent;
+the edition evidence does not certify every bilingual passage or live-client wording.
+Quest references retain `voiceUnavailable = true` even when a native quest with
+the same ID has audio. Translation and word audio generation are separate later
+steps after the import updates have been published.
