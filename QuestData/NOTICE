@@ -62,3 +62,31 @@ Forever quest variants.
 
 All game names and quest text originate from World of Warcraft by Blizzard
 Entertainment. No quest text is generated or machine translated by this pack.
+
+Additional source-reference batch, 6 October 2026:
+  * Retail EN updated to fb8e7e9117b5c99347d05ec8a30b0644fbef4fb8,
+    adding 887 raw IDs; every prior accepted record and passage is preserved.
+    The old revision above remains recorded as an immutable prior input.
+  * Wrath EN: MultiLanguage branch wotlk,
+    108ede6c1fccfff2d41f291c49a032759a8a76c8.
+    Wrath DE: MultiLanguage-de historical master,
+    a0a5e66931a7f13f06e4f73d1dd472215c5da5a9, 4 May 2024;
+    upstream calls it the last WOTLK version before moving to CATA and its TOC
+    reports Interface 30403. No German source from another edition is substituted.
+  * Cataclysm EN: MultiLanguage branch cata,
+    cc638509ca3347e4c22bf6187dac4c2443b9057d.
+    Cataclysm DE: MultiLanguage-de master,
+    868743d847392a43bf3b353501432d64db8b8820 (upstream Interface 40402).
+  * MoP Classic EN: MultiLanguage branch mop-classic,
+    ff01f8cbdd3bd8fd7644fb785dcf1e6f76a28c37.
+    MoP Classic DE: MultiLanguage-de branch mop-classic,
+    a9e7ba2d7b8654481abbd70f7190b341346c68eb.
+  * Forever DE/EN: MultiLanguage branch forever,
+    87d8e5f4c904291c24296205df97c9bc96aa6943.
+
+All imported quest data files are directly listed in the corresponding pinned
+upstream addon TOC. Flavor/locale provenance, exclusion ledgers and source hashes
+remain separate. Reference data does not modify native quest history, dictionary
+vocabulary or audio catalogs. No existing quest recording is assigned to these
+unverified source variants. Author permission reported on 2026-10-05 applies;
+upstream All rights reserved declarations remain intact in the raw snapshots.

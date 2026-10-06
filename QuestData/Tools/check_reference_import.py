@@ -9,14 +9,16 @@ import json
 from pathlib import Path
 
 FLAVORS = {"multilanguage-classic-master": "classic", "multilanguage-tbc": "tbc",
-           "multilanguage-retail": "retail"}
+           "multilanguage-retail": "retail", "multilanguage-wrath": "wotlk",
+           "multilanguage-cata": "cata", "multilanguage-mop-classic": "mop-classic",
+           "multilanguage-forever": "forever"}
 
 
 def sha(path):
     return hashlib.sha256(path.read_bytes()).hexdigest()
 
 
-def check(audit, questdata, corpus_path):
+def check(audit, questdata, corpus_path, next_inputs=None):
     manifest = json.loads((questdata / "source-manifest.json").read_text(encoding="utf-8"))
     report, corpus, summary = manifest["referenceSources"], {}, {}
     for line in corpus_path.open(encoding="utf-8"):
@@ -26,7 +28,8 @@ def check(audit, questdata, corpus_path):
         fields[row["category"]] = row["text"]
     for source, info in report["sources"].items():
         for locale, stats in info["locales"].items():
-            path = audit / f"extracted/ml-{FLAVORS[source]}-{'de' if locale == 'deDE' else 'en'}.jsonl"
+            input_root = next_inputs if next_inputs and source not in ("multilanguage-classic-master", "multilanguage-tbc") else audit
+            path = input_root / f"extracted/ml-{FLAVORS[source]}-{'de' if locale == 'deDE' else 'en'}.jsonl"
             originals = {row["id"]: row for row in (json.loads(line) for line in path.open(encoding="utf-8"))}
             kept, exclusions = corpus[(source, locale)], stats["excluded"]
             gone = {row["id"] for row in exclusions if row["field"] == "record"}
@@ -45,6 +48,15 @@ def check(audit, questdata, corpus_path):
             assert dict(actual) == stats["fields"]
             summary[source + " " + locale] = {"records": len(kept), "fields": sum(actual.values()),
                                               "excludedRecords": len(gone), "excludedFields": len(removed)}
+    if next_inputs:
+        old_retail = {row["id"]: row for row in map(json.loads, (audit / "extracted/ml-retail-en.jsonl").read_text(encoding="utf-8").splitlines())}
+        current_retail = {row["id"]: row for row in map(json.loads, (next_inputs / "extracted/ml-retail-en.jsonl").read_text(encoding="utf-8").splitlines())}
+        assert all(current_retail.get(qid) == row for qid, row in old_retail.items())
+        assert len(current_retail.keys() - old_retail.keys()) == 887
+        for name, expected in report["nextBatch"]["rawSourceSha256"].items():
+            assert sha(next_inputs / name) == expected
+        for name, expected in report["nextBatch"]["inputExportsSha256"].items():
+            assert sha(next_inputs / "extracted" / name) == expected
     assert all(sha(questdata / name) == expected for name, expected in manifest["files"].items())
     assert set(report["files"]) == {"ReferenceMetadata.lua"} | {
         path.relative_to(questdata).as_posix() for path in (questdata / "References").rglob("*.lua")}
@@ -59,8 +71,9 @@ def main():
     parser.add_argument("--questdata", type=Path, required=True)
     parser.add_argument("--corpus", type=Path, required=True)
     parser.add_argument("--out", type=Path)
+    parser.add_argument("--next-inputs", type=Path)
     args = parser.parse_args()
-    result = check(args.audit, args.questdata, args.corpus)
+    result = check(args.audit, args.questdata, args.corpus, args.next_inputs)
     text = json.dumps(result, ensure_ascii=False, indent=2) + "\n"
     if args.out:
         args.out.write_bytes(text.encode("utf-8"))

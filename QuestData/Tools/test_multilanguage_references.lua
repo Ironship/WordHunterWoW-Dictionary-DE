@@ -4,11 +4,15 @@ local files = {}
 local list = assert(io.open(fileList))
 for line in list:lines() do files[#files + 1] = line:gsub("\r$", "") end
 list:close()
-assert(files[1] == "ReferenceMetadata.lua" and #files == 472)
+assert(files[1] == "ReferenceMetadata.lua" and #files == 839)
 local counts = {
     ["multilanguage-classic-master"] = {deDE = 5281, enUS = 5310},
     ["multilanguage-tbc"] = {deDE = 6655, enUS = 6652},
-    ["multilanguage-retail"] = {deDE = 45322, enUS = 47662},
+    ["multilanguage-retail"] = {deDE = 45322, enUS = 48543},
+    ["multilanguage-wrath"] = {deDE = 9058, enUS = 9126},
+    ["multilanguage-cata"] = {deDE = 14205, enUS = 14268},
+    ["multilanguage-mop-classic"] = {deDE = 16217, enUS = 16487},
+    ["multilanguage-forever"] = {deDE = 5281, enUS = 5183},
 }
 local function count(table)
     local result = 0
@@ -17,10 +21,25 @@ local function count(table)
 end
 for _, case in ipairs({
     {name = "Classic", flavor = "classic", version = "1.15.9", master = true},
-    {name = "Forever", flavor = "forever", version = "1.60.1", master = true},
+    {name = "Forever", flavor = "forever", version = "1.60.1", master = true, forever = true},
     {name = "SoD", flavor = "sod", version = "1.15.9", master = true},
     {name = "Retail", flavor = "retail", version = "12.0.5", retail = true},
     {name = "TBC", flavor = "classic", version = "2.6.0", master = true, tbc = true},
+    {name = "Wrath", flavor = "classic", version = "3.4.3", master = true, wrath = true},
+    {name = "Cata", flavor = "classic", version = "4.4.2", master = true, cata = true},
+    {name = "MoP", flavor = "classic", version = "5.5.2", master = true, mop = true},
+    {name = "Retail version 2", flavor = "retail", version = "2.6.0", retail = true},
+    {name = "Retail version 3", flavor = "retail", version = "3.4.3", retail = true},
+    {name = "Retail version 4", flavor = "retail", version = "4.4.2", retail = true},
+    {name = "Retail version 5", flavor = "retail", version = "5.5.2", retail = true},
+    {name = "Missing version", flavor = "classic", master = true},
+    {name = "Numeric version", flavor = "classic", version = 30403, master = true},
+    {name = "Malformed version", flavor = "classic", version = "3.bad", master = true},
+    {name = "Incomplete version", flavor = "classic", version = "3.4", master = true},
+    {name = "Unknown flavor with TBC version", flavor = "unknown", version = "2.6.0", master = true},
+    {name = "Unknown flavor with Wrath version", flavor = "unknown", version = "3.4.3", master = true},
+    {name = "Unknown flavor with Cata version", flavor = "unknown", version = "4.4.2", master = true},
+    {name = "Unknown flavor with MoP version", flavor = "unknown", version = "5.5.2", master = true},
     {name = "Unknown"},
 }) do
     local native, alias, saved = {nativeSentinel = true}, {retailAliasSentinel = true}, {userSentinel = true}
@@ -43,7 +62,9 @@ for _, case in ipairs({
         "references must not copy material into SavedVariables")
     local sources = assert(env.WordHunterWoW_QuestSources)
     local allowed = { ["multilanguage-classic-master"] = case.master,
-                      ["multilanguage-tbc"] = case.tbc, ["multilanguage-retail"] = case.retail }
+                      ["multilanguage-tbc"] = case.tbc, ["multilanguage-retail"] = case.retail,
+                      ["multilanguage-wrath"] = case.wrath, ["multilanguage-cata"] = case.cata,
+                      ["multilanguage-mop-classic"] = case.mop, ["multilanguage-forever"] = case.forever }
     for key, expected in pairs(counts) do
         local library = sources[key]
         if not allowed[key] then
@@ -74,6 +95,13 @@ for _, case in ipairs({
                 end
             end
         end
+    end
+    if case.wrath then
+        assert(sources["multilanguage-wrath"].localeSources.deDE.revision == "a0a5e66931a7f13f06e4f73d1dd472215c5da5a9",
+            "German Wrath must use the historical last-WOTLK snapshot")
+    end
+    if case.cata then
+        assert(sources["multilanguage-cata"].localeSources.deDE.revision == "868743d847392a43bf3b353501432d64db8b8820")
     end
     if case.master then
         local de = sources["multilanguage-classic-master"].locales.deDE

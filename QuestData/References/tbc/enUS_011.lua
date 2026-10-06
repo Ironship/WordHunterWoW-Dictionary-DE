@@ -1,6 +1,9 @@
 -- Generated source references; not native quest records.
+local addon = WordHunterWoW_Addon
+local compat = addon and addon.Compat
+local flavor = compat and compat.GameFlavor and compat.GameFlavor()
 local version = GetBuildInfo and GetBuildInfo()
-if not (type(version) == "string" and version:match("^2%.")) then return end
+if not ((flavor == "classic" or flavor == "sod" or flavor == "forever") and type(version) == "string" and version:match("^2%.%d+%.%d+$")) then return end
 local pack = WordHunterWoW_QuestSources and WordHunterWoW_QuestSources["multilanguage-tbc"]
 if not pack then return end
 pack.loaded = true

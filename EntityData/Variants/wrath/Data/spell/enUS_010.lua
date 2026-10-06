@@ -1,0 +1,1004 @@
+-- Generated static reference; see EntityData/source-manifest.json.
+local ref = WordHunterWoW_EntityDataBySource and WordHunterWoW_EntityDataBySource["multilanguage-wrath"]
+if not ref then return end
+local entries = ref.kinds["spell"]["enUS"]
+entries[21436] = { ["name"] = "Attack Power Ranged 26", ["text"] = "Increases ranged attack power by 26." }
+entries[21437] = { ["name"] = "Attack Power Ranged 29", ["text"] = "Increases ranged attack power by 29." }
+entries[21438] = { ["name"] = "Attack Power Ranged 31", ["text"] = "Increases ranged attack power by 31." }
+entries[21439] = { ["name"] = "Attack Power Ranged 34", ["text"] = "Increases ranged attack power by 34." }
+entries[21440] = { ["name"] = "Attack Power Ranged 36", ["text"] = "Increases ranged attack power by 36." }
+entries[21441] = { ["name"] = "Attack Power Ranged 38", ["text"] = "Increases ranged attack power by 38." }
+entries[21442] = { ["name"] = "Attack Power Ranged 41", ["text"] = "Increases ranged attack power by 41." }
+entries[21443] = { ["name"] = "Attack Power Ranged 43", ["text"] = "Increases ranged attack power by 43." }
+entries[21444] = { ["name"] = "Attack Power Ranged 46", ["text"] = "Increases ranged attack power by 46." }
+entries[21445] = { ["name"] = "Attack Power Ranged 48", ["text"] = "Increases ranged attack power by 48." }
+entries[21446] = { ["name"] = "Attack Power Ranged 50", ["text"] = "Increases ranged attack power by 50." }
+entries[21447] = { ["name"] = "Attack Power Ranged 53", ["text"] = "Increases ranged attack power by 53." }
+entries[21448] = { ["name"] = "Attack Power Ranged 55", ["text"] = "Increases ranged attack power by 55." }
+entries[21449] = { ["name"] = "Attack Power Ranged 58", ["text"] = "Increases ranged attack power by 58." }
+entries[21450] = { ["name"] = "Attack Power Ranged 62", ["text"] = "Increases ranged attack power by 62." }
+entries[21451] = { ["name"] = "Attack Power Ranged 65", ["text"] = "Increases ranged attack power by 65." }
+entries[21452] = { ["name"] = "Attack Power Ranged 67", ["text"] = "Increases ranged attack power by 67." }
+entries[21453] = { ["name"] = "Attack Power Ranged 70", ["text"] = "Increases ranged attack power by 70." }
+entries[21454] = { ["name"] = "Attack Power Ranged 72", ["text"] = "Increases ranged attack power by 72." }
+entries[21455] = { ["name"] = "Attack Power Ranged 74", ["text"] = "Increases ranged attack power by 74." }
+entries[21456] = { ["name"] = "Attack Power Ranged 77", ["text"] = "Increases ranged attack power by 77." }
+entries[21457] = { ["name"] = "Attack Power Ranged 79", ["text"] = "Increases ranged attack power by 79." }
+entries[21458] = { ["name"] = "Attack Power Ranged 82", ["text"] = "Increases ranged attack power by 82." }
+entries[21459] = { ["name"] = "Attack Power Ranged 84", ["text"] = "Increases ranged attack power by 84." }
+entries[21460] = { ["name"] = "Attack Power Ranged 86", ["text"] = "Increases ranged attack power by 86." }
+entries[21461] = { ["name"] = "Attack Power Ranged 89", ["text"] = "Increases ranged attack power by 89." }
+entries[21462] = { ["name"] = "Attack Power Ranged 91", ["text"] = "Increases ranged attack power by 91." }
+entries[21463] = { ["name"] = "Teleport to Player" }
+entries[21464] = { ["name"] = "Conjure Ryson's Beacon (Horde) DND" }
+entries[21465] = { ["name"] = "Conjure Ryson's Beacon (Alliance) DND" }
+entries[21466] = { ["name"] = "Increased Block 4", ["text"] = "Increases your block rating by 4." }
+entries[21467] = { ["name"] = "Increased Block 3", ["text"] = "Increases your block rating by 3." }
+entries[21468] = { ["name"] = "Increased Block 2", ["text"] = "Increases your block rating by 2." }
+entries[21469] = { ["name"] = "Increased Block 1", ["text"] = "Increases your block rating by 1." }
+entries[21470] = { ["name"] = "Increased Block 6", ["text"] = "Increases your block rating by 6." }
+entries[21471] = { ["name"] = "Increased Block 7", ["text"] = "Increases your block rating by 7." }
+entries[21472] = { ["name"] = "Increased Block 8", ["text"] = "Increases your block rating by 8." }
+entries[21473] = { ["name"] = "Increased Block 9", ["text"] = "Increases your block rating by 9." }
+entries[21474] = { ["name"] = "Increased Block 11", ["text"] = "Increases your block rating by 11." }
+entries[21475] = { ["name"] = "Increased Block 12", ["text"] = "Increases your block rating by 12." }
+entries[21476] = { ["name"] = "Increased Block 13", ["text"] = "Increases your block rating by 13." }
+entries[21477] = { ["name"] = "Increased Block 14", ["text"] = "Increases your block rating by 14." }
+entries[21478] = { ["name"] = "Increased Block 16", ["text"] = "Increases your block rating by 16." }
+entries[21479] = { ["name"] = "Increased Block 17", ["text"] = "Increases your block rating by 17." }
+entries[21480] = { ["name"] = "Increased Block 18", ["text"] = "Increases your block rating by 18." }
+entries[21481] = { ["name"] = "Increased Block 19", ["text"] = "Increases your block rating by 19." }
+entries[21482] = { ["name"] = "Increased Block 21", ["text"] = "Increases your block rating by 21." }
+entries[21483] = { ["name"] = "Increased Block 22", ["text"] = "Increases your block rating by 22." }
+entries[21484] = { ["name"] = "Increased Block 23", ["text"] = "Increases your block rating by 23." }
+entries[21485] = { ["name"] = "Increased Block 24", ["text"] = "Increases your block rating by 24." }
+entries[21486] = { ["name"] = "Increased Block 26", ["text"] = "Increases your block rating by 26." }
+entries[21487] = { ["name"] = "Increased Block 27", ["text"] = "Increases your block rating by 27." }
+entries[21488] = { ["name"] = "Increased Block 28", ["text"] = "Increases your block rating by 28." }
+entries[21489] = { ["name"] = "Increased Block 29", ["text"] = "Increases your block rating by 29." }
+entries[21490] = { ["name"] = "Increased Block 30", ["text"] = "Increases your block rating by 30." }
+entries[21491] = { ["name"] = "Increased Block 31", ["text"] = "Increases your block rating by 31." }
+entries[21492] = { ["name"] = "Increased Block 32", ["text"] = "Increases your block rating by 32." }
+entries[21493] = { ["name"] = "Increased Block 33", ["text"] = "Increases your block rating by 33." }
+entries[21494] = { ["name"] = "Increased Block 34", ["text"] = "Increases your block rating by 34." }
+entries[21495] = { ["name"] = "Increased Block 35", ["text"] = "Increases your block rating by 35." }
+entries[21496] = { ["name"] = "Increased Block 36", ["text"] = "Increases your block rating by 36." }
+entries[21497] = { ["name"] = "Increased Block 37", ["text"] = "Increases your block rating by 37." }
+entries[21498] = { ["name"] = "Increased Block 38", ["text"] = "Increases your block rating by 38." }
+entries[21499] = { ["name"] = "Increase Holy Dam 1", ["text"] = "Increases holy spell power by 1." }
+entries[21500] = { ["name"] = "Increase Holy Dam 3", ["text"] = "Increases holy spell power by 3." }
+entries[21501] = { ["name"] = "Increase Holy Dam 4", ["text"] = "Increases holy spell power by 4." }
+entries[21502] = { ["name"] = "Increase Holy Dam 6", ["text"] = "Increases holy spell power by 6." }
+entries[21503] = { ["name"] = "Increase Holy Dam 7", ["text"] = "Increases holy spell power by 7." }
+entries[21504] = { ["name"] = "Increase Holy Dam 9", ["text"] = "Increases holy spell power by 9." }
+entries[21505] = { ["name"] = "Increase Holy Dam 10", ["text"] = "Increases holy spell power by 10." }
+entries[21506] = { ["name"] = "Increase Holy Dam 11", ["text"] = "Increases holy spell power by 11." }
+entries[21507] = { ["name"] = "Increase Holy Dam 13", ["text"] = "Increases holy spell power by 13." }
+entries[21508] = { ["name"] = "Increase Holy Dam 14", ["text"] = "Increases holy spell power by 14." }
+entries[21509] = { ["name"] = "Increase Holy Dam 16", ["text"] = "Increases holy spell power by 16." }
+entries[21510] = { ["name"] = "Increase Holy Dam 17", ["text"] = "Increases holy spell power by 17." }
+entries[21511] = { ["name"] = "Increase Holy Dam 19", ["text"] = "Increases holy spell power by 19." }
+entries[21512] = { ["name"] = "Increase Holy Dam 20", ["text"] = "Increases holy spell power by 20." }
+entries[21513] = { ["name"] = "Increase Holy Dam 21", ["text"] = "Increases holy spell power by 21." }
+entries[21514] = { ["name"] = "Increase Holy Dam 23", ["text"] = "Increases holy spell power by 23." }
+entries[21515] = { ["name"] = "Increase Holy Dam 24", ["text"] = "Increases holy spell power by 24." }
+entries[21516] = { ["name"] = "Increase Holy Dam 26", ["text"] = "Increases holy spell power by 26." }
+entries[21517] = { ["name"] = "Increase Holy Dam 27", ["text"] = "Increases holy spell power by 27." }
+entries[21518] = { ["name"] = "Increase Holy Dam 29", ["text"] = "Increases holy spell power by 29." }
+entries[21519] = { ["name"] = "Increase Holy Dam 30", ["text"] = "Increases holy spell power by 30." }
+entries[21520] = { ["name"] = "Increase Holy Dam 31", ["text"] = "Increases holy spell power by 31." }
+entries[21521] = { ["name"] = "Increase Holy Dam 33", ["text"] = "Increases holy spell power by 33." }
+entries[21522] = { ["name"] = "Increase Holy Dam 34", ["text"] = "Increases holy spell power by 34." }
+entries[21523] = { ["name"] = "Increase Holy Dam 36", ["text"] = "Increases holy spell power by 36." }
+entries[21524] = { ["name"] = "Increase Holy Dam 37", ["text"] = "Increases holy spell power by 37." }
+entries[21525] = { ["name"] = "Increase Holy Dam 39", ["text"] = "Increases holy spell power by 39." }
+entries[21526] = { ["name"] = "Increase Holy Dam 40", ["text"] = "Increases holy spell power by 40." }
+entries[21527] = { ["name"] = "Increase Holy Dam 41", ["text"] = "Increases holy spell power by 41." }
+entries[21528] = { ["name"] = "Increase Holy Dam 43", ["text"] = "Increases holy spell power by 43." }
+entries[21529] = { ["name"] = "Increase Holy Dam 44", ["text"] = "Increases holy spell power by 44." }
+entries[21530] = { ["name"] = "Increase Holy Dam 46", ["text"] = "Increases holy spell power by 46." }
+entries[21531] = { ["name"] = "Increase Holy Dam 47", ["text"] = "Increases holy spell power by 47." }
+entries[21532] = { ["name"] = "Increase Holy Dam 49", ["text"] = "Increases holy spell power by 49." }
+entries[21533] = { ["name"] = "Increase Holy Dam 50", ["text"] = "Increases holy spell power by 50." }
+entries[21534] = { ["name"] = "Increase Holy Dam 51", ["text"] = "Increases holy spell power by 51." }
+entries[21535] = { ["name"] = "Increase Holy Dam 53", ["text"] = "Increases holy spell power by 53." }
+entries[21536] = { ["name"] = "Increase Holy Dam 54", ["text"] = "Increases holy spell power by 54." }
+entries[21537] = { ["name"] = "Planting Ryson's Beacon", ["text"] = "5 yd range\n5 sec cast\nPlants the beacon in the Dun Baldar Courtyard. Protect it from harm!" }
+entries[21538] = { ["name"] = "Planting Ryson's Beacon", ["text"] = "5 yd range\n5 sec cast\nPlants the beacon in the Frostwolf Keep Courtyard. Protect it from harm!" }
+entries[21539] = { ["name"] = "Block Value 02", ["text"] = "Increases the block value of your shield by 2." }
+entries[21541] = { ["name"] = "Conjure Scrying Scope (Horde) DND" }
+entries[21542] = { ["name"] = "Conjure Scrying Scope (Alliance) DND" }
+entries[21543] = { ["name"] = "Teleport to Player" }
+entries[21544] = { ["name"] = "Create Shredder", ["text"] = "5 yd range\n1 sec cast\nCreates a Shredder Unit that you control!" }
+entries[21546] = { ["name"] = "Ryson's All Seeing Eye" }
+entries[21547] = { ["name"] = "Spore Cloud" }
+entries[21549] = { ["name"] = "Fireball", ["text"] = "40 yd range\n3 sec cast\nInflicts Fire damage to an enemy." }
+entries[21551] = { ["name"] = "Mortal Strike", ["text"] = "30 Rage Melee Range\nInstant cast 6 sec cooldown\nRequires Melee Weapon\nA vicious strike that deals weapon damage plus 110 and wounds the target, reducing the effectiveness of any healing by 50% for 10 sec." }
+entries[21552] = { ["name"] = "Mortal Strike", ["text"] = "30 Rage Melee Range\nInstant cast 6 sec cooldown\nRequires Melee Weapon\nA vicious strike that deals weapon damage plus 135 and wounds the target, reducing the effectiveness of any healing by 50% for 10 sec." }
+entries[21553] = { ["name"] = "Mortal Strike", ["text"] = "30 Rage Melee Range\nInstant cast 6 sec cooldown\nRequires Melee Weapon\nA vicious strike that deals weapon damage plus 160 and wounds the target, reducing the effectiveness of any healing by 50% for 10 sec." }
+entries[21556] = { ["name"] = "Control Shredder" }
+entries[21559] = { ["name"] = "Shredder Armor Melt", ["text"] = "2 sec cast\nDeals 740 to 860 Fire damage to all targets in a cone in front of the caster. Also causes 5% durability damage to the chest armor of your opponent." }
+entries[21562] = { ["name"] = "Prayer of Fortitude", ["text"] = "69% of base mana 40 yd range\nInstant\nReagents:\nHoly Candle\nPower infuses all party and raid members, increasing their Stamina by 43 for 1 hour." }
+entries[21563] = { ["name"] = "Command", ["text"] = "Damage dealt by Death Knight, Hunter and Warlock pets increased by 5%." }
+entries[21564] = { ["name"] = "Prayer of Fortitude", ["text"] = "69% of base mana 40 yd range\nInstant\nReagents:\nSacred Candle\nPower infuses all party and raid members, increasing their Stamina by 54 for 1 hour." }
+entries[21565] = { ["name"] = "Create Shredder", ["text"] = "5 yd range\n1 sec cast\nCreates a Shredder Unit that you control!" }
+entries[21566] = { ["name"] = "Control Shredder" }
+entries[21587] = { ["name"] = "Vitality", ["text"] = "Restores 1 health per 5 sec." }
+entries[21588] = { ["name"] = "Vitality", ["text"] = "Restores 1 health per 5 sec." }
+entries[21589] = { ["name"] = "Vitality", ["text"] = "Restores 1 health per 5 sec." }
+entries[21590] = { ["name"] = "Vitality", ["text"] = "Restores 2 health per 5 sec." }
+entries[21592] = { ["name"] = "Vitality", ["text"] = "Restores 3 health per 5 sec." }
+entries[21593] = { ["name"] = "Vitality", ["text"] = "Restores 3 health per 5 sec." }
+entries[21594] = { ["name"] = "Vitality", ["text"] = "Restores 4 health per 5 sec." }
+entries[21595] = { ["name"] = "Vitality", ["text"] = "Restores 4 health per 5 sec." }
+entries[21596] = { ["name"] = "Vitality", ["text"] = "Restores 5 health per 5 sec." }
+entries[21597] = { ["name"] = "Vitality", ["text"] = "Restores 5 health per 5 sec." }
+entries[21598] = { ["name"] = "Vitality", ["text"] = "Restores 6 health per 5 sec." }
+entries[21599] = { ["name"] = "Vitality", ["text"] = "Restores 6 health per 5 sec." }
+entries[21600] = { ["name"] = "Vitality", ["text"] = "Restores 7 health per 5 sec." }
+entries[21601] = { ["name"] = "Vitality", ["text"] = "Restores 7 health per 5 sec." }
+entries[21602] = { ["name"] = "Vitality", ["text"] = "Restores 8 health per 5 sec." }
+entries[21603] = { ["name"] = "Vitality", ["text"] = "Restores 8 health per 5 sec." }
+entries[21604] = { ["name"] = "Vitality", ["text"] = "Restores 9 health per 5 sec." }
+entries[21605] = { ["name"] = "Vitality", ["text"] = "Restores 9 health per 5 sec." }
+entries[21606] = { ["name"] = "Vitality", ["text"] = "Restores 10 health per 5 sec." }
+entries[21607] = { ["name"] = "Vitality", ["text"] = "Restores 10 health per 5 sec." }
+entries[21608] = { ["name"] = "Vitality", ["text"] = "Restores 11 health per 5 sec." }
+entries[21609] = { ["name"] = "Vitality", ["text"] = "Restores 11 health per 5 sec." }
+entries[21610] = { ["name"] = "Vitality", ["text"] = "Restores 12 health per 5 sec." }
+entries[21611] = { ["name"] = "Vitality", ["text"] = "Restores 12 health per 5 sec." }
+entries[21612] = { ["name"] = "Vitality", ["text"] = "Restores 13 health per 5 sec." }
+entries[21613] = { ["name"] = "Vitality", ["text"] = "Restores 13 health per 5 sec." }
+entries[21614] = { ["name"] = "Vitality", ["text"] = "Restores 9 health per 5 sec." }
+entries[21615] = { ["name"] = "Vitality", ["text"] = "Restores 14 health per 5 sec." }
+entries[21616] = { ["name"] = "Vitality", ["text"] = "Restores 15 health per 5 sec." }
+entries[21617] = { ["name"] = "Vitality", ["text"] = "Restores 15 health per 5 sec." }
+entries[21618] = { ["name"] = "Increased Mana Regen", ["text"] = "Restores 5 mana per 5 sec." }
+entries[21619] = { ["name"] = "Increased Mana Regen", ["text"] = "Restores 5 mana per 5 sec." }
+entries[21620] = { ["name"] = "Increased Mana Regen", ["text"] = "Restores 6 mana per 5 sec." }
+entries[21621] = { ["name"] = "Increased Mana Regen", ["text"] = "Restores 1 mana per 5 sec." }
+entries[21622] = { ["name"] = "Increased Mana Regen", ["text"] = "Restores 1 mana per 5 sec." }
+entries[21623] = { ["name"] = "Increased Mana Regen", ["text"] = "Restores 3 mana per 5 sec." }
+entries[21624] = { ["name"] = "Increased Mana Regen", ["text"] = "Restores 3 mana per 5 sec." }
+entries[21625] = { ["name"] = "Increased Mana Regen", ["text"] = "Restores 4 mana per 5 sec." }
+entries[21626] = { ["name"] = "Increased Mana Regen", ["text"] = "Restores 8 mana per 5 sec." }
+entries[21627] = { ["name"] = "Increased Mana Regen", ["text"] = "Restores 8 mana per 5 sec." }
+entries[21628] = { ["name"] = "Increased Mana Regen", ["text"] = "Restores 9 mana per 5 sec." }
+entries[21629] = { ["name"] = "Increased Mana Regen", ["text"] = "Restores 10 mana per 5 sec." }
+entries[21630] = { ["name"] = "Increased Mana Regen", ["text"] = "Restores 10 mana per 5 sec." }
+entries[21631] = { ["name"] = "Increased Mana Regen", ["text"] = "Restores 11 mana per 5 sec." }
+entries[21632] = { ["name"] = "Increased Mana Regen", ["text"] = "Restores 13 mana per 5 sec." }
+entries[21633] = { ["name"] = "Increased Mana Regen", ["text"] = "Restores 13 mana per 5 sec." }
+entries[21634] = { ["name"] = "Increased Mana Regen", ["text"] = "Restores 14 mana per 5 sec." }
+entries[21635] = { ["name"] = "Increased Mana Regen", ["text"] = "Restores 15 mana per 5 sec." }
+entries[21636] = { ["name"] = "Increased Mana Regen", ["text"] = "Restores 15 mana per 5 sec." }
+entries[21637] = { ["name"] = "Increased Mana Regen", ["text"] = "Restores 15 mana per 5 sec." }
+entries[21638] = { ["name"] = "Increased Mana Regen", ["text"] = "Restores 16 mana per 5 sec." }
+entries[21639] = { ["name"] = "Increased Mana Regen", ["text"] = "Restores 16 mana per 5 sec." }
+entries[21640] = { ["name"] = "Increased Mana Regen", ["text"] = "Restores 18 mana per 5 sec." }
+entries[21641] = { ["name"] = "Increased Mana Regen", ["text"] = "Restores 18 mana per 5 sec." }
+entries[21642] = { ["name"] = "Increased Mana Regen", ["text"] = "Restores 18 mana per 5 sec." }
+entries[21643] = { ["name"] = "Increased Mana Regen", ["text"] = "Restores 19 mana per 5 sec." }
+entries[21644] = { ["name"] = "Increased Mana Regen", ["text"] = "Restores 19 mana per 5 sec." }
+entries[21645] = { ["name"] = "Virulent Poison Proc", ["text"] = "(Proc chance: 75%)" }
+entries[21646] = { ["name"] = "Conjure Circle of Calling" }
+entries[21647] = { ["name"] = "Frostwolf Reputation +5" }
+entries[21648] = { ["name"] = "Call to Ivus" }
+entries[21649] = { ["name"] = "Ivus Teleport Visual DND" }
+entries[21650] = { ["name"] = "Building Fire" }
+entries[21651] = { ["name"] = "Opening" }
+entries[21652] = { ["name"] = "Closing" }
+entries[21653] = { ["name"] = "Vipore Cat Form DND" }
+entries[21655] = { ["name"] = "Blink", ["text"] = "Instant\nTeleports the caster 20 yd. forward unless something is in the way. Also frees the caster from any bonds." }
+entries[21667] = { ["name"] = "Wrath", ["text"] = "40 yd range\n1.5 sec cast\nHurls a bolt of lightning at an enemy, inflicting 638 to 862 Nature damage." }
+entries[21668] = { ["name"] = "Starfire", ["text"] = "100 Mana 30 yd range\n2 sec cast\nCauses 900 to 1100 Arcane damage to the target." }
+entries[21669] = { ["name"] = "Moonfire", ["text"] = "150 Mana 40 yd range\nInstant\nInflicts 760 to 840 Arcane damage to an enemy, then an additional 190 to 210 damage every 3 sec. for 12 sec." }
+entries[21670] = { ["name"] = "Faerie Fire", ["text"] = "50 Mana 30 yd range\nInstant\nReduces an enemy's armor by 2000 for 1 min. While affected, the target cannot use stealth or invisibility." }
+entries[21687] = { ["name"] = "Toxic Volley", ["text"] = "30 yd range\nInstant\nInflicts Nature damage to an enemy." }
+entries[21688] = { ["name"] = "Goblin Land Mine", ["text"] = "5 yd range\nInstant\nPlaces the Goblin Land Mine on the ground. It will explode for 450 fire damage the next time a hostile creature passes near it." }
+entries[21707] = { ["name"] = "Summon Noxxion's Spawns", ["text"] = "Instant\nSummons 5 Noxxion Spawns." }
+entries[21708] = { ["name"] = "Summon Noxxion's Spawns" }
+entries[21728] = { ["name"] = "Planting Ichman's Beacon", ["text"] = "10 yd range\n5 sec cast\nPlants the beacon at the Snowfall Graveyard. Protect it from harm!" }
+entries[21729] = { ["name"] = "Planting Slidore's Beacon", ["text"] = "5 yd range\n5 sec cast\nPlants the beacon in the Eastern Crater. Protect it from harm!" }
+entries[21730] = { ["name"] = "Planting Vipore's Beacon", ["text"] = "5 yd range\n5 sec cast\nPlants the beacon in the Western Crater. Protect it from harm!" }
+entries[21731] = { ["name"] = "Conjure Ichman's Beacon DND" }
+entries[21732] = { ["name"] = "Conjure Slidore's Beacon DND" }
+entries[21734] = { ["name"] = "Conjure Vipore's Beacon DND" }
+entries[21735] = { ["name"] = "Conjure Vipore's Beacon DND" }
+entries[21737] = { ["name"] = "Periodic Knock Away", ["text"] = "Unlimited range\nInstant\nPeriodically knocks enemies away" }
+entries[21740] = { ["name"] = "Demonic Ally" }
+entries[21741] = { ["name"] = "Demonic Ally", ["text"] = "Your pet gains 15 stamina and 100 spell resistance against all schools of magic." }
+entries[21744] = { ["name"] = "Spirit of Blessing", ["text"] = "Reduces the casting cost of all your Blessings by 30." }
+entries[21745] = { ["name"] = "Bone Gryphon" }
+entries[21747] = { ["name"] = "Lawbringer", ["text"] = "Gives the Paladin a chance on every melee hit to heal your party for 189 to 211." }
+entries[21748] = { ["name"] = "Thorn Volley", ["text"] = "Instant\nDeals 75 damage to nearby enemies, knocking them down for 2 sec." }
+entries[21749] = { ["name"] = "Thorn Volley", ["text"] = "Instant\nDeals 150 damage to nearby enemies, knocking them down for 2 sec." }
+entries[21751] = { ["name"] = "Perm. Illusion Skeleton" }
+entries[21787] = { ["name"] = "Deadly Poison", ["text"] = "10 yd range2 sec cast 2 min cooldown\nInflicts 3 Nature damage to an enemy every 10 sec. for 2 min." }
+entries[21788] = { ["name"] = "Deadly Poison", ["text"] = "(Proc chance: 15%)" }
+entries[21790] = { ["name"] = "Aqua Jet", ["text"] = "Instant\nSprays water in all directions, inflicting Frost damage to nearby enemies and knocking them back." }
+entries[21791] = { ["name"] = "Tranquility", ["text"] = "200 Mana\nChanneled (10 sec cast)\nRegenerates all nearby group members for 64 every 2 seconds for 10 sec. Druid must channel to maintain the spell." }
+entries[21793] = { ["name"] = "Twisted Tranquility", ["text"] = "200 Mana\nChanneled (10 sec cast)\nDeals nature damage to enemies in an area over 10 sec, slowing their movement by 70% and increasing the time between their attacks by 300%." }
+entries[21794] = { ["name"] = "Frostwolf Muzzle DND", ["text"] = "10 yd range\nChanneled (16 sec cast)\nUse to muzzle a Frostwolf. Return the muzzled animal to the Frostwolf Stable Master." }
+entries[21807] = { ["name"] = "Wrath", ["text"] = "75 Mana 40 yd range\n2 sec cast\nHurls a bolt of lightning at an enemy, inflicting Nature damage." }
+entries[21808] = { ["name"] = "Landslide", ["text"] = "Channeled (8 sec cast)\nSummons Theradrim Shardlings every 2 seconds and stuns enemies in an area for 8 sec." }
+entries[21809] = { ["name"] = "Summon Theradrim Shardling" }
+entries[21829] = { ["name"] = "Stormpike Reputation +2" }
+entries[21831] = { ["name"] = "Improved Rend", ["text"] = "Increases the bleed damage done by your Rend ability by 4 per period." }
+entries[21832] = { ["name"] = "Boulder", ["text"] = "5 - 30 yd range\n2 sec cast\nHurls a boulder at an enemy." }
+entries[21833] = { ["name"] = "Goblin Dragon Gun", ["text"] = "Channeled (8 sec cast)\nDeals 61 to 69 fire damage for 8 sec to all targets in a cone in front of the engineer using the weapon. That is unless it explodes....." }
+entries[21834] = { ["name"] = "Gizlock's Dummy", ["text"] = "15 yd range\nInstant\nDrops a target dummy on the ground that attracts nearby monsters to attack it. Lasts for 3 min." }
+entries[21835] = { ["name"] = "Gizlock's Dummy Charm Effect" }
+entries[21836] = { ["name"] = "Gizlock's Dummy Charm" }
+entries[21837] = { ["name"] = "Gizlock's Dummy Effect" }
+entries[21838] = { ["name"] = "Battlegear of Might", ["text"] = "Gives you a 20% chance to generate an additional Rage point whenever damage is dealt to you.\n(Proc chance: 20%)" }
+entries[21840] = { ["name"] = "Battlegear of Might" }
+entries[21841] = { ["name"] = "Battlegear of Might", ["text"] = "You have a 25% chance whenever you deal melee damage to reduce your victim's attack power by 130 for 6 sec.\n(Proc chance: 25%)" }
+entries[21847] = { ["name"] = "Snowman" }
+entries[21848] = { ["name"] = "Snowman", ["text"] = "1.5 sec cast\nReagents:\nSnowball\nChange yourself into something more befitting the wintry season. Requires a Snowball to use." }
+entries[21849] = { ["name"] = "Gift of the Wild", ["text"] = "64% of base mana 40 yd range\nInstant\nReagents:\nWild Berries\nGives the Gift of the Wild to all party and raid members, increasing armor by 240, all attributes by 10 and all resistances by 15 for 1 hour." }
+entries[21850] = { ["name"] = "Gift of the Wild", ["text"] = "64% of base mana 40 yd range\nInstant\nReagents:\nWild Thornroot\nGives the Gift of the Wild to all party and raid members, increasing armor by 285, all attributes by 12 and all resistances by 20 for 1 hour." }
+entries[21853] = { ["name"] = "Reactive Fade", ["text"] = "When struck in melee there is a 50% chance you will Fade for 4 sec.\n(Proc chance: 50%, 5s cooldown)" }
+entries[21855] = { ["name"] = "Challenge Flag", ["text"] = "25 yd range\n1 sec cast\nThrow at a Mjordin Combatant within 25 yards. Can only be used on the Savage Ledge." }
+entries[21856] = { ["name"] = "Threatening Strikes", ["text"] = "Increases the threat generated by your Heroic Strike and Mortal Strike abilities.\nModifies Threat +1500:\nHeroic Strike , Heroic Strike , Heroic Strike , Heroic Strike , Heroic Strike , Heroic Strike , Heroic Strike , Heroic Strike , Heroic Strike , Heroic Strike , Heroic Strike , Heroic Strike , Heroic Strike , Mortal Strike , Mortal Strike , Mortal Strike , Mortal Strike , Mortal Strike , Mortal Strike , Mortal Strike , Mortal Strike" }
+entries[21857] = { ["name"] = "Lava Shield" }
+entries[21858] = { ["name"] = "Lava Shield", ["text"] = "Instant\nBurns 150 mana of nearby enemies, and half of the mana burned is dealt as fire damage." }
+entries[21860] = { ["name"] = "Gizlock's Dummy Taunt Effect" }
+entries[21861] = { ["name"] = "Gizlock's Dummy Taunt" }
+entries[21862] = { ["name"] = "Radiation" }
+entries[21866] = { ["name"] = "Alterac Ram Collar DND", ["text"] = "10 yd range\nChanneled (16 sec cast)\nUse to train an Alterac Ram. Return the tamed animal to the Stormpike Stable Master." }
+entries[21868] = { ["name"] = "Dust Field", ["text"] = "Instant\nShake the ground nearby, damaging nearby enemies and knocking them back." }
+entries[21869] = { ["name"] = "Repulsive Gaze", ["text"] = "10 yd range\nInstant\nRoars at an enemy, paralyzing it with terror for 8 sec. and causing all other nearby enemies to flee in fear." }
+entries[21870] = { ["name"] = "Increased Critical Nature", ["text"] = "Increases your critical strike rating with Nature spells by 14." }
+entries[21871] = { ["name"] = "Increased Rejuvenation Duration", ["text"] = "Increases the duration of your Rejuvenation spell by 3 sec." }
+entries[21872] = { ["name"] = "Faster Regrowth Cast", ["text"] = "Reduces the casting time of your Regrowth spell by 0.2 sec." }
+entries[21873] = { ["name"] = "Cheaper Druid Shapeshifting", ["text"] = "Reduces the Mana cost of your shapeshifting spells by 150." }
+entries[21874] = { ["name"] = "Improved Vanish", ["text"] = "Reduces the cooldown of your Vanish ability by 30 sec." }
+entries[21879] = { ["name"] = "Friendly Nukes", ["text"] = "Reduces the threat generated by your Scorch, Arcane Missiles, Fireball, and Frostbolt spells.\nModifies Threat -10000:\nFrostbolt , Frostbolt , Frostbolt , Frostbolt , Frostbolt , Frostbolt , Frostbolt , Frostbolt , Frostbolt , Frostbolt , Frostbolt , Frostbolt , Frostbolt , Frostbolt , Frostbolt , Frostbolt , Scorch , Scorch , Scorch , Scorch , Scorch , Scorch , Scorch , Scorch , Scorch , Scorch , Scorch\n\nModifies Threat -2000:\nFireball , Fireball , Fireball , Fireball , Fireball , Fireball , Fireball , Fireball , Fireball , Fireball , Fireball , Fireball , Fireball , Fireball , Fireball , Fireball" }
+entries[21880] = { ["name"] = "Improved Rupture", ["text"] = "Increases the damage dealt by your Rupture ability by 10 per period." }
+entries[21881] = { ["name"] = "Improved Poisons", ["text"] = "Increases the chance to apply poisons to your target by 5%." }
+entries[21882] = { ["name"] = "Judgement Smite", ["text"] = "20% chance to deal 300 additional Holy damage whenever you cause a critical hit in melee.\n(Proc chance: 20%)" }
+entries[21884] = { ["name"] = "Collect Orange Crystal Liquid", ["text"] = "4 sec cast\nFill at the orange crystal pool in Maraudon." }
+entries[21885] = { ["name"] = "Heal Vylestem Vine", ["text"] = "10 yd range\n0.5 sec cast\nPour on Vylestem Vines to purge them of corruption." }
+entries[21887] = { ["name"] = "Warrior's Wrath", ["text"] = "Instant\nModifies Power Cost -50:\nBladestorm , Bloodthirst , Cleave , Cleave , Cleave , Cleave , Cleave , Cleave , Cleave , Cleave , Cleave , Cleave , Cleave , Cleave , Concussion Blow , Devastate , Devastate , Devastate , Devastate , Devastate , Disarm , Execute , Execute , Execute , Execute , Execute , Execute , Execute , Execute , Execute , Hamstring , Heroic Strike , Heroic Strike , Heroic Strike , Heroic Strike , Heroic Strike , Heroic Strike , Heroic Strike , Heroic Strike , Heroic Strike , Heroic Strike , Heroic Strike , Heroic Strike , Heroic Strike , Intercept , Mocking Blow , Mortal Strike , Mortal Strike , Mortal Strike , Mortal Strike , Mortal Strike , Mortal Strike , Mortal Strike , Mortal Strike , Overpower , Pummel , Rend , Rend , Rend , Rend , Rend , Rend , Rend , Rend , Rend , Rend , Revenge , Revenge , Revenge , Revenge , Revenge , Revenge , Revenge , Revenge , Revenge , Shield Bash , Shield Slam , Shield Slam , Shield Slam , Shield Slam , Shield Slam , Shield Slam , Shield Slam , Shield Slam , Shockwave , Slam , Slam , Slam , Slam , Slam , Slam , Slam , Slam , Sunder Armor , Thunder Clap , Thunder Clap , Thunder Clap , Thunder Clap , Thunder Clap , Thunder Clap , Thunder Clap , Thunder Clap , Thunder Clap , Whirlwind" }
+entries[21889] = { ["name"] = "Judgement Smite" }
+entries[21890] = { ["name"] = "Warrior's Wrath", ["text"] = "20% chance after using an offensive ability requiring rage that your next offensive ability requires 5 less rage to use.\n(Proc chance: 20%)" }
+entries[21891] = { ["name"] = "Earthfury Stat Totem", ["text"] = "+5 to Strength of Earth and Grace of Air totem effect." }
+entries[21892] = { ["name"] = "Arcane Protection", ["text"] = "100 yd range\nInstant\nYou are protected from all physical attacks and spells for 2 sec" }
+entries[21893] = { ["name"] = "Arcane Protection", ["text"] = "When struck in melee, 2% chance you are protected from all physical attacks and spells for 2 sec\n(Proc chance: 2%)" }
+entries[21894] = { ["name"] = "Meditation", ["text"] = "Restores 25 mana per 5 sec." }
+entries[21895] = { ["name"] = "Increased Totem Radius", ["text"] = "The radius of your totems that affect friendly targets is increased to 30 yd." }
+entries[21897] = { ["name"] = "Warlock Terror", ["text"] = "When struck in melee combat, 2% chance your attacker is consumed with fear and flees from you for 2 sec.\n(Proc chance: 2%)" }
+entries[21898] = { ["name"] = "Warlock Terror" }
+entries[21899] = { ["name"] = "Improved Chain Heal", ["text"] = "Increases the amount healed by Chain Heal to targets beyond the first by 5%." }
+entries[21909] = { ["name"] = "Dust Field", ["text"] = "Instant\nShake the ground nearby, damaging nearby enemies and knocking them back." }
+entries[21910] = { ["name"] = "Goblin Dragon Gun", ["text"] = "Instant\nDeals 158 to 192 Fire damage to all enemies in front of the caster." }
+entries[21911] = { ["name"] = "Puncture", ["text"] = "(Proc chance: 50%)" }
+entries[21912] = { ["name"] = "Dummy Nuke" }
+entries[21913] = { ["name"] = "Edge of Winter", ["text"] = "25 sec cast\nTools:\nBlacksmith Hammer\nReagents:\nSteel Bar (10), Frost Oil , Elemental Water (2), Elemental Air (2), Heavy Leather (2)\nEdge of Winter\nBinds when equipped\nOne-Hand Axe\n30 - 56 Damage Speed 2.10\n(20.48 damage per second)\n+3 Stamina\nDurability 75 / 75\n33\nChance on hit: Blasts a target for 30 Frost damage." }
+entries[21916] = { ["name"] = "Celebras Waiting" }
+entries[21919] = { ["name"] = "Thrash", ["text"] = "Instant\nGrants an extra attack on your next swing." }
+entries[21920] = { ["name"] = "Frost Power", ["text"] = "Instant 1 sec cooldown\nIncreases Frost spell power by 15 for 1 hour. Battle Elixir." }
+entries[21921] = { ["name"] = "Demonic Ally" }
+entries[21922] = { ["name"] = "Demonic Ally", ["text"] = "Your pet gains 20 stamina and 130 spell resistance against all schools of magic." }
+entries[21923] = { ["name"] = "Elixir of Frost Power", ["text"] = "3 sec cast\nReagents:\nWintersbite (2), Khadgar's Whisker , Leaded Vial\n28\nUse: Increases Frost spell power by 15 for 1 hour. Battle Elixir. (3 Sec Cooldown)" }
+entries[21925] = { ["name"] = "Nature's Ally" }
+entries[21926] = { ["name"] = "Nature's Ally", ["text"] = "Increases your pet's stamina by 30 and all spell resistances by 40." }
+entries[21927] = { ["name"] = "Nature's Ally" }
+entries[21928] = { ["name"] = "Nature's Ally", ["text"] = "Increases your pet's stamina by 40 and all spell resistances by 60." }
+entries[21929] = { ["name"] = "Giantstalker" }
+entries[21930] = { ["name"] = "Winter's Might" }
+entries[21931] = { ["name"] = "Enchant Weapon - Winter's Might", ["text"] = "5 sec cast\nTools:\nRuned Golden Rod\nReagents:\nGreater Mystic Essence (3), Vision Dust (3), Large Glowing Shard , Wintersbite (2)\nPermanently enchant a melee weapon to increase Frost spell power by 7." }
+entries[21932] = { ["name"] = "Giantstalker" }
+entries[21935] = { ["name"] = "Snowmaster 9000", ["text"] = "25 sec cast 1 day cooldown\nReagents:\nRefreshing Spring Water\nAllows an experienced engineer to turn water into a snowball. The Snowmaster requires a day to build up enough chill to freeze another snowball." }
+entries[21936] = { ["name"] = "Reindeer" }
+entries[21937] = { ["name"] = "Giantstalker B", ["text"] = "Increases attack power against Giants by 40." }
+entries[21938] = { ["name"] = "Nature's Ally", ["text"] = "Increases your pet's attack power by 40." }
+entries[21939] = { ["name"] = "Create Scepter of Celebras" }
+entries[21940] = { ["name"] = "Snowmaster 9000", ["text"] = "25 sec cast\nTools:\nBlacksmith Hammer , Arclight Spanner\nReagents:\nMithril Bar (8), Gyrochronatom (4), Snowball (4), Frost Oil\nToy\nRequires Engineering\n(190)\nUse: Allows an experienced engineer to turn water into a snowball. The Snowmaster requires a day to build up enough chill to freeze another snowball. (1 Day Cooldown)" }
+entries[21942] = { ["name"] = "Hunter Giant Stalker", ["text"] = "Increases the Health of your pets by 150%." }
+entries[21943] = { ["name"] = "Gloves of the Greatfather", ["text"] = "25 sec cast\nReagents:\nHeavy Leather (8), Elemental Earth (4), Silken Thread\nGloves of the Greatfather\nBinds when equipped\nHands Leather\n66 Armor\nDurability 30 / 30\n33\nEquip: Increases spell power by 11." }
+entries[21945] = { ["name"] = "Green Holiday Shirt", ["text"] = "25 sec cast\nReagents:\nBolt of Silk Cloth (5), Green Dye (4), Silken Thread\nShirt" }
+entries[21949] = { ["name"] = "Rend", ["text"] = "Melee Range\nInstant\nWounds the target causing them to bleed for 230 damage over 30 sec." }
+entries[21950] = { ["name"] = "Recite Words of Celebras", ["text"] = "10 yd range\n3 sec cast\nRight click to recite the words on the scroll." }
+entries[21951] = { ["name"] = "Fist of Stone", ["text"] = "Melee Range\nInstant\nRestores 50 mana." }
+entries[21952] = { ["name"] = "Poison", ["text"] = "Melee Range\nInstant\nPoisons target for 9 Nature damage every 2 sec for 20 sec." }
+entries[21953] = { ["name"] = "The Feast of Winter Veil" }
+entries[21954] = { ["name"] = "Dispel Poison", ["text"] = "Instant\nRemoves 1 poison effect." }
+entries[21955] = { ["name"] = "Razorlash Root", ["text"] = "Instant\nRestores 600 health and mana over 10 sec." }
+entries[21956] = { ["name"] = "Physical Protection", ["text"] = "Instant\nAbsorbs 500 physical damage. Lasts 15 sec." }
+entries[21957] = { ["name"] = "Create Amulet of Union", ["text"] = "7 sec cast\nReagents:\nGem of the First Khan , Gem of the Second Khan , Gem of the Third Khan , Gem of the Fourth Khan , Gem of the Fifth Khan , Amulet of Spirits\nPlaces all five of the Khans' gems in the Amulet of Spirits." }
+entries[21958] = { ["name"] = "Stout Heart", ["text"] = "Increases your chance to resist Stun and Fear effects by 1%." }
+entries[21959] = { ["name"] = "Reactive Mana" }
+entries[21960] = { ["name"] = "Manifest Spirit", ["text"] = "20 yd range\n5 sec cast\nForces the spirits of the first centaur Kahns to manifest in the physical world." }
+entries[21961] = { ["name"] = "Wound", ["text"] = "Melee Range\nInstant\nWounds the target for 160 damage and lowers their armor by 100." }
+entries[21962] = { ["name"] = "Force of Nature", ["text"] = "50 Mana\nInstant\nSummons 1 Force of Nature to aid the caster in battle for 1 min." }
+entries[21963] = { ["name"] = "Force of Nature", ["text"] = "50 Mana\nInstant\nSummons 1 Force of Nature to aid the caster in battle for 1 min." }
+entries[21964] = { ["name"] = "Force of Nature", ["text"] = "50 Mana\nInstant\nSummons 1 Force of Nature to aid the caster in battle for 1 min." }
+entries[21965] = { ["name"] = "Manifestation Ends", ["text"] = "Instant\nVisiual effect when the centaur Kahns change back to spirit form." }
+entries[21966] = { ["name"] = "Dragonstalker B", ["text"] = "Increases attack power against Dragons by 60." }
+entries[21967] = { ["name"] = "Dragonstalker A", ["text"] = "Increases attack power by 30." }
+entries[21968] = { ["name"] = "Corrupt Forces of Nature", ["text"] = "50 Mana\nInstant\nSummons 3 Forces of Nature to aid the caster in battle for 1 min." }
+entries[21969] = { ["name"] = "Mark of the Chosen", ["text"] = "Has a 2% chance when struck in combat of increasing all stats by 25 for 1 min.\n(Proc chance: 2%)" }
+entries[21970] = { ["name"] = "Mark of the Chosen", ["text"] = "Instant\nIncreases all stats by 25 for 1 min." }
+entries[21971] = { ["name"] = "Poison Bolt", ["text"] = "30 yd range\n2.5 sec cast\nShoots poison at an enemy, inflicting Nature damage, then additional damage every 5 sec. for 10 sec." }
+entries[21972] = { ["name"] = "Improved Thorns Duration", ["text"] = "Increases the duration of your Thorns by 60 sec." }
+entries[21973] = { ["name"] = "Prophecy Flash Heal Bonus", ["text"] = "-0.1 sec to the casting time of your Flash Heal spell." }
+entries[21975] = { ["name"] = "Vigor", ["text"] = "Increases your maximum Energy by 10." }
+entries[21976] = { ["name"] = "Reactive Fade", ["text"] = "Instant\nFade out, discouraging enemies from attacking you for 4 sec." }
+entries[21977] = { ["name"] = "Warrior's Wrath" }
+entries[21978] = { ["name"] = "Engulfing Shadows", ["text"] = "30 yd range\nChance on landing a direct damage spell to deal 100 Shadow damage and restore 100 mana to you.\n(Proc chance: 10%)" }
+entries[21979] = { ["name"] = "Create The Pariah's Instructions", ["text"] = "Unlimited range\n1.5 sec cast\nCreate's the Pariah's insturctions when gossip is clicked." }
+entries[21980] = { ["name"] = "Snowman" }
+entries[21987] = { ["name"] = "Lash of Pain", ["text"] = "Melee Range\nInstant\nLashes an enemy, inflicting Shadow damage. The caster must be behind the target." }
+entries[21990] = { ["name"] = "Tornado" }
+entries[21991] = { ["name"] = "Talisman of Binding", ["text"] = "When struck in combat inflicts 4 Nature damage to the attacker." }
+entries[21992] = { ["name"] = "Thunderfury", ["text"] = "Melee Range\nInstant\nBlasts your enemy with lightning, dealing 300 Nature damage and then jumping to additional nearby enemies. Each jump reduces that victim's Nature resistance by 25. Affects 5 targets. Your primary target is also consumed by a cyclone, slowing its attack speed by 20% for 12 sec." }
+entries[22007] = { ["name"] = "Netherwind Focus", ["text"] = "10 sec cooldown\n10% chance after casting Arcane Missiles, Fireball, or Frostbolt that your next spell with a casting time under 10 seconds cast instantly.\n(Proc chance: 10%)" }
+entries[22008] = { ["name"] = "Netherwind Focus", ["text"] = "Instant\nChance after casting Arcane Missiles, Fireball, or Frostbolt that your next spell with a casting time under 10 seconds cast instantly." }
+entries[22009] = { ["name"] = "Greater Heal" }
+entries[22010] = { ["name"] = "Greater Heal Renew", ["text"] = "Your Greater Heals now have a heal over time component equivalent to a rank 5 Renew." }
+entries[22011] = { ["name"] = "Spirit Heal Channel" }
+entries[22012] = { ["name"] = "Spirit Heal", ["text"] = "Instant\nResurrects all friends within 20 yards." }
+entries[22027] = { ["name"] = "Remove Insignia" }
+entries[22048] = { ["name"] = "Attack" }
+entries[22067] = { ["name"] = "Reflection", ["text"] = "Instant\nGives the caster 100% chance to reflect harmful spells for 10 sec." }
+entries[22068] = { ["name"] = "rfo", ["text"] = "100 yd range\nInstant\nReplenishes the target. removing all durability damage done." }
+entries[22088] = { ["name"] = "Fireball", ["text"] = "100 yd range\n2.5 sec cast\nInflicts Fire damage to an enemy." }
+entries[22096] = { ["name"] = "Ebon Blade Prisoners: Dummy from Player" }
+entries[22097] = { ["name"] = "Eliminate the Competition: Onu'zun's Frog Transform" }
+entries[22108] = { ["name"] = "Conjure Frostwolf Rank 1 Insignia DND" }
+entries[22109] = { ["name"] = "Conjure Frostwolf Rank 2 Insignia DND" }
+entries[22110] = { ["name"] = "Conjure Frostwolf Rank 3 Insignia DND" }
+entries[22111] = { ["name"] = "Conjure Frostwolf Rank 4 Insignia DND" }
+entries[22112] = { ["name"] = "Conjure Frostwolf Rank 5 Insignia DND" }
+entries[22113] = { ["name"] = "Conjure Frostwolf Rank 6 Insignia DND" }
+entries[22114] = { ["name"] = "Conjure Stormpike Rank 1 Insignia DND" }
+entries[22115] = { ["name"] = "Conjure Stormpike Rank 2 Insignia DND" }
+entries[22116] = { ["name"] = "Conjure Stormpike Rank 3 Insignia DND" }
+entries[22117] = { ["name"] = "Conjure Stormpike Rank 4 Insignia DND" }
+entries[22118] = { ["name"] = "Conjure Stormpike Rank 5 Insignia DND" }
+entries[22119] = { ["name"] = "Conjure Stormpike Rank 6 Insignia DND" }
+entries[22120] = { ["name"] = "Charge", ["text"] = "30 yd range\nInstant\nCharges an enemy, inflicting normal damage plus a bonus." }
+entries[22121] = { ["name"] = "Shoot", ["text"] = "80 yd range\nInstant\nRequires Ranged Weapon\nShoots at an enemy, inflicting Physical damage." }
+entries[22127] = { ["name"] = "Entangling Roots", ["text"] = "30 yd range\n1.5 sec cast\nEntangles an enemy in roots, inflicting Nature damage every 3 sec. and immobilizing it for up to 10 sec." }
+entries[22128] = { ["name"] = "Thorns", ["text"] = "105 Mana 30 yd range\nInstant\nThorns sprout from the friendly target causing 20 Nature damage to attackers when hit. Lasts 10 min." }
+entries[22147] = { ["name"] = "CHECKMEOUT" }
+entries[22167] = { ["name"] = "Heal", ["text"] = "215 Mana 40 yd range\n3.5 sec cast\nCalls upon Holy magic to heal an ally." }
+entries[22168] = { ["name"] = "Renew", ["text"] = "5 Mana 40 yd range\n2 sec cast\nHeals an ally for 5 damage every 3 sec. for 20 sec." }
+entries[22187] = { ["name"] = "Power Word: Shield", ["text"] = "110 Mana 40 yd range\nInstant\nWraps an ally in a shield that lasts up to 30 sec., absorbing a maximum of 206 Physical or magical damage. While the shield holds, spells will not be interrupted by Physical attacks." }
+entries[22188] = { ["name"] = "Increased Crossbow", ["text"] = "Increases crossbow skill rating by 9." }
+entries[22189] = { ["name"] = "Mana Burn", ["text"] = "30 yd range\nInstant\nHits an enemy with an anti-mana bolt. For each point of mana consumed by the bolt, the target takes 0.5 damage." }
+entries[22191] = { ["name"] = "Heated Ground", ["text"] = "Unlimited range\nInstant\nDeals 4125 to 5875 Fire damage every second to all enemies near the heated ground for 4 sec." }
+entries[22192] = { ["name"] = "Heated Ground", ["text"] = "Unlimited range\nInstant\nDeals 4125 to 5875 Fire damage every second to all enemies near the heated ground for 4 sec." }
+entries[22193] = { ["name"] = "Heated Ground", ["text"] = "Unlimited range\nInstant\nDeals 4125 to 5875 Fire damage every second to all enemies near the heated ground for 4 sec." }
+entries[22194] = { ["name"] = "Heated Ground", ["text"] = "Unlimited range\nInstant\nDeals 4125 to 5875 Fire damage every second to all enemies near the heated ground for 4 sec." }
+entries[22195] = { ["name"] = "Heated Ground", ["text"] = "Unlimited range\nInstant\nDeals 4125 to 5875 Fire damage every second to all enemies near the heated ground for 4 sec." }
+entries[22196] = { ["name"] = "Heated Ground", ["text"] = "Unlimited range\nInstant\nDeals 4125 to 5875 Fire damage every second to all enemies near the heated ground for 4 sec." }
+entries[22197] = { ["name"] = "Heated Ground", ["text"] = "Unlimited range\nInstant\nDeals 4125 to 5875 Fire damage every second to all enemies near the heated ground for 4 sec." }
+entries[22198] = { ["name"] = "Heated Ground", ["text"] = "Unlimited range\nInstant\nDeals 4125 to 5875 Fire damage every second to all enemies near the heated ground for 4 sec." }
+entries[22199] = { ["name"] = "Heated Ground", ["text"] = "Unlimited range\nInstant\nDeals 4125 to 5875 Fire damage every second to all enemies near the heated ground for 4 sec." }
+entries[22200] = { ["name"] = "Heated Ground", ["text"] = "Unlimited range\nInstant\nDeals 4125 to 5875 Fire damage every second to all enemies near the heated ground for 4 sec." }
+entries[22201] = { ["name"] = "Heated Ground", ["text"] = "Unlimited range\nInstant\nDeals 4125 to 5875 Fire damage every second to all enemies near the heated ground for 4 sec." }
+entries[22202] = { ["name"] = "Heated Ground", ["text"] = "Unlimited range\nInstant\nDeals 4125 to 5875 Fire damage every second to all enemies near the heated ground for 4 sec." }
+entries[22203] = { ["name"] = "Blue Beam" }
+entries[22205] = { ["name"] = "Trigger Blue Beam" }
+entries[22206] = { ["name"] = "Moonfire", ["text"] = "95 Mana 30 yd range\nInstant\nBurns the enemy for Arcane damage and inflicts additional damage over 12 sec." }
+entries[22207] = { ["name"] = "Summon Drakefire Amulet DND" }
+entries[22227] = { ["name"] = "Create Dartol's Rod" }
+entries[22247] = { ["name"] = "Suppression Aura", ["text"] = "Instant\nMovement speed reduced by 80%.\nTime between attacks increased by 400%.\nCasting speed reduced by 80%." }
+entries[22267] = { ["name"] = "Breath", ["text"] = "Unlimited range\n0.25 sec cast\nOnyxia's flaming breath hits all enemies on the ground for 6375 to 8625 Fire damage." }
+entries[22268] = { ["name"] = "Breath" }
+entries[22271] = { ["name"] = "Arcane Explosion", ["text"] = "120 Mana\nInstant\nSends out a blast wave of magic, inflicting Arcane damage to nearby enemies." }
+entries[22272] = { ["name"] = "Arcane Missiles", ["text"] = "235 Mana 30 yd range\nChanneled (5 sec cast)\nLaunches magical missiles at an enemy, inflicting Arcane damage each second for 5 sec." }
+entries[22273] = { ["name"] = "Arcane Missiles", ["text"] = "30 yd range\nInstant\nLaunches magical missiles at an enemy, inflicting Arcane damage." }
+entries[22274] = { ["name"] = "Greater Polymorph", ["text"] = "10% of base mana 30 yd range\nInstant\nTransforms an enemy into a sheep, forcing it to wander around for up to 20 sec. While wandering, the sheep cannot attack or cast spells, but regenerates very quickly. Only one target can be polymorphed at a time. Only works on beasts, dragons, giants, humanoids, and critters." }
+entries[22275] = { ["name"] = "Flamestrike", ["text"] = "260 Mana 30 yd range\n2 sec cast\nCalls down a pillar of flame, burning all enemies in a selected area and inflicting additional damage every 2 sec. for 8 sec." }
+entries[22277] = { ["name"] = "Elemental Shield", ["text"] = "Instant\nTransformed by Nefarian's experiments, the caster has become significantly resistant to all magic, but is vulnerable to fire attacks." }
+entries[22278] = { ["name"] = "Elemental Shield", ["text"] = "Instant\nTransformed by Nefarian's experiments, the caster has become significantly resistant to all magic, but is vulnerable to Frost attacks." }
+entries[22279] = { ["name"] = "Elemental Shield", ["text"] = "Instant\nTransformed by Nefarian's experiments, the caster has become significantly resistant to all magic, but is vulnerable to shadow attacks." }
+entries[22280] = { ["name"] = "Elemental Shield", ["text"] = "Instant\nTransformed by Nefarian's experiments, the caster has become significantly resistant to all magic, but is vulnerable to Nature attacks." }
+entries[22281] = { ["name"] = "Elemental Shield", ["text"] = "Instant\nTransformed by Nefarian's experiments, the caster has become significantly resistant to all magic, but is vulnerable to Arcane attacks." }
+entries[22284] = { ["name"] = "Brood Power: Red" }
+entries[22289] = { ["name"] = "Brood Power: Green" }
+entries[22290] = { ["name"] = "Brood Power: Blue", ["text"] = "100 yd range\nInstant\nDeals 657 to 843 Frost damage, burning mana and increasing the time between attacks by 100% for 6 sec." }
+entries[22291] = { ["name"] = "Brood Power: Bronze" }
+entries[22311] = { ["name"] = "Brood Power: Bronze" }
+entries[22312] = { ["name"] = "Brood Power: Black" }
+entries[22313] = { ["name"] = "Purple Hands" }
+entries[22331] = { ["name"] = "Rugged Leather", ["text"] = "2 sec cast\nReagents:\nThick Leather (6)" }
+entries[22334] = { ["name"] = "Bomb", ["text"] = "30 yd range\n1.5 sec cast\nBombs all enemies in a selected area, inflicting Fire damage." }
+entries[22335] = { ["name"] = "Bottle of Poison", ["text"] = "Melee Range\nInstant 1 min cooldown\nTosses a bottle of poison at an enemy, inflicting 180 Nature damage every 3 sec. for 30 sec." }
+entries[22336] = { ["name"] = "Shadow Bolt", ["text"] = "90 Mana 40 yd range\n2 sec cast\nHurls a bolt of dark magic at an enemy, inflicting Shadow damage." }
+entries[22351] = { ["name"] = "Thorns", ["text"] = "Causes 1 Nature damage to any creature that strikes the caster." }
+entries[22355] = { ["name"] = "Chain Lightning", ["text"] = "30 yd range\nInstant\nStrikes an enemy with a lightning bolt that arcs to another nearby enemy. The spell affects up to 3 targets, causing Nature damage to each." }
+entries[22356] = { ["name"] = "Slow", ["text"] = "30 yd range\nInstant\nIncreases the time between nearby enemies' attacks by 54% and slows their movement by 60% for 10 sec." }
+entries[22357] = { ["name"] = "Icebolt", ["text"] = "90 Mana 40 yd range\n2 sec cast\nInflicts Frost damage to and stuns an enemy for 2 sec." }
+entries[22371] = { ["name"] = "Curse of Impotence", ["text"] = "5 Mana 30 yd range\nInstant\nDecreases the Magical damage dealt by the target by 1 for 2 min." }
+entries[22372] = { ["name"] = "Demon Portal", ["text"] = "0.5 sec cast\nOpens a portal into the Twisting Nether that periodically summons demonic minions to aid the caster in battle for 35 sec." }
+entries[22373] = { ["name"] = "Regrowth", ["text"] = "280 Mana 40 yd range\n2 sec cast\nHeals an ally for a fixed amount, then heals additional damage every 3 sec. for 21 sec." }
+entries[22392] = { ["name"] = "Summon Enraged Felguard" }
+entries[22393] = { ["name"] = "Enraged Felguard Spawn" }
+entries[22411] = { ["name"] = "Shoot", ["text"] = "80 yd range\nInstant\nRequires Ranged Weapon\nShoots at an enemy, inflicting Physical damage." }
+entries[22412] = { ["name"] = "Virulent Poison", ["text"] = "10 yd range\nInstant\nNature damage inflicted every 3 sec. Lasts 30 sec." }
+entries[22413] = { ["name"] = "Virulent Poison Proc", ["text"] = "(Proc chance: 25%)" }
+entries[22414] = { ["name"] = "Lightning Bolt", ["text"] = "90 Mana 40 yd range\n2 sec cast\nBlasts an enemy with lightning, inflicting Nature damage." }
+entries[22415] = { ["name"] = "Entangling Roots", ["text"] = "30 yd range\n1.5 sec cast\nEntangles an enemy in roots, inflicting Nature damage every 3 sec. and immobilizing it for up to 10 sec." }
+entries[22416] = { ["name"] = "Backstab", ["text"] = "Melee Range\nNext Melee\nInflicts normal damage plus 40 to an enemy, but only if attacking from behind." }
+entries[22417] = { ["name"] = "Shadow Shield", ["text"] = "10 Mana 40 yd range\nInstant\nSurrounds the caster with a shield woven of Shadow magic. The shield lasts 30 sec., absorbs up to 400 Physical or magical damage, and inflicts 20 damage to melee attackers." }
+entries[22418] = { ["name"] = "Chaotic Focus", ["text"] = "200 Mana 40 yd range\nInstant 10 sec cooldown\nRandomly increases the Magical damage dealt by the caster by up to 1 to 75 for 30 min." }
+entries[22419] = { ["name"] = "Riptide" }
+entries[22420] = { ["name"] = "Submersion", ["text"] = "Instant\nReduces the Stamina of nearby enemies by 10 for 1 min." }
+entries[22421] = { ["name"] = "Massive Geyser", ["text"] = "40 yd range\n1.5 sec cast\nSummons a massive geyser." }
+entries[22422] = { ["name"] = "Water", ["text"] = "Instant\nDeals 463 to 537 Frost damage to nearby enemies, knocking them back." }
+entries[22423] = { ["name"] = "Flame Shock", ["text"] = "20 yd range\nInstant\nInstantly burns an enemy, then inflicts additional Fire damage every 3 sec. for 12 sec." }
+entries[22424] = { ["name"] = "Blast Wave", ["text"] = "Instant\nUnleashes a wave of flame, inflicting Fire damage to nearby enemies and reducing their movement speed for 6 sec." }
+entries[22425] = { ["name"] = "Fireball Volley", ["text"] = "40 yd range\n2 sec cast\nInflicts Fire damage to nearby enemies." }
+entries[22426] = { ["name"] = "Crush Armor", ["text"] = "10 yd range\nInstant\nBash at an enemy's armor, reducing it by 0 per Crush Armor. Can be applied up to 5 times. Lasts 30 sec." }
+entries[22427] = { ["name"] = "Concussion Blow", ["text"] = "10 yd range\nNext Melee\nA brutal strike that deals weapon damage and stuns the opponent for 5 sec." }
+entries[22428] = { ["name"] = "Enrage", ["text"] = "30 yd range\nInstant\nThe caster goes into a frenzy, increasing attack speed by 100% for 8 sec." }
+entries[22429] = { ["name"] = "Tag: Bubbles" }
+entries[22431] = { ["name"] = "Tag: Bubbles" }
+entries[22433] = { ["name"] = "Flame Buffet", ["text"] = "30 yd range\nInstant\nInflicts 925 to 1075 Fire damage to an enemy and increases the Fire damage it takes by 1000 for 20 sec." }
+entries[22436] = { ["name"] = "Aura of Flames", ["text"] = "Instant\nBathed in flames, melee attacks against the caster cause 175 to 225 Fire damage." }
+entries[22438] = { ["name"] = "Mark of Detonation", ["text"] = "40 yd range\nInstant\nDeals 657 to 843 damage to target and all allies when hit in melee." }
+entries[22439] = { ["name"] = "Mark of Detonation", ["text"] = "Unlimited range\nInstant\nDeals 657 to 843 damage to target and all allies when hit in melee." }
+entries[22440] = { ["name"] = "Commanding Shout", ["text"] = "Instant\nBreaks all nearby allies out of sleep, charm and fear." }
+entries[22441] = { ["name"] = "Growing Flames" }
+entries[22442] = { ["name"] = "Growing Flames", ["text"] = "100 yd range\nInstant\nDeals 50 damage every 2 sec to the target for 6 sec." }
+entries[22458] = { ["name"] = "Healing Circle", ["text"] = "3 sec cast\nHeals all nearby whelps for 20000." }
+entries[22459] = { ["name"] = "Summon RaidMageArcaneFR" }
+entries[22460] = { ["name"] = "Arcane Explosion", ["text"] = "390 Mana\nInstant\nCauses an explosion of arcane magic around the caster, causing 249 to 270 Arcane damage to all targets within 10 yards." }
+entries[22478] = { ["name"] = "Intense Pain", ["text"] = "1 sec cast\nInflicts 200 Shadow damage to nearby enemies every 3 sec. for 15 sec." }
+entries[22479] = { ["name"] = "Frost Breath", ["text"] = "Melee Range\n0.25 sec cast\nInflicts 657 to 843 Frost damage to an enemy." }
+entries[22480] = { ["name"] = "Tender Wolf Steak", ["text"] = "2 sec cast\nReagents:\nTender Wolf Meat\n40\nUse: Restores 1392 health over 30 sec. Must remain seated while eating. If you spend at least 10 seconds eating you will become well fed and gain 12 Stamina and Spirit for 15 min." }
+entries[22482] = { ["name"] = "Blade Flurry", ["text"] = "100 yd range\nInstant\nYour melee weapon swings strike an additional nearby opponent." }
+entries[22498] = { ["name"] = "Land Mine Impact" }
+entries[22518] = { ["name"] = "Glowy (Red)" }
+entries[22519] = { ["name"] = "Ice Nova", ["text"] = "Instant\nInflicts Frost damage to nearby enemies, immobilizing them for up to 2 sec." }
+entries[22538] = { ["name"] = "Nef Trans" }
+entries[22539] = { ["name"] = "Shadow Flame", ["text"] = "45 yd range\n2 sec cast\nInflicts 3938 to 5062 Shadow damage to enemies in a cone in front of the caster." }
+entries[22558] = { ["name"] = "Brood Power: Red", ["text"] = "Unlimited range\nInstant\nDeals 263 to 337 Fire damage every 1 sec for 5 sec." }
+entries[22559] = { ["name"] = "Brood Power: Blue", ["text"] = "100 yd range\nInstant\nDeals 100 Frost damage to enemies in front of the caster, destroying 875 to 1125 mana and increases the time between attacks by 100%." }
+entries[22560] = { ["name"] = "Brood Power: Black", ["text"] = "100 yd range\nInstant\nDeals 1063 to 1437 Fire damage to enemies in front of the caster." }
+entries[22561] = { ["name"] = "Brood Power: Green", ["text"] = "Unlimited range\nInstant\nStuns all enemies in front of the caster for 1 sec." }
+entries[22562] = { ["name"] = "Fill Amethyst Phial", ["text"] = "5 yd range\n3 sec cast\nFill the Amethyst Phial at the Oracle Glade moonwell." }
+entries[22563] = { ["name"] = "Recall", ["text"] = "10 sec cast\nReturns you to the sanctuary of Frostwolf Keep." }
+entries[22564] = { ["name"] = "Recall", ["text"] = "10 sec cast\nReturns you to the sanctuary of Dun Baldar." }
+entries[22565] = { ["name"] = "Create Bloodpetal Zapper" }
+entries[22566] = { ["name"] = "Hex", ["text"] = "120 Mana 20 yd range\n2 sec cast\nTransforms nearby enemies into frogs, rendering them unable to attack or cast spells for 8 sec." }
+entries[22567] = { ["name"] = "Summon Ar'lia", ["text"] = "2.5 sec cast\nSummons Ar'lia of the Moro'gai." }
+entries[22568] = { ["name"] = "Ferocious Bite", ["text"] = "35 Energy Melee Range\nInstant\nRequires Cat Form\nFinishing move that causes damage per combo point and converts each extra point of energy (up to a maximum of 30 extra energy) into (0.699999988 + Attack power / 410) additional damage. Damage is increased by your attack power.\n1 point : (14 + 36 * 1 + 0.07 * Attack power)-(30 + 36 * 1 + 0.07 * Attack power) damage\n2 points: (14 + 36 * 2 + 0.14 * Attack power)-(30 + 36 * 2 + 0.14 * Attack power) damage\n3 points: (14 + 36 * 3 + 0.21 * Attack power)-(30 + 36 * 3 + 0.21 * Attack power) damage\n4 points: (14 + 36 * 4 + 0.28 * Attack power)-(30 + 36 * 4 + 0.28 * Attack power) damage\n5 points: (14 + 36 * 5 + 0.35 * Attack power)-(30 + 36 * 5 + 0.35 * Attack power) damage" }
+entries[22570] = { ["name"] = "Maim", ["text"] = "35 Energy Melee Range\nInstant 10 sec cooldown\nRequires Cat Form\nFinishing move that causes damage and stuns the target. Non-player victim spellcasting is also interrupted for 3 sec. Causes more damage and lasts longer per combo point:\n1 point : (84 * 1 + 45 + Mainhand weapon min damage)-(84 * 1 + 45 + Mainhand weapon max damage) damage, 1 sec\n2 points: (84 * 2 + 45 + Mainhand weapon min damage)-(84 * 2 + 45 + Mainhand weapon max damage) damage, 2 sec\n3 points: (84 * 3 + 45 + Mainhand weapon min damage)-(84 * 3 + 45 + Mainhand weapon max damage) damage, 3 sec\n4 points: (84 * 4 + 45 + Mainhand weapon min damage)-(84 * 4 + 45 + Mainhand weapon max damage) damage, 4 sec\n5 points: (84 * 5 + 45 + Mainhand weapon min damage)-(84 * 5 + 45 + Mainhand weapon max damage) damage, 5 sec" }
+entries[22572] = { ["name"] = "Bruising Blow", ["text"] = "Melee Range\nInstant\nRequires Melee Weapon\nStrikes at an enemy, inflicting weapon damage plus 5." }
+entries[22573] = { ["name"] = "Anti-Zerg Cantrip", ["text"] = "Instant\nCauses a creature to cast this dummy spell on themself when they detect more than 5 enemies. Add as a spell reaction on a mob's creature level action trigger and use a despawn action. Only use on approved mobs/zones." }
+entries[22574] = { ["name"] = "Dark Strike", ["text"] = "250 Mana 10 yd range\nNext Melee\nRequires Melee Weapon\nConsecrates the caster's weapon, inflicting 95 to 105 additional damage on its next attack. All damage caused is considered Shadow damage." }
+entries[22575] = { ["name"] = "Shadow Shock", ["text"] = "135 Mana 20 yd range\nInstant\nInstantly lashes an enemy with dark magic, inflicting Shadow damage." }
+entries[22576] = { ["name"] = "Glowy (Blue)" }
+entries[22577] = { ["name"] = "Glowy (Green)" }
+entries[22578] = { ["name"] = "Glowy (Black)" }
+entries[22579] = { ["name"] = "Glowy (Orange)" }
+entries[22580] = { ["name"] = "Glowy (Yellow)" }
+entries[22581] = { ["name"] = "Glowy (Purple)" }
+entries[22582] = { ["name"] = "Frost Shock", ["text"] = "20 yd range\nInstant\nInflicts Frost damage to an enemy and reduces its movement speed for 8 sec." }
+entries[22586] = { ["name"] = "5% speed bonus" }
+entries[22587] = { ["name"] = "8% speed bonus" }
+entries[22588] = { ["name"] = "10% speed bonus" }
+entries[22589] = { ["name"] = "13% speed bonus" }
+entries[22590] = { ["name"] = "15% speed bonus" }
+entries[22591] = { ["name"] = "Strike", ["text"] = "Melee Range\nNext Melee\nRequires Melee Weapon\nStrikes at an enemy, inflicting increased melee damage." }
+entries[22592] = { ["name"] = "Knockdown", ["text"] = "100 yd range\nInstant\nKnocks an enemy down, stunning it for 2 sec" }
+entries[22593] = { ["name"] = "Flame Mantle of the Dawn", ["text"] = "5 sec cast\nRequires Shoulders\nPermanently adds 5 Fire resistance to a shoulder slot item.\n\nEnchanting the item causes it to become soulbound." }
+entries[22594] = { ["name"] = "Frost Mantle of the Dawn", ["text"] = "5 sec cast\nRequires Shoulders\nPermanently adds 5 Frost resistance to a shoulder slot item.\n\nEnchanting the item causes it to become soulbound." }
+entries[22595] = { ["name"] = "Poison Shock", ["text"] = "Melee Range\nInstant\nDeals Nature damage to nearby enemies." }
+entries[22596] = { ["name"] = "Shadow Mantle of the Dawn", ["text"] = "5 sec cast\nRequires Shoulders\nPermanently adds 5 Shadow resistance to a shoulder slot item.\n\nEnchanting the item causes it to become soulbound." }
+entries[22597] = { ["name"] = "Nature Mantle of the Dawn", ["text"] = "5 sec cast\nRequires Shoulders\nPermanently adds 5 Nature resistance to a shoulder slot item.\n\nEnchanting the item causes it to become soulbound." }
+entries[22598] = { ["name"] = "Arcane Mantle of the Dawn", ["text"] = "5 sec cast\nRequires Shoulders\nPermanently adds 5 Arcane resistance to a shoulder slot item.\n\nEnchanting the item causes it to become soulbound." }
+entries[22599] = { ["name"] = "Chromatic Mantle of the Dawn", ["text"] = "5 sec cast\nRequires Shoulders\nPermanently adds 5 resistance to all magic schools to a shoulder slot item.\n\nEnchanting the item causes it to become soulbound." }
+entries[22600] = { ["name"] = "Force Reactive Disk" }
+entries[22618] = { ["name"] = "Force Reactive Disk", ["text"] = "10 yd range\nInstant\nWhen the shield blocks it releases an electrical charge that damages all nearby enemies. This also has a chance of damaging the shield.\n(1s cooldown)" }
+entries[22619] = { ["name"] = "Force Reactive Disk" }
+entries[22620] = { ["name"] = "Force Reactive Disk", ["text"] = "10 yd range\nInstant\n(Proc chance: 50%, 1s cooldown)" }
+entries[22638] = { ["name"] = "Poison Shock" }
+entries[22639] = { ["name"] = "Eskhandar's Rake", ["text"] = "Melee Range\nInstant\nSlows enemy's movement by 60% and causes them to bleed for 150 damage over 30 sec." }
+entries[22640] = { ["name"] = "Eskhandar's Rage", ["text"] = "Instant\nIncreases your haste rating by 300 for 5 sec." }
+entries[22641] = { ["name"] = "Reckless Charge", ["text"] = "30 yd range\nInstant\nCharge an enemy, knocking it silly for 30 seconds. Also knocks you down, stunning you for a short period of time. Any damage caused will revive the target. Chance to fizzle when used against targets over level 60." }
+entries[22642] = { ["name"] = "Brood Power: Bronze", ["text"] = "Instant\nDeals 788 to 1012 Arcane damage to enemies in front of the caster, reducing their casting speed by 50% and increasing the time between attack by 33% for 6 sec." }
+entries[22643] = { ["name"] = "Frostbolt Volley", ["text"] = "1.5 sec cast\nInflicts Frost damage to nearby enemies, reducing their movement speed for 4 sec." }
+entries[22644] = { ["name"] = "Blood Leech", ["text"] = "Melee Range\nInstant\nDrains 30 health from nearby enemies, healing the caster for up to three times the amount stolen." }
+entries[22645] = { ["name"] = "Frost Nova", ["text"] = "Instant\nInflicts Frost damage to nearby enemies, immobilizing them for up to 8 sec." }
+entries[22646] = { ["name"] = "Reckless Charge" }
+entries[22648] = { ["name"] = "Call of Eskhandar", ["text"] = "1% chance on a melee critical hit to call forth the spirit of Eskhandar to protect you in battle for 2 min.\n(Proc chance: 1%, 2m cooldown)" }
+entries[22649] = { ["name"] = "Summon Eskhandar", ["text"] = "Instant 1 min cooldown\nCalls forth the spirit of Eskhandar to protect you in battle for 2 min." }
+entries[22650] = { ["name"] = "Ghost Visual" }
+entries[22651] = { ["name"] = "Sacrifice" }
+entries[22654] = { ["name"] = "Spawn Black Drakonid" }
+entries[22655] = { ["name"] = "Spawn Red Drakonid" }
+entries[22656] = { ["name"] = "Spawn Green Drakonid" }
+entries[22657] = { ["name"] = "Spawn Bronze Drakonid" }
+entries[22658] = { ["name"] = "Spawn Blue Drakonid" }
+entries[22659] = { ["name"] = "Spawn Drakonid" }
+entries[22660] = { ["name"] = "Dire Wolf Form" }
+entries[22661] = { ["name"] = "Enervate", ["text"] = "150 Mana" }
+entries[22662] = { ["name"] = "Wither" }
+entries[22663] = { ["name"] = "Nefarian's Barrier" }
+entries[22664] = { ["name"] = "Shadowblink" }
+entries[22665] = { ["name"] = "Shadow Bolt Volley", ["text"] = "30 yd range\n2 sec cast\nHurls missiles of dark magic, inflicting Shadow damage to nearby enemies." }
+entries[22666] = { ["name"] = "Silence", ["text"] = "30 Mana 40 yd range\nInstant\nSilences an enemy, preventing it from casting spells for 6 sec." }
+entries[22667] = { ["name"] = "Shadow Command", ["text"] = "30 yd range\nInstant\nUses the guile of Deathwing to charm the target, increasing its damage by 300% and attacking Nefarian's enemies for 15 sec." }
+entries[22668] = { ["name"] = "Shadowblink" }
+entries[22669] = { ["name"] = "Shadowblink" }
+entries[22670] = { ["name"] = "Shadowblink" }
+entries[22671] = { ["name"] = "Shadowblink" }
+entries[22672] = { ["name"] = "Shadowblink" }
+entries[22673] = { ["name"] = "Shadowblink" }
+entries[22674] = { ["name"] = "Shadowblink" }
+entries[22675] = { ["name"] = "Shadowblink" }
+entries[22676] = { ["name"] = "Shadowblink" }
+entries[22677] = { ["name"] = "Shadow Bolt", ["text"] = "90 Mana 100 yd range\n2 sec cast\nHurls a bolt of dark magic at an enemy, inflicting Shadow damage." }
+entries[22678] = { ["name"] = "Fear", ["text"] = "20 yd range\n1.5 sec cast\nStrikes fear in an enemy, causing it to flee in terror for 6 sec. Only 1 target can be feared at a time." }
+entries[22680] = { ["name"] = "Spawn Chromatic Drakonid" }
+entries[22681] = { ["name"] = "Shadowblink" }
+entries[22682] = { ["name"] = "Shadow Flame", ["text"] = "100 yd range\nInstant\nDeals 1750 to 2250 Shadow damage every second to the target for 10 sec." }
+entries[22683] = { ["name"] = "Onyxia Scale Cloak", ["text"] = "Protects the wearer from being fully engulfed by Shadow Flame." }
+entries[22684] = { ["name"] = "Onyxia Scale Cloak" }
+entries[22686] = { ["name"] = "Bellowing Roar", ["text"] = "1.5 sec cast\nA massive roar frightens all enemies within 35 yds. of the caster, fearing them for 4 sec." }
+entries[22687] = { ["name"] = "Veil of Shadow", ["text"] = "40 yd range\nInstant\nReduces healing effects for an enemy by 75% for 6 sec." }
+entries[22688] = { ["name"] = "Tree Form" }
+entries[22689] = { ["name"] = "Mangle", ["text"] = "10 yd range\nInstant\nInflicts 200 damage to an enemy every 2 sec. and slows its movement by 50% for 20 sec." }
+entries[22691] = { ["name"] = "Disarm", ["text"] = "Melee Range\nInstant\nDisarms an enemy, forcing it to stop wielding its weapon for 6 sec." }
+entries[22692] = { ["name"] = "Petrify", ["text"] = "Melee Range\nInstant\nStuns an enemy, but increases its armor by 30% for 8 sec." }
+entries[22693] = { ["name"] = "Harden Skin", ["text"] = "Instant\nTurns the casters skin to stone, increasing his armor by 10000 for 10 sec." }
+entries[22694] = { ["name"] = "Apo Mekhanes Theos" }
+entries[22695] = { ["name"] = "Regrowth", ["text"] = "40 yd range\n2 sec cast\nHeals an ally for a fixed amount, then heals additional damage every 3 sec. for 21 sec." }
+entries[22696] = { ["name"] = "Thorns", ["text"] = "30 yd range\nInstant\nThorns sprout from the friendly target causing 24 Nature damage to attackers when hit. Lasts until cancelled." }
+entries[22699] = { ["name"] = "Inferno" }
+entries[22700] = { ["name"] = "Field Repair Bot 74A", ["text"] = "10 yd range\nInstant\nUnfolds into a Field Repair Bot that can repair damaged items and purchase unwanted goods. After 10 minutes its internal motor fails." }
+entries[22703] = { ["name"] = "Inferno Effect", ["text"] = "Unlimited range\nInstant\nAn infernal falls from the sky, dealing 200 Fire damage to all targets, stunning them for 2 sec." }
+entries[22704] = { ["name"] = "Field Repair Bot 74A", ["text"] = "50 sec cast\nTools:\nBlacksmith Hammer , Arclight Spanner\nReagents:\nThorium Bar (16), Fused Wiring (2)\nRequires Engineering\n(300)\nUse: Unfolds into a Field Repair Bot that can repair damaged items and purchase unwanted goods. After 10 minutes its internal motor fails. (10 Min Cooldown)" }
+entries[22709] = { ["name"] = "Void Bolt", ["text"] = "90 Mana 100 yd range\n4 sec cast\nSends a bolt of dark magic at an enemy, inflicting 925 to 1075 Shadow damage." }
+entries[22710] = { ["name"] = "Enlarge" }
+entries[22711] = { ["name"] = "Shadowskin Gloves", ["text"] = "45 sec cast\nReagents:\nThick Leather (6), Shadow Silk (8), Cured Heavy Hide (4), Heavy Silken Thread\nShadowskin Gloves\nBinds when equipped\nHands Leather\n76 Armor\n+6 Stamina\nDurability 35 / 35\n35\nEquip: Increases your critical strike rating by 14." }
+entries[22713] = { ["name"] = "Flame Buffet", ["text"] = "20 yd range\nInstant\nInflicts 19 to 21 Fire damage to an enemy and increases the Fire damage it takes by 20 for 20 sec." }
+entries[22714] = { ["name"] = "Summon Hydroling" }
+entries[22715] = { ["name"] = "Hydrojet", ["text"] = "20 yd range\nInstant\nKnocks nearby enemies back and reduces their movement speed to 38 to 62% of normal for until cancelled." }
+entries[22717] = { ["name"] = "Black War Steed", ["text"] = "1.5 sec cast\nSummons and dismisses a rideable Black War Steed. This is a very fast mount." }
+entries[22718] = { ["name"] = "Black War Kodo", ["text"] = "1.5 sec cast\nSummons and dismisses a rideable Black War Kodo. This is a very fast mount." }
+entries[22719] = { ["name"] = "Black Battlestrider", ["text"] = "1.5 sec cast\nSummons and dismisses a rideable Black Battlestrider. This is a very fast mount." }
+entries[22720] = { ["name"] = "Black War Ram", ["text"] = "1.5 sec cast\nSummons and dismisses a rideable Black War Ram. This is a very fast mount." }
+entries[22721] = { ["name"] = "Black War Raptor", ["text"] = "1.5 sec cast\nSummons and dismisses a rideable Black War Raptor. This is a very fast mount." }
+entries[22722] = { ["name"] = "Red Skeletal Warhorse", ["text"] = "1.5 sec cast\nSummons and dismisses a rideable Red Skeletal Warhorse. This is a very fast mount." }
+entries[22723] = { ["name"] = "Black War Tiger", ["text"] = "1.5 sec cast\nSummons and dismisses a rideable Black War Tiger. This is a very fast mount." }
+entries[22724] = { ["name"] = "Black War Wolf", ["text"] = "1.5 sec cast\nSummons and dismisses a rideable Black War Wolf. This is a very fast mount." }
+entries[22725] = { ["name"] = "Defense Rating +5", ["text"] = "3 sec cast\nRequires Boots, Chest, Chest, Gloves, Pants\nPermanently adds 5 defense rating to an item worn on the chest, legs, hands or feet.\n\nAttaching the armor kit to the item causes it to become soulbound." }
+entries[22727] = { ["name"] = "Core Armor Kit", ["text"] = "25 sec cast\nReagents:\nCore Leather (3), Rune Thread (2)\nCore Armor Kit\n50\nUse: Permanently adds 5 defense rating to an item worn on the chest, legs, hands or feet.\n\nAttaching the armor kit to the item causes it to become soulbound." }
+entries[22729] = { ["name"] = "Rejuvenation Potion", ["text"] = "Instant 1 min cooldown\nRestores 1440 to 1760 mana and health." }
+entries[22730] = { ["name"] = "Increased Intellect", ["text"] = "Instant\nIncreases Intellect by 10 for 10 min." }
+entries[22731] = { ["name"] = "Food", ["text"] = "Instant 1 min cooldown\nRestores 1933.2 health over 27 sec. Must remain seated while eating. Also increases your Intellect by 10 for 10 min." }
+entries[22732] = { ["name"] = "Major Rejuvenation Potion", ["text"] = "3 sec cast\nReagents:\nHeart of the Wild , Golden Sansam (4), Dreamfoil (4), Imbued Vial\n50\nUse: Restores 1440 to 1760 mana and health. (1 Min Cooldown)" }
+entries[22734] = { ["name"] = "Drink", ["text"] = "Instant 1 min cooldown\nRestores 4200 mana over 30 sec. Must remain seated while drinking." }
+entries[22735] = { ["name"] = "Spirit of Runn Tum" }
+entries[22736] = { ["name"] = "Gordok Ogre Suit", ["text"] = "Instant\nDisguise yourself as one of the Gordok ogres, and maybe even fool a particular captain in the process! The suit will only hold together for 10 min." }
+entries[22737] = { ["name"] = "Gordok Ogre Suit" }
+entries[22738] = { ["name"] = "Intercept Cooldown Reduction", ["text"] = "Reduces the cooldown of your Intercept ability by 5 sec." }
+entries[22739] = { ["name"] = "Goblin Dragon Gun", ["text"] = "Channeled (8 sec cast)\nDeals 61 to 69 fire damage for 8 sec to all targets in a cone in front of the engineer using the weapon. That is unless it explodes....." }
+entries[22741] = { ["name"] = "Goblin Dragon Gun", ["text"] = "Instant\nDeals 360 to 440 Fire damage to all enemies in front of the caster." }
+entries[22742] = { ["name"] = "Super Shrink Ray", ["text"] = "30 yd range\nInstant\nShrinks up to 10 enemies, reducing their attack power." }
+entries[22743] = { ["name"] = "Ribbon of Souls", ["text"] = "40 yd range\nInstant\nInflicts 128 to 172 Shadow damage to an enemy." }
+entries[22744] = { ["name"] = "Chains of Ice", ["text"] = "35 yd range\n1 sec cast\nForms icy chains around the enemy, locking the target in place and burning 350 to 450 mana per 2 sec. for 10 sec." }
+entries[22745] = { ["name"] = "Chains of Ice", ["text"] = "100 yd range\nInstant\nForms icy chains around the enemy, locking the target in place and burning 350 to 450 mana per 2 sec. for 10 sec." }
+entries[22746] = { ["name"] = "Cone of Cold", ["text"] = "Instant\nInflicts Frost damage to enemies in a cone in front of the caster, reducing their movement speed for 8 sec." }
+entries[22747] = { ["name"] = "Increase Spell Dam 30", ["text"] = "Increases spell power by 30." }
+entries[22748] = { ["name"] = "Increase Healing 55", ["text"] = "Increases spell power by 29." }
+entries[22749] = { ["name"] = "Enchant Weapon - Spellpower", ["text"] = "5 sec cast\nTools:\nRuned Arcanite Rod\nReagents:\nLarge Brilliant Shard (4), Greater Eternal Essence (6), Golden Pearl (2)\nPermanently enchant a melee weapon to increase spell power by 30." }
+entries[22750] = { ["name"] = "Enchant Weapon - Healing Power", ["text"] = "5 sec cast\nTools:\nRuned Arcanite Rod\nReagents:\nLarge Brilliant Shard (4), Greater Eternal Essence (4), Essence of Water (4)\nPermanently enchant a melee weapon to increase spell power by 29." }
+entries[22751] = { ["name"] = "Fury of the Frostwolf", ["text"] = "Unlimited range\nInstant 4 sec cooldown\nWhile active, target's hit points increase by 20%." }
+entries[22752] = { ["name"] = "Fevered Exhaustion", ["text"] = "Unlimited range\nInstant\nRequires Cat Form" }
+entries[22756] = { ["name"] = "Sharpen Weapon - Critical", ["text"] = "3 sec cast\nIncrease the critical strike rating on a melee weapon by 28 for 1 hour. Cannot be applied to items higher than level 165." }
+entries[22757] = { ["name"] = "Elemental Sharpening Stone", ["text"] = "3 sec cast\nReagents:\nElemental Earth (2), Dense Stone (3)\nElemental Sharpening Stone\n50\nUse: Increase the critical strike rating on a melee weapon by 28 for 1 hour. Cannot be applied to items higher than level 165." }
+entries[22759] = { ["name"] = "Flarecore Wraps", ["text"] = "50 sec cast\nReagents:\nMooncloth (6), Fiery Core (8), Essence of Fire (2), Enchanted Leather (6), Rune Thread (4)\nFlarecore Wraps\nBinds when equipped\nWrist Cloth\n49 Armor\n+8 Intellect\n+7 Fire Resistance\nDurability 35 / 35\n60\nEquip: Restores 11 mana per 5 sec." }
+entries[22761] = { ["name"] = "Runn Tum Tuber Surprise", ["text"] = "2 sec cast\nReagents:\nRunn Tum Tuber\n45\nUse: Restores 1933.2 health over 27 sec. Must remain seated while eating. Also increases your Intellect by 10 for 10 min." }
+entries[22766] = { ["name"] = "Sneak", ["text"] = "Instant\nPuts the caster in stealth mode, but slows its movement by 50%. Lasts until cancelled." }
+entries[22767] = { ["name"] = "Increased Root Resist 01", ["text"] = "Increases your chance to resist immobilizing effects by 10%." }
+entries[22778] = { ["name"] = "Hamstring Rage Reduction", ["text"] = "Reduces the rage cost of your Hamstring ability by 3." }
+entries[22779] = { ["name"] = "Biznicks 247x128 Accurascope", ["text"] = "3 sec cast\nRequires Ranged Weapon\nAttaches a permanent scope to a bow or gun that increases its ranged hit rating by 30.\n\nAttaching this scope to a ranged weapon causes it to become soulbound." }
+entries[22780] = { ["name"] = "Ranged Hit Bonus +30", ["text"] = "Requires Ranged Weapon\nIncreases your ranged hit rating by 30." }
+entries[22781] = { ["name"] = "Thornling", ["text"] = "30 yd range\nThorns sprout from the friendly target causing 100 Nature damage to attackers when hit. Lasts until cancelled." }
+entries[22782] = { ["name"] = "Mage Armor", ["text"] = "26% of base mana\nInstant\nIncreases your resistance to all magic by 10 and allows 50% of your mana regeneration to continue while casting. Only one type of Armor spell can be active on the Mage at any time. Lasts 30 min." }
+entries[22783] = { ["name"] = "Mage Armor", ["text"] = "26% of base mana\nInstant\nIncreases your resistance to all magic by 15 and allows 50% of your mana regeneration to continue while casting. Only one type of Armor spell can be active on the Mage at any time. Lasts 30 min." }
+entries[22784] = { ["name"] = "Mage Armor" }
+entries[22785] = { ["name"] = "Mage Armor" }
+entries[22786] = { ["name"] = "Irritating Spores" }
+entries[22789] = { ["name"] = "Gordok Green Grog", ["text"] = "1 sec cast\nIncreases Stamina by 10 for 15 min and gets you drunk to boot. Green means it's good!" }
+entries[22790] = { ["name"] = "Kreeg's Stout Beatdown", ["text"] = "1 sec cast\nIncreases Spirit by 25, but decreases Intellect by 5 for 15 min. Smoooooth." }
+entries[22792] = { ["name"] = "Plant Thornling", ["text"] = "20 yd range\nInstant\nPlants a Thornling which attracts nearby enemies." }
+entries[22793] = { ["name"] = "Biznicks 247x128 Accurascope", ["text"] = "45 sec cast\nTools:\nBlacksmith Hammer , Arclight Spanner\nReagents:\nLava Core (2), Essence of Earth (2), Delicate Arcanite Converter (4), Dark Iron Bar (6), Thorium Tube\nBiznicks 247x128 Accurascope\n50\nUse: Attaches a permanent scope to a bow or gun that increases its ranged hit rating by 30.\n\nAttaching this scope to a ranged weapon causes it to become soulbound." }
+entries[22795] = { ["name"] = "Core Marksman Rifle", ["text"] = "50 sec cast\nTools:\nBlacksmith Hammer , Arclight Spanner\nReagents:\nFiery Core (4), Lava Core (2), Arcanite Bar (6), Delicate Arcanite Converter (2), Thorium Tube (2)\nCore Marksman Rifle\nBinds when equipped\nRanged Gun\n79 - 148 Damage Speed 2.50\n(45.40 damage per second)\nDurability 90 / 90\n60\nEquip: Increases ranged attack power by 22.\nEquip: Increases your hit rating by 10." }
+entries[22797] = { ["name"] = "Force Reactive Disk", ["text"] = "50 sec cast\nTools:\nBlacksmith Hammer , Arclight Spanner\nReagents:\nArcanite Bar (6), Delicate Arcanite Converter (2), Essence of Air (8), Living Essence (12), Essence of Earth (8)\nForce Reactive Disk\nBinds when equipped\nOff Hand Shield\n2916 Armor\n58 Block\n+11 Stamina\nDurability 120 / 120\n60\nRequires Engineering\n(300)\nEquip: When the shield blocks it releases an electrical charge that damages all nearby enemies. This also has a chance of damaging the shield. (1s cooldown)" }
+entries[22799] = { ["name"] = "King of the Gordok", ["text"] = "5 yd range\n1 sec cast\nYou are the king of the Gordok ogres! It's good to be the king..." }
+entries[22800] = { ["name"] = "Entangling Roots" }
+entries[22801] = { ["name"] = "Ghost Wolf Speed", ["text"] = "Increases the speed of your Ghost Wolf ability by 15%. Does not function for players higher than level 60." }
+entries[22802] = { ["name"] = "Choking Spores" }
+entries[22804] = { ["name"] = "Shaman Shock Crit Bonus", ["text"] = "Improves your chance to get a critical strike with all Shock spells by 2%." }
+entries[22805] = { ["name"] = "r-h" }
+entries[22806] = { ["name"] = "r-h" }
+entries[22807] = { ["name"] = "Greater Water Breathing", ["text"] = "Instant 1 sec cooldown\nAllows the Imbiber to breathe water for 1 hour." }
+entries[22808] = { ["name"] = "Elixir of Greater Water Breathing", ["text"] = "3 sec cast\nReagents:\nIchor of Undeath , Purple Lotus (2), Crystal Vial\n35\nUse: Allows the Imbiber to breathe water for 1 hour. (3 Sec Cooldown)" }
+entries[22810] = { ["name"] = "Opening - No Text" }
+entries[22811] = { ["name"] = "Increased Crossbow", ["text"] = "Increases crossbow skill rating by 4." }
+entries[22812] = { ["name"] = "Barkskin", ["text"] = "Instant 1 min cooldown\nThe druid's skin becomes as tough as bark. All damage taken is reduced by 20%. While protected, damaging attacks will not cause spellcasting delays. This spell is usable while stunned, frozen, incapacitated, feared or asleep. Usable in all forms. Lasts 12 sec." }
+entries[22813] = { ["name"] = "Gordok Ogre Suit", ["text"] = "3 sec cast\nReagents:\nBolt of Runecloth (2), Rugged Leather (4), Ogre Tannin , Rune Thread\nGordok Ogre Suit\nUnique\n55\nUse: Disguise yourself as one of the Gordok ogres, and maybe even fool a particular captain in the process! The suit will only hold together for 10 min.\n\"It lifts AND supports!\"" }
+entries[22814] = { ["name"] = "Gordok Ogre Suit" }
+entries[22815] = { ["name"] = "Gordok Ogre Suit", ["text"] = "12.5 sec cast\nReagents:\nRugged Leather (4), Bolt of Runecloth (2), Ogre Tannin , Rune Thread\nGordok Ogre Suit\nUnique\n55\nUse: Disguise yourself as one of the Gordok ogres, and maybe even fool a particular captain in the process! The suit will only hold together for 10 min.\n\"It lifts AND supports!\"" }
+entries[22816] = { ["name"] = "Gordok Ogre Suit" }
+entries[22817] = { ["name"] = "Fengus' Ferocity", ["text"] = "30 yd range\nInstant\nAttack power increased by 200." }
+entries[22818] = { ["name"] = "Mol'dar's Moxie", ["text"] = "30 yd range\nInstant\nOverall Stamina increased by 15%." }
+entries[22820] = { ["name"] = "Slip'kik's Savvy", ["text"] = "30 yd range\nInstant\nSpell critical strike rating increased." }
+entries[22822] = { ["name"] = "Starshards", ["text"] = "8 Mana 30 yd range\nChanneled (6 sec cast)\nRains starshards down on the enemy target's head, causing 18 Arcane damage over 6 sec." }
+entries[22823] = { ["name"] = "Starshards", ["text"] = "8 Mana 30 yd range\nChanneled (6 sec cast)\nRains starshards down on the enemy target's head, causing 30 Arcane damage over 6 sec." }
+entries[22825] = { ["name"] = "Summon Cadaverous Worm" }
+entries[22827] = { ["name"] = "Ferocious Bite", ["text"] = "35 Energy Melee Range\nInstant\nRequires Cat Form\nFinishing move that causes damage per combo point and converts each extra point of energy (up to a maximum of 30 extra energy) into (1.10000002 + Attack power / 410) additional damage. Damage is increased by your attack power.\n1 point : (20 + 59 * 1 + 0.07 * Attack power)-(44 + 59 * 1 + 0.07 * Attack power) damage\n2 points: (20 + 59 * 2 + 0.14 * Attack power)-(44 + 59 * 2 + 0.14 * Attack power) damage\n3 points: (20 + 59 * 3 + 0.21 * Attack power)-(44 + 59 * 3 + 0.21 * Attack power) damage\n4 points: (20 + 59 * 4 + 0.28 * Attack power)-(44 + 59 * 4 + 0.28 * Attack power) damage\n5 points: (20 + 59 * 5 + 0.35 * Attack power)-(44 + 59 * 5 + 0.35 * Attack power) damage" }
+entries[22828] = { ["name"] = "Ferocious Bite", ["text"] = "35 Energy Melee Range\nInstant\nRequires Cat Form\nFinishing move that causes damage per combo point and converts each extra point of energy (up to a maximum of 30 extra energy) into (1.5 + Attack power / 410) additional damage. Damage is increased by your attack power.\n1 point : (30 + 92 * 1 + 0.07 * Attack power)-(70 + 92 * 1 + 0.07 * Attack power) damage\n2 points: (30 + 92 * 2 + 0.14 * Attack power)-(70 + 92 * 2 + 0.14 * Attack power) damage\n3 points: (30 + 92 * 3 + 0.21 * Attack power)-(70 + 92 * 3 + 0.21 * Attack power) damage\n4 points: (30 + 92 * 4 + 0.28 * Attack power)-(70 + 92 * 4 + 0.28 * Attack power) damage\n5 points: (30 + 92 * 5 + 0.35 * Attack power)-(70 + 92 * 5 + 0.35 * Attack power) damage" }
+entries[22829] = { ["name"] = "Ferocious Bite", ["text"] = "35 Energy Melee Range\nInstant\nRequires Cat Form\nFinishing move that causes damage per combo point and converts each extra point of energy (up to a maximum of 30 extra energy) into (2 + Attack power / 410) additional damage. Damage is increased by your attack power.\n1 point : (45 + 128 * 1 + 0.07 * Attack power)-(95 + 128 * 1 + 0.07 * Attack power) damage\n2 points: (45 + 128 * 2 + 0.14 * Attack power)-(95 + 128 * 2 + 0.14 * Attack power) damage\n3 points: (45 + 128 * 3 + 0.21 * Attack power)-(95 + 128 * 3 + 0.21 * Attack power) damage\n4 points: (45 + 128 * 4 + 0.28 * Attack power)-(95 + 128 * 4 + 0.28 * Attack power) damage\n5 points: (45 + 128 * 5 + 0.35 * Attack power)-(95 + 128 * 5 + 0.35 * Attack power) damage" }
+entries[22833] = { ["name"] = "Booze Spit" }
+entries[22835] = { ["name"] = "Drunken Rage" }
+entries[22836] = { ["name"] = "Elemental Slaying 36", ["text"] = "Increases attack power by 36 when fighting Elementals." }
+entries[22838] = { ["name"] = "Alterac Ram Aura Dummy Dispel DND" }
+entries[22840] = { ["name"] = "Arcanum of Rapidity", ["text"] = "4 sec cast\nRequires Helms, Pants\nPermanently adds 10 haste rating to a leg or head slot item.\n\nEnchanting the item causes it to become soulbound." }
+entries[22842] = { ["name"] = "Frenzied Regeneration", ["text"] = "Instant 3 min cooldown\nRequires Bear Form, Dire Bear Form\nConverts up to 10 rage per second into health for 10 sec. Each point of rage is converted into 0.3% of max health." }
+entries[22844] = { ["name"] = "Arcanum of Focus", ["text"] = "4 sec cast\nRequires Helms, Pants\nPermanently adds 8 spell power to a leg or head slot item.\n\nEnchanting the item causes it to become soulbound." }
+entries[22845] = { ["name"] = "Frenzied Regeneration", ["text"] = "Instant\nConverts up to 10 rage per second into health for 10 sec. Each point of rage is converted into 0.3% of max health." }
+entries[22846] = { ["name"] = "Arcanum of Protection", ["text"] = "4 sec cast\nRequires Helms, Pants\nPermanently adds 12 dodge rating to a leg or head slot item.\n\nEnchanting the item causes it to become soulbound." }
+entries[22848] = { ["name"] = "Force Reactive Disk Visual" }
+entries[22849] = { ["name"] = "Increase Spell Dam Undead 35", ["text"] = "Increases spell power against Undead by 35." }
+entries[22850] = { ["name"] = "Sanctuary", ["text"] = "Instant\nGrants the wielder 20 defense rating and 300 armor for 10 sec." }
+entries[22852] = { ["name"] = "Block Value 45", ["text"] = "Increases the block value of your shield by 45." }
+entries[22854] = { ["name"] = "Increased Hunter Pet Damage", ["text"] = "Increases the damage done by your pets by 4%." }
+entries[22855] = { ["name"] = "Increased Imp Firebolt Damage", ["text"] = "Increases the damage of your Imp's Firebolt spell by 8." }
+entries[22856] = { ["name"] = "Ice Lock" }
+entries[22857] = { ["name"] = "Retaliation", ["text"] = "Instant\nInstantly counterattack any enemy that strikes you in melee for 15 sec. Melee attacks made from behind cannot be counterattacked." }
+entries[22858] = { ["name"] = "Retaliation", ["text"] = "Melee Range\nInstant\nInstantly counterattack any enemy that strikes you in melee. Melee attacks made from behind cannot be counterattacked." }
+entries[22859] = { ["name"] = "Mortal Cleave", ["text"] = "Melee Range\nInstant\nRequires Melee Weapon\nInflicts 150% weapon damage and leaves the target wounded, reducing the effectiveness of any healing by 50% for 5 sec." }
+entries[22860] = { ["name"] = "Call Reavers" }
+entries[22863] = { ["name"] = "Speed", ["text"] = "Instant\nIncreases run speed by 30% for 10 sec." }
+entries[22864] = { ["name"] = "Field Repair Bot 74A" }
+entries[22865] = { ["name"] = "Summon Doomguard", ["text"] = "Instant\nSummons an Doomguard to accompany the caster until dismissed." }
+entries[22866] = { ["name"] = "Belt of the Archmage", ["text"] = "50 sec cast\nReagents:\nBolt of Runecloth (16), Ghost Dye (10), Mooncloth (10), Essence of Water (12), Essence of Fire (12), Large Brilliant Shard (6), Rune Thread (6)\nBelt of the Archmage\nBinds when equipped\nWaist Cloth\n62 Armor\n+10 Stamina\n+25 Intellect\nDurability 35 / 35\n57\nEquip: Increases your critical strike rating by 14." }
+entries[22867] = { ["name"] = "Felcloth Gloves", ["text"] = "25 sec cast\nReagents:\nBolt of Runecloth (12), Felcloth (20), Demonic Rune (6), Essence of Undeath (8), Rune Thread (2)\nFelcloth Gloves\nBinds when equipped\nHands Cloth\n55 Armor\n+9 Stamina\nDurability 30 / 30\n57\nEquip: Increases spell power by 27." }
+entries[22868] = { ["name"] = "Inferno Gloves", ["text"] = "45 sec cast\nReagents:\nBolt of Runecloth (12), Essence of Fire (10), Star Ruby (2), Rune Thread (2)\nInferno Gloves\nBinds when equipped\nHands Cloth\n55 Armor\n+9 Intellect\nDurability 30 / 30\n57\nEquip: Increases spell power by 27." }
+entries[22869] = { ["name"] = "Mooncloth Gloves", ["text"] = "45 sec cast\nReagents:\nBolt of Runecloth (12), Mooncloth (6), Golden Pearl (2), Rune Thread (2)\nMooncloth Gloves\nBinds when equipped\nHands Cloth\n55 Armor\n+9 Stamina\n+16 Intellect\n+15 Spirit\nDurability 30 / 30\n57" }
+entries[22870] = { ["name"] = "Cloak of Warding", ["text"] = "45 sec cast\nReagents:\nBolt of Runecloth (12), Guardian Stone (4), Arcanite Bar , Rune Thread (2)\nCloak of Warding\nBinds when equipped\nBack\n214 Armor\n57\nEquip: Increases defense rating by 7." }
+entries[22876] = { ["name"] = "Summon Netherwalker" }
+entries[22877] = { ["name"] = "Attunement to the Core" }
+entries[22878] = { ["name"] = "Shadow Bolt Volley", ["text"] = "30 yd range\nInstant\nHurls missiles of dark magic, inflicting Shadow damage to nearby enemies." }
+entries[22883] = { ["name"] = "Heal", ["text"] = "215 Mana 40 yd range\n3.5 sec cast\nCalls upon Holy magic to heal an ally." }
+entries[22884] = { ["name"] = "Psychic Scream", ["text"] = "210 Mana\nInstant\nLets out a psychic scream, causing up to 5 nearby enemies to flee for 4 sec." }
+entries[22885] = { ["name"] = "Earth Shock", ["text"] = "130 Mana 20 yd range\nInstant\nShocks an enemy with concussive force, inflicting Nature damage and interrupting the spell being cast for 2 sec." }
+entries[22886] = { ["name"] = "Berserker Charge", ["text"] = "40 yd range\nInstant\nCharges at an enemy, knocking it back and inflicting normal damage plus 300." }
+entries[22887] = { ["name"] = "Throw", ["text"] = "5 - 30 yd range\nInstant\nThrows a weapon at an enemy, inflicting Physical damage." }
+entries[22888] = { ["name"] = "Rallying Cry of the Dragonslayer", ["text"] = "Unlimited range\nInstant\nIncreases melee, ranged, and spell critical strike rating and grants additional melee attack power. 120 minute duration." }
+entries[22890] = { ["name"] = "Undo Crowd Control", ["text"] = "Instant\nRemoves one Stun, Slowing, or Immobilizing effect." }
+entries[22891] = { ["name"] = "Undo Crowd Control Rogue", ["text"] = "Instant\nRemoves one Fear, Polymorph, or Sleep effect." }
+entries[22893] = { ["name"] = "Arcane Blast", ["text"] = "100 yd range\nInstant\nBlasts an enemy with Arcane magic, inflicting normal damage plus 100 and knocking the enemy back." }
+entries[22899] = { ["name"] = "Eye of Immol'thar" }
+entries[22900] = { ["name"] = "Body Switch" }
+entries[22901] = { ["name"] = "Body Switch" }
+entries[22902] = { ["name"] = "Mooncloth Robe", ["text"] = "45 sec cast\nReagents:\nBolt of Runecloth (6), Mooncloth (4), Golden Pearl (2), Rune Thread (2)\nMooncloth Robe\nBinds when equipped\nChest Cloth\n87 Armor\n+12 Stamina\n+25 Intellect\n+12 Spirit\nDurability 80 / 80\n56" }
+entries[22905] = { ["name"] = "Place Unfired Blade", ["text"] = "1 sec cast\nPlace under the flaming breath of Onyxia." }
+entries[22906] = { ["name"] = "Plunging Blade into Onyxia", ["text"] = "10 yd range\n3 sec cast\nDrive into the heart of the brood mother to temper the heated blade." }
+entries[22907] = { ["name"] = "Shoot", ["text"] = "5 - 30 yd range\nInstant\nRequires Ranged Weapon\nShoots at an enemy, inflicting Physical damage." }
+entries[22908] = { ["name"] = "Volley", ["text"] = "5 - 30 yd rangeChanneled (6 sec cast) 1 min cooldown\nRequires Ranged Weapon\nContinuously fires a volley of ammo at the target area, causing 300 Arcane damage to enemy targets within 8 yards every second for 6 sec." }
+entries[22909] = { ["name"] = "Eye of Immol'thar" }
+entries[22910] = { ["name"] = "Immolation Trap", ["text"] = "245 Mana\nInstant 15 sec cooldown\nPlace a fire trap that will burn the first enemy to approach for 690 Fire damage over 15 sec. Trap will exist for 1 min. Traps can only be placed when out of combat. Only one trap can be active at a time." }
+entries[22911] = { ["name"] = "Charge", ["text"] = "8 - 25 yd range\nInstant\nCharges an enemy, inflicting normal damage plus 75 and stuns the opponent for 2 sec." }
+entries[22912] = { ["name"] = "Block Value 36", ["text"] = "Increases the block value of your shield by 36." }
+entries[22914] = { ["name"] = "Concussive Shot", ["text"] = "45 yd range\nRequires Ranged Weapon\nDazes an enemy, reducing its movement speed by 50% for 3 sec." }
+entries[22915] = { ["name"] = "Improved Concussive Shot" }
+entries[22916] = { ["name"] = "Uppercut", ["text"] = "10 yd range\nInstant\nInflicts normal damage plus 50 to an enemy, knocking it back." }
+entries[22917] = { ["name"] = "Shadowform", ["text"] = "40% of base mana\nInstant\nAssumes a Shadowform, increasing Shadow damage dealt by 40% and reducing melee damage taken by 40%. Shadowform lasts until cancelled." }
+entries[22919] = { ["name"] = "Mind Flay", ["text"] = "60 Mana 20 yd range\nChanneled (3 sec cast)\nInflicts Shadow damage to an enemy and reduces its movement speed for 3 sec." }
+entries[22920] = { ["name"] = "Arcane Blast", ["text"] = "Melee Range\nInstant\nBlasts an enemy with Arcane magic, inflicting normal damage plus 875 to 1125 and knocking the enemy back." }
+entries[22921] = { ["name"] = "Girdle of Insight", ["text"] = "45 sec cast\nReagents:\nRugged Leather (12), Powerful Mojo (12), Cured Rugged Hide (2), Rune Thread (4)\nGirdle of Insight\nBinds when equipped\nWaist Leather\n98 Armor\n+9 Stamina\n+23 Intellect\nDurability 35 / 35\n57" }
+entries[22922] = { ["name"] = "Mongoose Boots", ["text"] = "45 sec cast\nReagents:\nRugged Leather (12), Essence of Air (6), Black Diamond (4), Cured Rugged Hide (2), Rune Thread (4)\nMongoose Boots\nBinds when equipped\nFeet Leather\n120 Armor\n+23 Agility\n+9 Stamina\nDurability 50 / 50\n57" }
+entries[22923] = { ["name"] = "Swift Flight Bracers", ["text"] = "45 sec cast\nReagents:\nRugged Leather (12), Larval Acid (8), Cured Rugged Hide (4), Rune Thread (4)\nSwift Flight Bracers\nBinds when equipped\nWrist Mail\n160 Armor\n+7 Stamina\nDurability 40 / 40\n57\nEquip: Increases ranged attack power by 41." }
+entries[22924] = { ["name"] = "Grasping Vines", ["text"] = "1 sec cast\nInflicts Physical damage to nearby enemies, knocking them down and immobilizing them for 10 sec." }
+entries[22926] = { ["name"] = "Chromatic Cloak", ["text"] = "50 sec cast\nReagents:\nRugged Leather (25), Brilliant Chromatic Scale (4), Black Dragonscale (12), Red Dragonscale (12), Rune Thread (2)\nChromatic Cloak\nBinds when equipped\nBack\n55 Armor\n+10 Stamina\n+9 Fire Resistance\n+9 Shadow Resistance\n57\nEquip: Increases your critical strike rating by 14." }
+entries[22927] = { ["name"] = "Hide of the Wild", ["text"] = "50 sec cast\nReagents:\nRugged Leather (30), Larval Acid (5), Cured Rugged Hide (2), Rune Thread (2)\nHide of the Wild\nBinds when equipped\nBack\n55 Armor\n+8 Stamina\n+10 Intellect\n57\nEquip: Increases spell power by 22." }
+entries[22928] = { ["name"] = "Shifting Cloak", ["text"] = "50 sec cast\nReagents:\nEnchanted Leather (10), Skin of Shadow (2), Rune Thread\nShifting Cloak\nBinds when equipped\nBack\n55 Armor\n+17 Agility\n+8 Stamina\n57\nEquip: Increases your dodge rating by 12." }
+entries[22935] = { ["name"] = "Planted" }
+entries[22936] = { ["name"] = "Mana Burn", ["text"] = "30 yd range\nInstant\nHits an enemy with an anti-mana bolt. For each point of mana consumed by the bolt, the target takes 0.5 damage." }
+entries[22937] = { ["name"] = "Poison Bolt", ["text"] = "30 yd range\n2.5 sec cast\nShoots poison at an enemy, inflicting Nature damage, then additional damage every 5 sec. for 10 sec." }
+entries[22938] = { ["name"] = "Arcane Explosion", ["text"] = "20 Mana\n1 sec cast\nSends out a blast wave of magic, inflicting Arcane damage to nearby enemies." }
+entries[22939] = { ["name"] = "Summon Mana Bursts" }
+entries[22940] = { ["name"] = "Arcane Blast", ["text"] = "Melee Range\nInstant\nBlasts an enemy with Arcane magic, inflicting normal damage plus 175 to 225 and knocking the enemy back." }
+entries[22945] = { ["name"] = "Forked Lightning", ["text"] = "150 Mana 30 yd range\n1.5 sec cast\nInflicts 525 to 675 Nature damage to enemies in a cone in front of the caster." }
+entries[22946] = { ["name"] = "Lightning Cloud", ["text"] = "100 Mana 30 yd range\n2.5 sec cast\nCreates a cloud of lightning that lasts 15 sec., blasting all enemies in a selected area for 28 to 32 Nature damage and inflicting 42 to 48 additional damage every 5 sec." }
+entries[22947] = { ["name"] = "Mana Burn", ["text"] = "95 Mana 30 yd range\n2 sec cast\nHits an enemy with an anti-mana bolt. For each point of mana consumed by the bolt, the target takes 0.5 damage." }
+entries[22948] = { ["name"] = "Spore Cloud" }
+entries[22949] = { ["name"] = "Seal Felvine Shard", ["text"] = "3 sec cast\nReagents:\nFelvine Shard\nSeal a Felvine Shard inside the Reliquary of Purity." }
+entries[22950] = { ["name"] = "Portal of Immol'thar" }
+entries[22951] = { ["name"] = "Summon Player", ["text"] = "Unlimited range\nInstant\nTeleports the target in front of you." }
+entries[22959] = { ["name"] = "Improved Scorch", ["text"] = "100 yd range\nInstant\nYour Scorch spells have a chance to cause your target to be vulnerable to spell damage, increasing spell critical strike chance against that target." }
+entries[22965] = { ["name"] = "Second Chances: Summon Archbishop Landgren's Corpse Spell Focus" }
+entries[22966] = { ["name"] = "Soul Coax", ["text"] = "10 yd range\nChanneled (8 sec cast)\nPulls the soul out of a corpse." }
+entries[22967] = { ["name"] = "Smelt Elementium", ["text"] = "10 sec cast\nReagents:\nElementium Ore , Arcanite Bar (10), Fiery Core , Elemental Flux (3)\nElementium Bar" }
+entries[22968] = { ["name"] = "Smelt Elementium", ["text"] = "100 yd range\nInstant\nTeaches the target how to smelt Elementium." }
+entries[22972] = { ["name"] = "Shadow Flame" }
+entries[22975] = { ["name"] = "Shadow Flame" }
+entries[22976] = { ["name"] = "Shadow Flame" }
+entries[22977] = { ["name"] = "Shadow Flame" }
+entries[22978] = { ["name"] = "Shadow Flame" }
+entries[22979] = { ["name"] = "Shadow Flame" }
+entries[22980] = { ["name"] = "Shadow Flame" }
+entries[22981] = { ["name"] = "Shadow Flame" }
+entries[22982] = { ["name"] = "Shadow Flame" }
+entries[22983] = { ["name"] = "Shadow Flame" }
+entries[22984] = { ["name"] = "Shadow Flame" }
+entries[22985] = { ["name"] = "Shadow Flame" }
+entries[22986] = { ["name"] = "Shadow Flame" }
+entries[22987] = { ["name"] = "Ritual Subjugation", ["text"] = "Unlimited range\nInstant\nSubjugated a doomguard by sacrificing the health of a ritual participant." }
+entries[22988] = { ["name"] = "Illidan's Fury", ["text"] = "Instant\nConsumed by the fury of Illidan: 1400 attack power bonus versus Demons. 20% bonus chance to hit. 30% melee haste." }
+entries[22989] = { ["name"] = "The Breaking", ["text"] = "1 sec cast\nReagents:\nThe Twin Blades of Azzinoth\nDetaches the twin blades, forming two separate warglaives." }
+entries[22990] = { ["name"] = "The Forming", ["text"] = "1 sec cast\nReagents:\nWarglaive of Azzinoth (Left) , Warglaive of Azzinoth (Right)\nConnects the twin warglaives of Azzinoth, forming the Twin Blades of Azzinoth." }
+entries[22991] = { ["name"] = "The Breaking Left Blade DND", ["text"] = "1 sec cast\nReagents:\nThe Twin Blades of Azzinoth\nDetaches the twin blades, forming two separate warglaives." }
+entries[22992] = { ["name"] = "Shadow Flame" }
+entries[22993] = { ["name"] = "Shadow Flame", ["text"] = "Unlimited range\nInstant\nDeals 20000 Shadow damage to the target." }
+entries[22994] = { ["name"] = "Entangle", ["text"] = "100 yd range\nInstant\nEntangles an enemy in roots, inflicting Nature damage every 3 sec. and immobilizing it for up to 10 sec." }
+entries[22995] = { ["name"] = "Summon" }
+entries[22996] = { ["name"] = "Battle Standard", ["text"] = "Instant\nPlace a Battle Standard that increases the maximum health of all friendly units' that stay within 45 yards of the Battle Standard by 10%. Lasts 2 min." }
+entries[22997] = { ["name"] = "Plague" }
+entries[22998] = { ["name"] = "Battle Standard" }
+entries[22999] = { ["name"] = "Defibrillate", ["text"] = "5 yd range\n4 sec cast\nJumper Cables will sometimes be able to shock a dead player back to life. Cannot be used when in combat." }
+entries[23000] = { ["name"] = "Ez-Thro Dynamite", ["text"] = "30 yd range\n1 sec cast\nInflicts 213 to 287 Fire damage in a 5 yard radius (Assuming that it gets to the target, some restrictions may apply.)" }
+entries[23001] = { ["name"] = "Ez-Thro Dynamite Backfire", ["text"] = "30 yd range\nInstant\nReagents:\nEz-Thro Dynamite\nInflicts 213 to 287 Fire damage in a 5 yard radius." }
+entries[23002] = { ["name"] = "Alert!" }
+entries[23003] = { ["name"] = "Gnomish Alarm-o-Bot" }
+entries[23004] = { ["name"] = "Summon Gnomish Alarm-o-Bot", ["text"] = "0.25 sec cast\nSummons a Gnomish Alarm-o-Bot to scan the area for stealthed enemies. The Alarm-o-Bot may occasionally give false signals. Lasts up to 2 min." }
+entries[23005] = { ["name"] = "Battle Standard", ["text"] = "Instant\nPlace a Battle Standard that increases the maximum health of all friendly units' that stay within 45 yards of the Battle Standard by 10%. Lasts 2 min." }
+entries[23006] = { ["name"] = "Battle Standard" }
+entries[23008] = { ["name"] = "Powerful Seaforium Charge", ["text"] = "5 yd range\n5 sec cast\nBlasts open strong locked doors or chests." }
+entries[23009] = { ["name"] = "Tendrils of Air" }
+entries[23010] = { ["name"] = "Tendrils of Air" }
+entries[23011] = { ["name"] = "Tears of the Wind Seeker" }
+entries[23012] = { ["name"] = "Summon Orphan", ["text"] = "1 sec cast\nRight Click to summon and dismiss the orphan you've agreed to look after for Children's Week." }
+entries[23013] = { ["name"] = "Summon Orphan", ["text"] = "1 sec cast\nRight Click to summon and dismiss the orphan you've agreed to look after for Children's Week." }
+entries[23014] = { ["name"] = "Possess" }
+entries[23015] = { ["name"] = "Crystal Prison", ["text"] = "30 yd range\nChanneled (18 sec cast)\nImprisons a Doomguard Commander." }
+entries[23016] = { ["name"] = "Lash of Submission" }
+entries[23017] = { ["name"] = "Arcane Channeling" }
+entries[23018] = { ["name"] = "Use Dragon Orb" }
+entries[23019] = { ["name"] = "Crystal Prison Dummy DND" }
+entries[23020] = { ["name"] = "Crystal Imprisonment" }
+entries[23023] = { ["name"] = "Conflagration", ["text"] = "30 yd range\nInstant\nSets an enemy aflame, inflicting 3000 Fire damage over 10 sec. and sending it into a state of panic. While the target is affected, the flames periodically scorch its nearby allies for 300 damage as well." }
+entries[23024] = { ["name"] = "Fireball" }
+entries[23025] = { ["name"] = "Blink Cooldown Reduction", ["text"] = "Reduces the cooldown of your Blink spell by 2 sec." }
+entries[23028] = { ["name"] = "Arcane Brilliance", ["text"] = "81% of base mana 40 yd range\nInstant\nReagents:\nArcane Powder\nInfuses all party and raid members with brilliance, increasing their Intellect by 31 for 1 hour." }
+entries[23030] = { ["name"] = "Arcane Brilliance", ["text"] = "3 sec cast" }
+entries[23033] = { ["name"] = "Battle Standard" }
+entries[23034] = { ["name"] = "Battle Standard", ["text"] = "Instant\nPlace a Battle Standard with 1500 health that increases the maximum health of all party members that stay within 45 yards of the Battle Standard by 15%. Lasts 2 min. The Battle Standard may only be used in PvP Battlegrounds." }
+entries[23035] = { ["name"] = "Battle Standard", ["text"] = "Instant\nPlace a Battle Standard with 1500 health that increases the maximum health of all party members that stay within 45 yards of the Battle Standard by 15%. Lasts 2 min. The Battle Standard may only be used in PvP Battlegrounds." }
+entries[23036] = { ["name"] = "Battle Standard" }
+entries[23037] = { ["name"] = "Mana Shield Absorb Increase", ["text"] = "Increases the damage absorbed by your Mana Shield by 285." }
+entries[23038] = { ["name"] = "Flame Shock", ["text"] = "110 Mana 20 yd range\nInstant\nInstantly burns an enemy, then inflicts additional Fire damage every 3 sec. for 12 sec." }
+entries[23039] = { ["name"] = "Blast Wave", ["text"] = "120 Mana\n2 sec cast\nUnleashes a wave of flame, inflicting Fire damage to nearby enemies and reducing their movement speed for 6 sec." }
+entries[23040] = { ["name"] = "Warming Flames" }
+entries[23041] = { ["name"] = "Call Anathema", ["text"] = "1 sec cast 30 min cooldown\nCalls forth Anathema." }
+entries[23042] = { ["name"] = "Call Benediction", ["text"] = "1 sec cast 30 min cooldown\nCalls forth Benediction." }
+entries[23043] = { ["name"] = "Mind Blast Cast Pushback Reduction", ["text"] = "Gives you a 50% chance to avoid interruption caused by damage while casting Mind Blast." }
+entries[23044] = { ["name"] = "Psychic Scream Duration Increase", ["text"] = "Increases the duration of your Psychic Scream spell by 1 sec." }
+entries[23046] = { ["name"] = "Searing Pain Cast Pushback Reduction", ["text"] = "Gives you a 50% chance to avoid interruption caused by damage while casting Searing Pain." }
+entries[23047] = { ["name"] = "Fear Cast Time Reduction", ["text"] = "Reduces the casting time of your Fear spell by 0.2 sec." }
+entries[23048] = { ["name"] = "Gouge Cooldown Reduction", ["text"] = "Reduces the cooldown of your Gouge ability by 1 sec." }
+entries[23049] = { ["name"] = "Sprint Duration Increase", ["text"] = "Increases the duration of your Sprint ability by 3 sec." }
+entries[23050] = { ["name"] = "Mithril Mechanical Dragonling" }
+entries[23051] = { ["name"] = "Mechanical Dragonling" }
+entries[23052] = { ["name"] = "Arcanite Dragonling" }
+entries[23053] = { ["name"] = "Infernal Conjure Dummy DND" }
+entries[23054] = { ["name"] = "Igniting Kroshius", ["text"] = "3 sec cast\nIgnites Kroshius, reanimating the fallen infernal." }
+entries[23055] = { ["name"] = "Defibrillated!" }
+entries[23056] = { ["name"] = "Call Infernal Destroyer" }
+entries[23059] = { ["name"] = "Create Thorium Brotherhood Contract DND" }
+entries[23060] = { ["name"] = "Battle Squawk", ["text"] = "Unlimited range\nInstant\nAttack speed increased by 5%. Lasts 4 min." }
+entries[23061] = { ["name"] = "Fix Ritual Node", ["text"] = "5 yd range\n3 sec cast\nReagents:\nSoul Shard\nRestart a failing power node during the Ritual of Greater Summoning. Requires 1 Soul Shard." }
+entries[23063] = { ["name"] = "Dense Dynamite", ["text"] = "30 yd range\n1 sec cast\nInflicts 340 to 460 Fire damage in a 5 yard radius." }
+entries[23064] = { ["name"] = "Recombobulate", ["text"] = "30 yd range\nInstant\nRestores 375 to 625 health and mana to a friendly target and attempts to dispel any polymorph effects from them. Reduced effectiveness against polymorph effects from casters of level 61 and higher." }
+entries[23065] = { ["name"] = "Throw Rock", ["text"] = "40 yd range\nInstant\nThrow rock to a friendly player. If they have free room in their pack they will catch it!" }
+entries[23066] = { ["name"] = "Red Firework", ["text"] = "2 sec cast\nReagents:\nHeavy Blasting Powder , Heavy Leather\n(3)\nUse: Shoots a firework into the air that bursts into a thousand red stars." }
+entries[23067] = { ["name"] = "Blue Firework", ["text"] = "2 sec cast\nReagents:\nHeavy Blasting Powder , Heavy Leather\n(3)\nUse: Shoots a firework into the air that bursts into a thousand blue stars." }
+entries[23068] = { ["name"] = "Green Firework", ["text"] = "2 sec cast\nReagents:\nHeavy Blasting Powder , Heavy Leather\n(3)\nUse: Shoots a firework into the air that bursts into a thousand green stars." }
+entries[23069] = { ["name"] = "EZ-Thro Dynamite II", ["text"] = "2 sec cast\nReagents:\nSolid Blasting Powder , Mageweave Cloth (2)\nEz-Thro Dynamite II\n30\nUse: Inflicts 213 to 287 Fire damage in a 5 yard radius (Assuming that it gets to the target, some restrictions may apply.) (1 Min Cooldown)\n\"The dynamite for Non-Engineers that rarely* blows up in your hand with over twice the blasting power of standard EZ-Thro.\"" }
+entries[23070] = { ["name"] = "Dense Dynamite", ["text"] = "3 sec cast\nReagents:\nDense Blasting Powder (2), Runecloth (3)\n(2)\nRequires Engineering\n(250)\nUse: Inflicts 340 to 460 Fire damage in a 5 yard radius. (1 Min Cooldown)" }
+entries[23071] = { ["name"] = "Truesilver Transformer", ["text"] = "3 sec cast\nTools:\nBlacksmith Hammer , Arclight Spanner\nReagents:\nTruesilver Bar (2), Elemental Earth (2), Elemental Air" }
+entries[23072] = { ["name"] = "Seething Plague" }
+entries[23073] = { ["name"] = "Shoot", ["text"] = "60 yd range\nInstant\nRequires Ranged Weapon\nShoots at an enemy, inflicting Physical damage." }
+entries[23074] = { ["name"] = "Arcanite Dragonling", ["text"] = "Instant 5 min cooldown\nActivates your Arcanite Dragonling to fight for you for 1 min. It requires an hour to cool down before it can be used again." }
+entries[23075] = { ["name"] = "Mithril Mechanical Dragonling", ["text"] = "Instant 5 min cooldown\nActivates your Mithril Mechanical Dragonling to fight for you for 1 min. It requires an hour to cool down before it can be used again." }
+entries[23076] = { ["name"] = "Mechanical Dragonling", ["text"] = "Instant 5 min cooldown\nActivates your Mechanical Dragonling to fight for you for 1 min. It requires an hour to cool down before it can be used again." }
+entries[23077] = { ["name"] = "Gyrofreeze Ice Reflector", ["text"] = "45 sec cast\nTools:\nBlacksmith Hammer , Arclight Spanner\nReagents:\nThorium Widget (6), Truesilver Transformer (2), Blue Sapphire (2), Essence of Fire (4), Frost Oil (2), Icecap (4)\nGyrofreeze Ice Reflector\nBinds when equipped\nTrinket\n+15 Frost Resistance\n47\nRequires Engineering\n(260)\nUse: Reflects Frost spells back at their caster for 5 sec. Chance to be resisted when used by players over level 60. (5 Min Cooldown)" }
+entries[23078] = { ["name"] = "Goblin Jumper Cables XL", ["text"] = "12.5 sec cast\nReagents:\nThorium Widget (2), Truesilver Transformer (2), Fused Wiring (2), Ironweb Spider Silk (2), Star Ruby (2)\nRequires Engineering\n(265)\nUse: Jumper Cables will sometimes be able to shock a dead player back to life. Cannot be used when in combat. (30 Min Cooldown)" }
+entries[23079] = { ["name"] = "Major Recombobulator", ["text"] = "25 sec cast\nReagents:\nThorium Tube (2), Truesilver Transformer , Runecloth (2)\nMajor Recombobulator\nTrinket\nRequires Engineering\n(275)\nUse: Restores 375 to 625 health and mana to a friendly target and attempts to dispel any polymorph effects from them. Reduced effectiveness against polymorph effects from casters of level 61 and higher. (5 Min Cooldown)\n10 Charges" }
+entries[23080] = { ["name"] = "Powerful Seaforium Charge", ["text"] = "12.5 sec cast\nReagents:\nThorium Widget (2), Dense Blasting Powder (3), Rugged Leather (2), Refreshing Spring Water\nRequires Engineering\n(275)\nUse: Blasts open strong locked doors or chests." }
+entries[23081] = { ["name"] = "Hyper-Radiant Flame Reflector", ["text"] = "45 sec cast\nTools:\nBlacksmith Hammer , Arclight Spanner\nReagents:\nDark Iron Bar (4), Truesilver Transformer (3), Essence of Water (6), Star Ruby (4), Azerothian Diamond (2)\nHyper-Radiant Flame Reflector\nBinds when equipped\nTrinket\n+18 Fire Resistance\n53\nRequires Engineering\n(290)\nUse: Reflects Fire spells back at their caster for 5 sec. Chance to be resisted when used by players over level 60. (5 Min Cooldown)" }
+entries[23082] = { ["name"] = "Ultra-Flash Shadow Reflector", ["text"] = "45 sec cast\nTools:\nBlacksmith Hammer , Arclight Spanner\nReagents:\nDark Iron Bar (8), Truesilver Transformer (4), Living Essence (6), Essence of Undeath (4), Azerothian Diamond (2), Large Opal (2)\nUltra-Flash Shadow Reflector\nBinds when equipped\nTrinket\n+20 Shadow Resistance\n55\nRequires Engineering\n(300)\nUse: Reflects Shadow spells back at their caster for 5 sec. Chance to be resisted when used by players over level 60. (5 Min Cooldown)" }
+entries[23096] = { ["name"] = "Gnomish Alarm-o-Bot", ["text"] = "2 sec cast\nTools:\nBlacksmith Hammer , Arclight Spanner\nReagents:\nThorium Bar (4), Fused Wiring\nGnomish Alarm-o-Bot\n(2)\nRequires Engineering\n(265)\nUse: Summons a Gnomish Alarm-o-Bot to scan the area for stealthed enemies. The Alarm-o-Bot may occasionally give false signals. Lasts up to 2 min. (5 Min Cooldown)" }
+entries[23097] = { ["name"] = "Fire Reflector", ["text"] = "Instant\nReflects Fire spells back at their caster for 5 sec. Chance to be resisted when used by players over level 60." }
+entries[23101] = { ["name"] = "Eye of Divinity" }
+entries[23102] = { ["name"] = "Frostbolt", ["text"] = "40 yd range\n1 sec cast\nInflicts Frost damage to an enemy and reduces its movement speed for 4 sec." }
+entries[23103] = { ["name"] = "Enveloping Winds", ["text"] = "30 yd range\n2 sec cast\nSurrounds an enemy with a cyclone for up to 10 sec. If the target takes any damage, it will break free of the imprisoning winds." }
+entries[23104] = { ["name"] = "Shock", ["text"] = "20 yd range\nInstant\nInstantly throws a bolt of lightning at an enemy, inflicting Nature damage." }
+entries[23105] = { ["name"] = "Lightning Cloud", ["text"] = "30 yd range\nInstant\nCreates a cloud of lightning that lasts 15 sec., blasting all enemies in a selected area for 28 to 32 Nature damage and inflicting 42 to 48 additional damage every 5 sec." }
+entries[23106] = { ["name"] = "Chain Lightning", ["text"] = "30 yd range2 sec cast 6 sec cooldown\nStrikes an enemy with a lightning bolt that arcs to another nearby enemy. The spell affects up to 3 targets, causing Nature damage to each." }
+entries[23107] = { ["name"] = "Enter the Light DND" }
+entries[23108] = { ["name"] = "Blessing of Nordrassil" }
+entries[23113] = { ["name"] = "Blast Wave", ["text"] = "Instant\nUnleashes a wave of flame, inflicting Fire damage to nearby enemies and reducing their movement speed for 6 sec." }
+entries[23114] = { ["name"] = "Earth Shock", ["text"] = "20 yd range\nInstant\nShocks an enemy with concussive force, inflicting Nature damage and interrupting the spell being cast for 2 sec." }
+entries[23115] = { ["name"] = "Frost Shock", ["text"] = "20 yd range\nInstant\nInflicts Frost damage to an enemy and reduces its movement speed for 8 sec." }
+entries[23116] = { ["name"] = "Vertex Color: Light Blue" }
+entries[23117] = { ["name"] = "Ritual Bell Aura" }
+entries[23120] = { ["name"] = "Black March Blessing" }
+entries[23122] = { ["name"] = "Jaina's Autograph" }
+entries[23123] = { ["name"] = "Cairne's Hoofprint" }
+entries[23124] = { ["name"] = "Human Orphan Whistle" }
+entries[23125] = { ["name"] = "Orcish Orphan Whistle" }
+entries[23126] = { ["name"] = "World Enlarger", ["text"] = "Instant\nEnlarges the entire world for 5 min or until you attack." }
+entries[23127] = { ["name"] = "Death's Door" }
+entries[23128] = { ["name"] = "Enrage", ["text"] = "Instant\nDecreases the time between your attacks by 150% for 8 sec." }
+entries[23129] = { ["name"] = "World Enlarger", ["text"] = "3 sec cast\nTools:\nBlacksmith Hammer\nReagents:\nMithril Casing , Thorium Widget (2), Gold Power Core , Unstable Trigger , Citrine\nWorld Enlarger\nToy\nRequires Engineering\n(250)\nRequires Gnomish Engineer\nUse: Enlarges the entire world for 5 min or until you attack. (15 Min Cooldown)\n\"Only Gnomish Technology could invent a device that affects the entire world!\"" }
+entries[23131] = { ["name"] = "Frost Reflector", ["text"] = "Instant\nReflects Frost spells back at their caster for 5 sec. Chance to be resisted when used by players over level 60." }
+entries[23132] = { ["name"] = "Shadow Reflector", ["text"] = "Instant\nReflects Shadow spells back at their caster for 5 sec. Chance to be resisted when used by players over level 60." }
+entries[23133] = { ["name"] = "Gnomish Battle Chicken", ["text"] = "Instant 20 min cooldown\nCreates a Battle Chicken that will fight for you for 1.50 min or until it is destroyed." }
+entries[23134] = { ["name"] = "Goblin Bomb", ["text"] = "Instant 30 min cooldown\nCreates a mobile bomb that charges the nearest enemy and explodes for 315 to 385 fire damage." }
+entries[23135] = { ["name"] = "Heavy Leather Ball", ["text"] = "40 yd range\nInstant\nThrow the ball to a friendly player. If they have free room in their pack they will catch it!" }
+entries[23136] = { ["name"] = "Release J'eevee", ["text"] = "2 sec cast\nRelease the imp J'eevee in the center of the Pedestal of Immol'thar in Dire Maul." }
+entries[23138] = { ["name"] = "Gate of Shazzrah", ["text"] = "Instant\nTeleports the caster instantly to a visible enemy." }
+entries[23139] = { ["name"] = "Gate of Shazzrah" }
+entries[23140] = { ["name"] = "J'eevee summons object" }
+entries[23145] = { ["name"] = "Dive", ["text"] = "30 FocusInstant cast 32 sec cooldown\nIncreases your pet's movement speed by 80% for 16 sec." }
+entries[23146] = { ["name"] = "Dive" }
+entries[23149] = { ["name"] = "Dive" }
+entries[23150] = { ["name"] = "Dive" }
+entries[23151] = { ["name"] = "Balance of Light and Shadow", ["text"] = "10 sec cast\nReagents:\nSplinter of Nordrassil , The Eye of Divinity , The Eye of Shadow\nForms Benediction when combined with the Eye of Shadow and the Eye of Divinity." }
+entries[23152] = { ["name"] = "Summon Xorothian Dreadsteed", ["text"] = "5 sec cast\nSummon a Xorothian Dreadsteed within an empowered Circle of Dark Summoning." }
+entries[23153] = { ["name"] = "Brood Affliction: Blue", ["text"] = "Unlimited range\nInstant\nBurns 50 mana every 1 sec.\nCasting speed reduced by 50%.\nMovement speed reduced by 30%." }
+entries[23154] = { ["name"] = "Brood Affliction: Black", ["text"] = "Unlimited range\nInstant\nIncreases the Fire damage taken by the target by 100%." }
+entries[23155] = { ["name"] = "Brood Affliction: Red", ["text"] = "Unlimited range\nInstant\nDeals Fire damage to the target every 3 sec for 10 min. On death, Chromaggus is healed." }
+entries[23157] = { ["name"] = "Arcane Shot Mana Reduction", ["text"] = "Reduces the mana cost of your Arcane Shot by 15." }
+entries[23158] = { ["name"] = "Concussive Shot Cooldown Reduction", ["text"] = "Reduces the cooldown of your Concussive Shot by 1 sec." }
+entries[23160] = { ["name"] = "Teach Summon Dreadsteed" }
+entries[23161] = { ["name"] = "Dreadsteed", ["text"] = "1.5 sec cast\nSummons a Dreadsteed, which serves as a mount. This is a very fast mount." }
+entries[23168] = { ["name"] = "Brood Affliction: Red" }
+entries[23169] = { ["name"] = "Brood Affliction: Green", ["text"] = "Unlimited range\nInstant\nDeals 250 damage every 5 sec to the target, reducing their healing effects by 50%. Lasts 10 min." }
+entries[23170] = { ["name"] = "Brood Affliction: Bronze", ["text"] = "Unlimited range\nInstant\nPeriodically stuns the target for 4 sec." }
+entries[23171] = { ["name"] = "Time Stop" }
+entries[23172] = { ["name"] = "Block Value 20", ["text"] = "Increases the block value of your shield by 20." }
+entries[23174] = { ["name"] = "Chromatic Mutation", ["text"] = "Unlimited range\nInstant\nThe combination of draconian magics have transformed the target into a Chromatic Drakonid." }
+entries[23179] = { ["name"] = "Taint of Shadow", ["text"] = "Instant\nInfuses imbiber with a taint of shadow, making him friendly to the denizens of Jaedenar. Lasts 20 minutes." }
+entries[23180] = { ["name"] = "Release Imp", ["text"] = "2 sec cast\nRelease the imp near the Scholomance's alchemy lab." }
+entries[23181] = { ["name"] = "Block Value 48", ["text"] = "Increases the block value of your shield by 48." }
+entries[23182] = { ["name"] = "Mark of Frost" }
+entries[23184] = { ["name"] = "Mark of Frost" }
+entries[23186] = { ["name"] = "Aura of Frost" }
+entries[23187] = { ["name"] = "Frost Burn", ["text"] = "2 sec cast\nDeals 1750 to 2250 Frost damage to all enemies, drains 1750 to 2250 mana and increases the time between attacks by 400% for 15 sec." }
+entries[23188] = { ["name"] = "trans" }
+entries[23189] = { ["name"] = "Frost Burn", ["text"] = "2 sec cast\nDeals 1750 to 2250 Frost damage to all enemies, drains 1750 to 2250 mana and increases the time between attacks by 400% for 15 sec." }
+entries[23190] = { ["name"] = "Heavy Leather Ball", ["text"] = "2 sec cast\nReagents:\nHeavy Leather (2), Fine Thread\nUse: Throw the ball to a friendly player. If they have free room in their pack they will catch it!" }
+entries[23192] = { ["name"] = "Forming Rhok'delar", ["text"] = "10 sec cast\nReagents:\nAncient Rune Etched Stave , Enchanted Black Dragon Sinew\nForms Rhok'delar, Longbow of the Ancient Keepers, when combined with Enchanted Black Dragon Sinew." }
+entries[23193] = { ["name"] = "Forming Lok'delar", ["text"] = "10 sec cast\nReagents:\nRhok'delar, Longbow of the Ancient Keepers\nTransforms into Lok'delar, Stave of the Ancient Keepers." }
+entries[23194] = { ["name"] = "Forming Rhok'delar", ["text"] = "10 sec cast\nReagents:\nLok'delar, Stave of the Ancient Keepers\nTransforms into Rhok'delar, Longbow of the Ancient Keepers and Lok'delar, Stave of the Ancient Keepers." }
+entries[23196] = { ["name"] = "Quest Invisibility" }
+entries[23202] = { ["name"] = "Torch", ["text"] = "260 Mana 30 yd range\nInstant\nBurns all enemies in a selected area and inflicts additional Fire damage every 2 sec. for 8 sec." }
+entries[23203] = { ["name"] = "Block Value 30", ["text"] = "Increases the block value of your shield by 30." }
+entries[23204] = { ["name"] = "Place Scryer", ["text"] = "5 yd range\n3 sec cast\nPlant the Divination Scryer in the heart of the Great Ossuary's basement." }
+entries[23205] = { ["name"] = "Temptress' Kiss", ["text"] = "40 yd range\nInstant\nReduces ranged attack power by 1,500 for 45 seconds." }
+entries[23206] = { ["name"] = "Chain Lightning", ["text"] = "150 Mana 30 yd range\n3 sec cast\nStrikes an enemy with a lightning bolt that arcs to another nearby enemy. The spell affects up to 3 targets, causing Nature damage to each." }
+entries[23207] = { ["name"] = "Silence", ["text"] = "20 yd range\nInstant\nSilences an enemy, preventing it from casting spells for 10 sec." }
+entries[23208] = { ["name"] = "Exorcise Spirits", ["text"] = "30 yd range\n4 sec cast\nReveal the spirits that haunt the ruins of Terrordale." }
+entries[23210] = { ["name"] = "Vitality", ["text"] = "Restores 16 health per 5 sec." }
+entries[23212] = { ["name"] = "Increased Mana Regen", ["text"] = "Restores 20 mana per 5 sec." }
+entries[23213] = { ["name"] = "Increase Spell Dam 57", ["text"] = "Increases spell power by 57." }
+entries[23214] = { ["name"] = "Charger", ["text"] = "1.5 sec cast\nSummons a Charger, which serves as a mount. This is a very fast mount." }
+entries[23215] = { ["name"] = "Summon Charger" }
+entries[23217] = { ["name"] = "Stealth Detection", ["text"] = "Slightly increases your stealth detection." }
+entries[23218] = { ["name"] = "Feral Move Speed Increase", ["text"] = "Requires Cat Form, Travel Form, Bear Form, Dire Bear Form\nIncreases your movement speed by 15% while in Bear Form, Cat Form, or Travel Form. Only active outdoors." }
+entries[23219] = { ["name"] = "Swift Mistsaber", ["text"] = "1.5 sec cast\nSummons and dismisses a rideable Swift Mistsaber. This is a very fast mount." }
+entries[23220] = { ["name"] = "Swift Dawnsaber", ["text"] = "1.5 sec cast\nSummons and dismisses a rideable Swift Dawnsaber. This is a very fast mount." }
+entries[23221] = { ["name"] = "Swift Frostsaber", ["text"] = "1.5 sec cast\nSummons and dismisses a rideable Swift Frostsaber. This is a very fast mount." }
+entries[23222] = { ["name"] = "Swift Yellow Mechanostrider", ["text"] = "1.5 sec cast\nSummons and dismisses a Swift Yellow Mechanostrider. This is a very fast mount." }
+entries[23223] = { ["name"] = "Swift White Mechanostrider", ["text"] = "1.5 sec cast\nSummons and dismisses a Swift White Mechanostrider. This is a very fast mount." }
+entries[23224] = { ["name"] = "Veil of Shadow", ["text"] = "20 yd range\n1.5 sec cast\nReduces healing effects for an enemy by 75% for 8 sec." }
+entries[23225] = { ["name"] = "Swift Green Mechanostrider", ["text"] = "1.5 sec cast\nSummons and dismisses a Swift Green Mechanostrider. This is a very fast mount." }
+entries[23226] = { ["name"] = "Ritual Candle Aura" }
+entries[23227] = { ["name"] = "Swift Palomino", ["text"] = "1.5 sec cast\nSummons and dismisses a rideable Swift Palomino. This is a very fast mount." }
+entries[23228] = { ["name"] = "Swift White Steed", ["text"] = "1.5 sec cast\nSummons and dismisses a rideable Swift White Steed. This is a very fast mount." }
+entries[23229] = { ["name"] = "Swift Brown Steed", ["text"] = "1.5 sec cast\nSummons and dismisses a rideable Swift Brown Steed. This is a very fast mount." }
+entries[23230] = { ["name"] = "Blood Fury" }
+entries[23231] = { ["name"] = "Binding Volume I", ["text"] = "5 sec cast\nReagents:\nBottom Half of Advanced Armorsmithing: Volume I , Top Half of Advanced Armorsmithing: Volume I\nCombines the Top and Bottom Half of Advanced Armorsmithing: Volume I." }
+entries[23232] = { ["name"] = "Binding Volume II", ["text"] = "5 sec cast\nReagents:\nBottom Half of Advanced Armorsmithing: Volume II , Top Half of Advanced Armorsmithing: Volume II\nCombines the Top and Bottom Half of Advanced Armorsmithing: Volume II." }
+entries[23233] = { ["name"] = "Binding Volume III", ["text"] = "5 sec cast\nReagents:\nBottom Half of Advanced Armorsmithing: Volume III , Top Half of Advanced Armorsmithing: Volume III\nCombines the Top and Bottom Half of Advanced Armorsmithing: Volume III." }
+entries[23235] = { ["name"] = "Battle Standard Spawn" }
+entries[23236] = { ["name"] = "Benediction", ["text"] = "Increases the critical effect chance of your Holy spells by 2%." }
+entries[23237] = { ["name"] = "Anathema" }
+entries[23238] = { ["name"] = "Swift Brown Ram", ["text"] = "1.5 sec cast\nSummons and dismisses a rideable Swift Brown Ram. This is a very fast mount." }
+entries[23239] = { ["name"] = "Swift Gray Ram", ["text"] = "1.5 sec cast\nSummons and dismisses a rideable Swift Gray Ram. This is a very fast mount." }
+entries[23240] = { ["name"] = "Swift White Ram", ["text"] = "1.5 sec cast\nSummons and dismisses a rideable Swift White Ram. This is a very fast mount." }
+entries[23241] = { ["name"] = "Swift Blue Raptor", ["text"] = "1.5 sec cast\nSummons and dismisses a rideable Swift Blue Raptor. This is a very fast mount." }
+entries[23242] = { ["name"] = "Swift Olive Raptor", ["text"] = "1.5 sec cast\nSummons and dismisses a rideable Swift Olive Raptor. This is a very fast mount." }
+entries[23243] = { ["name"] = "Swift Orange Raptor", ["text"] = "1.5 sec cast\nSummons and dismisses a rideable Swift Orange Raptor. This is a very fast mount." }
+entries[23244] = { ["name"] = "Corrupted Stamina", ["text"] = "Instant\nStamina reduced for 4 sec." }
+entries[23245] = { ["name"] = "Corrupted Stamina Passive" }
+entries[23246] = { ["name"] = "Purple Skeletal Warhorse", ["text"] = "1.5 sec cast\nSummons and dismisses a rideable Purple Skeletal Warhorse. This is a very fast mount." }
+entries[23247] = { ["name"] = "Great White Kodo", ["text"] = "1.5 sec cast\nSummons and dismisses a rideable Great White Kodo. This is a very fast mount." }
+entries[23248] = { ["name"] = "Great Gray Kodo", ["text"] = "1.5 sec cast\nSummons and dismisses a rideable Great Gray Kodo. This is a very fast mount." }
+entries[23249] = { ["name"] = "Great Brown Kodo", ["text"] = "1.5 sec cast\nSummons and dismisses a rideable Great Brown Kodo. This is a very fast mount." }
+entries[23250] = { ["name"] = "Swift Brown Wolf", ["text"] = "1.5 sec cast\nSummons and dismisses a rideable Swift Brown Wolf. This is a very fast mount." }
+entries[23251] = { ["name"] = "Swift Timber Wolf", ["text"] = "1.5 sec cast\nSummons and dismisses a rideable Swift Timber Wolf. This is a very fast mount." }
+entries[23252] = { ["name"] = "Swift Gray Wolf", ["text"] = "1.5 sec cast\nSummons and dismisses a rideable Swift Gray Wolf. This is a very fast mount." }
+entries[23254] = { ["name"] = "Redeeming the Soul", ["text"] = "5 yd range\n10 sec cast\nReclaim the lost soul of death knight's charger, judging it redeemed." }
+entries[23256] = { ["name"] = "Deep Wounds", ["text"] = "Unlimited range\nInstant\nCauses the target to bleed, taking damage every 5 sec." }
+entries[23257] = { ["name"] = "Demonic Enrage" }
+entries[23260] = { ["name"] = "Entropic Sting" }
+entries[23261] = { ["name"] = "Summon Darkreaver's Fallen Charger" }
+entries[23262] = { ["name"] = "Demoralize", ["text"] = "30 yd range\nInstant\nReduces the melee attack power of an enemy for 30 sec." }
+entries[23264] = { ["name"] = "Increase Healing 106", ["text"] = "Increases spell power by 56." }
+entries[23265] = { ["name"] = "Increase Shadow Dam 69", ["text"] = "Increases shadow spell power by 69." }
+entries[23266] = { ["name"] = "Fiery Aura", ["text"] = "When struck in combat inflicts 13 Fire damage to the attacker." }
+entries[23267] = { ["name"] = "Firebolt", ["text"] = "80 Mana 30 yd range\nInstant 8 sec cooldown\nBlasts a target for 40 to 56 Fire damage." }
+entries[23268] = { ["name"] = "Shadow Word: Pain", ["text"] = "30 yd range\nInstant\nUtters a word of darkness, inflicting Shadow damage to an enemy every 3 sec. for 18 sec." }
+entries[23269] = { ["name"] = "Holy Blast", ["text"] = "Instant\nSuffering from the unleashed Judgement, the spirit is stunned for 4 sec and emanates a wave of Holy energy, inflicting 1641 to 1859 Holy damage to other nearby spirits." }
+entries[23271] = { ["name"] = "Ephemeral Power", ["text"] = "40 yd range\nInstant\nIncreases spell power by 175 for 15 sec." }
+entries[23272] = { ["name"] = "Soul Flame" }
+entries[23274] = { ["name"] = "Immune Fear/Polymorph/Snare", ["text"] = "Immune Fear/Polymorph/Snare\nInstant\nDispels all Fear, Polymorph and Slowing effects." }
+entries[23275] = { ["name"] = "Dreadful Fright" }
+entries[23276] = { ["name"] = "Immune Fear/Polymorph/Stun", ["text"] = "Immune Fear/Polymorph/Stun\nInstant\nDispels all Fear, Polymorph and Stun effects." }
+entries[23277] = { ["name"] = "Immune Charm/Fear/Stun", ["text"] = "Immune Charm/Fear/Stun\nInstant\nDispels all Charm, Fear and Stun effects." }
+entries[23278] = { ["name"] = "Shadow Scythe" }
+entries[23279] = { ["name"] = "Crippling Clip" }
+entries[23298] = { ["name"] = "Demonic Doom" }
+entries[23299] = { ["name"] = "Stinging Trauma" }
+entries[23300] = { ["name"] = "Seal of the Crusader Judgement Increase", ["text"] = "Increases the Holy damage of your Judgements by 20." }
+entries[23301] = { ["name"] = "Ebon Blade Banner", ["text"] = "15 yd range\n1 sec cast\nTarget and impale the corpse of any of the vrykul in the greater Jotunheim region. Range is 15 yards." }
+entries[23302] = { ["name"] = "Hammer of Justice Cooldown Reduction", ["text"] = "Reduces the cooldown of your Hammer of Justice by 10 sec." }
+entries[23303] = { ["name"] = "Vaelen the Flayed [The Shadow Vault] - Invisibility" }
+entries[23304] = { ["name"] = "Manna-Enriched Horse Feed" }
+entries[23308] = { ["name"] = "Incinerate", ["text"] = "2 sec cast\nDeals 3675 to 4725 Fire damage to all enemies." }
+entries[23309] = { ["name"] = "Incinerate", ["text"] = "2 sec cast\nDeals 3675 to 4725 Fire damage to all enemies." }
+entries[23310] = { ["name"] = "Time Lapse", ["text"] = "2 sec cast\nFrozen in time!\nHealth reduced by 50%.\nLasts 8 sec." }
+entries[23312] = { ["name"] = "Time Lapse", ["text"] = "2 sec cast\nFrozen in time!\nHealth reduced by 50%.\nLasts 8 sec." }
+entries[23313] = { ["name"] = "Corrosive Acid", ["text"] = "2 sec cast\nDeals 875 to 1125 damage every 3 sec.\nArmor reduced by 4500.\nLasts 15 sec." }
+entries[23314] = { ["name"] = "Corrosive Acid", ["text"] = "2 sec cast\nDeals 875 to 1125 damage every 3 sec.\nArmor reduced by 4500.\nLasts 15 sec." }
+entries[23315] = { ["name"] = "Ignite Flesh", ["text"] = "2 sec cast\nDeals 657 to 843 damage every 3 sec." }
+entries[23316] = { ["name"] = "Ignite Flesh", ["text"] = "2 sec cast\nDeals 657 to 843 Fire damage every 3 sec to all enemies near the caster for 1 min." }
+entries[23327] = { ["name"] = "Trigger Trap" }
+entries[23328] = { ["name"] = "Trigger Trap" }
+entries[23331] = { ["name"] = "Blast Wave", ["text"] = "Instant\nUnleashes a wave of flame, inflicting Fire damage to nearby enemies and reducing their movement speed for 8 sec." }
+entries[23332] = { ["name"] = "trans2" }
+entries[23333] = { ["name"] = "Warsong Flag", ["text"] = "Unlimited range\nInstant\nYou are holding the Warsong Flag." }
+entries[23334] = { ["name"] = "Horde Flag Drop", ["text"] = "Unlimited range\nInstant\nYou dropped the flag!" }
+entries[23335] = { ["name"] = "Silverwing Flag", ["text"] = "Unlimited range\nInstant\nYou are holding the Silverwing Flag." }
+entries[23336] = { ["name"] = "Alliance Flag Drop", ["text"] = "Unlimited range\nInstant\nYou dropped the flag!" }
+entries[23337] = { ["name"] = "Shoot", ["text"] = "50 yd range\nInstant\nRequires Ranged Weapon\nShoots at an enemy, inflicting Physical damage." }
+entries[23338] = { ["name"] = "Swift Stormsaber", ["text"] = "1.5 sec cast\nSummons and dismisses a rideable Swift Stormsaber. This is a very fast mount." }
+entries[23339] = { ["name"] = "Wing Buffet", ["text"] = "1 sec cast\nInflicts 563 to 937 damage to enemies in a cone in front of the caster, knocking them back." }
+entries[23340] = { ["name"] = "Shadow of Ebonroc", ["text"] = "20 yd range\nInstant\nWhen the target is melee damaged, heals Ebonroc for 25000." }
+entries[23341] = { ["name"] = "Flame Buffet", ["text"] = "100 yd range\nInstant\nInflicts 139 to 161 Fire damage to an enemy and increases the Fire damage it takes by 150 for 20 sec." }
+entries[23342] = { ["name"] = "Enrage", ["text"] = "Instant\nDecreases the time between your attacks by 150% for 10 sec." }
+entries[23356] = { ["name"] = "Taming Lesson", ["text"] = "Instant\nTeaches Tame Beast, Call Pet and Dismiss Pet." }
+entries[23357] = { ["name"] = "Training Lesson", ["text"] = "Instant\nTeaches Feed Pet and Revive Pet." }
+entries[23359] = { ["name"] = "Transmogrify!", ["text"] = "35 yd range\nInstant\nZap a Feralas giant into a more manageable form." }
+entries[23360] = { ["name"] = "Trigger Trap2" }
+entries[23364] = { ["name"] = "Tail Lash", ["text"] = "30 yd range\nInstant\nA sweeping tail strike hits all enemies behind the caster, taking 1094 to 1406 damage, causing them to drop their weapon and stunning them for 2 sec." }
+entries[23365] = { ["name"] = "Dropped Weapon" }
+entries[23378] = { ["name"] = "Magma Splash", ["text"] = "(Proc chance: 25%, 3s cooldown)" }
+entries[23379] = { ["name"] = "Magma Splash", ["text"] = "Instant\nDeals Fire damage to the current target and additional Fire damage every 3 sec for 30 sec." }
+entries[23380] = { ["name"] = "Moonfire", ["text"] = "95 Mana 30 yd range\nInstant\nBurns the enemy for Arcane damage and inflicts additional damage over 12 sec." }
+entries[23381] = { ["name"] = "Healing Touch", ["text"] = "180 Mana 40 yd range\n3 sec cast\nCalls upon Nature magic to heal an ally." }
+entries[23382] = { ["name"] = "Knock Away" }
+entries[23389] = { ["name"] = "Alliance Flag Capture" }
+entries[23391] = { ["name"] = "Boulder", ["text"] = "5 - 30 yd range\n2 sec cast\nHurls a boulder at an enemy, inflicting Physical damage." }
+entries[23392] = { ["name"] = "Boulder", ["text"] = "5 - 30 yd range\n2 sec cast\nHurls a boulder at an enemy, inflicting Physical damage." }
+entries[23393] = { ["name"] = "Brood Affliction: Blue" }
+entries[23394] = { ["name"] = "Shadow of Ebonroc" }
+entries[23396] = { ["name"] = "Restoration" }
+entries[23397] = { ["name"] = "Berserk", ["text"] = "Instant\nForces all warriors near the caster into Berserker stance for 30 sec, increasing their damage taken by 30%." }
+entries[23398] = { ["name"] = "Involuntary Transformation", ["text"] = "Instant\nForces the target to remain transformed for 30 sec." }
+entries[23399] = { ["name"] = "Barbaric Bracers", ["text"] = "45 sec cast\nReagents:\nHeavy Leather (8), Cured Heavy Hide (2), Small Lustrous Pearl (4), Raptor Hide , Large Fang (4)\nBarbaric Bracers\nBinds when equipped\nWrist Leather\n47 Armor\n+4 Agility\n+6 Stamina\nDurability 35 / 35\n27\nEquip: Increases attack power by 8." }

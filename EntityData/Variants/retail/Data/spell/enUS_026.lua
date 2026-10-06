@@ -1,0 +1,1004 @@
+-- Generated static reference; see EntityData/source-manifest.json.
+local ref = WordHunterWoW_EntityDataBySource and WordHunterWoW_EntityDataBySource["multilanguage-retail"]
+if not ref then return end
+local entries = ref.kinds["spell"]["enUS"]
+entries[54619] = { ["name"] = "Teach Summon Sprite Darter" }
+entries[54620] = { ["name"] = "Teleport Crystal: Teleport to Dalaran AICast Script" }
+entries[54621] = { ["name"] = "Ejector Seat" }
+entries[54622] = { ["name"] = "WotLK - Get Picked Up" }
+entries[54623] = { ["name"] = "Quest - Mammoth Explosion Summon Object" }
+entries[54624] = { ["name"] = "WotLK - Pick Me Up!" }
+entries[54625] = { ["name"] = "Summon Mammoth Meat" }
+entries[54626] = { ["name"] = "Vial of Poison", ["text"] = "15 yd range\n1 sec cast\nDeals Nature damage to nearby enemies for 10 sec." }
+entries[54627] = { ["name"] = "Quest - Mammoth Explosion Summon Object" }
+entries[54628] = { ["name"] = "Quest - Mammoth Explosion Summon Object" }
+entries[54630] = { ["name"] = "Poison Tipped Spear", ["text"] = "5 - 30 yd range\nInstant\nThrows a Spear at an enemy inflicting Nature damage every 3 sec. for 9 sec." }
+entries[54631] = { ["name"] = "Teach Summon Worg Pup" }
+entries[54632] = { ["name"] = "Claws of Ice", ["text"] = "30 yd range\nInstant\nInflicts Frost damage to an enemy and reduces its movement speed for 4 sec." }
+entries[54633] = { ["name"] = "Drink Healing Potion", ["text"] = "2 sec cast\nQuaffs a healing potion." }
+entries[54634] = { ["name"] = "Teach Summon Smolderweb Hatchling" }
+entries[54635] = { ["name"] = "Phase Shift: Garm Assault" }
+entries[54640] = { ["name"] = "Teleport", ["text"] = "Unlimited range\nInstant\nTeleports defenders behind the walls on the Isle of Ulduran, Strand of the Ancients." }
+entries[54643] = { ["name"] = "Teleport", ["text"] = "Unlimited range\nInstant\nTeleports defenders behind the walls. The caster will be unable to teleport again for a short time." }
+entries[54644] = { ["name"] = "Frost Breath", ["text"] = "30 yd range\nInstant 10 sec cooldown\nThe Chimera blasts the target with frost breath, reducing movement speed by 50% for 6 sec." }
+entries[54645] = { ["name"] = "Vrykul Random Shot" }
+entries[54647] = { ["name"] = "Spirit Burn", ["text"] = "Instant\nGrants a chance when hit to burn the attacker, inflicting Fire damage and reducing all stats.\n(Proc chance: 75%, 8s cooldown)" }
+entries[54649] = { ["name"] = "Parachute" }
+entries[54651] = { ["name"] = "Spirit Burn", ["text"] = "Instant\nGrants a chance when hit to burn the attacker, inflicting Fire damage and reducing all stats." }
+entries[54656] = { ["name"] = "WotLK - Frost Wyrm - Find Victim" }
+entries[54657] = { ["name"] = "Incorporeal", ["text"] = "Instant\nBecome incorporeal, increasing chance to dodge by 50 for 2 sec." }
+entries[54660] = { ["name"] = "WotLK - Frost Wyrm - Drop Victim" }
+entries[54661] = { ["name"] = "Sanctuary" }
+entries[54662] = { ["name"] = "Crushing Victim", ["text"] = "100 yd range\nInstant\nCrush the life from your victim." }
+entries[54663] = { ["name"] = "Fatal Bite", ["text"] = "Melee Range\nNext Melee\nDrains health from an enemy, healing the caster for up to twice that amount." }
+entries[54664] = { ["name"] = "Vrykul Bowshot Missed" }
+entries[54666] = { ["name"] = "Sapper Charge" }
+entries[54667] = { ["name"] = "Sapper... CHARGE" }
+entries[54668] = { ["name"] = "Rake", ["text"] = "Melee Range\nInstant\nRake the target for 222 damage and an additional 150 damage over 9 sec." }
+entries[54669] = { ["name"] = "Unlocking Soul Prison", ["text"] = "5 yd range\n2 sec cast\nUnlocks an Acherus Soul Prison." }
+entries[54670] = { ["name"] = "Decapitate", ["text"] = "3 sec cast\nRequires Melee Weapon\nAttempts to decapitate all targets in melee range of the caster, causing 300% weapon damage." }
+entries[54671] = { ["name"] = "Energy Surge" }
+entries[54672] = { ["name"] = "Energy Surge" }
+entries[54673] = { ["name"] = "Ice Boulder", ["text"] = "40 yd range\n1 sec cast\nInflicts 6 Frost damage, knocking the target back." }
+entries[54674] = { ["name"] = "Transporter Spawn" }
+entries[54677] = { ["name"] = "Teach Summon Prairie Chicken" }
+entries[54678] = { ["name"] = "Brute Force", ["text"] = "Instant\nThe Brute Strength of the caster causes attacks to ignore armor." }
+entries[54679] = { ["name"] = "WotLK - Frost Wyrm - Get Dropped" }
+entries[54680] = { ["name"] = "Monstrous Bite", ["text"] = "Melee Range\nInstant 8 sec cooldown\nThe Devilsaur ferociously bites the enemy, causing the Mortal Wounds effect.\n\nMortal Wounds\nGrievously wounds the target, reducing the effectiveness of any healing received for 10 sec." }
+entries[54682] = { ["name"] = "Flame Breath", ["text"] = "Melee Range\n2.5 sec cast\nInflicts 8 Fire damage to enemies in a cone in front of the caster." }
+entries[54683] = { ["name"] = "Ablaze" }
+entries[54684] = { ["name"] = "Firebomb", ["text"] = "90 Mana 40 yd range\n1.5 sec cast\nInflicts Fire damage to an enemy and enemies nearby." }
+entries[54685] = { ["name"] = "Rocket Splat" }
+entries[54686] = { ["name"] = "WotLK - Frost Wyrm - Frost Blast" }
+entries[54687] = { ["name"] = "Cold Feet" }
+entries[54688] = { ["name"] = "Teach Summon Wolpertinger" }
+entries[54689] = { ["name"] = "Froststorm Breath" }
+entries[54690] = { ["name"] = "Cosmetic - Immolation (Whole Body) 6 Sec" }
+entries[54691] = { ["name"] = "WotLK - Frost Wyrm - Frost Blast Timer" }
+entries[54692] = { ["name"] = "Vrykul Bowshot Missed Visual" }
+entries[54693] = { ["name"] = "Garm Attacker Kill Credit" }
+entries[54694] = { ["name"] = "Dummy Effect" }
+entries[54695] = { ["name"] = "Item - Death Knight's Anguish Base", ["text"] = "Chance on melee or ranged attack to enter Wracking Pains, during which your attacks will each grant 21 critical strike, stacking up to 10 times. Expires after 20 sec.\n(Proc chance: 10%, 45s cooldown)" }
+entries[54696] = { ["name"] = "Wracking Pains", ["text"] = "Instant\nYour next 10 melee or ranged attacks will each grant 21 critical strike, stacking up to 10 times. Expires after 20 sec." }
+entries[54697] = { ["name"] = "Oozing Wound", ["text"] = "Instant\nCritical Strike increased by 21 ." }
+entries[54698] = { ["name"] = "WotLK - Frost Wyrm - Shoot Wurm" }
+entries[54699] = { ["name"] = "Teleport to Heart of Acherus" }
+entries[54700] = { ["name"] = "Teleport to Heart of Acherus" }
+entries[54701] = { ["name"] = "Frenzy", ["text"] = "Instant\nIncreases the caster's attack speed by 50% and the Physical damage it deals by 50 for 1.5 min." }
+entries[54702] = { ["name"] = "WotLK - Frost Wyrm - Shoot Wurm Timer" }
+entries[54703] = { ["name"] = "Rend", ["text"] = "Melee Range\nInstant\nInflicts 373 Physical damage to an enemy every 3 sec. for 15 sec." }
+entries[54705] = { ["name"] = "Track Mechanicals", ["text"] = "Instant\nShows the location of all nearby mechanicals on the minimap. Only one form of tracking can be active at a time." }
+entries[54708] = { ["name"] = "Rend", ["text"] = "Melee Range\nInstant\nInflicts 559 Physical damage to an enemy every 3 sec. for 15 sec." }
+entries[54709] = { ["name"] = "Flesh Rot", ["text"] = "Melee Range\nInstant\nInflicts 224 Shadow damage to an enemy every 2 sec. for 12 sec." }
+entries[54710] = { ["name"] = "MOLL-E", ["text"] = "Instant\nCreates a portable mailbox for 10 min." }
+entries[54711] = { ["name"] = "Scrapbot", ["text"] = "Instant\nCreates a mechanical Scrapbot that repairs equipment and buys nearly anything. The scrapbot leaves after 5 min." }
+entries[54712] = { ["name"] = "Cobalt Bomb", ["text"] = "30 yd range\nInstant\nInflicts 78 Fire damage to targets in a 5 yard radius." }
+entries[54713] = { ["name"] = "WotLK - Frost Wyrm - Shoot Wurm, Find Loc" }
+entries[54714] = { ["name"] = "Acid Volley", ["text"] = "Instant\nShoots acid bolts at an enemy, inflicting 56 Nature damage every 3 sec. for 24 sec." }
+entries[54715] = { ["name"] = "Mortal Strikes", ["text"] = "Instant\nGrants the caster's melee attacks a chance to reduce healing effects on the target.\n(7s cooldown)" }
+entries[54716] = { ["name"] = "Mortal Strikes", ["text"] = "Melee Range\nInstant\nLeaves the target wounded, reducing the effectiveness of any healing by 75% for 3 sec." }
+entries[54717] = { ["name"] = "Snow Storm State" }
+entries[54719] = { ["name"] = "Mighty Blow", ["text"] = "Melee Range\nNext Melee\nInfilicts 175% weapon damage to an enemy." }
+entries[54720] = { ["name"] = "WotLK - Frost Wyrm - Shoot Wurm Anim" }
+entries[54722] = { ["name"] = "Stoneskin", ["text"] = "7 sec cast\nHeals the caster for 18776 damage every 1 sec. for 6 sec." }
+entries[54723] = { ["name"] = "Soul Wrack", ["text"] = "15 yd range\nChanneled (0 sec cast)\nSlowly destroys the targeted soul." }
+entries[54724] = { ["name"] = "Teleport to Hall of Command" }
+entries[54725] = { ["name"] = "Teleport to Hall of Command" }
+entries[54726] = { ["name"] = "Winged Steed of the Ebon Blade", ["text"] = "1.5 sec cast\nSummons and dismisses your Winged Steed of the Ebon Blade. This mount can only be summoned in Outland and Northrend. This mount changes speed depending on your Riding skill." }
+entries[54727] = { ["name"] = "Winged Steed of the Ebon Blade", ["text"] = "1.5 sec cast\nSummons and dismisses your Winged Steed of the Ebon Blade. This mount can only be summoned in Outland and Northrend. This mount changes speed depending on your Riding skill." }
+entries[54728] = { ["name"] = "WotLK - Frost Wyrm - Shoot Wurm, find Shooters" }
+entries[54729] = { ["name"] = "Winged Steed of the Ebon Blade", ["text"] = "1.5 sec cast\nSummons and dismisses your Winged Steed of the Ebon Blade. This is a flying mount.\n\"Dead or alive, you're coming with me.\"\nVendor:\nDread Commander Thalanor\nZone:\nEastern Plaguelands\nCost:\n1000" }
+entries[54732] = { ["name"] = "Defibrillate", ["text"] = "5 yd range\n4 sec cast\nAn engineer with at least 1 skill in Northrend Engineering can overload the knife's battery and attempt to shock a dead ally back to life. Cannot be used in combat." }
+entries[54735] = { ["name"] = "Electromagnetic Pulse", ["text"] = "Instant 1 min cooldown\nStuns all nearby Mechanical units for 3 sec." }
+entries[54736] = { ["name"] = "EMP Generator", ["text"] = "2 sec cast\nRequires Belt\nTools: Arclight Spanner\nReagents:\nTinker's Kit\nPermanently attaches a high-powered device to your belt, allowing you to confuse nearby mechanicals. (1 Min Cooldown)\nProfession Trainer:\nNorthrend Engineering (15)\nCost:\n50" }
+entries[54737] = { ["name"] = "Trigger Dust Cloud Impact" }
+entries[54738] = { ["name"] = "Star of Light", ["text"] = "Chance on spell critical hit to increase your critical strike by 230 for 10 sec.\n(Proc chance: 45%, 45s cooldown)" }
+entries[54739] = { ["name"] = "Star of Light", ["text"] = "40 yd range\nInstant\nIncreases critical strike by 230 for 10 sec." }
+entries[54740] = { ["name"] = "Dust Cloud Impact (Bigger)" }
+entries[54742] = { ["name"] = "Teleport to Heart of Acherus" }
+entries[54743] = { ["name"] = "Glyph of Regrowth", ["text"] = "Your Regrowth heal-over-time will automatically refresh its duration on targets at or below 50% health." }
+entries[54744] = { ["name"] = "Teleport to Heart of Acherus" }
+entries[54745] = { ["name"] = "Teleport to Hall of Command" }
+entries[54746] = { ["name"] = "Teleport to Hall of Command" }
+entries[54750] = { ["name"] = "Electromagnetic Pulse" }
+entries[54751] = { ["name"] = "Electromagnetic Discharge", ["text"] = "Instant\nAn electrical spark jumps to a random location." }
+entries[54752] = { ["name"] = "WotLK - Frost Wyrm - Shoot Wurm, find Shooters Timer" }
+entries[54753] = { ["name"] = "White Polar Bear", ["text"] = "1.5 sec cast\nSummons and dismisses a rideable White Polar Bear.\n\"The frost vrykul believe that wearing a necklace of polar bear claws will grant them otherworldly strength.\"\nDrop:\nHyldnir Spoils\nLocation:\nThe Storm Peaks" }
+entries[54756] = { ["name"] = "Glyph of Wrath", ["text"] = "Increases the damage done by your Wrath by 10%." }
+entries[54757] = { ["name"] = "Pyro Rocket", ["text"] = "45 yd range\nInstant 45 sec cooldown\nFires an explosive rocket at an enemy for ( 40 * 10) to ( 48 * 10) Fire damage." }
+entries[54761] = { ["name"] = "Poison Stinger", ["text"] = "Unlimited range\n2 sec cast\nInflicts 6 Nature damage and an additional 1 Nature damage every 1 for 10 sec." }
+entries[54768] = { ["name"] = "Summon Icefang" }
+entries[54769] = { ["name"] = "Slime Burst", ["text"] = "Instant\nInflicts 205 Nature damage to nearby enemies, and reduces their movement speed by 50% for 5 sec." }
+entries[54770] = { ["name"] = "Bone Saw", ["text"] = "30 yd range\nChanneled (5 sec cast)\nThrows a flurry of bones.\nChance to hit reduced by 50%." }
+entries[54771] = { ["name"] = "Bone Saw", ["text"] = "30 yd range\nInstant\nInflicts 2 Physical damage." }
+entries[54772] = { ["name"] = "Putrid Bite", ["text"] = "Melee Range\nInstant\nIncreases the damage taken by an enemy by 10% for 30 sec." }
+entries[54775] = { ["name"] = "Abandon Vehicle" }
+entries[54780] = { ["name"] = "Plague Splash", ["text"] = "50 yd range\nInstant\nThrows a plague bomb at a nearby target, dealing 718 Nature damage and 205 Nature damage every 3 sec to the target and nearby enemy targets for 15 sec." }
+entries[54781] = { ["name"] = "Frenzied Dive", ["text"] = "40 yd range\nInstant\nThe casters leaps to the target and increases the attack speed of the caster by 200%." }
+entries[54784] = { ["name"] = "Force Reaction Frost Vrykul", ["text"] = "Instant\nMakes you Friendly with the Frost Vrykul" }
+entries[54788] = { ["name"] = "Icefang Begin Pathing" }
+entries[54790] = { ["name"] = "Blood Tap", ["text"] = "Melee Range\nInstant\nInflicts Physical damage and increases damage dealt by 15% for 15 sec." }
+entries[54792] = { ["name"] = "Icy Veins", ["text"] = "3% of base mana\nInstant\nHastens your spellcasting, increasing spell casting speed by 20%. Lasts 20 sec." }
+entries[54793] = { ["name"] = "Frag Belt", ["text"] = "2 sec cast\nRequires Belt\nTools: Arclight Spanner\nReagents:\nTinker's Kit\nAttach a miniaturized explosive assembly to your belt, allowing you to detach and throw a thermal grenade. (1 Min Cooldown)\n\nThe thermal grenade inflicts ( 29 * 10) to ( 37 * 10) Fire damage and incapacitates targets for 3 sec in a 3 yard radius.\n\nThe thermal grenade has no effect on creatures above level 49.\nProfession Trainer:\nNorthrend Engineering (5)\nCost:\n15" }
+entries[54794] = { ["name"] = "Taunt", ["text"] = "Melee Range\nInstant 8 sec cooldown\nTaunts the target to attack you, but has no effect if the target is already attacking you." }
+entries[54795] = { ["name"] = "Voodoo Flames", ["text"] = "30 yd range\nInstant 15 sec cooldown\nSurrounds self with a shield of flame that inflicts 2 Fire damage to nearby enemies every 3 sec. Lasts 15 sec." }
+entries[54797] = { ["name"] = "Whirlwind", ["text"] = "Channeled (2 sec cast)\nAttacks nearby enemies in a whirlwind of steel that lasts 2 sec. and inflicts normal damage plus 110." }
+entries[54798] = { ["name"] = "FLAMING Arrow Triggered Effect" }
+entries[54799] = { ["name"] = "Frost Giant Kill Credit (Thru Vehicle)" }
+entries[54801] = { ["name"] = "Surge", ["text"] = "40 yd range\n2 sec cast\nSurge forward up to 40 yds through enemies in a line, drenching them in mojo." }
+entries[54804] = { ["name"] = "Frostworg Kill Credit (Thru Vehicle)" }
+entries[54805] = { ["name"] = "Mind Flay", ["text"] = "35 yd range\nChanneled (6 sec cast)\nInflicts Shadow damage to an enemy and reduces its movement speed for 6 sec." }
+entries[54806] = { ["name"] = "Arcane Power Trigger" }
+entries[54808] = { ["name"] = "Sonic Shield", ["text"] = "Melee attacks against you have a chance to invoke a Sonic Shield, absorbing 232 damage. This effect can only occur once a minute.\n(Proc chance: 50%, 50s cooldown)" }
+entries[54814] = { ["name"] = "Cripple", ["text"] = "Instant\nIncreases the time between an enemy's attacks by 100% and its movement by 50%, in addition to reducing its Strength by 50%. Lasts 15 sec." }
+entries[54816] = { ["name"] = "Surge" }
+entries[54818] = { ["name"] = "Glyph of Rip", ["text"] = "Increases the periodic damage of your Rip by 15%." }
+entries[54819] = { ["name"] = "Drenched in Mojo", ["text"] = "Instant\nSurge through enemies in a line, drenching them. Inflicts 0 Nature damage and an additional 0 Nature damage every 3 sec for 45 sec." }
+entries[54822] = { ["name"] = "Frost Giant Kill Credit 01" }
+entries[54823] = { ["name"] = "Frostworg Kill Credit 01" }
+entries[54827] = { ["name"] = "Surge" }
+entries[54829] = { ["name"] = "Glyph of Moonfire", ["text"] = "Increases the periodic damage of your Moonfire ability by 20%." }
+entries[54835] = { ["name"] = "Curse of the Plaguebringer", ["text"] = "Instant\nCurses the target with the Curse of the Plaguebringer. If the target is not dispelled of the curse, the target will become infected along with all nearby allies in a selected area with the Wrath of the Plaguebringer." }
+entries[54836] = { ["name"] = "Wrath of the Plaguebringer", ["text"] = "Instant\nInfects nearby allies, inflicting 1129 Shadow damage, then an additional 659 damage every 2 sec. for 10 sec." }
+entries[54837] = { ["name"] = "Shartuul Kill Credit" }
+entries[54838] = { ["name"] = "Purified Spirit", ["text"] = "Chance on spell hit to increase your Versatility by 285 for 10 secs.\n(Proc chance: 15%, 45s cooldown)" }
+entries[54839] = { ["name"] = "Purified Spirit", ["text"] = "40 yd range\nInstant\nIncreases Versatility by 285 for 10 sec." }
+entries[54841] = { ["name"] = "Thunder Capacitor", ["text"] = "You gain a Thunder Charge each time you cause a damaging spell critical strike. When you reach 4 Thunder Charges, they will release, firing a Lightning Bolt for 9 damage. Thunder Charge cannot be gained more often than once every 2.5 sec.\n(2.5s cooldown)" }
+entries[54842] = { ["name"] = "Thunder Charge", ["text"] = "Instant\nCharging Thunder Capacitor." }
+entries[54843] = { ["name"] = "Lightning Bolt", ["text"] = "45 yd range\nInstant\nCasts a bolt of lightning at the target for 9 Nature damage." }
+entries[54844] = { ["name"] = "X-Ray Specs", ["text"] = "Instant\nAllows you to see players without clothing and armor." }
+entries[54845] = { ["name"] = "Glyph of Starfire", ["text"] = "Your Starfire ability increases the duration of your Moonfire effect on the target by 3 sec, up to a maximum of 9 additional seconds. Only functions on the target with your most recently applied Moonfire." }
+entries[54847] = { ["name"] = "Mojo Volley", ["text"] = "Instant\nDeals 14 Nature damage to up to 2 enemies within 99 yds." }
+entries[54849] = { ["name"] = "Mojo Volley" }
+entries[54850] = { ["name"] = "Emerge", ["text"] = "Melee Range\n3 sec cast\nThe Drakkari Elemental emerges from the stone colossus!" }
+entries[54851] = { ["name"] = "Emerge Summon", ["text"] = "Unlimited range\nInstant\nThe Drakkari Elemental emerges from the stone colossus!" }
+entries[54852] = { ["name"] = "Cosmetic - Stun (Permanent)" }
+entries[54861] = { ["name"] = "Nitro Boosts", ["text"] = "Instant\nIncrease your speed by 150% for 5 sec." }
+entries[54862] = { ["name"] = "Summon Plagued Construct" }
+entries[54872] = { ["name"] = "Mark of the Orca", ["text"] = "1.5 sec cast\nUnlocks the Orca Aquatic Form option in the Barber Shop." }
+entries[54878] = { ["name"] = "Merge", ["text"] = "80 yd range\n2 sec cast\nSurge back into the Colossus." }
+entries[54880] = { ["name"] = "Create Key to Searing Gorge" }
+entries[54881] = { ["name"] = "Create Key to the Arcatraz" }
+entries[54882] = { ["name"] = "Create Shadowforge Key" }
+entries[54883] = { ["name"] = "Create Skeleton Key" }
+entries[54884] = { ["name"] = "Create Shattered Halls Key" }
+entries[54885] = { ["name"] = "Create The Master's Key" }
+entries[54886] = { ["name"] = "Create Jump-a-tron 4000 Key" }
+entries[54887] = { ["name"] = "Create They Eye of Haramad" }
+entries[54888] = { ["name"] = "Elemental Spawn Effect", ["text"] = "Instant\nDrakkari Elemental emerges from the Colossus." }
+entries[54889] = { ["name"] = "Shadow Shock", ["text"] = "Instant\nInstantly lashes nearby enemies with dark magic, inflicting 23 Shadow damage." }
+entries[54890] = { ["name"] = "Arcane Explosion", ["text"] = "120 Mana\n1.5 sec cast\nSends out a blast wave of magic, inflicting Arcane damage to nearby enemies." }
+entries[54891] = { ["name"] = "Arcane Explosion", ["text"] = "120 Mana\n1.5 sec cast\nSends out a blast wave of magic, inflicting Arcane damage to nearby enemies." }
+entries[54892] = { ["name"] = "Unstable Explosive Detonation", ["text"] = "Instant\nDeals 31 Fire damage to its holder if not thrown before the fuse expires." }
+entries[54893] = { ["name"] = "Frost Giant Kill Credit (on Self)" }
+entries[54894] = { ["name"] = "Icy Imprisonment" }
+entries[54896] = { ["name"] = "Frostworg Kill Credit (on Self)" }
+entries[54897] = { ["name"] = "Flaming Arrow", ["text"] = "80 yd range\nInstant 2 sec cooldown\nFires a flaming arrow in Valley of Ancient Winter that will set afire enemies of the Brunnhildar." }
+entries[54899] = { ["name"] = "Knockback 15" }
+entries[54900] = { ["name"] = "Missiles", ["text"] = "50 Energy 30 yd range\nChanneled (5 sec cast) 3 sec cooldown\nLaunches Missiles at the enemy, causing 71 damage every 1 sec for 5 sec." }
+entries[54901] = { ["name"] = "Missiles", ["text"] = "30 yd range\nInstant\nLaunches Missiles at the enemy, causing 71 damage every 1 sec for 5 sec." }
+entries[54902] = { ["name"] = "Overload", ["text"] = "Instant 45 sec cooldown\nYou overload your circuits and damaging you and nearby enemies within 10 yards. Deals 224 Nature damage to you and all nearby enemies, knocking them back 10 yards." }
+entries[54903] = { ["name"] = "Mechanical Suit ZX-5103", ["text"] = "3 sec cast\nSummons a ZX-5103 mechanical suit complete with weaponry. The suit can operate for 5 min before it needs to recharge and repair any damage." }
+entries[54904] = { ["name"] = "Sawblade", ["text"] = "40 Energy\nInstant\nDeals 362 damage to all enemies within 8 yards." }
+entries[54905] = { ["name"] = "Jump Jets", ["text"] = "25 Energy 30 yd range\nInstant 10 sec cooldown\nThe shredders jump jets fire, hurling it upwards and forward." }
+entries[54906] = { ["name"] = "Proto-Drake Ejection" }
+entries[54907] = { ["name"] = "Burst of Speed", ["text"] = "Instant 10 sec cooldown\nCauses Icefang to sprint at double speed for 5 seconds." }
+entries[54908] = { ["name"] = "Riding Icefang" }
+entries[54913] = { ["name"] = "Thrash", ["text"] = "Adds a chance to do two additional attacks.\n(Proc chance: 25%, 4s cooldown)" }
+entries[54914] = { ["name"] = "WotLK - Frost Wyrm - Slow following Wyrm" }
+entries[54915] = { ["name"] = "WotLK - Frost Wyrm - Slow following Wyrm Timer" }
+entries[54916] = { ["name"] = "Lightning Burst", ["text"] = "90 Mana 40 yd range\n3 sec cast\nCalls down a bolt of lightning, inflicting Nature damage to all enemies near the caster." }
+entries[54917] = { ["name"] = "Spiked Cobalt Helm", ["text"] = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nCobalt Bar (7)\nOptional Reagents:\nOptional Reagent Slot (#31)\nProfession Trainer:\nNorthrend Blacksmithing (1)\nCost:\n10\n\nSpiked Cobalt Helm\nBinds when equipped\nHead Plate\n11 Armor\n+3 [Strength or Intellect] + 4 Critical Strike\n+ 4 Haste\nDurability 70 / 70\n27" }
+entries[54918] = { ["name"] = "Spiked Cobalt Boots", ["text"] = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nCobalt Bar (7)\nOptional Reagents:\nOptional Reagent Slot (#47)\nProfession Trainer:\nNorthrend Blacksmithing (5)\nCost:\n15\n\nSpiked Cobalt Boots\nBinds when equipped\nFeet Plate\n9 Armor\n+3 [Strength or Intellect] + 4 Critical Strike\n+ 3 Haste\nDurability 55 / 55\n27" }
+entries[54919] = { ["name"] = "Warped Armor", ["text"] = "15 yd range\nInstant\nReduces armor by 50% for 10 sec." }
+entries[54920] = { ["name"] = "Shock", ["text"] = "20 yd range\nInstant\nInstantly throws a bolt of lightning at an enemy, inflicting Nature damage." }
+entries[54921] = { ["name"] = "Lightning Cloud", ["text"] = "Instant\nSurrounds the caster with lightning that has a chance of striking melee or ranged attackers for Nature damage.\n(4s cooldown)" }
+entries[54932] = { ["name"] = "Aerial Leap" }
+entries[54933] = { ["name"] = "Hyldnir Harpoon", ["text"] = "100 yd range\nInstant\nUse your harpoon to land on nearby Proto-Drakes. Can also be used on Column Ornaments to exit the Drakkensryd." }
+entries[54941] = { ["name"] = "Spiked Cobalt Shoulders", ["text"] = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nCobalt Bar (7)\nOptional Reagents:\nOptional Reagent Slot (#47)\nProfession Trainer:\nNorthrend Blacksmithing (10)\nCost:\n30\n\nSpiked Cobalt Shoulders\nBinds when equipped\nShoulder Plate\n10 Armor\n+4 [Strength or Intellect] + 5 Critical Strike\n+ 2 Haste\nDurability 70 / 70\n28" }
+entries[54942] = { ["name"] = "Cosmetic Orange Cloud" }
+entries[54944] = { ["name"] = "Spiked Cobalt Chestpiece", ["text"] = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nCobalt Bar (8)\nOptional Reagents:\nOptional Reagent Slot (#47)\nProfession Trainer:\nNorthrend Blacksmithing (10)\nCost:\n30\n\nSpiked Cobalt Chestpiece\nBinds when equipped\nChest Plate\n15 Armor\n+5 [Strength or Intellect] + 4 Critical Strike\n+ 5 Haste\nDurability 115 / 115\n28" }
+entries[54945] = { ["name"] = "Spiked Cobalt Gauntlets", ["text"] = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nCobalt Bar (12)\nOptional Reagents:\nOptional Reagent Slot (#48)\nProfession Trainer:\nNorthrend Blacksmithing (15)\nCost:\n50\n\nSpiked Cobalt Gauntlets\nBinds when equipped\nHands Plate\n8 Armor\n+4 [Strength or Intellect] + 3 Critical Strike\n+ 2 Haste\nDurability 40 / 40\n28" }
+entries[54946] = { ["name"] = "Spiked Cobalt Belt", ["text"] = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nCobalt Bar (12)\nOptional Reagents:\nOptional Reagent Slot (#48)\nProfession Trainer:\nNorthrend Blacksmithing (20)\nCost:\n75\n\nSpiked Cobalt Belt\nBinds when equipped\nWaist Plate\n8 Armor\n+3 [Strength or Intellect] + 4 Critical Strike\n+ 4 Haste\nDurability 40 / 40\n28" }
+entries[54947] = { ["name"] = "Spiked Cobalt Legplates", ["text"] = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nCobalt Bar (12)\nOptional Reagents:\nOptional Reagent Slot (#48)\nProfession Trainer:\nNorthrend Blacksmithing (20)\nCost:\n75\n\nSpiked Cobalt Legplates\nBinds when equipped\nLegs Plate\n13 Armor\n+5 [Strength or Intellect] + 5 Critical Strike\n+ 4 Haste\nDurability 85 / 85\n28" }
+entries[54948] = { ["name"] = "Spiked Cobalt Bracers", ["text"] = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nCobalt Bar (12)\nOptional Reagents:\nOptional Reagent Slot (#49)\nProfession Trainer:\nNorthrend Blacksmithing (25)\nCost:\n1\n\nSpiked Cobalt Bracers\nBinds when equipped\nWrist Plate\n7 Armor\n+3 [Strength or Intellect] + 3 Critical Strike\n+ 2 Haste\nDurability 40 / 40\n28" }
+entries[54949] = { ["name"] = "Horned Cobalt Helm", ["text"] = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nCobalt Bar (8)\nOptional Reagents:\nOptional Reagent Slot (#49)\nProfession Trainer:\nNorthrend Blacksmithing (25)\nCost:\n1\n\nHorned Cobalt Helm\nBinds when equipped\nHead Plate\n11 Armor\n+5 [Strength or Intellect] + 4 Critical Strike\n+ 3 Haste\nDurability 70 / 70\n28" }
+entries[54950] = { ["name"] = "Swift Wings", ["text"] = "Instant\nIncreases movement speed by 100% for 5 sec. Does not break prowling." }
+entries[54951] = { ["name"] = "Skewer", ["text"] = "30 yd range\nInstant\nInflicts Physical damage to an enemy every 3 sec. for 12 sec." }
+entries[54952] = { ["name"] = "Initial Proto-Drake" }
+entries[54954] = { ["name"] = "Explosion", ["text"] = "Instant\nInflicts Fire damage to nearby enemies." }
+entries[54956] = { ["name"] = "Impaling Charge", ["text"] = "60 yd range\nInstant\nCharges an enemy, knocking it back and inflicting 0 Physical damage every 1 sec for 5 sec." }
+entries[54958] = { ["name"] = "Impaling Charge", ["text"] = "Unlimited range\nInstant\nCharges an enemy, knocking it back and inflicting normal damage plus 0." }
+entries[54959] = { ["name"] = "Dire Stomp", ["text"] = "Instant\nKnocks back and Inflicts 5 damage to all enemies within 8 yards of the caster." }
+entries[54960] = { ["name"] = "WotLK - Frost Wyrm - Drop Victim, Damage" }
+entries[54961] = { ["name"] = "Rocket" }
+entries[54962] = { ["name"] = "Ticking Bomb", ["text"] = "20 yd range\n1.5 sec cast\nCreate a ticking bomb that explodes after a few seconds, inflicting 50 Fire damage to nearby enemies." }
+entries[54963] = { ["name"] = "Teleporter Power Cell", ["text"] = "1.5 sec cast\nCharge the teleportation pad on Garm's Rise for mass transport." }
+entries[54964] = { ["name"] = "Summon and Mount Frosthound", ["text"] = "6 yd range\nInstant\nRelease your Frosthound at the Abandoned Camp to track Brann's scent." }
+entries[54965] = { ["name"] = "Bolthorn's Rune of Flame", ["text"] = "60 yd range\n1.5 sec cast 6 sec cooldown\nApplies a Rune of Flame to nearby allies, causing them to inflict 0 Fire damage to enemies within 10 yards every 2 sec for 8 sec." }
+entries[54966] = { ["name"] = "Bolthorn's Rune of Flame", ["text"] = "Instant\nPeriodically deals fire damage to enemies within 10 yds." }
+entries[54967] = { ["name"] = "WotLK City Attacks Ice Block" }
+entries[54968] = { ["name"] = "Divine Flame", ["text"] = "100 yd range\nInstant\nHeals for 10% of the value of Flash of Light or Holy Light." }
+entries[54969] = { ["name"] = "Summon Constrictor" }
+entries[54970] = { ["name"] = "Venom Bolt", ["text"] = "45 yd range\n1.5 sec cast\nInflicts Nature damage to an enemy." }
+entries[54971] = { ["name"] = "Create Arathor Battle Tabard" }
+entries[54973] = { ["name"] = "Create Battle Tabard of the Defilers" }
+entries[54974] = { ["name"] = "Create Blood Knight Tabard" }
+entries[54975] = { ["name"] = "Create Tabard of the Argent Dawn" }
+entries[54976] = { ["name"] = "Create Tabard of the Hand" }
+entries[54977] = { ["name"] = "Create Green Trophy Tabard of the Illidari" }
+entries[54978] = { ["name"] = "Reinforced Cobalt Shoulders", ["text"] = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nCobalt Bar (8), Crystallized Water (2)\nOptional Reagents:\nOptional Reagent Slot (#48)\nDrop:\nOnslaught Mason\nZone:\nDragonblight\n\nReinforced Cobalt Shoulders\nBinds when equipped\nShoulder Plate\n10 Armor\n+2 [Strength or Intellect]+4 Stamina\n+ 3 Critical Strike\n+ 3 Versatility\nDurability 70 / 70\n28" }
+entries[54979] = { ["name"] = "Reinforced Cobalt Helm", ["text"] = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nCobalt Bar (8), Crystallized Water (2)\nOptional Reagents:\nOptional Reagent Slot (#49)\nDrop:\nIron Rune-Shaper\nZone:\nGrizzly Hills\n\nReinforced Cobalt Helm\nBinds when equipped\nHead Plate\n11 Armor\n+3 [Strength or Intellect]+5 Stamina\n+ 5 Critical Strike\n+ 5 Versatility\nDurability 70 / 70\n28" }
+entries[54980] = { ["name"] = "Reinforced Cobalt Legplates", ["text"] = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nCobalt Bar (8), Crystallized Water (2)\nOptional Reagents:\nOptional Reagent Slot (#49)\nDrop:\nGundrak Savage\nZone:\nZul'Drak\n\nReinforced Cobalt Legplates\nBinds when equipped\nLegs Plate\n13 Armor\n+4 [Strength or Intellect]+5 Stamina\n+ 4 Critical Strike\n+ 5 Versatility\nDurability 85 / 85\n29" }
+entries[54981] = { ["name"] = "Reinforced Cobalt Chestpiece", ["text"] = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nCobalt Bar (8), Crystallized Water (2)\nOptional Reagents:\nOptional Reagent Slot (#50)\nDrop:\nVenture Co. Excavator\nZone:\nSholazar Basin\n\nReinforced Cobalt Chestpiece\nBinds when equipped\nChest Plate\n15 Armor\n+3 [Strength or Intellect]+5 Stamina\n+ 4 Critical Strike\n+ 5 Versatility\nDurability 115 / 115\n29" }
+entries[54982] = { ["name"] = "Create Purple Trophy Tabard of the Illidari" }
+entries[54983] = { ["name"] = "Throw", ["text"] = "8 - 25 yd range\n2 sec cast 3 sec cooldown\nThrows your weapon, inflicting Physical damage on the target." }
+entries[54984] = { ["name"] = "Torch" }
+entries[54985] = { ["name"] = "Torch", ["text"] = "Unlimited range\nInstant\nBURNING!" }
+entries[54987] = { ["name"] = "Venomous Bite", ["text"] = "Melee Range\nInstant\nInflicts 0 Nature damage to an enemy, then an additional 0 damage every 2 sec. for 8 sec." }
+entries[54988] = { ["name"] = "Heart Beam Visual" }
+entries[54990] = { ["name"] = "Chains of the Scourge" }
+entries[54991] = { ["name"] = "Face Me" }
+entries[54992] = { ["name"] = "Shartuul Kill Credit Script Effect" }
+entries[54993] = { ["name"] = "Frosthound Periodic" }
+entries[54994] = { ["name"] = "Summon Stormforged Pursuer" }
+entries[54995] = { ["name"] = "Delicious Roasted Boar", ["text"] = "10 yd range\n1.5 sec cast\nCreates a delicious roast boar platter for you and your friends to enjoy." }
+entries[54996] = { ["name"] = "Ice Slick", ["text"] = "30 yd range\nInstant\nFlash freeze the snow in a selected area to slow down Stormforged Pursuers. (20 sec. cooldown)" }
+entries[54997] = { ["name"] = "Cast Net", ["text"] = "40 yd range\nInstant\nImmobilizes a Stormforged Pursuer for 6 sec. (10 sec. cooldown)" }
+entries[55000] = { ["name"] = "Winter Garb", ["text"] = "Full Winter Garb" }
+entries[55001] = { ["name"] = "Parachute", ["text"] = "Instant 1 min cooldown\nReduces your falling speed for 30 sec." }
+entries[55002] = { ["name"] = "Flexweave Underlay", ["text"] = "2 sec cast\nRequires Cloak\nTools: Arclight Spanner\nReagents:\nTinker's Kit\nPermanently attaches a flexweave underlay to a cloak, allowing you to turn the cloak into a parachute and fall slowly for 30 sec.\n\nThe cloak can only be used once a minute and requires a Northrend Engineering skill of at least 1.\nProfession Trainer:\nNorthrend Engineering (5)\nCost:\n15" }
+entries[55004] = { ["name"] = "Nitro Boosts", ["text"] = "Instant 2 min cooldown\nIncrease your speed for a few seconds." }
+entries[55005] = { ["name"] = "Brewfest Garb", ["text"] = "Full Brewfest Garb" }
+entries[55006] = { ["name"] = "Create Tabard of the Achiever" }
+entries[55007] = { ["name"] = "Throw Hammer", ["text"] = "35 yd range\n0.5 sec cast\nInflicts damage to an enemy." }
+entries[55008] = { ["name"] = "Create Tabard of the Protector" }
+entries[55009] = { ["name"] = "Chains of the Scourge" }
+entries[55010] = { ["name"] = "Mana Burn", ["text"] = "40 yd range\nInstant\nHits an enemy with an anti-mana bolt. For each point of mana consumed by the bolt, the target takes 1 damage." }
+entries[55011] = { ["name"] = "Decrepit Fever", ["text"] = "Instant\nInflicts 839 Nature damage every 3 sec. and reduces the maximum health of all nearby targets by 50% for 21 sec." }
+entries[55012] = { ["name"] = "Lok'lira's Bargain", ["text"] = "Instant\nDisguised as a Brunnhildar Challenger." }
+entries[55013] = { ["name"] = "Saronite Protector", ["text"] = "2.5 sec cast\nTools: Blacksmith Hammer\nReagents:\nCobalt Bar (6), Saronite Bar (4)\nOptional Reagents:\nOptional Reagent Slot (#48)\nProfession Trainer:\nNorthrend Blacksmithing (15)\nCost:\n50\n\nSaronite Protector\nBinds when equipped\nOff Hand Shield\n43 Armor\n+2 Strength\n+6 Intellect\n+3 Stamina\n+ 2 Critical Strike\nDurability 100 / 100\n28" }
+entries[55014] = { ["name"] = "Saronite Bulwark", ["text"] = "2.5 sec cast\nTools: Blacksmith Hammer\nReagents:\nSaronite Bar (14)\nOptional Reagents:\nOptional Reagent Slot (#50)\nProfession Trainer:\nNorthrend Blacksmithing (35)\nCost:\n1\n30\n\nSaronite Bulwark\nBinds when equipped\nOff Hand Shield\n45 Armor\n+2 Strength\n+6 Intellect\n+3 Stamina\n+ 3 Dodge\nDurability 100 / 100\n29" }
+entries[55015] = { ["name"] = "Tempered Saronite Gauntlets", ["text"] = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nSaronite Bar (14)\nOptional Reagents:\nOptional Reagent Slot (#50)\nProfession Trainer:\nNorthrend Blacksmithing (40)\nCost:\n1\n50\n\nTempered Saronite Gauntlets\nBinds when equipped\nHands Plate\n9 Armor\n+2 [Strength or Intellect]+3 Stamina\n+ 6 Dodge\nDurability 50 / 50\n29" }
+entries[55016] = { ["name"] = "Nitro Boosts", ["text"] = "2 sec cast\nRequires Belt\nTools: Arclight Spanner\nReagents:\nTinker's Kit\nPermanently attaches nitro boosts to your belt, allowing you to increase run speed for a few seconds. Duration and speed may vary. (2 Min Cooldown)\n\nNitro boosts share a cooldown with potions.\nProfession Trainer:\nNorthrend Engineering (30)\nCost:\n1\n15" }
+entries[55017] = { ["name"] = "Tempered Saronite Bracers", ["text"] = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nSaronite Bar (13)\nOptional Reagents:\nOptional Reagent Slot (#50)\nProfession Trainer:\nNorthrend Blacksmithing (35)\nCost:\n1\n30\n\nTempered Saronite Bracers\nBinds when equipped\nWrist Plate\n8 Armor\n+2 [Strength or Intellect]+2 Stamina\n+ 5 Dodge\nDurability 50 / 50\n29" }
+entries[55018] = { ["name"] = "Sonic Awareness", ["text"] = "Instant\nIncreases attack power by 151 for 10 sec." }
+entries[55019] = { ["name"] = "Sonic Shield", ["text"] = "Instant\nAbsorbs 232 damage. Lasts 12 sec." }
+entries[55025] = { ["name"] = "Piss off Enemy" }
+entries[55026] = { ["name"] = "Frosthound Boss Emote" }
+entries[55027] = { ["name"] = "Piss off Enemy Timer" }
+entries[55028] = { ["name"] = "Summon Freed Proto-Drake" }
+entries[55029] = { ["name"] = "Ride Freed Proto-Drake" }
+entries[55030] = { ["name"] = "Rune Detonation", ["text"] = "Instant\nImmobilized.\nInflicts 84 Fire damage after 4 sec." }
+entries[55031] = { ["name"] = "Rune Detonation", ["text"] = "Instant\nInflicts 84 Fire damage." }
+entries[55032] = { ["name"] = "Hyldsmeet Proto-Drake No Rider" }
+entries[55033] = { ["name"] = "Despawn Hyldsmeet Proto-Drake" }
+entries[55034] = { ["name"] = "Flight" }
+entries[55035] = { ["name"] = "Fire Extinguisher" }
+entries[55036] = { ["name"] = "Frosthound Boss Emote 2" }
+entries[55037] = { ["name"] = "Fire Extinguisher", ["text"] = "30 yd range\nInstant\nUse near burning Rageclaw wolvar huts to extinguish the fires!" }
+entries[55038] = { ["name"] = "Contact Brann", ["text"] = "Melee Range\nInstant\nAttempt to contact Brann Bronzebeard." }
+entries[55039] = { ["name"] = "Gnomish Lightning Generator", ["text"] = "30 yd range\nInstant\nGenerates a bolt of lightning to strike an enemy for 874 Nature damage. This entire device is made of metal...." }
+entries[55040] = { ["name"] = "Freezing Trap", ["text"] = "Instant 10 sec cooldown\nPlace a frost trap that freezes the first enemy that approaches, preventing all action for up to 1 min. Any damage caused will break the ice." }
+entries[55041] = { ["name"] = "Freezing Trap", ["text"] = "10 yd range\nInstant\nPlace a frost trap that freezes the first enemy that approaches, preventing all action for up to 1 min. Any damage caused will break the ice." }
+entries[55042] = { ["name"] = "Despawn Hyldsmeet Proto-Drake Master" }
+entries[55043] = { ["name"] = "Hyldsmeet Proto-Drake No Rider Master" }
+entries[55044] = { ["name"] = "Lightning Bolt", ["text"] = "Instant\nDeals 262 Nature damage." }
+entries[55045] = { ["name"] = "Icy Imprisonment" }
+entries[55046] = { ["name"] = "Ice Shard", ["text"] = "50 yd range\nInstant\nFrees a Brunnhildar Prisoner from Dun Niffelem." }
+entries[55047] = { ["name"] = "Cold Hearted: Ice Shard Impact" }
+entries[55048] = { ["name"] = "Free Brunnhildar Prisoner" }
+entries[55049] = { ["name"] = "Torch", ["text"] = "Unlimited range\nInstant\nBURNING!" }
+entries[55052] = { ["name"] = "Inevitable Doom", ["text"] = "Instant\nInflicts 24 Shadow damage to nearby enemies after 10 sec." }
+entries[55053] = { ["name"] = "Deathbloom", ["text"] = "Instant\nInflicts 47 Nature damage every 1 sec. for 6 sec, followed by an additional 308 Nature damage." }
+entries[55054] = { ["name"] = "Varian Leap" }
+entries[55055] = { ["name"] = "Brilliant Saronite Legplates", ["text"] = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nCobalt Bar (5), Saronite Bar (5), Crystallized Water\nOptional Reagents:\nOptional Reagent Slot (#48)\nProfession Trainer:\nNorthrend Blacksmithing (20)\nCost:\n75\n\nBrilliant Saronite Legplates\nBinds when equipped\nLegs Plate\n13 Armor\n+5 [Strength or Intellect] + 5 Critical Strike\n+ 3 Versatility\nDurability 100 / 100\n28" }
+entries[55056] = { ["name"] = "Brilliant Saronite Gauntlets", ["text"] = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nCobalt Bar (3), Saronite Bar (8)\nOptional Reagents:\nOptional Reagent Slot (#49)\nProfession Trainer:\nNorthrend Blacksmithing (25)\nCost:\n1\n\nBrilliant Saronite Gauntlets\nBinds when equipped\nHands Plate\n8 Armor\n+4 [Strength or Intellect]+3 Stamina\n+ 3 Critical Strike\nDurability 50 / 50\n28" }
+entries[55057] = { ["name"] = "Brilliant Saronite Boots", ["text"] = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nSaronite Bar (12)\nOptional Reagents:\nOptional Reagent Slot (#49)\nProfession Trainer:\nNorthrend Blacksmithing (30)\nCost:\n1\n15\n\nBrilliant Saronite Boots\nBinds when equipped\nFeet Plate\n9 Armor\n+4 [Strength or Intellect]+3 Stamina\n+ 4 Critical Strike\nDurability 65 / 65\n29" }
+entries[55058] = { ["name"] = "Brilliant Saronite Breastplate", ["text"] = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nSaronite Bar (14), Crystallized Water\nOptional Reagents:\nOptional Reagent Slot (#50)\nProfession Trainer:\nNorthrend Blacksmithing (40)\nCost:\n1\n50\n\nBrilliant Saronite Breastplate\nBinds when equipped\nChest Plate\n16 Armor\n+6 [Strength or Intellect] + 4 Critical Strike\n+ 5 Versatility\nDurability 140 / 140\n29" }
+entries[55059] = { ["name"] = "Custom Walk" }
+entries[55060] = { ["name"] = "Summon Viper" }
+entries[55063] = { ["name"] = "Arbiter's Judgment", ["text"] = "100 yd range\nChanneled (5 sec cast)\nJudge the fallen vrykul, ascending them to ymirjar or reducing them to vargul." }
+entries[55064] = { ["name"] = "Revenge for the Vargul: Summon Thane Illskar the Damned" }
+entries[55065] = { ["name"] = "Toppling Tower", ["text"] = "Melee Range\nInstant\nSends opponent flying back." }
+entries[55066] = { ["name"] = "Wild Growth", ["text"] = "Melee Range\nInstant\nInflicts 1 Nature damage every 3 sec and reduces movement speed by 15% for 12 sec.." }
+entries[55067] = { ["name"] = "Flower Power", ["text"] = "Instant\nIncreases attack and cast speed by 25% and has a chance to afflict the target with Wild Growth for 30 sec.\n(4s cooldown)" }
+entries[55068] = { ["name"] = "Mr. Chilly", ["text"] = "Instant\nRight Click to summon and dismiss Mr. Chilly." }
+entries[55069] = { ["name"] = "Gnomish Lightning Generator", ["text"] = "30 yd range\nInstant\nGenerates a bolt of lightning to strike an enemy for 163 Nature damage. This entire device is made of metal, and the bolt occasionally hits you." }
+entries[55070] = { ["name"] = "Shadow Cultist: Blue Smoke Beam" }
+entries[55071] = { ["name"] = "Flame Spit", ["text"] = "40 yd range\nChanneled (6.5 sec cast)\nInflicts 3 Fire damage every 1.3 sec." }
+entries[55072] = { ["name"] = "Flame Spit", ["text"] = "100 yd range\nInstant\nFire damage inflicted every 1.3 sec for 6.5 sec." }
+entries[55073] = { ["name"] = "Summon Liberated Brunnhildar" }
+entries[55074] = { ["name"] = "Ride Proto-Drake" }
+entries[55075] = { ["name"] = "Ping Proto-Drake" }
+entries[55076] = { ["name"] = "Sun Scope", ["text"] = "3 sec cast\nRequires Ranged Weapon\nAttaches a permanent scope to a bow or gun that increases your ranged haste by 16.\n\nAttaching this scope to a ranged weapon causes it to become soulbound. Cannot be applied to items higher than level 320." }
+entries[55077] = { ["name"] = "Pounce", ["text"] = "10 - 80 yd range\n1.5 sec cast 30 sec cooldown\nLeaps to the enemy's location and increases the caster's Physical damage by 200% for 5 sec." }
+entries[55078] = { ["name"] = "Blood Plague", ["text"] = "Unlimited range\nInstant\nA shadowy disease that drains 64 health from the target over 24 sec." }
+entries[55079] = { ["name"] = "Swoop", ["text"] = "Melee Range\nInstant\nInflicts 125% weapon damage every 1.5 sec." }
+entries[55081] = { ["name"] = "Poison Nova", ["text"] = "3.5 sec cast 1.5 sec cooldown\nInflicts 0 Nature damage to nearby enemies, then an additional 0 damage every 2 sec. for 16 sec." }
+entries[55082] = { ["name"] = "Bird Swoop" }
+entries[55083] = { ["name"] = "Unlock Shackle", ["text"] = "3 yd range\n1 sec cast\n\"Unlocks\" a Drakuru shackle." }
+entries[55084] = { ["name"] = "Barrel o' Fun", ["text"] = "Instant\nDrops a Barrel o' Fun that explodes for 3000 to 4000 damage after 5 sec." }
+entries[55085] = { ["name"] = "Unshackled!", ["text"] = "3 yd range\nInstant\nEnrages a Rageclaw wolvar." }
+entries[55086] = { ["name"] = "New Shadowform" }
+entries[55087] = { ["name"] = "Typhoon", ["text"] = "645 Mana 20 yd range\nInstant\nConjures a violent wave that does 8 Nature damage to hostile targets." }
+entries[55088] = { ["name"] = "Barrel o' Fun" }
+entries[55089] = { ["name"] = "Mount Brann's Flying Machine" }
+entries[55090] = { ["name"] = "Scourge Strike", ["text"] = "1 Rune / -10 Runic Power Melee Range\nInstant\nAn unholy strike that deals (73.8052% of Attack Power) Physical damage and (40.6571% of Attack Power)% Shadow damage, and causes 1 Festering Wound to burst.\n\nCritical strikes cause the Festering Wound to burst for 20% increased damage." }
+entries[55093] = { ["name"] = "Grip of Slad'ran", ["text"] = "Melee Range\nInstant\nGrip of Slad'ran constricts the enemy, once the effect has stacked up to 5 times the target will be encased in snakes." }
+entries[55095] = { ["name"] = "Frost Fever", ["text"] = "Unlimited range\nInstant\nA disease that deals [(171.2% of Attack Power) * [(Attack Power * 0.98)][((Attack Power + Offhand Attack Power) * 2 / 3)] -- 2H, DW / Attack Power] Frost damage over 24 sec and has a chance to grant the Death Knight 4 Runic Power each time it deals damage." }
+entries[55096] = { ["name"] = "Mojo Frenzy", ["text"] = "Instant\nIncreases the casting speed of the caster as he takes damage." }
+entries[55097] = { ["name"] = "Summon Phantom" }
+entries[55098] = { ["name"] = "Transformation", ["text"] = "4 sec cast\nThe caster transforms into a powerful mammoth, increasing Physical damage done by 50%." }
+entries[55099] = { ["name"] = "Snake Wrap", ["text"] = "40 yd range\nChanneled (5 sec cast)\nConstricts the enemy, rendering the target unable to move for 5 sec. When the effect ends, the target will be encased in snakes, stunning them for 10 sec. If the snakes surrounding the targets are killed, the target will be released." }
+entries[55100] = { ["name"] = "Numbing Roar", ["text"] = "Instant 5 sec cooldown\nA loud roar numbs the minds of enemies that hear it, reducing casting speed by 50% for 5 sec." }
+entries[55101] = { ["name"] = "Quake", ["text"] = "2.2 sec cast\nThe ground trembles violently, inflicting 0 Physical damage to nearby enemies." }
+entries[55102] = { ["name"] = "Determined Gore", ["text"] = "Melee Range\nInstant\nGores an enemy, inflicting 0 Physical damage and causing it to bleed for an additional 0 Physical damage every 3 sec for 21 sec." }
+entries[55104] = { ["name"] = "Determined Stab", ["text"] = "Melee Range\n1.5 sec cast\nStabs an enemy, inflicting Physical damage. This attack cannot be blocked, dodged, or parried." }
+entries[55106] = { ["name"] = "Numbing Shout", ["text"] = "Instant 5 sec cooldown\nA loud roar numbs the minds of enemies that hear it, reducing casting speed by 25% for 5 sec." }
+entries[55115] = { ["name"] = "Luminous Charger", ["text"] = "1.5 sec cast\nWhile Crusader Aura is active, your Paladin class mounts glow with holy light." }
+entries[55126] = { ["name"] = "Snake Wrap", ["text"] = "40 yd range\nInstant\nConstricts the enemy, rendering the target unable to move for 5 sec. When the effect ends, the target will be encased in snakes, stunning them for 10 sec. If the snakes surrounding the targets are killed, the target will be released." }
+entries[55127] = { ["name"] = "Snake Wrap - Kill Snakes" }
+entries[55128] = { ["name"] = "Snake Wrap" }
+entries[55134] = { ["name"] = "Data Stream" }
+entries[55135] = { ["name"] = "Heartseeker Scope", ["text"] = "3 sec cast\nRequires Ranged Weapon\nAttaches a permanent scope to a bow or gun that increases its ranged critical strike by 16.\n\nAttaching this scope to a ranged weapon causes it to become soulbound. Cannot be applied to items higher than level 320." }
+entries[55137] = { ["name"] = "Begin Approach A" }
+entries[55141] = { ["name"] = "Brunnhildar Pre-Ejection" }
+entries[55142] = { ["name"] = "Ground Tremor", ["text"] = "Instant\nThe ground trembles, inflicting 0 Physical damage to nearby enemies and stunning them for 2 sec." }
+entries[55143] = { ["name"] = "ProtoDrakeKill Credit" }
+entries[55144] = { ["name"] = "Liberated Vrykul Kill Credit" }
+entries[55145] = { ["name"] = "Liberated Kill Credit Script" }
+entries[55160] = { ["name"] = "Dummy - LAB" }
+entries[55161] = { ["name"] = "Retrieve Data", ["text"] = "20 yd range\nChanneled (10 sec cast)\nDownloads Mimir's Hidden Data from a nearby Databank in the Inventor's Library." }
+entries[55162] = { ["name"] = "The Ocular: Transform" }
+entries[55163] = { ["name"] = "Mojo Frenzy", ["text"] = "Instant\nIncreases the casting speed proportionally with the amount of damage taken." }
+entries[55164] = { ["name"] = "Swift Spectral Gryphon", ["text"] = "Instant\nSummons a swift spectral gryphon.\n\"Even the dead need a lift every now and then.\"\nLegacy" }
+entries[55165] = { ["name"] = "Combine Disk Fragments", ["text"] = "3 sec cast\nReagents:\nInventor's Disk Fragment (5)\nCombine 6 Inventor's Disk Fragments into the Inventor's Disk." }
+entries[55167] = { ["name"] = "Periodic Proto-Landing A" }
+entries[55168] = { ["name"] = "Dummy - LAB" }
+entries[55173] = { ["name"] = "Swift Flying Wisp", ["text"] = "Instant\nAllows you to fly while in wisp form." }
+entries[55174] = { ["name"] = "Honed Cobalt Cleaver", ["text"] = "2.5 sec cast\nTools: Blacksmith Hammer\nReagents:\nCobalt Bar (12), Saronite Bar (4), Crystallized Fire (2)\nOptional Reagents:\nOptional Reagent Slot (#48)\nProfession Trainer:\nNorthrend Blacksmithing (15)\nCost:\n50\n\nHoned Cobalt Cleaver\nBinds when equipped\nTwo-Hand Axe\n6 - 14 Damage Speed 3.60\n(2.8 damage per second)\n+4 Strength\n+ 5 Haste\nDurability 100 / 100\n28" }
+entries[55177] = { ["name"] = "Savage Cobalt Slicer", ["text"] = "2.5 sec cast\nTools: Blacksmith Hammer\nReagents:\nCobalt Bar (8), Saronite Bar (6), Crystallized Fire (2)\nOptional Reagents:\nOptional Reagent Slot (#48)\nProfession Trainer:\nNorthrend Blacksmithing (20)\nCost:\n75\n\nSavage Cobalt Slicer\nBinds when equipped\nOne-Hand Sword\n4 - 7 Damage Speed 2.60\n(2.1 damage per second)\n+2 Agility\n+2 Stamina\n+ 2 Critical Strike\nDurability 90 / 90\n28" }
+entries[55179] = { ["name"] = "Saronite Ambusher", ["text"] = "2.5 sec cast\nTools: Blacksmith Hammer\nReagents:\nCobalt Bar (12), Saronite Bar (4), Crystallized Shadow\nOptional Reagents:\nOptional Reagent Slot (#49)\nProfession Trainer:\nNorthrend Blacksmithing (25)\nCost:\n1\n\nSaronite Ambusher\nBinds when equipped\nOne-Hand Dagger\n2 - 5 Damage Speed 1.80\n(1.9 damage per second)\n+2 Agility\n+ 3 Critical Strike\nDurability 65 / 65\n28" }
+entries[55181] = { ["name"] = "Saronite Shiv", ["text"] = "2.5 sec cast\nTools: Blacksmith Hammer\nReagents:\nSaronite Bar (12), Crystallized Shadow (2)\nOptional Reagents:\nOptional Reagent Slot (#49)\nProfession Trainer:\nNorthrend Blacksmithing (30)\nCost:\n1\n15\n\nSaronite Shiv\nBinds when equipped\nOne-Hand Dagger\n2 - 5 Damage Speed 1.80\n(1.9 damage per second)\n+2 Agility\n+ 4 Critical Strike\n+ 2 Haste\nDurability 65 / 65\n29" }
+entries[55182] = { ["name"] = "Furious Saronite Beatstick", ["text"] = "2.5 sec cast\nTools: Blacksmith Hammer\nReagents:\nSaronite Bar (15), Crystallized Earth (2)\nOptional Reagents:\nOptional Reagent Slot (#50)\nProfession Trainer:\nNorthrend Blacksmithing (35)\nCost:\n1\n30\n\nFurious Saronite Beatstick\nBinds when equipped\nOne-Hand Mace\n5 - 7 Damage Speed 2.60\n(2.3 damage per second)\n+2 [Agility or Strength] + 4 Haste\nDurability 90 / 90\n29" }
+entries[55183] = { ["name"] = "Corroded Saronite Edge", ["text"] = "2.5 sec cast\nTools: Blacksmith Hammer\nReagents:\nSaronite Bar (16), Crystallized Fire\nOptional Reagents:\nOptional Reagent Slot (#50)\nThis weapon can only be used by the blacksmith who forges it.\nCorroded Saronite Edge\nBinds when picked up\nOne-Hand Sword\n4 - 7 Damage Speed 2.60\n(2.1 damage per second)\n+2 Strength\n+7 Stamina\n+ 2 Critical Strike\n+ 3 Haste\nDurability 90 / 90\n29" }
+entries[55184] = { ["name"] = "Corroded Saronite Woundbringer", ["text"] = "2.5 sec cast\nTools: Blacksmith Hammer\nReagents:\nSaronite Bar (14), Crystallized Fire\nOptional Reagents:\nOptional Reagent Slot (#50)\nCorroded Saronite Woundbringer\nBinds when picked up\nOne-Hand Sword\n4 - 7 Damage Speed 2.60\n(2.1 damage per second)\n+2 Agility\n+4 Stamina\n+ 2 Haste\nDurability 90 / 90\n29" }
+entries[55185] = { ["name"] = "Saronite Mindcrusher", ["text"] = "2.5 sec cast\nTools: Blacksmith Hammer\nReagents:\nSaronite Bar (20), Crystallized Fire (2)\nOptional Reagents:\nOptional Reagent Slot (#50)\nProfession Trainer:\nNorthrend Blacksmithing (40)\nCost:\n1\n50\n\nSaronite Mindcrusher\nBinds when picked up\nTwo-Hand Mace\n9 - 12 Damage Speed 3.60\n(2.9 damage per second)\n+6 Strength\n+4 Stamina\n+ 4 Critical Strike\n+ 2 Haste\nDurability 100 / 100\n29" }
+entries[55186] = { ["name"] = "Chestplate of Conquest", ["text"] = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nSaronite Bar (14), Crystallized Earth (2)\nOptional Reagents:\nOptional Reagent Slot (#50)\nChestplate of Conquest\nBinds when picked up\nChest Plate\n16 Armor\n+6 [Strength or Intellect]+4 Stamina\n+ 4 Critical Strike\n+ 2 Haste\nDurability 140 / 140\n29" }
+entries[55187] = { ["name"] = "Legplates of Conquest", ["text"] = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nSaronite Bar (13), Crystallized Earth (2)\nOptional Reagents:\nOptional Reagent Slot (#50)\nLegplates of Conquest\nBinds when picked up\nLegs Plate\n13 Armor\n+4 [Strength or Intellect]+5 Stamina\n+ 5 Critical Strike\n+ 5 Haste\n+ 4 Versatility\nDurability 100 / 100\n29" }
+entries[55193] = { ["name"] = "Rhino Charge", ["text"] = "Instant\nIncreases the caster's movement speed by 75% and causes it to inflict an additional 4 damage on its first attack." }
+entries[55196] = { ["name"] = "Stomp", ["text"] = "Melee Range\nInstant\nDeals 100 damage and reduces the target's armor by 50%." }
+entries[55197] = { ["name"] = "Charged Disk", ["text"] = "5 yd range\n3 sec cast\nIssues a summons to Archivist Mechaton, the guardian of Norgannon's Shell." }
+entries[55199] = { ["name"] = "Cloak of Tormented Skies", ["text"] = "2 sec cast\nReagents:\nHeavy Borean Leather (6), Crystallized Air (5), Crystallized Water (5)\nOptional Reagents:\nOptional Reagent Slot (#48)\nProfession Trainer:\nNorthrend Leatherworking (20)\nCost:\n75\n\nCloak of Tormented Skies\nBinds when equipped\nBack\n3 Armor\n+2 Strength\n+3 Stamina\n+ 2 Dodge\n+ 6 Versatility\n28" }
+entries[55200] = { ["name"] = "Sturdy Cobalt Quickblade", ["text"] = "2.5 sec cast\nTools: Blacksmith Hammer\nReagents:\nCobalt Bar (8)\nOptional Reagents:\nOptional Reagent Slot (#47)\nProfession Trainer:\nNorthrend Blacksmithing (5)\nCost:\n15\n\nSturdy Cobalt Quickblade\nBinds when equipped\nOne-Hand Sword\n4 - 7 Damage Speed 2.60\n(2.1 damage per second)\n+2 [Agility or Strength] + 3 Critical Strike\nDurability 75 / 75\n27" }
+entries[55201] = { ["name"] = "Cobalt Tenderizer", ["text"] = "2.5 sec cast\nTools: Blacksmith Hammer\nReagents:\nCobalt Bar (8)\nOptional Reagents:\nOptional Reagent Slot (#47)\nProfession Trainer:\nNorthrend Blacksmithing (5)\nCost:\n15\n\nCobalt Tenderizer\nBinds when equipped\nOne-Hand Mace\n4 - 6 Damage Speed 2.60\n(1.9 damage per second)\n+3 Agility\n+ 3 Haste\nDurability 75 / 75\n27" }
+entries[55203] = { ["name"] = "Forged Cobalt Claymore", ["text"] = "2.5 sec cast\nTools: Blacksmith Hammer\nReagents:\nCobalt Bar (10)\nOptional Reagents:\nOptional Reagent Slot (#47)\nProfession Trainer:\nNorthrend Blacksmithing (10)\nCost:\n30\n\nForged Cobalt Claymore\nBinds when equipped\nTwo-Hand Sword\n7 - 13 Damage Speed 3.60\n(2.8 damage per second)\n+5 Strength\n+ 5 Haste\nDurability 85 / 85\n28" }
+entries[55204] = { ["name"] = "Notched Cobalt War Axe", ["text"] = "2.5 sec cast\nTools: Blacksmith Hammer\nReagents:\nCobalt Bar (10)\nOptional Reagents:\nOptional Reagent Slot (#48)\nProfession Trainer:\nNorthrend Blacksmithing (15)\nCost:\n50\n\nNotched Cobalt War Axe\nBinds when equipped\nOne-Hand Axe\n3 - 7 Damage Speed 2.60\n(1.9 damage per second)\n+2 [Agility or Strength] + 3 Critical Strike\nDurability 75 / 75\n28" }
+entries[55205] = { ["name"] = "Summon Phantom" }
+entries[55206] = { ["name"] = "Deadly Saronite Dirk", ["text"] = "2.5 sec cast\nTools: Blacksmith Hammer\nReagents:\nSaronite Bar (7), Crystallized Air (2)\nProfession Trainer:\nNorthrend Blacksmithing (5)\nCost:\n15\n\nDeadly Saronite Dirk\nBinds when equipped\nUnknown Thrown\nDurability 65 / 65\n29" }
+entries[55208] = { ["name"] = "Smelt Titansteel", ["text"] = "1.5 sec cast\nReagents:\nTitanium Bar (3), Eternal Fire , Eternal Earth , Eternal Shadow\nAllows the miner to smelt a titanium bar and eternal elements into a titansteel bar. Requires a forge.\nProfession Trainer:\nNorthrend Mining (75)\nCost:\n3\n50\n\nTitansteel Bar\nCrafting Reagent" }
+entries[55209] = { ["name"] = "Death Coil", ["text"] = "45 yd range\nInstant 8 sec cooldown\nDeals 1399 Shadow damage to a nearby random target." }
+entries[55210] = { ["name"] = "Death Coil", ["text"] = "45 yd range\nInstant 8 sec cooldown\nHeals a nearby Undead target for 12% of their maximum health." }
+entries[55211] = { ["name"] = "Smelt Titanium", ["text"] = "1.5 sec cast\nReagents:\nTitanium Ore (2)\nAllows the miner to smelt 2 titanium ore into a titanium bar. Requires a forge.\nProfession Trainer:\nNorthrend Mining (75)\nCost:\n3\n50\n\nTitanium Bar\nCrafting Reagent" }
+entries[55212] = { ["name"] = "Blood Presence", ["text"] = "Instant\nStrengthens the Death Knight with the presence of blood, increasing damage by 15% and reducing the chance that you will be critically hit by melee attacks by 6%." }
+entries[55213] = { ["name"] = "Hysteria", ["text"] = "45 yd range\nInstant\nInduces a friendly unit into a killing frenzy for 30 sec, increasing their physical damage by 40%, but causing them to suffer damage equal to 1% of their maximum health every second." }
+entries[55214] = { ["name"] = "Speed Burst", ["text"] = "Instant 15 sec cooldown\nIncrease flight speed by 100% for 8 sec." }
+entries[55215] = { ["name"] = "Burst of Speed", ["text"] = "Instant\nDoubles the Proto-drakes flight speed for a short time." }
+entries[55216] = { ["name"] = "Avalanche", ["text"] = "45 yd range\nInstant\nInflicts 525 Frost damage." }
+entries[55217] = { ["name"] = "Throw Spear", ["text"] = "8 - 40 yd range\nInstant\nThrows a weapon at an enemy, inflicting Physical damage." }
+entries[55218] = { ["name"] = "Stampede", ["text"] = "Unlimited range\n1 sec cast 2 sec cooldown\nSummons a Rhino Spirit which charges to a player, inflicting 0 Physical damage and knocking them into the air." }
+entries[55219] = { ["name"] = "Stampede", ["text"] = "Unlimited range\nInstant\nSummons a Rhino Spirit which charges to a player, inflicting 0 Physical damage and knocking them into the air." }
+entries[55220] = { ["name"] = "Stampede", ["text"] = "Unlimited range\nInstant\nSummons a Rhino Spirit which charges your target, dealing 36 damage and knocking them into the air." }
+entries[55221] = { ["name"] = "Stampede", ["text"] = "Unlimited range\nInstant\nSummons a Rhino Spirit which charges to a player, inflicting 0 Physical damage and knocking them into the air." }
+entries[55222] = { ["name"] = "Unholy Presence", ["text"] = "Instant\nIncreases melee attack speed by 20%." }
+entries[55223] = { ["name"] = "Free Rageclaw" }
+entries[55224] = { ["name"] = "Archivist's Scan", ["text"] = "Unlimited range\n1.1 sec cast\nScan the target to establish identity as Mimir." }
+entries[55227] = { ["name"] = "Rescue Freed Prisoner", ["text"] = "20 yd range\nInstant\nDirects the Proto-Drake to grab a Liberated Brunnhildar. (Proto - Drake can carry up to three additional passengers.)" }
+entries[55228] = { ["name"] = "Periodic Proto-Landing B" }
+entries[55229] = { ["name"] = "Begin Approach B" }
+entries[55230] = { ["name"] = "Periodic Proto-Landing C" }
+entries[55231] = { ["name"] = "Begin Approach C" }
+entries[55233] = { ["name"] = "Vampiric Blood", ["text"] = "Instant 1.5 min cooldown\nEmbrace your undeath, increasing your maximum health by 30% and increasing all healing and absorbs received by 30 % for 10 sec ." }
+entries[55238] = { ["name"] = "Fly Transition", ["text"] = "Instant" }
+entries[55240] = { ["name"] = "Towering Chains", ["text"] = "100 yd range\nInstant\nEncases the targets in chains, dealing 4 Physical damage every 1 sec. and stunning the target for 5 sec." }
+entries[55241] = { ["name"] = "Towering Chains ME" }
+entries[55244] = { ["name"] = "Proto Drake Chain Channel" }
+entries[55245] = { ["name"] = "The Rugged Marksman", ["text"] = "Instant\nGives 8 additional stamina to party members within 30 yards." }
+entries[55246] = { ["name"] = "Comfy Racoonskin Hat", ["text"] = "Instant\nGives 8 additional stamina to party members within 30 yards." }
+entries[55247] = { ["name"] = "Cap of the North", ["text"] = "Instant\nGives 8 additional stamina to party members within 30 yards." }
+entries[55248] = { ["name"] = "Grizzled Hat", ["text"] = "Instant\nGives 8 additional stamina to party members within 30 yards." }
+entries[55249] = { ["name"] = "Whirling Slash", ["text"] = "Instant\nSpins around in a whirlwind of steel, dealing 0 Physical damage to all nearby enemies and causing them to Bleed for an additional 0 damage per 3 sec, for 9 sec." }
+entries[55250] = { ["name"] = "Whirling Slash", ["text"] = "Instant 7 sec cooldown\nSpins around in a whirlwind of steel, dealing 0 Physical damage to all nearby enemies and causing them to Bleed for an additional 0 damage per 3 sec, for 6 sec." }
+entries[55251] = { ["name"] = "Towering Horror Knockback, Self Stun" }
+entries[55252] = { ["name"] = "Scrapbot Construction Kit", ["text"] = "2 sec cast\nReagents:\nSaronite Bar (10)\nQuest:\nThe Prototype Console\nZone:\nThe Storm Peaks\n\nQuest:\nThe Scrapbot Construction Kit\nZone:\nThe Storm Peaks\n\n(5)\nUse: Creates a mechanical Scrapbot that repairs equipment and buys nearly anything. The scrapbot leaves after 5 min. (15 Min Cooldown)\nRequires Northrend Engineering\n(50)" }
+entries[55253] = { ["name"] = "Force Cast Initial Proto-Drake" }
+entries[55254] = { ["name"] = "Scrapbot Construction Kit" }
+entries[55255] = { ["name"] = "Plague Strike", ["text"] = "Melee Range\nInstant\nA vicious strike that deals weapon damage and plagues the target, dealing 1450 Shadow damage over 12 sec." }
+entries[55256] = { ["name"] = "Increase Critical Healing Effect 3%", ["text"] = "Increases your critical healing effect by 3%." }
+entries[55257] = { ["name"] = "Despawn Bunny" }
+entries[55263] = { ["name"] = "Harpy Dive", ["text"] = "60 yd range\nInstant\nJumps at the target, inflicting 123% weapon damage." }
+entries[55264] = { ["name"] = "Blood Plague", ["text"] = "Melee Range\nInstant\nA vicious strike that deals weapon damage and plagues the target, dealing 1450 Shadow damage over 12 sec." }
+entries[55266] = { ["name"] = "Whirlwind", ["text"] = "45 yd range\nChanneled (6 sec cast) 18 sec cooldown\nAttacks nearby enemies in a whirlwind of steel that lasts 6 sec and inflicts 100% of normal damage on each spin." }
+entries[55267] = { ["name"] = "Whirlwind", ["text"] = "Instant\nAttacks nearby enemies in a whirlwind of steel that inflicts 100% of normal damage." }
+entries[55269] = { ["name"] = "Deathly Stare", ["text"] = "100 yd range\n1 sec cast\nFires a beam of shadow energy at The Ocular's enemies." }
+entries[55274] = { ["name"] = "Siege Shell", ["text"] = "60 yd range\n3 sec cast\nInflicts Physical damage to an enemy." }
+entries[55275] = { ["name"] = "2% Maximum Mana", ["text"] = "Increases your maximum mana by 2%." }
+entries[55276] = { ["name"] = "Puncture", ["text"] = "Instant\nThrusts the caster's spear into the target, bypassing armor and dealing 0 Physical damage. In addition, the target will bleed for an additional 0 damage every 3 sec for 2 min." }
+entries[55279] = { ["name"] = "Thrusters" }
+entries[55280] = { ["name"] = "Low Burn", ["text"] = "Instant\nThrusters on a low burn. Descending slowly." }
+entries[55281] = { ["name"] = "Toy Plane Cable" }
+entries[55283] = { ["name"] = "+1% Shield Block Value", ["text"] = "Increases the amount of damage absorbed by your shield by 1%." }
+entries[55284] = { ["name"] = "Siege Ram", ["text"] = "Melee Range\nInstant\nDamages opponent and knocks them back." }
+entries[55285] = { ["name"] = "Enrage", ["text"] = "Instant\nAttack speed increased by 100% for 8 sec." }
+entries[55286] = { ["name"] = "Thrusters" }
+entries[55287] = { ["name"] = "Autokill Hawk" }
+entries[55288] = { ["name"] = "It's All Fun and Games: The Ocular On Death" }
+entries[55289] = { ["name"] = "It's All Fun and Games: The Ocular Kill Credit" }
+entries[55290] = { ["name"] = "Hurl Ice Club" }
+entries[55291] = { ["name"] = "Periodic Club Throw" }
+entries[55292] = { ["name"] = "Stomp", ["text"] = "Instant\nStomps the ground, inflicting 0 Physical damage and knocking enemies away from the caster." }
+entries[55293] = { ["name"] = "Amani War Bear", ["text"] = "1.5 sec cast\nSummons and dismisses a rideable Amani War Bear." }
+entries[55294] = { ["name"] = "Dismount Deathcharger", ["text"] = "10 yd range\nInstant\nSummons a Deathcharger Steed." }
+entries[55295] = { ["name"] = "Club Impact" }
+entries[55296] = { ["name"] = "Drink Wine", ["text"] = "Instant\nA typical alcoholic beverage." }
+entries[55297] = { ["name"] = "Transform" }
+entries[55298] = { ["name"] = "Vengeance Bindings", ["text"] = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nSaronite Bar (12), Eternal Fire\nOptional Reagents:\nOptional Reagent Slot (#50)\nProfession Trainer:\nNorthrend Blacksmithing (45)\nCost:\n1\n75\n\nVengeance Bindings\nBinds when equipped\nWrist Plate\n8 Armor\n+3 [Strength or Intellect] + 3 Critical Strike\n+ 2 Haste\nDurability 50 / 50\n29" }
+entries[55299] = { ["name"] = "Transform" }
+entries[55300] = { ["name"] = "Righteous Gauntlets", ["text"] = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nSaronite Bar (12), Eternal Water\nOptional Reagents:\nOptional Reagent Slot (#50)\nProfession Trainer:\nNorthrend Blacksmithing (45)\nCost:\n1\n75\n\nRighteous Gauntlets\nBinds when equipped\nHands Plate\n9 Armor\n+4 [Strength or Intellect]+3 Stamina\n+ 3 Critical Strike\nDurability 50 / 50\n29" }
+entries[55301] = { ["name"] = "Daunting Handguards", ["text"] = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nSaronite Bar (12), Eternal Earth\nOptional Reagents:\nOptional Reagent Slot (#50)\nProfession Trainer:\nNorthrend Blacksmithing (45)\nCost:\n1\n75\n\nDaunting Handguards\nBinds when equipped\nHands Plate\n9 Armor\n+2 [Strength or Intellect]+4 Stamina\n+ 6 Dodge\nDurability 50 / 50\n29" }
+entries[55302] = { ["name"] = "Helm of Command", ["text"] = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nSaronite Bar (14), Eternal Fire\nOptional Reagents:\nOptional Reagent Slot (#50)\nProfession Trainer:\nNorthrend Blacksmithing (50)\nCost:\n2\n\nHelm of Command\nBinds when equipped\nHead Plate\n12 Armor\n+6 [Strength or Intellect] + 5 Critical Strike\n+ 4 Haste\nDurability 85 / 85\n29" }
+entries[55303] = { ["name"] = "Daunting Legplates", ["text"] = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nSaronite Bar (14), Eternal Earth\nOptional Reagents:\nOptional Reagent Slot (#50)\nProfession Trainer:\nNorthrend Blacksmithing (50)\nCost:\n2\n\nDaunting Legplates\nBinds when equipped\nLegs Plate\n14 Armor\n+3 [Strength or Intellect]+5 Stamina\n+ 8 Dodge\nDurability 100 / 100\n29" }
+entries[55304] = { ["name"] = "Righteous Greaves", ["text"] = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nSaronite Bar (14), Eternal Water\nOptional Reagents:\nOptional Reagent Slot (#50)\nProfession Trainer:\nNorthrend Blacksmithing (50)\nCost:\n2\n\nRighteous Greaves\nBinds when equipped\nLegs Plate\n14 Armor\n+5 [Strength or Intellect]+5 Stamina\n+ 5 Critical Strike\nDurability 100 / 100\n29" }
+entries[55305] = { ["name"] = "Savage Saronite Bracers", ["text"] = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nSaronite Bar (12), Eternal Air\nOptional Reagents:\nOptional Reagent Slot (#50)\nProfession Trainer:\nNorthrend Blacksmithing (45)\nCost:\n1\n75\n\nSavage Saronite Bracers\nBinds when equipped\nWrist Plate\n8 Armor\n+2 [Strength or Intellect]+3 Stamina\n+ 2 Critical Strike\n+ 3 Versatility\nDurability 50 / 50\n29\n\nSavage Saronite Battlegear (0/8)\nSavage Saronite Bracers\nSavage Saronite Gauntlets\nSavage Saronite Hauberk\nSavage Saronite Legplates\nSavage Saronite Pauldrons\nSavage Saronite Skullshield\nSavage Saronite Waistguard\nSavage Saronite Walkers" }
+entries[55306] = { ["name"] = "Savage Saronite Pauldrons", ["text"] = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nSaronite Bar (12), Eternal Water\nOptional Reagents:\nOptional Reagent Slot (#50)\nProfession Trainer:\nNorthrend Blacksmithing (45)\nCost:\n1\n75\n\nSavage Saronite Pauldrons\nBinds when equipped\nShoulder Plate\n11 Armor\n+3 [Strength or Intellect]+4 Stamina\n+ 4 Critical Strike\n+ 2 Versatility\nDurability 85 / 85\n29\n\nSavage Saronite Battlegear (0/8)\nSavage Saronite Bracers\nSavage Saronite Gauntlets\nSavage Saronite Hauberk\nSavage Saronite Legplates\nSavage Saronite Pauldrons\nSavage Saronite Skullshield\nSavage Saronite Waistguard\nSavage Saronite Walkers" }
+entries[55307] = { ["name"] = "Savage Saronite Waistguard", ["text"] = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nSaronite Bar (12), Eternal Water\nOptional Reagents:\nOptional Reagent Slot (#50)\nProfession Trainer:\nNorthrend Blacksmithing (65)\nCost:\n2\n75\n\nSavage Saronite Waistguard\nBinds when equipped\nWaist Plate\n9 Armor\n+3 [Strength or Intellect]+2 Stamina\n+ 4 Critical Strike\n+ 5 Versatility\nDurability 50 / 50\n29\n\nSavage Saronite Battlegear (0/8)\nSavage Saronite Bracers\nSavage Saronite Gauntlets\nSavage Saronite Hauberk\nSavage Saronite Legplates\nSavage Saronite Pauldrons\nSavage Saronite Skullshield\nSavage Saronite Waistguard\nSavage Saronite Walkers" }
+entries[55308] = { ["name"] = "Savage Saronite Walkers", ["text"] = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nSaronite Bar (12), Eternal Shadow\nOptional Reagents:\nOptional Reagent Slot (#50)\nProfession Trainer:\nNorthrend Blacksmithing (45)\nCost:\n1\n75\n\nSavage Saronite Walkers\nBinds when equipped\nFeet Plate\n10 Armor\n+2 [Strength or Intellect]+3 Stamina\n+ 5 Critical Strike\n+ 4 Versatility\nDurability 65 / 65\n29\n\nSavage Saronite Battlegear (0/8)\nSavage Saronite Bracers\nSavage Saronite Gauntlets\nSavage Saronite Hauberk\nSavage Saronite Legplates\nSavage Saronite Pauldrons\nSavage Saronite Skullshield\nSavage Saronite Waistguard\nSavage Saronite Walkers" }
+entries[55309] = { ["name"] = "Savage Saronite Gauntlets", ["text"] = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nSaronite Bar (12), Eternal Fire\nOptional Reagents:\nOptional Reagent Slot (#50)\nProfession Trainer:\nNorthrend Blacksmithing (45)\nCost:\n1\n75\n\nSavage Saronite Gauntlets\nBinds when equipped\nHands Plate\n9 Armor\n+3 [Strength or Intellect]+4 Stamina\n+ 2 Critical Strike\n+ 4 Versatility\nDurability 50 / 50\n29\n\nSavage Saronite Battlegear (0/8)\nSavage Saronite Bracers\nSavage Saronite Gauntlets\nSavage Saronite Hauberk\nSavage Saronite Legplates\nSavage Saronite Pauldrons\nSavage Saronite Skullshield\nSavage Saronite Waistguard\nSavage Saronite Walkers" }
+entries[55310] = { ["name"] = "Savage Saronite Legplates", ["text"] = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nSaronite Bar (14), Eternal Air\nOptional Reagents:\nOptional Reagent Slot (#50)\nProfession Trainer:\nNorthrend Blacksmithing (50)\nCost:\n2\n\nSavage Saronite Legplates\nBinds when equipped\nLegs Plate\n14 Armor\n+3 [Strength or Intellect]+6 Stamina\n+ 4 Critical Strike\n+ 5 Versatility\nDurability 100 / 100\n29\n\nSavage Saronite Battlegear (0/8)\nSavage Saronite Bracers\nSavage Saronite Gauntlets\nSavage Saronite Hauberk\nSavage Saronite Legplates\nSavage Saronite Pauldrons\nSavage Saronite Skullshield\nSavage Saronite Waistguard\nSavage Saronite Walkers" }
+entries[55311] = { ["name"] = "Savage Saronite Hauberk", ["text"] = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nSaronite Bar (14), Eternal Earth\nOptional Reagents:\nOptional Reagent Slot (#50)\nProfession Trainer:\nNorthrend Blacksmithing (50)\nCost:\n2\n\nSavage Saronite Hauberk\nBinds when equipped\nChest Plate\n16 Armor\n+4 [Strength or Intellect]+6 Stamina\n+ 3 Critical Strike\n+ 3 Versatility\nDurability 140 / 140\n29\n\nSavage Saronite Battlegear (0/8)\nSavage Saronite Bracers\nSavage Saronite Gauntlets\nSavage Saronite Hauberk\nSavage Saronite Legplates\nSavage Saronite Pauldrons\nSavage Saronite Skullshield\nSavage Saronite Waistguard\nSavage Saronite Walkers" }
+entries[55312] = { ["name"] = "Savage Saronite Skullshield", ["text"] = "2.5 sec cast\nTools: Blacksmith Hammer\nReagents:\nSaronite Bar (14), Eternal Shadow\nOptional Reagents:\nOptional Reagent Slot (#50)\nProfession Trainer:\nNorthrend Blacksmithing (50)\nCost:\n2\n\nSavage Saronite Skullshield\nBinds when equipped\nHead Plate\n12 Armor\n+2 [Strength or Intellect]+5 Stamina\n+ 6 Critical Strike\n+ 5 Versatility\nDurability 85 / 85\n29\n\nSavage Saronite Battlegear (0/8)\nSavage Saronite Bracers\nSavage Saronite Gauntlets\nSavage Saronite Hauberk\nSavage Saronite Legplates\nSavage Saronite Pauldrons\nSavage Saronite Skullshield\nSavage Saronite Waistguard\nSavage Saronite Walkers" }
+entries[55313] = { ["name"] = "Icy Touch", ["text"] = "20 yd range\nInstant\nDeals 817 Frost damage and reduces the target's ranged, melee attack, and casting speed by 35% for 8 sec." }
+entries[55314] = { ["name"] = "Strangulate", ["text"] = "50 yd range\n1 sec cast\nInflicts 186 Shadow damage every sec for 4 sec. Silences the enemy, preventing it from casting spells for 4 sec." }
+entries[55315] = { ["name"] = "Bone Armor", ["text"] = "10% of base mana\nInstant\nEncases the caster in bone armor, absorbing 9388 damage for 1 min. While the armor holds, spellcasting cannot be interrupted by Physical attacks." }
+entries[55316] = { ["name"] = "Ravenous Hunger", ["text"] = "100 yd range\nInstant\nInstantly fills you with a hunger for the living." }
+entries[55317] = { ["name"] = "Charge", ["text"] = "5 - 45 yd range\nInstant\nCharges an enemy, inflicting 35% of the caster's normal damage." }
+entries[55318] = { ["name"] = "Pierce Armor", ["text"] = "Melee Range\nNext Melee 45 sec cooldown\nReduces an enemy's armor by 50% for 10 sec." }
+entries[55319] = { ["name"] = "Brutal Swipe", ["text"] = "10 yd range\nInstant\nDo 6154 Physical damage divided up evenly among all affected targets." }
+entries[55320] = { ["name"] = "Death Coil", ["text"] = "45 yd range\nInstant 6 sec cooldown\nDeals 1399 Shadow damage to a nearby random target." }
+entries[55321] = { ["name"] = "Plague Strike", ["text"] = "Melee Range\nInstant\nA vicious strike that deals weapon damage and plagues the target, dealing 5436 Shadow damage over 12 sec." }
+entries[55322] = { ["name"] = "Blood Plague", ["text"] = "Melee Range\nInstant\nA vicious strike that deals weapon damage and plagues the target, dealing 5436 Shadow damage over 12 sec." }
+entries[55323] = { ["name"] = "Shadow Bolt Volley", ["text"] = "30 yd range\nInstant\nHurls missiles of dark magic, inflicting 616 Shadow damage to nearby enemies." }
+entries[55324] = { ["name"] = "Brutal Swipe", ["text"] = "10 yd range\nInstant\nDo 12307 Physical damage divided up evenly among all affected targets." }
+entries[55325] = { ["name"] = "Dismount Rhino", ["text"] = "10 yd range\nInstant\nSummons an angry rhino." }
+entries[55331] = { ["name"] = "Icy Touch", ["text"] = "20 yd range\nInstant\nDeals 1539 Frost damage and reduces the target's ranged, melee attack, and casting speed by 35% for 8 sec." }
+entries[55334] = { ["name"] = "Strangulate", ["text"] = "50 yd range\n1 sec cast\nInflicts 373 Shadow damage every sec for 4 sec. Silences the enemy, preventing it from casting spells for 4 sec." }
+entries[55336] = { ["name"] = "Bone Armor", ["text"] = "10% of base mana\nInstant\nEncases the caster in bone armor, absorbing 225310 damage for 1 min. While the armor holds, spellcasting cannot be interrupted by Physical attacks." }
+entries[55337] = { ["name"] = "+2% Mana", ["text"] = "Increases your total Mana by 2%." }
+entries[55341] = { ["name"] = "Invigorating Earthsiege Health Regen", ["text"] = "Instant\nRestores 2% health." }
+entries[55342] = { ["name"] = "Mirror Image", ["text"] = "2% of base mana\nInstant 2 min cooldown\nCreates 3 copies of you nearby for 40 sec, which cast spells and attack your enemies.\n\nWhile your images are active damage taken is reduced by 20%. Taking direct damage will cause one of your images to dissipate.\n(2s cooldown)" }
+entries[55344] = { ["name"] = "2% Increased Armor Value from Items", ["text"] = "Increases your armor value from items by 2%." }
+entries[55345] = { ["name"] = "Reduce Spell Damage Taken by 2%", ["text"] = "Reduces spell damage taken by 2%." }
+entries[55346] = { ["name"] = "Dark Jade Focusing Lens", ["text"] = "60 yd range\nChanneled (30 sec cast)\nProjects a dark green targeting beam onto your current target." }
+entries[55348] = { ["name"] = "Throw", ["text"] = "45 yd range\n1.5 sec cast\nThrows your weapon, inflicting 125 Physical damage on the target." }
+entries[55349] = { ["name"] = "Siphon Power", ["text"] = "30 yd range\nChanneled (4 sec cast)\nDrawing the power of the target." }
+entries[55350] = { ["name"] = "Siphoned Power", ["text"] = "Instant\nIncreases the caster's attack and cast speed by 50% for 30 sec." }
+entries[55352] = { ["name"] = "Summon Lo'Gosh" }
+entries[55353] = { ["name"] = "WotLK Prolgoue - Lo'Gosh Ghost Effect" }
+entries[55357] = { ["name"] = "Fear Duration Reduced by 10%", ["text"] = "Reduces the duration of any Fear effects used against the wearer by 10%. This effect does not stack with other similar effects." }
+entries[55358] = { ["name"] = "Stun Duration Reduced by 10%" }
+entries[55363] = { ["name"] = "Create Gooey Ghoul Drool" }
+entries[55364] = { ["name"] = "Create Ghoul Drool Cover" }
+entries[55365] = { ["name"] = "Varian Leap" }
+entries[55366] = { ["name"] = "Silence Duration Reduced by 10%", ["text"] = "Reduces the duration of any Silence effects on you by 10%. This effect does not stack with other similar effects." }
+entries[55367] = { ["name"] = "Varian Leap" }
+entries[55368] = { ["name"] = "Summon Stefan", ["text"] = "Instant\nSummons Stefan Vadu to the Reliquary of Pain in Zul'Drak." }
+entries[55369] = { ["name"] = "Titansteel Destroyer", ["text"] = "2.5 sec cast\nTools: Blacksmith Hammer\nReagents:\nSaronite Bar (8), Titansteel Bar (8), Frozen Orb (2)\nProfession Trainer:\nNorthrend Blacksmithing (65)\nCost:\n2\n75\n\nTitansteel Destroyer\nBinds when equipped\nUnique-EquippedTwo-Hand Mace\n9 - 12 Damage Speed 3.60\n(2.9 damage per second)\n+6 Strength\n+5 Stamina\n+ 4 Critical Strike\nDurability 120 / 120\n30" }
+entries[55370] = { ["name"] = "Titansteel Bonecrusher", ["text"] = "2.5 sec cast\nTools: Blacksmith Hammer\nReagents:\nSaronite Bar (6), Titansteel Bar (6), Frozen Orb (2)\nProfession Trainer:\nNorthrend Blacksmithing (65)\nCost:\n2\n75\n\nTitansteel Bonecrusher\nBinds when equipped\nUnique-EquippedOne-Hand Mace\n5 - 7 Damage Speed 2.60\n(2.3 damage per second)\n+2 [Agility or Strength]+3 Stamina\n+ 2 Critical Strike\nDurability 110 / 110\n30" }
+entries[55371] = { ["name"] = "Titansteel Guardian", ["text"] = "2.5 sec cast\nTools: Blacksmith Hammer\nReagents:\nSaronite Bar (6), Titansteel Bar (6), Frozen Orb (2)\nProfession Trainer:\nNorthrend Blacksmithing (65)\nCost:\n2\n75\n\nTitansteel Guardian\nBinds when equipped\nUnique-EquippedOne-Hand Mace\n2 - 3 Damage Speed 2.60\n(1.0 damage per second)\n+12 Intellect\n+3 Stamina\n+ 2 Critical Strike\nDurability 110 / 110\n30" }
+entries[55372] = { ["name"] = "Spiked Titansteel Helm", ["text"] = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nSaronite Bar (4), Titansteel Bar (4), Frozen Orb\nProfession Trainer:\nNorthrend Blacksmithing (65)\nCost:\n2\n75\n\nSpiked Titansteel Helm\nBinds when equipped\nHead Plate\n12 Armor\n+4 [Strength or Intellect] + 3 Critical Strike\n+ 4 Haste\n\nMeta Socket\nPrismatic Socket\nSocket Bonus: + 2 Critical Strike\n\nDurability 100 / 100\n30" }
+entries[55373] = { ["name"] = "Tempered Titansteel Helm", ["text"] = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nSaronite Bar (4), Titansteel Bar (4), Frozen Orb\nProfession Trainer:\nNorthrend Blacksmithing (65)\nCost:\n2\n75\n\nTempered Titansteel Helm\nBinds when equipped\nHead Plate\n12 Armor\n+3 [Strength or Intellect]+7 Stamina\n+ 3 Dodge\n\nMeta Socket\nPrismatic Socket\nSocket Bonus: + 2 Dodge\n\nDurability 100 / 100\n30" }
+entries[55374] = { ["name"] = "Brilliant Titansteel Helm", ["text"] = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nSaronite Bar (4), Titansteel Bar (4), Frozen Orb\nProfession Trainer:\nNorthrend Blacksmithing (65)\nCost:\n2\n75\n\nBrilliant Titansteel Helm\nBinds when equipped\nHead Plate\n12 Armor\n+4 [Strength or Intellect] + 4 Critical Strike\n+ 4 Versatility\n\nMeta Socket\nPrismatic Socket\nSocket Bonus: + 2 Critical Strike\n\nDurability 100 / 100\n30" }
+entries[55375] = { ["name"] = "Spiked Titansteel Treads", ["text"] = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nSaronite Bar (4), Titansteel Bar (3), Frozen Orb\nProfession Trainer:\nNorthrend Blacksmithing (65)\nCost:\n2\n75\n\nSpiked Titansteel Treads\nBinds when equipped\nFeet Plate\n10 Armor\n+4 [Strength or Intellect]+3 Stamina\n+ 2 Critical Strike\nDurability 80 / 80\n30" }
+entries[55376] = { ["name"] = "Tempered Titansteel Treads", ["text"] = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nSaronite Bar (4), Titansteel Bar (3), Frozen Orb\nProfession Trainer:\nNorthrend Blacksmithing (65)\nCost:\n2\n75\n\nTempered Titansteel Treads\nBinds when equipped\nFeet Plate\n10 Armor\n+2 [Strength or Intellect]+5 Stamina\n+ 2 Dodge\nDurability 80 / 80\n30" }
+entries[55377] = { ["name"] = "Brilliant Titansteel Treads", ["text"] = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nSaronite Bar (4), Titansteel Bar (3), Frozen Orb\nProfession Trainer:\nNorthrend Blacksmithing (65)\nCost:\n2\n75\n\nBrilliant Titansteel Treads\nBinds when equipped\nFeet Plate\n10 Armor\n+4 [Strength or Intellect] + 2 Critical Strike\n+ 3 Versatility\nDurability 80 / 80\n30" }
+entries[55378] = { ["name"] = "Reduces Snare/Root Duration by 10%", ["text"] = "Reduces Snare/Root Duration by 10%\nDecreases the duration of movement impairing effects by 10%." }
+entries[55379] = { ["name"] = "Skyflare Swiftness", ["text"] = "Instant\nIncreases melee and ranged haste by 182 for 6 sec." }
+entries[55380] = { ["name"] = "Skyflare Swiftness", ["text"] = "(40s cooldown)" }
+entries[55381] = { ["name"] = "Chance to Restore Mana on Spellcast", ["text"] = "2% chance on successful spellcast to restore 114 mana.\n(Proc chance: 5%, 15s cooldown)" }
+entries[55382] = { ["name"] = "Mana Restore", ["text"] = "Instant\nRestores 600 mana." }
+entries[55383] = { ["name"] = "Summon Frostborn Axemaster" }
+entries[55384] = { ["name"] = "Shielded Skyflare Diamond", ["text"] = "2 sec cast\nTools: Jeweler's Tools\nReagents:\nSkyflare Diamond\nVendor:\nAnuur\nZone:\nIcecrown\nCost:\n5\n\nVendor:\nTiffany Cartier\nZone:\nDalaran\nCost:\n5\n\nShielded Skyflare Diamond\n+ 3 Stamina and Reduce Spell Damage Taken by 2%\n\"Only fits in a meta gem slot.\"" }
+entries[55385] = { ["name"] = "Summon Persistence Waypoint 00", ["text"] = "Instant\nSummons Stefan Vadu to the Reliquary of Pain in Zul'Drak." }
+entries[55386] = { ["name"] = "Tireless Skyflare Diamond", ["text"] = "2 sec cast\nTools: Jeweler's Tools\nReagents:\nSkyflare Diamond\nProfession Trainer:\nNorthrend Jewelcrafting (45)\nCost:\n1\n75\n\nTireless Skyflare Diamond\n+ 3 Intellect and Minor Run Speed Increase\n\"Only fits in a meta gem slot.\"" }
+entries[55387] = { ["name"] = "Forlorn Skyflare Diamond", ["text"] = "2 sec cast\nTools: Jeweler's Tools\nReagents:\nSkyflare Diamond\nVendor:\nChampion Ros'slai\nZone:\nWintergrasp\nCost:\n1\n\nForlorn Skyflare Diamond\n+ 3 Intellect and Silence Duration Reduced by 10%\n\"Only fits in a meta gem slot.\"" }
+entries[55388] = { ["name"] = "Impassive Skyflare Diamond", ["text"] = "2 sec cast\nTools: Jeweler's Tools\nReagents:\nSkyflare Diamond\nVendor:\nChampion Ros'slai\nZone:\nWintergrasp\nCost:\n1\n\nImpassive Skyflare Diamond\n+ 3 Critical Strike and Fear Duration Reduced by 10%\n\"Only fits in a meta gem slot.\"" }
+entries[55389] = { ["name"] = "Chaotic Skyflare Diamond", ["text"] = "2 sec cast\nTools: Jeweler's Tools\nReagents:\nSkyflare Diamond\nVendor:\nAnuur\nZone:\nIcecrown\nCost:\n5\n\nVendor:\nTiffany Cartier\nZone:\nDalaran\nCost:\n5\n\nChaotic Skyflare Diamond\n+ 3 Critical Strike and 3% Increased Critical Effect\n\"Only fits in a meta gem slot.\"" }
+entries[55390] = { ["name"] = "Destructive Skyflare Diamond", ["text"] = "2 sec cast\nTools: Jeweler's Tools\nReagents:\nSkyflare Diamond\nDrop:\nWorld Creatures\n\nTreasure:\nWorld Drop\n\nDestructive Skyflare Diamond\n+ 3 Critical Strike and 1% Spell Reflect\n\"Only fits in a meta gem slot.\"" }
+entries[55391] = { ["name"] = "Summon Persistence Waypoint 01" }
+entries[55392] = { ["name"] = "Ember Skyflare Diamond", ["text"] = "2 sec cast\nTools: Jeweler's Tools\nReagents:\nSkyflare Diamond\nVendor:\nAnuur\nZone:\nIcecrown\nCost:\n5\n\nVendor:\nTiffany Cartier\nZone:\nDalaran\nCost:\n5\n\nEmber Skyflare Diamond\n+ 3 Intellect and +2% Maximum Mana\n\"Only fits in a meta gem slot.\"" }
+entries[55393] = { ["name"] = "Enigmatic Skyflare Diamond", ["text"] = "2 sec cast\nTools: Jeweler's Tools\nReagents:\nSkyflare Diamond\nVendor:\nChampion Ros'slai\nZone:\nWintergrasp\nCost:\n1\n\nEnigmatic Skyflare Diamond\n+ 3 Critical Strike and Reduces Snare/Root Duration by 10%\n\"Only fits in a meta gem slot.\"" }
+entries[55394] = { ["name"] = "Swift Skyflare Diamond", ["text"] = "2 sec cast\nTools: Jeweler's Tools\nReagents:\nSkyflare Diamond\nProfession Trainer:\nNorthrend Jewelcrafting (45)\nCost:\n1\n75\n\nSwift Skyflare Diamond\n+ 3 Critical Strike and Minor Run Speed Increase\n\"Only fits in a meta gem slot.\"" }
+entries[55395] = { ["name"] = "Thundering Skyflare Diamond", ["text"] = "2 sec cast\nTools: Jeweler's Tools\nReagents:\nSkyflare Diamond\nDrop:\nWorld Creatures\n\nTreasure:\nWorld Drop\n\nThundering Skyflare Diamond\nChance to Increase Melee/Ranged Attack Speed\n\"Only fits in a meta gem slot.\"" }
+entries[55396] = { ["name"] = "Insightful Earthsiege Diamond", ["text"] = "2 sec cast\nTools: Jeweler's Tools\nReagents:\nEarthsiege Diamond\nVendor:\nAnuur\nZone:\nIcecrown\nCost:\n5\n\nVendor:\nTiffany Cartier\nZone:\nDalaran\nCost:\n5\n\nInsightful Earthsiege Diamond\n+ 3 Intellect and Chance to restore mana on spellcast\n\"Only fits in a meta gem slot.\"" }
+entries[55397] = { ["name"] = "Bracing Earthsiege Diamond", ["text"] = "2 sec cast\nTools: Jeweler's Tools\nReagents:\nEarthsiege Diamond\nTreasure:\nCache of Eregos\nZone:\nThe Occulus\n\nBracing Earthsiege Diamond\n+ 3 Intellect and 2% Reduced Threat\n\"Only fits in a meta gem slot.\"" }
+entries[55398] = { ["name"] = "Eternal Earthsiege Diamond", ["text"] = "2 sec cast\nTools: Jeweler's Tools\nReagents:\nEarthsiege Diamond\nDrop:\nLoken\nZone:\nHalls of Lightning\n\nEternal Earthsiege Diamond\n+ 3 Dodge and +1% Shield Block Value\n\"Only fits in a meta gem slot.\"" }
+entries[55399] = { ["name"] = "Powerful Earthsiege Diamond", ["text"] = "2 sec cast\nTools: Jeweler's Tools\nReagents:\nEarthsiege Diamond\nProfession Trainer:\nNorthrend Jewelcrafting (45)\nCost:\n1\n75\n\nPowerful Earthsiege Diamond\n+ 3 Stamina and Stun Duration Reduced by 10%\n\"Only fits in a meta gem slot.\"" }
+entries[55400] = { ["name"] = "Relentless Earthsiege Diamond", ["text"] = "2 sec cast\nTools: Jeweler's Tools\nReagents:\nEarthsiege Diamond\nVendor:\nAnuur\nZone:\nIcecrown\nCost:\n5\n\nVendor:\nTiffany Cartier\nZone:\nDalaran\nCost:\n5\n\nRelentless Earthsiege Diamond\n+ 3 Agility and 3% Increased Critical Effect\n\"Only fits in a meta gem slot.\"" }
+entries[55401] = { ["name"] = "Austere Earthsiege Diamond", ["text"] = "2 sec cast\nTools: Jeweler's Tools\nReagents:\nEarthsiege Diamond\nDrop:\nKing Ymiron\nZone:\nUtgarde Pinnacle\n\nAustere Earthsiege Diamond\n+ 3 Stamina and 2% Increased Armor Value from Items\n\"Only fits in a meta gem slot.\"" }
+entries[55402] = { ["name"] = "Persistent Earthsiege Diamond", ["text"] = "2 sec cast\nTools: Jeweler's Tools\nReagents:\nEarthsiege Diamond\nProfession Trainer:\nNorthrend Jewelcrafting (45)\nCost:\n1\n75\n\nPersistent Earthsiege Diamond\n+ 3 Critical Strike and Stun Duration Reduced by 10%\n\"Only fits in a meta gem slot.\"" }
+entries[55403] = { ["name"] = "Trenchant Earthsiege Diamond", ["text"] = "2 sec cast\nTools: Jeweler's Tools\nReagents:\nEarthsiege Diamond\nVendor:\nAnuur\nZone:\nIcecrown\nCost:\n5\n\nVendor:\nTiffany Cartier\nZone:\nDalaran\nCost:\n5\n\nTrenchant Earthsiege Diamond\n+ 3 Intellect and Stun Duration Reduced by 10%\n\"Only fits in a meta gem slot.\"" }
+entries[55404] = { ["name"] = "Invigorating Earthsiege Diamond", ["text"] = "2 sec cast\nTools: Jeweler's Tools\nReagents:\nEarthsiege Diamond\nVendor:\nAnuur\nZone:\nIcecrown\nCost:\n5\n\nVendor:\nTiffany Cartier\nZone:\nDalaran\nCost:\n5\n\nInvigorating Earthsiege Diamond\n+ 3 Haste and Sometimes Heal on Your Crits\n\"Only fits in a meta gem slot.\"" }
+entries[55405] = { ["name"] = "Beaming Earthsiege Diamond", ["text"] = "2 sec cast\nTools: Jeweler's Tools\nReagents:\nEarthsiege Diamond\nDrop:\nWorld Creatures\n\nTreasure:\nWorld Drop\n\nBeaming Earthsiege Diamond\n+ 3 Critical Strike and +2% Mana\n\"Only fits in a meta gem slot.\"" }
+entries[55406] = { ["name"] = "Despawn Stefan" }
+entries[55407] = { ["name"] = "Revitalizing Skyflare Diamond", ["text"] = "2 sec cast\nTools: Jeweler's Tools\nReagents:\nSkyflare Diamond\nVendor:\nAnuur\nZone:\nIcecrown\nCost:\n5\n\nVendor:\nTiffany Cartier\nZone:\nDalaran\nCost:\n5\n\nRevitalizing Skyflare Diamond\n+ 3 Versatility and 3% Increased Critical Effect\n\"Only fits in a meta gem slot.\"" }
+entries[55408] = { ["name"] = "Navarius CustomSpell01" }
+entries[55409] = { ["name"] = "The Shadow Vault: Phase Shift II" }
+entries[55410] = { ["name"] = "Clearquests" }
+entries[55411] = { ["name"] = "Clearquest" }
+entries[55412] = { ["name"] = "Clearquest" }
+entries[55413] = { ["name"] = "Clearquest" }
+entries[55414] = { ["name"] = "Frozen Deathbolt", ["text"] = "1200 Mana Unlimited range\nInstant 0.5 sec cooldown\nFires a frozen deathbolt at enemy targets, inflicting 880 damage to all humans and 2346 damage to ballistas." }
+entries[55415] = { ["name"] = "On Voltarus" }
+entries[55416] = { ["name"] = "Light as a Feather", ["text"] = "6% of base mana Unlimited range\nInstant\nSlows falling speed for 1 min." }
+entries[55417] = { ["name"] = "Flaming Arrow" }
+entries[55418] = { ["name"] = "Kill Credit Aura" }
+entries[55419] = { ["name"] = "Vargul Plaguebolt", ["text"] = "Unlimited range\n5 sec cast\nA bolt of plague pulled directly from the shriveled heart of the Vargul. Used to torture enemies." }
+entries[55420] = { ["name"] = "Dalaran Firework", ["text"] = "Instant 2 sec cooldown\nShoots a firework into the air that bursts into a thousand purple stars." }
+entries[55421] = { ["name"] = "Gymer's Throw", ["text"] = "150 yd range\nInstant\nThrows the Vargul that Gymer is holding in his hand. Will explode on impact!" }
+entries[55423] = { ["name"] = "Chromie Whisper" }
+entries[55424] = { ["name"] = "Grabbed" }
+entries[55425] = { ["name"] = "Throw" }
+entries[55426] = { ["name"] = "Gymer's Smash", ["text"] = "30 Energy 10 yd range\nInstant 1 sec cooldown\nGymer smashes his fist into the ground, causing 109 damage to all enemies in a 12 yard radius." }
+entries[55427] = { ["name"] = "Gymer's Smash" }
+entries[55429] = { ["name"] = "Gymer's Roar", ["text"] = "50 Energy\nInstant 5 sec cooldown\nGymer lets lose a deafening roar, knocking back all enemies in front of him." }
+entries[55430] = { ["name"] = "Gymer's Buddy", ["text"] = "Unlimited range\nInstant\nRiding Gymer the Storm Giant." }
+entries[55431] = { ["name"] = "Summon Gymer" }
+entries[55432] = { ["name"] = "Kill Flowers" }
+entries[55433] = { ["name"] = "Summon Flower" }
+entries[55434] = { ["name"] = "Zul'Drak Invisibility Master (NPC)" }
+entries[55435] = { ["name"] = "Zul'Drak Invisibility Master (PC)" }
+entries[55457] = { ["name"] = "Ride Frostbite Primer" }
+entries[55460] = { ["name"] = "Ride Frostbite", ["text"] = "Instant" }
+entries[55461] = { ["name"] = "Storm's Fury", ["text"] = "(Proc chance: 5%, 20s cooldown)" }
+entries[55462] = { ["name"] = "Storm's Fury", ["text"] = "Instant\nPhysical damage dealt is increased by 50%.\nAttack speed increased by 100%." }
+entries[55463] = { ["name"] = "Whirlwind", ["text"] = "Channeled (2 sec cast)\nAttacks nearby enemies in a whirlwind of steel that lasts 2 sec. and inflicts 100% weapon damage." }
+entries[55465] = { ["name"] = "Dim Location Ping" }
+entries[55466] = { ["name"] = "Dim Location Periodic" }
+entries[55467] = { ["name"] = "Arcane Explosion", ["text"] = "0.5 sec cast\nSends out a blast wave of magic, inflicting 615 Arcane damage to nearby enemies." }
+entries[55468] = { ["name"] = "Savage Hill Gnoll Ping" }
+entries[55470] = { ["name"] = "Unbalancing Strike", ["text"] = "Melee Range\nInstant\nRequires Melee Weapon\nInflicts 350% weapon damage and leaves the target unbalanced, increasing their chance to be critically struck for 6 sec." }
+entries[55473] = { ["name"] = "Jump!" }
+entries[55474] = { ["name"] = "Cosmetic - Sleep Zzz" }
+entries[55475] = { ["name"] = "Grow Flower Patch" }
+entries[55476] = { ["name"] = "Frostbite Boss Emote" }
+entries[55477] = { ["name"] = "Frostbite Boss Emote 2" }
+entries[55478] = { ["name"] = "Increased Spell Penetration 9", ["text"] = "Increases your spell penetration by 9." }
+entries[55479] = { ["name"] = "Force Obedience" }
+entries[55481] = { ["name"] = "Mind Exhaustion", ["text"] = "100 yd range\nInstant\nPrevents use of Obedience Crystals." }
+entries[55486] = { ["name"] = "Collapsing Cave", ["text"] = "Unlimited range\nInstant\nThe cave is collapsing!" }
+entries[55510] = { ["name"] = "Frost Spit", ["text"] = "50 yd range\nChanneled (4 sec cast)\nInflicts 3 Frost damage every 1 sec." }
+entries[55511] = { ["name"] = "Frost Spit", ["text"] = "100 yd range\nInstant\nFrost damage inflicted every 1.3 sec for 6.5 sec." }
+entries[55512] = { ["name"] = "Call of Earth", ["text"] = "30 yd range\nInstant\nSummons a group of Earthen that will swarm an Iron Giant or Fire Giant near Dun Niffelem." }
+entries[55516] = { ["name"] = "Gymer's Grab", ["text"] = "30 yd range\nInstant 10 sec cooldown\nGymer will grab a Vargul that he can then use as a living weapon! Also used to grab Storm Clouds so that Gymer can replenish his health and energy." }
+entries[55517] = { ["name"] = "Ghoul Crush" }
+entries[55518] = { ["name"] = "Leap" }
+entries[55519] = { ["name"] = "Ghoul Crush", ["text"] = "8 yd range\nInstant 5 sec cooldown\nCrushes all reanimated corpes and ghouls in front of Gymer. Gymer CRUSH!" }
+entries[55520] = { ["name"] = "Obedience Chains" }
+entries[55521] = { ["name"] = "Poisoned Spear", ["text"] = "60 yd range\n1.5 sec cast\nDeals 75 Nature damage and an additional 25 Nature damage every 3 sec. for 21 sec." }
+entries[55522] = { ["name"] = "Place Explosive Bundle", ["text"] = "10 yd range\n2 sec cast\nPlace the hardpacked explosive bundle near Frostgut's Altar in the back of Garm." }
+entries[55524] = { ["name"] = "Hurl Ice Club2" }
+entries[55525] = { ["name"] = "Blowing Up Gymer's Lock", ["text"] = "5 yd range\n2 sec cast\nBlows up Gymer's cage lock." }
+entries[55526] = { ["name"] = "Rhino Ride", ["text"] = "25 yd range\nInstant\nGrab a passenger and pull them inside." }
+entries[55527] = { ["name"] = "Rhino Ride Effect" }
+entries[55528] = { ["name"] = "Summon Earthen" }
+entries[55529] = { ["name"] = "Gymer Lock Explosion" }
+entries[55530] = { ["name"] = "Charge", ["text"] = "Unlimited range\nInstant\nCharges an enemy, inflicting normal damage plus a bonus." }
+entries[55531] = { ["name"] = "Mechano-Hog", ["text"] = "1.5 sec cast\nRides and parks a badass Mechano-Hog.\n\"Difficult to build and to maintain, these hogs more than make up for their expense through sheer cool factor.\"\nProfession:\nEngineering" }
+entries[55534] = { ["name"] = "Gem Perfection", ["text"] = "Gives the Jewelcrafter the chance to cut uncommon quality Northrend gems into perfect gems." }
+entries[55536] = { ["name"] = "Frostweave Net", ["text"] = "35 yd range\nInstant\nCaptures a target up to 35 yards away in a net for 3 sec." }
+entries[55543] = { ["name"] = "Disrupting Shout", ["text"] = "Instant\nScream fiercely, dealing 1016 Physical damage to nearby enemies." }
+entries[55549] = { ["name"] = "Healing Winds", ["text"] = "Unlimited range\nInstant\nHeals 10% health and restores 100 energy every 2 seconds." }
+entries[55550] = { ["name"] = "Jagged Knife", ["text"] = "5 - 45 yd range\nInstant\nHurls a dagger at an enemy, inflicting 1128 Physical damage immediately and 410 damage every 1 sec. for 5 sec." }
+entries[55563] = { ["name"] = "Slam Ground", ["text"] = "1 sec cast\nInflicts normal damage plus 100 to nearby enemies and knocks them back." }
+entries[55564] = { ["name"] = "Increase Versatility 15", ["text"] = "Azerite Power\nIncreases your Versatility by 7 ." }
+entries[55565] = { ["name"] = "Increase Spell Power 15", ["text"] = "Increases Intellect by 7 ." }
+entries[55567] = { ["name"] = "Powerful Blow", ["text"] = "Melee Range\nNext Melee\nInfilicts 150% weapon damage to an enemy." }
+entries[55568] = { ["name"] = "Summon Gymer (Force)" }
+entries[55569] = { ["name"] = "Vargul Explosion" }
+entries[55571] = { ["name"] = "Vargul Explosion" }
+entries[55578] = { ["name"] = "Brann Signal to Self" }
+entries[55579] = { ["name"] = "Trigger Brann Signal" }
+entries[55580] = { ["name"] = "Mana Link" }
+entries[55581] = { ["name"] = "Mana Link", ["text"] = "Unlimited range\nInstant\nDrains mana from the target." }
+entries[55582] = { ["name"] = "Mana Link", ["text"] = "40 yd range\nChanneled (20 sec cast)\nEstablishes a mana link to the target, causing spells you cast to draw from the linked target's mana pool instead of your own. Lasts 20 sec." }
+entries[55586] = { ["name"] = "WotLK - Frost Wyrm - Shoot Wurm, Rifle" }
+entries[55587] = { ["name"] = "Tuskarr Turtle Rider CustomSpell01" }
+entries[55588] = { ["name"] = "WotLK - Frost Wyrm - Shoot Wurm, Find Loc, Rifle" }
+entries[55589] = { ["name"] = "Brann: Force player to speak 1" }
+entries[55590] = { ["name"] = "Brann: Force player to speak 2" }
+entries[55591] = { ["name"] = "Freeze Anim" }
+entries[55592] = { ["name"] = "Clean", ["text"] = "5 yd range\nInstant\nGroom your Companion Pet to a glossy shine." }
+entries[55593] = { ["name"] = "Necrotic Aura", ["text"] = "Instant\nA wave of necrotic energy fills the room, completely preventing all healing effects for 17 sec." }
+entries[55594] = { ["name"] = "Deathbloom", ["text"] = "Instant\nInflicts 1 Nature damage every 1 sec. for 6 sec, followed by an additional 6 Nature damage." }
+entries[55595] = { ["name"] = "Increase Spell Power 15", ["text"] = "Increases your Intellect by 7 ." }
+entries[55596] = { ["name"] = "Increase Stamina 25", ["text"] = "Increases your Stamina by 12 ." }
+entries[55597] = { ["name"] = "Healing Wave", ["text"] = "750 Mana 40 yd range\n2 sec cast\nHeals a friendly target, restoring 25% health." }
+entries[55598] = { ["name"] = "Cleanse Magic", ["text"] = "30 yd range\nInstant 10 sec cooldown\nDispels magic on an ally, removing 1 harmful spell." }
+entries[55599] = { ["name"] = "Earth Shield", ["text"] = "40 yd range\nInstant\nProtects the target with an earthen shield, causing melee attacks to heal the shielded target. This effect can only occur once every few seconds. 6 charges. Lasts 10 min.\n(3.5s cooldown)" }
+entries[55600] = { ["name"] = "Earth Shield", ["text"] = "Instant\nHeals the caster for 10% of their maximum health." }
+entries[55601] = { ["name"] = "Deathbloom", ["text"] = "Instant\nInflicts 8 Nature damage every 5.2 sec. for until canceled, followed by an additional 8 Nature damage." }
+entries[55602] = { ["name"] = "Vicious Bite", ["text"] = "Melee Range\nInstant\nBites an enemy, inflicting Physical damage." }
+entries[55603] = { ["name"] = "Puncturing Strike", ["text"] = "Melee Range\nInstant\nGives the caster's melee attacks a 35% chance of puncturing the enemy, wounding the target causing them to bleed.\n(Proc chance: 35%, 1s cooldown)" }
+entries[55604] = { ["name"] = "Death Plague", ["text"] = "Melee Range\nNext Melee\nInflicts Nature damage to an enemy every 3 sec. for 15 sec." }
+entries[55605] = { ["name"] = "Puncturing Strike", ["text"] = "Melee Range\nInstant\nInflicts Physical damage to an enemy every 3 sec. for 12 sec." }
+entries[55606] = { ["name"] = "Unholy Aura", ["text"] = "Instant\nCauses the caster to automatically inflict 72 Shadow damage every 2 sec. to nearby enemies. The aura lasts until cancelled." }
+entries[55607] = { ["name"] = "Unholy Aura", ["text"] = "Instant\nDeals 72 Shadow damage to all enemies within 45 yards." }
+entries[55608] = { ["name"] = "Unholy Aura", ["text"] = "Instant\nCauses the caster to automatically inflict 103 Shadow damage every 2 sec. to nearby enemies. The aura lasts until cancelled." }
+entries[55609] = { ["name"] = "Unholy Aura", ["text"] = "Instant\nDeals 103 Shadow damage to all enemies within 45 yards." }
+entries[55611] = { ["name"] = "Goblin Miner Escort Start" }
+entries[55612] = { ["name"] = "Goblin Miner Quest Ready" }
+entries[55613] = { ["name"] = "Flame Shock", ["text"] = "110 Mana 20 yd range\nInstant\nInstantly burns an enemy, then inflicts additional Fire damage every 3 sec. for 12 sec." }
+entries[55616] = { ["name"] = "Goblin Miner Quest Complete" }
+entries[55622] = { ["name"] = "Impale", ["text"] = "Melee Range\nInstant\nInflicts Physical damage to an enemy and causes it to Bleed for additional damage every 2 sec. for 8 sec." }
+entries[55624] = { ["name"] = "Arcane Shot", ["text"] = "75 Mana 45 yd range\nInstant 6 sec cooldown\nRequires Ranged Weapon\nShoots an enemy, inflicting Arcane damage." }
+entries[55625] = { ["name"] = "Tranquilizing Shot", ["text"] = "35 yd range\nInstant\nRequires Ranged Weapon\nAttempts to remove 1 Enrage effect from an enemy target." }
+entries[55626] = { ["name"] = "Mojo Wave", ["text"] = "1 sec cast\nSends a wave of Mojo surging through enemies in a line, inflicting Nature damage and additional damage every 3 sec for 9 sec." }
+entries[55627] = { ["name"] = "Mojo Puddle", ["text"] = "Instant\nInflicts 0 Nature damage every 1 sec." }
+entries[55629] = { ["name"] = "First Lieutenant", ["text"] = "Instant\nDefeating 10 combatants in the battle for Wintergrasp has promoted you to the rank of First Lieutenant." }
+entries[55630] = { ["name"] = "Shining Spellthread", ["text"] = "4 sec cast\nRequires Pants\nPermanently embroiders spellthread into pants, increasing spell power by 3 and Versatility by 2.\n\nEnchanting the item causes it to become soulbound. Cannot be applied to items higher than level 320." }
+entries[55631] = { ["name"] = "Brilliant Spellthread", ["text"] = "4 sec cast\nRequires Pants\nPermanently embroiders spellthread into pants, increasing spell power by 3 and Versatility by 3.\n\nEnchanting the item causes it to become soulbound. Cannot be applied to items higher than level 320." }
+entries[55632] = { ["name"] = "Azure Spellthread", ["text"] = "4 sec cast\nRequires Pants\nPermanently embroiders spellthread into pants, increasing spell power by 3 and Stamina by 3.\n\nEnchanting the item causes it to become soulbound. Cannot be applied to items higher than level 320." }
+entries[55633] = { ["name"] = "Body of Stone", ["text"] = "2 sec cast 22 sec cooldown\nIncreases the caster's damage dealt by 50% for 12 sec, but increases the time between its attacks by 50%. The caster cannot move while Body of Stone is active." }
+entries[55634] = { ["name"] = "Sapphire Spellthread", ["text"] = "4 sec cast\nRequires Pants\nPermanently embroiders spellthread into pants, increasing spell power by 4 and Stamina by 3.\n\nEnchanting the item causes it to become soulbound. Cannot be applied to items higher than level 320." }
+entries[55635] = { ["name"] = "Thunderclap", ["text"] = "1.5 sec cast\nInflicts Nature damage to nearby enemies, increasing the time between their attacks by 25% and slowing their movement speed for 10 sec." }
+entries[55636] = { ["name"] = "Shockwave", ["text"] = "Melee Range\n2 sec cast 20 sec cooldown\nSends a wave of force in front of the golem, inflicting 0 Physical damage and stunning enemies for 2 sec." }
+entries[55638] = { ["name"] = "Shadow Bolt Volley", ["text"] = "1.5 sec cast\nHurls missiles of dark magic, inflicting Shadow damage to nearby enemies." }
+entries[55639] = { ["name"] = "Gymer 50%" }
+entries[55643] = { ["name"] = "Regurgitate", ["text"] = "Melee Range\n1.5 sec cast 1 min cooldown\nInflicts 0 Nature damage and drains 0 mana every 1 sec for 3 sec." }
+entries[55644] = { ["name"] = "Stampede!", ["text"] = "Instant\nThose are some large mammoths!" }
+entries[55645] = { ["name"] = "Death Plague", ["text"] = "Melee Range\nNext Melee\nInflicts Nature damage to an enemy every 3 sec. for 15 sec." }
+entries[55646] = { ["name"] = "Drain Life", ["text"] = "20 yd range\nChanneled (5 sec cast)\nDrains 2238 health from an enemy over 5 sec., transferring it to the caster." }
+entries[55647] = { ["name"] = "Frost Oil", ["text"] = "30 yd range\nInstant\nThrow freezing oil at Plagued Proto-Drake eggs to destroy them." }
+entries[55648] = { ["name"] = "Unholy Frenzy", ["text"] = "30 yd range\nInstant\nIncreases an ally's attack speed by 50% for 20 sec.." }
+entries[55649] = { ["name"] = "Gymer 15%" }
+entries[55652] = { ["name"] = "Spring", ["text"] = "5 - 30 yd range\nInstant\nLeap at a distant target." }
+entries[55653] = { ["name"] = "Dust Cloud Impact (Bigger) Loop" }
+entries[55655] = { ["name"] = "Eternal Belt Buckle", ["text"] = "4 sec cast\nRequires Belt\nPermanently attach an eternal belt buckle onto a belt, adding a socket to the belt.\n\nAttaching the belt buckle causes the item to become soulbound. Cannot be used on items level 0 or higher." }
+entries[55656] = { ["name"] = "Eternal Belt Buckle", ["text"] = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nSaronite Bar (4), Eternal Earth , Eternal Water , Eternal Shadow\nProfession Trainer:\nNorthrend Blacksmithing (40)\nCost:\n1\n50\n\nEternal Belt Buckle\nUse: Permanently attach an eternal belt buckle onto a belt, adding a socket to the belt.\n\nAttaching the belt buckle causes the item to become soulbound. Cannot be used on items level 0 or higher.\n27" }
+entries[55659] = { ["name"] = "Lava Burst", ["text"] = "30 yd range\n2 sec cast 12 sec cooldown\nThe caster hurls molten lava at the target, inflicting Fire damage. If Flame Shock is on the target, Lava Burst will consume the Flame Shock, causing Lava Burst to deal double damage." }
+entries[55660] = { ["name"] = "Navarius Kill Credit" }
+entries[55661] = { ["name"] = "Algar Kill Credit" }
+entries[55662] = { ["name"] = "Thrym Kill Credit" }
+entries[55663] = { ["name"] = "Deafening Roar", ["text"] = "Instant\nDeals 50 physical damage and silences enemies for 2 sec." }
+entries[55664] = { ["name"] = "Cosmetic - Drunken Intoxication (Visual Only)", ["text"] = "Instant\nDrunken Visual Only." }
+entries[55665] = { ["name"] = "Life Drain", ["text"] = "Instant\nDrains 933 health and heals Sapphiron for 933 every 3 sec for 12 sec." }
+entries[55676] = { ["name"] = "Petrifying Scream", ["text"] = "Psychic Scream causes enemies to tremble in place instead of fleeing in fear.\nModifies Effect #2's Value -4:\nPandemonium , Psychic Scream" }
+entries[55693] = { ["name"] = "Remove Collapsing Cave Aura" }
+entries[55695] = { ["name"] = "Goblin Teleporter: to K3" }
+entries[55696] = { ["name"] = "Tail Sweep", ["text"] = "30 yd range\nInstant\nInflicts 513 damage on enemies in a cone behind the caster, knocking them back." }
+entries[55697] = { ["name"] = "Tail Sweep", ["text"] = "30 yd range\nInstant\nInflicts 410 damage on enemies in a cone behind the caster, knocking them back." }
+entries[55699] = { ["name"] = "Chill", ["text"] = "Instant\nInflicts 29 Frost damage every 2 sec., and slows movement speed by 50% to enemies in the area of the effect." }
+entries[55700] = { ["name"] = "Venom Spit", ["text"] = "30 yd range\n2 sec cast\nSpits poison at an enemy, inflicting Nature damage, then additional damage every 2 sec. for 10 sec." }
+entries[55701] = { ["name"] = "Cosmetic - Sleep Zzz Breakable" }
+entries[55703] = { ["name"] = "Cobra Strike", ["text"] = "Melee Range\n2 sec cast\nStrikes at an enemy, dealing 0 Physical damage." }
+entries[55704] = { ["name"] = "Lava Burst", ["text"] = "150 Mana 30 yd range\n2 sec cast\nYou hurl molten lava at the target, dealing Fire damage." }
+entries[55705] = { ["name"] = "Mine Enchanted Earth", ["text"] = "5 yd range\n3 sec cast\nMine Enchanted Earth." }
+entries[55706] = { ["name"] = "Sinister Shield", ["text"] = "Instant\nReduces all damage taken by 20%." }
+entries[55707] = { ["name"] = "Summon Remote-Controlled Plane", ["text"] = "10 yd range\nInstant\nZooooooooooooooooooom... BOOM!" }
+entries[55708] = { ["name"] = "Storm Cloud Visual" }
+entries[55709] = { ["name"] = "Heart of the Phoenix", ["text"] = "Instant 8 min cooldown\nWhen used, your pet will miraculously return to life with full health." }
+entries[55711] = { ["name"] = "Weakened Heart", ["text"] = "Instant\nYour pet cannot use Heart of the Phoenix." }
+entries[55712] = { ["name"] = "Summon Scripted Eagle" }
+entries[55713] = { ["name"] = "Dark Blast" }
+entries[55714] = { ["name"] = "Dark Blast", ["text"] = "Instant\nDeals 26 Shadow damage to all enemies." }
+entries[55715] = { ["name"] = "Torn Earth", ["text"] = "30 yd range\n2 sec cast\nA spike of earth inflicts 14 Nature damage and knocks the enemy in the air." }
+entries[55716] = { ["name"] = "Victorious Challenger Dummy" }
+entries[55717] = { ["name"] = "Wail of Souls" }
+entries[55718] = { ["name"] = "Clutch of Death", ["text"] = "Instant\nUses the power of death to draw all enemies near." }
+entries[55719] = { ["name"] = "Death Grip", ["text"] = "Unlimited range\nInstant 35 sec cooldown\nHarness the unholy energy that surrounds and binds all matter, drawing the target toward the Death Knight and forcing the enemy to attack the Death Knight for until canceled." }
+entries[55720] = { ["name"] = "You're a...! (NPC)" }
+entries[55721] = { ["name"] = "You're a...! (NPC)" }
+entries[55722] = { ["name"] = "You're a...! (NPC)" }
+entries[55723] = { ["name"] = "You're a...! (NPC)" }
+entries[55724] = { ["name"] = "You're a...! (NPC)" }
+entries[55725] = { ["name"] = "You're a...! (NPC)" }
+entries[55726] = { ["name"] = "You're a...! (NPC)" }
+entries[55727] = { ["name"] = "You're a...! (NPC)" }
+entries[55731] = { ["name"] = "Pet Toy - Pet Grooming Kit - Sparkle Hand (L)" }
+entries[55735] = { ["name"] = "Chilled Shot", ["text"] = "Inflicts 2 additional Frost damage per shot." }
+entries[55736] = { ["name"] = "Chilled Shot", ["text"] = "Unlimited range\nInstant\nChilled Shot for 2 Frost damage." }
+entries[55738] = { ["name"] = "Pet Toy - Pet Grooming Kit - Sparkle Hand (R)" }
+entries[55739] = { ["name"] = "Pet Toy - Pet Grooming Kit - Sparkle Breath" }
+entries[55740] = { ["name"] = "Essence of the Red", ["text"] = "Instant\nThe blessing of Alexstrasza is applied to all allies nearby.\n\nRestores 83 Mana per second.\nRestores 50 Energy per second.\nGenerates 200 Rage per second.\nGenerates 200 Runic Power per second." }
+entries[55742] = { ["name"] = "Accelerated", ["text"] = "Instant\nModifies Cast Time -300:\nHeal" }
+entries[55743] = { ["name"] = "Lurch!", ["text"] = "Instant 30 sec cooldown\nGain a temporary burst of speed, to help catch your food." }
+entries[55745] = { ["name"] = "Fire Revenant Entrance" }
+entries[55747] = { ["name"] = "Argent Fury", ["text"] = "Your melee and ranged attacks have a chance to chastise your enemy, dealing 292 Holy damage.\n(Proc chance: 15%, 45s cooldown)" }
+entries[55748] = { ["name"] = "Argent Fury", ["text"] = "40 yd range\nInstant\nDeals 292 holy damage." }
+entries[55755] = { ["name"] = "Chilling Blow", ["text"] = "5 sec cooldown\nInflicts 2 additional Frost damage per swing." }
+entries[55756] = { ["name"] = "Chilling Blow", ["text"] = "Melee Range\nInstant\nInflicts 2 Frost damage." }
+entries[55759] = { ["name"] = "Earth Revenant Entrance" }
+entries[55760] = { ["name"] = "Water Revenant Entrance" }
+entries[55761] = { ["name"] = "Air Revenant Entrance" }
+entries[55762] = { ["name"] = "Orinoko's Leap" }
+entries[55763] = { ["name"] = "Tuskarr Smash", ["text"] = "1.3 sec cast\nSmashes all enemies in a 10 yard radius for 60 damage!" }
+entries[55765] = { ["name"] = "Wail of Souls", ["text"] = "40 yd range\nInstant\nInflicts 39 Shadow damage and knocks back enemies in front of the caster." }
+entries[55766] = { ["name"] = "Cosmetic - Boulder State" }
+entries[55770] = { ["name"] = "Earthen - Boulder Rush" }
+entries[55771] = { ["name"] = "Earthen - Boulder Rush (Charge)" }
+entries[55772] = { ["name"] = "Earthen - Boulder Rush (Knockback)" }
+entries[55773] = { ["name"] = "Horde Control Phase Shift" }
+entries[55774] = { ["name"] = "Alliance Control Phase Shift" }
+entries[55778] = { ["name"] = "Clearquests Aura" }
+entries[55779] = { ["name"] = "Clearquest Aura" }
+entries[55780] = { ["name"] = "Clearquest Aura" }
+entries[55781] = { ["name"] = "Clearquests Aura" }
+entries[55782] = { ["name"] = "Phase Shift 1: Foote Steppes" }
+entries[55783] = { ["name"] = "Phase Shift 2: Foote Steppes" }
+entries[55785] = { ["name"] = "Mammoth Jack", ["text"] = "40 yd range\nInstant\nYou have successfully mammoth jacked Enormos!" }
+entries[55787] = { ["name"] = "Teach" }
+entries[55788] = { ["name"] = "Falling Dragon" }
+entries[55790] = { ["name"] = "Gem Perfection", ["text"] = "100 yd range\n1 sec cast\nGives the Jewelcrafter the chance to cut uncommon quality Northrend gems into perfect gems." }
+entries[55795] = { ["name"] = "Falling Dragon Feign Death" }
+entries[55796] = { ["name"] = "Get the Key: Vaelen's Chains - Right Hand" }
+entries[55797] = { ["name"] = "Telluric Poultice", ["text"] = "10 yd range\nChanneled (8 sec cast)\nHeal the wounds of a Fallen Earthen Defender in the Snowdrift Plains. (10 sec. cooldown)" }
+entries[55798] = { ["name"] = "Flare", ["text"] = "50 yd range\nInstant\nExposes all hidden and invisible enemies within 10 yards of the targeted area for 30 sec." }
+entries[55799] = { ["name"] = "Frost Aura", ["text"] = "Instant\nDeals 298 frost damage every 2 sec." }
+entries[55800] = { ["name"] = "Torn Earth", ["text"] = "30 yd range\n2 sec cast\nA spike of earth inflicts 3 Nature damage and knocks the enemy in the air." }
+entries[55801] = { ["name"] = "Crystal Handler Death" }
+entries[55802] = { ["name"] = "Frostbolt", ["text"] = "200 Mana 40 yd range\n2 sec cast\nInflicts 6154 Frost damage to an enemy and reduces its movement speed by 50% for 4 sec." }
+entries[55803] = { ["name"] = "Crystal Handler Death" }
+entries[55804] = { ["name"] = "Healing Finished" }
+entries[55805] = { ["name"] = "Crystal Handler Death" }
+entries[55807] = { ["name"] = "Frostbolt", ["text"] = "300 Mana\nInstant 8 sec cooldown\nInflicts Frost damage to nearby enemies, reducing their movement speed for 4 sec." }
+entries[55808] = { ["name"] = "Aid of the Earthen", ["text"] = "Unlimited range\nInstant\nSummon Rejuvinated Defender to fight alongside the player." }
+entries[55809] = { ["name"] = "Trigger Aid of the Earthen" }
+entries[55810] = { ["name"] = "Boss Light Fire Portal State" }
+entries[55811] = { ["name"] = "Throw Boulder", ["text"] = "100 yd range\n2 sec cast\nHurls a boulder at an enemy, inflicting Physical damage." }
+entries[55812] = { ["name"] = "Flaming Harpoon", ["text"] = "100 yd range\nInstant 2 sec cooldown\nAim at stacks of hay near Valkyrion buildings to cause fires." }
+entries[55813] = { ["name"] = "Eck Bite", ["text"] = "Melee Range\nInstant\nEck bites down hard, inflicting Physical damage." }
+entries[55814] = { ["name"] = "Eck Spit", ["text"] = "25 yd range\n1.5 sec cast\nEck spits toxic bile at enemies in a cone in front of him, inflicting 0 Nature damage and draining 0 mana every 1 sec for 3 sec." }
+entries[55815] = { ["name"] = "Eck Spring", ["text"] = "35 yd range\n1 sec cast 5 sec cooldown\nEck leaps at a distant target." }
+entries[55816] = { ["name"] = "Eck Berserk", ["text"] = "Instant\nEck goes berserk, increasing his attack speed by 150% and all damage he deals by 500%." }
+entries[55817] = { ["name"] = "Eck Residue", ["text"] = "Unlimited range\nInstant\nResidue from Eck spit." }
+entries[55818] = { ["name"] = "Hurl Boulder", ["text"] = "35 yd range\nInstant\nReagents:\nGranite Boulder\nHurls a Granite Boulder at a targeted Stormforged Iron Giant, summoning a group of Earthen Ironbane dwarves to assist you in combat." }
+entries[55819] = { ["name"] = "Summon Iron Golem (Phase 1)" }
+entries[55820] = { ["name"] = "Dispose of Guardian" }
+entries[55821] = { ["name"] = "Massive Stomp", ["text"] = "Instant\nStomps the ground, dealing 1958 Physical damage to all nearby enemies and knocking them back." }
+entries[55822] = { ["name"] = "Summon Stormforged Warrior (Phase 1)" }
+entries[55823] = { ["name"] = "Force Cast Dispose of Guardian" }
+entries[55824] = { ["name"] = "Red Wyrmrest Warden Beam" }
+entries[55825] = { ["name"] = "Thunderstorm", ["text"] = "Instant\nYou call down a bolt of lightning inflicting 8 Nature damage to nearby enemies within 10 yards." }
+entries[55826] = { ["name"] = "Massive Stomp", ["text"] = "Instant\nStomps the ground, dealing 1492 Physical damage to all nearby enemies and knocking them back." }
+entries[55832] = { ["name"] = "Jump Land" }
+entries[55833] = { ["name"] = "Earthen Spawn Effect" }
+entries[55834] = { ["name"] = "Cobalt Bracers", ["text"] = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nCobalt Bar (4)\nOptional Reagents:\nOptional Reagent Slot (#31)\nProfession:\nBlacksmithing (1)Profession Trainer:\nNorthrend Blacksmithing (1)\nCost:\n10\n\nCobalt Bracers\nBinds when equipped\nWrist Plate\n7 Armor\n+2 [Strength or Intellect]+3 Stamina\n+ 6 Dodge\nDurability 40 / 40\n27" }
+entries[55835] = { ["name"] = "Cobalt Gauntlets", ["text"] = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nCobalt Bar (5)\nOptional Reagents:\nOptional Reagent Slot (#47)\nProfession Trainer:\nNorthrend Blacksmithing (1)\nCost:\n10\n\nCobalt Gauntlets\nBinds when equipped\nHands Plate\n8 Armor\n+3 [Strength or Intellect]+4 Stamina\n+ 4 Dodge\nDurability 40 / 40\n27" }
+entries[55836] = { ["name"] = "Titanium Weapon Chain", ["text"] = "3 sec cast\nAttaches a chain to your weapon, reducing the duration of Disarm effects by 50% and increasing your haste by 11. Does not stack with other similar effects. Attaching the weapon chain causes the weapon to become soulbound. Cannot be applied to items higher than level 320." }
+entries[55837] = { ["name"] = "Eck Spring", ["text"] = "Unlimited range\nInstant\nEck leaps at a distant target." }
+entries[55838] = { ["name"] = "Green Wyrmrest Warden Beam" }
+entries[55839] = { ["name"] = "Titanium Weapon Chain", ["text"] = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nSaronite Bar (2), Titanium Bar\nProfession Trainer:\nNorthrend Blacksmithing (45)\nCost:\n1\n75\n\nTitanium Weapon Chain\nUse: Attaches a chain to your weapon, reducing the duration of Disarm effects by 50% and increasing your haste by 11. Does not stack with other similar effects. Attaching the weapon chain causes the weapon to become soulbound. Cannot be applied to items higher than level 320.\n27" }
+entries[55840] = { ["name"] = "Blue Wyrmrest Warden Beam" }
+entries[55841] = { ["name"] = "Bronze Wyrmrest Warden Beam" }
+entries[55842] = { ["name"] = "Training Dummy" }
+entries[55843] = { ["name"] = "Training Dummy", ["text"] = "(1.399s cooldown)" }
+entries[55844] = { ["name"] = "End Fight, Garrosh" }
+entries[55845] = { ["name"] = "Power Spark" }
+entries[55847] = { ["name"] = "Shadow Void", ["text"] = "30 yd range\nInstant\nCreates a storm of shadow that lasts 10 sec, inflicting 530 Shadow damage every 1 sec." }
+entries[55848] = { ["name"] = "Invisibility", ["text"] = "Instant\nRenders the caster invisible." }
+entries[55849] = { ["name"] = "Power Spark", ["text"] = "Instant\nIncreases damage dealt of all enemies within 8 yards by 50% for 1 min." }
+entries[55850] = { ["name"] = "Shadow Bolt Volley", ["text"] = "30 yd range\nInstant\nHurls missiles of dark magic, inflicting Shadow damage to nearby enemies." }
+entries[55851] = { ["name"] = "Shadow Bolt Volley", ["text"] = "30 yd range\nInstant\nHurls missiles of dark magic, inflicting Shadow damage to nearby enemies." }
+entries[55852] = { ["name"] = "Power Spark" }
+entries[55853] = { ["name"] = "Vortex", ["text"] = "Unlimited range\nInstant\nSpins up a whirling vortex of Arcane energy, dealing 10 Arcane damage per second to all enemies caught inside of it." }
+entries[55856] = { ["name"] = "Corrode Flesh", ["text"] = "Melee Range\n2 sec cast\nCorrodes the enemy flesh, then inflicts additional Nature damage every 3 sec. for 15 sec." }
+entries[55857] = { ["name"] = "Phase Shift 1: Frost Giants" }
+entries[55858] = { ["name"] = "Phase Shift 2: Frost Giants" }
+entries[55859] = { ["name"] = "Jormungar Spawn", ["text"] = "Instant\nUpon death, the body of Yggdras splits, giving birth to his offspring." }
+entries[55860] = { ["name"] = "Shoveltusk Charge", ["text"] = "Instant\nIncreases movement speed by 60% for 5 sec." }
+entries[55861] = { ["name"] = "Rotate 360 (Fast)" }
+entries[55864] = { ["name"] = "Thunderblade", ["text"] = "30 yd range\nInstant\nSlashes a lightning charged weapon at the enemy, dealing 15% Stormstrike damage and then jumping to additional nearby enemies. Each jump reduces the damage by 30%. Affects 2 total targets." }
+entries[55865] = { ["name"] = "Cataclysm Copy", ["text"] = "Instant\nDeals 165 damage to all nearby Scourge." }
+entries[55866] = { ["name"] = "Thunderblade", ["text"] = "Instant\nSlashes a lightning charged weapon at the enemy, dealing Stormstrike damage and then jumping to additional nearby enemies. Each jump reduces the damage by 30%. Affects 2 total targets.\n(2s cooldown)" }
+entries[55867] = { ["name"] = "Stinky Beard", ["text"] = "Instant\nReduces an enemy's Stamina by 1% for 30 sec.\n\n\"He smelled even worse on the inside...\"" }
+entries[55868] = { ["name"] = "WotLK - Frost Wyrm - Frost Blast Frost Ground" }
+entries[55872] = { ["name"] = "Orb of Flame", ["text"] = "10 - 70 yd range\n2 sec cast 2 sec cooldown\nHurls a massive ball of flame." }
+entries[55873] = { ["name"] = "Vortex" }
+entries[55874] = { ["name"] = "Trigger Captive Mechagnome Signal" }
+entries[55875] = { ["name"] = "Captive Mechagnome Signal" }
+entries[55876] = { ["name"] = "Plague Contamination" }
+entries[55877] = { ["name"] = "Vendor - Throw Sack (Open at Top)" }
+entries[55878] = { ["name"] = "Flame Blast", ["text"] = "150 yd range\nInstant\nDeals 9 Fire damage to the target." }
+entries[55880] = { ["name"] = "Vendor - Throw Sack (Closed)" }
+entries[55881] = { ["name"] = "Hurricane", ["text"] = "150 yd range\nChanneled (10 sec cast)\nCreates a violent storm in the target area causing Nature damage to enemies every 5.2 sec, and increasing the time between the attacks of enemies by 67%. Lasts 10 sec." }
+entries[55882] = { ["name"] = "Orb of Storms", ["text"] = "10 - 70 yd range\n2 sec cast 2 sec cooldown\nHurls a massive ball of lightning." }
+entries[55883] = { ["name"] = "Vortex" }
+entries[55884] = { ["name"] = "Learning" }
+entries[55885] = { ["name"] = "Orb of Lightning", ["text"] = "150 yd range\nInstant\nDeals 7 Fire damage to the target." }
+entries[55886] = { ["name"] = "Boulder", ["text"] = "10 - 70 yd range\n2 sec cast 2 sec cooldown\nHurls a massive boulder at an enemy." }
+entries[55887] = { ["name"] = "Boulder", ["text"] = "150 yd range\nInstant\nDeals 11 damage to the target." }
+entries[55888] = { ["name"] = "Orb of Water", ["text"] = "10 - 70 yd range\n2 sec cast 2 sec cooldown\nHurls a massive ball of water." }
+entries[55889] = { ["name"] = "Orb of Frost", ["text"] = "150 yd range\nInstant\nDeals 6 Frost damage to the target, reducing their movement speed by 20%." }
+entries[55890] = { ["name"] = "Vendor - Throw - Request - Sack (Closed)" }
+entries[55891] = { ["name"] = "Flame Sphere Spawn Effect", ["text"] = "Instant\nSpawn in effect." }
+entries[55894] = { ["name"] = "Vendor - Throw - Request - Sack (Open at Top)" }
+entries[55895] = { ["name"] = "Flame Sphere Summon" }
+entries[55896] = { ["name"] = "Explosion" }
+entries[55898] = { ["name"] = "Frostweave Net", ["text"] = "2 sec cast\nReagents:\nFrostweave Cloth (6)\nProfession Trainer:\nNorthrend Tailoring (1)\nCost:\n10\n\n(5)\nUse: Captures a target up to 35 yards away in a net for 3 sec. (1 Min Cooldown)\nRequires Northrend Tailoring\n(1)" }
+entries[55899] = { ["name"] = "Bolt of Frostweave", ["text"] = "1.5 sec cast\nReagents:\nFrostweave Cloth (5)\nProfession:\nTailoring (1)Profession Trainer:\nNorthrend Tailoring (1)\nCost:\n10\n\nCrafting Reagent" }
+entries[55900] = { ["name"] = "Bolt of Imbued Frostweave", ["text"] = "1.5 sec cast\nReagents:\nBolt of Frostweave (2), Infinite Dust (2)\nProfession Trainer:\nNorthrend Tailoring (25)\nCost:\n1\n\nBolt of Imbued Frostweave\nCrafting Reagent" }
+entries[55901] = { ["name"] = "Duskweave Leggings", ["text"] = "2 sec cast\nReagents:\nBolt of Frostweave (8), Eternium Thread\nOptional Reagents:\nOptional Reagent Slot (#48)\nProfession Trainer:\nNorthrend Tailoring (20)\nCost:\n75\n\nDuskweave Leggings\nBinds when equipped\nLegs Cloth\n3 Armor\n+5 Intellect\n+5 Stamina\n+ 4 Haste\nDurability 85 / 85\n28\n\nDuskweaver (0/8)\nDuskweave Belt\nDuskweave Boots\nDuskweave Gloves\nDuskweave Cowl\nDuskweave Leggings\nDuskweave Robe\nDuskweave Shoulders\nDuskweave Wristwraps" }
+entries[55902] = { ["name"] = "Frostwoven Shoulders", ["text"] = "2 sec cast\nReagents:\nBolt of Frostweave (3), Eternium Thread\nOptional Reagents:\nOptional Reagent Slot (#31)\nProfession Trainer:\nNorthrend Tailoring (1)\nCost:\n10\n\nFrostwoven Shoulders\nBinds when equipped\nShoulder Cloth\n3 Armor\n+4 Intellect\n+3 Stamina\n+ 4 Versatility\nDurability 70 / 70\n27\n\nFrostwoven Power (0/8)\nFrostwoven Belt\nFrostwoven Boots\nFrostwoven Gloves\nFrostwoven Cowl\nFrostwoven Leggings\nFrostwoven Robe\nFrostwoven Shoulders\nFrostwoven Wristwraps" }
+entries[55903] = { ["name"] = "Frostwoven Robe", ["text"] = "2 sec cast\nReagents:\nBolt of Frostweave (4), Eternium Thread\nOptional Reagents:\nOptional Reagent Slot (#47)\nProfession Trainer:\nNorthrend Tailoring (1)\nCost:\n10\n\nFrostwoven Robe\nBinds when equipped\nChest Cloth\n4 Armor\n+5 Intellect\n+4 Stamina\n+ 5 Versatility\nDurability 115 / 115\n27\n\nFrostwoven Power (0/8)\nFrostwoven Belt\nFrostwoven Boots\nFrostwoven Gloves\nFrostwoven Cowl\nFrostwoven Leggings\nFrostwoven Robe\nFrostwoven Shoulders\nFrostwoven Wristwraps" }
+entries[55904] = { ["name"] = "Frostwoven Gloves", ["text"] = "2 sec cast\nReagents:\nBolt of Frostweave (3), Eternium Thread\nOptional Reagents:\nOptional Reagent Slot (#31)\nProfession Trainer:\nNorthrend Tailoring (1)\nCost:\n10\n\nFrostwoven Gloves\nBinds when equipped\nHands Cloth\n2 Armor\n+4 Intellect\n+3 Stamina\n+ 4 Versatility\nDurability 40 / 40\n27\n\nFrostwoven Power (0/8)\nFrostwoven Belt\nFrostwoven Boots\nFrostwoven Gloves\nFrostwoven Cowl\nFrostwoven Leggings\nFrostwoven Robe\nFrostwoven Shoulders\nFrostwoven Wristwraps" }
+entries[55906] = { ["name"] = "Frostwoven Boots", ["text"] = "2 sec cast\nReagents:\nBolt of Frostweave (4), Eternium Thread\nOptional Reagents:\nOptional Reagent Slot (#31)\nProfession Trainer:\nNorthrend Tailoring (1)\nCost:\n10\n\nFrostwoven Boots\nBinds when equipped\nFeet Cloth\n2 Armor\n+4 Intellect\n+3 Stamina\n+ 4 Versatility\nDurability 55 / 55\n27\n\nFrostwoven Power (0/8)\nFrostwoven Belt\nFrostwoven Boots\nFrostwoven Gloves\nFrostwoven Cowl\nFrostwoven Leggings\nFrostwoven Robe\nFrostwoven Shoulders\nFrostwoven Wristwraps" }
+entries[55907] = { ["name"] = "Frostwoven Cowl", ["text"] = "2 sec cast\nReagents:\nBolt of Frostweave (5), Eternium Thread\nOptional Reagents:\nOptional Reagent Slot (#47)\nProfession Trainer:\nNorthrend Tailoring (5)\nCost:\n15\n\nFrostwoven Cowl\nBinds when equipped\nHead Cloth\n3 Armor\n+5 Intellect\n+4 Stamina\n+ 5 Versatility\nDurability 70 / 70\n28\n\nFrostwoven Power (0/8)\nFrostwoven Belt\nFrostwoven Boots\nFrostwoven Gloves\nFrostwoven Cowl\nFrostwoven Leggings\nFrostwoven Robe\nFrostwoven Shoulders\nFrostwoven Wristwraps" }
+entries[55908] = { ["name"] = "Frostwoven Belt", ["text"] = "2 sec cast\nReagents:\nBolt of Frostweave (3), Eternium Thread\nOptional Reagents:\nOptional Reagent Slot (#31)\nProfession Trainer:\nNorthrend Tailoring (1)\nCost:\n10\n\nFrostwoven Belt\nBinds when equipped\nWaist Cloth\n2 Armor\n+4 Intellect\n+3 Stamina\n+ 4 Versatility\nDurability 40 / 40\n27\n\nFrostwoven Power (0/8)\nFrostwoven Belt\nFrostwoven Boots\nFrostwoven Gloves\nFrostwoven Cowl\nFrostwoven Leggings\nFrostwoven Robe\nFrostwoven Shoulders\nFrostwoven Wristwraps" }
+entries[55909] = { ["name"] = "Crashing Wave", ["text"] = "40 yd range\nInstant\nA cascade of water splashes over enemies in a 65 yd cone in front of the caster, dealing 21 Frost damage." }
+entries[55910] = { ["name"] = "Mystic Frostwoven Shoulders", ["text"] = "2 sec cast\nReagents:\nBolt of Frostweave (7), Eternium Thread (4), Northsea Pearl\nOptional Reagents:\nOptional Reagent Slot (#47)\nProfession Trainer:\nNorthrend Tailoring (10)\nCost:\n30\n\nMystic Frostwoven Shoulders\nBinds when equipped\nShoulder Cloth\n3 Armor\n+3 Intellect\n+ 4 Critical Strike\n+ 4 Versatility\nDurability 85 / 85\n28\n\nFrostwoven Power (0/8)\nFrostwoven Belt\nFrostwoven Boots\nFrostwoven Gloves\nFrostwoven Cowl\nFrostwoven Leggings\nFrostwoven Robe\nFrostwoven Shoulders\nFrostwoven Wristwraps" }
+entries[55911] = { ["name"] = "Mystic Frostwoven Robe", ["text"] = "2 sec cast\nReagents:\nBolt of Frostweave (8), Eternium Thread (4), Northsea Pearl\nOptional Reagents:\nOptional Reagent Slot (#47)\nProfession Trainer:\nNorthrend Tailoring (15)\nCost:\n50\n\nMystic Frostwoven Robe\nBinds when equipped\nChest Cloth\n4 Armor\n+5 Intellect\n+ 7 Critical Strike\n+ 7 Versatility\nDurability 140 / 140\n28\n\nFrostwoven Power (0/8)\nFrostwoven Belt\nFrostwoven Boots\nFrostwoven Gloves\nFrostwoven Cowl\nFrostwoven Leggings\nFrostwoven Robe\nFrostwoven Shoulders\nFrostwoven Wristwraps" }
+entries[55912] = { ["name"] = "Blast of Air", ["text"] = "Instant\nA might gust of wind knocks away all opponents." }
+entries[55913] = { ["name"] = "Mystic Frostwoven Wristwraps", ["text"] = "2 sec cast\nReagents:\nBolt of Frostweave (5), Eternium Thread (4), Northsea Pearl (2)\nOptional Reagents:\nOptional Reagent Slot (#47)\nProfession Trainer:\nNorthrend Tailoring (10)\nCost:\n30\n\nMystic Frostwoven Wristwraps\nBinds when equipped\nWrist Cloth\n2 Armor\n+2 Intellect\n+ 3 Critical Strike\n+ 3 Versatility\nDurability 50 / 50\n28\n\nFrostwoven Power (0/8)\nFrostwoven Belt\nFrostwoven Boots\nFrostwoven Gloves\nFrostwoven Cowl\nFrostwoven Leggings\nFrostwoven Robe\nFrostwoven Shoulders\nFrostwoven Wristwraps" }
+entries[55914] = { ["name"] = "Duskweave Belt", ["text"] = "2 sec cast\nReagents:\nBolt of Frostweave (7), Eternium Thread\nOptional Reagents:\nOptional Reagent Slot (#48)\nProfession Trainer:\nNorthrend Tailoring (20)\nCost:\n75\n\nDuskweave Belt\nBinds when equipped\nWaist Cloth\n2 Armor\n+4 Intellect\n+4 Stamina\n+ 3 Haste\nDurability 40 / 40\n28\n\nDuskweaver (0/8)\nDuskweave Belt\nDuskweave Boots\nDuskweave Gloves\nDuskweave Cowl\nDuskweave Leggings\nDuskweave Robe\nDuskweave Shoulders\nDuskweave Wristwraps" }
+entries[55915] = { ["name"] = "Tremendous Fortitude", ["text"] = "Instant\nIncreases maximum health by 1542 for 15 sec. Shares cooldown with other Battlemaster's trinkets." }
+entries[55916] = { ["name"] = "Magma Wave", ["text"] = "40 yd range\n2 sec cast\nA cascade of magma splashes over enemies in a 65 yd cone in front of the caster, dealing 21 Fire damage." }
+entries[55917] = { ["name"] = "Tremendous Fortitude", ["text"] = "Instant\nIncreases maximum health by 4355 for 15 sec. Shares cooldown with other Battlemaster's trinkets." }
+entries[55918] = { ["name"] = "Shockwave", ["text"] = "15 Rage Melee Range\nInstant 20 sec cooldown\nSends a wave of force in front of the warrior, causing (25 / 100 * Attack Power) damage and stunning all enemy targets within 10 yards in a frontal cone for 4 sec." }
+entries[55919] = { ["name"] = "Duskweave Cowl", ["text"] = "2 sec cast\nReagents:\nBolt of Frostweave (8), Eternium Thread\nOptional Reagents:\nOptional Reagent Slot (#48)\nProfession Trainer:\nNorthrend Tailoring (20)\nCost:\n75\n\nDuskweave Cowl\nBinds when equipped\nHead Cloth\n3 Armor\n+5 Intellect\n+5 Stamina\n+ 4 Haste\nDurability 70 / 70\n28\n\nDuskweaver (0/8)\nDuskweave Belt\nDuskweave Boots\nDuskweave Gloves\nDuskweave Cowl\nDuskweave Leggings\nDuskweave Robe\nDuskweave Shoulders\nDuskweave Wristwraps" }
+entries[55920] = { ["name"] = "Duskweave Wristwraps", ["text"] = "2 sec cast\nReagents:\nBolt of Frostweave (8), Eternium Thread\nOptional Reagents:\nOptional Reagent Slot (#48)\nProfession Trainer:\nNorthrend Tailoring (25)\nCost:\n1\n\nDuskweave Wristwraps\nBinds when equipped\nWrist Cloth\n2 Armor\n+3 Intellect\n+3 Stamina\n+ 2 Haste\nDurability 40 / 40\n29\n\nDuskweaver (0/8)\nDuskweave Belt\nDuskweave Boots\nDuskweave Gloves\nDuskweave Cowl\nDuskweave Leggings\nDuskweave Robe\nDuskweave Shoulders\nDuskweave Wristwraps" }
+entries[55921] = { ["name"] = "Duskweave Robe", ["text"] = "2 sec cast\nReagents:\nBolt of Frostweave (10), Eternium Thread\nOptional Reagents:\nOptional Reagent Slot (#48)\nProfession Trainer:\nNorthrend Tailoring (30)\nCost:\n1\n15\n\nDuskweave Robe\nBinds when equipped\nChest Cloth\n4 Armor\n+5 Intellect\n+5 Stamina\n+ 4 Haste\nDurability 115 / 115\n29\n\nDuskweaver (0/8)\nDuskweave Belt\nDuskweave Boots\nDuskweave Gloves\nDuskweave Cowl\nDuskweave Leggings\nDuskweave Robe\nDuskweave Shoulders\nDuskweave Wristwraps" }
+entries[55922] = { ["name"] = "Duskweave Gloves", ["text"] = "2 sec cast\nReagents:\nBolt of Frostweave (9), Eternium Thread\nOptional Reagents:\nOptional Reagent Slot (#48)\nProfession Trainer:\nNorthrend Tailoring (30)\nCost:\n1\n15\n\nDuskweave Gloves\nBinds when equipped\nHands Cloth\n2 Armor\n+4 Intellect\n+4 Stamina\n+ 3 Haste\nDurability 40 / 40\n29\n\nDuskweaver (0/8)\nDuskweave Belt\nDuskweave Boots\nDuskweave Gloves\nDuskweave Cowl\nDuskweave Leggings\nDuskweave Robe\nDuskweave Shoulders\nDuskweave Wristwraps" }
+entries[55923] = { ["name"] = "Duskweave Shoulders", ["text"] = "2 sec cast\nReagents:\nBolt of Frostweave (10), Eternium Thread\nOptional Reagents:\nOptional Reagent Slot (#48)\nProfession Trainer:\nNorthrend Tailoring (35)\nCost:\n1\n15\n\nDuskweave Shoulders\nBinds when equipped\nShoulder Cloth\n3 Armor\n+5 Intellect\n+5 Stamina\n+ 4 Haste\nDurability 70 / 70\n29\n\nDuskweaver (0/8)\nDuskweave Belt\nDuskweave Boots\nDuskweave Gloves\nDuskweave Cowl\nDuskweave Leggings\nDuskweave Robe\nDuskweave Shoulders\nDuskweave Wristwraps" }
+entries[55924] = { ["name"] = "Duskweave Boots", ["text"] = "2 sec cast\nReagents:\nBolt of Frostweave (10), Eternium Thread\nOptional Reagents:\nOptional Reagent Slot (#48)\nProfession Trainer:\nNorthrend Tailoring (35)\nCost:\n1\n15\n\nDuskweave Boots\nBinds when equipped\nFeet Cloth\n2 Armor\n+4 Intellect\n+4 Stamina\n+ 3 Haste\nDurability 55 / 55\n29\n\nDuskweaver (0/8)\nDuskweave Belt\nDuskweave Boots\nDuskweave Gloves\nDuskweave Cowl\nDuskweave Leggings\nDuskweave Robe\nDuskweave Shoulders\nDuskweave Wristwraps" }
+entries[55925] = { ["name"] = "Black Duskweave Leggings", ["text"] = "2 sec cast\nReagents:\nBolt of Imbued Frostweave (5), Iceweb Spider Silk (2), Eternium Thread (2)\nOptional Reagents:\nOptional Reagent Slot (#48)\nProfession Trainer:\nNorthrend Tailoring (40)\nCost:\n1\n30\n\nBlack Duskweave Leggings\nBinds when equipped\nLegs Cloth\n4 Armor\n+4 Intellect\n+6 Stamina\n+ 6 Haste\nDurability 100 / 100\n29\n\nDuskweaver (0/8)\nDuskweave Belt\nDuskweave Boots\nDuskweave Gloves\nDuskweave Cowl\nDuskweave Leggings\nDuskweave Robe\nDuskweave Shoulders\nDuskweave Wristwraps" }
+entries[55926] = { ["name"] = "Flame Sphere Periodic" }
+entries[55927] = { ["name"] = "Sear Beam", ["text"] = "Instant\nProjects a searing beam that inflicts 3 Fire damage." }
+entries[55928] = { ["name"] = "Flame Sphere Visual" }
+entries[55929] = { ["name"] = "Impale", ["text"] = "60 yd range\nInstant\nRushes the target, impaling them." }
+entries[55930] = { ["name"] = "Orinoko's Leap" }
+entries[55931] = { ["name"] = "Conjure Flame Sphere", ["text"] = "50 yd range\n3 sec cast\nConjures a sphere of pure fire that floats through the air toward the target while firing searing beams at enemies that come within 18 yds." }
+entries[55932] = { ["name"] = "Vendor - Throw Sack - Received" }
+entries[55933] = { ["name"] = "Say your line!" }
+entries[55934] = { ["name"] = "Valkyrion Fire" }
+entries[55935] = { ["name"] = "Yell your line!" }
+entries[55936] = { ["name"] = "Swoop", ["text"] = "10 yd range\nInstant 1.5 sec cooldown\nSwoops at a Stormpeak Wyrm, dealing 163 damage." }
+entries[55937] = { ["name"] = "Fishy Scent", ["text"] = "60 yd range\n2 sec cast\nYou're covered in a thick sauce, made of Halibut." }
+entries[55938] = { ["name"] = "Hungry Penguins", ["text"] = "Instant\nThe scent of fish has attracted a nearby penguin." }
+entries[55939] = { ["name"] = "Clear your line!" }
+entries[55941] = { ["name"] = "Black Duskweave Robe", ["text"] = "2 sec cast\nReagents:\nBolt of Imbued Frostweave (5), Iceweb Spider Silk (2), Eternium Thread (2)\nOptional Reagents:\nOptional Reagent Slot (#49)\nProfession Trainer:\nNorthrend Tailoring (45)\nCost:\n1\n75\n\nBlack Duskweave Robe\nBinds when equipped\nChest Cloth\n4 Armor\n+4 Intellect\n+6 Stamina\n+ 6 Haste\nDurability 140 / 140\n29\n\nDuskweaver (0/8)\nDuskweave Belt\nDuskweave Boots\nDuskweave Gloves\nDuskweave Cowl\nDuskweave Leggings\nDuskweave Robe\nDuskweave Shoulders\nDuskweave Wristwraps" }
+entries[55942] = { ["name"] = "Summon Battle Eagle" }
+entries[55943] = { ["name"] = "Black Duskweave Wristwraps", ["text"] = "2 sec cast\nReagents:\nBolt of Imbued Frostweave (4), Iceweb Spider Silk (2), Eternium Thread (2)\nOptional Reagents:\nOptional Reagent Slot (#48)\nProfession Trainer:\nNorthrend Tailoring (40)\nCost:\n1\n30\n\nBlack Duskweave Wristwraps\nBinds when equipped\nWrist Cloth\n2 Armor\n+2 Intellect\n+3 Stamina\n+ 3 Haste\nDurability 50 / 50\n29\n\nDuskweaver (0/8)\nDuskweave Belt\nDuskweave Boots\nDuskweave Gloves\nDuskweave Cowl\nDuskweave Leggings\nDuskweave Robe\nDuskweave Shoulders\nDuskweave Wristwraps" }
+entries[55944] = { ["name"] = "Spectator - Cheer Aura" }
+entries[55945] = { ["name"] = "Spectator - Cheer Trigger" }
+entries[55946] = { ["name"] = "Summon Whisker", ["text"] = "Instant\nCalls his trusty pet, Whisker." }
+entries[55947] = { ["name"] = "Flame Sphere Death Effect", ["text"] = "Instant\nDespawn effect." }
+entries[55948] = { ["name"] = "Grow", ["text"] = "Unlimited range\nInstant\nGrows, increasing damage dealt by 10%." }
+entries[55949] = { ["name"] = "Portal Visual (Closed)" }
+entries[55951] = { ["name"] = "Eye Gouge", ["text"] = "20 yd range\nChanneled (10 sec cast) 30 sec cooldown\nClaws at the eyes and head of a Stormpeak Wyrm, dealing 163 damage every sec for 10 sec." }
+entries[55952] = { ["name"] = "Phase Shift 3: Fjorn's Anvil" }
+entries[55953] = { ["name"] = "Force Reaction Sons of Hodir", ["text"] = "Instant\nMakes you Friendly with the Frost Giants" }
+entries[55954] = { ["name"] = "Blue Beam" }
+entries[55955] = { ["name"] = "Eye Gouge", ["text"] = "10 yd range\nInstant\nClaws at the eyes and head of a Stormpeak Wyrm, dealing 163 damage every sec for until canceled." }
+entries[55957] = { ["name"] = "Ride Snorri", ["text"] = "0.5 sec cast" }
+entries[55958] = { ["name"] = "Storm Bolt", ["text"] = "5 - 45 yd range\n1 sec cast 6 sec cooldown\nHurls a Storm Hammer at a Stormpeak Wyrm, dealing 79 damage and stunning the target for 4 sec before returning to the thrower's hand." }
+entries[55959] = { ["name"] = "Embrace of the Vampyr", ["text"] = "60 yd range\nChanneled (20 sec cast)\nConsumes the life force of the target, stunning it and inflicting 420 Shadow damage every 2 sec for 20 sec or until Prince Taldaram sustains 20,000 damage." }
+entries[55960] = { ["name"] = "Kill Credit" }
+entries[55962] = { ["name"] = "Guide Snorri" }
+entries[55963] = { ["name"] = "Veranus Chain Channel" }
+entries[55964] = { ["name"] = "Vanish", ["text"] = "Instant 2 sec cooldown\nPuts the caster in stealth mode for 2.5 sec." }
+entries[55965] = { ["name"] = "Shadowstep" }
+entries[55966] = { ["name"] = "Shadowstep" }
+entries[55968] = { ["name"] = "Bloodthirst", ["text"] = "Melee Range\nInstant 10 sec cooldown\nRequires Melee Weapon\nInstantly attack the target causing 120% of normal weapon damage. In addition, the next 3 successful melee attacks will restore 1% health. This effect lasts 10 sec." }
+entries[55969] = { ["name"] = "Bloodthirst", ["text"] = "Melee Range\nInstant\nSuccessful melee attacks restore 1% Health." }
+entries[55970] = { ["name"] = "Bloodthirst", ["text"] = "Melee Range\nInstant\nSuccessful melee attacks restore 1% health." }
+entries[55971] = { ["name"] = "Eagle Flight" }
+entries[55973] = { ["name"] = "Blood Plague", ["text"] = "Melee Range\nInstant\nA vicious strike that deals weapon damage and plagues the target, dealing 16 Shadow damage over 12 sec." }
+entries[55974] = { ["name"] = "Blood Boil", ["text"] = "Instant 15 sec cooldown\nCauses all disease effects on targets within 30 yards to painfully erupt, consuming the diseases, dealing 17 to 20 damage modified by attack power, and forcing the target to attack the Death Knight for until canceled." }
+entries[55975] = { ["name"] = "Hysteria", ["text"] = "45 yd range\nInstant\nInduces a friendly unit into a killing frenzy for 8 sec, increasing their physical damage by 40%, but causing them to suffer damage equal to 1% of their maximum health every second." }
+entries[55976] = { ["name"] = "Spell Deflection", ["text"] = "1 sec cast\nAttacks nearby enemies in a whirlwind of steel that lasts 6 sec., inflicting weapon damage every 2 sec. Grants the caster temporary magic immunity." }
+entries[55977] = { ["name"] = "Whirlwind", ["text"] = "Instant\nInflicts Physical damage to all enemies within 5 yards." }
+entries[55978] = { ["name"] = "Heart Strike", ["text"] = "Melee Range\nInstant\nRequires Melee Weapon\nA brutal attack that instantly strikes the enemy, causing 150% weapon damage plus 923 for each disease effect on the target, and preventing targets from using haste effects for 10 sec." }
+entries[55980] = { ["name"] = "Mammoth Trample", ["text"] = "0.25 sec cast 4 sec cooldown\nInflicts 155 damage on enemies within 10 yards." }
+entries[55981] = { ["name"] = "Mammoth Trumpet", ["text"] = "40 yd range\nInstant 10 sec cooldown\nTaunts the target to attack you, but has no effect if the target is already attacking you." }
+entries[55982] = { ["name"] = "Mammoth Charge", ["text"] = "5 - 30 yd range\n0.9 sec cast 8 sec cooldown\nCharges an enemy, inflicting normal damage plus 67 and stuns the opponent for 3 sec." }
+entries[55983] = { ["name"] = "Lay to Rest", ["text"] = "10 yd range\n1 sec cast\nBlows Hodir's Horn at the corpse of a Niffelem Forefather or Restless Frostborn." }
+entries[55984] = { ["name"] = "Shadow Bolt", ["text"] = "90 Mana 40 yd range\n2.5 sec cast\nHurls a bolt of dark magic at an enemy, inflicting Shadow damage and increasing shadow damage taken by 10% for 10 sec." }
+entries[55986] = { ["name"] = "Summon Frost Giant Spirit" }
+entries[55987] = { ["name"] = "Engulfing Fireball", ["text"] = "1200 Mana Unlimited range\nInstant 0.5 sec cooldown\nFires an engulfing fireball at enemy targets, inflicting 150 damage to all ghouls and 514 damage to giants." }
+entries[55988] = { ["name"] = "Engulfing Fireball", ["text"] = "Unlimited range\nInstant\nInflicts 150 damage to all ghouls in a 15 yard radius and 514 damage to all giants in a 15 yard radius." }
+entries[55989] = { ["name"] = "Spirit Particles (Corpse)" }
+entries[55991] = { ["name"] = "Summon Frost Dwarf Spirit" }
+entries[55992] = { ["name"] = "Summon Frost Dwarf Spirit 01" }
+entries[55993] = { ["name"] = "Red Lumberjack Shirt", ["text"] = "2 sec cast\nReagents:\nBolt of Frostweave (4), Red Dye\nDrop:\nWorld Creatures\n\nTreasure:\nWorld Drop\n\nRed Lumberjack Shirt\nBinds when equipped\nShirt" }
+entries[55994] = { ["name"] = "Blue Lumberjack Shirt", ["text"] = "2 sec cast\nReagents:\nBolt of Frostweave (4), Blue Dye\nDrop:\nWorld Creatures\n\nTreasure:\nWorld Drop\n\nBlue Lumberjack Shirt\nBinds when equipped\nShirt" }
+entries[55995] = { ["name"] = "Yellow Lumberjack Shirt", ["text"] = "2 sec cast\nReagents:\nBolt of Frostweave (4), Yellow Dye\nProfession Trainer:\nNorthrend Tailoring (25)\nCost:\n1\n\nYellow Lumberjack Shirt\nBinds when equipped\nShirt" }
+entries[55996] = { ["name"] = "Green Lumberjack Shirt", ["text"] = "2 sec cast\nReagents:\nBolt of Frostweave (4), Green Dye\nDrop:\nWorld Creatures\n\nTreasure:\nWorld Drop\n\nGreen Lumberjack Shirt\nBinds when equipped\nShirt" }
+entries[55997] = { ["name"] = "Red Workman's Shirt", ["text"] = "2 sec cast\nReagents:\nBolt of Frostweave (4), Red Dye\nDrop:\nWorld Creatures\n\nTreasure:\nWorld Drop\n\nRed Workman's Shirt\nBinds when equipped\nShirt" }
+entries[55998] = { ["name"] = "Blue Workman's Shirt", ["text"] = "2 sec cast\nReagents:\nBolt of Frostweave (4), Blue Dye\nDrop:\nWorld Creatures\n\nTreasure:\nWorld Drop\n\nBlue Workman's Shirt\nBinds when equipped\nShirt" }
+entries[55999] = { ["name"] = "Rustic Workman's Shirt", ["text"] = "2 sec cast\nReagents:\nBolt of Frostweave (4), Yellow Dye\nDrop:\nWorld Creatures\n\nTreasure:\nWorld Drop\n\nRustic Workman's Shirt\nBinds when equipped\nShirt" }
+entries[56000] = { ["name"] = "Green Workman's Shirt", ["text"] = "2 sec cast\nReagents:\nBolt of Frostweave (4), Green Dye\nProfession Trainer:\nNorthrend Tailoring (25)\nCost:\n1\n\nGreen Workman's Shirt\nBinds when equipped\nShirt" }
+entries[56001] = { ["name"] = "Moonshroud", ["text"] = "1.5 sec cast\nReagents:\nBolt of Imbued Frostweave , Eternal Life (2)\nProfession Trainer:\nNorthrend Tailoring (40)\nCost:\n1\n30\n\nMoonshroud\nCrafting Reagent" }
+entries[56002] = { ["name"] = "Ebonweave", ["text"] = "1.5 sec cast\nReagents:\nBolt of Imbued Frostweave , Eternal Shadow (2)\nProfession Trainer:\nNorthrend Tailoring (40)\nCost:\n1\n30\n\nEbonweave\nCrafting Reagent" }
+entries[56003] = { ["name"] = "Spellweave", ["text"] = "1.5 sec cast\nReagents:\nBolt of Imbued Frostweave , Eternal Fire (2)\nProfession Trainer:\nNorthrend Tailoring (40)\nCost:\n1\n30\n\nSpellweave\nCrafting Reagent" }
+entries[56004] = { ["name"] = "Abyssal Bag", ["text"] = "2.5 sec cast\nReagents:\nEbonweave (4), Spellweave (2), Eternium Thread\nVendor:\nDuchess Mynx\nZone:\nIcecrown\nKnights of the Ebon Blade - Revered\nCost:\n5\n\nAbyssal Bag\nBinds when equipped\n22 Slot Bag" }
+entries[56005] = { ["name"] = "Glacial Bag", ["text"] = "2.5 sec cast 7 days cooldown\nReagents:\nMoonshroud (4), Ebonweave (4), Eternium Thread\nThe difficult task of assembling a glacial bag can only be done every 7 days.\nVendor:\nLillehoff\nZone:\nThe Storm Peaks\nThe Sons of Hodir - Exalted\nCost:\n5\n\nGlacial Bag\nBinds when equipped\n22 Slot Bag" }
+entries[56006] = { ["name"] = "Mysterious Bag", ["text"] = "2.5 sec cast\nReagents:\nSpellweave (4), Moonshroud (2), Eternium Thread\nVendor:\nCielstrasza\nZone:\nDragonblight\nThe Wyrmrest Accord - Revered\nCost:\n5\n\nMysterious Bag\nBinds when equipped\n32 Slot Enchanting Bag" }
+entries[56007] = { ["name"] = "Frostweave Bag", ["text"] = "2.5 sec cast\nReagents:\nBolt of Imbued Frostweave (6), Eternium Thread (2)\nProfession Trainer:\nNorthrend Tailoring (35)\nCost:\n1\n15\n\nFrostweave Bag\nBinds when equipped\n20 Slot Bag" }
+entries[56008] = { ["name"] = "Shining Spellthread", ["text"] = "2 sec cast\nReagents:\nCrystallized Life (2), Iceweb Spider Silk (2)\nProfession Trainer:\nNorthrend Tailoring (25)\nCost:\n1\n\nShining Spellthread\nUse: Permanently embroiders spellthread into pants, increasing spell power by 3 and Versatility by 2.\n\nEnchanting the item causes it to become soulbound. Cannot be applied to items higher than level 320.\n27" }
+entries[56009] = { ["name"] = "Brilliant Spellthread", ["text"] = "2 sec cast\nReagents:\nEternal Life (4), Iceweb Spider Silk (4), Frozen Orb\nVendor:\nVeteran Crusader Aliocha Segard\nZone:\nIcecrown\nArgent Crusade - Exalted\nCost:\n5\n\nBrilliant Spellthread\nUse: Permanently embroiders spellthread into pants, increasing spell power by 3 and Versatility by 3.\n\nEnchanting the item causes it to become soulbound. Cannot be applied to items higher than level 320.\n27" }
+entries[56010] = { ["name"] = "Azure Spellthread", ["text"] = "2 sec cast\nReagents:\nCrystallized Fire (2), Iceweb Spider Silk (2)\nProfession Trainer:\nNorthrend Tailoring (25)\nCost:\n1\n\nAzure Spellthread\nUse: Permanently embroiders spellthread into pants, increasing spell power by 3 and Stamina by 3.\n\nEnchanting the item causes it to become soulbound. Cannot be applied to items higher than level 320.\n27" }
+entries[56011] = { ["name"] = "Sapphire Spellthread", ["text"] = "2 sec cast\nReagents:\nEternal Fire (4), Iceweb Spider Silk (4), Frozen Orb\nVendor:\nArchmage Alvareaux\nZone:\nCrystalsong Forest\nKirin Tor - Exalted\nCost:\n5\n\nSapphire Spellthread\nUse: Permanently embroiders spellthread into pants, increasing spell power by 4 and Stamina by 3.\n\nEnchanting the item causes it to become soulbound. Cannot be applied to items higher than level 320.\n27" }
+entries[56014] = { ["name"] = "Cloak of the Moon", ["text"] = "2 sec cast\nReagents:\nBolt of Frostweave (7), Northsea Pearl\nOptional Reagents:\nOptional Reagent Slot (#47)\nProfession Trainer:\nNorthrend Tailoring (15)\nCost:\n50\n\nCloak of the Moon\nBinds when equipped\nBack\n3 Armor\n+2 Intellect\n+3 Stamina\n+ 3 Versatility\n28" }
+entries[56015] = { ["name"] = "Cloak of Frozen Spirits", ["text"] = "2 sec cast\nReagents:\nBolt of Frostweave (8), Northsea Pearl\nOptional Reagents:\nOptional Reagent Slot (#47)\nProfession Trainer:\nNorthrend Tailoring (20)\nCost:\n75\n\nCloak of Frozen Spirits\nBinds when equipped\nBack\n3 Armor\n+2 Intellect\n+3 Stamina\n+ 3 Haste\n28" }
+entries[56016] = { ["name"] = "Wispcloak", ["text"] = "2 sec cast\nReagents:\nBolt of Imbued Frostweave (5), Eternal Life (6), Eternal Water (4), Siren's Tear , Frozen Orb\nAchievement:\nNorthrend Dungeonmaster\nTrainer:\nCharles Worth\nZone:\nDalaran \"Northrend\"\n\nWispcloak\nBinds when equipped\nBack\n3 Armor\n+2 Intellect\n+3 Stamina\n+ 3 Versatility\n30" }
+entries[56017] = { ["name"] = "Deathchill Cloak", ["text"] = "2 sec cast\nReagents:\nBolt of Imbued Frostweave (5), Eternal Fire (6), Eternal Shadow (4), Siren's Tear , Frozen Orb\nAchievement:\nLoremaster of Northrend\nTrainer:\nCharles Worth\nZone:\nDalaran \"Northrend\"\n\nDeathchill Cloak\nBinds when equipped\nBack\n3 Armor\n+2 Intellect\n+ 3 Critical Strike\n+ 4 Haste\n30" }
+entries[56018] = { ["name"] = "Hat of Wintry Doom", ["text"] = "2 sec cast\nReagents:\nEbonweave , Bolt of Imbued Frostweave (6), Iceweb Spider Silk (4), Eternium Thread\nProfession Trainer:\nNorthrend Tailoring (50)\nCost:\n2\n\nHat of Wintry Doom\nBinds when equipped\nHead Cloth\n3 Armor\n+3 Intellect\n+6 Stamina\n+ 4 Critical Strike\n\nMeta Socket\nPrismatic Socket\nSocket Bonus: + 2 Intellect\n\nDurability 85 / 85\n30" }
+entries[56019] = { ["name"] = "Silky Iceshard Boots", ["text"] = "2 sec cast\nReagents:\nSpellweave , Bolt of Imbued Frostweave (5), Heavy Borean Leather (2), Iceweb Spider Silk (4), Eternium Thread\nProfession Trainer:\nNorthrend Tailoring (45)\nCost:\n1\n75\n\nSilky Iceshard Boots\nBinds when equipped\nFeet Cloth\n3 Armor\n+3 Intellect\n+4 Stamina\n+ 3 Critical Strike\n+ 3 Haste\nDurability 65 / 65\n30" }
+entries[56020] = { ["name"] = "Deep Frozen Cord", ["text"] = "2 sec cast\nReagents:\nSpellweave , Bolt of Imbued Frostweave (4), Iceweb Spider Silk (4), Eternium Thread\nProfession Trainer:\nNorthrend Tailoring (45)\nCost:\n1\n75\n\nDeep Frozen Cord\nBinds when equipped\nWaist Cloth\n2 Armor\n+3 Intellect\n+5 Stamina\n+ 3 Critical Strike\nDurability 50 / 50\n30" }
+entries[56021] = { ["name"] = "Frostmoon Pants", ["text"] = "2 sec cast\nReagents:\nMoonshroud , Bolt of Imbued Frostweave (6), Iceweb Spider Silk (4), Eternium Thread\nProfession Trainer:\nNorthrend Tailoring (50)\nCost:\n2\n\nFrostmoon Pants\nBinds when equipped\nLegs Cloth\n4 Armor\n+3 Intellect\n+6 Stamina\n+ 6 Versatility\nDurability 100 / 100\n30" }
+entries[56022] = { ["name"] = "Light Blessed Mittens", ["text"] = "2 sec cast\nReagents:\nMoonshroud , Bolt of Imbued Frostweave (4), Iceweb Spider Silk (4), Eternium Thread\nProfession Trainer:\nNorthrend Tailoring (45)\nCost:\n1\n75\n\nLight Blessed Mittens\nBinds when equipped\nHands Cloth\n2 Armor\n+3 Intellect\n+4 Stamina\n+ 5 Versatility\nDurability 50 / 50\n30" }
+entries[56023] = { ["name"] = "Aurora Slippers", ["text"] = "2 sec cast\nReagents:\nMoonshroud , Bolt of Imbued Frostweave (4), Heavy Borean Leather (2), Iceweb Spider Silk (4), Eternium Thread\nProfession Trainer:\nNorthrend Tailoring (45)\nCost:\n1\n75\n\nAurora Slippers\nBinds when equipped\nFeet Cloth\n3 Armor\n+3 Intellect\n+4 Stamina\n+ 4 Versatility\nDurability 65 / 65\n30" }
+entries[56024] = { ["name"] = "Moonshroud Robe", ["text"] = "2 sec cast\nReagents:\nMoonshroud (8), Bolt of Imbued Frostweave (6), Eternium Thread , Frozen Orb\nProfession Trainer:\nNorthrend Tailoring (65)\nCost:\n2\n75\n\nMoonshroud Robe\nBinds when equipped\nChest Cloth\n4 Armor\n+4 Intellect\n+6 Stamina\n+ 6 Versatility\nDurability 165 / 165\n30" }
+entries[56025] = { ["name"] = "Moonshroud Gloves", ["text"] = "2 sec cast\nReagents:\nMoonshroud (4), Bolt of Imbued Frostweave (4), Eternium Thread , Frozen Orb\nProfession Trainer:\nNorthrend Tailoring (60)\nCost:\n2\n50\n\nMoonshroud Gloves\nBinds when equipped\nHands Cloth\n2 Armor\n+3 Intellect\n+4 Stamina\n+ 5 Versatility\nDurability 55 / 55\n30" }
+entries[56026] = { ["name"] = "Ebonweave Robe", ["text"] = "2 sec cast\nReagents:\nEbonweave (8), Bolt of Imbued Frostweave (6), Eternium Thread , Frozen Orb\nProfession Trainer:\nNorthrend Tailoring (65)\nCost:\n2\n75\n\nEbonweave Robe\nBinds when equipped\nChest Cloth\n4 Armor\n+4 Intellect\n+7 Stamina\n+ 5 Critical Strike\nDurability 165 / 165\n30" }
+entries[56027] = { ["name"] = "Ebonweave Gloves", ["text"] = "2 sec cast\nReagents:\nEbonweave (4), Bolt of Imbued Frostweave (4), Eternium Thread , Frozen Orb\nProfession Trainer:\nNorthrend Tailoring (60)\nCost:\n2\n50\n\nEbonweave Gloves\nBinds when equipped\nHands Cloth\n2 Armor\n+3 Intellect\n+5 Stamina\n+ 3 Critical Strike\nDurability 55 / 55\n30" }
+entries[56028] = { ["name"] = "Spellweave Robe", ["text"] = "2 sec cast\nReagents:\nSpellweave (8), Bolt of Imbued Frostweave (6), Eternium Thread , Frozen Orb\nProfession Trainer:\nNorthrend Tailoring (65)\nCost:\n2\n75\n\nSpellweave Robe\nBinds when equipped\nChest Cloth\n4 Armor\n+4 Intellect\n+4 Stamina\n+ 6 Haste\n+ 3 Versatility\nDurability 165 / 165\n30" }
+entries[56029] = { ["name"] = "Spellweave Gloves", ["text"] = "2 sec cast\nReagents:\nSpellweave (4), Bolt of Imbued Frostweave (4), Eternium Thread , Frozen Orb\nProfession Trainer:\nNorthrend Tailoring (60)\nCost:\n2\n50\n\nSpellweave Gloves\nBinds when equipped\nHands Cloth\n2 Armor\n+3 Intellect\n+3 Stamina\n+ 4 Haste\n+ 3 Versatility\nDurability 55 / 55\n30" }
+entries[56030] = { ["name"] = "Frostwoven Leggings", ["text"] = "2 sec cast\nReagents:\nBolt of Frostweave (5), Eternium Thread\nOptional Reagents:\nOptional Reagent Slot (#47)\nProfession Trainer:\nNorthrend Tailoring (5)\nCost:\n15\n\nFrostwoven Leggings\nBinds when equipped\nLegs Cloth\n3 Armor\n+5 Intellect\n+4 Stamina\n+ 5 Versatility\nDurability 85 / 85\n28\n\nFrostwoven Power (0/8)\nFrostwoven Belt\nFrostwoven Boots\nFrostwoven Gloves\nFrostwoven Cowl\nFrostwoven Leggings\nFrostwoven Robe\nFrostwoven Shoulders\nFrostwoven Wristwraps" }
+entries[56031] = { ["name"] = "Frostwoven Wristwraps", ["text"] = "2 sec cast\nReagents:\nBolt of Frostweave (3), Eternium Thread\nOptional Reagents:\nOptional Reagent Slot (#47)\nProfession:\nTailoring (1)Profession Trainer:\nNorthrend Tailoring (1)\nCost:\n10\n\nFrostwoven Wristwraps\nBinds when equipped\nWrist Cloth\n2 Armor\n+3 Intellect\n+2 Stamina\n+ 3 Versatility\nDurability 40 / 40\n27\n\nFrostwoven Power (0/8)\nFrostwoven Belt\nFrostwoven Boots\nFrostwoven Gloves\nFrostwoven Cowl\nFrostwoven Leggings\nFrostwoven Robe\nFrostwoven Shoulders\nFrostwoven Wristwraps" }
+entries[56032] = { ["name"] = "Poison Spray", ["text"] = "Instant\nShoots poison at enemies in front of the caster, inflicting 616 Nature damage." }
+entries[56033] = { ["name"] = "Disciplining Rod", ["text"] = "Melee Range\nInstant\nHit an Exhausted Vrykul to make him return to work (or attack you, depending on your luck)." }
+entries[56034] = { ["name"] = "Master's Spellthread", ["text"] = "4 sec cast\nRequires Pants\nReagents:\nEternium Thread\nThis recipe automatically improves when you reach 500 skill in Tailoring.\n\nPermanently embroiders your pants with master's spellthread, increasing spell power by 10 and Stamina by 6.\n\nOnly the tailor's pants can be embroidered, and doing so will cause them to become soulbound" }
+entries[56035] = { ["name"] = "Diminish Soul", ["text"] = "(Proc chance: 50%, 8s cooldown)" }
+entries[56036] = { ["name"] = "Rune of Destruction", ["text"] = "5% of base mana 30 yd range\nInstant\nApplies a fiery rune on an enemy for 5 sec which damages the enemy after 5 sec." }
+entries[56037] = { ["name"] = "Rune of Destruction", ["text"] = "30 yd range\nInstant\nApplies a fiery rune on an enemy for 5 sec which inflicts 12 Fire damage after 5 sec." }
+entries[56038] = { ["name"] = "Plaguebolt", ["text"] = "35 yd range\n2.5 sec cast\nA bolt of plague pulled directly from the shriveled heart of the Vargul. Used to torture enemies. Inflicts 5 Shadow damage." }
+entries[56039] = { ["name"] = "Sanctified Spellthread", ["text"] = "4 sec cast\nRequires Pants\nReagents:\nEternium Thread\nThis recipe automatically improves when you reach 500 skill in Tailoring.\n\nPermanently embroiders your pants with sanctified spellthread, increasing spell power by 10 and Spirit by 4.\n\nOnly the tailor's pants can be embroidered, and doing so will cause them to become soulbound" }
+entries[56040] = { ["name"] = "Crystallized Water", ["text"] = "Instant\nTurn an eternal water into 10 crystallized water." }
+entries[56041] = { ["name"] = "Crystallized Earth", ["text"] = "Instant\nTurn an eternal earth into 10 crystallized earth." }
+entries[56042] = { ["name"] = "Crystallized Fire", ["text"] = "Instant\nTurn an eternal fire into 10 crystallized fire." }
+entries[56043] = { ["name"] = "Crystallized Life", ["text"] = "Instant\nTurn an eternal life into 10 crystallized life." }
+entries[56044] = { ["name"] = "Crystallized Shadow", ["text"] = "Instant\nTurn an eternal shadow into 10 crystallized shadow." }
+entries[56045] = { ["name"] = "Crystallized Air", ["text"] = "Instant\nTurn an eternal air into 10 crystallized air." }
+entries[56046] = { ["name"] = "Portal Beam" }
+entries[56047] = { ["name"] = "Random Portal" }
+entries[56049] = { ["name"] = "Bold Dragon's Eye", ["text"] = "2 sec cast\nTools: Jeweler's Tools\nReagents:\nDragon's Eye\nVendor:\nAnuur\nZone:\nIcecrown\nCost:\n2\n\nVendor:\nTiffany Cartier\nZone:\nDalaran\nCost:\n2\n\nBold Dragon's Eye\nBinds when picked up\n+ 4 Strength\nRequires Northrend Jewelcrafting\n(1)\n\"Matches any socket.\"" }
+entries[56050] = { ["name"] = "Summon Iron Warrior (Phase 1)" }
+entries[56051] = { ["name"] = "Summon Iron Caster (Phase 1)" }
+entries[56052] = { ["name"] = "Delicate Dragon's Eye", ["text"] = "2 sec cast\nTools: Jeweler's Tools\nReagents:\nDragon's Eye\nVendor:\nAnuur\nZone:\nIcecrown\nCost:\n2\n\nVendor:\nTiffany Cartier\nZone:\nDalaran\nCost:\n2\n\nDelicate Dragon's Eye\nBinds when picked up\n+ 4 Agility\nRequires Northrend Jewelcrafting\n(1)\n\"Matches any socket.\"" }
+entries[56053] = { ["name"] = "Brilliant Dragon's Eye", ["text"] = "2 sec cast\nTools: Jeweler's Tools\nReagents:\nDragon's Eye\nVendor:\nAnuur\nZone:\nIcecrown\nCost:\n2\n\nVendor:\nTiffany Cartier\nZone:\nDalaran\nCost:\n2\n\nBrilliant Dragon's Eye\nBinds when picked up\n+ 4 Intellect\nRequires Northrend Jewelcrafting\n(1)\n\"Matches any socket.\"" }
+entries[56055] = { ["name"] = "Subtle Dragon's Eye", ["text"] = "2 sec cast\nTools: Jeweler's Tools\nReagents:\nDragon's Eye\nVendor:\nAnuur\nZone:\nIcecrown\nCost:\n2\n\nVendor:\nTiffany Cartier\nZone:\nDalaran\nCost:\n2\n\nSubtle Dragon's Eye\nBinds when picked up\n+ 4 Dodge\nRequires Northrend Jewelcrafting\n(1)\n\"Matches any socket.\"" }
+entries[56056] = { ["name"] = "Flashing Dragon's Eye", ["text"] = "2 sec cast\nTools: Jeweler's Tools\nReagents:\nDragon's Eye\nVendor:\nAnuur\nZone:\nIcecrown\nCost:\n2\n\nVendor:\nTiffany Cartier\nZone:\nDalaran\nCost:\n2\n\nFlashing Dragon's Eye\nBinds when picked up\n+ 4 Parry\nRequires Northrend Jewelcrafting\n(1)\n\"Matches any socket.\"" }
+entries[56057] = { ["name"] = "Savage Ledge: See Instructor Hroegar's Invisibility" }
+entries[56058] = { ["name"] = "Get the Key: Instructor Hroegar's Invisibility" }
+entries[56059] = { ["name"] = "Spectator - Request Food Trigger" }
+entries[56060] = { ["name"] = "Spectator - Request Food Aura" }
+entries[56061] = { ["name"] = "Obliterate" }
+entries[56062] = { ["name"] = "Thunderous Stomp", ["text"] = "Melee Range\nInstant 20 sec cooldown\nSends a wave of force forward causing 27 damage and knocking back all enemy targets within 10 yards." }
+entries[56063] = { ["name"] = "Arcane Explosion", ["text"] = "120 Mana\n2 sec cast\nSends out a blast wave of magic, inflicting 336 Arcane damage to nearby enemies." }
+entries[56064] = { ["name"] = "Shadow Bolt Volley", ["text"] = "160 Mana 30 yd range\n3 sec cast\nHurls missiles of dark magic, inflicting 359 Shadow damage to nearby enemies." }
+entries[56065] = { ["name"] = "Shadow Bolt Volley", ["text"] = "160 Mana 30 yd range\n3 sec cast\nHurls missiles of dark magic, inflicting 513 Shadow damage to nearby enemies." }
+entries[56066] = { ["name"] = "Spectator - Force Say" }
+entries[56067] = { ["name"] = "Arcane Explosion", ["text"] = "120 Mana\n2 sec cast\nSends out a blast wave of magic, inflicting 448 Arcane damage to nearby enemies." }
+entries[56070] = { ["name"] = "Summon Red Dragon Buddy", ["text"] = "Instant" }
+entries[56071] = { ["name"] = "Ride Red Dragon Buddy" }
+entries[56072] = { ["name"] = "Ride Red Dragon Buddy" }
+entries[56073] = { ["name"] = "Summon Smoldering Scrap" }
+entries[56075] = { ["name"] = "Sphere Visual" }
+entries[56079] = { ["name"] = "Mystic Dragon's Eye", ["text"] = "2 sec cast\nTools: Jeweler's Tools\nReagents:\nDragon's Eye\nVendor:\nAnuur\nZone:\nIcecrown\nCost:\n2\n\nVendor:\nTiffany Cartier\nZone:\nDalaran\nCost:\n2\n\nMystic Dragon's Eye\nBinds when picked up\n+4 Armor\nRequires Northrend Jewelcrafting\n(1)\n\"Matches any socket.\"" }
+entries[56080] = { ["name"] = "Summon Nikita" }
+entries[56081] = { ["name"] = "Precise Dragon's Eye", ["text"] = "2 sec cast\nTools: Jeweler's Tools\nReagents:\nDragon's Eye\nVendor:\nAnuur\nZone:\nIcecrown\nCost:\n2\n\nVendor:\nTiffany Cartier\nZone:\nDalaran\nCost:\n2\n\nPrecise Dragon's Eye\nBinds when picked up\n+ 4 Haste\nRequires Northrend Jewelcrafting\n(1)\n\"Matches any socket.\"" }
+entries[56082] = { ["name"] = "Summon Billie" }
+entries[56083] = { ["name"] = "Quick Dragon's Eye", ["text"] = "2 sec cast\nTools: Jeweler's Tools\nReagents:\nDragon's Eye\nVendor:\nAnuur\nZone:\nIcecrown\nCost:\n2\n\nVendor:\nTiffany Cartier\nZone:\nDalaran\nCost:\n2\n\nQuick Dragon's Eye\nBinds when picked up\n+ 4 Haste\nRequires Northrend Jewelcrafting\n(1)\n\"Matches any socket.\"" }
+entries[56084] = { ["name"] = "Rigid Dragon's Eye", ["text"] = "2 sec cast\nTools: Jeweler's Tools\nReagents:\nDragon's Eye\nVendor:\nAnuur\nZone:\nIcecrown\nCost:\n2\n\nVendor:\nTiffany Cartier\nZone:\nDalaran\nCost:\n2\n\nRigid Dragon's Eye\nBinds when picked up\n+ 4 Critical Strike\nRequires Northrend Jewelcrafting\n(1)\n\"Matches any socket.\"" }
+entries[56085] = { ["name"] = "Smooth Dragon's Eye", ["text"] = "2 sec cast\nTools: Jeweler's Tools\nReagents:\nDragon's Eye\nVendor:\nAnuur\nZone:\nIcecrown\nCost:\n2\n\nVendor:\nTiffany Cartier\nZone:\nDalaran\nCost:\n2\n\nSmooth Dragon's Eye\nBinds when picked up\n+ 4 Critical Strike\nRequires Northrend Jewelcrafting\n(1)\n\"Matches any socket.\"" }
+entries[56086] = { ["name"] = "Solid Dragon's Eye", ["text"] = "2 sec cast\nTools: Jeweler's Tools\nReagents:\nDragon's Eye\nVendor:\nAnuur\nZone:\nIcecrown\nCost:\n2\n\nVendor:\nTiffany Cartier\nZone:\nDalaran\nCost:\n2\n\nSolid Dragon's Eye\nBinds when picked up\n+ 3 Stamina\nRequires Northrend Jewelcrafting\n(1)\n\"Matches any socket.\"" }
+entries[56087] = { ["name"] = "Sparkling Dragon's Eye", ["text"] = "2 sec cast\nTools: Jeweler's Tools\nReagents:\nDragon's Eye\nVendor:\nAnuur\nZone:\nIcecrown\nCost:\n2\n\nVendor:\nTiffany Cartier\nZone:\nDalaran\nCost:\n2\n\nSparkling Dragon's Eye\nBinds when picked up\n+ 4 Versatility\nRequires Northrend Jewelcrafting\n(1)\n\"Matches any socket.\"" }
+entries[56088] = { ["name"] = "Stormy Dragon's Eye", ["text"] = "2 sec cast\nTools: Jeweler's Tools\nReagents:\nDragon's Eye\nVendor:\nAnuur\nZone:\nIcecrown\nCost:\n2\n\nVendor:\nTiffany Cartier\nZone:\nDalaran\nCost:\n2\n\nStormy Dragon's Eye\nBinds when picked up\n+ 4 Versatility\nRequires Northrend Jewelcrafting\n(1)\n\"Matches any socket.\"" }
+entries[56090] = { ["name"] = "Impale", ["text"] = "Unlimited range\nInstant 3 sec cooldown\nSpikes pierce the floor and then rise up, dealing 1333 Physical damage and knocking up enemy targets in a line away from the caster." }
+entries[56091] = { ["name"] = "Flame Spike", ["text"] = "10 Energy 60 yd range\nInstant\nFires a quick jet of fire at your target, causing 1100 Fire damage. Awards 1 combo point." }
+entries[56092] = { ["name"] = "Engulf in Flames", ["text"] = "50 Energy / 1 to 5 Combo Points 60 yd range\nInstant\nLaunches a blast of flames, igniting your target for 1500 Fire damage every 2 sec. This effect stacks. Lasts longer per combo point:\n1 point : 6 seconds\n2 points: 10 seconds\n3 points: 14 seconds\n4 points: 18 seconds\n5 points: 22 seconds" }
+entries[56093] = { ["name"] = "Cosmetic - Parachute" }
+entries[56094] = { ["name"] = "Vendor - Bark Aura" }
+entries[56095] = { ["name"] = "Frost Arrow", ["text"] = "5 - 45 yd range\nInstant\nRequires Ranged\nFires an arrow of frost that does massive damage and slows movement speed for 6 sec." }

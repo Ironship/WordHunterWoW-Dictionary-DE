@@ -1,0 +1,1004 @@
+-- Generated static reference; see EntityData/source-manifest.json.
+local ref = WordHunterWoW_EntityDataBySource and WordHunterWoW_EntityDataBySource["multilanguage-cata"]
+if not ref then return end
+local entries = ref.kinds["spell"]["deDE"]
+entries[31608] = { ["name"] = "Krankheitswolke", ["text"] = "Sofort\nEine faulige Krankheitswolke umgibt den Zaubernden, die nahen Gegnern Naturschaden zufügt." }
+entries[31609] = { ["name"] = "Verzauberung des Exarch" }
+entries[31610] = { ["name"] = "Niederschlagen", ["text"] = "Nahkampfreichweite\nSofort 5 sek. Abklingzeit\nFügt einem Feind 4000 Schaden zu und betäubt ihn 2 Sek. lang." }
+entries[31611] = { ["name"] = "Teslaspule der Blutmythosinsel" }
+entries[31612] = { ["name"] = "Kanalisierung von Sironas" }
+entries[31613] = { ["name"] = "Rückkehr zu Temper", ["text"] = "Wirken in 10 sek.\nTeleportiert den Zaubernden zu Glutos im Glutgrund auf der Azurmythosinsel. Funktioniert nur auf der Azurmythosinsel." }
+entries[31614] = { ["name"] = "Kraftquelle deaktivieren", ["text"] = "5 Meter Reichweite\nWirken in 5 sek.\nDeaktiviert eine Kraftquelle des Nachtschimmerturms." }
+entries[31615] = { ["name"] = "Mal des Jägers", ["text"] = "60 Mana 100 Meter Reichweite\nSofort\nLegt das Mal des Jägers auf das Ziel und erhöht dabei die Distanzangriffskraft aller Angreifer gegen dieses Ziel um 1500. Zusätzlich ist mit dieser Fähigkeit das Ziel immer sichtbar, auch wenn es in den Verstohlenheitsmodus geht oder unsichtbar wird. Das Ziel wird außerdem auf der Minikarte angezeigt. Hält 20 Sek. lang an." }
+entries[31616] = { ["name"] = "Wächter der Natur", ["text"] = "100 Meter Reichweite\nSofort\nWenn Ihr einen Angriff erleidet, der Eure Gesundheit unter 30% senkt, wird Eure maximale Gesundheit 10 Sek. lang erhöht und Eure Bedrohung gegenüber dem Angreifer verringert. 30 Sek. Abklingzeit." }
+entries[31617] = { ["name"] = "Totenerweckung", ["text"] = "150 Mana 40 Meter Reichweite\nWirken in 1 sek. 15 sek. Abklingzeit\nBeschwört 1 Skelettangreifer und 1 Skelettmagier, um dem Zaubernden 1 Min. lang im Kampf zur Seite zu stehen." }
+entries[31618] = { ["name"] = "Schattenblitz", ["text"] = "90 Mana 40 Meter Reichweite\nWirken in 3 sek.\nSchleudert einen Blitz aus dunkler Magie auf einen Feind und verursacht Schattenschaden." }
+entries[31619] = { ["name"] = "Verschwinden", ["text"] = "Sofort\nDer Zaubernde verschwindet in einer Rauchwolke, die ihm für kurze Zeit in einen verbesserten Verstohlenheitsmodus versetzt." }
+entries[31620] = { ["name"] = "Feuerball", ["text"] = "90 Mana 40 Meter Reichweite\nWirken in 3 sek.\nFügt einem Gegner Feuerschaden zu." }
+entries[31621] = { ["name"] = "Verstohlenheit", ["text"] = "Sofort\nVersetzt den Zaubernden 15 Sek. lang in den Verstohlenheitsmodus." }
+entries[31622] = { ["name"] = "Frostblitz", ["text"] = "90 Mana 40 Meter Reichweite\nWirken in 3 sek.\nFügt einem Feind Frostschaden zu und verringert 4 Sek. lang sein Bewegungstempo." }
+entries[31623] = { ["name"] = "Gezielter Schuss", ["text"] = "310 Mana 40 Meter Reichweite\nWirken in 5 sek. 6 sek. Abklingzeit\nBenötigt Distanzwaffe\nEin gezielter Schuss, der den Distanzschaden um 200 erhöht." }
+entries[31624] = { ["name"] = "Totenerweckung", ["text"] = "150 Mana 40 Meter Reichweite\nWirken in 1 sek. 15 sek. Abklingzeit\nBeschwört 1 Skelettangreifer, um dem Zaubernden 1 Min. lang im Kampf zur Seite zu stehen." }
+entries[31625] = { ["name"] = "Totenerweckung", ["text"] = "150 Mana 40 Meter Reichweite\nWirken in 1 sek. 15 sek. Abklingzeit\nBeschwört 1 Skelettmagier, um dem Zaubernden 1 Min. lang im Kampf zur Seite zu stehen." }
+entries[31626] = { ["name"] = "Unheilige Raserei", ["text"] = "15 Mana 30 Meter Reichweite\nSofort\nErhöht das Angriffstempo eines Verbündeten 20 Sek. lang um 100%, fügt diesem Verbündeten aber auch alle 2 Sek. 500 Naturschaden zu." }
+entries[31627] = { ["name"] = "Schattenblitz", ["text"] = "40 Meter Reichweite\nWirken in 1.5 sek.\nSchleudert einen Blitz aus dunkler Magie auf einen Feind und verursacht Schattenschaden." }
+entries[31628] = { ["name"] = "Grüner Strahl" }
+entries[31629] = { ["name"] = "Schattenspalten", ["text"] = "Nahkampfreichweite\nNächster Nahkampf\nBenötigt Nahkampfwaffe\nBenötigt Metamorphose\nFügt einem Feind und seinem nächsten Verbündeten Waffenschaden plus 15 zu, wirkt auf bis zu 3 Ziele." }
+entries[31630] = { ["name"] = "Grüner Strahl" }
+entries[31631] = { ["name"] = "Grüner Strahl" }
+entries[31633] = { ["name"] = "Totem der Erdstärke", ["text"] = "25 Mana\nSofort\nTools: Erdtotem\nBeschwört ein Totem der Erdstärke mit 5 Gesundheit zu Füßen des Zaubernden. Das Totem erhöht die Stärke der Gruppenmitglieder in einem Umkreis von 40 Metern um 549 . Hält 2 Min. lang an." }
+entries[31634] = { ["name"] = "Stärke der Erde" }
+entries[31635] = { ["name"] = "Manaschild" }
+entries[31638] = { ["name"] = "Spiel mit dem Feuer", ["text"] = "Wenn Ihr von einem Nahkampfangriff getroffen werdet, wird die verbleibende Abklingzeit von 'Druckwelle' um 2 Sek. verringert. Dieser Effekt kann nur ein Mal alle 1,5 Sek. auftreten.\n(1.5s Abklingzeit)" }
+entries[31639] = { ["name"] = "Spiel mit dem Feuer", ["text"] = "Wenn Ihr von einem Nahkampfangriff getroffen werdet, wird die verbleibende Abklingzeit von 'Druckwelle' um 4 Sek. verringert. Dieser Effekt kann nur ein Mal alle 1,5 Sek. auftreten.\n(1.5s Abklingzeit)" }
+entries[31640] = { ["name"] = "Spiel mit dem Feuer", ["text"] = "Wenn Ihr von einem Nahkampfangriff getroffen werdet, wird die verbleibende Abklingzeit von 'Druckwelle' um 6 Sek. verringert. Dieser Effekt kann nur ein Mal alle 1,5 Sek. auftreten.\n(1.5s Abklingzeit)" }
+entries[31641] = { ["name"] = "Heiße Sohlen", ["text"] = "Verleiht Euch eine Chance von 5%, dass nach einem erlittenen Nahkampf- oder Distanztreffer Euer Bewegungstempo um 50% erhöht wird und alle bewegungsverhindernden Effekte entfernt werden. Hält 8 Sek. lang an.\n(Procchance: 5%)" }
+entries[31642] = { ["name"] = "Heiße Sohlen", ["text"] = "Verleiht Euch eine Chance von 10%, dass nach einem erlittenen Nahkampf- oder Distanztreffer Euer Bewegungstempo um 50% erhöht wird und alle bewegungsverhindernden Effekte entfernt werden. Hält 8 Sek. lang an.\n(Procchance: 10%)" }
+entries[31643] = { ["name"] = "Heiße Sohlen", ["text"] = "Sofort\nVerleiht Euch eine Chance, dass nach einem erlittenen Nahkampf- oder Distanztreffer Euer Bewegungstempo um 50% erhöht wird und alle bewegungsverhindernden Effekte entfernt werden. Hält 8 Sek. lang an." }
+entries[31651] = { ["name"] = "Bansheefluch", ["text"] = "30 Meter Reichweite\nSofort\nVerringert die Trefferchance eines Gegners 5 Min. lang um 66%." }
+entries[31656] = { ["name"] = "Machtvolles Feuer", ["text"] = "(Procchance: 33%)" }
+entries[31657] = { ["name"] = "Machtvolles Feuer", ["text"] = "(Procchance: 67%)" }
+entries[31658] = { ["name"] = "Machtvolles Feuer" }
+entries[31661] = { ["name"] = "Drachenodem", ["text"] = "7% von Grundmana\nSofort 20 sek. Abklingzeit\nFügt Zielen in einem kegelförmigen Bereich vor dem Zaubernden 1326 Feuerschaden zu und desorientiert sie 5 Sek. lang. Jeder direkte, Schaden verursachende Angriff lässt die Ziele wieder zu sich kommen." }
+entries[31662] = { ["name"] = "Antimagische Hülle", ["text"] = "75 Mana 30 Meter Reichweite\nWirken in 1.5 sek.\nErschafft eine antimagische Hülle um den Zaubernden, die bis zu 200000 Magieschaden absorbiert. Hält 30 Sek. lang an." }
+entries[31664] = { ["name"] = "Gargoylestoß", ["text"] = "35 Meter Reichweite\nWirken in 1.5 sek.\nVerursacht bei einem Feind Naturschaden." }
+entries[31665] = { ["name"] = "Meister des hinterhältigen Angriffs", ["text"] = "Sofort\nAngriffe aus der Verstohlenheit heraus und bis 6 Sek. nach Verlassen der Verstohlenheit verursachen zusätzlichen Schaden." }
+entries[31666] = { ["name"] = "Meister des hinterhältigen Angriffs" }
+entries[31667] = { ["name"] = "Gefrorener Kern", ["text"] = "Verringert jeglichen erlittenen Schaden um 2%." }
+entries[31668] = { ["name"] = "Gefrorener Kern", ["text"] = "Verringert jeglichen erlittenen Schaden um 4%." }
+entries[31669] = { ["name"] = "Gefrorener Kern", ["text"] = "Verringert jeglichen erlittenen Schaden um 6%." }
+entries[31670] = { ["name"] = "Eisschollen", ["text"] = "Verringert die Abklingzeit Eurer Zauber 'Frostnova', 'Kältekegel', 'Eisblock', 'Eisbarriere', 'Eisige Adern' und 'Kälteeinbruch' um 7%." }
+entries[31671] = { ["name"] = "Wachsen" }
+entries[31672] = { ["name"] = "Eisschollen", ["text"] = "Verringert die Abklingzeit Eurer Zauber 'Frostnova', 'Kältekegel', 'Eisblock', 'Eisbarriere', 'Eisige Adern' und 'Kälteeinbruch' um 14%." }
+entries[31673] = { ["name"] = "Faulige Sporen", ["text"] = "8 Meter Reichweite\nKanalisiert (Wirken in 11 sek.)\nUmwickelt einen Gegner mit Wurzeln, fügt ihm pro Sekunde Naturschaden zu und macht ihn bis zu 11 Sek. lang bewegungsunfähig." }
+entries[31674] = { ["name"] = "Arktische Winde", ["text"] = "Sinkt Eure Gesundheit unter 35%, wird die Chance von Angreifern, Euch mit Nahkampf- oder Distanzangriffen zu treffen um 10% verringert. Zudem wird die Abklingzeit Eurer Zauber 'Frostnova' und 'Kältekegel' um 33% verringert." }
+entries[31675] = { ["name"] = "Arktische Winde", ["text"] = "Sinkt Eure Gesundheit unter 35%, wird die Chance von Angreifern, Euch mit Nahkampf- oder Distanzangriffen zu treffen um 20% verringert. Zudem wird die Abklingzeit Eurer Zauber 'Frostnova' und 'Kältekegel' um 66% verringert." }
+entries[31676] = { ["name"] = "Arktische Winde", ["text"] = "Sinkt Eure Gesundheit unter 35%, wird die Chance von Angreifern, Euch mit Nahkampf- oder Distanzangriffen zu treffen um 30% verringert. Zudem wird die Abklingzeit Eurer Zauber 'Frostnova' und 'Kältekegel' um 100% verringert." }
+entries[31679] = { ["name"] = "Glühender Zorn", ["text"] = "Erhöht den Schaden aller Zauber gegen Ziele, die über weniger als 35% Gesundheit verfügen, um 4%." }
+entries[31680] = { ["name"] = "Glühender Zorn", ["text"] = "Erhöht den Schaden aller Zauber gegen Ziele, die über weniger als 35% Gesundheit verfügen, um 8%." }
+entries[31682] = { ["name"] = "Machtvoller Frost", ["text"] = "Erhöht den Bonus, den Eure Zauber 'Frostblitz', 'Frostfeuerblitz' und 'Eislanze' durch Zaubermacht erhalten um 7%." }
+entries[31683] = { ["name"] = "Machtvoller Frost", ["text"] = "Erhöht den Bonus, den Eure Zauber 'Frostblitz', 'Frostfeuerblitz' und 'Eislanze' durch Zaubermacht erhalten um 13%." }
+entries[31687] = { ["name"] = "Wasserelementar beschwören", ["text"] = "16% von Grundmana\nSofort 3 min Abklingzeit\nBeschwört einen Wasserelementar, der für den Zaubernden kämpft." }
+entries[31688] = { ["name"] = "Frostatem", ["text"] = "35 Meter Reichweite\nWirken in 3 sek.\nFügt einem Feind Frostschaden zu und verringert 6 Sek. lang sein Bewegungstempo." }
+entries[31689] = { ["name"] = "Sporenwolke", ["text"] = "Sofort\nEine Wolke fauliger Sporen umhüllt das Ziel, verursacht 20 Sek. lang alle 2 Sek. 360 to 540 Naturschaden." }
+entries[31690] = { ["name"] = "Fauliger Pilz", ["text"] = "Sofort\nIhr seht aus wie ein Pilz. Igitt..." }
+entries[31694] = { ["name"] = "Seltsames Gefühl" }
+entries[31696] = { ["name"] = "Erlass des Schattengewölbes", ["text"] = "Wirken in 1 sek.\nSteht direkt vor Than Ufrang dem Mächtigen und lest den Erlass des Schattengewölbes. Kann nicht genutzt werden, wenn Ihr Euch im Kampf befindet, wenn Than Ufrang der Mächtige sich im Kampf befindet oder nicht anwesend ist." }
+entries[31697] = { ["name"] = "Faulige Sporen", ["text"] = "Sofort\nZieht allen Gegnern in der Nähe 400 to 600 Gesundheit ab." }
+entries[31698] = { ["name"] = "Wachsen" }
+entries[31699] = { ["name"] = "The Admiral Revealed: Lord-Commander's Nullifier Effect" }
+entries[31700] = { ["name"] = "Schwarze Qirajipanzerdrohne", ["text"] = "Sofort 3 sek. Abklingzeit\nBeschwört eine reitbare Qirajipanzerdrohne oder gibt sie wieder frei." }
+entries[31701] = { ["name"] = "Schwebepuls" }
+entries[31702] = { ["name"] = "Haltet mich fest" }
+entries[31703] = { ["name"] = "Magnetische Anziehung", ["text"] = "100 Meter Reichweite\nSofort\nZieht jemanden zu Euch." }
+entries[31704] = { ["name"] = "Levitieren", ["text"] = "100 Meter Reichweite\nKanalisiert (Wirken in 6 sek.)\nPsychische Kräfte lassen das Ziel in die Luft schweben, wo es hilflos hängenbleibt." }
+entries[31705] = { ["name"] = "Magnetische Anziehung", ["text"] = "8 - 40 Meter Reichweite\nWirken in 0.5 sek.\nZieht jemanden zu Euch." }
+entries[31706] = { ["name"] = "Flüssiges Feuer beschwören" }
+entries[31707] = { ["name"] = "Wasserblitz", ["text"] = "1% von Grundmana 45 Meter Reichweite\nWirken in 2.5 sek.\nFügt dem Ziel 50 Frostschaden zu." }
+entries[31713] = { ["name"] = "Heiliges Licht", ["text"] = "150 Mana 40 Meter Reichweite\nWirken in 2.5 sek.\nRuft heilige Magie herbei, um einen Verbündeten zu heilen." }
+entries[31715] = { ["name"] = "Statische Aufladung", ["text"] = "30 Meter Reichweite\nSofort 3 sek. Abklingzeit\nLädt einen Gegner mit Energie auf, die 12 Sek. lang 18 Naturschaden verursacht. Während das Ziel davon betroffen ist, verursacht es durch die Aufladung bei seinen nahen Verbündeten regelmäßig Naturschaden." }
+entries[31716] = { ["name"] = "Statische Aufladung", ["text"] = "Sofort\nLädt einen Gegner mit Energie auf und verursacht 1250 Naturschaden. Während das Ziel davon betroffen ist, verursacht es durch die Aufladung bei seinen nahen Verbündeten ebenfalls regelmäßig 1250 Naturschaden." }
+entries[31717] = { ["name"] = "Kettenblitzschlag", ["text"] = "150 Mana 100 Meter Reichweite\nWirken in 3 sek. 3 sek. Abklingzeit\nTrifft einen Feind mit einem Blitzschlag, der auf einen in der Nähe befindlichen Feind überspringt. Der Zauber wirkt sich auf bis zu 5 Ziele aus und verursacht bei jedem folgenden Ziel immer größeren Naturschaden." }
+entries[31718] = { ["name"] = "Einhüllende Winde", ["text"] = "35 Meter Reichweite\nSofort\nUmgibt den Feind bis zu 6 Sek. lang mit einem Wirbelsturm." }
+entries[31719] = { ["name"] = "Stilllegung", ["text"] = "19 Mana 30 Meter Reichweite\nSofort\nUmgibt den Feind bis zu 20 Sek. lang mit einem Wirbelsturm. Wenn das Ziel irgendeinen Schaden erleidet, kann es den fesselnden Winden entkommen." }
+entries[31721] = { ["name"] = "Schwebepuls" }
+entries[31722] = { ["name"] = "Feuerbrand", ["text"] = "Verbrennt nahe Gegner alle 3 Sek. mit 3325 to 3675 Feuerschaden." }
+entries[31723] = { ["name"] = "Feuerbrand", ["text"] = "Sofort\nVerbrennt in der Nähe befindliche Feinde regelmäßig für 713 to 787 Feuerschaden." }
+entries[31724] = { ["name"] = "Flammenpuffer", ["text"] = "Nahkampfreichweite\nSofort\nErhöht den von einem Gegner erlittenen Feuerschaden 1 Min. lang um 50." }
+entries[31725] = { ["name"] = "Nachtmahr beschwören" }
+entries[31726] = { ["name"] = "Heiliges Reittier beschwören" }
+entries[31727] = { ["name"] = "Nazan zurücksetzen" }
+entries[31729] = { ["name"] = "Manabrand", ["text"] = "30 Meter Reichweite\nWirken in 2 sek.\nTrifft einen Feind mit einem Antimanablitz. Für jeden vom Blitz verbrauchten Manapunkt erleidet das Ziel 0.5 Schaden." }
+entries[31730] = { ["name"] = "Heilung", ["text"] = "215 Mana 40 Meter Reichweite\nWirken in 3.5 sek.\nRuft heilige Magie herbei, um einen Verbündeten zu heilen." }
+entries[31731] = { ["name"] = "Schildwall", ["text"] = "Sofort\nVerringert den vom Zaubernden erlittenen körperlichen und magischen Schaden 10 Sek. lang um 60%." }
+entries[31732] = { ["name"] = "Anspornender Schrei", ["text"] = "Sofort\nErhöht die Nahkampfangriffskraft naher befreundeter Ziele 30 Sek. lang um 165." }
+entries[31733] = { ["name"] = "Sturmangriff", ["text"] = "8 - 25 Meter Reichweite\nSofort\nStürmt auf einen Gegner zu, verursacht normalen Schaden plus 0 und betäubt ihn 2 Sek. lang." }
+entries[31734] = { ["name"] = "Mal der Sonnenfalken" }
+entries[31735] = { ["name"] = "Mal der Sonnenfalken" }
+entries[31736] = { ["name"] = "Eisenrankensamenkörner", ["text"] = "15 Meter Reichweite\nWirken in 1.5 sek.\nUmschlingt die nahe Dampfpumpensteuerung mit einem dicken Geflecht aus Eisenranken." }
+entries[31737] = { ["name"] = "Wirbelwind", ["text"] = "Kanalisiert (Wirken in 2 sek.)\nGreift in der Nähe befindliche Feinde mit einem Wirbel aus Stahl an, der 2 Sek. lang anhält und zusätzlichen Schaden verursacht." }
+entries[31738] = { ["name"] = "Wirbelwind", ["text"] = "Sofort\nGreift in der Nähe befindliche Feinde mit einem Wirbel aus Stahl an, der normalen Schaden plus 5 verursacht." }
+entries[31739] = { ["name"] = "Heilung", ["text"] = "175 Mana 40 Meter Reichweite\nWirken in 2.5 sek.\nRuft heilige Magie herbei, um einen Verbündeten zu heilen." }
+entries[31740] = { ["name"] = "Heilige Pein", ["text"] = "95 Mana 40 Meter Reichweite\nWirken in 2.5 sek.\nZerschmettert einen Feind und fügt ihm Heiligschaden zu." }
+entries[31741] = { ["name"] = "Verlangsamen", ["text"] = "135 Mana 30 Meter Reichweite\nSofort\nErhöht die Zeit zwischen Angriffen eines Feindes um 25% und verlangsamt sein Bewegungstempo um 50%. Hält 15 Sek. lang an." }
+entries[31742] = { ["name"] = "Arkane Geschosse", ["text"] = "195 Mana 30 Meter Reichweite\nWirken in 0.5 sek.\nSchleudert magische Geschosse auf einen Feind und verursacht 5 Sek. lang pro Sekunde Arkanschaden." }
+entries[31743] = { ["name"] = "Arkane Geschosse", ["text"] = "30 Meter Reichweite\nSofort\nSchleudert ein arkanes Geschoss auf den Feind und verursacht Arkanschaden." }
+entries[31745] = { ["name"] = "Rettung", ["text"] = "Verringert den Betrag jeglicher erzeugten Bedrohung um 90%. Passiv." }
+entries[31747] = { ["name"] = "Gift", ["text"] = "50 Meter Reichweite\nWirken in 2 sek.\nSchleudert Gift auf einen Gegner, fügt Naturschaden zu." }
+entries[31748] = { ["name"] = "Geistpartikel (groß)" }
+entries[31749] = { ["name"] = "Heilung", ["text"] = "215 Mana 40 Meter Reichweite\nSofort\nRuft heilige Magie herbei, um einen Verbündeten zu heilen." }
+entries[31751] = { ["name"] = "Arkane Geschosse" }
+entries[31754] = { ["name"] = "Stoß", ["text"] = "Nahkampfreichweite\nNächster Nahkampf\nBenötigt Nahkampfwaffe\nSchlägt einen Feind und fügt erhöhten Nahkampfschaden zu." }
+entries[31755] = { ["name"] = "Kriegsdonner", ["text"] = "Sofort\nFügt in der Nähe befindlichen Feinden normalen Schaden plus 0 zu, stößt sie zurück und betäubt sie 2 Sek. lang." }
+entries[31756] = { ["name"] = "Pulverisieren" }
+entries[31757] = { ["name"] = "Pulverisieren", ["text"] = "(Procchance: 20%, 6s Abklingzeit)" }
+entries[31758] = { ["name"] = "Speerwurf", ["text"] = "8 - 40 Meter Reichweite\nSofort\nWirft eine Waffe nach einem Feind und fügt körperlichen Schaden zu." }
+entries[31759] = { ["name"] = "Heiliger Blitz", ["text"] = "90 Mana 40 Meter Reichweite\nWirken in 2.5 sek.\nFügt einem Gegner Heiligschaden zu." }
+entries[31760] = { ["name"] = "Heilungszauberschutz", ["text"] = "80 Mana\nSofort 10 sek. Abklingzeit\nBeschwört einen Zauberschutz, der 30 Sek. lang anhält und regelmäßig alle Verbündeten in der nächsten Umgebung heilt." }
+entries[31761] = { ["name"] = "Heilungszauberschutz - Passiv" }
+entries[31762] = { ["name"] = "Aura der Heilung", ["text"] = "Sofort\nStellt bei nahen Verbündeten 365 Gesundheit wieder her." }
+entries[31764] = { ["name"] = "Blitzschlag", ["text"] = "90 Mana 40 Meter Reichweite\nWirken in 3 sek.\nDeckt einen Feind mit Blitzschlägen ein und fügt ihm Naturschaden zu." }
+entries[31765] = { ["name"] = "Blitzschlagschild", ["text"] = "190 Mana 30 Meter Reichweite\nSofort 10 sek. Abklingzeit\nUmgibt den Zaubernden mit 3 Kugelblitzen, die eine Chance von 50% haben, Nahkampf- oder Distanzangreifer zu treffen und 250 Schaden zu verursachen. Jedes Mal, wenn der Blitzschlagschild zuschlägt, löst sich ein Kugelblitz auf. Auf diese Weise erlischt der Schild nach 10 Min. oder nachdem er 3-mal zugeschlagen hat.\n(Procchance: 50%, 3.5s Abklingzeit)" }
+entries[31766] = { ["name"] = "Eislanze" }
+entries[31771] = { ["name"] = "Hülle der Abschreckung", ["text"] = "Sofort 1 sek. Abklingzeit\nAbsorbiert 440 Schaden. Hält 20 Sek. lang an." }
+entries[31772] = { ["name"] = "Speerwurf", ["text"] = "8 - 40 Meter Reichweite\nWirken in 2 sek.\nWirft einen vergifteten Speer auf einen Gegner, fügt körperlichen Schaden und zusätzlich 15 Sek. lang alle 3 Sekungen 175 Naturschaden zu." }
+entries[31779] = { ["name"] = "Spalten", ["text"] = "Nahkampfreichweite\nNächster Nahkampf\nFügt einem Feind und seinem nächsten Verbündeten normalen Schaden zu, wirkt auf bis zu 3 Ziele." }
+entries[31781] = { ["name"] = "Hand von Argus angreifen" }
+entries[31782] = { ["name"] = "Verjüngung", ["text"] = "90 Mana 40 Meter Reichweite\nSofort\nHeilt einen Verbündeten 12 Sek. lang alle 3 Sek." }
+entries[31784] = { ["name"] = "Zorn", ["text"] = "75 Mana 40 Meter Reichweite\nWirken in 2 sek.\nSchleudert einen Blitzschlag auf einen Feind und verursacht Naturschaden." }
+entries[31786] = { ["name"] = "Einklang des Geistes", ["text"] = "Sofort\nEine passive Fähigkeit, die dem Paladin Mana gewährt, wenn er von anderen befreundeten Zielen geheilt wird. Das erhaltene Mana entspricht einem Prozentsatz des geheilten Betrages." }
+entries[31789] = { ["name"] = "Rechtschaffene Verteidigung", ["text"] = "40 Meter Reichweite\nSofort 8 sek. Abklingzeit\nEilt einem befreundeten Ziel zu Hilfe und veranlasst 3 Gegner, die dieses Ziel angreifen, stattdessen den Paladin zu attackieren." }
+entries[31790] = { ["name"] = "Rechtschaffene Verteidigung", ["text"] = "Unbegrenzte Reichweite\nSofort\nEilt einem befreundeten Ziel zu Hilfe und veranlasst 3 Gegner, die dieses Ziel angreifen, stattdessen den Paladin zu attackieren." }
+entries[31792] = { ["name"] = "Bärengestalt", ["text"] = "Sofort 30 sek. Abklingzeit\nVerändert die Gestalt 5 Min. lang in einen Bären, erhöht sowohl Rüstung als auch Trefferpunkte und ermöglicht den Einsatz der verschiedenen Bärenfähigkeiten." }
+entries[31793] = { ["name"] = "Sonnenfalken angreifen" }
+entries[31794] = { ["name"] = "Fokussierte Gedanken", ["text"] = "Unbegrenzte Reichweite\nSofort\nVerringert die Kosten des nächsten Zaubers innerhalb von 10 Sek. um bis zu 215 Mana." }
+entries[31796] = { ["name"] = "Atiesh" }
+entries[31797] = { ["name"] = "Selbst verbannen", ["text"] = "30 Meter Reichweite\nSofort\nReagenzien:\nSeelensplitter\nVerbannt einen Feind und verhindert damit jegliche Aktion, macht es aber bis zu bis Abbruch lang unverwundbar. Es kann immer nur jeweils ein Ziel verbannt werden." }
+entries[31798] = { ["name"] = "Atiesh" }
+entries[31799] = { ["name"] = "Ende des Angriffs" }
+entries[31801] = { ["name"] = "Siegel der Wahrheit", ["text"] = "14% von Grundmana\nSofort\nErfüllt den Paladin mit heiliger Macht, durch den Angriffe auf Einzelziele den Effekt 'Tadel' auslösen, der im Verlauf von 15 Sek. [(0.01 * Spell power + 0.0270 * Attack power) * 5 * ( 100 ) / 100] zusätzlichen Heiligschaden verursacht. 'Tadel' ist bis zu 5-mal stapelbar. Sobald 5 Stapel erreicht werden, verursacht jeder Angriff des Paladins zusätzlich 15% Waffenschaden als Heiligschaden. [ Glyphe 'Siegel der Wahrheit' : Gewährt zudem, so lang der Effekt aktiv ist, 10 Waffenkunde ] Es kann immer nur jeweils ein Siegel auf dem Paladin aktiv sein. Hält 30 Min. lang an.\n\nDie Entfesselung der Energie dieses Siegels fügt einem Feind (1 + 0.223 * Spell power + 0.142 * Attack power) Heiligschaden zu, dieser Schaden wird für jeden Stapel von 'Tadel' auf dem Ziel um 20% erhöht." }
+entries[31802] = { ["name"] = "Atiesh" }
+entries[31803] = { ["name"] = "Tadel", ["text"] = "100 Meter Reichweite\nSofort\nAlle 3 Sek. Heiligschaden." }
+entries[31804] = { ["name"] = "Richturteil der Wahrheit", ["text"] = "100 Meter Reichweite\nSofort\nFügt einem Feind (1 + 0.223 * Spell power + 0.142 * Attack power) Heiligschaden zu. Für jeden Stapel von 'Tadel' auf dem Ziel wird der Schaden um 20% erhöht." }
+entries[31806] = { ["name"] = "Blauer Strahl" }
+entries[31807] = { ["name"] = "Mal des Krieges", ["text"] = "60 Mana" }
+entries[31808] = { ["name"] = "Mal der Lehre", ["text"] = "60 Mana" }
+entries[31810] = { ["name"] = "Mal der Lehre", ["text"] = "60 Mana" }
+entries[31811] = { ["name"] = "Mal der Lehre", ["text"] = "60 Mana" }
+entries[31812] = { ["name"] = "Mal des Krieges", ["text"] = "60 Mana" }
+entries[31813] = { ["name"] = "Mal des Krieges", ["text"] = "60 Mana" }
+entries[31814] = { ["name"] = "Mal des Krieges", ["text"] = "60 Mana" }
+entries[31815] = { ["name"] = "Mal der Lehre", ["text"] = "60 Mana" }
+entries[31816] = { ["name"] = "Zunade wandert" }
+entries[31817] = { ["name"] = "Stärke" }
+entries[31818] = { ["name"] = "Aderlass", ["text"] = "Sofort\nWandelt Gesundheit in Mana um." }
+entries[31819] = { ["name"] = "Fieser Trick", ["text"] = "Nahkampfreichweite\nNächster Nahkampf\nFügt einem Feind normalen Schaden plus 45 to 51 zu und betäubt ihn 5 Sek. lang, wenn im Verstohlenheitsmodus angegriffen wird." }
+entries[31821] = { ["name"] = "Aurenbeherrschung", ["text"] = "Sofort 2 min Abklingzeit\nVerleiht allen durch Eure Fähigkeit 'Aura der Konzentration' gestärkten Zielen Immunität gegen Unterbrechungs- und Stilleeffekte. Die Effekte Eurer Fähigkeiten 'Aura der Hingabe', 'Aura des Widerstands' und 'Aura der Vergeltung' werden um 100% erhöht. Hält 6 Sek. lang an." }
+entries[31822] = { ["name"] = "Reinen Herzens", ["text"] = "Verringert die Dauer von Fluch-, Krankheits- und Gifteffekten um 15%." }
+entries[31823] = { ["name"] = "Reinen Herzens", ["text"] = "Verringert die Dauer von Fluch-, Krankheits- und Gifteffekten um 30%." }
+entries[31825] = { ["name"] = "Denunzieren", ["text"] = "Verringert die Manakosten Eures Zaubers 'Exorzismus' um 38%. Zudem besteht eine Chance von 50%, dass Ziele des Zaubers mit dem Effekt 'Denunzieren' belegt werden. Durch diesen Effekt wird das betroffene Ziel 6 Sek. lang daran gehindert, kritische Treffer zu erzielen.\n(Procchance: 50%)" }
+entries[31827] = { ["name"] = "Heldenhafter Stoß", ["text"] = "Nahkampfreichweite\nNächster Nahkampf\nBenötigt Nahkampfwaffe\nErhöht leicht den Nahkampfschaden des nächsten Angriffs." }
+entries[31828] = { ["name"] = "Gesegnetes Leben", ["text"] = "Es besteht eine Chance von 50%, dass Ihr eine Aufladung Heilige Kraft gewinnt, wenn Ihr direkten Schaden erleidet. Dieser Effekt kann nur ein Mal alle 8 Sek. auftreten.\n(Procchance: 50%)" }
+entries[31829] = { ["name"] = "Gesegnetes Leben", ["text"] = "Es besteht eine Chance von 100%, dass Ihr eine Aufladung Heilige Kraft gewinnt, wenn Ihr direkten Schaden erleidet. Dieser Effekt kann nur ein Mal alle 8 Sek. auftreten." }
+entries[31842] = { ["name"] = "Göttliche Gunst", ["text"] = "Sofort 3 min Abklingzeit\nErhöht Euer Zaubertempo um 20% und die Chance auf einen kritischen Zaubereffekt um 20%. Hält 20 Sek. lang an." }
+entries[31843] = { ["name"] = "Fieser Trick", ["text"] = "Nahkampfreichweite\nNächster Nahkampf 30 sek. Abklingzeit\nFügt einem Feind normalen Schaden plus 45 to 51 zu und betäubt ihn 5 Sek. lang, wenn im Verstohlenheitsmodus angegriffen wird." }
+entries[31848] = { ["name"] = "Schild des Templers", ["text"] = "Verringert die Abklingzeit Eurer Fähigkeit 'Zornige Vergeltung' um 20 Sek. und die Abklingzeit Eures Zaubers 'Wächter der Uralten Könige' um 40 Sek. Zudem erzeugt Euer Zauber 'Göttliche Bitte' 1 Heilige Kraft." }
+entries[31849] = { ["name"] = "Schild des Templers", ["text"] = "Verringert die Abklingzeit Eurer Fähigkeit 'Zornige Vergeltung' um 40 Sek. und die Abklingzeit Eures Zaubers 'Wächter der Uralten Könige' um 80 Sek. Zudem erzeugt Euer Zauber 'Göttliche Bitte' 2 Heilige Kraft." }
+entries[31850] = { ["name"] = "Unermüdlicher Verteidiger", ["text"] = "Sofort 3 min Abklingzeit\nVerringert den erlittenen Schaden 10 Sek. lang um 20%. Während 'Unermüdlicher Verteidiger' aktiv ist, wird der nächste Angriff, der Euch normalerweise töten würde, Euch stattdessen um bis zu 15% Eurer maximalen Gesundheit heilen." }
+entries[31863] = { ["name"] = "Schildattacke", ["text"] = "150 Mana 8 - 25 Meter Reichweite\nSofort 30 sek. Abklingzeit\nStürmt auf einen Gegner zu, fügt 0 Heiligschaden zu und betäubt ihn bis Abbruch lang." }
+entries[31865] = { ["name"] = "Verführung", ["text"] = "25 Mana 15 Meter Reichweite\nWirken in 0.5 sek. 6 sek. Abklingzeit\nVerführt 6 Sek. lang in der Nähe befindliche gegnerische Ziele." }
+entries[31866] = { ["name"] = "Kreuzzug", ["text"] = "Erhöht den verursachten Schaden Eurer Fähigkeiten 'Kreuzfahrerstoß', 'Hammer der Rechtschaffenen' und 'Urteil des Templers' um 10% sowie den Schaden und die Heilung Eures Zaubers 'Heiliger Schock' um 10%. Zudem wird, wenn Ihr ein Ziel tötet, das Erfahrung oder Ehre gewährt, die Heilung Eures nächsten Wirkens von 'Heiliges Licht' innerhalb von 15 Sek. zusätzlich um 100% erhöht." }
+entries[31867] = { ["name"] = "Kreuzzug", ["text"] = "Erhöht den verursachten Schaden Eurer Fähigkeiten 'Kreuzfahrerstoß', 'Hammer der Rechtschaffenen' und 'Urteil des Templers' um 20% sowie den Schaden und die Heilung Eures Zaubers 'Heiliger Schock' um 20%. Zudem wird, wenn Ihr ein Ziel tötet, das Erfahrung oder Ehre gewährt, die Heilung Eures nächsten Wirkens von 'Heiliges Licht' innerhalb von 15 Sek. zusätzlich um 200% erhöht." }
+entries[31868] = { ["name"] = "Kreuzzug", ["text"] = "Erhöht den verursachten Schaden Eurer Fähigkeiten 'Kreuzfahrerstoß', 'Hammer der Rechtschaffenen' und 'Urteil des Templers' um 30% sowie den Schaden und die Heilung Eures Zaubers 'Heiliger Schock' um 30%. Zudem wird, wenn Ihr ein Ziel tötet, das Erfahrung oder Ehre gewährt, die Heilung Eures nächsten Wirkens von 'Heiliges Licht' innerhalb von 15 Sek. zusätzlich um 300% erhöht." }
+entries[31876] = { ["name"] = "Kommunion", ["text"] = "Eure Auren erhöhen den verursachten Schaden Eurer Gruppen- und Schlachtzugsmitglieder um 3% und Euer verursachter Schaden wird permanent um zusätzlich 2% erhöht. Zudem ruft Euer Zauber 'Richturteil' den Effekt 'Erfrischung' hervor.\n\nErfrischung - Gewährt bis zu 10 Gruppen- oder Schlachtzugsmitgliedern alle 10 Sek. Manaregeneration in Höhe von 1% ihres maximalen Manas. Hält 15 Sek. lang an." }
+entries[31878] = { ["name"] = "Richturteil des Weisen", ["text"] = "Euer Zauber 'Richturteil' gewährt Euch im Verlauf von 10 Sek. 30% Eures Grundmanas." }
+entries[31884] = { ["name"] = "Zornige Vergeltung", ["text"] = "8% von Grundmana\nSofort 3 min Abklingzeit\nErhöht jeglichen verursachten Schaden und Heilung 20 Sek. lang um 20%." }
+entries[31885] = { ["name"] = "Turm erobert" }
+entries[31886] = { ["name"] = "Riesen aufspüren", ["text"] = "Sofort\nZeigt 1 Stunde lang den Aufenthaltsort aller in der Nähe befindlichen Riesen auf der Minikarte an." }
+entries[31889] = { ["name"] = "Dem Kampf entfliehen", ["text"] = "Sofort\nBefiehlt den Orcs, sich aus dem Kampf zu lösen, wenn der Hauptmann stirbt." }
+entries[31900] = { ["name"] = "Stampfen", ["text"] = "10 Meter Reichweite\nSofort\nStampft auf und erschüttert so den Boden, was nahen Gegnern Schaden zufügt und sie zurückstößt." }
+entries[31901] = { ["name"] = "Dämonischer Schild", ["text"] = "Sofort\nDer erlittene körperliche und magische Schaden wird um 75% reduziert." }
+entries[31902] = { ["name"] = "Purple Beam" }
+entries[31903] = { ["name"] = "Schlag des Verdammnisfeuers", ["text"] = "260 Mana 30 Meter Reichweite\nSofort\nRuft eine Feuersäule herbei, die wahllos umherzieht und alles verbrennt, was im Weg ist." }
+entries[31904] = { ["name"] = "Heiliger Schild", ["text"] = "200 Mana\nSofort\nErhöht die Chance zu blocken 8 Sek. lang um 75% und fügt, solange aktiv, für jeden geblockten Angriff 463 to 537 Heiligschaden zu." }
+entries[31905] = { ["name"] = "Schildhaltung", ["text"] = "Sofort\nErhöht die Blockchance des Zaubernden 8 Sek. lang um 100%." }
+entries[31907] = { ["name"] = "Stoß", ["text"] = "Nahkampfreichweite\nNächster Nahkampf\nSchlägt einen Feind und fügt erhöhten Nahkampfschaden zu." }
+entries[31909] = { ["name"] = "Wirbelwind", ["text"] = "Nahkampfreichweite\nKanalisiert (Wirken in 4 sek.)\nGreift in der Nähe befindliche Feinde mit einem Wirbel aus Stahl an, der 4 Sek. lang anhält und normalen Schaden plus 300 verursacht." }
+entries[31910] = { ["name"] = "Wirbelwind", ["text"] = "Sofort\nGreift in der Nähe befindliche Feinde mit einem Wirbel aus Stahl an, der normalen Schaden plus 500 verursacht." }
+entries[31911] = { ["name"] = "Tödlicher Stoß", ["text"] = "Nahkampfreichweite\nSofort 6 sek. Abklingzeit\nBenötigt Nahkampfwaffe\nVerursacht 150% Waffenschaden und verwundet das Ziel, verringert außerdem die Wirksamkeit jeglicher Heilung 5 Sek. lang um 50%." }
+entries[31914] = { ["name"] = "Sandatem", ["text"] = "Nahkampfreichweite\nWirken in 2 sek.\nFügt Feinden in einem kegelförmigen Bereich vor dem Zaubernden Arkanschaden zu und verlangsamt ihr Bewegungstempo und erhöht die Zeit zwischen ihren Angriffen. Hält 10 Sek. lang an." }
+entries[31915] = { ["name"] = "Wutanfall", ["text"] = "Sofort\nVerringert die Zeit zwischen Euren Angriffen 8 Sek. lang um 50%." }
+entries[31916] = { ["name"] = "Drohender Tod", ["text"] = "45 Meter Reichweite\nSofort\nVerursacht 24 Sek. lang alle 3 Sek. 750 Schattenschaden." }
+entries[31920] = { ["name"] = "Nagrandkirsche", ["text"] = "Sofort 1 sek. Abklingzeit\nDer Anwender kann 5 Min. lang unter Wasser atmen." }
+entries[31921] = { ["name"] = "Erhöhter Zauberdurchschlag 5", ["text"] = "Erhöht Euren Zauberdurchschlag um 5." }
+entries[31922] = { ["name"] = "Erhöhter Zauberdurchschlag 4", ["text"] = "Erhöht Euren Zauberdurchschlag um 4." }
+entries[31923] = { ["name"] = "Fisch verspeisen" }
+entries[31926] = { ["name"] = "Erhöhter Zauberdurchschlag 8", ["text"] = "Erhöht Euren Zauberdurchschlag um 8." }
+entries[31927] = { ["name"] = "Beseeltes Feuer", ["text"] = "10 Meter Reichweite\nWirken in 5 sek.\nEntfesselt die Essenz des Feuers." }
+entries[31928] = { ["name"] = "Beseeltes Feuer" }
+entries[31930] = { ["name"] = "Richturteil des Weisen", ["text"] = "100 Meter Reichweite\nSofort\nGewinnt über 10 Sek. 30% Eures Grundmanas." }
+entries[31932] = { ["name"] = "Eiskältefalle", ["text"] = "50 Meter Reichweite\nSofort\nFriert alle Ziele in einem Umkreis von 50 Metern 5 Sek. lang ein. Endet durch Erleiden von Schaden." }
+entries[31933] = { ["name"] = "Eiskältefalle", ["text"] = "100 Mana 20 Meter Reichweite\nSofort\nEine Eiskältefalle platzieren, die den ersten sich nähernden Feind einfriert und 5 Sek. lang jegliche Aktion des Feindes verhindert. Jeglicher erlittene Schaden wird das Eis wieder brechen. Die Falle bleibt bis Abbruch lang bestehen. Es kann immer nur jeweils eine Falle aktiv sein." }
+entries[31935] = { ["name"] = "Schild des Rächers", ["text"] = "6% von Grundmana 30 Meter Reichweite\nSofort 15 sek. Abklingzeit\nSchleudert einen heiligen Schild auf den Gegner, der ihm 2674 Heiligschaden zufügt, [ Glyphe 'Betäubender Schild' : ihn betäubt ]seinen gewirkten Zauber unterbricht und ihn 3 Sek. lang verstummen lässt. Zudem springt der Schild sofort auf weitere nahe Gegner über. Trifft insgesamt 3 Ziele." }
+entries[31936] = { ["name"] = "Champions der Blutritter freigeben" }
+entries[31938] = { ["name"] = "Beseelte Feuernova" }
+entries[31939] = { ["name"] = "Fledermaus fressen" }
+entries[31941] = { ["name"] = "Heilung erhöhen 101", ["text"] = "Erhöht die Zaubermacht um 54." }
+entries[31942] = { ["name"] = "Mehrfachschuss", ["text"] = "5 - 30 Meter Reichweite\nSofort\nBenötigt Distanzwaffe\nFeuert eine Salve von Geschossen auf einen Gegner und seine nächsten Verbündeten ab und fügt ihm normalen sowie zusätzlichen Schaden zu. Trifft bis zu 3 Ziele." }
+entries[31943] = { ["name"] = "Verdammnisfeuer", ["text"] = "Sofort\nRuft eine Feuersäule herbei, die wahllos umherzieht und alles verbrennt, was im Weg ist." }
+entries[31944] = { ["name"] = "Verdammnisfeuer", ["text"] = "Sofort\nRuft eine Feuersäule herbei, die wahllos umherzieht und alles verbrennt, was im Weg ist." }
+entries[31945] = { ["name"] = "Verdammnisfeuer" }
+entries[31946] = { ["name"] = "Eiskältefalle auslegen", ["text"] = "30 Meter Reichweite\nSofort 7 sek. Abklingzeit\nWirft eine Eiskältefalle nach dem Ziel." }
+entries[31948] = { ["name"] = "Schlingenmoos", ["text"] = "30 Meter Reichweite\nWirken in 1 sek.\nHüllt das Ziel in Moos ein, verringert das Angriffs- und Zaubertempo um 50%." }
+entries[31949] = { ["name"] = "Murlockäfig beschwören", ["text"] = "5 Meter Reichweite\nSofort\nPlatziert den Murlockäfig auf dem flachen Felsen nahe der nordöstlichen Gruppe von Zelten in Dolchfenn." }
+entries[31950] = { ["name"] = "Zauberdurchschlag 16", ["text"] = "Erhöht Euren Zauberdurchschlag um 16." }
+entries[31951] = { ["name"] = "Geistpartikel (rot, sehr groß)" }
+entries[31954] = { ["name"] = "Geistpartikel (sehr groß)" }
+entries[31955] = { ["name"] = "Entwaffnen", ["text"] = "Nahkampfreichweite\nNächster Nahkampf\nEntwaffnet den Gegner 6 Sek. lang." }
+entries[31956] = { ["name"] = "Schreckliche Wunde", ["text"] = "Nahkampfreichweite\nSofort\nEin hinterhältiger Angriff, der das Ziel stark bluten lässt, bis es vollständig geheilt wird. Fügt bis zur vollständigen Heilung alle 2 Sek. 685 to 815 Schaden zu." }
+entries[31958] = { ["name"] = "Feuerbombe", ["text"] = "80 Meter Reichweite\nSofort\nVon oben auf Eure Gegner werfen!\nFügt 900 to 1100 Feuerschaden zu und verursacht pro Sekunde Schaden entsprechend 1% der gesamten Gesundheit des Ziels." }
+entries[31961] = { ["name"] = "Feuerbombe" }
+entries[31962] = { ["name"] = "Flammen" }
+entries[31963] = { ["name"] = "Katapultlohe beschwören" }
+entries[31964] = { ["name"] = "Donnerschock", ["text"] = "75 Mana 5 Meter Reichweite\nSofort\nVerursacht 298 to 402 Naturschaden bei in der Nähe befindlichen Feinden und betäubt sie 5 Sek. lang." }
+entries[31966] = { ["name"] = "Tank Debuffs", ["text"] = "Unbegrenzte Reichweite\nSofort\nVerursachter körperlicher Schaden um 10% verringert.\nAngriffstempo um 20%. verringert." }
+entries[31969] = { ["name"] = "Verdammnisfeuer", ["text"] = "Sofort\nRuft eine Feuersäule herbei, die wahllos umherzieht und alles verbrennt, was im Weg ist." }
+entries[31970] = { ["name"] = "Furcht", ["text"] = "Wirken in 1.5 sek. 13 sek. Abklingzeit\nErfüllt alle Gegner mit Furcht, woraufhin sie bis zu 8 Sek. lang voller Schrecken flüchten." }
+entries[31971] = { ["name"] = "Besudelter Kettenblitzschlag", ["text"] = "30 Meter Reichweite\nSofort\nTrifft einen Feind mit einem Blitzschlag, der auf einen in der Nähe befindlichen Feind überspringt. Der Zauber wirkt sich auf bis zu 5 Ziele aus und verursacht bei jedem folgenden Ziel immer größeren Naturschaden." }
+entries[31972] = { ["name"] = "Würgegriff der Legion", ["text"] = "75 Mana 60 Meter Reichweite\nSofort\nNimmt einen Gegner fest in den Würgegriff der Legion und fügt 5 Min. lang 375000 Schattenschaden zu." }
+entries[31973] = { ["name"] = "Kessels Elekk", ["text"] = "Unbegrenzte Reichweite\nSofort\nBeschwört Kessels Elekk, um Euch zu helfen!" }
+entries[31974] = { ["name"] = "Berserker" }
+entries[31975] = { ["name"] = "Schlangengift", ["text"] = "25 Mana 40 Meter Reichweite\nBenötigt Distanzwaffe\nBeißt das Ziel und verursacht 15 Sek. lang 20 Naturschaden. Es kann immer nur ein Biss oder Stich pro Jäger auf einem einzelnen Ziel aktiv sein." }
+entries[31976] = { ["name"] = "Schattenschild", ["text"] = "110 Mana 40 Meter Reichweite\nSofort\nHüllt einen Verbündeten in einen Schild, der bis zu 30 Sek.. lang anhält und maximal 75 Schaden absorbiert." }
+entries[31977] = { ["name"] = "Fluch der Unendlichkeit", ["text"] = "35 Meter Reichweite\nSofort\nVerbessert die Heileffekte eines Gegners 1 Min. lang um 50%.\nErhöht den von einem Gegner erlittenen Schaden 1 Min. lang um 50%." }
+entries[31978] = { ["name"] = "Von Kessels Elekk absteigen" }
+entries[31979] = { ["name"] = "Kanonenprüfung" }
+entries[31981] = { ["name"] = "Besudeltes Totem des Erdengriffs", ["text"] = "95 Mana\nSofort\nBeschwört ein Totem des Erdengriffs, das 30 Sek. lang bestehen bleibt und regelmäßig nahe Gegner bewegungsunfähig macht." }
+entries[31983] = { ["name"] = "Erdengriff", ["text"] = "30 Meter Reichweite\nSofort\nMacht Gegner in der Nähe bewegungsunfähig und verursacht alle 2 Sek. Naturschaden." }
+entries[31984] = { ["name"] = "Finger des Todes", ["text"] = "Unbegrenzte Reichweite\nWirken in 1 sek.\nTrifft einen Gegner mit dem Finger des Todes und fügt ihm, seinen Kindern und seinen Kindeskindern 20000 Schattenschaden zu." }
+entries[31985] = { ["name"] = "Besudeltes Totem der Steinhaut", ["text"] = "260 Mana\nSofort\nBeschwört ein Totem der Steinhaut mit 5 Gesundheit zu Füßen des Zaubernden. Das Totem schützt Gruppenmitglieder in einem Umkreis von 0 Metern und verringert den erlittenen Nahkampfschaden um 5. Hält 1 Min. lang an." }
+entries[31986] = { ["name"] = "Steinhaut" }
+entries[31988] = { ["name"] = "Humanoiden versklaven" }
+entries[31990] = { ["name"] = "Humanoiden versklaven", ["text"] = "90 Meter Reichweite\nSofort\nZwingt drei jämmerliche Humanoide 20 Sek. lang unter den Willen der Legion." }
+entries[31991] = { ["name"] = "Verderbtes Totem der Nova", ["text"] = "Sofort\nBeschwört ein Totem der Nova zu Füßen des Zaubernden." }
+entries[31992] = { ["name"] = "Angreifen" }
+entries[31993] = { ["name"] = "Kanonentestschuss" }
+entries[31994] = { ["name"] = "Schulterstoß", ["text"] = "8 - 25 Meter Reichweite\nSofort\nStürmt auf einen Gegner zu und verursacht normalen Schaden plus 1." }
+entries[31996] = { ["name"] = "Blutdurst", ["text"] = "Nahkampfreichweite\nSofort 20 sek. Abklingzeit\nBenötigt Nahkampfwaffe\nGreift das Ziel sofort an und verursacht 120% des normalen Waffenschadens. Zusätzlich stellen die nächsten 5 erfolgreichen Nahkampfangriffe 238 to 262 Gesundheit wieder her. Dieser Effekt hält 10 Sek. lang an." }
+entries[31997] = { ["name"] = "Blutdurst", ["text"] = "Nahkampfreichweite\nSofort\nErfolgreiche Nahkampfangriffe stellen Gesundheit wieder her." }
+entries[31998] = { ["name"] = "Blutdurst", ["text"] = "Nahkampfreichweite\nSofort\nErfolgreiche Nahkampfangriffe stellen Gesundheit wieder her." }
+entries[31999] = { ["name"] = "Gegenzauber", ["text"] = "100 Mana 30 Meter Reichweite\nWirken in 2 sek.\nKontert den Zauber eines Feindes und verhindert 3 Sek. lang, dass der Feind den gleichen Zauber noch einmal wirkt. Führt zu einem hohen Maß an Bedrohung." }
+entries[32000] = { ["name"] = "Gedankenbrand", ["text"] = "60 Mana 20 Meter Reichweite\nKanalisiert (Wirken in 3 sek.)\nFügt einem Gegner 3 Sek. lang Schattenschaden zu." }
+entries[32001] = { ["name"] = "Gordawgs Fels werfen", ["text"] = "35 Meter Reichweite\nWirken in 2 sek.\nWirft Gordawgs Fels auf zerbrochene Rumpler und zerbricht deren äußere Hülle, um die wahre Identität des Thronräubers aufzudecken." }
+entries[32002] = { ["name"] = "Nachwirkung" }
+entries[32003] = { ["name"] = "Machtbrand", ["text"] = "10 Meter Reichweite\nSofort\nTrifft einen Feind mit einem Antimachtblitz, der 284 to 288 Mana entzieht. Für jeden vom Blitz verbrauchten Manapunkt erleidet das Ziel 1 Schaden." }
+entries[32004] = { ["name"] = "Bohrer", ["text"] = "Nahkampfreichweite\nNächster Nahkampf\nSchlägt einen Feind und fügt Waffenschaden plus 5 zu." }
+entries[32005] = { ["name"] = "Thoriumbohrer", ["text"] = "Nahkampfreichweite\nNächster Nahkampf\nSchlägt einen Feind und fügt Waffenschaden plus 10 zu." }
+entries[32006] = { ["name"] = "Teufelseisenbohrer", ["text"] = "Nahkampfreichweite\nNächster Nahkampf\nSchlägt einen Feind und fügt Waffenschaden plus 15 zu." }
+entries[32007] = { ["name"] = "Transformation des Ingenieurs der Mo'arg", ["text"] = "Sofort\nDer Ingenieur der Mo'arg entfernt seinen Arm." }
+entries[32008] = { ["name"] = "Teufelsfeuer", ["text"] = "Chance, bei Treffern Feuerschaden zuzufügen.\n(Procchance: 15%)" }
+entries[32009] = { ["name"] = "Niedermähen", ["text"] = "10 Meter Reichweite\nSofort\nFügt einem Feind normalen Schaden plus 50 zu und stößt ihn zurück." }
+entries[32010] = { ["name"] = "Wasserblitz", ["text"] = "45 Meter Reichweite\nWirken in 1.5 sek.\nSchleudert ein wässriges Geschoss auf einen Feind und fügt 9 to 11 Frostschaden zu." }
+entries[32011] = { ["name"] = "Wasserblitz", ["text"] = "45 Meter Reichweite\nWirken in 2.5 sek.\nSchleudert ein wässriges Geschoss nach einem Gegner und verursacht Frostschaden." }
+entries[32012] = { ["name"] = "Anstürmen", ["text"] = "60 Meter Reichweite\nSofort\nStürmt auf einen Gegner zu und verursacht normalen plus zusätzlichen Schaden." }
+entries[32013] = { ["name"] = "Zäher Schlick", ["text"] = "20 Meter Reichweite\nSofort\nZeit zwischen Angriffen um 50% erhöht.\nZauberzeit um 50% erhöht.\nAlle 3 Sek. 16 Naturschaden." }
+entries[32014] = { ["name"] = "Windbö", ["text"] = "60 Meter Reichweite\nWirken in 1.7 sek. 6 sek. Abklingzeit\nFügt nahen Gegnern 3000 Naturschaden zu und schleudert sie hoch in die Luft." }
+entries[32015] = { ["name"] = "Niederschlagen", ["text"] = "Nahkampfreichweite\nSofort 5 sek. Abklingzeit\nSchlägt einen Gegner nieder, verursacht leichten Schaden und betäubt ihn 1 Sek. lang." }
+entries[32016] = { ["name"] = "Erdstoß", ["text"] = "Sofort\nFügt nahen Zielen 110% Waffenschaden zu." }
+entries[32017] = { ["name"] = "Beißender Staub", ["text"] = "Nahkampfreichweite\nWirken in 1 sek.\nVerringert die Chance eines Gegners, mit Zaubern oder Fähigkeiten zu treffen, 15 Sek. lang um 15%." }
+entries[32018] = { ["name"] = "Blitzschlag herbeirufen", ["text"] = "30 Meter Reichweite\nSofort\nFügt einem Gegner Naturschaden zu." }
+entries[32019] = { ["name"] = "Aufspießen", ["text"] = "Nahkampfreichweite\nSofort\nFügt einem Feind 15 Sek. lang alle 3 Sek. körperlichen Schaden zu." }
+entries[32020] = { ["name"] = "Talbukstoß", ["text"] = "10 Meter Reichweite\nSofort\nFügt einem Feind normalen Schaden plus 50 zu und stößt ihn zurück." }
+entries[32021] = { ["name"] = "Sturmattacke", ["text"] = "8 - 25 Meter Reichweite\nSofort\nStürmt auf einen Gegner zu und verursacht normalen Schaden plus 1." }
+entries[32022] = { ["name"] = "Magenhieb", ["text"] = "Nahkampfreichweite\nNächster Nahkampf\nVerringert 2 Min. lang die Ausdauer eines Gegners." }
+entries[32023] = { ["name"] = "Hufstampfer", ["text"] = "Sofort 20 sek. Abklingzeit\nFügt nahen Gegnern normalen Schaden plus 20 zu und betäubt sie 3 Sek. lang." }
+entries[32024] = { ["name"] = "Seelenbrand", ["text"] = "60 Mana 20 Meter Reichweite\nKanalisiert (Wirken in 3 sek.)\nFügt einem Gegner 3 Sek. lang Schattenschaden zu." }
+entries[32026] = { ["name"] = "Welle des Schmerzes", ["text"] = "200 Mana 30 Meter Reichweite\nSofort 15 sek. Abklingzeit\nVerursacht sofort 24 to 29 Schattenschaden, aber nach 5 Sek. beginnt der verursachte Schaden zu heilen." }
+entries[32027] = { ["name"] = "Expeditionsleuchtfeuer", ["text"] = "30 Meter Reichweite\nWirken in 1 sek.\nSchießt ein Notsignal in die Luft, das eine Einheit der Expedition des Cenarius zu Hilfe ruft. Kann nur in den Zangarmarschen und im Freien verwendet werden." }
+entries[32028] = { ["name"] = "Elunes Umarmung", ["text"] = "Sofort\nVerlangsamt kurzzeitig die Fallgeschwindigkeit." }
+entries[32029] = { ["name"] = "Bewahrer der Expedition beschwören" }
+entries[32030] = { ["name"] = "Späher der Expedition beschwören" }
+entries[32036] = { ["name"] = "Gurok beschwören", ["text"] = "Wirken in 10 sek.\nReagenzien:\nTotschlägerschädel (6)\nPlatziert 7 Totschlägerschädel auf dem irdenen Brandmal, um Gurok den Thronräuber zu beschwören." }
+entries[32037] = { ["name"] = "Wildfenntotem", ["text"] = "5 Meter Reichweite\nWirken in 2 sek.\nPlatziert ein Totem auf dem Boden nahe des unteren Endes der Treppe, die zu den Ruinen von Boha'mu führt." }
+entries[32038] = { ["name"] = "Illusion eines Vogelgeists", ["text"] = "Wirken in 3 sek.\nVerwandelt sich in die Gestalt eines Vogelgeists. Muss bei den Ruinen von Boha'mu angewendet werden." }
+entries[32039] = { ["name"] = "Magnetische Anziehung", ["text"] = "40 Meter Reichweite\nKanalisiert (Wirken in 0.5 sek.)\nZieht jemanden zu Euch." }
+entries[32040] = { ["name"] = "Dolchfennschreck", ["text"] = "Sofort\nErfüllt einen Feind mit Furcht, woraufhin er bis zu 14 Sek. lang voller Schrecken flüchtet." }
+entries[32041] = { ["name"] = "Murlocbaby aus den Zangarmarschen" }
+entries[32042] = { ["name"] = "Violetter Aufzeichnungskristall", ["text"] = "40 Meter Reichweite\nWirken in 1.5 sek.\nZeichnet arkane Ausströmungen auf, die ein Gebiet umgeben. Funktioniert am besten in der Nähe von unterirdischen Wasserquellen." }
+entries[32045] = { ["name"] = "Seelenlast", ["text"] = "Unbegrenzte Reichweite\nSofort\nEure Seele ist gefangen." }
+entries[32049] = { ["name"] = "Überlegenheit des Höllenfeuers" }
+entries[32051] = { ["name"] = "Seelenlast", ["text"] = "Unbegrenzte Reichweite\nSofort\nEure Seele ist gefangen." }
+entries[32052] = { ["name"] = "Seelenlast", ["text"] = "Unbegrenzte Reichweite\nSofort\nEure Seele ist gefangen." }
+entries[32053] = { ["name"] = "Seelenlast", ["text"] = "Wirken in 0.5 sek. 4 sek. Abklingzeit\nEntfesselt die Seelen der Gefallenen, verursacht bei allen Feinden 4500 Feuerschaden und bringt sie 6 Sek. lang zum Schweigen." }
+entries[32054] = { ["name"] = "Seelenlast", ["text"] = "Wirken in 0.5 sek. 4 sek. Abklingzeit\nEntfesselt den Kampfgeist der gefallenen Seele, verursacht bei nahen Feinden 4500 Schaden und erhöht ihren erlittenen Schaden um 50%." }
+entries[32055] = { ["name"] = "Aufwärtshaken", ["text"] = "10 Meter Reichweite\nSofort\nFügt einem Feind normalen Schaden plus 200 zu und stößt ihn zurück." }
+entries[32056] = { ["name"] = "Groll von Umbrafenn", ["text"] = "120 Mana" }
+entries[32057] = { ["name"] = "Seelenlast", ["text"] = "Wirken in 0.5 sek. 4 sek. Abklingzeit\nNutzt die Macht der aufgesogenen Seele, um allen nahen Feinden 2250 Mana zu entziehen und über 8 Sek. 4500 Naturschaden zu verursachen." }
+entries[32060] = { ["name"] = "Sporensegler beschwören", ["text"] = "Sofort\nBeschwört 1 Sporensegler, die den Zaubernden bis zur Freigabe begleiten." }
+entries[32062] = { ["name"] = "Totem der Feuernova", ["text"] = "90 Mana\nSofort 15 sek. Abklingzeit\nBeschwört ein Totem der Feuernova mit 5 Gesundheit, das 6 Sek. lang anhält. Wenn es nicht innerhalb von 6 Sek. zerstört wird, fügt das Totem allen nahen Feinden Feuerschaden zu." }
+entries[32063] = { ["name"] = "Verderbnis", ["text"] = "80 Mana 30 Meter Reichweite\nWirken in 2 sek.\nVerdirbt in der Nähe befindliche Feinde und fügt ihnen 15 Sek. lang alle 3 Sek. Schattenschaden zu." }
+entries[32064] = { ["name"] = "Schlachtruf", ["text"] = "Sofort\nErhöht 2 Min. lang die Nahkampfangriffskraft naher befreundeter Ziele." }
+entries[32065] = { ["name"] = "Pilzbefall", ["text"] = "15 Meter Reichweite\nSofort\nHüllt einen Gegner in Pilze ein, fügt Schaden zu und verlangsamt ihn. Dieser Effekt nimmt mit der Zeit ab." }
+entries[32066] = { ["name"] = "Pilzbefall", ["text"] = "(Procchance: 16%, 1Min. Abklingzeit)" }
+entries[32067] = { ["name"] = "The Sum is Greater than the Parts: Dr. Terrible's Death Signal" }
+entries[32071] = { ["name"] = "Überlegenheit des Höllenfeuers" }
+entries[32074] = { ["name"] = "Verdammnisfeuer" }
+entries[32076] = { ["name"] = "Lebenskraft aufsaugen", ["text"] = "Nahkampfreichweite\nSofort\nEntzieht in der Nähe befindlichen Gegnern Stärke und Ausdauer und erhöht die Stärke des Zaubernden." }
+entries[32077] = { ["name"] = "Sumpflordhieb", ["text"] = "10 Meter Reichweite\nSofort\nFügt einem Feind normalen Schaden plus 30 zu und stößt ihn zurück." }
+entries[32078] = { ["name"] = "Sporenwolke" }
+entries[32079] = { ["name"] = "Sporenwolke" }
+entries[32080] = { ["name"] = "Sporophytwolke" }
+entries[32082] = { ["name"] = "Stechender Ansturm", ["text"] = "8 - 25 Meter Reichweite\nSofort\nStürmt auf einen Gegner zu und verursacht normalen Schaden plus 500." }
+entries[32087] = { ["name"] = "Faulige Wolke", ["text"] = "40 Meter Reichweite\nKanalisiert (Wirken in 5 min)\nErzeugt einen wütenden Sturm im Zielgebiet, der Feinden Naturschaden zufügt und die Zeit zwischen Angriffen der betroffenen Feinde erhöht. Hält 5 Min. lang an." }
+entries[32092] = { ["name"] = "Gunst der Ehrenfeste", ["text"] = "10 Meter Reichweite\nSofort\nErschafft 3-mal 'Gunst der Ehrenfeste'." }
+entries[32093] = { ["name"] = "Gift spucken", ["text"] = "30 Meter Reichweite\nWirken in 2.5 sek.\nSchießt Gift auf den Feind, fügt ihm Naturschaden und dann 10 Sek. lang alle 5 Sek. zusätzlichen Schaden zu." }
+entries[32094] = { ["name"] = "Medivh entlausen", ["text"] = "25 Meter Reichweite\nSofort\nSagt Medivh, seinen Questgeber anzumachen." }
+entries[32095] = { ["name"] = "Gunst von Thrallmar", ["text"] = "10 Meter Reichweite\nSofort\nErschafft 3-mal 'Gunst von Thrallmar'." }
+entries[32096] = { ["name"] = "Gunst von Thrallmar", ["text"] = "Sofort\nAuf der Höllenfeuerhalbinsel und in der Höllenfeuerzitadelle ist Euer Rufzuwachs bei Thrallmar durch das Töten von Monstern um 25% und erhaltene Erfahrung um 5% erhöht. Hält 30 Min. lang an." }
+entries[32098] = { ["name"] = "Gunst der Ehrenfeste", ["text"] = "Sofort\nAuf der Höllenfeuerhalbinsel und in der Höllenfeuerzitadelle ist Euer Rufzuwachs bei der Ehrenfeste durch das Töten von Monstern um 25% und erhaltene Erfahrung um 5% erhöht. Hält 30 Min. an." }
+entries[32101] = { ["name"] = "Zaubertrefferchance erhöhen 24", ["text"] = "Erhöht Eure Zaubertrefferwertung um 24." }
+entries[32102] = { ["name"] = "Manaregeneration 5%", ["text"] = "5% Eurer Manaregeneration bleibt während des Zauberwirkens bestehen." }
+entries[32103] = { ["name"] = "Schießen", ["text"] = "8 - 40 Meter Reichweite\nSofort\nBenötigt Distanzwaffe\nSchießt auf den Feind und fügt körperlichen Schaden zu." }
+entries[32104] = { ["name"] = "Rückhand" }
+entries[32105] = { ["name"] = "Tritt" }
+entries[32106] = { ["name"] = "Geringe Zauberwucht", ["text"] = "Gewährt Euren Schaden verursachenden Zaubern eine Chance, den Schaden Eurer Zauber und Effekte 10 Sek. lang um 92 zu erhöhen.\n(Procchance: 5%)" }
+entries[32108] = { ["name"] = "Geringe Zauberwucht" }
+entries[32109] = { ["name"] = "Bombentest", ["text"] = "20 Meter Reichweite\nWirken in 1 sek." }
+entries[32110] = { ["name"] = "Funke", ["text"] = "15 Meter Reichweite\nWirken in 2 sek.\nSchockt einen Gegner und fügt Naturschaden zu." }
+entries[32111] = { ["name"] = "Finger des Todes", ["text"] = "80 Meter Reichweite\nWirken in 1 sek.\nTrifft einen Gegner mit dem Finger des Todes und fügt ihm, seinen Kindern und seinen Kindeskindern 20000 Schattenschaden zu." }
+entries[32112] = { ["name"] = "Essen", ["text"] = "Sofort\nStellt im Verlauf von 30 Sek. 4320 Gesundheit wieder her. Ihr müsst beim Essen sitzen bleiben. Wenn Ihr mindestens 10 Sekunden lang mit Essen verbringt, werdet Ihr satt und erhaltet 10 Min. lang 10 Willenskraft." }
+entries[32120] = { ["name"] = "Physische Stärkungszauber", ["text"] = "Unbegrenzte Reichweite\nSofort\nStärke um 549 erhöht.\nBeweglichkeit um 484 erhöht.\nAngriffskraft um 20 % erhöht." }
+entries[32121] = { ["name"] = "Ziel wählen (50 Meter)" }
+entries[32122] = { ["name"] = "Ziel wählen (nicht fliegend)" }
+entries[32124] = { ["name"] = "Finaler Irrwisch" }
+entries[32125] = { ["name"] = "Heilkräftiges Sumpfmoos", ["text"] = "40 Meter Reichweite\nSofort\nHeilt das Ziel 15 Sek. lang um 510 Schaden." }
+entries[32126] = { ["name"] = "Dem Kampf entfliehen", ["text"] = "100 Meter Reichweite\nSofort\nBefiehlt einem NSC, sich aus dem Kampf zurückzuziehen." }
+entries[32127] = { ["name"] = "Ruf zum Blitzschlag" }
+entries[32129] = { ["name"] = "Feenfeuer", ["text"] = "15 Mana 30 Meter Reichweite\nWirken in 2 sek. 30 sek. Abklingzeit\nVerringert 30 Sek. lang die Rüstung eines Feindes. Während der Wirkungsdauer kann das Ziel weder Verstohlenheit noch Unsichtbarkeit anwenden." }
+entries[32130] = { ["name"] = "Heilung", ["text"] = "450 Mana\nSofort\nHeilt den Zaubernden um 1014 to 1146." }
+entries[32131] = { ["name"] = "Verjüngung", ["text"] = "90 Mana 40 Meter Reichweite\nSofort\nWirkt 12 Sek. lang alle 3 Sek. Heilung auf ein Ziel." }
+entries[32132] = { ["name"] = "Besudelter Kettenblitzschlag", ["text"] = "30 Meter Reichweite\nWirken in 2 sek.\nTrifft einen Feind mit einem Blitzschlag, der auf einen in der Nähe befindlichen Feind überspringt. Der Zauber wirkt sich auf bis zu 5 Ziele aus und verursacht bei jedem folgenden Ziel immer größeren Naturschaden." }
+entries[32133] = { ["name"] = "Verderbte Erde", ["text"] = "130 Mana 20 Meter Reichweite\nSofort\nSchockt einen Gegner mit erschütternder Kraft, fügt Naturschaden zu und verlangsamt das Ziel 3 Sek. lang." }
+entries[32134] = { ["name"] = "Faulige Wolke", ["text"] = "40 Meter Reichweite\nKanalisiert (Wirken in 15 sek.) 30 sek. Abklingzeit\nErzeugt einen wütenden Sturm im Zielgebiet, der allen in der Nähe befindlichen Feinden alle 3 Sek. Naturschaden zufügt und die Zeit zwischen Angriffen betroffener Feinde erhöht. Hält 15 Sek. lang an. Der Zaubernde muss seine Kräfte kanalisieren, um den Zauber aufrechtzuerhalten." }
+entries[32135] = { ["name"] = "Verderbtes Totem des heilenden Flusses", ["text"] = "125 Mana\nSofort\nBeschwört ein Totem des heilenden Flusses zu Füßen des Zaubernden, das Verbündete im Umkreis von 20 Metern alle 2 Sek. heilt. Das Totem bleibt 1 Min. lang bestehen." }
+entries[32136] = { ["name"] = "Verderbter Heilstrom", ["text"] = "Verursacht alle 2 Sek. Naturschaden." }
+entries[32137] = { ["name"] = "Verderbtes Lufttotem", ["text"] = "125 Mana\nSofort\nBeschwört für 1 Min. ein Totem des heilenden Flusses mit 5 Gesundheit zu Füßen des Zaubernden, das Gruppenmitglieder im Umkreis von 0 Metern alle 5 Sek. um 5 heilt." }
+entries[32138] = { ["name"] = "Verderbte Luft" }
+entries[32139] = { ["name"] = "Säurespritzer", ["text"] = "10 Meter Reichweite\nNächster Nahkampf\nFügt einem Gegner normalen Schaden sowie 15 Sek. lang alle 3 Sek zusätzlichen Naturschaden zu. Verringert die Rüstung. Bis zu 7-mal stapelbar." }
+entries[32140] = { ["name"] = "Talisman der Horde", ["text"] = "Sofort 1 sek. Abklingzeit\nSich selbst um 877 to 969 heilen." }
+entries[32142] = { ["name"] = "Zauberschaden erhöhen 211", ["text"] = "Erhöht die Zaubermacht um 211." }
+entries[32143] = { ["name"] = "Erhöhte Ausdauer 50", ["text"] = "+50 Ausdauer." }
+entries[32145] = { ["name"] = "Erhöhte Abhärtung 35", ["text"] = "+35 Abhärtungswertung." }
+entries[32146] = { ["name"] = "Flüssiges Feuer", ["text"] = "5 Meter Reichweite\nWirken in 1 sek.\nSetzt alles in der Umgebung in Brand." }
+entries[32148] = { ["name"] = "Höllisch" }
+entries[32149] = { ["name"] = "Zauberschaden erhöhen 215", ["text"] = "Erhöht die Zaubermacht um 215." }
+entries[32150] = { ["name"] = "Höllisch" }
+entries[32154] = { ["name"] = "Überwältigen", ["text"] = "Nahkampfreichweite\nSofort 5 sek. Abklingzeit\nSofortige Überwältigung des Feindes, wodurch Waffenschaden plus 30 entsteht. Kann nur verwendet werden, nachdem das Ziel ausgewichen ist. Auf 'Überwältigen' kann nicht mit Blocken, Ausweichen oder Parieren reagiert werden." }
+entries[32155] = { ["name"] = "Turmmarke des Höllenfeuers, Allianz (1)", ["text"] = "10 Meter Reichweite\nSofort\nErschafft 1 Turmmarke des Höllenfeuers für die Allianz." }
+entries[32158] = { ["name"] = "Turmmarke des Höllenfeuers, Horde (1)", ["text"] = "10 Meter Reichweite\nSofort\nErschafft 1 Turmmarke des Höllenfeuers für die Horde." }
+entries[32159] = { ["name"] = "Turmmarke des Höllenfeuers, Allianz (2)", ["text"] = "10 Meter Reichweite\nSofort\nErschafft 2 Turmmarken des Höllenfeuers für die Allianz." }
+entries[32160] = { ["name"] = "Turmmarke des Höllenfeuers, Allianz (3)", ["text"] = "10 Meter Reichweite\nSofort\nErschafft 3 Turmmarken des Höllenfeuers für die Allianz." }
+entries[32161] = { ["name"] = "Turmmarke des Höllenfeuers, Horde (2)", ["text"] = "10 Meter Reichweite\nSofort\nErschafft 2 Turmmarken des Höllenfeuers für die Horde." }
+entries[32162] = { ["name"] = "Turmmarke des Höllenfeuers, Horde (3)", ["text"] = "10 Meter Reichweite\nSofort\nErschafft 3 Turmmarken des Höllenfeuers für die Horde." }
+entries[32163] = { ["name"] = "Tayemba wirft zu Farbosi", ["text"] = "40 Meter Reichweite\nSofort\nWerft den Ball einem freundlich gesinnten Spieler zu. Falls er Platz in seinem Rucksack hat, wird er ihn fangen!" }
+entries[32164] = { ["name"] = "Farbosi wirft zu Tayemba", ["text"] = "40 Meter Reichweite\nSofort\nWerft den Ball einem freundlich gesinnten Spieler zu. Falls er Platz in seinem Rucksack hat, wird er ihn fangen!" }
+entries[32167] = { ["name"] = "Feuernova", ["text"] = "95 Mana\nSofort\nTools: Feuertotem\nVerursacht Feuerschaden bei in der Nähe befindlichen Feinden." }
+entries[32168] = { ["name"] = "Schießen", ["text"] = "Unbegrenzte Reichweite\nSofort\nBenötigt Distanzwaffe\nSchießt auf den Feind und fügt körperlichen Schaden zu." }
+entries[32169] = { ["name"] = "Schwerer Lederball", ["text"] = "40 Meter Reichweite\nSofort\nWerft den Ball einem freundlich gesinnten Spieler zu. Falls er Platz in seinem Rucksack hat, wird er ihn fangen!" }
+entries[32170] = { ["name"] = "Katapultlohe beschwören" }
+entries[32173] = { ["name"] = "Wucherwurzeln", ["text"] = "30 Meter Reichweite\nWirken in 1.5 sek.\nUmwickelt einen Feind mit Wurzeln, macht ihn bis zu 8 Sek. lang bewegungsunfähig und fügt ihm alle 3 Sek. Naturschaden zu." }
+entries[32174] = { ["name"] = "Quest abgeschlossen" }
+entries[32175] = { ["name"] = "Sturmschlag", ["text"] = "Nahkampfreichweite\nSofort\nBenötigt Nahkampfwaffe\nGreift das Ziel sofort mit beiden Waffen an und verursacht 225% Waffenschaden. Zudem wird 15 Sek. lang die kritische Trefferchance Eurer Zauber 'Blitzschlag', 'Kettenblitzschlag', 'Blitzschlagschild' und 'Erdschock' gegen dieses Ziel um zusätzlich 25% erhöht." }
+entries[32176] = { ["name"] = "Sturmschlag (Schildhand)", ["text"] = "Nahkampfreichweite\nSofort\nBenötigt Nahkampfwaffe\nGreift das Ziel sofort mit beiden Waffen an und verursacht 225% Waffenschaden. Zudem wird 15 Sek. lang die kritische Trefferchance Eurer Zauber 'Blitzschlag', 'Kettenblitzschlag', 'Blitzschlagschild' und 'Erdschock' gegen dieses Ziel um zusätzlich 25% erhöht." }
+entries[32178] = { ["name"] = "Malachitanhänger", ["text"] = "Wirken in 3 sek.\nTools: Juweliersset\nReagenzien:\nMalachit , Feiner Kupferdraht\nMalachitanhänger\nWird beim Anlegen gebunden\nHals\n+2 Beweglichkeit\n13" }
+entries[32179] = { ["name"] = "Tigeraugenband", ["text"] = "Wirken in 3 sek.\nTools: Juweliersset\nReagenzien:\nTigerauge , Feiner Kupferdraht\nTigeraugenband\nWird beim Anlegen gebunden\nEinzigartig anlegbarFinger\n+2 Stärke\n13" }
+entries[32182] = { ["name"] = "Heldentum", ["text"] = "26% von Grundmana\nSofort 5 min Abklingzeit\nErhöht das Nahkampf-, Distanzangriffs- und Zaubertempo aller Gruppen- und Schlachtzugsmitglieder um 30%. Hält 40 Sek. lang an.\n\nWenn der Effekt endet, sind die Betroffenen erschöpft und können 10 Min. lang nicht mehr von 'Heldentum' oder 'Zeitkrümmung' profitieren." }
+entries[32190] = { ["name"] = "Schießen", ["text"] = "Unbegrenzte Reichweite\nSofort\nBenötigt Distanzwaffe\nSchießt auf den Feind und fügt körperlichen Schaden zu." }
+entries[32191] = { ["name"] = "Schweres Dynamit", ["text"] = "30 Meter Reichweite\nSofort\nFügt Gegnern in der Nähe Feuerschaden zu." }
+entries[32192] = { ["name"] = "Frostnova", ["text"] = "75 Mana\nSofort\nVerursacht Frostschaden bei in der Nähe befindlichen Feinden und macht sie bis zu 5 Sek. lang bewegungsunfähig." }
+entries[32193] = { ["name"] = "Blitzschlagwolke", ["text"] = "30 Meter Reichweite\nSofort\nLässt eine Blitzschlagwolke entstehen, die 15 Sek. anhält und allen Feinden im ausgewählten Gebiet 18 to 21 Naturschaden und alle 5 Sek. 7 zusätzlichen Schaden zufügt." }
+entries[32194] = { ["name"] = "Überragender Heilungszauberschutz", ["text"] = "30 Mana\nWirken in 2 sek.\nBeschwört einen Zauberschutz, der 30 Sek. lang anhält und regelmäßig alle Verbündeten in der nächsten Umgebung heilt." }
+entries[32195] = { ["name"] = "Widerstand gegen Verlangsamung/Bewegungsunfähigkeit", ["text"] = "Widerstand gegen Verlangsamung/Bewegungsunfähigkeit\nErhöht die Chance, bewegungseinschränkenden Effekten zu widerstehen, um 5%." }
+entries[32196] = { ["name"] = "Erhöhter Schaden - Intelligenz", ["text"] = "Eure Zaubermacht wird um 7% Eurer gesamten Intelligenz erhöht." }
+entries[32197] = { ["name"] = "Verderbnis", ["text"] = "80 Mana 30 Meter Reichweite\nWirken in 2 sek.\nVerdirbt in der Nähe befindliche Feinde und fügt ihnen 15 Sek. lang alle 3 Sek. Schattenschaden zu." }
+entries[32198] = { ["name"] = "Gleichbleibende Schadensverringerung", ["text"] = "Verringert erlittenen Nahkampfschaden um 5." }
+entries[32199] = { ["name"] = "Verstohlenheit", ["text"] = "Sofort 2 min Abklingzeit\nVersetzt den Zaubernden in den Verstohlenheitsmodus. Hält an, bis die Aktion abgebrochen wird." }
+entries[32200] = { ["name"] = "Erhöhte Heilung - Intelligenz", ["text"] = "Erhöht Eure Zaubermacht um 10% Eurer gesamten Intelligenz." }
+entries[32202] = { ["name"] = "Schmerzenspeitsche", ["text"] = "65 Mana Nahkampfreichweite\nSofort\nPeitscht einen Gegner, fügt Schattenschaden zu." }
+entries[32203] = { ["name"] = "Widerstand gegen Unterbrechung/Zurückstoßen", ["text"] = "Widerstand gegen Unterbrechung/Zurückstoßen\nErhöht die Chance, Unterbrechungen des Zauberwirkens und Zurücksetzen der Zauberzeit zu widerstehen, um 5%." }
+entries[32204] = { ["name"] = "Bauwerksfeuer" }
+entries[32205] = { ["name"] = "Schlachtstandarte der Mag'har platzieren", ["text"] = "10 Meter Reichweite\nWirken in 5 sek.\nPlatziert die Schlachtstandarte der Mag'har an ausgewählten Orten." }
+entries[32211] = { ["name"] = "Werd' mein Sparringspartner" }
+entries[32214] = { ["name"] = "Rampenlicht" }
+entries[32215] = { ["name"] = "Errungener Sieg" }
+entries[32216] = { ["name"] = "Siegreich", ["text"] = "Sofort\nSiegesrausch ist aktiv." }
+entries[32219] = { ["name"] = "Geringer Schutz", ["text"] = "Sofort" }
+entries[32223] = { ["name"] = "Aura des Kreuzfahrers", ["text"] = "Sofort\nErhöht das Reittiertempo für alle Gruppen- und Schlachtzugsmitglieder im Umkreis von 40 Metern um 20%. Spieler können pro Paladin immer nur jeweils eine Aura besitzen. Ergänzt sich nicht mit anderen Effekten, die das Bewegungstempo erhöhen." }
+entries[32224] = { ["name"] = "Arkane Geschosse der Zangarmarschen", ["text"] = "30 Meter Reichweite\nSofort\nSchleudert ein arkanes Geschoss auf den Feind und verursacht 245 Arkanschaden." }
+entries[32225] = { ["name"] = "Karazhan - Chess NPC AI, Take action (melee)" }
+entries[32226] = { ["name"] = "Karazhan - Chess NPC AI, attack timer" }
+entries[32227] = { ["name"] = "Karazhan - Chess NPC Action: Melee Attack: Footman" }
+entries[32228] = { ["name"] = "Karazhan - Chess NPC Action: Melee Attack: Grunt" }
+entries[32233] = { ["name"] = "Vermeidung", ["text"] = "Verringert den von Eurem beschworenem Dämon durch Kreaturen erlittenen Flächenschaden um zusätzliche 90%." }
+entries[32234] = { ["name"] = "Vermeidung", ["text"] = "100 Meter Reichweite\nWirken in 3 sek.\nLehrt Teufelswache 'Vermeidung'." }
+entries[32235] = { ["name"] = "Goldener Greif", ["text"] = "Wirken in 1.5 sek.\nBeschwört einen reitbaren goldenen Greifen oder gibt ihn wieder frei. Das ist ein Flugreittier." }
+entries[32236] = { ["name"] = "Teleportertest" }
+entries[32237] = { ["name"] = "Teleportertest" }
+entries[32238] = { ["name"] = "Teleportertest" }
+entries[32239] = { ["name"] = "Schwarzer Greif", ["text"] = "Wirken in 1.5 sek.\nBeschwört einen reitbaren schwarzen Greifen oder gibt ihn wieder frei. Das ist ein Flugreittier." }
+entries[32240] = { ["name"] = "Weißer Greif", ["text"] = "Wirken in 1.5 sek.\nBeschwört einen reitbaren weißen Greifen oder gibt ihn wieder frei. Das ist ein Flugreittier." }
+entries[32241] = { ["name"] = "Furcht", ["text"] = "30 Meter Reichweite\nSofort\nErfüllt einen Feind mit Furcht, woraufhin er 6 Sek. lang voller Schrecken flüchtet. Es kann immer nur jeweils ein einzelnes Ziel mit Furcht erfüllt werden." }
+entries[32242] = { ["name"] = "Schneller blauer Greif", ["text"] = "Wirken in 1.5 sek.\nBeschwört einen reitbaren schnellen blauen Greifen oder gibt ihn wieder frei. Das ist ein Flugreittier." }
+entries[32243] = { ["name"] = "Lohfarbener Windreiter", ["text"] = "Wirken in 1.5 sek.\nBeschwört einen reitbaren lohfarbenen Windreiter oder gibt ihn wieder frei. Das ist ein Flugreittier." }
+entries[32244] = { ["name"] = "Blauer Windreiter", ["text"] = "Wirken in 1.5 sek.\nBeschwört einen reitbaren blauen Windreiter oder gibt ihn wieder frei. Das ist ein Flugreittier." }
+entries[32245] = { ["name"] = "Grüner Windreiter", ["text"] = "Wirken in 1.5 sek.\nBeschwört einen reitbaren grünen Windreiter oder gibt ihn wieder frei. Das ist ein Flugreittier." }
+entries[32246] = { ["name"] = "Schneller roter Windreiter", ["text"] = "Wirken in 1.5 sek.\nBeschwört einen reitbaren schnellen roten Windreiter oder gibt ihn wieder frei. Das ist ein Flugreittier." }
+entries[32247] = { ["name"] = "Karazhan - Chess NPC Action: Melee Attack: DAMAGE (Footman)" }
+entries[32248] = { ["name"] = "Speerwurf", ["text"] = "40 Meter Reichweite\nSofort\nWirft eine Waffe nach einem Feind und fügt körperlichen Schaden zu." }
+entries[32249] = { ["name"] = "Corkis Gefängnis öffnen", ["text"] = "5 Meter Reichweite\nWirken in 5 sek.\nÖffnet Corkis Gefängnis." }
+entries[32250] = { ["name"] = "Verzehrung" }
+entries[32251] = { ["name"] = "Verzehrung" }
+entries[32253] = { ["name"] = "Steinheilung", ["text"] = "20 Meter Reichweite\nKanalisiert (Wirken in 0 sek.)\nGewährt dem Meister 8 Gesundheit pro Sekunde." }
+entries[32254] = { ["name"] = "Raue Steinstatue", ["text"] = "Sofort 1 min Abklingzeit\nStellt eine raue Steinstatue auf den Boden, die Euch eine kurze Zeit lang heilen wird, bevor ihre Kräfte schwinden." }
+entries[32255] = { ["name"] = "Corkis Gefängnis öffnen", ["text"] = "5 Meter Reichweite\nWirken in 5 sek.\nÖffnet Corkis Gefängnis." }
+entries[32259] = { ["name"] = "Raue Steinstatue", ["text"] = "Wirken in 2 sek.\nReagenzien:\nRauer Stein (8)\nWird beim Aufheben gebunden\nBenutzen: Stellt eine raue Steinstatue auf den Boden, die Euch eine kurze Zeit lang heilen wird, bevor ihre Kräfte schwinden. (2 Min Abklingzeit)" }
+entries[32260] = { ["name"] = "Eigenes Feld deaktivieren" }
+entries[32261] = { ["name"] = "Karazhan - Chess: Create Move Marker" }
+entries[32264] = { ["name"] = "Magieunterdrückung", ["text"] = "Sofort\nEin anti-magisches Feld umgibt den Bereich um den Zaubernden und verringert das Zaubertempo aller nahen Gegner." }
+entries[32265] = { ["name"] = "Magieanziehung", ["text"] = "45 Meter Reichweite\nSofort 3 sek. Abklingzeit\nZieht alle Gegner innerhalb von 50 Metern zum Zaubernden heran." }
+entries[32266] = { ["name"] = "Portal: Exodar", ["text"] = "18% von Grundmana 10 Meter Reichweite\nWirken in 10 sek. 1 min Abklingzeit\nReagenzien:\nRune der Portale\nLässt ein Portal entstehen, das Gruppenmitglieder, die es benutzen, zur Exodar teleportiert." }
+entries[32267] = { ["name"] = "Portal: Silbermond", ["text"] = "18% von Grundmana 10 Meter Reichweite\nWirken in 10 sek. 1 min Abklingzeit\nReagenzien:\nRune der Portale\nLässt ein Portal entstehen, das Gruppenmitglieder, die es benutzen, nach Silbermond teleportiert." }
+entries[32268] = { ["name"] = "Portal: Exodar" }
+entries[32270] = { ["name"] = "Portal: Silbermond" }
+entries[32271] = { ["name"] = "Teleportieren: Exodar", ["text"] = "8% von Grundmana\nWirken in 10 sek.\nReagenzien:\nRune der Teleportation\nTeleportiert den Zaubernden zur Exodar." }
+entries[32272] = { ["name"] = "Teleportieren: Silbermond", ["text"] = "8% von Grundmana\nWirken in 10 sek.\nReagenzien:\nRune der Teleportation\nTeleportiert den Zaubernden nach Silbermond." }
+entries[32274] = { ["name"] = "Geringe Rune des Schutzes", ["text"] = "Wirken in 3 sek.\nBenötigt Rüstung\nVerzaubert eine Brustrüstung, sodass eine Chance von 25% pro Treffer besteht, 200 körperlichen Schaden zu absorbieren. 90 Sek. Abklingzeit. Hält 1 Stunde lang an." }
+entries[32278] = { ["name"] = "Großer Schutzschild", ["text"] = "Sofort 1 sek. Abklingzeit\nAbsorbiert 400 Schaden. Hält bis Abbruch lang an." }
+entries[32279] = { ["name"] = "Großer Schutz", ["text"] = "Sofort" }
+entries[32280] = { ["name"] = "Großer Schutz", ["text"] = "Sofort" }
+entries[32281] = { ["name"] = "Klingenmeister der brennenden Klinge", ["text"] = "Sofort\nZeigt jedem, dass Ihr der Klingenmeister seid." }
+entries[32282] = { ["name"] = "Große Rune des Schutzes", ["text"] = "Wirken in 3 sek.\nBenötigt Rüstung\nVerzaubert eine Brustrüstung, sodass eine Chance von 25% pro Treffer besteht, 400 körperlichen Schaden zu absorbieren. 90 Sek. Abklingzeit. Hält 1 Stunde lang an." }
+entries[32284] = { ["name"] = "Geringe Rune des Schutzes", ["text"] = "Wirken in 3 sek.\nReagenzien:\nAdamantitbarren\n55\nBenutzen: Verzaubert eine Brustrüstung, sodass eine Chance von 25% pro Treffer besteht, 200 körperlichen Schaden zu absorbieren. 90 Sek. Abklingzeit. Hält 1 Stunde lang an." }
+entries[32285] = { ["name"] = "Große Rune des Schutzes", ["text"] = "Wirken in 3 sek.\nReagenzien:\nKhoriumbarren\n60\nBenutzen: Verzaubert eine Brustrüstung, sodass eine Chance von 25% pro Treffer besteht, 400 körperlichen Schaden zu absorbieren. 90 Sek. Abklingzeit. Hält 1 Stunde lang an." }
+entries[32286] = { ["name"] = "Konzentriertes Feuer" }
+entries[32289] = { ["name"] = "Schneller roter Greif", ["text"] = "Wirken in 1.5 sek.\nBeschwört einen reitbaren schnellen roten Greifen oder gibt ihn wieder frei. Das ist ein Flugreittier." }
+entries[32290] = { ["name"] = "Schneller grüner Greif", ["text"] = "Wirken in 1.5 sek.\nBeschwört einen reitbaren schnellen grünen Greifen oder gibt ihn wieder frei. Das ist ein Flugreittier." }
+entries[32292] = { ["name"] = "Schneller purpurfarbener Greif", ["text"] = "Wirken in 1.5 sek.\nBeschwört einen reitbaren schnellen purpurfarbenen Greifen oder gibt ihn wieder frei. Das ist ein Flugreittier." }
+entries[32295] = { ["name"] = "Schneller grüner Windreiter", ["text"] = "Wirken in 1.5 sek.\nBeschwört einen reitbaren schnellen grünen Windreiter oder gibt ihn wieder frei. Das ist ein Flugreittier." }
+entries[32296] = { ["name"] = "Schneller gelber Windreiter", ["text"] = "Wirken in 1.5 sek.\nBeschwört einen reitbaren schnellen gelben Windreiter oder gibt ihn wieder frei. Das ist ein Flugreittier." }
+entries[32297] = { ["name"] = "Schneller lila Windreiter", ["text"] = "Wirken in 1.5 sek.\nBeschwört einen reitbaren schnellen lila Windreiter oder gibt ihn wieder frei. Das ist ein Flugreittier." }
+entries[32298] = { ["name"] = "Netherwelpe", ["text"] = "Sofort\nMit Rechtsklick Euren Netherwelpen beschwören oder wieder freigeben." }
+entries[32300] = { ["name"] = "Fokussiertes Feuer" }
+entries[32301] = { ["name"] = "Ping Shirrak" }
+entries[32302] = { ["name"] = "Feurige Explosion", ["text"] = "Sofort\nVerursacht Feuerschaden bei in der Nähe befindlichen Feinden." }
+entries[32303] = { ["name"] = "Karazhan - Chess, NPC Action: Find Enemy Alliance (Melee)" }
+entries[32304] = { ["name"] = "Langstielpilz", ["text"] = "Sofort\nZeigt 1 Stunde lang die Position aller in der Nähe befindlichen Riesen auf der Minikarte an." }
+entries[32305] = { ["name"] = "Fliegenpilzgift", ["text"] = "25 Mana\nWirken in 2 sek.\nEntfernt 1 Gifteffekt. Verringert 1 Min. lang den Naturwiderstand um 50." }
+entries[32306] = { ["name"] = "Karazhan - Chess, NPC Command: Move" }
+entries[32307] = { ["name"] = "Ogerbanner der Totschläger aufstellen", ["text"] = "5 Meter Reichweite\nSofort\nPlatziert das Ogerbanner der Totschläger auf einem gefallenen Agenten von Kil'sorge." }
+entries[32308] = { ["name"] = "Teleportertest" }
+entries[32309] = { ["name"] = "Schleimblitz", ["text"] = "50 Meter Reichweite\nSofort\nSchießt Gift auf den Feind, fügt ihm Naturschaden und dann 6 Sek. lang alle 3 Sek. zusätzlichen Schaden zu." }
+entries[32311] = { ["name"] = "Teleportertest" }
+entries[32312] = { ["name"] = "Zug 1" }
+entries[32314] = { ["name"] = "Banner von Kil'sorge aufstellen", ["text"] = "5 Meter Reichweite\nSofort\nPlatziert das Banner von Kil'sorge auf einem gefallenen Oger der Totschläger." }
+entries[32315] = { ["name"] = "Seelenstoß", ["text"] = "Nahkampfreichweite\nSofort\nBenötigt Nahkampfwaffe\nVerursacht 220% Waffenschaden und verwundet das Ziel, verringert außerdem die Wirksamkeit jeglicher Heilung 5 Sek. lang um 50%." }
+entries[32316] = { ["name"] = "Astrales Gespenst beschwören", ["text"] = "30 Meter Reichweite\nSofort\nBeschwört ein Astrales Gespenst, um Euch zu unterstützen." }
+entries[32317] = { ["name"] = "Zäher Schlick" }
+entries[32318] = { ["name"] = "Eindringling des Schattenrats beschwören" }
+entries[32319] = { ["name"] = "Verstümmeln", ["text"] = "Nahkampfreichweite\nSofort\nGreift sofort mit beiden Waffen an." }
+entries[32320] = { ["name"] = "Verstümmeln", ["text"] = "Nahkampfreichweite\nSofort\nFügt einem Feind Waffenschaden der Waffenhandwaffe zu." }
+entries[32321] = { ["name"] = "Verstümmeln (Schildhand)", ["text"] = "Nahkampfreichweite\nSofort\nFügt einem Feind Waffenschaden der Schildhandwaffe zu." }
+entries[32322] = { ["name"] = "Dunkles Kreischen", ["text"] = "Sofort\nFügt Gegnern in der Nähe Schattenschaden zu und unterbricht 4 Sek. lang das Wirken von Zaubern." }
+entries[32323] = { ["name"] = "Sturmangriff", ["text"] = "8 - 25 Meter Reichweite\nSofort\nStürmt auf einen Gegner zu, verursacht Schaden und betäubt ihn 2 Sek. lang." }
+entries[32324] = { ["name"] = "Schattenexplosion", ["text"] = "380 Mana Nahkampfreichweite\nSofort\nErzeugt eine Energiewelle, die alle Gegner in der Nähe zurückstößt, Schattenschaden verursacht und alle Bedrohung beseitigt." }
+entries[32325] = { ["name"] = "Explosion der Leere", ["text"] = "100 Meter Reichweite\nWirken in 0.5 sek.\nFügt dem Ziel 24 to 29 Schattenschaden zu und stößt es zurück." }
+entries[32327] = { ["name"] = "Sporenexplosion" }
+entries[32328] = { ["name"] = "Sporeneruption" }
+entries[32329] = { ["name"] = "Juckende Sporen", ["text"] = "15 Meter Reichweite\nWirken in 2 sek.\nInfiziert das Ziel mit juckenden Sporen, die nach 10 Sek. explodieren und eine schwere Krankheit verursachen." }
+entries[32330] = { ["name"] = "Gift spucken", ["text"] = "30 Meter Reichweite\nWirken in 2.5 sek.\nSchießt Gift auf den Feind, fügt ihm Naturschaden und dann 10 Sek. lang alle 5 Sek. zusätzlichen Schaden zu." }
+entries[32332] = { ["name"] = "Wirbelsturm" }
+entries[32334] = { ["name"] = "Wirbelsturm", ["text"] = "10 Meter Reichweite\nSofort\nLöst regelmäßig einen Wirbelsturmstoß aus." }
+entries[32337] = { ["name"] = "Kettenblitzschlag", ["text"] = "150 Mana 45 Meter Reichweite\nWirken in 2 sek.\nTrifft einen Feind mit einem Blitzschlag, der auf einen in der Nähe befindlichen Feind überspringt. Der Zauber wirkt sich auf bis zu 5 Ziele aus und verursacht bei jedem folgenden Ziel immer größeren Naturschaden." }
+entries[32338] = { ["name"] = "Feuerfeger", ["text"] = "Nahkampfreichweite\nSofort\nFügt dem Ziel 2375 to 2625 Feuerschaden zu." }
+entries[32339] = { ["name"] = "Feuerfeger", ["text"] = "(Procchance: 20%, 3s Abklingzeit)" }
+entries[32343] = { ["name"] = "Selbst wiederbeleben" }
+entries[32345] = { ["name"] = "Pieps, der Reitphönix", ["text"] = "Wirken in 1.5 sek.\nBeschwört einen reitbaren Phönix oder gibt ihn wieder frei." }
+entries[32346] = { ["name"] = "Gestohlene Seele", ["text"] = "40 Meter Reichweite\nWirken in 1 sek.\nReißt dem Ziel die Seele aus dem Leib. Die dunkle Hälfte bildet ein geisterhaftes Wesen, dass dem Willen des Zaubernden unterworfen ist. Hält 2 Min. lang an." }
+entries[32347] = { ["name"] = "Gefängnis der Totschläger öffnen", ["text"] = "5 Meter Reichweite\nWirken in 1 sek.\nÖffnet das Gefängnis der Totschläger." }
+entries[32348] = { ["name"] = "Arkane Bestien beschwören" }
+entries[32349] = { ["name"] = "Arkane Bestie beschwören", ["text"] = "30 Meter Reichweite\nSofort\nBeschwört eine Arkane Bestie, um Euch 5 Min. lang zu unterstützen." }
+entries[32352] = { ["name"] = "Arkane Bestie beschwören" }
+entries[32353] = { ["name"] = "Arkanscheusal beschwören", ["text"] = "30 Meter Reichweite\nSofort\nBeschwört eine Arkane Bestie, um Euch 5 Min. lang zu unterstützen." }
+entries[32355] = { ["name"] = "Fokussierte Macht", ["text"] = "40 Meter Reichweite\nSofort\nErhöht die Zaubermacht 20 Sek. lang um 104." }
+entries[32356] = { ["name"] = "Katzengestalt" }
+entries[32357] = { ["name"] = "Bärengestalt" }
+entries[32358] = { ["name"] = "Dunkle Hülle", ["text"] = "Sofort\nWirft Zauber auf den Zaubernden zurück.\nFügt Nahkampfangreifern 750 Schattenschaden zu.\nHält 8 Sek. lang an." }
+entries[32359] = { ["name"] = "Angriffskraft - Tiergestalt (+0035)", ["text"] = "Benötigt Katzengestalt, Bärengestalt, Terrorbärengestalt, Mondkingestalt\nErhöht die Angriffskraft in Katzen-, Bären- oder Mondkingestalt um 35." }
+entries[32361] = { ["name"] = "Kristallgefängnis", ["text"] = "60 Meter Reichweite\nSofort 6 sek. Abklingzeit\nSchließt das Ziel in einem Kristall ein, fügt ihm 10% seiner maximalen Gesundheit als Naturschaden zu und betäubt es 5 Sek. lang." }
+entries[32362] = { ["name"] = "Brennender Hass", ["text"] = "Sofort\nErhöht die Angriffskraft 15 Sek. lang um 185." }
+entries[32363] = { ["name"] = "Feuerball", ["text"] = "300 Mana 40 Meter Reichweite\nWirken in 1 sek.\nFügt einem Gegner Feuerschaden zu." }
+entries[32364] = { ["name"] = "Frostblitz", ["text"] = "300 Mana 40 Meter Reichweite\nWirken in 1 sek.\nFügt einem Feind Frostschaden zu und verringert 4 Sek. lang sein Bewegungstempo." }
+entries[32365] = { ["name"] = "Frostnova", ["text"] = "250 Mana\nSofort\nVerursacht Frostschaden bei in der Nähe befindlichen Feinden und macht sie bis zu 5 Sek. lang bewegungsunfähig." }
+entries[32366] = { ["name"] = "Zone der Leere beschwören", ["text"] = "60 Meter Reichweite\nSofort\nBeschwört eine 'Zone der Leere', die bei allen Feinden, die sich in ihr befinden, Schattenschaden verursacht." }
+entries[32367] = { ["name"] = "Macht des Gebets", ["text"] = "Sofort\nErhöht die Zaubermacht 20 Sek. lang um 113." }
+entries[32368] = { ["name"] = "Astrales Leuchtfeuer" }
+entries[32369] = { ["name"] = "Feuerball", ["text"] = "90 Mana 40 Meter Reichweite\nWirken in 3 sek.\nFügt einem Gegner Feuerschaden zu." }
+entries[32370] = { ["name"] = "Frostblitz", ["text"] = "90 Mana 40 Meter Reichweite\nWirken in 3 sek.\nFügt einem Feind Frostschaden zu und verringert 4 Sek. lang sein Bewegungstempo." }
+entries[32371] = { ["name"] = "Astrales Leuchtfeuer beschwören" }
+entries[32372] = { ["name"] = "Astralen Lehrling beschwören" }
+entries[32373] = { ["name"] = "Mondfeuer", ["text"] = "95 Mana Unbegrenzte Reichweite\nSofort\nTötet die im Ziel befindliche mutierte Motte sofort." }
+entries[32375] = { ["name"] = "Massenbannung", ["text"] = "38% von Grundmana 30 Meter Reichweite\nWirken in 1.5 sek.\nBannt Magie in einem Radius von 15 Metern. Entfernt 1 schädlichen Zauber von jedem befreundeten Ziel und 1 nützlichen Zauber von jedem gegnerischen Ziel. Wirkt auf bis zu 10 befreundete und 10 gegnerische Ziele. Dieser Bannzauber ist mächtig genug, magische Effekte zu entfernen, die normalerweise nicht gebannt werden können." }
+entries[32376] = { ["name"] = "Weichklopfen", ["text"] = "Nahkampfreichweite\nSofort\nBenötigt Nahkampfwaffe\nHackt auf die Rüstung des Gegners ein und verringert sie um 24 pro 'Rüstung zerreißen'. Kann bis zu 5-mal angewendet werden. Hält 30 Sek. lang an." }
+entries[32378] = { ["name"] = "Filetieren", ["text"] = "Nahkampfreichweite\nSofort\nBenötigt Nahkampfwaffe\nVerursacht 300% Waffenschaden und verwundet das Ziel, verringert außerdem die Wirksamkeit jeglicher Heilung 5 Sek. lang um 50%." }
+entries[32379] = { ["name"] = "Schattenwort: Tod", ["text"] = "12% von Grundmana 40 Meter Reichweite\nSofort 10 sek. Abklingzeit\nEin Wort der bindenden Dunkelheit, das dem Ziel 368 Schattenschaden zufügt. Ziele, die über weniger als 25% Gesundheit verfügen, erleiden den dreifachen Schaden.\n\nWenn das Ziel durch 'Schattenwort: Tod' nicht stirbt, erleidet der Zaubernde so viel Schaden, wie dem Ziel zugefügt wurde." }
+entries[32381] = { ["name"] = "Machtvolle Verderbnis", ["text"] = "Erhöht den Schaden Eures Zaubers 'Verderbnis' um einen Wert, der 12% Eurer Zaubermacht entspricht." }
+entries[32382] = { ["name"] = "Machtvolle Verderbnis", ["text"] = "Erhöht den Schaden Eures Zaubers 'Verderbnis' um einen Wert, der 24% Eurer Zaubermacht entspricht." }
+entries[32383] = { ["name"] = "Machtvolle Verderbnis", ["text"] = "Erhöht den Schaden Eures Zaubers 'Verderbnis' um einen Wert, der 36% Eurer Zaubermacht entspricht." }
+entries[32384] = { ["name"] = "Corkis Gefängnis öffnen", ["text"] = "5 Meter Reichweite\nWirken in 5 sek.\nÖffnet Corkis Gefängnis." }
+entries[32385] = { ["name"] = "Umschlingende Schatten", ["text"] = "Eure Zauber 'Schattenblitz' und 'Heimsuchung' verursachen den Effekt 'Umschlingende Schatten', der jeglichen von Euch verursachten regelmäßigen Schattenschaden gegen das Ziel um 3% erhöht. Hält 12 Sek. lang an. Bis zu 3-mal stapelbar." }
+entries[32386] = { ["name"] = "Umschlingende Schatten", ["text"] = "Unbegrenzte Reichweite\nSofort\nEure Zauber 'Schattenblitz' und 'Heimsuchung' verursachen den Effekt 'Umschlingende Schatten', der jeglichen von Euch verursachten regelmäßigen Schattenschaden gegen das Ziel um 3% erhöht. Hält 12 Sek. lang an. Bis zu 3-mal stapelbar." }
+entries[32387] = { ["name"] = "Umschlingende Schatten", ["text"] = "Eure Zauber 'Schattenblitz' und 'Heimsuchung' verursachen den Effekt 'Umschlingende Schatten', der jeglichen von Euch verursachten regelmäßigen Schattenschaden gegen das Ziel um 4% erhöht. Hält 12 Sek. lang an. Bis zu 3-mal stapelbar." }
+entries[32388] = { ["name"] = "Umschlingende Schatten", ["text"] = "Unbegrenzte Reichweite\nSofort\nEure Zauber 'Schattenblitz' und 'Heimsuchung' verursachen den Effekt 'Umschlingende Schatten', der jeglichen von Euch verursachten regelmäßigen Schattenschaden gegen das Ziel um 4% erhöht. Hält 12 Sek. lang an. Bis zu 3-mal stapelbar." }
+entries[32389] = { ["name"] = "Umschlingende Schatten", ["text"] = "Unbegrenzte Reichweite\nSofort\nEure Zauber 'Schattenblitz' und 'Heimsuchung' verursachen den Effekt 'Umschlingende Schatten', der jeglichen von Euch verursachten regelmäßigen Schattenschaden gegen das Ziel um 5% erhöht. Hält 12 Sek. lang an. Bis zu 3-mal stapelbar." }
+entries[32392] = { ["name"] = "Umschlingende Schatten", ["text"] = "Eure Zauber 'Schattenblitz' und 'Heimsuchung' verursachen den Effekt 'Umschlingende Schatten', der jeglichen von Euch verursachten regelmäßigen Schattenschaden gegen das Ziel um 5% erhöht. Bis zu 3-mal stapelbar." }
+entries[32395] = { ["name"] = "Gestohlene Seele" }
+entries[32396] = { ["name"] = "Verzehren", ["text"] = "Nahkampfreichweite\nWirken in 0.5 sek.\nVerzehrt einen nahen Sporeggarnachwuchs." }
+entries[32397] = { ["name"] = "Knotenhautrüstungsset", ["text"] = "Wirken in 3 sek.\nBenötigt Brust, Brust, Handschuhe, Hosen, Stiefel" }
+entries[32398] = { ["name"] = "Rüstungsset des Verteidigers", ["text"] = "Wirken in 3 sek.\nBenötigt Brust, Brust, Handschuhe, Hosen, Stiefel\nErhöht dauerhaft die Ausweichwertung bei einem Gegenstand, der an Brust, Beinen, Händen oder Füßen getragen wird, um 8.\n\nDurch das Anbringen des Rüstungssets wird der Gegenstand seelengebunden." }
+entries[32399] = { ["name"] = "Rüstungsset des Magisters", ["text"] = "Wirken in 3 sek.\nBenötigt Brust, Brust, Handschuhe, Hosen, Stiefel\nErhöht dauerhaft die Willenskraft bei einem Gegenstand, der an Brust, Beinen, Händen oder Füßen getragen wird, um 8.\n\nDurch das Anbringen des Rüstungssets wird der Gegenstand seelengebunden." }
+entries[32400] = { ["name"] = "Reinigung des Glaubens", ["text"] = "175 Mana 30 Meter Reichweite\nSofort\nReinigt ein befreundetes Ziel und hebt dabei 1 Gifteffekt, 1 Krankheitseffekt und 1 Magieeffekt auf. Entfernt zusätzlich spezielle Schwächungen von Ozkreaturen." }
+entries[32401] = { ["name"] = "Erhöhte geringe Welle der Heilung", ["text"] = "Erhöht die Zaubermacht von 'Geringe Welle der Heilung' um 79." }
+entries[32402] = { ["name"] = "Erhöhte Heilung für 'Verjüngung'", ["text"] = "Erhöht die Zaubermacht Eures Zaubers 'Verjüngung' um 86." }
+entries[32403] = { ["name"] = "Verbesserte Heilung für 'Lichtblitz'", ["text"] = "Erhöht die Zaubermacht Eures Zaubers 'Lichtblitz' um 79." }
+entries[32404] = { ["name"] = "Flammenschutz", ["text"] = "30 Meter Reichweite\nSofort\nUmgibt einen Verbündeten mit einem Flammenschild, der allen nahen Feinden alle 5 Sek. 57 Feuerschaden zufügt. Hält 6 Sek. lang an." }
+entries[32405] = { ["name"] = "Mal des Shalasverstecks", ["text"] = "Unbegrenzte Reichweite\nSofort\nIhr wurdet vom Zauberschutz des Shalasverstecks identifiziert und markiert." }
+entries[32406] = { ["name"] = "Geschwindigkeitsschub", ["text"] = "Sofort 5 sek. Abklingzeit\nErhöht das Reittiertempo 10 Sek. lang um 25%." }
+entries[32407] = { ["name"] = "Seltsame Aura" }
+entries[32408] = { ["name"] = "Rauchsignale erzeugen", ["text"] = "10 Meter Reichweite\nWirken in 10 sek.\nErzeugt Rauchsignale, wenn es am lodernden Scheiterhaufen der Totschläger auf dem Hof des Lachenden Schädels benutzt wird." }
+entries[32409] = { ["name"] = "Schattenwort: Tod", ["text"] = "Sofort\nEin Wort der bindenden Dunkelheit, das dem Ziel Schattenschaden zufügt. Wenn das Ziel durch 'Schattenwort: Tod' nicht stirbt, erleidet der Zaubernde so viel Schaden, wie dem Ziel zugefügt wurde." }
+entries[32410] = { ["name"] = "Erhöhter Schaden für 'Wilder Biss'", ["text"] = "Erhöht den von 'Wilder Biss' zugefügten Schaden um 14 pro Combopunkt." }
+entries[32411] = { ["name"] = "Erhöhter Schaden für 'Siegel der Rechtschaffenheit'", ["text"] = "Erhöht den von 'Siegel der Rechtschaffenheit' zugefügten Schaden um 4 to 10 pro Angriff." }
+entries[32412] = { ["name"] = "Erhöhter Schaden für 'Blitzschlagschild'", ["text"] = "Erhöht den durch 'Blitzschlagschild' zugefügten Schaden um 9 pro Aufladung." }
+entries[32414] = { ["name"] = "Feuerball", ["text"] = "40 Meter Reichweite\nWirken in 3 sek.\nFügt einem Gegner Feuerschaden zu." }
+entries[32415] = { ["name"] = "Mondfeuer", ["text"] = "30 Meter Reichweite\nSofort\nVerbrennt den Feind und fügt ihm Arkanschaden sowie 12 Sek. lang zusätzlichen Schaden zu." }
+entries[32416] = { ["name"] = "Hammer der Gerechtigkeit", ["text"] = "10 Meter Reichweite\nSofort\nBetäubt einen Feind, sodass er sich 4 Sek. lang weder bewegen noch angreifen kann." }
+entries[32417] = { ["name"] = "Gedankenschinden", ["text"] = "20 Meter Reichweite\nKanalisiert (Wirken in 3 sek.)\nFügt einem Feind Schattenschaden zu und verringert 3 Sek. lang sein Bewegungstempo." }
+entries[32418] = { ["name"] = "Fluch der Pein", ["text"] = "30 Meter Reichweite\nSofort\nVerflucht einen Feind mit Pein und fügt 15 Sek. lang alle 3 Sek. Schattenschaden zu. Es kann immer nur jeweils ein Fluch pro Hexenmeister auf einem beliebigen Ziel aktiv sein." }
+entries[32419] = { ["name"] = "Eiskältefalle", ["text"] = "Sofort 15 sek. Abklingzeit\nEine Eiskältefalle platzieren, die den ersten sich nähernden Feind einfriert und 1 Min. lang jegliche Aktion des Feindes verhindert. Jeglicher erlittene Schaden wird das Eis wieder brechen. Die Falle bleibt 1 Min. lang bestehen. Es kann immer nur jeweils eine Falle aktiv sein." }
+entries[32420] = { ["name"] = "Alder Aschebäscha", ["text"] = "Wirken in 1.5 sek.\nBeschwört einen altersschwachen Reitwyvern oder gibt ihn wieder frei." }
+entries[32421] = { ["name"] = "Seelenschrei", ["text"] = "210 Mana\nSofort\nStößt einen Schrei aus, der nahe Gegner 2 Sek. lang desorientiert werden lässt." }
+entries[32422] = { ["name"] = "Band der Seelen", ["text"] = "40 Meter Reichweite\nWirken in 1.5 sek.\nFügt einem Gegner 1105 to 1495 Schattenschaden zu." }
+entries[32423] = { ["name"] = "Blaue Strahlung" }
+entries[32424] = { ["name"] = "Avatar beschwören", ["text"] = "Nahkampfreichweite\nWirken in 2 sek.\nBeschwört einen Draeneigeist." }
+entries[32426] = { ["name"] = "Bequeme Einlegesohlen", ["text"] = "Wirken in 3 sek.\nBenötigt Stiefel\nIn einen Schuh legen, um diesen spürbar bequemer zu machen." }
+entries[32427] = { ["name"] = "Bequeme Einlegesohlen", ["text"] = "Euren Füßen geht es jetzt viel besser!" }
+entries[32428] = { ["name"] = "Absaugende Berührung", ["text"] = "Nahkampfreichweite\nSofort\nEntzieht einem Feind 723 to 977 Gesundheit und überträgt sie auf den Zaubernden." }
+entries[32429] = { ["name"] = "Absaugende Berührung", ["text"] = "Nahkampfreichweite\nSofort\nEntzieht einem Gegner Gesundheit und überträgt sie auf den Zaubernden.\n(Procchance: 50%)" }
+entries[32430] = { ["name"] = "Schlachtstandarte", ["text"] = "Unbegrenzte Reichweite\nSofort\nPlatziert diese Schlachtstandarte auf dem Friedhof der Ruinen der Zwillingsspitze, um ihn einzunehmen!" }
+entries[32431] = { ["name"] = "Schlachtstandarte" }
+entries[32437] = { ["name"] = "Erschüttert", ["text"] = "Sofort\nVerwandelt den Zaubernden und verringert seine Rüstung." }
+entries[32439] = { ["name"] = "Neutrale Flagge genommen (Horde)" }
+entries[32440] = { ["name"] = "Neutrale Flagge genommen (Allianz)" }
+entries[32441] = { ["name"] = "Brüchige Knochen", ["text"] = "Nahkampfreichweite\nSofort\nLässt das Ziel in regelmäßigen Abständen die gesamte Rüstung verlieren. Hält 1.50 Min. an." }
+entries[32445] = { ["name"] = "Heiliger Zorn", ["text"] = "100 Mana 100 Meter Reichweite\nSofort 2 sek. Abklingzeit\nSchleudert Blitze heiliger Macht in alle Richtungen und fügt so allen Zielen im Umkreis von 80 Metern Heiligschaden zu, der sich mit jedem Sprung um 40% erhöht." }
+entries[32446] = { ["name"] = "Verteidigung des Shalasverstecks neutralisieren", ["text"] = "5 Meter Reichweite\nWirken in 2 sek.\nNahe der Vogelscheuchentotems außerhalb des Shalasverstecks benutzen, um den Zauberschutz der Stadt zu neutralisieren." }
+entries[32447] = { ["name"] = "Reisegestalt" }
+entries[32448] = { ["name"] = "Netheraura" }
+entries[32449] = { ["name"] = "Zauberschaden erhöhen 23", ["text"] = "Erhöht die Intelligenz um 20." }
+entries[32450] = { ["name"] = "Zauberschaden erhöhen 23", ["text"] = "Erhöht die Zaubermacht um 23." }
+entries[32451] = { ["name"] = "Zauberschaden erhöhen 23", ["text"] = "Erhöht die Intelligenz um 20." }
+entries[32452] = { ["name"] = "Zauberschaden erhöhen 23", ["text"] = "Erhöht die Zaubermacht um 23." }
+entries[32453] = { ["name"] = "Manatrank", ["text"] = "Wirken in 0.5 sek.\nBenutzt ein heiliges Elixier, um den Zaubernden um 32000 zu heilen." }
+entries[32454] = { ["name"] = "Knotenhautleder", ["text"] = "Wirken in 2 sek.\nReagenzien:\nKnotenhautlederfetzen (5)" }
+entries[32455] = { ["name"] = "Schweres Knotenhautleder", ["text"] = "Wirken in 3 sek.\nReagenzien:\nKnotenhautleder (5)" }
+entries[32456] = { ["name"] = "Knotenhautrüstungsset", ["text"] = "Wirken in 3 sek.\nReagenzien:\nKnotenhautleder (4)\n50" }
+entries[32457] = { ["name"] = "Rüstungsset des Verteidigers", ["text"] = "Wirken in 3 sek.\nReagenzien:\nSchweres Knotenhautleder (3), Urerde\n55\nBenutzen: Erhöht dauerhaft die Ausweichwertung bei einem Gegenstand, der an Brust, Beinen, Händen oder Füßen getragen wird, um 8.\n\nDurch das Anbringen des Rüstungssets wird der Gegenstand seelengebunden." }
+entries[32458] = { ["name"] = "Rüstungsset des Magisters", ["text"] = "Wirken in 3 sek.\nReagenzien:\nSchweres Knotenhautleder (3), Urmana\n55\nBenutzen: Erhöht dauerhaft die Willenskraft bei einem Gegenstand, der an Brust, Beinen, Händen oder Füßen getragen wird, um 8.\n\nDurch das Anbringen des Rüstungssets wird der Gegenstand seelengebunden." }
+entries[32459] = { ["name"] = "Tobende Seele" }
+entries[32461] = { ["name"] = "Reitgerte", ["text"] = "Wirken in 50 sek.\nReagenzien:\nSchweres Knotenhautleder (4), Urmacht , Arkaner Staub (6), Kleiner Prismasplitter\nReitgerte\nWird beim Anlegen gebunden\nEinzigartig anlegbarSchmuck\n69" }
+entries[32462] = { ["name"] = "Teufelsschuppenhandschuhe", ["text"] = "Wirken in 25 sek.\nReagenzien:\nKnotenhautleder (5), Teufelsschuppen , Runenfaden (2)\nTeufelsschuppenhandschuhe\nWird beim Anlegen gebunden\nHände Kette\n271 Rüstung\n+20 Beweglichkeit\n+29 Ausdauer\nHaltbarkeit 40 / 40\n57\n\nTeufelsschuppenrüstung (0/4)\nTeufelsschuppenbrustplatte\nTeufelsschuppenhose\nTeufelsschuppenstiefel\nTeufelsschuppenhandschuhe" }
+entries[32463] = { ["name"] = "Teufelsschuppenstiefel", ["text"] = "Wirken in 25 sek.\nReagenzien:\nKnotenhautleder (8), Teufelsschuppen , Runenfaden (2)\nTeufelsschuppenstiefel\nWird beim Anlegen gebunden\nFüße Kette\n354 Rüstung\n+22 Beweglichkeit\n+30 Ausdauer\nHaltbarkeit 55 / 55\n61\n\nTeufelsschuppenrüstung (0/4)\nTeufelsschuppenbrustplatte\nTeufelsschuppenhose\nTeufelsschuppenstiefel\nTeufelsschuppenhandschuhe" }
+entries[32464] = { ["name"] = "Teufelsschuppenhose", ["text"] = "Wirken in 25 sek.\nReagenzien:\nKnotenhautleder (10), Teufelsschuppen (3), Runenfaden (3)\nTeufelsschuppenhose\nWird beim Anlegen gebunden\nBeine Kette\n505 Rüstung\n+31 Beweglichkeit\n+45 Ausdauer\nHaltbarkeit 85 / 85\n63\n\nTeufelsschuppenrüstung (0/4)\nTeufelsschuppenbrustplatte\nTeufelsschuppenhose\nTeufelsschuppenstiefel\nTeufelsschuppenhandschuhe" }
+entries[32465] = { ["name"] = "Teufelsschuppenbrustplatte", ["text"] = "Wirken in 25 sek.\nReagenzien:\nSchweres Knotenhautleder (2), Teufelsschuppen (3), Runenfaden (3)\nTeufelsschuppenbrustplatte\nWird beim Anlegen gebunden\nBrust Kette\n685 Rüstung\n+36 Beweglichkeit\n+45 Ausdauer\nHaltbarkeit 115 / 115\n66\n\nTeufelsschuppenrüstung (0/4)\nTeufelsschuppenbrustplatte\nTeufelsschuppenhose\nTeufelsschuppenstiefel\nTeufelsschuppenhandschuhe" }
+entries[32466] = { ["name"] = "Geschuppte draenische Hose", ["text"] = "Wirken in 25 sek.\nReagenzien:\nKnotenhautleder (6), Teufelsschuppen (3), Runenfaden (2)\nGeschuppte draenische Hose\nWird beim Anlegen gebunden\nBeine Kette\n380 Rüstung\n+30 Ausdauer\n+20 Intelligenz\n+20 Willenskraft\nHaltbarkeit 85 / 85\n57\n\nGeschuppte draenische Rüstung (0/4)\nGeschuppte draenische Handschuhe\nGeschuppte draenische Stiefel\nGeschuppte draenische Hose\nGeschuppte draenische Weste" }
+entries[32467] = { ["name"] = "Geschuppte draenische Handschuhe", ["text"] = "Wirken in 25 sek.\nReagenzien:\nKnotenhautleder (8), Teufelsschuppen , Runenfaden (2)\nGeschuppte draenische Handschuhe\nWird beim Anlegen gebunden\nHände Kette\n322 Rüstung\n+24 Ausdauer\n+17 Intelligenz\n+18 Willenskraft\nHaltbarkeit 40 / 40\n61\n\nGeschuppte draenische Rüstung (0/4)\nGeschuppte draenische Handschuhe\nGeschuppte draenische Stiefel\nGeschuppte draenische Hose\nGeschuppte draenische Weste" }
+entries[32468] = { ["name"] = "Geschuppte draenische Weste", ["text"] = "Wirken in 25 sek.\nReagenzien:\nSchweres Knotenhautleder (2), Teufelsschuppen (3), Runenfaden (3)\nGeschuppte draenische Weste\nWird beim Anlegen gebunden\nBrust Kette\n611 Rüstung\n+36 Ausdauer\n+25 Intelligenz\n+26 Willenskraft\nHaltbarkeit 115 / 115\n64\n\nGeschuppte draenische Rüstung (0/4)\nGeschuppte draenische Handschuhe\nGeschuppte draenische Stiefel\nGeschuppte draenische Hose\nGeschuppte draenische Weste" }
+entries[32469] = { ["name"] = "Geschuppte draenische Stiefel", ["text"] = "Wirken in 25 sek.\nReagenzien:\nSchweres Knotenhautleder (2), Teufelsschuppen (2), Runenfaden (3)\nGeschuppte draenische Stiefel\nWird beim Anlegen gebunden\nFüße Kette\n471 Rüstung\n+30 Ausdauer\n+19 Intelligenz\n+20 Willenskraft\nHaltbarkeit 55 / 55\n66\n\nGeschuppte draenische Rüstung (0/4)\nGeschuppte draenische Handschuhe\nGeschuppte draenische Stiefel\nGeschuppte draenische Hose\nGeschuppte draenische Weste" }
+entries[32470] = { ["name"] = "Dicke draenische Handschuhe", ["text"] = "Wirken in 25 sek.\nReagenzien:\nKnotenhautleder (6), Runenfaden (2)\nDicke draenische Handschuhe\nWird beim Anlegen gebunden\nHände Leder\n178 Rüstung\n+15 Beweglichkeit\n+33 Ausdauer\nHaltbarkeit 40 / 40\n57\n\nDicke draenische Rüstung (0/4)\nDicke draenische Stiefel\nDicke draenische Handschuhe\nDicke draenische Hose\nDicke draenische Weste" }
+entries[32471] = { ["name"] = "Dicke draenische Hose", ["text"] = "Wirken in 25 sek.\nReagenzien:\nKnotenhautleder (10), Runenfaden (2)\nDicke draenische Hose\nWird beim Anlegen gebunden\nBeine Leder\n313 Rüstung\n+23 Beweglichkeit\n+51 Ausdauer\nHaltbarkeit 85 / 85\n62\n\nDicke draenische Rüstung (0/4)\nDicke draenische Stiefel\nDicke draenische Handschuhe\nDicke draenische Hose\nDicke draenische Weste" }
+entries[32472] = { ["name"] = "Dicke draenische Stiefel", ["text"] = "Wirken in 25 sek.\nReagenzien:\nKnotenhautleder (10), Runenfaden (3)\nDicke draenische Stiefel\nWird beim Anlegen gebunden\nFüße Leder\n260 Rüstung\n+18 Beweglichkeit\n+39 Ausdauer\nHaltbarkeit 55 / 55\n63\n\nDicke draenische Rüstung (0/4)\nDicke draenische Stiefel\nDicke draenische Handschuhe\nDicke draenische Hose\nDicke draenische Weste" }
+entries[32473] = { ["name"] = "Dicke draenische Weste", ["text"] = "Wirken in 25 sek.\nReagenzien:\nSchweres Knotenhautleder (3), Runenfaden (3)\nDicke draenische Weste\nWird beim Anlegen gebunden\nBrust Leder\n424 Rüstung\n+26 Beweglichkeit\n+57 Ausdauer\nHaltbarkeit 115 / 115\n65\n\nDicke draenische Rüstung (0/4)\nDicke draenische Stiefel\nDicke draenische Handschuhe\nDicke draenische Hose\nDicke draenische Weste" }
+entries[32474] = { ["name"] = "Wirbelnde Lüfte von Susurrus" }
+entries[32475] = { ["name"] = "Höllenfeuer" }
+entries[32476] = { ["name"] = "Hervorrufung" }
+entries[32477] = { ["name"] = "Verhängnis", ["text"] = "Erhöht Euren Zauberschaden um 1% und erhöht die regelmäßige kritische Trefferchance Eurer Zauber 'Verderbnis' und 'Instabiles Gebrechen' um 3%." }
+entries[32478] = { ["name"] = "Wilde draenische Stiefel", ["text"] = "Wirken in 25 sek.\nReagenzien:\nKnotenhautleder (6), Runenfaden (3)\nWilde draenische Stiefel\nWird beim Anlegen gebunden\nFüße Leder\n196 Rüstung\n+18 Ausdauer\n+20 Intelligenz\nHaltbarkeit 55 / 55\n57\nAnlegen: Erhöht die Trefferwertung um 13.\n\nWilde draenische Rüstung (0/4)\nWilde draenische Stiefel\nWilde draenische Handschuhe\nWilde draenische Gamaschen\nWilde draenische Weste" }
+entries[32479] = { ["name"] = "Wilde draenische Handschuhe", ["text"] = "Wirken in 25 sek.\nReagenzien:\nKnotenhautleder (9), Runenfaden (3)\nWilde draenische Handschuhe\nWird beim Anlegen gebunden\nHände Leder\n211 Rüstung\n+21 Ausdauer\n+14 Intelligenz\nHaltbarkeit 40 / 40\n61\nAnlegen: Erhöht die kritische Trefferwertung um 21.\n\nWilde draenische Rüstung (0/4)\nWilde draenische Stiefel\nWilde draenische Handschuhe\nWilde draenische Gamaschen\nWilde draenische Weste" }
+entries[32480] = { ["name"] = "Wilde draenische Gamaschen", ["text"] = "Wirken in 25 sek.\nReagenzien:\nKnotenhautleder (13), Runenfaden (3)\nWilde draenische Gamaschen\nWird beim Anlegen gebunden\nBeine Leder\n331 Rüstung\n+30 Intelligenz\n+20 Willenskraft\nHaltbarkeit 85 / 85\n63\nAnlegen: Erhöht die kritische Trefferwertung um 20.\n\nWilde draenische Rüstung (0/4)\nWilde draenische Stiefel\nWilde draenische Handschuhe\nWilde draenische Gamaschen\nWilde draenische Weste" }
+entries[32481] = { ["name"] = "Wilde draenische Weste", ["text"] = "Wirken in 25 sek.\nReagenzien:\nSchweres Knotenhautleder (3), Runenfaden (3)\nWilde draenische Weste\nWird beim Anlegen gebunden\nBrust Leder\n424 Rüstung\n+31 Ausdauer\n+32 Intelligenz\nHaltbarkeit 115 / 115\n65\nAnlegen: Erhöht die Trefferwertung um 22.\n\nWilde draenische Rüstung (0/4)\nWilde draenische Stiefel\nWilde draenische Handschuhe\nWilde draenische Gamaschen\nWilde draenische Weste" }
+entries[32482] = { ["name"] = "Bequeme Einlegesohlen", ["text"] = "Wirken in 12.5 sek.\nReagenzien:\nKnotenhautleder (2)\nBenutzen: In einen Schuh legen, um diesen spürbar bequemer zu machen." }
+entries[32483] = { ["name"] = "Verhängnis", ["text"] = "Erhöht Euren Zauberschaden um 2% und erhöht die regelmäßige kritische Trefferchance Eurer Zauber 'Verderbnis' und 'Instabiles Gebrechen' um 6%." }
+entries[32484] = { ["name"] = "Verhängnis", ["text"] = "Erhöht Euren Zauberschaden um 3% und erhöht die regelmäßige kritische Trefferchance Eurer Zauber 'Verderbnis' und 'Instabiles Gebrechen' um 9%." }
+entries[32485] = { ["name"] = "Schicker lilafarbener Hut", ["text"] = "Wirken in 45 sek.\nReagenzien:\nSchweres Knotenhautleder (6), Kobraschuppen (2), Urschatten (8), Lila Farbstoff (4), Runenfaden (3)\nSchicker lilafarbener Hut\nWird beim Anlegen gebunden\nKopf Leder\n414 Rüstung\n+48 Beweglichkeit\n+45 Ausdauer\nHaltbarkeit 80 / 80\n69" }
+entries[32487] = { ["name"] = "Schicker Abenteurerhut", ["text"] = "Wirken in 45 sek.\nReagenzien:\nSchweres Knotenhautleder (6), Kobraschuppen (2), Urleben (8), Schwarzer Farbstoff (4), Runenfaden (3)\nSchicker Abenteurerhut\nWird beim Anlegen gebunden\nKopf Kette\n630 Rüstung\n+43 Intelligenz\n+40 Willenskraft\nHaltbarkeit 80 / 80\n69" }
+entries[32488] = { ["name"] = "Schicker purpurfarbener Hut", ["text"] = "Wirken in 45 sek.\nReagenzien:\nSchweres Knotenhautleder (6), Kobraschuppen (2), Urfeuer (8), Roter Farbstoff (4), Runenfaden (3)\nSchicker purpurfarbener Hut\nWird beim Anlegen gebunden\nKopf Kette\n630 Rüstung\n+48 Beweglichkeit\n+45 Ausdauer\nHaltbarkeit 80 / 80\n69" }
+entries[32489] = { ["name"] = "Schicker Dschungelhut", ["text"] = "Wirken in 45 sek.\nReagenzien:\nSchweres Knotenhautleder (6), Kobraschuppen (2), Urerde (8), Runenfaden (3)\nSchicker Dschungelhut\nWird beim Anlegen gebunden\nKopf Leder\n414 Rüstung\n+24 Beweglichkeit\n+61 Ausdauer\n+16 Intelligenz\nHaltbarkeit 80 / 80\n69\nAnlegen: Erhöht die Trefferwertung um 26." }
+entries[32490] = { ["name"] = "Teufelslederhandschuhe", ["text"] = "Wirken in 45 sek.\nReagenzien:\nSchweres Knotenhautleder (6), Teufelsbalg (6), Urschatten (6), Runenfaden (3)\nTeufelslederhandschuhe\nWird beim Anlegen gebunden\nHände Leder\n297 Rüstung\n+18 Beweglichkeit\n\nGelber Sockel\nRoter Sockel\nSockelbonus: +6 Angriffskraft\n\nHaltbarkeit 45 / 45\n67\nAnlegen: Erhöht die kritische Trefferwertung um 24.\nAnlegen: Erhöht die Trefferwertung um 17.\n\nTeufelshaut (0/3)\nBenötigt Lederverarbeitung\n(350) Teufelslederhandschuhe\nTeufelslederstiefel\nTeufelsledergamaschen" }
+entries[32491] = { ["name"] = "Feuerball", ["text"] = "Unbegrenzte Reichweite\nWirken in 3 sek.\nFügt einem Gegner Feuerschaden zu." }
+entries[32492] = { ["name"] = "Lohe", ["text"] = "Sofort\nVerursacht bei allen Feinden in der Lohe 2188 to 2812 Feuerschaden." }
+entries[32493] = { ["name"] = "Teufelslederstiefel", ["text"] = "Wirken in 45 sek.\nReagenzien:\nSchweres Knotenhautleder (10), Teufelsbalg (8), Urschatten (8), Runenfaden (3)\nTeufelslederstiefel\nWird beim Anlegen gebunden\nFüße Leder\n350 Rüstung\n+18 Beweglichkeit\n\nGelber Sockel\nRoter Sockel\nSockelbonus: +6 Angriffskraft\n\nHaltbarkeit 65 / 65\n69\nAnlegen: Erhöht die kritische Trefferwertung um 17.\nAnlegen: Erhöht die Trefferwertung um 25.\n\nTeufelshaut (0/3)\nBenötigt Lederverarbeitung\n(350) Teufelslederhandschuhe\nTeufelslederstiefel\nTeufelsledergamaschen" }
+entries[32494] = { ["name"] = "Teufelsledergamaschen", ["text"] = "Wirken in 45 sek.\nReagenzien:\nSchweres Knotenhautleder (10), Teufelsbalg (10), Urschatten (10), Runenfaden (3)\nTeufelsledergamaschen\nWird beim Anlegen gebunden\nBeine Leder\n445 Rüstung\n+26 Beweglichkeit\n\nRoter Sockel\nGelber Sockel\nGelber Sockel\nSockelbonus: +8 Angriffskraft\n\nHaltbarkeit 100 / 100\n69\nAnlegen: Erhöht die kritische Trefferwertung um 25.\nAnlegen: Erhöht die Trefferwertung um 25.\n\nTeufelshaut (0/3)\nBenötigt Lederverarbeitung\n(350) Teufelslederhandschuhe\nTeufelslederstiefel\nTeufelsledergamaschen" }
+entries[32495] = { ["name"] = "Schwere Grollhufweste", ["text"] = "Wirken in 45 sek.\nReagenzien:\nSchweres Knotenhautleder (6), Dickes Grollhufleder (40), Urerde (4), Runenfaden (2)\nSchwere Grollhufweste\nWird beim Anlegen gebunden\nBrust Leder\n513 Rüstung\n+45 Ausdauer\n\nGelber Sockel\nGelber Sockel\nBlauer Sockel\nSockelbonus: +4 Ausweichwertung\n\nHaltbarkeit 135 / 135\n70\nAnlegen: Erhöht Eure Ausweichwertung um 29.\n\nMacht der Grollhufe (0/3)\nBenötigt Lederverarbeitung\n(350) Schwere Grollhufstiefel\nSchwere Grollhufgamaschen\nSchwere Grollhufweste" }
+entries[32496] = { ["name"] = "Schwere Grollhufgamaschen", ["text"] = "Wirken in 45 sek.\nReagenzien:\nSchweres Knotenhautleder (6), Dickes Grollhufleder (34), Urerde (4), Runenfaden (2)\nSchwere Grollhufgamaschen\nWird beim Anlegen gebunden\nBeine Leder\n447 Rüstung\n+33 Ausdauer\n\nBlauer Sockel\nGelber Sockel\nBlauer Sockel\nSockelbonus: +4 Ausweichwertung\n\nHaltbarkeit 100 / 100\n70\nAnlegen: Erhöht Eure Ausweichwertung um 35.\n\nMacht der Grollhufe (0/3)\nBenötigt Lederverarbeitung\n(350) Schwere Grollhufstiefel\nSchwere Grollhufgamaschen\nSchwere Grollhufweste" }
+entries[32497] = { ["name"] = "Schwere Grollhufstiefel", ["text"] = "Wirken in 45 sek.\nReagenzien:\nSchweres Knotenhautleder (4), Dickes Grollhufleder (20), Urerde (4), Runenfaden (2)\nSchwere Grollhufstiefel\nWird beim Anlegen gebunden\nFüße Leder\n351 Rüstung\n+30 Ausdauer\n\nGelber Sockel\nBlauer Sockel\nSockelbonus: +3 Ausweichwertung\n\nHaltbarkeit 65 / 65\n69\nAnlegen: Erhöht Eure Ausweichwertung um 26.\n\nMacht der Grollhufe (0/3)\nBenötigt Lederverarbeitung\n(350) Schwere Grollhufstiefel\nSchwere Grollhufgamaschen\nSchwere Grollhufweste" }
+entries[32498] = { ["name"] = "Gürtel des Teufelspirschers", ["text"] = "Wirken in 45 sek.\nReagenzien:\nSchweres Knotenhautleder (6), Teufelsbalg (4), Kristalldurchdrungenes Leder (8), Urluft (6), Runenfaden (2)\nGürtel des Teufelspirschers\nWird beim Anlegen gebunden\nTaille Kette\n436 Rüstung\n+25 Beweglichkeit\n+27 Ausdauer\n\nRoter Sockel\nBlauer Sockel\nSockelbonus: +4 Ausdauer\n\nHaltbarkeit 45 / 45\n69\nAnlegen: Erhöht die kritische Trefferwertung um 17.\n\nRüstung des Teufelspirschers (0/3)\nBenötigt Lederverarbeitung\n(350) Gürtel des Teufelspirschers\nArmschienen des Teufelspirschers\nBrustplatte des Teufelspirschers" }
+entries[32499] = { ["name"] = "Armschienen des Teufelspirschers", ["text"] = "Wirken in 45 sek.\nReagenzien:\nSchweres Knotenhautleder (6), Teufelsbalg (6), Kristalldurchdrungenes Leder (6), Urluft (4), Runenfaden (2)\nArmschienen des Teufelspirschers\nWird beim Anlegen gebunden\nHandgelenke Kette\n341 Rüstung\n+19 Beweglichkeit\n+27 Ausdauer\n\nBlauer Sockel\nSockelbonus: +3 Ausdauer\n\nHaltbarkeit 45 / 45\n70\nAnlegen: Erhöht die kritische Trefferwertung um 11.\n\nRüstung des Teufelspirschers (0/3)\nBenötigt Lederverarbeitung\n(350) Gürtel des Teufelspirschers\nArmschienen des Teufelspirschers\nBrustplatte des Teufelspirschers" }
+entries[32500] = { ["name"] = "Brustplatte des Teufelspirschers", ["text"] = "Wirken in 45 sek.\nReagenzien:\nSchweres Knotenhautleder (10), Teufelsbalg (4), Kristalldurchdrungenes Leder (8), Urluft (8), Runenfaden (2)\nBrustplatte des Teufelspirschers\nWird beim Anlegen gebunden\nBrust Kette\n779 Rüstung\n+26 Beweglichkeit\n+39 Ausdauer\n\nRoter Sockel\nRoter Sockel\nBlauer Sockel\nSockelbonus: +6 Ausdauer\n\nHaltbarkeit 135 / 135\n70\nAnlegen: Erhöht die kritische Trefferwertung um 26.\n\nRüstung des Teufelspirschers (0/3)\nBenötigt Lederverarbeitung\n(350) Gürtel des Teufelspirschers\nArmschienen des Teufelspirschers\nBrustplatte des Teufelspirschers" }
+entries[32501] = { ["name"] = "Netherzorngürtel", ["text"] = "Wirken in 45 sek.\nReagenzien:\nSchweres Knotenhautleder (4), Kristalldurchdrungenes Leder (8), Urwasser (3), Urmana (3), Runenfaden (2)\nNetherzorngürtel\nWird beim Anlegen gebunden\nTaille Kette\n408 Rüstung\n+27 Ausdauer\n+18 Intelligenz\n+22 Willenskraft\n\nRoter Sockel\nBlauer Sockel\nSockelbonus: +3 Kritische Trefferwertung\n\nHaltbarkeit 45 / 45\n67\n\nNetherzorn (0/3)\nBenötigt Lederverarbeitung\n(350) Netherzorngürtel\nNetherzornstiefel\nNetherzorngamaschen" }
+entries[32502] = { ["name"] = "Netherzorngamaschen", ["text"] = "Wirken in 45 sek.\nReagenzien:\nSchweres Knotenhautleder (8), Kristalldurchdrungenes Leder (12), Urwasser (5), Urmana (5), Runenfaden (2)\nNetherzorngamaschen\nWird beim Anlegen gebunden\nBeine Kette\n635 Rüstung\n+37 Ausdauer\n+25 Intelligenz\n+26 Willenskraft\n\nRoter Sockel\nBlauer Sockel\nBlauer Sockel\nSockelbonus: +4 Kritische Trefferwertung\n\nHaltbarkeit 100 / 100\n67\n\nNetherzorn (0/3)\nBenötigt Lederverarbeitung\n(350) Netherzorngürtel\nNetherzornstiefel\nNetherzorngamaschen" }
+entries[32503] = { ["name"] = "Netherzornstiefel", ["text"] = "Wirken in 45 sek.\nReagenzien:\nSchweres Knotenhautleder (6), Kristalldurchdrungenes Leder (10), Urwasser (4), Urmana (4), Runenfaden (2)\nNetherzornstiefel\nWird beim Anlegen gebunden\nFüße Kette\n445 Rüstung\n+36 Ausdauer\n+18 Intelligenz\n+18 Willenskraft\n\nBlauer Sockel\nRoter Sockel\nSockelbonus: +3 Kritische Trefferwertung\n\nHaltbarkeit 65 / 65\n69\n\nNetherzorn (0/3)\nBenötigt Lederverarbeitung\n(350) Netherzorngürtel\nNetherzornstiefel\nNetherzorngamaschen" }
+entries[32546] = { ["name"] = "Verbindende Heilung", ["text"] = "28% von Grundmana 40 Meter Reichweite\nWirken in 1.5 sek.\nHeilt ein befreundetes Ziel und den Zaubernden um 5916 . Geringe Bedrohung." }
+entries[32549] = { ["name"] = "Lederverarbeitung", ["text"] = "Sofort\nErmöglicht einem Lederer, Lederrüstungen von meisterlicher Qualität mit einer maximalen potenziellen Fertigkeit von 375 herzustellen." }
+entries[32550] = { ["name"] = "Lederverarbeitungsmeister" }
+entries[32553] = { ["name"] = "Aderlass", ["text"] = "Unbegrenzte Reichweite\nSofort\nWandelt Gesundheit in Mana um." }
+entries[32554] = { ["name"] = "Mananachschub", ["text"] = "Unbegrenzte Reichweite\nSofort\nWenn Euer Dämon mit seinem einfachen Angriff einen kritischen Treffer erzielt, gewinnt Ihr sofort einen Prozentsatz Eures gesamten Manas.\n\nWenn Ihr durch Euren Zauber 'Aderlass' Mana gewinnt, gewinnt Euer Dämon Mana in Höhe eines Prozentsatzes Eures erhaltenen Manas." }
+entries[32556] = { ["name"] = "Erhöhtes Ausweichen 20", ["text"] = "Erhöht Eure Ausweichwertung um 20." }
+entries[32557] = { ["name"] = "Intelligenztest", ["text"] = "Erhöht die Intelligenz des Ziels um 0." }
+entries[32560] = { ["name"] = "Quagmirran schlägt nach Naturalist Biss" }
+entries[32563] = { ["name"] = "Schwarzer Kristallstauts" }
+entries[32564] = { ["name"] = "Portalkristalle" }
+entries[32566] = { ["name"] = "Purple Banish State" }
+entries[32567] = { ["name"] = "Grüner Bannstatus" }
+entries[32568] = { ["name"] = "Transfer" }
+entries[32569] = { ["name"] = "Transfer" }
+entries[32570] = { ["name"] = "Dämonischer Runenstatus" }
+entries[32571] = { ["name"] = "Transfer" }
+entries[32572] = { ["name"] = "Transfer" }
+entries[32573] = { ["name"] = "Justins Schockkanal" }
+entries[32574] = { ["name"] = "Bauplan der Arkanen Bombe - Seite 1 (Allianz)", ["text"] = "Wirken in 2 sek.\nReagenzien:\nBaupläne für Manabomben: Seite 2 , Baupläne für Manabomben: Seite 3 , Baupläne für Manabomben: Seite 4\nMit den Seiten 2, 3 und 4 kombinieren." }
+entries[32575] = { ["name"] = "Bauplan der Arkanen Bombe - Seite 2 (Allianz)", ["text"] = "Wirken in 2 sek.\nReagenzien:\nBaupläne für Manabomben: Seite 1 , Baupläne für Manabomben: Seite 3 , Baupläne für Manabomben: Seite 4\nMit den Seiten 1, 3 und 4 kombinieren." }
+entries[32576] = { ["name"] = "Bauplan der Arkanen Bombe - Seite 3 (Allianz)", ["text"] = "Wirken in 2 sek.\nReagenzien:\nBaupläne für Manabomben: Seite 1 , Baupläne für Manabomben: Seite 2 , Baupläne für Manabomben: Seite 4\nMit den Seiten 1, 2 und 4 kombinieren." }
+entries[32577] = { ["name"] = "Bauplan der Arkanen Bombe - Seite 4 (Allianz)", ["text"] = "Wirken in 2 sek.\nReagenzien:\nBaupläne für Manabomben: Seite 1 , Baupläne für Manabomben: Seite 2 , Baupläne für Manabomben: Seite 3\nMit den Seiten 1, 2 und 3 kombinieren." }
+entries[32578] = { ["name"] = "Gor'dreks Salbe", ["text"] = "20 Meter Reichweite\nWirken in 5 sek.\nLässt einen Terrorwolf der Donnerfürsten wachsen und erhöht 1.50 Min. lang den von ihm verursachten Schaden. Dennoch besteht eine Chance, dass der Wolf aggressiv wird und sich gegen Euch wendet. Es kann immer nur ein Zauber dieser Art zur selben Zeit auf einem Wolf aktiv sein." }
+entries[32580] = { ["name"] = "Heimtückischer mächtiger Fetisch", ["text"] = "20 Meter Reichweite\nWirken in 5 sek.\nBeschwört einen bösen Geist. Nachdem dieser besiegt wurde, verflucht er ein Ogerbauwerk im Wehr der Speerspießer oder im Außenposten der Blutschläger." }
+entries[32581] = { ["name"] = "Ogergebäudehäschen beschwören", ["text"] = "30 Meter Reichweite\nSofort\nBeschwört ein kleines Ogergebäudehäschen." }
+entries[32582] = { ["name"] = "Ogergebäudehäschen verfluchen", ["text"] = "Sofort\nVisueller Effekt, wenn ein Ogergebäude der Wehr der Speerspießer oder des Außenpostens der Blutschläger im Laufe der Quest \"Verflucht seien Eure beiden Klans!\" verflucht wird." }
+entries[32584] = { ["name"] = "Heilung erhöhen 95", ["text"] = "Erhöht die Zaubermacht um 50." }
+entries[32585] = { ["name"] = "Angriffskraft - Tiergestalt (+0151)", ["text"] = "Benötigt Katzengestalt, Bärengestalt, Terrorbärengestalt, Mondkingestalt\nErhöht die Angriffskraft in Katzen-, Bären- oder Mondkingestalt um 151." }
+entries[32587] = { ["name"] = "Schildblock", ["text"] = "Sofort\nBenötigt Schild\nErhöht 5 Sek. lang die Chance zu blocken um 100%, blockt jedoch nur 1 Angriff." }
+entries[32588] = { ["name"] = "Erschütternder Schlag", ["text"] = "10 Meter Reichweite\nNächster Nahkampf\nBenötigt Nahkampfwaffe\nEin brutaler Schlag, der Waffenschaden zufügt und den Gegner 5 Sek. lang betäubt." }
+entries[32589] = { ["name"] = "Kristalle zertrümmern" }
+entries[32590] = { ["name"] = "Teufelskanone benutzen", ["text"] = "5 Meter Reichweite\nWirken in 5 sek.\nDreht die Teufelskanone und feuert auf das Konstruktionslager: Hass." }
+entries[32591] = { ["name"] = "Teufelskanone benutzen", ["text"] = "5 Meter Reichweite\nWirken in 5 sek.\nDreht die Teufelskanone und feuert auf das Konstruktionslager: Furcht." }
+entries[32592] = { ["name"] = "Massenbannung", ["text"] = "30 Meter Reichweite\nSofort\nBannt Magie in einem Radius von 15 Metern. Entfernt 1 schädlichen Zauber von jedem befreundeten Ziel und 1 nützlichen Zauber von jedem gegnerischen Ziel. Dieser Bannzauber ist mächtig genug, magische Effekte zu entfernen, die normalerweise nicht gebannt werden können." }
+entries[32595] = { ["name"] = "Machtwort: Schild", ["text"] = "110 Mana 40 Meter Reichweite\nSofort\nUmgibt einen Verbündeten mit einem Schild, der bis zu 30 Sek. lang bestehen bleibt und maximal 411 körperlichen oder magischen Schaden absorbiert. Solange der Schild hält, werden Zauber nicht durch körperliche Angriffe unterbrochen." }
+entries[32599] = { ["name"] = "Besänftigen", ["text"] = "Sofort\nReduziert Eure Bedrohung gegenüber Feinden im Umkreis von 30 Metern und macht es weniger wahrscheinlich, dass diese Euch angreifen." }
+entries[32600] = { ["name"] = "Vermeidung", ["text"] = "Sofort\nErhöht die Ausweichwertung 10 Sek. lang um 192." }
+entries[32601] = { ["name"] = "Überraschungsangriffe", ["text"] = "Euren Finishing-Moves kann nicht mehr ausgewichen werden. Der durch Eure Fähigkeiten 'Finsterer Stoß', 'Meucheln', 'Tückische Klinge', 'Blutsturz' und 'Solarplexus' verursachte Schaden wird um 10% erhöht." }
+entries[32602] = { ["name"] = "Energiestrom", ["text"] = "20 Meter Reichweite\nSofort\nVerlangsamt 10 Sek. lang die Fallgeschwindigkeit." }
+entries[32603] = { ["name"] = "Energiestrom", ["text"] = "Sofort\nVerlangsamt bis Abbruch lang die Fallgeschwindigkeit." }
+entries[32604] = { ["name"] = "Wappen des Schlächters", ["text"] = "Sofort\nErhöht die Angriffskraft 20 Sek. lang um 260." }
+entries[32605] = { ["name"] = "Kräutersammeln" }
+entries[32606] = { ["name"] = "Bergbau", ["text"] = "5 Meter Reichweite\nWirken in 1.6 sek.\nTools: Spitzhacke" }
+entries[32607] = { ["name"] = "Zauberschmuckstück", ["text"] = "Sofort\nErhöht die Zaubermacht 20 Sek. lang um 187." }
+entries[32609] = { ["name"] = "Allianzflagge" }
+entries[32610] = { ["name"] = "Hordenflagge" }
+entries[32612] = { ["name"] = "Unsichtbarkeit", ["text"] = "Sofort\nLässt den Zaubernden im Verlauf von 3 Sek. bis zur Unsichtbarkeit verblassen und verringert mit jeder Sekunde die Bedrohung. Der Effekt wird abgebrochen, wenn Ihr selbst Aktionen ausführt oder Ziel solcher werdet. Hält 20 Sek. lang an." }
+entries[32614] = { ["name"] = "Arkane Explosion", ["text"] = "Sofort\nLässt eine Druckwelle aus Magie entstehen und fügt in der Nähe befindlichen Feinden Arkanschaden zu." }
+entries[32615] = { ["name"] = "Verstohlenheit", ["text"] = "Sofort\nVersetzt den Zaubernden in den Verstohlenheitsmodus. Hält an, bis die Aktion abgebrochen wird." }
+entries[32616] = { ["name"] = "Barnes' Transformation (Smoking)" }
+entries[32618] = { ["name"] = "Naturzauber", ["text"] = "Wirken in 5 sek.\nScheint Naturzauber zu wirken." }
+entries[32622] = { ["name"] = "K'ure aussaugen" }
+entries[32623] = { ["name"] = "Kraft des Unterwerfers" }
+entries[32633] = { ["name"] = "Altar läutern" }
+entries[32636] = { ["name"] = "Überrennen" }
+entries[32637] = { ["name"] = "Überrennen" }
+entries[32638] = { ["name"] = "Geist teilen" }
+entries[32639] = { ["name"] = "Geist teilen" }
+entries[32640] = { ["name"] = "Wahrsagezauber" }
+entries[32641] = { ["name"] = "Besänftigen", ["text"] = "Sofort\nReduziert Eure Bedrohung gegenüber Feinden im Umkreis von 30 Metern und macht es weniger wahrscheinlich, dass diese Euch angreifen." }
+entries[32642] = { ["name"] = "Sporenwolke", ["text"] = "Fügt einem Angreifer jedes Mal, wenn Ihr blockt, ein tödliches Gift zu." }
+entries[32643] = { ["name"] = "Sporenwolke" }
+entries[32645] = { ["name"] = "Vergiften", ["text"] = "35 Energie Nahkampfreichweite\nSofort\nBenötigt Nahkampfwaffe\nFinishing-Move, der den Effekt Eures tödlichen Gifts vom Ziel entfernt und sofort Giftschaden verursacht. Nach einem Angriff mit 'Vergiften' ist für eine Sekunde und eine weitere Sekunde pro Combopunkt Eure Chance, das Ziel mit tödlichem Gift zu vergiften, um 15 % und die Frequenz, mit der das Ziel mit sofort wirkendem Gift vergiftet werden kann, um 75 % erhöht. Dosen des tödlichen Gifts werden bis zur Höhe der verfügbaren Combopunkte aufgezehrt, um den Schaden von 'Vergiften' zu erhöhen:\n1 Punkt: [Attack power * 0.09 * ( ( 1 ) ) + ( 201 * 1)] Schaden\n2 Punkte: Bis zu [Attack power * 0.18 * ( ( 1 ) ) + ( 201 * 2)] Schaden\n3 Punkte: Bis zu [Attack power * 0.27 * ( ( 1 ) ) + ( 201 * 3)] Schaden\n4 Punkte: Bis zu [Attack power * 0.36 * ( ( 1 ) ) + ( 201 * 4)] Schaden\n5 Punkte: Bis zu [Attack power * 0.45 * ( ( 1 ) ) + ( 201 * 5)] Schaden" }
+entries[32646] = { ["name"] = "Extrakt des Jenseits", ["text"] = "Wirken in 10 sek.\nIn der Knochenwüste der Wälder von Terokkar trinken." }
+entries[32647] = { ["name"] = "Gargoylestoß", ["text"] = "60 Meter Reichweite\nWirken in 1.5 sek.\nVerursacht bei einem Feind Naturschaden." }
+entries[32648] = { ["name"] = "Unsichtbarkeit der Ahnen" }
+entries[32649] = { ["name"] = "Mit den Ahnen kommunizieren" }
+entries[32651] = { ["name"] = "Heulendes Kreischen", ["text"] = "Sofort\nDas Bewegungstempo naher Feinde wird 6 Sek. lang um 50% verringert.\nVerringert die Angriffskraft naher Feinde um 25%." }
+entries[32652] = { ["name"] = "Zersprungenes Gefäß" }
+entries[32654] = { ["name"] = "Kralle der Gerechtigkeit", ["text"] = "50 Mana 10 Meter Reichweite\nSofort\nBetäubt einen Feind, sodass er sich 5 Sek. lang weder bewegen noch angreifen kann." }
+entries[32655] = { ["name"] = "Teufelseisenrute", ["text"] = "Wirken in 25 sek.\nTools: Schmiedehammer\nReagenzien:\nTeufelseisenbarren (6)\n\"Wird von Verzauberern verwendet.\"" }
+entries[32656] = { ["name"] = "Adamantitrute", ["text"] = "Wirken in 25 sek.\nTools: Schmiedehammer\nReagenzien:\nAdamantitbarren (10)\n\"Wird von Verzauberern verwendet.\"" }
+entries[32657] = { ["name"] = "Eterniumrute", ["text"] = "Wirken in 25 sek.\nTools: Schmiedehammer\nReagenzien:\nEterniumbarren (4)\n\"Wird von Verzauberern verwendet.\"" }
+entries[32659] = { ["name"] = "Schattentotem", ["text"] = "35 Mana\nWirken in 0.5 sek.\nBeschwört ein Schattentotem, das 1 Min. lang anhält und Schattenschaden erhöht." }
+entries[32662] = { ["name"] = "Schattentotem" }
+entries[32663] = { ["name"] = "Dunklen Vortex beschwören", ["text"] = "80 Mana 30 Meter Reichweite\nSofort\nBeschwört in der Nähe des Zaubernden einen Dunklen Vortex." }
+entries[32664] = { ["name"] = "Runenverzierte Teufelseisenrute", ["text"] = "Wirken in 30 sek.\nReagenzien:\nTeufelseisenrute , Große ewige Essenz (4), Großer glänzender Splitter (6), Runenverzierte Arkanitrute\nRunenverzierte Teufelseisenrute\nWird beim Aufheben gebunden\n\"Kann auch wie jede geringere runenverzierte Rute verwendet werden.\"" }
+entries[32665] = { ["name"] = "Runenverzierte Adamantitrute", ["text"] = "Wirken in 30 sek.\nReagenzien:\nAdamantitrute , Große Planaressenz (8), Großer Prismasplitter (8), Urmacht , Runenverzierte Teufelseisenrute\nRunenverzierte Adamantitrute\nWird beim Aufheben gebunden\nBenötigt Verzauberkunst\n(350)\n\"Kann auch wie jede geringere runenverzierte Rute verwendet werden.\"" }
+entries[32666] = { ["name"] = "Schattenblitz", ["text"] = "90 Mana 40 Meter Reichweite\nSofort\nSchleudert einen Blitz aus dunkler Magie auf einen Feind und verursacht Schattenschaden." }
+entries[32667] = { ["name"] = "Runenverzierte Eterniumrute", ["text"] = "Wirken in 30 sek.\nReagenzien:\nEterniumrute , Große Planaressenz (6), Arkaner Staub (6), Runenverzierte Adamantitrute\nRunenverzierte Eterniumrute\nWird beim Aufheben gebunden\nBenötigt Verzauberkunst\n(375)\n\"Kann auch wie jede geringere runenverzierte Rute verwendet werden.\"" }
+entries[32668] = { ["name"] = "Zersprungenes Gefäß" }
+entries[32674] = { ["name"] = "Schild des Rächers", ["text"] = "45 Mana 30 Meter Reichweite\nWirken in 1 sek.\nSchleudert einen heiligen Schild auf den Gegner, der 270 to 330 Heiligschaden zufügt, ihn benommen macht, und dann auf weitere nahe Gegner überspringt. Wirkt auf insgesamt 2 Ziele." }
+entries[32675] = { ["name"] = "Schattengeschosse", ["text"] = "50 Mana 100 Meter Reichweite\nKanalisiert (Wirken in 5 sek.)\nSchleudert Schattengeschosse auf einen Feind und verursacht 5 Sek. lang pro Sekunde Schattenschaden." }
+entries[32677] = { ["name"] = "Schattengeschosse", ["text"] = "30 Meter Reichweite\nSofort\nSchleudert Schattenblitze auf einen Gegner und fügt Schattenschaden zu." }
+entries[32678] = { ["name"] = "Kürschnerei", ["text"] = "5 Meter Reichweite\nWirken in 1.5 sek.\nTools: Kürschnermesser\nMeisterliche Fertigkeiten der Kürschnerei, der Vorbereitung von Häuten von Wildtieren für die Lederverarbeitung. Verleiht eine potenzielle Kürschnerfertigkeit von 375. Es wird ein Kürschnermesser benötigt." }
+entries[32679] = { ["name"] = "Kürschnermeister" }
+entries[32682] = { ["name"] = "Fluch der dunklen Kralle", ["text"] = "Nahkampfreichweite\nWirken in 2 sek.\nVerflucht einen Gegner 30 Sek. lang, erhöht erlittenen körperlichen Schaden um 50 und verringert die Ausdauer um 50. Das verfluchte Ziel hat eine Chance von 10%, dessen aktuellem Ziel Blutungsschaden zuzufügen.\n(Procchance: 10%)" }
+entries[32683] = { ["name"] = "Fluch der dunklen Kralle" }
+entries[32686] = { ["name"] = "Erdbeben" }
+entries[32689] = { ["name"] = "Arkane Zerstörung", ["text"] = "90 Mana 30 Meter Reichweite\nSofort\nErhöht die Zaubermacht eines Verbündeten 30 Min. lang um 150." }
+entries[32690] = { ["name"] = "Arkaner Blitzschlag", ["text"] = "150 Mana 30 Meter Reichweite\nWirken in 1.5 sek. 6 sek. Abklingzeit\nTrifft einen Feind mit einem Blitzschlag, der auf einen in der Nähe befindlichen Feind überspringt. Der Zauber wirkt sich auf bis zu 5 Ziele aus und verursacht bei jedem folgenden Ziel immer größeren Arkanschaden. Bringt einen Gegner zum Schweigen und hindert ihn 4 Sek. lang am Zauberwirken." }
+entries[32691] = { ["name"] = "Zauberschock", ["text"] = "100 Mana 30 Meter Reichweite\nSofort\nKontert den Zauber eines Feindes und verhindert 6 Sek. lang, dass der Feind den gleichen Zauber noch einmal wirkt. Führt zu einem hohen Maß an Bedrohung." }
+entries[32692] = { ["name"] = "Arakkoageist beschwören" }
+entries[32693] = { ["name"] = "Arkane Hast", ["text"] = "35 Meter Reichweite\nSofort\nErhöht das Zaubertempo des Zaubernden um 50%." }
+entries[32694] = { ["name"] = "Arkanschaden erhöhen", ["text"] = "Erhöht die Arkanzaubermacht um 0." }
+entries[32695] = { ["name"] = "Feuerschaden erhöhen", ["text"] = "Erhöht die Feuerzaubermacht um 0." }
+entries[32696] = { ["name"] = "Naturschaden erhöhen", ["text"] = "Erhöht die Naturzaubermacht um 0." }
+entries[32697] = { ["name"] = "Schattenschaden erhöhen", ["text"] = "Erhöht die Schattenzaubermacht um 0." }
+entries[32698] = { ["name"] = "Frostschaden erhöhen", ["text"] = "Erhöht die Frostzaubermacht um 0." }
+entries[32701] = { ["name"] = "Heilung erhöhen", ["text"] = "Erhöht durch Zauber und Effekte verursachte Heilung um bis zu 0." }
+entries[32703] = { ["name"] = "Gesundheitsregeneration", ["text"] = "Stellt alle 5 Sek. 1 Gesundheit wieder her." }
+entries[32705] = { ["name"] = "Manaregeneration erhöht", ["text"] = "Stellt alle 5 Sek. 0 Mana wieder her." }
+entries[32706] = { ["name"] = "Zauberschaden erhöhen", ["text"] = "Erhöht die Zaubermacht um 0." }
+entries[32707] = { ["name"] = "Verbrennen", ["text"] = "90 Mana 30 Meter Reichweite\nWirken in 2.5 sek.\nFügt Eurem Ziel Feuerschaden zu." }
+entries[32708] = { ["name"] = "Spieler überprüfen" }
+entries[32709] = { ["name"] = "Todesmantel", ["text"] = "200 Mana 30 Meter Reichweite\nSofort\nVerursacht Schattenschaden und das betroffene Ziel läuft 3 Sek. lang voller Entsetzen davon. Der Zaubernde gewinnt Gesundheit in Höhe von 100% des verursachten Schadens." }
+entries[32710] = { ["name"] = "Angriffskraft", ["text"] = "Erhöht die Angriffskraft um 0." }
+entries[32711] = { ["name"] = "Schattennova", ["text"] = "95 Mana\nSofort\nFügt nahen Gegnern Schattenschaden zu." }
+entries[32712] = { ["name"] = "Schattennova", ["text"] = "95 Mana\nSofort\nFügt nahen Gegnern Schattenschaden zu." }
+entries[32714] = { ["name"] = "Wutanfall", ["text"] = "Sofort\nNahkampfangriffstempo um 50% erhöht." }
+entries[32716] = { ["name"] = "Durchbohren", ["text"] = "5 - 30 Meter Reichweite\nSofort\nFügt einem Feind 9 Sek. lang alle 3 Sek. körperlichen Schaden zu." }
+entries[32717] = { ["name"] = "Hurrikan", ["text"] = "100 Mana 30 Meter Reichweite\nKanalisiert (Wirken in 10 sek.)\nErzeugt einen wütenden Sturm im Zielgebiet, der allen in der Nähe befindlichen Feinden alle 1 Sek. Naturschaden zufügt und die Zeit zwischen Angriffen betroffener Feinde erhöht. Hält 10 Sek. lang an." }
+entries[32720] = { ["name"] = "Sprinten", ["text"] = "Sofort\nBewegungstempo 10 Sek. lang um 120% erhöht." }
+entries[32721] = { ["name"] = "Mal des Teufelsbluts" }
+entries[32722] = { ["name"] = "Eitrige Fäulnis", ["text"] = "Wirken in 3 sek.\nFügt Eurem Ziel alle 2 Sek. Naturschaden zu." }
+entries[32723] = { ["name"] = "Reitwolf der Knochenmalmer beschwören", ["text"] = "10 Meter Reichweite\nSofort\nBeschwört 1 Reitwolf der Knochenmalmer, der den Zaubernden bis zur Freigabe begleitet." }
+entries[32724] = { ["name"] = "Goldenes Team" }
+entries[32725] = { ["name"] = "Violettes Team" }
+entries[32727] = { ["name"] = "Arenavorbereitung", ["text"] = "Sofort\nVerringert die Kosten von Zaubern und Fähigkeiten um 100%." }
+entries[32728] = { ["name"] = "Arenavorbereitung" }
+entries[32729] = { ["name"] = "Stärke der Mag'halar" }
+entries[32730] = { ["name"] = "Gezähmten Felshetzer beschwören", ["text"] = "Sofort\nRuft einen gezähmten Hetzer herbei, der den Zaubernden bis zur Freigabe begleitet." }
+entries[32731] = { ["name"] = "Schinden", ["text"] = "Sofort\nGewährt dem Zaubernden 1 zusätzliche Angriffe." }
+entries[32732] = { ["name"] = "Schinden", ["text"] = "Fügt eine Chance hinzu, zwei zusätzliche Angriffe zu führen.\n(Procchance: 10%, 4s Abklingzeit)" }
+entries[32734] = { ["name"] = "Erdschild", ["text"] = "600 Mana 40 Meter Reichweite\nSofort\nSchützt das Ziel mit einem Erdschild. Nahkampfangriffe heilen das geschützte Ziel, dieser Effekt tritt aber nur einmal alle paar Sekunden auf. 10 Aufladungen. Hält 2 Min. lang an.\n(3.5s Abklingzeit)" }
+entries[32735] = { ["name"] = "Sägeblatt", ["text"] = "10 - 40 Meter Reichweite\nWirken in 0.5 sek.\nEine zischende Klinge fügt dem Ziel Schaden zu." }
+entries[32736] = { ["name"] = "Tödlicher Stoß", ["text"] = "Nahkampfreichweite\nSofort\nBenötigt Nahkampfwaffe\nVerursacht 100% Waffenschaden und verwundet das Ziel, verringert außerdem die Wirksamkeit jeglicher Heilung 5 Sek. lang um 25%." }
+entries[32737] = { ["name"] = "Waffenkette", ["text"] = "Sofort\nImmun gegen Entwaffnen." }
+entries[32738] = { ["name"] = "Bohren", ["text"] = "Nahkampfreichweite\nNächster Nahkampf 45 sek. Abklingzeit\nVerringert die Rüstung eines Feindes 20 Sek. lang um 50%." }
+entries[32739] = { ["name"] = "Giftiger Biss", ["text"] = "5 Meter Reichweite\nSofort\nSpuckt Gift auf den Feind, fügt ihm Naturschaden und dann 10 Sek. lang alle 2 Sek. zusätzlichen Schaden zu." }
+entries[32740] = { ["name"] = "Stacheln", ["text"] = "105 Mana 30 Meter Reichweite\nSofort\nStacheln des befreundeten Ziels fügen einem Angreifer beim Treffer 5 Naturschaden zu. Hält 10 Min. lang an." }
+entries[32741] = { ["name"] = "Welle des Schmerzes", ["text"] = "200 Mana 30 Meter Reichweite\nSofort 15 sek. Abklingzeit\nVerursacht sofort 49 to 58 Schattenschaden, aber nach 5 Sek. beginnt der verursachte Schaden zu heilen." }
+entries[32742] = { ["name"] = "Welle des Schmerzes", ["text"] = "200 Mana 30 Meter Reichweite\nSofort 15 sek. Abklingzeit\nVerursacht sofort 62 to 72 Schattenschaden, aber nach 5 Sek. beginnt der verursachte Schaden zu heilen." }
+entries[32743] = { ["name"] = "Verringerte Abklingzeit für 'Verschwinden'", ["text"] = "Verringert die Abklingzeit von 'Verschwinden' um 1 Min." }
+entries[32744] = { ["name"] = "Brandbombe platzieren", ["text"] = "5 Meter Reichweite\nWirken in 5 sek.\nPlatziert eine Brandbombe." }
+entries[32745] = { ["name"] = "Schach: Transformation deaktiviertes Feld" }
+entries[32746] = { ["name"] = "Abrechnung", ["text"] = "Sofort\nNach dem Blocken eines Angriffs wird Euch eine Chance gewährt, dass innerhalb der nächsten 8 Sek. 4 Eurer Waffenschwünge einen zusätzlichen Angriff hervorrufen." }
+entries[32747] = { ["name"] = "Unterbrechen" }
+entries[32748] = { ["name"] = "Unterbrechung bei 'Tödlicher Wurf'", ["text"] = "Lässt Eure Fähigkeit 'Tödlicher Wurf' das Wirken eines Zaubers unterbrechen und verhindert 3 Sek. lang, dass ein Zauber dieser Magieart gewirkt wird." }
+entries[32749] = { ["name"] = "Feuerschild", ["text"] = "30 Meter Reichweite\nWirken in 1 sek.\nUmgibt einen Verbündeten mit einem Flammenschild, der allen nahen Feinden alle 3 Sek. Feuerschaden zufügt. Hält 15 Sek. lang an." }
+entries[32750] = { ["name"] = "Feuerschild", ["text"] = "Sofort\nUmgibt einen Verbündeten mit einem Flammenschild, der allen nahen Feinden Feuerschaden zufügt." }
+entries[32751] = { ["name"] = "Feuerschild", ["text"] = "30 Meter Reichweite\nSofort 15 sek. Abklingzeit\nUmgibt einen Verbündeten mit einem Flammenschild, der allen nahen Feinden alle 3 Sek. 57 Feuerschaden zufügt. Hält 15 Sek. lang an." }
+entries[32752] = { ["name"] = "Beschwörungsdesorientierung", ["text"] = "Unbegrenzte Reichweite\nSofort\nDie Mächte des Nether binden das Ziel, betäuben es 5 Sek. lang." }
+entries[32754] = { ["name"] = "Unsichtbarkeit" }
+entries[32756] = { ["name"] = "Schattenhafte Verkleidung" }
+entries[32759] = { ["name"] = "Videounsichtbarkeit", ["text"] = "Unbegrenzte Reichweite\nSofort\nVerwandelt Euer Ziel in den unsichtbaren Mann." }
+entries[32760] = { ["name"] = "Justins Schockkanal 02" }
+entries[32764] = { ["name"] = "Totem der Bezauberung beschwören", ["text"] = "30 Meter Reichweite\nSofort\nBeschwört ein Totem, das einen Gegner 30 Sek. lang bezaubert." }
+entries[32765] = { ["name"] = "Transmutieren: Erdsturmdiamant", ["text"] = "Wirken in 25 sek.\nTools: Stein der Weisen\nReagenzien:\nTiefenperidot (3), Schattendraenit (3), Golddraenit (3), Urerde (2), Urwasser (2)\nTransmutiert Edelsteine und Elementarkräfte in einen Erdsturmdiamanten.\nErdsturmdiamant" }
+entries[32766] = { ["name"] = "Transmutieren: Himmelsfeuerdiamant", ["text"] = "Wirken in 25 sek.\nTools: Stein der Weisen\nReagenzien:\nBlutgranat (3), Flammenspessarit (3), Azurmondstein (3), Urfeuer (2), Urluft (2)\nTransmutiert Edelsteine und Elementarkräfte in einen Himmelsfeuerdiamanten.\nHimmelsfeuerdiamant" }
+entries[32769] = { ["name"] = "Heiliges Licht", ["text"] = "150 Mana 40 Meter Reichweite\nWirken in 2.5 sek.\nRuft heilige Magie herbei, um einen Verbündeten zu heilen." }
+entries[32770] = { ["name"] = "Segen des Lichts", ["text"] = "180 Mana 30 Meter Reichweite\nSofort\nBelegt ein befreundetes Ziel mit einem Segen und verstärkt die Effekte von Heilzaubern, die auf dieses Ziel angewandt werden, um bis zu 100%. Hält 5 Min. lang an. Spieler können pro Paladin immer nur mit einem einzigen Segen belegt sein." }
+entries[32771] = { ["name"] = "Heiliger Schock", ["text"] = "300 Mana 20 Meter Reichweite\nSofort\nVerursacht 509 to 591 Heiligschaden." }
+entries[32772] = { ["name"] = "Hammer des Zorns", ["text"] = "300 Mana 30 Meter Reichweite\nWirken in 1 sek.\nSchleudert einen Hammer, der einem Feind 1313 to 1687 Heiligschaden zufügt. Nur auf Ziele anwendbar, die über 20% Gesundheit oder weniger verfügen." }
+entries[32773] = { ["name"] = "Weihe", ["text"] = "300 Mana\nSofort\nWeiht das Land unter dem Paladin, fügt 8 Sek. lang Feinden, die das Gebiet betreten, 800 Heiligschaden zu." }
+entries[32774] = { ["name"] = "Schild des Rächers", ["text"] = "300 Mana 30 Meter Reichweite\nSofort\nSchleudert einen heiligen Schild auf den Gegner, der 765 to 935 Heiligschaden zufügt, ihn benommen macht, und dann auf weitere nahe Gegner überspringt. Wirkt auf insgesamt 3 Ziele." }
+entries[32776] = { ["name"] = "Verschanzen" }
+entries[32777] = { ["name"] = "Heiliger Schild", ["text"] = "250 Mana\nSofort\nErhöht die Blockchance 10 Sek. lang um 30% und verursacht, solang aktiv, mit jedem geblockten Angriff 350 Heiligschaden. Jedes Blocken verbraucht eine der 4 Aufladungen." }
+entries[32778] = { ["name"] = "Richturteil des Befehls" }
+entries[32779] = { ["name"] = "Buße", ["text"] = "60 Mana 30 Meter Reichweite\nSofort\nVersetzt das feindliche Ziel bis zu 8 Sek. lang in einen meditativen Zustand und macht es handlungsunfähig. Wird von Schaden unterbrochen." }
+entries[32783] = { ["name"] = "Arkane Kanalisierung" }
+entries[32784] = { ["name"] = "Näherungsbombe werfen", ["text"] = "30 Meter Reichweite\nSofort 7 sek. Abklingzeit\nWirft eine Näherungsbombe." }
+entries[32785] = { ["name"] = "Höllischer Regen" }
+entries[32786] = { ["name"] = "Näherungsbombenexplosion" }
+entries[32787] = { ["name"] = "Steinheilung", ["text"] = "20 Meter Reichweite\nKanalisiert (Wirken in 0 sek.)\nGewährt dem Meister 15 Gesundheit pro Sekunde." }
+entries[32788] = { ["name"] = "Steinheilung", ["text"] = "20 Meter Reichweite\nKanalisiert (Wirken in 0 sek.)\nGewährt dem Meister 25 Gesundheit pro Sekunde." }
+entries[32789] = { ["name"] = "Kritischer Bonus des Zaubersteins", ["text"] = "Erhöht Eure kritische Zaubertrefferwertung um 20." }
+entries[32790] = { ["name"] = "Steinheilung", ["text"] = "20 Meter Reichweite\nKanalisiert (Wirken in 0 sek.)\nGewährt dem Meister 40 Gesundheit pro Sekunde." }
+entries[32791] = { ["name"] = "Steinheilung", ["text"] = "20 Meter Reichweite\nKanalisiert (Wirken in 0 sek.)\nGewährt dem Meister 50 Gesundheit pro Sekunde." }
+entries[32792] = { ["name"] = "Steinheilung", ["text"] = "20 Meter Reichweite\nKanalisiert (Wirken in 0 sek.)\nGewährt dem Meister 70 Gesundheit pro Sekunde." }
+entries[32793] = { ["name"] = "Kritischer Bonus des Zaubersteins", ["text"] = "Erhöht Eure kritische Zaubertrefferwertung um 8." }
+entries[32794] = { ["name"] = "Kritischer Bonus des Zaubersteins", ["text"] = "Erhöht Eure kritische Zaubertrefferwertung um 11." }
+entries[32795] = { ["name"] = "Kritischer Bonus des Zaubersteins", ["text"] = "Erhöht Eure kritische Zaubertrefferwertung um 14." }
+entries[32797] = { ["name"] = "Frostzauberschutz" }
+entries[32801] = { ["name"] = "Grobe Steinstatue", ["text"] = "Wirken in 3 sek.\nReagenzien:\nGrober Stein (8)\nWird beim Aufheben gebunden\nBenutzen: Stellt eine grobe Steinstatue auf den Boden, die Euch eine kurze Zeit lang heilen wird, bevor ihre Kräfte schwinden. (2 Min Abklingzeit)" }
+entries[32802] = { ["name"] = "Grobe Steinstatue", ["text"] = "Sofort 1 min Abklingzeit\nStellt eine grobe Steinstatue auf den Boden, die Euch eine kurze Zeit lang heilen wird, bevor ihre Kräfte schwinden." }
+entries[32803] = { ["name"] = "Schwere Steinstatue", ["text"] = "Sofort 1 min Abklingzeit\nStellt eine schwere Steinstatue auf den Boden, die Euch eine kurze Zeit lang heilen wird, bevor ihre Kräfte schwinden." }
+entries[32804] = { ["name"] = "Robuste Steinstatue", ["text"] = "Sofort 1 min Abklingzeit\nStellt eine robuste Steinstatue auf den Boden, die Euch eine kurze Zeit lang heilen wird, bevor ihre Kräfte schwinden." }
+entries[32805] = { ["name"] = "Verdichtete Steinstatue", ["text"] = "Sofort 1 min Abklingzeit\nStellt eine verdichtete Steinstatue auf den Boden, die Euch eine kurze Zeit lang heilen wird, bevor ihre Kräfte schwinden." }
+entries[32806] = { ["name"] = "Urzeitliche Steinstatue", ["text"] = "Sofort 1 min Abklingzeit\nStellt eine urzeitliche Steinstatue auf den Boden, die Euch eine kurze Zeit lang heilen wird, bevor ihre Kräfte schwinden." }
+entries[32807] = { ["name"] = "Schwere Steinstatue", ["text"] = "Wirken in 3 sek.\nReagenzien:\nSchwerer Stein (8)\nWird beim Aufheben gebunden\nBenutzen: Stellt eine schwere Steinstatue auf den Boden, die Euch eine kurze Zeit lang heilen wird, bevor ihre Kräfte schwinden. (2 Min Abklingzeit)" }
+entries[32808] = { ["name"] = "Robuste Steinstatue", ["text"] = "Wirken in 3 sek.\nReagenzien:\nRobuster Stein (10)\nWird beim Aufheben gebunden\nBenutzen: Stellt eine robuste Steinstatue auf den Boden, die Euch eine kurze Zeit lang heilen wird, bevor ihre Kräfte schwinden. (2 Min Abklingzeit)" }
+entries[32809] = { ["name"] = "Verdichtete Steinstatue", ["text"] = "Wirken in 3 sek.\nReagenzien:\nVerdichteter Stein (10)\nWird beim Aufheben gebunden\nBenutzen: Stellt eine verdichtete Steinstatue auf den Boden, die Euch eine kurze Zeit lang heilen wird, bevor ihre Kräfte schwinden. (2 Min Abklingzeit)" }
+entries[32810] = { ["name"] = "Urzeitliche Steinstatue", ["text"] = "Wirken in 3 sek.\nReagenzien:\nUrerde" }
+entries[32811] = { ["name"] = "Große Unsichtbarkeit", ["text"] = "Sofort\nMacht den Zaubernden unsichtbar, bis der Effekt abgebrochen wird." }
+entries[32812] = { ["name"] = "Violettes Rauchsignal", ["text"] = "50 Meter Reichweite\nSofort\nWirft ein violettes Rauchsignal auf eine bestimmte Stelle, das 5 Min. lang anhält." }
+entries[32813] = { ["name"] = "Eichhörnchenform" }
+entries[32814] = { ["name"] = "Violettes Rauchsignal", ["text"] = "Wirken in 2 sek.\nReagenzien:\nElementarsprengpulver , Netherstoff , Lila Farbstoff\n(3)\nBenutzen: Wirft ein violettes Rauchsignal auf eine bestimmte Stelle, das 5 Min. lang anhält. (5 Sek. Abklingzeit)" }
+entries[32816] = { ["name"] = "Giraffenform" }
+entries[32817] = { ["name"] = "Schlangengestalt" }
+entries[32818] = { ["name"] = "Drachenfalkenform" }
+entries[32819] = { ["name"] = "Worgenform" }
+entries[32820] = { ["name"] = "Schafsform" }
+entries[32826] = { ["name"] = "Verwandlungszauberwirken" }
+entries[32828] = { ["name"] = "Aura des Schutzes", ["text"] = "Sofort\nGewährt befreundeten Kreaturen im Umkreis von 20 Metern 2000 zusätzliche Rüstung und 75 zusätzlichen Magiewiderstand." }
+entries[32829] = { ["name"] = "Geistesvergeltung", ["text"] = "30 Meter Reichweite\nWirken in 0.5 sek.\nErhöht das Angriffstempo des Ziels um 50% und sein Bewegungstempo um 40%." }
+entries[32830] = { ["name"] = "Besitz ergreifen", ["text"] = "80 Meter Reichweite\nSofort" }
+entries[32831] = { ["name"] = "Besessen" }
+entries[32832] = { ["name"] = "Besitz ergreifen" }
+entries[32834] = { ["name"] = "Draeneiüberreste erlösen", ["text"] = "10 Meter Reichweite\nWirken in 3 sek.\nUm ein zertrampeltes Skelett auf dem Pfad des Ruhms verschütten." }
+entries[32835] = { ["name"] = "Seele brechen" }
+entries[32837] = { ["name"] = "Zauberfokus", ["text"] = "Chance bei erfolgreichem Zauberwirken, dass innerhalb der nächsten 6 Sekunden 320 Zaubertempowertung gewährt wird.\n(Procchance: 15%, 35s Abklingzeit)" }
+entries[32838] = { ["name"] = "Bogenschuss", ["text"] = "60 Meter Reichweite\nSofort\nFeuert mit einer Distanzwaffe auf das Ziel." }
+entries[32839] = { ["name"] = "Strahl (Rot)" }
+entries[32840] = { ["name"] = "Strahl (Blau)" }
+entries[32842] = { ["name"] = "Bedrohung verringern" }
+entries[32844] = { ["name"] = "Geringes Heldentum", ["text"] = "Es besteht eine Chance, dass der Träger um 120 to 180 Schaden geheilt wird, wenn er bei einem Feind Nahkampfschaden verursacht." }
+entries[32845] = { ["name"] = "Geringes Heldentum", ["text"] = "Sofort\nEs besteht eine Chance, dass der Träger im Kampf um 40 to 60 Schaden geheilt wird." }
+entries[32846] = { ["name"] = "Gegentritt", ["text"] = "Nahkampfreichweite\nSofort\nEin schneller Tritt, der einem einzelnen Gegner 275 Schaden zufügt. Er unterbricht außerdem das Wirken von Zaubern und verhindert 4 Sek. lang, dass weitere Zauber dieser Art gewirkt werden." }
+entries[32848] = { ["name"] = "Mana wiederherstellen", ["text"] = "Sofort\nStellt 300 Mana wieder her." }
+entries[32849] = { ["name"] = "Wirbelschlag", ["text"] = "Sofort\nBenötigt Nahkampfwaffe\nFührt einen wirbelnden Angriff durch, der allen in der Nähe befindlichen Gegnern Waffenschaden plus 150 zufügt und sie zurückstößt." }
+entries[32853] = { ["name"] = "Untoten Soldaten beschwören", ["text"] = "Sofort\nBeschwört einen Geist, der den Zaubernden 5 Min. lang im Kampf unterstützt. Geister verblassen, wenn sie sich nicht im Kampf befinden." }
+entries[32854] = { ["name"] = "Untoten Zauberer beschwören", ["text"] = "Sofort\nBeschwört einen Geist, der den Zaubernden 5 Min. lang im Kampf unterstützt. Geister verblassen, wenn sie sich nicht im Kampf befinden." }
+entries[32855] = { ["name"] = "Untoten Kleriker beschwören", ["text"] = "Sofort\nBeschwört einen Geist, der den Zaubernden 5 Min. lang im Kampf unterstützt. Geister verblassen, wenn sie sich nicht im Kampf befinden." }
+entries[32856] = { ["name"] = "Untoten Pirscher beschwören", ["text"] = "Sofort\nBeschwört einen Geist, der den Zaubernden 5 Min. lang im Kampf unterstützt. Geister verblassen, wenn sie sich nicht im Kampf befinden." }
+entries[32857] = { ["name"] = "Geisterhaften Besitzer beschwören", ["text"] = "Sofort\nBeschwört einen Geist, der den Zaubernden 5 Min. lang im Kampf unterstützt. Geister verblassen, wenn sie sich nicht im Kampf befinden." }
+entries[32858] = { ["name"] = "Berührung der Vergessenen", ["text"] = "30 Meter Reichweite\nWirken in 1 sek.\nVerflucht einen Gegner, reduziert auf ihn gewirkte Heileffekte 3 Min. lang um 345." }
+entries[32859] = { ["name"] = "Zögern", ["text"] = "75 Mana\nSofort\nMacht nahe Gegner 5 Sek. lang unbeweglich." }
+entries[32860] = { ["name"] = "Schattenblitz", ["text"] = "90 Mana 40 Meter Reichweite\nWirken in 2.5 sek.\nSchleudert einen Blitz aus dunkler Magie auf einen Gegner, verursacht Schattenschaden und erhöht 10 Sek. lang erlittenen Schattenschaden um 10%." }
+entries[32861] = { ["name"] = "Schattenschild", ["text"] = "5 Mana 30 Meter Reichweite\nSofort 10 sek. Abklingzeit\nUmgibt den Zaubernden mit 3 Schatten, die eine Chance von 50% haben, Nahkampf- oder Distanzangreifer für 8 Schaden zu treffen. Bei jedem dieser Treffer löst sich ein Schatten auf. Der Effekt hält 10 Min. lang an, oder bis er 3-mal aktiviert wurde.\n(Procchance: 50%)" }
+entries[32862] = { ["name"] = "Seelendieb", ["text"] = "60 Mana 20 Meter Reichweite\nKanalisiert (Wirken in 5 sek.)\nEntzieht dem Ziel die Seele und verursacht so 5 Sek. lang alle 1 Sek. Schattenschaden." }
+entries[32863] = { ["name"] = "Saat der Verderbnis", ["text"] = "550 Mana 30 Meter Reichweite\nWirken in 2 sek.\nPflanzt dem feindlichen Ziel eine Saat der Verderbnis ein, die im Verlauf von 18 Sek. 1500 Schattenschaden verursacht. Wenn das Ziel insgesamt 2500 Schaden erleidet, detoniert die Saat und fügt allen Feinden im Umkreis von 10 Metern um das Ziel Schattenschaden zu." }
+entries[32864] = { ["name"] = "Nierenhieb", ["text"] = "Nahkampfreichweite\nSofort\nBenötigt Nahkampfwaffe\nBenötigt Verstohlenheit\nBetäubt einen Feind 4 Sek. lang." }
+entries[32865] = { ["name"] = "Saat der Verderbnis", ["text"] = "Unbegrenzte Reichweite\nSofort\nFügt allen Gegnern im Umkreis von 10 Metern um das verderbte Ziel Schattenschaden zu." }
+entries[32866] = { ["name"] = "Mächtiger Erdsturmdiamant", ["text"] = "Wirken in 12.5 sek.\nTools: Einfacher Schleifer\nReagenzien:\nErdsturmdiamant\nMächtiger Erdsturmdiamant\n+18 Ausdauer und Betäubungsdauer um 10% verringert\nBenötigt mindestens 3 Edelsteine der Farbe Blau\n\"Passt nur in einen Sockel der Kategorie Meta.\"" }
+entries[32867] = { ["name"] = "Stärkender Erdsturmdiamant", ["text"] = "Wirken in 12.5 sek.\nTools: Einfacher Schleifer\nReagenzien:\nErdsturmdiamant\nStärkender Erdsturmdiamant\n+12 Intelligenz und um 2% verringerte Bedrohung\nBenötigt mehr Rot Edelsteine als Blau Edelsteine\n\"Passt nur in einen Sockel der Kategorie Meta.\"" }
+entries[32868] = { ["name"] = "Harter Erdsturmdiamant", ["text"] = "Wirken in 12.5 sek.\nTools: Einfacher Schleifer\nReagenzien:\nErdsturmdiamant\nHarter Erdsturmdiamant\n+12 Ausweichwertung und Chance, bei Treffer Gesundheit wiederherzustellen\nBenötigt mindestens 5 Edelsteine der Farbe Blau\n\"Passt nur in einen Sockel der Kategorie Meta.\"" }
+entries[32869] = { ["name"] = "Grober Erdsturmdiamant", ["text"] = "Wirken in 12.5 sek.\nTools: Einfacher Schleifer\nReagenzien:\nErdsturmdiamant\nGrober Erdsturmdiamant\n+3 Nahkampfschaden und Chance, Ziel zu betäuben\nBenötigt mindestens 2 Edelsteine der Farbe Rot\nBenötigt mindestens 2 Edelsteine der Farbe Gelb\nBenötigt mindestens 2 Edelsteine der Farbe Blau\n\"Passt nur in einen Sockel der Kategorie Meta.\"" }
+entries[32870] = { ["name"] = "Bemerkenswerter Erdsturmdiamant", ["text"] = "Wirken in 12.5 sek.\nTools: Einfacher Schleifer\nReagenzien:\nErdsturmdiamant\nBemerkenswerter Erdsturmdiamant\n+12 Intelligenz und Chance, beim Zauberwirken Mana wiederherzustellen\nBenötigt mindestens 2 Edelsteine der Farbe Rot\nBenötigt mindestens 2 Edelsteine der Farbe Gelb\nBenötigt mindestens 2 Edelsteine der Farbe Blau\n\"Passt nur in einen Sockel der Kategorie Meta.\"" }
+entries[32871] = { ["name"] = "Zerstörerischer Himmelsfeuerdiamant", ["text"] = "Wirken in 12.5 sek.\nTools: Einfacher Schleifer\nReagenzien:\nHimmelsfeuerdiamant\nZerstörerischer Himmelsfeuerdiamant\n+14 Kritische Trefferwertung und 1% Zauberreflexion\nBenötigt mindestens 2 Edelsteine der Farbe Rot\nBenötigt mindestens 2 Edelsteine der Farbe Blau\nBenötigt mindestens 2 Edelsteine der Farbe Gelb\n\"Passt nur in einen Sockel der Kategorie Meta.\"" }
+entries[32872] = { ["name"] = "Mystischer Himmelsfeuerdiamant", ["text"] = "Wirken in 12.5 sek.\nTools: Einfacher Schleifer\nReagenzien:\nHimmelsfeuerdiamant\nMystischer Himmelsfeuerdiamant\nChance, Zaubertempo zu erhöhen\nBenötigt mehr Blau Edelsteine als Gelb Edelsteine\n\"Passt nur in einen Sockel der Kategorie Meta.\"" }
+entries[32873] = { ["name"] = "Flüchtiger Himmelsfeuerdiamant", ["text"] = "Wirken in 12.5 sek.\nTools: Einfacher Schleifer\nReagenzien:\nHimmelsfeuerdiamant\nFlüchtiger Himmelsfeuerdiamant\n+12 Kritische Trefferwertung und geringe Bewegungstempoerhöhung\nBenötigt mindestens 2 Edelsteine der Farbe Gelb\nBenötigt mindestens 1 Edelstein der Farbe Rot\n\"Passt nur in einen Sockel der Kategorie Meta.\"" }
+entries[32874] = { ["name"] = "Rätselhafter Himmelsfeuerdiamant", ["text"] = "Wirken in 12.5 sek.\nTools: Einfacher Schleifer\nReagenzien:\nHimmelsfeuerdiamant\nRätselhafter Himmelsfeuerdiamant\n+12 Kritische Trefferwertung und um 10% verringerte Dauer von Bewegungseinschränkung\nBenötigt mehr Rot Edelsteine als Gelb Edelsteine\n\"Passt nur in einen Sockel der Kategorie Meta.\"" }
+entries[32885] = { ["name"] = "Erzürnen", ["text"] = "Der Zaubernde ist erzürnt, wenn er durch eine Fähigkeit oder einen Zauber kritisch getroffen wird." }
+entries[32886] = { ["name"] = "Erzürnt", ["text"] = "Sofort\nErhöht 6 Sek. lang das Angriffstempo eines Verbündeten um 100%." }
+entries[32888] = { ["name"] = "Wut", ["text"] = "50 Meter Reichweite\nWirken in 4.5 sek. 5 sek. Abklingzeit\nEntfesselt die Wut von Äonen in einem massiven Energiestoß, der den Zaubernden zerstört und nahe Gegner zurückstößt." }
+entries[32889] = { ["name"] = "Todesgriff", ["text"] = "100 Meter Reichweite\nSofort\nTötet das Ziel sofort." }
+entries[32890] = { ["name"] = "Knockout", ["text"] = "5 Meter Reichweite\nSofort\nSchlägt Feinde K.o. und macht sie bewusstlos." }
+entries[32894] = { ["name"] = "Erhöhter Dolch", ["text"] = "Erhöht die Fertigkeitswertung für Dolche um 8." }
+entries[32895] = { ["name"] = "Niemandsland" }
+entries[32896] = { ["name"] = "Niemandsland - Zangarmarschen/Schergrat" }
+entries[32897] = { ["name"] = "Rückkopplung", ["text"] = "95 Mana 30 Meter Reichweite\nSofort\nTrifft einen Feind mit einem Antimanablitz. Für jeden vom Blitz verbrauchten Manapunkt erleidet das Ziel 1 Schaden." }
+entries[32898] = { ["name"] = "Rückkopplung", ["text"] = "Lässt die Nahkampfangriffe des Zaubernden Mana verbrennen.\n(Procchance: 15%, 3s Abklingzeit)" }
+entries[32899] = { ["name"] = "Ritual der Beschwörung", ["text"] = "30 Meter Reichweite\nWirken in 5 sek.\nReagenzien:\nSeelensplitter" }
+entries[32900] = { ["name"] = "Knochensplitter", ["text"] = "(Procchance: 5%)" }
+entries[32901] = { ["name"] = "Biss des Fleischfressers", ["text"] = "Nahkampfreichweite\nSofort\nFügt einem Feind 15 Sek. lang alle 3 Sek. körperlichen Schaden zu." }
+entries[32902] = { ["name"] = "Schreckensgift", ["text"] = "8 Meter Reichweite\nSofort 30 sek. Abklingzeit\nFügt einem Gegner 15 Sek. lang alle 5 Sek. Naturschaden zu." }
+entries[32903] = { ["name"] = "Fiebrige Krankheit", ["text"] = "8 Meter Reichweite\nWirken in 0.5 sek.\nFügt einem Feind 23 to 26 Naturschaden zu und dann 15 Sek. lang alle 3 Sek. zusätzlich 4 Schaden." }
+entries[32904] = { ["name"] = "Besänftigender Staub", ["text"] = "Nahkampfreichweite\nSofort\nBesänftigt einen Gegner, der 5 Sek. lang nicht in der Lage ist, anzugreifen." }
+entries[32905] = { ["name"] = "Starren", ["text"] = "Nahkampfreichweite\nWirken in 2 sek.\nMacht einen Gegner handlungsunfähig, der 4 Sek. lang nicht in der Lage ist, sich zu bewegen oder anzugreifen." }
+entries[32906] = { ["name"] = "Zubeißen", ["text"] = "Nahkampfreichweite\nNächster Nahkampf\nBeißt einen Gegner, fügt körperlichen Schaden zu." }
+entries[32907] = { ["name"] = "Arakkoastoß", ["text"] = "8 Meter Reichweite\nSofort\nÜberzieht einen Feind mit Arkanmagie, fügt normalen Schaden plus 10 zu und stößt den Feind zurück." }
+entries[32908] = { ["name"] = "Zurechtstutzen", ["text"] = "Nahkampfreichweite\nSofort\nBenötigt Nahkampfwaffe\nVerursacht 20% des normalen Nahkampfschadens und reduziert das Bewegungstempo des feindlichen Ziels um 30% Tempos. Hält 10 Sek. lang an." }
+entries[32909] = { ["name"] = "Krallenschlag", ["text"] = "Nahkampfreichweite\nSofort\nFügt einem Gegner Waffenschaden sowie zusätzlichen Schaden zu." }
+entries[32910] = { ["name"] = "Windzorn", ["text"] = "100 Meter Reichweite\nSofort\nErhöht 1.50 Sek. lang die Angriffskraft.\n(1s Abklingzeit)" }
+entries[32911] = { ["name"] = "Waffe des Windzorns", ["text"] = "Sofort\nDie Waffe des Schamanen mit Windmagie erfüllen. Bei jedem Treffer besteht eine Chance von 15%, dass Ihr 1 zusätzlichen Angriff mit 1 zusätzlicher Angriffskraft erhaltet. Hält 5 Sek. lang an.\n(Procchance: 20%, 3s Abklingzeit)" }
+entries[32912] = { ["name"] = "Windzorn", ["text"] = "(Procchance: 15%, 1s Abklingzeit)" }
+entries[32913] = { ["name"] = "Schillernder Staub", ["text"] = "Nahkampfreichweite\nSofort\nBesänftigt einen Gegner, der 5 Sek. lang nicht in der Lage ist, anzugreifen." }
+entries[32914] = { ["name"] = "Flügelstoß", ["text"] = "Wirken in 1 sek.\nFügt Gegnern in einem kegelförmigen Bereich vor dem Zaubernden Schaden zu und stößt sie zurück." }
+entries[32915] = { ["name"] = "Raptorstoß", ["text"] = "Nahkampfreichweite\nNächster Nahkampf\nBenötigt Nahkampfwaffe\nSchlägt einen Feind und fügt erhöhten Nahkampfschaden zu." }
+entries[32916] = { ["name"] = "Schattenspalten", ["text"] = "Nahkampfreichweite\nNächster Nahkampf\nBenötigt Nahkampfwaffe\nFügt einem Feind und seinem nächsten Verbündeten 110% Waffenschaden zu, wirkt auf bis zu 3 Ziele." }
+entries[32917] = { ["name"] = "Richturteil der Abrechnung", ["text"] = "4% von Grundmana 20 Meter Reichweite\nSofort 3 sek. Abklingzeit\nRichtet den Gegner für 428 to 472 Heiligschaden." }
+entries[32918] = { ["name"] = "Gruseliges Heulen", ["text"] = "Nahkampfreichweite\nSofort 30 sek. Abklingzeit\nVerringert 15 Sek. lang die Angriffskraft naher Gegner." }
+entries[32919] = { ["name"] = "Kläffen", ["text"] = "Nahkampfreichweite\nNächster Nahkampf\nVerursacht beim nächsten Angriff normalen Schaden plus einem Bonus." }
+entries[32920] = { ["name"] = "Raumkrümmung", ["text"] = "40 Meter Reichweite\nSofort\nTeleportiert den Zaubernden hinter das Ziel. Befreit den Zaubernden auch von jeglichen Fesseln." }
+entries[32921] = { ["name"] = "Verlangsamen", ["text"] = "140 Mana 30 Meter Reichweite\nSofort 10 sek. Abklingzeit\nErhöht die Zeit zwischen Angriffen eines Feindes um 25% und verlangsamt sein Bewegungstempo um 25%. Hält 10 Sek. lang an." }
+entries[32922] = { ["name"] = "Verlangsamen", ["text"] = "30 Meter Reichweite\nSofort 10 sek. Abklingzeit\nErhöht die Zeit zwischen Angriffen eines Feindes um 25% und verlangsamt sein Bewegungstempo um 25%. Hält 10 Sek. lang an." }
+entries[32924] = { ["name"] = "Macht der Arakkoa", ["text"] = "35 Meter Reichweite\nSofort 30 sek. Abklingzeit\nVerflucht nahe Verbündete und verringert die Kosten aller ihrer Zauber und Fähigkeiten 5 Min. lang um 5%. Diese Verringerung betrifft alle Zauber und Fähigkeiten, egal ob sie Mana, Energie oder Wut benötigen." }
+entries[32925] = { ["name"] = "Zaubermacht", ["text"] = "40 Meter Reichweite\nSofort\nErhöht die Zaubermacht 15 Sek. lang um 102." }
+entries[32926] = { ["name"] = "Lauern", ["text"] = "120 Mana 40 Meter Reichweite\nSofort\nVerschleiert Eure Präsenz, verringert die Entfernung, aus der Ihr angegriffen werdet um 10 Meter." }
+entries[32927] = { ["name"] = "Heldentum", ["text"] = "40 Meter Reichweite\nSofort\nErhöht die Angriffskraft 15 Sek. lang um 172." }
+entries[32928] = { ["name"] = "Ritual der Beschwörung", ["text"] = "30 Meter Reichweite\nKanalisiert (Wirken in 30 sek.)\nReagenzien:\nSeelensplitter" }
+entries[32929] = { ["name"] = "Ritual der Beschwörung" }
+entries[32930] = { ["name"] = "Blauer Strahl" }
+entries[32931] = { ["name"] = "Angesicht der Gramlinge", ["text"] = "15% von Grundmana 30 Meter Reichweite\nSofort 1 min Abklingzeit\nChance von 30%, beim Wirken von Zaubern Unterbrechung durch Schaden zu ignorieren. Hält 5 Min. lang an." }
+entries[32932] = { ["name"] = "Sonnenschild", ["text"] = "Sofort\nGewährt dem Zaubernden 2 Min. lang vollständige Manaregeneration und fügt Angreifern Arkanschaden zu." }
+entries[32933] = { ["name"] = "Niemandsland - Terokkar/Schattenmond" }
+entries[32934] = { ["name"] = "Niemandsland" }
+entries[32935] = { ["name"] = "Arkanschlag", ["text"] = "Nahkampfreichweite\nSofort\nÜberzieht einen Feind mit Arkanmagie, fügt normalen Schaden plus 24 to 29 zu und stößt den Feind zurück." }
+entries[32936] = { ["name"] = "Der'izufokus", ["text"] = "40% von Grundmana\nSofort\nNimmt einen Arkanfokus ein, der verursachten Arkanschaden um 10% erhöht." }
+entries[32937] = { ["name"] = "Blinzeln", ["text"] = "Sofort\nTeleportiert den Zaubernden 20 Meter nach vorn, es sei denn, etwas steht im Weg. Befreit den Zaubernden auch von jeglichen Fesseln." }
+entries[32938] = { ["name"] = "Wehklagen der Toten", ["text"] = "Wirken in 3 sek.\nFügt nahen Gegnern Schattenschaden zu und unterbricht 4 Sek. lang das Wirken von Zaubern." }
+entries[32939] = { ["name"] = "Phasenschub", ["text"] = "Sofort\nErhöht das Bewegungstempo 5 Min. lang um 10%." }
+entries[32940] = { ["name"] = "Schattenrausch", ["text"] = "Sofort\nVerringert das Zaubertempo naher Gegner um 30%. Hält 15 Sek. lang an." }
+entries[32942] = { ["name"] = "Entschwindende Unsichtbarkeit", ["text"] = "Sofort\nDer Zaubernde entschwindet der Realität und wird dadurch für kurze Momente unsichtbar." }
+entries[32943] = { ["name"] = "Entschwindende Unsichtbarkeit", ["text"] = "Sofort 10 sek. Abklingzeit\nMacht den Zaubernden 8 Sek. lang unsichtbar." }
+entries[32944] = { ["name"] = "Lebenstransfer" }
+entries[32945] = { ["name"] = "Lebenstransfer" }
+entries[32946] = { ["name"] = "Erhöhtes 1H-Schwert", ["text"] = "Erhöht die Fertigkeitswertung für Schwerter um 13." }
+entries[32948] = { ["name"] = "Ritual der Beschwörung" }
+entries[32950] = { ["name"] = "Augenstrahl", ["text"] = "Unbegrenzte Reichweite\nWirken in 2 sek.\nDer Blick C'thuns durchdringt die Seele des Ziels, verursacht 2625 to 3375 Naturschaden und springt auf nahe Feinde über." }
+entries[32951] = { ["name"] = "Schlafender Schlaf" }
+entries[32952] = { ["name"] = "Mana verschlingen", ["text"] = "Sofort\nHeilt den Zaubernden." }
+entries[32953] = { ["name"] = "Kaplantest", ["text"] = "20 Meter Reichweite\nWirken in 4 sek.\nEntzieht dem gefangenen M'uru magische Energie." }
+entries[32954] = { ["name"] = "Erhöhtes 1H-Schwert", ["text"] = "Erhöht die Fertigkeitswertung für Schwerter um 8." }
+entries[32955] = { ["name"] = "Heldentum", ["text"] = "40 Meter Reichweite\nSofort\nErhöht die Angriffskraft 15 Sek. lang um 120." }
+entries[32956] = { ["name"] = "Zaubermacht", ["text"] = "40 Meter Reichweite\nSofort\nErhöht die Zaubermacht 15 Sek. lang um 70." }
+entries[32957] = { ["name"] = "Stoizismus", ["text"] = "40 Meter Reichweite\nSofort\nErhöht die Ausweichwertung 15 Sek. lang um 80." }
+entries[32958] = { ["name"] = "Kristallkanalisierung" }
+entries[32959] = { ["name"] = "Wegschlagen", ["text"] = "10 Meter Reichweite\nSofort\nFügt einem Feind normalen Schaden plus 30 zu und stößt ihn zurück." }
+entries[32960] = { ["name"] = "Mal von Kazzak", ["text"] = "60 Meter Reichweite\nSofort\nEntzieht alle 1 Sek. 5% Mana.\nExplodiert, wenn nicht in der Lage, Mana zu entziehen." }
+entries[32961] = { ["name"] = "Mal von Kazzak" }
+entries[32962] = { ["name"] = "Eiserner Biss", ["text"] = "Nahkampfreichweite\nNächster Nahkampf\nBeißt einen Gegner, fügt körperlichen Schaden zu." }
+entries[32963] = { ["name"] = "Schattenblitzsalve", ["text"] = "30 Meter Reichweite\nSofort\nSchleudert Geschosse von dunkler Magie auf in der Nähe befindliche Feinde und verursacht Schattenschaden." }
+entries[32964] = { ["name"] = "Raserei" }
+entries[32965] = { ["name"] = "Berserker" }
+entries[32966] = { ["name"] = "Seele fangen" }
+entries[32967] = { ["name"] = "Flammenschock", ["text"] = "110 Mana 20 Meter Reichweite\nSofort\nVerbrennt sofort einen Feind und fügt ihm dann 12 Sek. lang alle 3 Sek. zusätzlichen Feuerschaden zu." }
+entries[32968] = { ["name"] = "Versengendes Totem", ["text"] = "65 Mana\nSofort\nBeschwört ein versengendes Totem zu Füßen des Zaubernden. Das Totem hält 35 Sek. lang und greift alle 2 Sek. einen in der Nähe befindlichen Gegner an." }
+entries[32969] = { ["name"] = "Versengen", ["text"] = "20 Meter Reichweite\nWirken in 2 sek.\nFügt dem Ziel Feuerschaden zu." }
+entries[32970] = { ["name"] = "Tödliches Gift", ["text"] = "(Procchance: 10%)" }
+entries[32971] = { ["name"] = "Tödliches Gift", ["text"] = "10 Meter Reichweite\nWirken in 2 sek. 30 sek. Abklingzeit\nFügt einem Feind 30 Sek. lang alle 10 Sek. Naturschaden zu." }
+entries[32973] = { ["name"] = "Schockweitenbonus", ["text"] = "Erhöht die Reichweite Eurer Schockzauber sowie von 'Windstoß' um 5 Meter." }
+entries[32974] = { ["name"] = "Gedankenkontrolle" }
+entries[32976] = { ["name"] = "Gedankenkontrolle" }
+entries[32977] = { ["name"] = "Große Planaressenz", ["text"] = "Sofort\nReagenzien:\nGeringe Planaressenz (2)\nMacht aus drei geringen Planaressenzen eine große Essenz." }
+entries[32978] = { ["name"] = "Geringe Planaressenz", ["text"] = "Sofort\nMacht aus einer großen Planaressenz drei geringe Essenzen." }
+entries[32979] = { ["name"] = "Belagerungsmaschine der Horde in Brand setzen", ["text"] = "80 Meter Reichweite\nWirken in 2 sek.\nVerbrennt einen Klingenwerfer der Horde über dem Pfad des Ruhms." }
+entries[32980] = { ["name"] = "Arkane Macht", ["text"] = "Chance von 2%, bei erfolgreichem Zauberwirken die Zaubermacht 15 Sek. lang um bis zu 120 zu erhöhen.\n(Procchance: 2%)" }
+entries[32981] = { ["name"] = "Grüne Flamme", ["text"] = "Chance bei erfolgreichem Zauberwirken im Verlauf von 10 Sek. 90 Mana wiederherzustellen.\n(Procchance: 75%, 25s Abklingzeit)" }
+entries[32982] = { ["name"] = "Totem des Feuerelementars", ["text"] = "Sofort\nBeschwört ein Elementartotem, das einen großen Feuerelementar ruft, um die Gegner des Zaubernden mit Vernichtung zu überziehen. Hält 3 Min. lang an." }
+entries[32984] = { ["name"] = "Frostblitz", ["text"] = "45 Mana 40 Meter Reichweite\nWirken in 3 sek.\nFügt einem Feind Frostschaden zu und verringert 3 Sek. lang sein Bewegungstempo." }
+entries[32988] = { ["name"] = "Alle Stärkungszauber entfernen" }
+entries[32989] = { ["name"] = "Alle Schwächungszauber entfernen" }
+entries[32990] = { ["name"] = "Verzauberung wirken" }
+entries[32991] = { ["name"] = "Naturzauber wirken" }
+entries[32992] = { ["name"] = "Eiszauber wirken" }
+entries[32993] = { ["name"] = "Feuerzauber wirken" }
+entries[32994] = { ["name"] = "Verjüngung" }
+entries[32995] = { ["name"] = "Wasserelementar" }
+entries[33002] = { ["name"] = "Flammenstoß" }
+entries[33004] = { ["name"] = "Turmmarke von Nagrand, Horde (1)", ["text"] = "10 Meter Reichweite\nSofort\nErschafft 1 Turmmarke von Nagrand für die Horde." }
+entries[33005] = { ["name"] = "Turmmarke von Nagrand, Allianz (1)", ["text"] = "10 Meter Reichweite\nSofort\nErschafft 1 Turmmarke von Nagrand für die Allianz." }
+entries[33006] = { ["name"] = "Schlachtzugstärkung von Nagrand" }
+entries[33009] = { ["name"] = "Blendendes Licht", ["text"] = "375 Mana 50 Meter Reichweite\nSofort\nFügt einem Gegner 2280 to 2520 Arkanschaden zu." }
+entries[33010] = { ["name"] = "Windzorn" }
+entries[33012] = { ["name"] = "Essenz verzehren", ["text"] = "Sofort\nDer nächste innerhalb von 10 Sek. getötete Gegner, der Erfahrung oder Ehre gewährt, stellt 900 Mana wieder her." }
+entries[33013] = { ["name"] = "Essenz verzehren", ["text"] = "Sofort\nStellt 900 Mana wieder her." }
+entries[33014] = { ["name"] = "Leben verzehren", ["text"] = "Sofort\nDer nächste innerhalb von 15 Sek. getötete Gegner, der Erfahrung oder Ehre gewährt, stellt 900 Gesundheit wieder her." }
+entries[33015] = { ["name"] = "Leben verzehren", ["text"] = "Sofort\nStellt 900 Gesundheit wieder her." }
+entries[33016] = { ["name"] = "Interne Wackelkamera" }
+entries[33017] = { ["name"] = "Schummeldietrich", ["text"] = "20 Meter Reichweite\nSofort\nTools: Diebeswerkzeug\nErlaubt das Öffnen verschlossener Kisten und Türen." }
+entries[33018] = { ["name"] = "Increased Maelstrom Weapon Chance" }
+entries[33019] = { ["name"] = "Saptasicht", ["text"] = "15 Meter Reichweite\nSofort\nErmöglicht dem Anwender, Elementargeister zu sehen." }
+entries[33020] = { ["name"] = "Bonus für 'Blitzschlagschild'", ["text"] = "Erhöht den von Eurem 'Blitzschlagschild' verursachten Schaden um 8%." }
+entries[33021] = { ["name"] = "Zauberschaden erhöhen 10", ["text"] = "Erhöht die Zaubermacht um 10." }
+entries[33022] = { ["name"] = "Zauberschaden erhöhen 58", ["text"] = "Erhöht die Zaubermacht um 58." }
+entries[33023] = { ["name"] = "Mal von Solarian" }
+entries[33024] = { ["name"] = "Heilung erhöhen 8", ["text"] = "Erhöht die Zaubermacht um 5." }
+entries[33025] = { ["name"] = "Heilung erhöhen 19", ["text"] = "Erhöht die Zaubermacht um 8." }
+entries[33026] = { ["name"] = "Heilung erhöhen 25", ["text"] = "Erhöht die Zaubermacht um 13." }
+entries[33027] = { ["name"] = "Heilung erhöhen 30", ["text"] = "Erhöht die Zaubermacht um 16." }
+entries[33028] = { ["name"] = "Heilung erhöhen 45", ["text"] = "Erhöht die Zaubermacht um 23." }
+entries[33029] = { ["name"] = "Heilung erhöhen 83", ["text"] = "Erhöht die Zaubermacht um 44." }
+entries[33030] = { ["name"] = "Heilung erhöhen 109", ["text"] = "Erhöht die Zaubermacht um 59." }
+entries[33031] = { ["name"] = "Arkane Geschosse", ["text"] = "235 Mana 45 Meter Reichweite\nKanalisiert (Wirken in 3 sek.)\nSchleudert magische Geschosse auf einen Feind und verursacht 3 Sek. lang pro Sekunde Arkanschaden." }
+entries[33032] = { ["name"] = "Angriffskraft - Tiergestalt (+0007)", ["text"] = "Benötigt Katzengestalt, Bärengestalt, Terrorbärengestalt, Mondkingestalt\nErhöht die Angriffskraft in Katzen-, Bären- oder Mondkingestalt um 7." }
+entries[33033] = { ["name"] = "Angriffskraft - Tiergestalt (+0014)", ["text"] = "Benötigt Katzengestalt, Bärengestalt, Terrorbärengestalt, Mondkingestalt\nErhöht die Angriffskraft in Katzen-, Bären- oder Mondkingestalt um 14." }
+entries[33034] = { ["name"] = "Angriffskraft - Tiergestalt (+0025)", ["text"] = "Benötigt Katzengestalt, Bärengestalt, Terrorbärengestalt, Mondkingestalt\nErhöht die Angriffskraft in Katzen-, Bären- oder Mondkingestalt um 25." }
+entries[33035] = { ["name"] = "Angriffskraft - Tiergestalt (+0046)", ["text"] = "Benötigt Katzengestalt, Bärengestalt, Terrorbärengestalt, Mondkingestalt\nErhöht die Angriffskraft in Katzen-, Bären- oder Mondkingestalt um 46." }
+entries[33036] = { ["name"] = "Angriffskraft - Tiergestalt (+0056)", ["text"] = "Benötigt Katzengestalt, Bärengestalt, Terrorbärengestalt, Mondkingestalt\nErhöht die Angriffskraft in Katzen-, Bären- oder Mondkingestalt um 56." }
+entries[33037] = { ["name"] = "Angriffskraft - Tiergestalt (+0084)", ["text"] = "Benötigt Katzengestalt, Bärengestalt, Terrorbärengestalt, Mondkingestalt\nErhöht die Angriffskraft in Katzen-, Bären- oder Mondkingestalt um 84." }
+entries[33038] = { ["name"] = "Angriffskraft - Tiergestalt (+0115)", ["text"] = "Benötigt Katzengestalt, Bärengestalt, Terrorbärengestalt, Mondkingestalt\nErhöht die Angriffskraft in Katzen-, Bären- oder Mondkingestalt um 115." }
+entries[33039] = { ["name"] = "Angriffskraft - Tiergestalt (+0203)", ["text"] = "Benötigt Katzengestalt, Bärengestalt, Terrorbärengestalt, Mondkingestalt\nErhöht die Angriffskraft in Katzen-, Bären- oder Mondkingestalt um 203." }
+entries[33040] = { ["name"] = "Zorn des Astromanten" }
+entries[33044] = { ["name"] = "Zorn des Astromanten" }
+entries[33045] = { ["name"] = "Zorn des Astromanten" }
+entries[33047] = { ["name"] = "Leerenblitz" }
+entries[33048] = { ["name"] = "Zorn des Astromanten" }
+entries[33049] = { ["name"] = "Zorn des Astromanten" }
+entries[33050] = { ["name"] = "Magischer Flusskrebs", ["text"] = "Sofort\nRechtsklicken, um einen magischen Flusskrebs zu beschwören und freizugeben." }
+entries[33051] = { ["name"] = "Großer Feuerball", ["text"] = "200 Mana 100 Meter Reichweite\nWirken in 3 sek.\nFügt einem Gegner Feuerschaden zu." }
+entries[33053] = { ["name"] = "Dr. Zwickys Segen", ["text"] = "Sofort\nErhöht die maximale Gesundheit des Spielers 2 Stunden lang um 1300. Dieser Effekt überdauert den Tod und zählt als Fläschchen." }
+entries[33054] = { ["name"] = "Zauberschild", ["text"] = "Sofort 30 sek. Abklingzeit\nVerringert erlittenen Zauberschaden 30 Sek. lang um 75%." }
+entries[33055] = { ["name"] = "Einfacher Teleport" }
+entries[33056] = { ["name"] = "Einfacher Teleport" }
+entries[33057] = { ["name"] = "Mächtigen Dr. Zwicky beschwören", ["text"] = "Sofort\nBeschwört den mächtigen Dr. Zwicky." }
+entries[33059] = { ["name"] = "Wütenden Dr. Zwicky beschwören" }
+entries[33060] = { ["name"] = "Wünscht Euch was", ["text"] = "Sofort\nSprecht mit Dr. Zwicky und Euch wird ein Wunsch erfüllt! Vielleicht etwas Gutes, vielleicht etwas Schlechtes... Dr. Zwicky weiß es nicht!" }
+entries[33061] = { ["name"] = "Druckwelle", ["text"] = "Sofort\nEntfesselt eine Flammenwelle, die Feuerschaden bei in der Nähe befindlichen Feinden verursacht und ihr Bewegungstempo 6 Sek. lang verringert." }
+entries[33062] = { ["name"] = "Winziger magischer Flusskrebs" }
+entries[33063] = { ["name"] = "Abklingzeitverringerung von Dämonischer Zirkel", ["text"] = "Verringert die Abklingzeit Eures Zaubers 'Dämonischer Zirkel' um 5 Sek." }
+entries[33064] = { ["name"] = "Dr. Zwickys Erfüllung" }
+entries[33066] = { ["name"] = "Reichweitenbonus für Feuerschlag", ["text"] = "Verbessert die Reichweite Eures Zaubers 'Feuerschlag' um 5 Meter." }
+entries[33067] = { ["name"] = "Belagerungsmaschine der Allianz in Brand setzen", ["text"] = "80 Meter Reichweite\nWirken in 2 sek.\nVerbrennt eine Kanone der Allianz über dem Pfad des Ruhms." }

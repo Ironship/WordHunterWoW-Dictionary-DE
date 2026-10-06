@@ -153,6 +153,10 @@ def english_prose(text, english):
 
 
 def build(source, lua_command, corpus_path=None):
+    if (ROOT / "source-manifest.json").exists():
+        current = json.loads((ROOT / "source-manifest.json").read_text(encoding="utf-8"))
+        if current.get("sources"):
+            raise RuntimeError("Client-specific entity variants are installed. Use import_variants.py; Classic-only regeneration would discard their manifest entries.")
     previous = json.loads((ROOT / "source-manifest.json").read_text(encoding="utf-8")) if not source else None
     if source:
         commit = subprocess.run(["git","-C",str(source),"rev-parse","HEAD"],capture_output=True,text=True,check=True).stdout.strip()
