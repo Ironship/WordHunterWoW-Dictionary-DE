@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-06",
+  "originalAudioPreserved": 104295,
+  "newAudio": 17609,
+  "totalAudio": 121904,
+  "generatedNewAudio": 17754,
+  "withheldUnconfirmedAudio": 145,
+  "reusedOriginalAudioForSourceTypo": 1,
+  "dictionaryEntries": 122058,
+  "additionalContextTranslations": 205,
+  "importCorrections": 25,
+  "ignoredWithoutNewAudio": 9,
+  "tts": {
+    "model": "mistralai/Voxtral-4B-TTS-2603",
+    "voices": [
+      "de_female",
+      "de_male"
+    ],
+    "sampleRate": 24000,
+    "channels": 1,
+    "format": "Ogg Vorbis",
+    "qualities": [
+      1,
+      3
+    ]
+  },
+  "asr": {
+    "model": "large-v3",
+    "language": "de",
+    "computeType": "float16",
+    "beamSize": 1,
+    "policy": "new-word-asr-v2",
+    "independentNativeBatch": 16,
+    "canonicalFallback": true
+  },
+  "recognitionUncertainty": 4525,
+  "recognitionReasons": {
+    "different": 4518,
+    "orthographic_uncertain": 7
+  },
+  "inventorySHA256": "c244bcb631d13bc3f04b5f86470f407a74de957aeb4a8cdca3912a22f4590e2f",
+  "dictionarySHA256": "d02b325fd964bb8840789810f9f3b19d22c73c18586e0a499b1adfc364f4f167",
+  "limitations": "Automatic decoding and speech recognition; unusual names and compounds can remain uncertain. No claim of human listening to every clip or in-game visual validation."
+}

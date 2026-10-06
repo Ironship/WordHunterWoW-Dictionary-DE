@@ -15,3 +15,5 @@ desktop.ini
 __pycache__/
 
 .claude/
+sounds/**/*.hash
+sounds/**/.wordhunter-*
