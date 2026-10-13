@@ -14,15 +14,13 @@ The original **73,863** Retail words were read against the quest sentence they a
 
 ## It speaks, too
 
-Click a recorded word and hear it said. **121,904 recordings** include **17,609 new clips**,
-read from German by a neural voice and decoded and checked individually with German speech recognition.
-Recognition uncertainty remains for some unusual words and names. The reader is in this addon — five Lua files and
-`sounds/` — so there is nothing else to install and no separate engine to
-find.
+Click a recorded word and hear it said. **122,049 recordings** now use the approved female voice generated locally with **Fish Audio S2 Pro**, replacing the previous Voxtral word audio. All 122,049 clips passed full decoding, mono 24 kHz format checks, file-size and SHA256 verification against the generation inventory.
 
-Nine damaged text fragments or opaque rune names are marked ignored and have no new recording. Abbreviations such as `NSC`, `SGS` and `Std.` use their full German pronunciation. Audio is generated and checked separately from dictionary translation; recognizer spelling disagreements can remain for unusual names and compounds.
+Nine nonlexical entries remain excluded from audio generation. The 145 previously withheld word paths are now included. Dictionary translations and quest narration are unchanged.
 
-All 17,754 planned new word paths were generated and checked. After three repair passes, 145 clips remain unconfirmed and are withheld from this download; their dictionary entries are available without new audio. The complete new clip inventory, uncertainty flags and withheld list are in `verification/audio/` in this repository. The source typo `Díe` reuses the original German `die` recording under its own key.
+**51 recordings remain flagged for listening review**: 39 unusually short and 12 unusually long; one long clip also reached the token limit. These are heuristic flags, not confirmed pronunciation errors. The owner approved the sound of the generated set, but the entire pronunciation corpus has not received a full human audit. See `verification/audio/fish-s2-pro-2026-10-13/` for the current inventory, settings and verification report. Earlier audit folders describe the superseded Voxtral recordings.
+
+The reader is included in this addon, so no separate voice engine is needed.
 
 If you have the older separate downloads, remove them: the *German Voiceover*
 engine addon and the *Voiceover: Words* pack are both inside this one now, and

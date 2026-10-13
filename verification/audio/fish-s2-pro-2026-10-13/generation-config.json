@@ -1,0 +1,17 @@
+{
+  "model": "fishaudio/s2-pro",
+  "voice": "female-reference-14.4s",
+  "seed": 42,
+  "temperature": 1.0,
+  "top_p": 0.9,
+  "top_k": 30,
+  "max_new_tokens": 240,
+  "context": 4096,
+  "precision": "bf16",
+  "compile": true,
+  "rate": 24000,
+  "ogg_quality": 5,
+  "loudness": "I=-18:TP=-2",
+  "reference_sha256": "d9902eb87b8d0dafbe26d12b0247dc75321bf8b1e43622c4e2c3ddf4d69a687f",
+  "reference_text_sha256": "4e4d415a789090bc86fb738002028aff6f945b12433e62f70f28224ac7dbe749"
+}
