@@ -1,0 +1,42 @@
+{
+  "status": "passed",
+  "total": 122049,
+  "checked": 122049,
+  "database_records": 122049,
+  "audio_files": 122049,
+  "missing_files": [],
+  "extra_files": [],
+  "missing_records": [],
+  "extra_records": [],
+  "issues": [],
+  "total_bytes": 1209380145,
+  "format": "OGG Vorbis mono 24000 Hz",
+  "verified_checks": [
+    "plan vs database and files",
+    "text hashes",
+    "configuration signature",
+    "SHA256",
+    "file sizes",
+    "full decoding",
+    "finite and non-silent audio"
+  ],
+  "flagged_clips": 51,
+  "flag_counts": {
+    "too_long": 12,
+    "too_short": 39,
+    "token_limit": 1
+  },
+  "historical_errors": [
+    {
+      "kind": "word",
+      "key": "todesblickiris",
+      "path": "sounds/w/ad/ad4b91085181f839.ogg",
+      "text": "Todesblickiris",
+      "hash": "3d1acd56cdae2302",
+      "error": "PermissionError(13, 'Permission denied')"
+    }
+  ],
+  "elapsed_seconds": 119.9,
+  "finished_at": "2026-10-13T15:45:39+0200",
+  "pronunciation_audited": false
+}

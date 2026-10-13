@@ -82,3 +82,22 @@ the project owner, pinned revisions, raw source hashes, normalization and
 exclusions are retained in QuestData/NOTICE and EntityData/NOTICE and their
 source-manifest.json files. Original copyright remains with the respective
 authors and Blizzard; no broader source licence is implied.
+
+German word audio replacement, 13 October 2026:
+
+The 122,049 OGG recordings under sounds/w were generated locally with
+Fish Audio S2 Pro (https://huggingface.co/fishaudio/s2-pro), using the
+project's approved synthetic female reference voice. The reference was
+assembled from existing project Voxtral female quest narration; no voice
+recording of a real person was used as the cloning reference.
+
+Word recordings are distributed for noncommercial use under CC BY-NC 4.0:
+https://creativecommons.org/licenses/by-nc/4.0/
+The Fish Audio model has its own Fish Audio Research License; a copy of
+its supplied license is retained with the generation evidence under
+verification/audio/fish-s2-pro-2026-10-13/. Model weights are not included.
+The software's GPL license does not replace the audio or model terms.
+
+The complete inventory and technical checks are retained in verification/audio.
+Technical verification does not certify pronunciation: 51 clips carry review
+flags. Historical Voxtral audit reports do not describe this replacement set.

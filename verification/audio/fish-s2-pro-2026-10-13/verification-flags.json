@@ -1,0 +1,564 @@
+[
+  {
+    "kind": "word",
+    "key": "aaaarrrrrggghhhhh",
+    "path": "sounds/w/96/967252c0fae4500b.ogg",
+    "text": "AAAARRRRRGGGHHHHH",
+    "hash": "10155f3587272a51",
+    "flags": [
+      "too_long"
+    ],
+    "seconds": 4.08671201814059
+  },
+  {
+    "kind": "word",
+    "key": "as",
+    "path": "sounds/w/5e/5e25208dbfbb1f6c.ogg",
+    "text": "as",
+    "hash": "df211ccdd94a63e0",
+    "flags": [
+      "too_short"
+    ],
+    "seconds": 0.18575963718820862
+  },
+  {
+    "kind": "word",
+    "key": "aufs",
+    "path": "sounds/w/7e/7e62165ca8654fe9.ogg",
+    "text": "aufs",
+    "hash": "52ccf91818352828",
+    "flags": [
+      "too_short"
+    ],
+    "seconds": 0.18575963718820862
+  },
+  {
+    "kind": "word",
+    "key": "chub",
+    "path": "sounds/w/80/8069d93971f27ac4.ogg",
+    "text": "Chub",
+    "hash": "b0ea7da899467190",
+    "flags": [
+      "too_short"
+    ],
+    "seconds": 0.18575963718820862
+  },
+  {
+    "kind": "word",
+    "key": "dacht",
+    "path": "sounds/w/a1/a108a5e319c1991c.ogg",
+    "text": "dacht",
+    "hash": "6fcebfa1846fef7b",
+    "flags": [
+      "too_short"
+    ],
+    "seconds": 0.18575963718820862
+  },
+  {
+    "kind": "word",
+    "key": "das",
+    "path": "sounds/w/da/da4f123fc9a465b8.ogg",
+    "text": "das",
+    "hash": "bebabb62faccb84a",
+    "flags": [
+      "too_short"
+    ],
+    "seconds": 0.09287981859410431
+  },
+  {
+    "kind": "word",
+    "key": "dasss",
+    "path": "sounds/w/d8/d8bf09754b86fdc6.ogg",
+    "text": "dasss",
+    "hash": "f6642c3539535d9c",
+    "flags": [
+      "too_short"
+    ],
+    "seconds": 0.18575963718820862
+  },
+  {
+    "kind": "word",
+    "key": "dem",
+    "path": "sounds/w/d0/d0598fddb7ad43be.ogg",
+    "text": "dem",
+    "hash": "122628109da3ddff",
+    "flags": [
+      "too_short"
+    ],
+    "seconds": 0.18575963718820862
+  },
+  {
+    "kind": "word",
+    "key": "des",
+    "path": "sounds/w/d2/d2599303c1ad537c.ogg",
+    "text": "des",
+    "hash": "e9d596e7807a846b",
+    "flags": [
+      "too_short"
+    ],
+    "seconds": 0.09287981859410431
+  },
+  {
+    "kind": "word",
+    "key": "dick",
+    "path": "sounds/w/65/6537d094b9be7091.ogg",
+    "text": "dick",
+    "hash": "39f6f95327b31d79",
+    "flags": [
+      "too_short"
+    ],
+    "seconds": 0.18575963718820862
+  },
+  {
+    "kind": "word",
+    "key": "diem",
+    "path": "sounds/w/5f/5f3349f4dfcdb6ed.ogg",
+    "text": "Diem",
+    "hash": "7982b8cdf2d3e866",
+    "flags": [
+      "too_short"
+    ],
+    "seconds": 0.18575963718820862
+  },
+  {
+    "kind": "word",
+    "key": "ebbt",
+    "path": "sounds/w/7c/7cc6046879c1812d.ogg",
+    "text": "ebbt",
+    "hash": "c5a57fc3cc343453",
+    "flags": [
+      "too_short"
+    ],
+    "seconds": 0.18575963718820862
+  },
+  {
+    "kind": "word",
+    "key": "es",
+    "path": "sounds/w/46/461a6d69c7b09ea8.ogg",
+    "text": "es",
+    "hash": "09cd68a2a77b22a3",
+    "flags": [
+      "too_short"
+    ],
+    "seconds": 0.18575963718820862
+  },
+  {
+    "kind": "word",
+    "key": "gebr",
+    "path": "sounds/w/6d/6d0da4e9cb1cf0d8.ogg",
+    "text": "Gebr",
+    "hash": "1f2ba872dbefe0b7",
+    "flags": [
+      "too_short"
+    ],
+    "seconds": 0.13931972789115646
+  },
+  {
+    "kind": "word",
+    "key": "giiibt",
+    "path": "sounds/w/12/127fa8992faee0b0.ogg",
+    "text": "giiibt",
+    "hash": "63372238733a6b0c",
+    "flags": [
+      "too_short"
+    ],
+    "seconds": 0.13931972789115646
+  },
+  {
+    "kind": "word",
+    "key": "grlrlrglrmg",
+    "path": "sounds/w/bf/bf091b1bb0155cc0.ogg",
+    "text": "Grlrlrglrmg",
+    "hash": "a154e04abf571783",
+    "flags": [
+      "too_long"
+    ],
+    "seconds": 2.507755102040816
+  },
+  {
+    "kind": "word",
+    "key": "harrrrr",
+    "path": "sounds/w/2c/2ceed68851e2801f.ogg",
+    "text": "HARRRRR",
+    "hash": "2476da29d480fa08",
+    "flags": [
+      "too_long"
+    ],
+    "seconds": 3.947392290249433
+  },
+  {
+    "kind": "word",
+    "key": "he",
+    "path": "sounds/w/5c/5c3ae3b6b9a3bcab.ogg",
+    "text": "He",
+    "hash": "53a417796c777851",
+    "flags": [
+      "too_short"
+    ],
+    "seconds": 0.09287981859410431
+  },
+  {
+    "kind": "word",
+    "key": "hick",
+    "path": "sounds/w/52/52d34db08475d0cd.ogg",
+    "text": "Hick",
+    "hash": "ddce3ea6e8621c55",
+    "flags": [
+      "too_short"
+    ],
+    "seconds": 0.13931972789115646
+  },
+  {
+    "kind": "word",
+    "key": "hm",
+    "path": "sounds/w/64/643af04eb1a3b013.ogg",
+    "text": "Hm",
+    "hash": "3209c0d4efd4dd94",
+    "flags": [
+      "too_short"
+    ],
+    "seconds": 0.18575963718820862
+  },
+  {
+    "kind": "word",
+    "key": "hmph",
+    "path": "sounds/w/9f/9f269ff6c8f847a3.ogg",
+    "text": "Hmph",
+    "hash": "10804903398152af",
+    "flags": [
+      "too_short"
+    ],
+    "seconds": 0.18575963718820862
+  },
+  {
+    "kind": "word",
+    "key": "ick",
+    "path": "sounds/w/80/80e10e8a91a95ced.ogg",
+    "text": "Ick",
+    "hash": "66f473b61dcbf81f",
+    "flags": [
+      "too_short"
+    ],
+    "seconds": 0.09287981859410431
+  },
+  {
+    "kind": "word",
+    "key": "ik",
+    "path": "sounds/w/46/4638827dd7a62a7c.ogg",
+    "text": "Ik",
+    "hash": "51e1cd58b4b357fc",
+    "flags": [
+      "too_short"
+    ],
+    "seconds": 0.09287981859410431
+  },
+  {
+    "kind": "word",
+    "key": "im",
+    "path": "sounds/w/40/4038790bd5a62756.ogg",
+    "text": "im",
+    "hash": "42a0d3068dfe7945",
+    "flags": [
+      "too_short"
+    ],
+    "seconds": 0.18575963718820862
+  },
+  {
+    "kind": "word",
+    "key": "in'n",
+    "path": "sounds/w/30/3018a8cf1ffb8ba6.ogg",
+    "text": "in'n",
+    "hash": "b0c1f3bece7c5a07",
+    "flags": [
+      "too_short"
+    ],
+    "seconds": 0.09287981859410431
+  },
+  {
+    "kind": "word",
+    "key": "ins",
+    "path": "sounds/w/98/98e98317718d5410.ogg",
+    "text": "ins",
+    "hash": "8e324d086f27581f",
+    "flags": [
+      "too_short"
+    ],
+    "seconds": 0.18575963718820862
+  },
+  {
+    "kind": "word",
+    "key": "it",
+    "path": "sounds/w/47/47388410cea61c51.ogg",
+    "text": "it",
+    "hash": "6c5522ca8af86fc5",
+    "flags": [
+      "too_short"
+    ],
+    "seconds": 0.09287981859410431
+  },
+  {
+    "kind": "word",
+    "key": "jup",
+    "path": "sounds/w/d3/d3bc1b38e757aecf.ogg",
+    "text": "Jup",
+    "hash": "4faa1a96a426cac8",
+    "flags": [
+      "too_short"
+    ],
+    "seconds": 0.18575963718820862
+  },
+  {
+    "kind": "word",
+    "key": "kann",
+    "path": "sounds/w/29/29d348f98fe89978.ogg",
+    "text": "kann",
+    "hash": "1ae4e2fc23a926a6",
+    "flags": [
+      "too_short"
+    ],
+    "seconds": 0.18575963718820862
+  },
+  {
+    "kind": "word",
+    "key": "kickt",
+    "path": "sounds/w/49/49329171baa6b9ba.ogg",
+    "text": "kickt",
+    "hash": "2e710052e9453151",
+    "flags": [
+      "too_short"
+    ],
+    "seconds": 0.13931972789115646
+  },
+  {
+    "kind": "word",
+    "key": "krick",
+    "path": "sounds/w/ed/edc2c6c106fd409a.ogg",
+    "text": "Krick",
+    "hash": "b63245fc5242624f",
+    "flags": [
+      "too_short"
+    ],
+    "seconds": 0.18575963718820862
+  },
+  {
+    "kind": "word",
+    "key": "krieg",
+    "path": "sounds/w/c9/c9d1989fdaedf0cc.ogg",
+    "text": "Krieg",
+    "hash": "d00f9c0fcea23881",
+    "flags": [
+      "too_short"
+    ],
+    "seconds": 0.13931972789115646
+  },
+  {
+    "kind": "word",
+    "key": "kriegt",
+    "path": "sounds/w/9f/9ff3b9f15c91f1a8.ogg",
+    "text": "kriegt",
+    "hash": "7e308f3ea666c51d",
+    "flags": [
+      "too_short"
+    ],
+    "seconds": 0.13931972789115646
+  },
+  {
+    "kind": "word",
+    "key": "litt",
+    "path": "sounds/w/fa/faf48066d0247a3b.ogg",
+    "text": "litt",
+    "hash": "acfcd2c43d27b52a",
+    "flags": [
+      "too_short"
+    ],
+    "seconds": 0.13931972789115646
+  },
+  {
+    "kind": "word",
+    "key": "lrglgllmrrglm",
+    "path": "sounds/w/2d/2d062b2e4b0990ad.ogg",
+    "text": "lrglgllmrrglm",
+    "hash": "67e1c4fcd785ec5c",
+    "flags": [
+      "too_long"
+    ],
+    "seconds": 3.7151927437641725
+  },
+  {
+    "kind": "word",
+    "key": "lrlgllrlm",
+    "path": "sounds/w/c9/c963ccc74e7a87a8.ogg",
+    "text": "lrlgllrlm",
+    "hash": "a89f8e0bc8977a99",
+    "flags": [
+      "token_limit",
+      "too_long"
+    ],
+    "seconds": 11.099138321995465
+  },
+  {
+    "kind": "word",
+    "key": "mglgrgrlm",
+    "path": "sounds/w/4b/4bb47eccc9e8cb07.ogg",
+    "text": "mglgrgrlm",
+    "hash": "a28bd26bd5afdf99",
+    "flags": [
+      "too_long"
+    ],
+    "seconds": 6.501587301587302
+  },
+  {
+    "kind": "word",
+    "key": "mgrlmlgr",
+    "path": "sounds/w/55/5589ddb764e7e3ea.ogg",
+    "text": "mgrlmlgr",
+    "hash": "60d4227e2f753729",
+    "flags": [
+      "too_long"
+    ],
+    "seconds": 3.575873015873016
+  },
+  {
+    "kind": "word",
+    "key": "mlrmglrgr",
+    "path": "sounds/w/86/862209d16464f2f2.ogg",
+    "text": "mlrmglrgr",
+    "hash": "5d4d0b3f9b616734",
+    "flags": [
+      "too_long"
+    ],
+    "seconds": 2.507755102040816
+  },
+  {
+    "kind": "word",
+    "key": "mmm",
+    "path": "sounds/w/ca/ca99d446dd6d31b5.ogg",
+    "text": "Mmm",
+    "hash": "53227098f509a33c",
+    "flags": [
+      "too_short"
+    ],
+    "seconds": 0.18575963718820862
+  },
+  {
+    "kind": "word",
+    "key": "mmmrrrgggllls",
+    "path": "sounds/w/a6/a6e54e621d45c261.ogg",
+    "text": "Mmmrrrgggllls",
+    "hash": "97fef2320733ceed",
+    "flags": [
+      "too_long"
+    ],
+    "seconds": 3.436553287981859
+  },
+  {
+    "kind": "word",
+    "key": "mrlglmrgm",
+    "path": "sounds/w/dc/dceda57afbe87f25.ogg",
+    "text": "mrlglmrgm",
+    "hash": "3ee837fbfc4fc36d",
+    "flags": [
+      "too_long"
+    ],
+    "seconds": 3.01859410430839
+  },
+  {
+    "kind": "word",
+    "key": "na",
+    "path": "sounds/w/54/543659f0b19f32e5.ogg",
+    "text": "Na",
+    "hash": "0bc7749a1ea7eecf",
+    "flags": [
+      "too_short"
+    ],
+    "seconds": 0.09287981859410431
+  },
+  {
+    "kind": "word",
+    "key": "nr",
+    "path": "sounds/w/47/47364579be9f475c.ogg",
+    "text": "Nr",
+    "hash": "54a7dd073e59e571",
+    "flags": [
+      "too_short"
+    ],
+    "seconds": 0.09287981859410431
+  },
+  {
+    "kind": "word",
+    "key": "psst",
+    "path": "sounds/w/62/62d3d803c3bff8c2.ogg",
+    "text": "Psst",
+    "hash": "0e6f17a91c204a9f",
+    "flags": [
+      "too_short"
+    ],
+    "seconds": 0.13931972789115646
+  },
+  {
+    "kind": "word",
+    "key": "rlmgr",
+    "path": "sounds/w/35/35860097f7e92354.ogg",
+    "text": "rlmgr",
+    "hash": "08da72a30524b21d",
+    "flags": [
+      "too_long"
+    ],
+    "seconds": 3.436553287981859
+  },
+  {
+    "kind": "word",
+    "key": "rmglrgmlr",
+    "path": "sounds/w/b9/b9e59d0d2dc4aff6.ogg",
+    "text": "rmglrgmlr",
+    "hash": "594cb4e6c9b6b1b7",
+    "flags": [
+      "too_long"
+    ],
+    "seconds": 3.436553287981859
+  },
+  {
+    "kind": "word",
+    "key": "rum",
+    "path": "sounds/w/29/29cd4d372eba5230.ogg",
+    "text": "rum",
+    "hash": "937adac2c1769863",
+    "flags": [
+      "too_short"
+    ],
+    "seconds": 0.18575963718820862
+  },
+  {
+    "kind": "word",
+    "key": "tsss",
+    "path": "sounds/w/f8/f8a087fe08c78c5f.ogg",
+    "text": "tsss",
+    "hash": "921d2ac3fe0c3c96",
+    "flags": [
+      "too_short"
+    ],
+    "seconds": 0.09287981859410431
+  },
+  {
+    "kind": "word",
+    "key": "up",
+    "path": "sounds/w/43/43430b20cad7b2d1.ogg",
+    "text": "up",
+    "hash": "7c0a25c06ea30bae",
+    "flags": [
+      "too_short"
+    ],
+    "seconds": 0.09287981859410431
+  },
+  {
+    "kind": "word",
+    "key": "zsch",
+    "path": "sounds/w/e5/e5c42b4906b17578.ogg",
+    "text": "zsch",
+    "hash": "a38b610542854fa8",
+    "flags": [
+      "too_short"
+    ],
+    "seconds": 0.09287981859410431
+  }
+]
