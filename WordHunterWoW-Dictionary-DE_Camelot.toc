@@ -1,11 +1,14 @@
 ## Interface: 16001
-## Title: QuestWordHunter - German Dictionary |cff59aefa+ Voice + Quests|r
+## Title: QuestWordHunter - German Dictionary
 ## Notes: German-English dictionary, German word voice, and DE/EN Classic/Forever quest texts.
 ## IconTexture: Interface\AddOns\WordHunterWoW-Dictionary-DE\icon
 ## Author: Ironship
-## Version: 2.0.4-alpha.1
+## Version: 2.0.4-alpha.2
 ## SavedVariables: WordHunterWoWVoiceDB
 ## Dependencies: WordHunterWoW
+## Group: WordHunterWoW-Dictionary-DE
+## Category: QuestWordHunter
+## X-Curse-Project-ID: 1670281
 ## OptionalDeps: WordHunterWoW-ENPanel
 
 DataModules.lua

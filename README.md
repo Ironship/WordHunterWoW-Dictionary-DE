@@ -130,3 +130,5 @@ GPL v3 — see `LICENSE`, and `NOTICE` for the attribution the licence requires.
 ## Library data on demand
 
 The download also installs small load-on-demand data modules beside the dictionary folder. Keep those folders together. Restart the game after installing this layout so WoW discovers them. Word lookup and word audio remain available immediately; quest ranges load when needed, and the full library loads in stages. Item/spell/NPC references load only when requested. The same data and lookup paths serve Retail and Forever, with their existing game and language safeguards. Loaded ranges remain in memory until the UI is reloaded. Older base addon versions retain eager library loading for compatibility.
+
+The modules share the dictionary icon and appear under German Dictionary in the collapsible **QuestWordHunter** category of the game's addon list. Short labels such as **Retail quests (7/10)** identify each part. Keep the modules enabled; the dictionary loads them automatically. The complete dictionary and all of its modules are distributed together in one ZIP.
