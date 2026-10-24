@@ -1,0 +1,57 @@
+## Interface: 11509
+## Title: QuestWordHunter - German Dictionary: Quests-Native
+## Notes: Library data loaded when requested by QuestWordHunter.
+## Author: Ironship
+## Version: 2.0.4-alpha.1
+## Dependencies: WordHunterWoW-Dictionary-DE
+## LoadOnDemand: 1
+
+..\WordHunterWoW-Dictionary-DE\QuestData\Data\classic\deDE_000.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\Data\classic\deDE_001.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\Data\classic\deDE_002.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\Data\classic\deDE_003.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\Data\classic\deDE_004.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\Data\classic\deDE_005.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\Data\classic\deDE_006.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\Data\classic\deDE_007.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\Data\classic\deDE_008.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\Data\classic\deDE_009.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\Data\classic\deDE_010.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\Data\classic\deDE_011.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\Data\classic\deDE_012.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\Data\classic\deDE_013.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\Data\classic\deDE_014.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\Data\classic\deDE_015.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\Data\classic\deDE_016.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\Data\classic\enUS_000.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\Data\classic\enUS_001.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\Data\classic\enUS_002.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\Data\classic\enUS_003.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\Data\classic\enUS_004.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\Data\classic\enUS_005.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\Data\classic\enUS_006.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\Data\classic\enUS_007.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\Data\classic\enUS_008.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\Data\classic\enUS_009.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\Data\classic\enUS_010.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\Data\classic\enUS_011.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\Data\classic\enUS_012.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\Data\classic\enUS_013.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\Data\classic\enUS_014.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\Data\classic\enUS_015.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\Data\classic\enUS_016.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\SeedForever.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\Data\forever\deDE_000.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\Data\forever\enUS_000.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\MultiLanguage\000.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\MultiLanguage\001.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\MultiLanguage\002.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\MultiLanguage\003.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\MultiLanguage\004.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\MultiLanguage\005.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\MultiLanguage\006.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\MultiLanguage\007.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\MultiLanguage\008.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\MultiLanguage\009.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\MultiLanguage\010.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\Loader.lua

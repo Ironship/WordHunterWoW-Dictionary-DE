@@ -9,6 +9,25 @@ package-as: WordHunterWoW-Dictionary-DE
 
 enable-nolib-creation: no
 
+move-folders:
+  WordHunterWoW-Dictionary-DE/LoadOnDemand/Quests-Native: WordHunterWoW-Dictionary-DE-Quests-Native
+  WordHunterWoW-Dictionary-DE/LoadOnDemand/Quests-classic-0: WordHunterWoW-Dictionary-DE-Quests-classic-0
+  WordHunterWoW-Dictionary-DE/LoadOnDemand/Quests-classic-7: WordHunterWoW-Dictionary-DE-Quests-classic-7
+  WordHunterWoW-Dictionary-DE/LoadOnDemand/Quests-classic-8: WordHunterWoW-Dictionary-DE-Quests-classic-8
+  WordHunterWoW-Dictionary-DE/LoadOnDemand/Quests-tbc-0: WordHunterWoW-Dictionary-DE-Quests-tbc-0
+  WordHunterWoW-Dictionary-DE/LoadOnDemand/Quests-tbc-1: WordHunterWoW-Dictionary-DE-Quests-tbc-1
+  WordHunterWoW-Dictionary-DE/LoadOnDemand/Quests-retail-0: WordHunterWoW-Dictionary-DE-Quests-retail-0
+  WordHunterWoW-Dictionary-DE/LoadOnDemand/Quests-retail-1: WordHunterWoW-Dictionary-DE-Quests-retail-1
+  WordHunterWoW-Dictionary-DE/LoadOnDemand/Quests-retail-2: WordHunterWoW-Dictionary-DE-Quests-retail-2
+  WordHunterWoW-Dictionary-DE/LoadOnDemand/Quests-retail-3: WordHunterWoW-Dictionary-DE-Quests-retail-3
+  WordHunterWoW-Dictionary-DE/LoadOnDemand/Quests-retail-4: WordHunterWoW-Dictionary-DE-Quests-retail-4
+  WordHunterWoW-Dictionary-DE/LoadOnDemand/Quests-retail-5: WordHunterWoW-Dictionary-DE-Quests-retail-5
+  WordHunterWoW-Dictionary-DE/LoadOnDemand/Quests-retail-6: WordHunterWoW-Dictionary-DE-Quests-retail-6
+  WordHunterWoW-Dictionary-DE/LoadOnDemand/Quests-retail-7: WordHunterWoW-Dictionary-DE-Quests-retail-7
+  WordHunterWoW-Dictionary-DE/LoadOnDemand/Quests-retail-8: WordHunterWoW-Dictionary-DE-Quests-retail-8
+  WordHunterWoW-Dictionary-DE/LoadOnDemand/Quests-retail-9: WordHunterWoW-Dictionary-DE-Quests-retail-9
+  WordHunterWoW-Dictionary-DE/LoadOnDemand/Entities: WordHunterWoW-Dictionary-DE-Entities
+
 ignore:
   - art
   - curseforge
