@@ -1,8 +1,12 @@
 ## Interface: 16001
-## Title: QuestWordHunter - German Dictionary: Quests-retail-3
-## Notes: Library data loaded when requested by QuestWordHunter.
+## Title: Retail quests (4/10)
+## Notes: German Dictionary data, loaded automatically when needed. Keep enabled.
+## IconTexture: Interface\AddOns\WordHunterWoW-Dictionary-DE\icon
+## Group: WordHunterWoW-Dictionary-DE
+## Category: QuestWordHunter
+## X-Curse-Project-ID: 1670281
 ## Author: Ironship
-## Version: 2.0.4-alpha.1
+## Version: 2.0.4-alpha.2
 ## Dependencies: WordHunterWoW-Dictionary-DE
 ## LoadOnDemand: 1
 
