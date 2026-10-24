@@ -1,0 +1,15 @@
+## Interface: 11509
+## Title: QuestWordHunter - German Dictionary: Quests-retail-9
+## Notes: Library data loaded when requested by QuestWordHunter.
+## Author: Ironship
+## Version: 2.0.4-alpha.1
+## Dependencies: WordHunterWoW-Dictionary-DE
+## LoadOnDemand: 1
+
+..\WordHunterWoW-Dictionary-DE\QuestData\References\retail\deDE_180.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\retail\deDE_181.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\retail\enUS_186.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\retail\enUS_187.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\retail\enUS_188.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\retail\enUS_189.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\retail\enUS_190.lua

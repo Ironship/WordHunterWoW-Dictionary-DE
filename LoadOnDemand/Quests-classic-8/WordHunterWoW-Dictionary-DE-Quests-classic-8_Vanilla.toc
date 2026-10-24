@@ -1,0 +1,14 @@
+## Interface: 11509
+## Title: QuestWordHunter - German Dictionary: Quests-classic-8
+## Notes: Library data loaded when requested by QuestWordHunter.
+## Author: Ironship
+## Version: 2.0.4-alpha.1
+## Dependencies: WordHunterWoW-Dictionary-DE
+## LoadOnDemand: 1
+
+..\WordHunterWoW-Dictionary-DE\QuestData\References\classic\deDE_019.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\classic\deDE_020.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\classic\deDE_021.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\classic\enUS_019.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\classic\enUS_020.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\classic\enUS_021.lua

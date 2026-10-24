@@ -1,0 +1,37 @@
+## Interface: 16001
+## Title: QuestWordHunter - German Dictionary: Quests-retail-7
+## Notes: Library data loaded when requested by QuestWordHunter.
+## Author: Ironship
+## Version: 2.0.4-alpha.1
+## Dependencies: WordHunterWoW-Dictionary-DE
+## LoadOnDemand: 1
+
+..\WordHunterWoW-Dictionary-DE\QuestData\References\retail\deDE_157.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\retail\deDE_158.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\retail\deDE_159.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\retail\deDE_160.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\retail\deDE_161.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\retail\deDE_162.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\retail\deDE_163.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\retail\deDE_164.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\retail\deDE_165.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\retail\deDE_166.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\retail\deDE_167.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\retail\deDE_168.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\retail\deDE_169.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\retail\deDE_170.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\retail\enUS_160.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\retail\enUS_161.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\retail\enUS_162.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\retail\enUS_163.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\retail\enUS_164.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\retail\enUS_165.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\retail\enUS_166.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\retail\enUS_167.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\retail\enUS_168.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\retail\enUS_169.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\retail\enUS_170.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\retail\enUS_171.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\retail\enUS_172.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\retail\enUS_173.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\retail\enUS_174.lua
