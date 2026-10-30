@@ -13,6 +13,8 @@
 
 DataModules.lua
 Data/DictionaryDE.lua
+Data/AlignmentDE.lua
+Data/SentenceLinksDE.lua
 Bootstrap.lua
 
 Naming.lua
