@@ -29277,7 +29277,6 @@ WordHunterWoW_Dictionary_DE["frodrum"] = { word = "Frodrum", translation = "Frod
 WordHunterWoW_Dictionary_DE["froh"] = { word = "froh", translation = "glad", note = "adjective; pleased" }
 WordHunterWoW_Dictionary_DE["frohe"] = { word = "Frohe", translation = "happy", note = "frohe Weihnacht (merry Christmas), frohe Ostern (happy Easter)" }
 WordHunterWoW_Dictionary_DE["froher"] = { word = "froher", translation = "happier; gladder", note = "comparative of froh (happy, glad)" }
-WordHunterWoW_Dictionary_DE["froheren"] = { word = "froheren", translation = "happier; more joyful; glad", note = "inflected form of froh (glad, happy) (in froheren Zeiten = in happier times)" }
 WordHunterWoW_Dictionary_DE["frohes"] = { word = "Frohes", translation = "happy", note = "neuter nominative of froh (happy); as in Frohes Fest (happy festival)" }
 WordHunterWoW_Dictionary_DE["frohnatur"] = { word = "Frohnatur", translation = "good-natured person; happy disposition", note = "Frohn (archaic for 'master') + Natur; someone with an inherently cheerful nature" }
 WordHunterWoW_Dictionary_DE["frohsinn"] = { word = "Frohsinn", translation = "cheerfulness; good cheer", note = "compound: froh (happy) + Sinn (sense, disposition); represents a disposition of joy" }
@@ -91474,7 +91473,6 @@ WordHunterWoW_Dictionary_DE["vereesa"] = { word = "Vereesa", translation = "Vere
 WordHunterWoW_Dictionary_DE["vereesas"] = { word = "Vereesas", translation = "Vereesa's", note = "" }
 WordHunterWoW_Dictionary_DE["verehr'n"] = { word = "verehr'n", translation = "revere", note = "from verehren (to worship); regard with utmost respect or devotion" }
 WordHunterWoW_Dictionary_DE["verehren"] = { word = "verehren", translation = "worship", note = "" }
-WordHunterWoW_Dictionary_DE["verehre"] = { word = "verehre", translation = "worship; revere; honor", note = "ich form and imperative of verehren (to revere): ich verehre Euch = I revere you" }
 WordHunterWoW_Dictionary_DE["verehrer"] = { word = "Verehrer", translation = "admirer; worshipper", note = "one who admires or reveres; from verehren (to honor, revere)" }
 WordHunterWoW_Dictionary_DE["verehrt"] = { word = "verehrt", translation = "revered; worshipped; adored", note = "verehren = to revere, worship; er wird verehrt = he is revered" }
 WordHunterWoW_Dictionary_DE["verehrte"] = { word = "verehrte", translation = "honored", note = "from verehren (to honor); treated with great esteem and respect" }
@@ -104307,6 +104305,66 @@ WordHunterWoW_Dictionary_DE["üppiges"] = { word = "üppiges", translation = "su
 WordHunterWoW_Dictionary_DE["üppigsten"] = { word = "üppigsten", translation = "most lush", note = "" }
 WordHunterWoW_Dictionary_DE["ür"] = { word = "ür", translation = "for", note = "fragment of 'für'; context suggests text corruption" }
 WordHunterWoW_Dictionary_DE["ürd"] = { word = "ürd", translation = "urd", note = "" }
+WordHunterWoW_Dictionary_DE["froheren"] = { word = "froheren", translation = "happier; more joyful; glad", note = "inflected form of froh (glad, happy) (in froheren Zeiten = in happier times)" }
+WordHunterWoW_Dictionary_DE["verehre"] = { word = "verehre", translation = "worship; revere; honor", note = "ich form and imperative of verehren (to revere): ich verehre Euch = I revere you" }
+WordHunterWoW_Dictionary_DE["amanigebiet"] = { word = "Amanigebiet", translation = "Amani territory; Amani lands", note = "das Amanigebiet = Amani territory (Zul'Aman, troll lands)" }
+WordHunterWoW_Dictionary_DE["amanipass"] = { word = "Amanipass", translation = "Amani Pass", note = "der Amanipass = Amani Pass (mountain pass in Zul'Aman); Amani + Pass" }
+WordHunterWoW_Dictionary_DE["amanispass"] = { word = "Amanispass", translation = "Amani Pass; Amani's pass", note = "alternate form of Amanipass (Amani Pass)" }
+WordHunterWoW_Dictionary_DE["aqirschwarm"] = { word = "Aqirschwarm", translation = "Aqir Swarm", note = "der Aqirschwarm = Aqir Swarm (insectoid swarm); Aqir + Schwarm swarm" }
+WordHunterWoW_Dictionary_DE["aufsteigenden"] = { word = "aufsteigenden", translation = "ascending; rising", note = "aufsteigend inflected: ascending, rising (aufsteigenden Giftsteinen = ascending venomstones)" }
+WordHunterWoW_Dictionary_DE["durchzulass'n"] = { word = "durchzulass'n", translation = "to let through; to let pass", note = "dialect for durchzulassen: durchlassen = let through, let pass (Euch durchzulass'n = to let you through)" }
+WordHunterWoW_Dictionary_DE["entfesslung"] = { word = "Entfesslung", translation = "unbinding; unleashing", note = "die Entfesslung = unbinding, unleashing (Die Entfesslung von Kith'ix = The Unbinding of Kith'ix)" }
+WordHunterWoW_Dictionary_DE["faulblattwaffeln"] = { word = "Faulblattwaffeln", translation = "Rotleaf Wafers", note = "Faulblattwaffeln = Rotleaf Wafers (Hallow's End candy); Faulblatt rotleaf + Waffeln wafers" }
+WordHunterWoW_Dictionary_DE["faulblätter"] = { word = "Faulblätter", translation = "rotleaves; Rotleaf", note = "plural of Faulblatt: rotleaf (rotted leaves that become Rotleaf Wafers)" }
+WordHunterWoW_Dictionary_DE["flockigen"] = { word = "flockigen", translation = "flaky; fluffy", note = "flockig inflected: flaky, fluffy (flockigen Blättern = flaky leaves)" }
+WordHunterWoW_Dictionary_DE["giftsteinen"] = { word = "Giftsteinen", translation = "Venomstones; venomstones", note = "dative plural of Giftstein: Venomstone (Zul'Aman) (Aufstieg mit Giftsteinen = Ascending with Venomstones)" }
+WordHunterWoW_Dictionary_DE["hab'"] = { word = "hab'", translation = "have; I have", note = "dialect/colloquial for habe: ich hab' = I have (ich hab' gehört = I've heard)" }
+WordHunterWoW_Dictionary_DE["heldengruppe"] = { word = "Heldengruppe", translation = "party of heroes; hero group", note = "die Heldengruppe = party of heroes, hero group; Held hero + Gruppe group" }
+WordHunterWoW_Dictionary_DE["höhlentürme"] = { word = "Höhlentürme", translation = "Cave Towers; cave towers", note = "plural of Höhlenturm: cave towers (The Cave Towers, Zul'Aman); Höhle cave + Turm tower" }
+WordHunterWoW_Dictionary_DE["is'"] = { word = "is'", translation = "is", note = "dialect/colloquial for ist: is' = is (würdig is' = is worthy)" }
+WordHunterWoW_Dictionary_DE["jahrhundertealten"] = { word = "jahrhundertealten", translation = "centuries-old; ancient", note = "jahrhundertealt inflected: centuries-old, ancient (einer jahrhundertealten Gruft = a centuries-old crypt)" }
+WordHunterWoW_Dictionary_DE["kampfesdurst"] = { word = "Kampfesdurst", translation = "thirst for battle; bloodlust", note = "der Kampfesdurst = thirst for battle, bloodlust (Kindo'jans Kampfesdurst stillen = quench Kindo'jan's thirst for battle)" }
+WordHunterWoW_Dictionary_DE["karamell"] = { word = "Karamell", translation = "caramel", note = "das Karamell = caramel (Seuchenkernkaramell = Blighted Core Caramels)" }
+WordHunterWoW_Dictionary_DE["kindo'jan"] = { word = "Kindo'jan", translation = "Kindo'jan", note = "proper name; Kindo'jan, the First Hash'ey (Zul'Aman troll hero)" }
+WordHunterWoW_Dictionary_DE["kindo'jans"] = { word = "Kindo'jans", translation = "Kindo'jan's", note = "genitive of Kindo'jan: Kindo'jan's" }
+WordHunterWoW_Dictionary_DE["kith'ix'"] = { word = "Kith'ix'", translation = "Kith'ix's", note = "genitive of Kith'ix (Aqir/Qiraji entity): Kith'ix's" }
+WordHunterWoW_Dictionary_DE["knackigen"] = { word = "knackigen", translation = "crisp; crunchy", note = "knackig inflected: crisp, crunchy (einer knackigen Leckerei = a crisp treat)" }
+WordHunterWoW_Dictionary_DE["lakritz"] = { word = "Lakritz", translation = "licorice", note = "das/der Lakritz = licorice (Lakritz aus verdrehten Ranken = Twisted Vine Licorice)" }
+WordHunterWoW_Dictionary_DE["luchsloas"] = { word = "Luchsloas", translation = "lynx loa; the lynx loa", note = "genitive of Luchsloa: lynx loa (Halazzi, the Lynx Loa)" }
+WordHunterWoW_Dictionary_DE["nich'"] = { word = "nich'", translation = "not", note = "dialect/colloquial for nicht: nich' = not (nich' freigiebig = not generously)" }
+WordHunterWoW_Dictionary_DE["seuchenblüten"] = { word = "Seuchenblüten", translation = "blightblooms; Blighted Blooms", note = "plural of Seuchenblüte: blight blooms (plants that turn decay into sugar)" }
+WordHunterWoW_Dictionary_DE["seuchenblütenbonbons"] = { word = "Seuchenblütenbonbons", translation = "Blighted Bloom Bites", note = "Seuchenblütenbonbons = Blighted Bloom Bites (Hallow's End candy); Seuchenblüte blightbloom + Bonbons candies" }
+WordHunterWoW_Dictionary_DE["seuchenkernkaramell"] = { word = "Seuchenkernkaramell", translation = "Blighted Core Caramels", note = "Seuchenkernkaramell = Blighted Core Caramels (Hallow's End candy); Seuche blight + Kern core + Karamell caramel" }
+WordHunterWoW_Dictionary_DE["sin'"] = { word = "sin'", translation = "are", note = "dialect/colloquial for sind: sin' = are" }
+WordHunterWoW_Dictionary_DE["süssigkeitentausch"] = { word = "Süßigkeitentausch", translation = "Candy Exchange", note = "der Süßigkeitentausch = Candy Exchange (Hallow's End); Süßigkeiten candy + Tausch exchange" }
+WordHunterWoW_Dictionary_DE["teichufern"] = { word = "Teichufern", translation = "pond banks; pond shores", note = "dative plural of Teichufer: pond banks, pond shores; Teich pond + Ufer shore" }
+WordHunterWoW_Dictionary_DE["teufelswurzknuspereien"] = { word = "Teufelswurzknuspereien", translation = "Felroot Crunch", note = "Teufelswurzknuspereien = Felroot Crunch (Hallow's End candy); Teufelswurz felroot + Knuspereien crunchy treats" }
+WordHunterWoW_Dictionary_DE["ungehörte"] = { word = "ungehörte", translation = "unheard", note = "ungehört inflected: unheard (Die ungehörte Stimme = The Unheard Voice)" }
+WordHunterWoW_Dictionary_DE["verheilte"] = { word = "verheilte", translation = "healed; healed over", note = "verheilen = heal over; verheilte = healed (schlecht verheilte Narben = badly healed scars)" }
+WordHunterWoW_Dictionary_DE["zuckerrüben"] = { word = "Zuckerrüben", translation = "sugar beets", note = "plural of Zuckerrübe: sugar beets" }
+WordHunterWoW_Dictionary_DE["dunkelläuferin"] = { word = "Dunkelläuferin", translation = "dark runner; Duskrunner", note = "female form of Dunkelläufer (title/name element); dunkel dark + Läuferin runner" }
+WordHunterWoW_Dictionary_DE["beutestücke"] = { word = "Beutestücke", translation = "loot items; spoils; pieces of loot", note = "plural of Beutestück: spoils, loot items" }
+WordHunterWoW_Dictionary_DE["turnierwaffe"] = { word = "Turnierwaffe", translation = "tournament weapon", note = "die Turnierwaffe = tournament weapon; Turnier tournament + Waffe weapon" }
+WordHunterWoW_Dictionary_DE["befehlstafel"] = { word = "Befehlstafel", translation = "command board; Command Board", note = "die Befehlstafel = command board (quest board of the Class Hall); Befehl command + Tafel board" }
+WordHunterWoW_Dictionary_DE["heldenruftafel"] = { word = "Heldenruftafel", translation = "Hero's Call Board", note = "die Heldenruftafel = Hero's Call Board (quest board); Heldenruf hero's call + Tafel board" }
+WordHunterWoW_Dictionary_DE["schattenläufer"] = { word = "Schattenläufer", translation = "shadow walker; shadowrunner", note = "der Schattenläufer = shadow walker, shadowrunner; Schatten shadow + Läufer runner" }
+WordHunterWoW_Dictionary_DE["chefchirurgin"] = { word = "Chefchirurgin", translation = "chief surgeon", note = "die Chefchirurgin = chief surgeon (female); Chef chief + Chirurgin surgeon" }
+WordHunterWoW_Dictionary_DE["feuerobjekt"] = { word = "Feuerobjekt", translation = "fire object", note = "das Feuerobjekt = fire object; Feuer fire + Objekt object" }
+WordHunterWoW_Dictionary_DE["un'"] = { word = "un'", translation = "and", note = "dialect/colloquial for und: un' = and" }
+WordHunterWoW_Dictionary_DE["jetz'"] = { word = "jetz'", translation = "now", note = "dialect/colloquial for jetzt: jetz' = now" }
+WordHunterWoW_Dictionary_DE["könn'"] = { word = "könn'", translation = "can; could", note = "dialect/colloquial for können/könnte: könn' = can, could" }
+WordHunterWoW_Dictionary_DE["könnt'"] = { word = "könnt'", translation = "could; can", note = "dialect/colloquial for könnt/könnte: könnt' = could, can" }
+WordHunterWoW_Dictionary_DE["konnt'"] = { word = "konnt'", translation = "could", note = "dialect/colloquial for konnte: konnt' = could" }
+WordHunterWoW_Dictionary_DE["werd'"] = { word = "werd'", translation = "will; shall", note = "dialect/colloquial for werde: ich werd' = I will" }
+WordHunterWoW_Dictionary_DE["würd'"] = { word = "würd'", translation = "would", note = "dialect/colloquial for würde: ich würd' = I would" }
+WordHunterWoW_Dictionary_DE["glaub'"] = { word = "glaub'", translation = "believe; think", note = "dialect/colloquial for glaube: ich glaub' = I believe, I think" }
+WordHunterWoW_Dictionary_DE["brauch'"] = { word = "brauch'", translation = "need", note = "dialect/colloquial for brauche: ich brauch' = I need" }
+WordHunterWoW_Dictionary_DE["denk'"] = { word = "denk'", translation = "think", note = "dialect/colloquial for denke: ich denk' = I think" }
+WordHunterWoW_Dictionary_DE["wünsch'"] = { word = "wünsch'", translation = "wish", note = "dialect/colloquial for wünsche: ich wünsch' = I wish" }
+WordHunterWoW_Dictionary_DE["zusamm'"] = { word = "zusamm'", translation = "together", note = "dialect/colloquial for zusammen: zusamm' = together" }
+WordHunterWoW_Dictionary_DE["belohn'"] = { word = "belohn'", translation = "reward", note = "dialect/colloquial for belohne: ich belohn' = I reward" }
+WordHunterWoW_Dictionary_DE["ma'"] = { word = "ma'", translation = "let us; once", note = "dialect/colloquial for mal (or machen wir): ma' = once, just; let us" }
+WordHunterWoW_Dictionary_DE["de'"] = { word = "de'", translation = "the", note = "dialect/colloquial for der/die/den: de' = the" }
 end)()
 
 -- Incremental public-corpus vocabulary; existing entries above remain byte-for-byte unchanged.
