@@ -109,6 +109,17 @@ local function importDictionary()
   if base and base.RegisterDictionaryProvider and type(WordHunterWoW_Dictionary_DE) == "table" then
     base.RegisterDictionaryProvider("deDE", addonName, WordHunterWoW_Dictionary_DE)
   end
+  -- Which English words quest translators used for each German one, so the
+  -- reader can light the right English word when a German one is hovered. A
+  -- base addon from before RegisterAlignmentLexicon goes on without it.
+  if base and base.RegisterAlignmentLexicon and type(WordHunterWoW_Alignment_DE) == "table" then
+    base.RegisterAlignmentLexicon("deDE", addonName, WordHunterWoW_Alignment_DE)
+  end
+  -- For the quest sentences the pack knows, the English words a language model
+  -- paired with German words the two above leave unlit.
+  if base and base.RegisterSentenceLinks and type(WordHunterWoW_SentenceLinks_DE) == "table" then
+    base.RegisterSentenceLinks("deDE", addonName, WordHunterWoW_SentenceLinks_DE)
+  end
 end
 
 local events = CreateFrame("Frame")
