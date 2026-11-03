@@ -14233,7 +14233,7 @@ WordHunterWoW_Dictionary_DE["buchstaben"] = { word = "Buchstaben", translation =
 WordHunterWoW_Dictionary_DE["buchstabens"] = { word = "Buchstabens", translation = "letter's", note = "genitive form of Buchstabe; literally “of the letter”" }
 WordHunterWoW_Dictionary_DE["buchstäblich"] = { word = "buchstäblich", translation = "literally", note = "from Buchstabe (letter); letter-for-letter" }
 WordHunterWoW_Dictionary_DE["buchstäblicher"] = { word = "buchstäblicher", translation = "literally", note = "" }
-WordHunterWoW_Dictionary_DE["bucht"] = { word = "Bucht", translation = "bay", note = "a bay or coastal inlet; geographical feature on shoreline" }
+WordHunterWoW_Dictionary_DE["bucht"] = { word = "Bucht", translation = "book; buy; bay; cove", note = "two words: the verb buchen (Bucht einen Greifenritt! = book/buy a gryphon ride; ihr bucht = you book) and the noun die Bucht (bay, cove, coastal inlet)" }
 WordHunterWoW_Dictionary_DE["buchte"] = { word = "buchte", translation = "booked", note = "past tense of buchen, to reserve or book" }
 WordHunterWoW_Dictionary_DE["buchten"] = { word = "Buchten", translation = "bays", note = "plural of bucht (bay); coastal inlets or small harbors" }
 WordHunterWoW_Dictionary_DE["buchumschlag"] = { word = "Buchumschlag", translation = "book cover", note = "compound: Buch (book) + Umschlag (cover)" }
@@ -73254,7 +73254,7 @@ WordHunterWoW_Dictionary_DE["schlafwächter"] = { word = "Schlafwächter", trans
 WordHunterWoW_Dictionary_DE["schlag"] = { word = "Schlag", translation = "blow", note = "blow, strike, hit; also means type/kind (Schlag Kaffee = type of coffee)" }
 WordHunterWoW_Dictionary_DE["schlag'n"] = { word = "schlag'n", translation = "hit", note = "dialect/colloquial: schlagen (to hit/strike); with poison mentioned, clearly means hit/strike" }
 WordHunterWoW_Dictionary_DE["schlagartig"] = { word = "schlagartig", translation = "suddenly; abruptly", note = "from Schlag (blow); -artig = 'of the nature of'" }
-WordHunterWoW_Dictionary_DE["schlage"] = { word = "schlage", translation = "hit; strike; beat; blow", note = "1st person subjunctive or 2nd person imperative; 'ich schlage' or 'schlage!' depending on tense; split verb: schlage ... vor = suggest (vorschlage)" }
+WordHunterWoW_Dictionary_DE["schlage"] = { word = "schlage", translation = "suggest; propose; hit; strike; beat", note = "1st person singular of schlagen; split verb: ich schlage ... vor = I suggest (vorschlage, of vorschlagen); alone: ich schlage = I hit/strike/beat; schlage! = hit!" }
 WordHunterWoW_Dictionary_DE["schlagen"] = { word = "schlagen", translation = "hit; strike", note = "'schlagen gegen' (hit against) governs accusative; separable sch-lagen" }
 WordHunterWoW_Dictionary_DE["schlagende"] = { word = "schlagende", translation = "beating; still-beating; striking", note = "inflected form of schlagend (present participle of schlagen = beat, strike): ein noch schlagendes Herz = a still-beating heart; ein schlagender Beweis = striking proof" }
 WordHunterWoW_Dictionary_DE["schlagenden"] = { word = "schlagenden", translation = "beating; striking", note = "present participle" }
