@@ -18,7 +18,7 @@ Click a recorded word and hear it said. **122,049 recordings** now use the appro
 
 Nine nonlexical entries remain excluded from audio generation. The 145 previously withheld word paths are now included. Dictionary translations and quest narration are unchanged.
 
-**51 recordings remain flagged for listening review**: 39 unusually short and 12 unusually long; one long clip also reached the token limit. These are heuristic flags, not confirmed pronunciation errors. The owner approved the sound of the generated set, but the entire pronunciation corpus has not received a full human audit. See `verification/audio/fish-s2-pro-2026-10-13/` for the current inventory, settings and verification report. Earlier audit folders describe the superseded Voxtral recordings.
+**2,187 recordings were re-spoken on 2026-11-06** because they were cut off at the end or almost silent (for example "das", "den", "dem", "Feinde"); they were found by measuring how loud each clip is at its last 20 ms, not by listening. Ten flagged clips stayed as they were because no candidate was better. The owner approved the sound of the generated set, but the entire pronunciation corpus has not received a full human audit. See `verification/audio/fish-s2-pro-word-fixes-2026-11-06/` for the repair report and `verification/audio/fish-s2-pro-2026-10-13/` for the inventory (updated to the new hashes) and settings. Earlier audit folders describe the superseded Voxtral recordings.
 
 The reader is included in this addon, so no separate voice engine is needed.
 
