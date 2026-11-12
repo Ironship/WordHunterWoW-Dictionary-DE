@@ -1,0 +1,15 @@
+## Interface: 16001
+## Title: Forever quests (4/4)
+## Notes: German Dictionary data, loaded automatically when needed. Keep enabled.
+## IconTexture: Interface\AddOns\WordHunterWoW-Dictionary-DE\icon
+## Group: WordHunterWoW-Dictionary-DE
+## Category: QuestWordHunter
+## X-Curse-Project-ID: 1670281
+## Author: Ironship
+## Version: 2.0.4-alpha.4
+## Dependencies: WordHunterWoW-Dictionary-DE
+## LoadOnDemand: 1
+
+..\WordHunterWoW-Dictionary-DE\QuestData\References\forever\enUS_018.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\forever\enUS_019.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\forever\enUS_020.lua

@@ -26,6 +26,10 @@ move-folders:
   WordHunterWoW-Dictionary-DE/LoadOnDemand/Quests-retail-7: WordHunterWoW-Dictionary-DE-Quests-retail-7
   WordHunterWoW-Dictionary-DE/LoadOnDemand/Quests-retail-8: WordHunterWoW-Dictionary-DE-Quests-retail-8
   WordHunterWoW-Dictionary-DE/LoadOnDemand/Quests-retail-9: WordHunterWoW-Dictionary-DE-Quests-retail-9
+  WordHunterWoW-Dictionary-DE/LoadOnDemand/Quests-forever-0: WordHunterWoW-Dictionary-DE-Quests-forever-0
+  WordHunterWoW-Dictionary-DE/LoadOnDemand/Quests-forever-7: WordHunterWoW-Dictionary-DE-Quests-forever-7
+  WordHunterWoW-Dictionary-DE/LoadOnDemand/Quests-forever-8: WordHunterWoW-Dictionary-DE-Quests-forever-8
+  WordHunterWoW-Dictionary-DE/LoadOnDemand/Quests-forever-9: WordHunterWoW-Dictionary-DE-Quests-forever-9
   WordHunterWoW-Dictionary-DE/LoadOnDemand/Entities: WordHunterWoW-Dictionary-DE-Entities
 
 ignore:

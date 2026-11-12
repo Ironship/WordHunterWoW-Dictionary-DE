@@ -16,5 +16,9 @@ WordHunterWoW_Dictionary_DataModules = {
   { name = "WordHunterWoW-Dictionary-DE-Quests-retail-7", kind = "quest", source = "multilanguage-retail", first = 70047, last = 80315 },
   { name = "WordHunterWoW-Dictionary-DE-Quests-retail-8", kind = "quest", source = "multilanguage-retail", first = 80203, last = 90862 },
   { name = "WordHunterWoW-Dictionary-DE-Quests-retail-9", kind = "quest", source = "multilanguage-retail", first = 90110, last = 94932 },
+  { name = "WordHunterWoW-Dictionary-DE-Quests-forever-0", kind = "quest", source = "multilanguage-forever", first = 2, last = 92703 },
+  { name = "WordHunterWoW-Dictionary-DE-Quests-forever-7", kind = "quest", source = "multilanguage-forever", first = 79094, last = 82016 },
+  { name = "WordHunterWoW-Dictionary-DE-Quests-forever-8", kind = "quest", source = "multilanguage-forever", first = 82017, last = 90627 },
+  { name = "WordHunterWoW-Dictionary-DE-Quests-forever-9", kind = "quest", source = "multilanguage-forever", first = 92706, last = 99048 },
   { name = "WordHunterWoW-Dictionary-DE-Entities", kind = "entity" },
 }

@@ -1,0 +1,48 @@
+## Interface: 16001
+## Title: Forever quests (1/4)
+## Notes: German Dictionary data, loaded automatically when needed. Keep enabled.
+## IconTexture: Interface\AddOns\WordHunterWoW-Dictionary-DE\icon
+## Group: WordHunterWoW-Dictionary-DE
+## Category: QuestWordHunter
+## X-Curse-Project-ID: 1670281
+## Author: Ironship
+## Version: 2.0.4-alpha.4
+## Dependencies: WordHunterWoW-Dictionary-DE
+## LoadOnDemand: 1
+
+..\WordHunterWoW-Dictionary-DE\QuestData\References\forever\deDE_000.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\forever\deDE_001.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\forever\deDE_002.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\forever\deDE_003.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\forever\deDE_004.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\forever\deDE_005.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\forever\deDE_006.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\forever\deDE_007.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\forever\deDE_008.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\forever\deDE_009.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\forever\deDE_010.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\forever\deDE_011.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\forever\deDE_012.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\forever\deDE_013.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\forever\deDE_014.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\forever\deDE_015.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\forever\deDE_016.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\forever\deDE_017.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\forever\enUS_000.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\forever\enUS_001.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\forever\enUS_002.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\forever\enUS_003.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\forever\enUS_004.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\forever\enUS_005.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\forever\enUS_006.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\forever\enUS_007.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\forever\enUS_008.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\forever\enUS_009.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\forever\enUS_010.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\forever\enUS_011.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\forever\enUS_012.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\forever\enUS_013.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\forever\enUS_014.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\forever\enUS_015.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\forever\enUS_016.lua
+..\WordHunterWoW-Dictionary-DE\QuestData\References\forever\enUS_017.lua
