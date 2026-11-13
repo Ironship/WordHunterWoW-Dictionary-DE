@@ -20,6 +20,8 @@ Nine nonlexical entries remain excluded from audio generation. The 145 previousl
 
 **2,187 recordings were re-spoken on 2026-11-06** because they were cut off at the end or almost silent (for example "das", "den", "dem", "Feinde"); they were found by measuring how loud each clip is at its last 20 ms, not by listening. Ten flagged clips stayed as they were because no candidate was better. The owner approved the sound of the generated set, but the entire pronunciation corpus has not received a full human audit. See `verification/audio/fish-s2-pro-word-fixes-2026-11-06/` for the repair report and `verification/audio/fish-s2-pro-2026-10-13/` for the inventory (updated to the new hashes) and settings. Earlier audit folders describe the superseded Voxtral recordings.
 
+**403 words were added on 2026-11-13** (268 ordinary words and 135 names) from German quest texts that were in the package or seen in game but had no entry. Each has a recording made the same way (same model, voice and settings). The glosses are machine-written from the sentences the words appear in and have not been reviewed by hand, and the new recordings passed only the technical checks (decoding, format, SHA256), not a listen. See `verification/audio/fish-s2-pro-2026-10-13/inventory.jsonl`.
+
 The reader is included in this addon, so no separate voice engine is needed.
 
 If you have the older separate downloads, remove them: the *German Voiceover*
