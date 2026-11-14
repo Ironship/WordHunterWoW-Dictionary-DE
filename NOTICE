@@ -101,3 +101,15 @@ The software's GPL license does not replace the audio or model terms.
 The complete inventory and technical checks are retained in verification/audio.
 Technical verification does not certify pronunciation: 51 clips carry review
 flags. Historical Voxtral audit reports do not describe this replacement set.
+
+German word additions, 14 November 2026:
+
+6,728 further single German words were added, each with an English gloss and an explanatory note written
+for this project. They were read from the German quest, gossip and place texts in this package's QuestData
+and EntityData (which come from MultiLanguage, used under the permission described above), from the Questie
+localisation (GNU General Public License version 3), from Spoken
+(https://github.com/rusty-key/spoken-wow, MIT licence, (c) 2026 Rusty Key; its THIRD_PARTY.md says that part
+of its Forever data is from Efficient Games, https://efficient.games, CC BY 4.0), and from quest text the
+owner harvested in game. As above, what ships is a list of single words, not the text they were read from.
+Item, spell and NPC names use the English name from EntityData. The recordings were made the same way as in
+the 13 October 2026 entry above.

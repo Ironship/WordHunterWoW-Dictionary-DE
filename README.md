@@ -22,6 +22,8 @@ Nine nonlexical entries remain excluded from audio generation. The 145 previousl
 
 **403 words were added on 2026-11-13** (268 ordinary words and 135 names) from German quest texts that were in the package or seen in game but had no entry. Each has a recording made the same way (same model, voice and settings). The glosses are machine-written from the sentences the words appear in and have not been reviewed by hand, and the new recordings passed only the technical checks (decoding, format, SHA256), not a listen. See `verification/audio/fish-s2-pro-2026-10-13/inventory.jsonl`.
 
+**6,728 words were added on 2026-11-14** (5,419 ordinary words and 1,309 names) from the German quest, gossip and place texts in the package, MultiLanguage, Spoken and Questie, and from the quest words harvested in game. Only single words were taken; no sentence is shipped. The names of items, spells and NPCs use the official English name from the game data, matched by id; the other glosses are machine translations (Google) corrected by rules, and about 23 of them by hand, and compounds and inflected forms say so in the note. The glosses have not been reviewed word by word, and the new recordings passed only the technical checks (decoding, format, SHA256), not a listen. A further 3,187 candidates were left out because they have no recording yet. Same model, voice and settings as above; see `verification/audio/fish-s2-pro-2026-10-13/inventory.jsonl`.
+
 The reader is included in this addon, so no separate voice engine is needed.
 
 If you have the older separate downloads, remove them: the *German Voiceover*
