@@ -113,3 +113,12 @@ of its Forever data is from Efficient Games, https://efficient.games, CC BY 4.0)
 owner harvested in game. As above, what ships is a list of single words, not the text they were read from.
 Item, spell and NPC names use the English name from EntityData. The recordings were made the same way as in
 the 13 October 2026 entry above.
+
+German word additions, 17 November 2026:
+
+7,008 further single German words were added, each with an English gloss. Some were read from the same
+sources as the entry above (candidates that had no recording yet). The others were read from the German
+text of the retail client's data tables as published by wago.tools (https://wago.tools): spell and aura
+descriptions, item descriptions, NPC speech, quest objectives and achievement descriptions. As above, what
+ships is a list of single words, not the text they were read from. The recordings were made the same way
+as in the 13 October 2026 entry above.
